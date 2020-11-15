@@ -18,5 +18,5 @@ If you want to add support for a new language, [send me an email](mailto:jfgeyel
 * [Meme-nglish](/translations/meme.po) (97% complete; 3 remaining)
 * [Polish](/translations/pl.po) (100% complete! 🎉)
 * [Portuguese](/translations/pt.po) (95% complete; 6 remaining)
-* [Russian](/translations/ru.po) (99% complete; 1 remaining)
-> Report generated on Nov 15 2020 05:29:43 UTC
+* [Russian](/translations/ru.po) (100% complete! 🎉)
+> Report generated on Nov 15 2020 13:57:40 UTC
