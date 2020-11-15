@@ -40,8 +40,10 @@ with open(readme_file, 'w') as f:
     f.write("# ppl-i18n\n")
     f.write("\n")
     f.write(
-        "This repository contains the translated strings for the game [PewPew Live](https://pewpew.live)\n")
+        "This repository contains the translated strings for the game [PewPew Live](https://pewpew.live).\n")
+    f.write("\n")
     f.write("Please only contribute for languages that you are fluent in; no automatic translation.\n")
+    f.write("\n")
     f.write("Thanks!\n")
     f.write("## Status\n")
     for lang in langs:
