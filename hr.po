@@ -1,0 +1,528 @@
+# ui_helpers.cpp
+msgid "off"
+msgstr "isklj."
+
+# ui_helpers.cpp
+msgid "on"
+msgstr "uklj."
+
+# keyboard_view.cpp
+msgid "ok"
+msgstr "u redu"
+
+# game.cpp
+msgid "Quick pause"
+msgstr "Brza pauza"
+
+# game.cpp
+msgid "Quick pause %s"
+msgstr "Brza pauza %s"
+
+# pause_ui.cpp
+msgid "Continue"
+msgstr "Nastavi"
+
+# pause_ui.cpp
+msgid "Exit"
+msgstr "Izlaz"
+
+# pause_ui.cpp
+msgid "Pause"
+msgstr "Pauza"
+
+# pause_ui.cpp
+msgid "Restart"
+msgstr "Restartiraj"
+
+# game_over_ui.cpp
+msgid "Game Over"
+msgstr "Igra je gotova"
+
+# game_over_ui.cpp
+msgid "Play again"
+msgstr "Igraj opet"
+
+# screen_lan_lobby.cpp
+msgid "Cancel"
+msgstr "Otkaži"
+
+# screen_lan_lobby.cpp
+msgid "Game is full"
+msgstr "Igra je puna"
+
+# screen_lan_lobby.cpp
+msgid "Local lobby"
+msgstr "Lokalna partija"
+
+# screen_lan_lobby.cpp
+msgid "Ready"
+msgstr "Spreman"
+
+# screen_lan_lobby.cpp
+msgid "Waiting for other players..."
+msgstr "Čekanje na druge igrače..."
+
+# screen_sign_in_confirmation.cpp
+msgid "Failed to sign-in!"
+msgstr "Prijava neuspješna!"
+
+# screen_sign_in_confirmation.cpp
+msgid "Sign-in confirmation"
+msgstr "Potvrda prijave"
+
+# screen_sign_in_confirmation.cpp
+msgid "Sign-in with \"%s\"?"
+msgstr "Prijavi se sa \"%s\"?"
+
+# screen_sign_in_confirmation.cpp
+msgid "Waiting for the server..."
+msgstr "Čekanje na server..."
+
+# screen_download_level.cpp
+msgid "Loading level..."
+msgstr "čitavanje levela..."
+
+# screen_specify_server_ip.cpp
+msgid "Connect"
+msgstr ""
+
+# screen_specify_server_ip.cpp
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Spoji se na sobu preko interneta #ff0000ff(eksperimentalno)"
+
+# screen_specify_server_ip.cpp
+msgid "Connect to server"
+msgstr "Spoji se na server"
+
+# screen_specify_server_ip.cpp
+msgid "IP:"
+msgstr "IP:"
+
+# screen_specify_server_ip.cpp
+msgid "Port:"
+msgstr "Port:"
+
+# screen_configure_touch_joystick.cpp
+msgid "Configure joysticks"
+msgstr "Konfiguriraj joystickove"
+
+# screen_configure_touch_joystick.cpp
+msgid "Reset"
+msgstr "Resetiraj"
+
+# screen_configure_touch_joystick.cpp
+msgid "Swap"
+msgstr "Zamijeni"
+
+# screen_select_custom_level.cpp
+msgid "Creator"
+msgstr "Kreator"
+
+# screen_select_custom_level.cpp
+msgid "Custom levels"
+msgstr "Prilagođeni leveli"
+
+# screen_select_custom_level.cpp
+msgid "Level name"
+msgstr "Ime levela"
+
+# screen_lan_create_or_join.cpp
+msgid "(Incompatible version)"
+msgstr "(Inkompatibilna verzija)"
+
+# screen_lan_create_or_join.cpp
+msgid "Close room"
+msgstr "Zatvori sobu"
+
+# screen_lan_create_or_join.cpp
+msgid "Connect to..."
+msgstr "Spoji se na..."
+
+# screen_lan_create_or_join.cpp
+msgid "Connecting to a phone's hotspot should work!"
+msgstr "Spajanje na mobilni hotspot bih trebalo raditi!"
+
+# screen_lan_create_or_join.cpp
+msgid "Create room"
+msgstr "Stvori sobu"
+
+# screen_lan_create_or_join.cpp
+msgid "Each player need to upload the replay separately to both appear in the online leader board."
+msgstr "Svaki igrač mora prijenijeti svoj rezultat zasebno kako bih oboje bili na online ljestvici rezultata."
+
+# screen_lan_create_or_join.cpp
+msgid "Help"
+msgstr "Pomoć"
+
+# screen_lan_create_or_join.cpp
+msgid "Local multiplayer"
+msgstr "Lokalno više igrača"
+
+# screen_lan_create_or_join.cpp
+msgid "Local multiplayer supports 2 players connected to the same wifi network."
+msgstr "Lokalno više igrača podržava 2 igrača spojena na istu wifi mrežu."
+
+# screen_lan_create_or_join.cpp
+msgid "Multiplayer help"
+msgstr "Pomoć za više igrača"
+
+# screen_lan_create_or_join.cpp
+msgid "One player must create a room, which the other player joins."
+msgstr "Jedan igrač mora stvoriti sobu, u koju drugi igrač može ući."
+
+# screen_lan_create_or_join.cpp
+msgid "The wifi network does not have to be connected to the internet."
+msgstr "Wifi mreža ne mora biti spojena na internet."
+
+# screen_configure_ship.cpp
+msgid "Bullets"
+msgstr "Metci"
+
+# screen_configure_ship.cpp
+msgid "Configure Ship"
+msgstr "Konfiguriraj brod"
+
+# screen_configure_ship.cpp
+msgid "Model"
+msgstr "Model"
+
+# screen_configure_ship.cpp
+msgid "Trail"
+msgstr "Trag"
+
+# screen_upload_scores.cpp
+msgid "Failed to upload replays."
+msgstr "Neuspjeli prijenos snimaka."
+
+# screen_upload_scores.cpp
+msgid "Nothing to upload!"
+msgstr "Nema ništa za prijenos!"
+
+# screen_upload_scores.cpp
+msgid "Upload scores"
+msgstr "Prenesi rezultate"
+
+# screen_upload_scores.cpp
+msgid "Upload successful"
+msgstr "Prijenos uspješan."
+
+# screen_upload_scores.cpp
+msgid "Uploading replay for %s."
+msgstr "Prijenos snimke za %s."
+
+# screen_configure_keyboard.cpp
+msgid "Configure keyboard"
+msgstr "Konfiguriraj tipkovnicu"
+
+# screen_configure_keyboard.cpp
+msgid "Mouse aim %s"
+msgstr "Ciljanje mišem %s"
+
+# screen_configure_keyboard.cpp
+msgid "Move"
+msgstr "Kretanje"
+
+# screen_configure_keyboard.cpp
+msgid "Shoot"
+msgstr "Pucanje"
+
+# screen_select_game_single_player.cpp
+msgid "Select level"
+msgstr "Odaberi level"
+
+# screen_settings_language.cpp
+msgid "Default language"
+msgstr "Zadani jezik"
+
+# screen_settings_language.cpp
+msgid "Language Settings"
+msgstr "Jezične postavke"
+
+# screen_view_high_scores.cpp
+msgid "1p"
+msgstr "1p"
+
+# screen_view_high_scores.cpp
+msgid "2p"
+msgstr "2p"
+
+# screen_view_high_scores.cpp
+msgid "3p"
+msgstr "3p"
+
+# screen_view_high_scores.cpp
+msgid "4p"
+msgstr "4p"
+
+# screen_view_high_scores.cpp
+msgid "personal"
+msgstr "osobno"
+
+# screen_view_high_scores.cpp
+msgid "region"
+msgstr "regija"
+
+# screen_view_high_scores.cpp
+msgid "world"
+msgstr "svijet"
+
+# screen_informations_translations.cpp
+msgid "Translations"
+msgstr "Prijevodi"
+
+# screen_benchmark.cpp
+msgid "Skip"
+msgstr "Preskoči"
+
+# screen_main_menu.cpp
+msgid "Local Multiplayer"
+msgstr "Lokalno više igrača"
+
+# screen_main_menu.cpp
+msgid "Play"
+msgstr "Igraj"
+
+# screen_main_menu.cpp
+msgid "Single Player"
+msgstr "Jedan igrač"
+
+# screen_tutorial.cpp
+msgid "Tutorial"
+msgstr "Tutorial"
+
+# screen_informations_music.cpp
+msgid "Music"
+msgstr "Glazba"
+
+# screen_server_connection_closed.cpp
+msgid "Connection error"
+msgstr "Greška u povezivanju"
+
+# screen_server_connection_closed.cpp
+msgid "Lost connection to server"
+msgstr "Izgubljena veza sa serverom"
+
+# screen_settings_audio.cpp
+msgid "Audio Settings"
+msgstr "Audio postavke"
+
+# screen_settings_audio.cpp
+msgid "Sound effects"
+msgstr "Zvučni efekti"
+
+# screen_select_custom_level_info.cpp
+msgid "Custom levels?!"
+msgstr "Prilagođeni leveli?!"
+
+# screen_select_custom_level_info.cpp
+msgid "More information"
+msgstr "Više informacija"
+
+# screen_select_custom_level_info.cpp
+msgid "Yes!"
+msgstr "Da!"
+
+# screen_select_custom_level_info.cpp
+msgid "You can finally code your own levels!"
+msgstr "Napokon možete kodirati svoje levele!"
+
+# screen_view_level.cpp
+msgid "Error reading manifest"
+msgstr "Greška čitanja manifesta"
+
+# screen_view_level.cpp
+msgid "Experimental level"
+msgstr "Eksperimentalni level"
+
+# screen_view_level.cpp
+msgid "Failed to download manifest"
+msgstr "Neuspjelo preuzimanje manifesta"
+
+# screen_view_level.cpp
+msgid "Loading..."
+msgstr "Učitavanje..."
+
+# screen_view_level.cpp
+msgid "Local best: %s"
+msgstr "Lokalni rekord: %s"
+
+# screen_view_level.cpp
+msgid "World record: %s"
+msgstr "Svjetski rekord: %s"
+
+# screen_settings_controls.cpp
+msgid "Controls Settings"
+msgstr "Postavke kontroli"
+
+# screen_settings_controls.cpp
+msgid "Keyboard"
+msgstr "Tipkovnica"
+
+# screen_settings_controls.cpp
+msgid "Touchscreen"
+msgstr "Ekran na dodir"
+
+# screen_informations.cpp
+msgid "Development videos"
+msgstr "Videi o razvoju igre"
+
+# screen_informations.cpp
+msgid "Discord server"
+msgstr "Discord server"
+
+# screen_informations.cpp
+msgid "by %s"
+msgstr "od %s"
+
+# screen_settings.cpp
+msgid "Audio"
+msgstr "Audio"
+
+# screen_settings.cpp
+msgid "Controls"
+msgstr "Kontrole"
+
+# screen_settings.cpp
+msgid "Developer mode"
+msgstr "Mod za razvijanje"
+
+# screen_settings.cpp
+msgid "Language"
+msgstr "Jezik"
+
+# screen_settings.cpp
+msgid "Launch intro"
+msgstr "Pokreni intro"
+
+# screen_settings.cpp
+msgid "Renderer: %s"
+msgstr "Renderer: %s"
+
+# screen_settings.cpp
+msgid "Settings"
+msgstr "Postavke"
+
+# screen_settings.cpp
+msgid "Sign-in"
+msgstr "Prijava"
+
+# screen_settings.cpp
+msgid "Start tutorial"
+msgstr "Pokreni tutorial"
+
+# screen_settings.cpp
+msgid "Vibration %s"
+msgstr "Vibracija %s"
+
+# game_hud.cpp
+msgid "Shield: %s"
+msgstr "Štit: %s"
+
+# game_network_message_parser.cpp
+msgid "%s left the game"
+msgstr "%s je izašao iz igre"
+
+# game_state.cpp
+msgid "Accuracy: %s"
+msgstr "Preciznost: %s"
+
+# game_state.cpp
+msgid "N/A"
+msgstr "N/A"
+
+# game_levels.cpp
+msgid "Choose your own difficulty"
+msgstr "Odaberi svoju težinu"
+
+# game_levels.cpp
+msgid "Dodge everything and you'll be OK"
+msgstr "Izbjegni sve i biti ćeš OK"
+
+# game_levels.cpp
+msgid "Euclidean space is overrated"
+msgstr "Euclideanov svemir je preuveličan"
+
+# game_levels.cpp
+msgid "Green good. Red bad."
+msgstr "Zeleno dobro. Crveno loše."
+
+# game_levels.cpp
+msgid "Just 32 seconds of skills"
+msgstr "Samo 32 sekunde vještine"
+
+# game_levels.cpp
+msgid "My favorite mode"
+msgstr "Moj omiljeni mod"
+
+# game_levels.cpp
+msgid "Never trust a six-sided polygon"
+msgstr "Nikad ne vjeruj šesterostranom poligonu"
+
+# game_levels.cpp
+msgid "Previously known as Assault"
+msgstr "Prije znan kao Assault"
+
+# game_levels.cpp
+msgid "RIP GW3:Dimensions"
+msgstr "Počivao u miru GW3:Dimensions"
+
+# game_levels.cpp
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Preživi 32 sekunde sa ovim jednostavnim trikom"
+
+# game_levels.cpp
+msgid "The background is expensive to compute"
+msgstr "Pozadina je skupa za izračunavanje"
+
+# game_levels.cpp
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "Nije povezano sa \"Super Hexagon\""
+
+# game_levels.cpp
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\"Ovaj level je šala, zar ne?\" - tester"
+
+# game_levels.cpp
+msgid "aka Dodge This"
+msgstr "ili Dodge This"
+
+# medals.cpp
+msgid "New bronze medal"
+msgstr "Nova brončana medalja"
+
+# medals.cpp
+msgid "New gold medal"
+msgstr "Nova zlatna medalja"
+
+# medals.cpp
+msgid "New silver medal"
+msgstr "Nova srebrna medalja"
+
+# renderer_types.cpp
+msgid "High"
+msgstr "Visoko"
+
+# renderer_types.cpp
+msgid "Low"
+msgstr "Nisko"
+
+# renderer_types.cpp
+msgid "Medium"
+msgstr "Srednje"
+
+# renderer_types.cpp
+msgid "Ultra low 16x"
+msgstr "Ultra nisko 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 32x"
+msgstr "Ultra nisko 32x"
+
+# renderer_types.cpp
+msgid "Ultra low 4x"
+msgstr "Ultra nisko 4x"
+
+# renderer_types.cpp
+msgid "Ultra low 8x"
+msgstr "Ultra nisko 8x"
+

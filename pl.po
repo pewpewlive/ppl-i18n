@@ -1,0 +1,528 @@
+# ui_helpers.cpp
+msgid "off"
+msgstr ""
+
+# ui_helpers.cpp
+msgid "on"
+msgstr ""
+
+# keyboard_view.cpp
+msgid "ok"
+msgstr ""
+
+# game.cpp
+msgid "Quick pause"
+msgstr ""
+
+# game.cpp
+msgid "Quick pause %s"
+msgstr ""
+
+# pause_ui.cpp
+msgid "Continue"
+msgstr ""
+
+# pause_ui.cpp
+msgid "Exit"
+msgstr ""
+
+# pause_ui.cpp
+msgid "Pause"
+msgstr ""
+
+# pause_ui.cpp
+msgid "Restart"
+msgstr ""
+
+# game_over_ui.cpp
+msgid "Game Over"
+msgstr ""
+
+# game_over_ui.cpp
+msgid "Play again"
+msgstr ""
+
+# screen_lan_lobby.cpp
+msgid "Cancel"
+msgstr ""
+
+# screen_lan_lobby.cpp
+msgid "Game is full"
+msgstr ""
+
+# screen_lan_lobby.cpp
+msgid "Local lobby"
+msgstr ""
+
+# screen_lan_lobby.cpp
+msgid "Ready"
+msgstr ""
+
+# screen_lan_lobby.cpp
+msgid "Waiting for other players..."
+msgstr ""
+
+# screen_sign_in_confirmation.cpp
+msgid "Failed to sign-in!"
+msgstr ""
+
+# screen_sign_in_confirmation.cpp
+msgid "Sign-in confirmation"
+msgstr ""
+
+# screen_sign_in_confirmation.cpp
+msgid "Sign-in with \"%s\"?"
+msgstr ""
+
+# screen_sign_in_confirmation.cpp
+msgid "Waiting for the server..."
+msgstr ""
+
+# screen_download_level.cpp
+msgid "Loading level..."
+msgstr ""
+
+# screen_specify_server_ip.cpp
+msgid "Connect"
+msgstr ""
+
+# screen_specify_server_ip.cpp
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr ""
+
+# screen_specify_server_ip.cpp
+msgid "Connect to server"
+msgstr ""
+
+# screen_specify_server_ip.cpp
+msgid "IP:"
+msgstr ""
+
+# screen_specify_server_ip.cpp
+msgid "Port:"
+msgstr ""
+
+# screen_configure_touch_joystick.cpp
+msgid "Configure joysticks"
+msgstr ""
+
+# screen_configure_touch_joystick.cpp
+msgid "Reset"
+msgstr ""
+
+# screen_configure_touch_joystick.cpp
+msgid "Swap"
+msgstr ""
+
+# screen_select_custom_level.cpp
+msgid "Creator"
+msgstr ""
+
+# screen_select_custom_level.cpp
+msgid "Custom levels"
+msgstr ""
+
+# screen_select_custom_level.cpp
+msgid "Level name"
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "(Incompatible version)"
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "Close room"
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "Connect to..."
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "Connecting to a phone's hotspot should work!"
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "Create room"
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "Each player need to upload the replay separately to both appear in the online leader board."
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "Help"
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "Local multiplayer"
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "Local multiplayer supports 2 players connected to the same wifi network."
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "Multiplayer help"
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "One player must create a room, which the other player joins."
+msgstr ""
+
+# screen_lan_create_or_join.cpp
+msgid "The wifi network does not have to be connected to the internet."
+msgstr ""
+
+# screen_configure_ship.cpp
+msgid "Bullets"
+msgstr ""
+
+# screen_configure_ship.cpp
+msgid "Configure Ship"
+msgstr ""
+
+# screen_configure_ship.cpp
+msgid "Model"
+msgstr ""
+
+# screen_configure_ship.cpp
+msgid "Trail"
+msgstr ""
+
+# screen_upload_scores.cpp
+msgid "Failed to upload replays."
+msgstr ""
+
+# screen_upload_scores.cpp
+msgid "Nothing to upload!"
+msgstr ""
+
+# screen_upload_scores.cpp
+msgid "Upload scores"
+msgstr ""
+
+# screen_upload_scores.cpp
+msgid "Upload successful"
+msgstr ""
+
+# screen_upload_scores.cpp
+msgid "Uploading replay for %s."
+msgstr ""
+
+# screen_configure_keyboard.cpp
+msgid "Configure keyboard"
+msgstr ""
+
+# screen_configure_keyboard.cpp
+msgid "Mouse aim %s"
+msgstr ""
+
+# screen_configure_keyboard.cpp
+msgid "Move"
+msgstr ""
+
+# screen_configure_keyboard.cpp
+msgid "Shoot"
+msgstr ""
+
+# screen_select_game_single_player.cpp
+msgid "Select level"
+msgstr ""
+
+# screen_settings_language.cpp
+msgid "Default language"
+msgstr ""
+
+# screen_settings_language.cpp
+msgid "Language Settings"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "1p"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "2p"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "3p"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "4p"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "personal"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "region"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "world"
+msgstr ""
+
+# screen_informations_translations.cpp
+msgid "Translations"
+msgstr ""
+
+# screen_benchmark.cpp
+msgid "Skip"
+msgstr ""
+
+# screen_main_menu.cpp
+msgid "Local Multiplayer"
+msgstr ""
+
+# screen_main_menu.cpp
+msgid "Play"
+msgstr ""
+
+# screen_main_menu.cpp
+msgid "Single Player"
+msgstr ""
+
+# screen_tutorial.cpp
+msgid "Tutorial"
+msgstr ""
+
+# screen_informations_music.cpp
+msgid "Music"
+msgstr ""
+
+# screen_server_connection_closed.cpp
+msgid "Connection error"
+msgstr ""
+
+# screen_server_connection_closed.cpp
+msgid "Lost connection to server"
+msgstr ""
+
+# screen_settings_audio.cpp
+msgid "Audio Settings"
+msgstr ""
+
+# screen_settings_audio.cpp
+msgid "Sound effects"
+msgstr ""
+
+# screen_select_custom_level_info.cpp
+msgid "Custom levels?!"
+msgstr ""
+
+# screen_select_custom_level_info.cpp
+msgid "More information"
+msgstr ""
+
+# screen_select_custom_level_info.cpp
+msgid "Yes!"
+msgstr ""
+
+# screen_select_custom_level_info.cpp
+msgid "You can finally code your own levels!"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "Error reading manifest"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "Experimental level"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "Failed to download manifest"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "Loading..."
+msgstr ""
+
+# screen_view_level.cpp
+msgid "Local best: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "World record: %s"
+msgstr ""
+
+# screen_settings_controls.cpp
+msgid "Controls Settings"
+msgstr ""
+
+# screen_settings_controls.cpp
+msgid "Keyboard"
+msgstr ""
+
+# screen_settings_controls.cpp
+msgid "Touchscreen"
+msgstr ""
+
+# screen_informations.cpp
+msgid "Development videos"
+msgstr ""
+
+# screen_informations.cpp
+msgid "Discord server"
+msgstr ""
+
+# screen_informations.cpp
+msgid "by %s"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Audio"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Controls"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Developer mode"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Language"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Launch intro"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Renderer: %s"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Settings"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Sign-in"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Start tutorial"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Vibration %s"
+msgstr ""
+
+# game_hud.cpp
+msgid "Shield: %s"
+msgstr ""
+
+# game_network_message_parser.cpp
+msgid "%s left the game"
+msgstr ""
+
+# game_state.cpp
+msgid "Accuracy: %s"
+msgstr ""
+
+# game_state.cpp
+msgid "N/A"
+msgstr ""
+
+# game_levels.cpp
+msgid "Choose your own difficulty"
+msgstr ""
+
+# game_levels.cpp
+msgid "Dodge everything and you'll be OK"
+msgstr ""
+
+# game_levels.cpp
+msgid "Euclidean space is overrated"
+msgstr ""
+
+# game_levels.cpp
+msgid "Green good. Red bad."
+msgstr ""
+
+# game_levels.cpp
+msgid "Just 32 seconds of skills"
+msgstr ""
+
+# game_levels.cpp
+msgid "My favorite mode"
+msgstr ""
+
+# game_levels.cpp
+msgid "Never trust a six-sided polygon"
+msgstr ""
+
+# game_levels.cpp
+msgid "Previously known as Assault"
+msgstr ""
+
+# game_levels.cpp
+msgid "RIP GW3:Dimensions"
+msgstr ""
+
+# game_levels.cpp
+msgid "Survive 32 seconds with this simple trick"
+msgstr ""
+
+# game_levels.cpp
+msgid "The background is expensive to compute"
+msgstr ""
+
+# game_levels.cpp
+msgid "Unrelated to \"Super Hexagon\""
+msgstr ""
+
+# game_levels.cpp
+msgid "\"This level is a joke right?\" - a tester"
+msgstr ""
+
+# game_levels.cpp
+msgid "aka Dodge This"
+msgstr ""
+
+# medals.cpp
+msgid "New bronze medal"
+msgstr ""
+
+# medals.cpp
+msgid "New gold medal"
+msgstr ""
+
+# medals.cpp
+msgid "New silver medal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "High"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Low"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Medium"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Ultra low 16x"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Ultra low 32x"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Ultra low 4x"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Ultra low 8x"
+msgstr ""
+

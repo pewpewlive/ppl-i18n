@@ -1,0 +1,528 @@
+# ui_helpers.cpp
+msgid "off"
+msgstr "выкл"
+
+# ui_helpers.cpp
+msgid "on"
+msgstr "вкл"
+
+# keyboard_view.cpp
+msgid "ok"
+msgstr "ок"
+
+# game.cpp
+msgid "Quick pause"
+msgstr "Быстрая пауза"
+
+# game.cpp
+msgid "Quick pause %s"
+msgstr "Быстрая пауза %s"
+
+# pause_ui.cpp
+msgid "Continue"
+msgstr "Продолжить"
+
+# pause_ui.cpp
+msgid "Exit"
+msgstr "Выйти"
+
+# pause_ui.cpp
+msgid "Pause"
+msgstr "Пауза"
+
+# pause_ui.cpp
+msgid "Restart"
+msgstr "Заново"
+
+# game_over_ui.cpp
+msgid "Game Over"
+msgstr "Игра окончена"
+
+# game_over_ui.cpp
+msgid "Play again"
+msgstr "Начать заново"
+
+# screen_lan_lobby.cpp
+msgid "Cancel"
+msgstr "Отмена"
+
+# screen_lan_lobby.cpp
+msgid "Game is full"
+msgstr "В комнате нет свободных мест"
+
+# screen_lan_lobby.cpp
+msgid "Local lobby"
+msgstr "Локальное лобби"
+
+# screen_lan_lobby.cpp
+msgid "Ready"
+msgstr "Готов!"
+
+# screen_lan_lobby.cpp
+msgid "Waiting for other players..."
+msgstr "Ожидание других игроков..."
+
+# screen_sign_in_confirmation.cpp
+msgid "Failed to sign-in!"
+msgstr "Не удалось войти"
+
+# screen_sign_in_confirmation.cpp
+msgid "Sign-in confirmation"
+msgstr "Подтверждение входа"
+
+# screen_sign_in_confirmation.cpp
+msgid "Sign-in with \"%s\"?"
+msgstr "Войти с помощью \"%s\"?"
+
+# screen_sign_in_confirmation.cpp
+msgid "Waiting for the server..."
+msgstr "Ожидание сервера..."
+
+# screen_download_level.cpp
+msgid "Loading level..."
+msgstr "Загрузка уровня..."
+
+# screen_specify_server_ip.cpp
+msgid "Connect"
+msgstr ""
+
+# screen_specify_server_ip.cpp
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Подключение через интернет #ff0000ff(экспериментально)"
+
+# screen_specify_server_ip.cpp
+msgid "Connect to server"
+msgstr "Подключиться к серверу"
+
+# screen_specify_server_ip.cpp
+msgid "IP:"
+msgstr "IP:"
+
+# screen_specify_server_ip.cpp
+msgid "Port:"
+msgstr "Порт:"
+
+# screen_configure_touch_joystick.cpp
+msgid "Configure joysticks"
+msgstr "Настройка джойстиков"
+
+# screen_configure_touch_joystick.cpp
+msgid "Reset"
+msgstr "Сброс"
+
+# screen_configure_touch_joystick.cpp
+msgid "Swap"
+msgstr "Смена"
+
+# screen_select_custom_level.cpp
+msgid "Creator"
+msgstr "Автор"
+
+# screen_select_custom_level.cpp
+msgid "Custom levels"
+msgstr "Уровни сообщества"
+
+# screen_select_custom_level.cpp
+msgid "Level name"
+msgstr "Уровень"
+
+# screen_lan_create_or_join.cpp
+msgid "(Incompatible version)"
+msgstr "(Несовместимая версия)"
+
+# screen_lan_create_or_join.cpp
+msgid "Close room"
+msgstr "Закрыть комнату"
+
+# screen_lan_create_or_join.cpp
+msgid "Connect to..."
+msgstr "Подключиться к..."
+
+# screen_lan_create_or_join.cpp
+msgid "Connecting to a phone's hotspot should work!"
+msgstr "Если подключиться к точке доступа телефона, всё должно работать!"
+
+# screen_lan_create_or_join.cpp
+msgid "Create room"
+msgstr "Создать комнату"
+
+# screen_lan_create_or_join.cpp
+msgid "Each player need to upload the replay separately to both appear in the online leader board."
+msgstr "Каждый игрок также должен отправить свой реплей отдельно чтобы появиться на сетевой доске лидеров."
+
+# screen_lan_create_or_join.cpp
+msgid "Help"
+msgstr "Помощь"
+
+# screen_lan_create_or_join.cpp
+msgid "Local multiplayer"
+msgstr "Мультиплеер по LAN"
+
+# screen_lan_create_or_join.cpp
+msgid "Local multiplayer supports 2 players connected to the same wifi network."
+msgstr "Местный мультиплеер поддерживает игру с 2 игроками, подключённых к одной сети Wi-Fi."
+
+# screen_lan_create_or_join.cpp
+msgid "Multiplayer help"
+msgstr "Помощь по совместной игре"
+
+# screen_lan_create_or_join.cpp
+msgid "One player must create a room, which the other player joins."
+msgstr "Один игрок должен создать комнату, к которой должен подключиться другой игрок."
+
+# screen_lan_create_or_join.cpp
+msgid "The wifi network does not have to be connected to the internet."
+msgstr "Сети Wi-Fi необязателен доступ к интернету."
+
+# screen_configure_ship.cpp
+msgid "Bullets"
+msgstr "Пули"
+
+# screen_configure_ship.cpp
+msgid "Configure Ship"
+msgstr "Настройка корабля"
+
+# screen_configure_ship.cpp
+msgid "Model"
+msgstr "Модель"
+
+# screen_configure_ship.cpp
+msgid "Trail"
+msgstr "След"
+
+# screen_upload_scores.cpp
+msgid "Failed to upload replays."
+msgstr "Не удалось отправить результаты."
+
+# screen_upload_scores.cpp
+msgid "Nothing to upload!"
+msgstr "Нет новых результатов."
+
+# screen_upload_scores.cpp
+msgid "Upload scores"
+msgstr "Отправить результаты"
+
+# screen_upload_scores.cpp
+msgid "Upload successful"
+msgstr "Результаты отправлены."
+
+# screen_upload_scores.cpp
+msgid "Uploading replay for %s."
+msgstr "Загрузка результатов от %s."
+
+# screen_configure_keyboard.cpp
+msgid "Configure keyboard"
+msgstr "Настройка клавиатуры"
+
+# screen_configure_keyboard.cpp
+msgid "Mouse aim %s"
+msgstr "Прицел мышью %s"
+
+# screen_configure_keyboard.cpp
+msgid "Move"
+msgstr "Движение"
+
+# screen_configure_keyboard.cpp
+msgid "Shoot"
+msgstr "Стрельба"
+
+# screen_select_game_single_player.cpp
+msgid "Select level"
+msgstr "Выбор уровня"
+
+# screen_settings_language.cpp
+msgid "Default language"
+msgstr "Системный"
+
+# screen_settings_language.cpp
+msgid "Language Settings"
+msgstr "Язык"
+
+# screen_view_high_scores.cpp
+msgid "1p"
+msgstr "1и"
+
+# screen_view_high_scores.cpp
+msgid "2p"
+msgstr "2и"
+
+# screen_view_high_scores.cpp
+msgid "3p"
+msgstr "3и"
+
+# screen_view_high_scores.cpp
+msgid "4p"
+msgstr "4и"
+
+# screen_view_high_scores.cpp
+msgid "personal"
+msgstr "личные"
+
+# screen_view_high_scores.cpp
+msgid "region"
+msgstr "по стране"
+
+# screen_view_high_scores.cpp
+msgid "world"
+msgstr "мировые"
+
+# screen_informations_translations.cpp
+msgid "Translations"
+msgstr "Переводчики"
+
+# screen_benchmark.cpp
+msgid "Skip"
+msgstr "Пропустить"
+
+# screen_main_menu.cpp
+msgid "Local Multiplayer"
+msgstr "Мультиплеер по LAN"
+
+# screen_main_menu.cpp
+msgid "Play"
+msgstr "Играть"
+
+# screen_main_menu.cpp
+msgid "Single Player"
+msgstr "Одиночная игра"
+
+# screen_tutorial.cpp
+msgid "Tutorial"
+msgstr "Обучение"
+
+# screen_informations_music.cpp
+msgid "Music"
+msgstr "Музыка"
+
+# screen_server_connection_closed.cpp
+msgid "Connection error"
+msgstr "Ошибка подключения"
+
+# screen_server_connection_closed.cpp
+msgid "Lost connection to server"
+msgstr "Потеряно соединение с сервером"
+
+# screen_settings_audio.cpp
+msgid "Audio Settings"
+msgstr "Настройки звука"
+
+# screen_settings_audio.cpp
+msgid "Sound effects"
+msgstr "Звуковые эффекты"
+
+# screen_select_custom_level_info.cpp
+msgid "Custom levels?!"
+msgstr "Кастомные уровни?!"
+
+# screen_select_custom_level_info.cpp
+msgid "More information"
+msgstr "Подробная информация"
+
+# screen_select_custom_level_info.cpp
+msgid "Yes!"
+msgstr "Да!"
+
+# screen_select_custom_level_info.cpp
+msgid "You can finally code your own levels!"
+msgstr "Теперь вы можете программировать свои собственные уровни!"
+
+# screen_view_level.cpp
+msgid "Error reading manifest"
+msgstr "Ошибка чтения манифеста"
+
+# screen_view_level.cpp
+msgid "Experimental level"
+msgstr "Экспериментальный уровень"
+
+# screen_view_level.cpp
+msgid "Failed to download manifest"
+msgstr "Не удалось скачать манифест"
+
+# screen_view_level.cpp
+msgid "Loading..."
+msgstr "Загрузка..."
+
+# screen_view_level.cpp
+msgid "Local best: %s"
+msgstr "Личный рекорд: %s"
+
+# screen_view_level.cpp
+msgid "World record: %s"
+msgstr "Мировой рекорд: %s"
+
+# screen_settings_controls.cpp
+msgid "Controls Settings"
+msgstr "Настройки управления"
+
+# screen_settings_controls.cpp
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+# screen_settings_controls.cpp
+msgid "Touchscreen"
+msgstr "Касание"
+
+# screen_informations.cpp
+msgid "Development videos"
+msgstr "YouTube"
+
+# screen_informations.cpp
+msgid "Discord server"
+msgstr "Сервер Discord"
+
+# screen_informations.cpp
+msgid "by %s"
+msgstr "от %s"
+
+# screen_settings.cpp
+msgid "Audio"
+msgstr "Звук"
+
+# screen_settings.cpp
+msgid "Controls"
+msgstr "Управление"
+
+# screen_settings.cpp
+msgid "Developer mode"
+msgstr "Режим разработчика"
+
+# screen_settings.cpp
+msgid "Language"
+msgstr "Язык"
+
+# screen_settings.cpp
+msgid "Launch intro"
+msgstr "Запустить интро"
+
+# screen_settings.cpp
+msgid "Renderer: %s"
+msgstr "Рендер: %s"
+
+# screen_settings.cpp
+msgid "Settings"
+msgstr "Настройки"
+
+# screen_settings.cpp
+msgid "Sign-in"
+msgstr "Войти"
+
+# screen_settings.cpp
+msgid "Start tutorial"
+msgstr "Запустить обучение"
+
+# screen_settings.cpp
+msgid "Vibration %s"
+msgstr "Вибрация %s"
+
+# game_hud.cpp
+msgid "Shield: %s"
+msgstr "Щиты: %s"
+
+# game_network_message_parser.cpp
+msgid "%s left the game"
+msgstr "%s покинул игру"
+
+# game_state.cpp
+msgid "Accuracy: %s"
+msgstr "Аккуратность: %s"
+
+# game_state.cpp
+msgid "N/A"
+msgstr "Н/Д"
+
+# game_levels.cpp
+msgid "Choose your own difficulty"
+msgstr "Настрой себе сложность"
+
+# game_levels.cpp
+msgid "Dodge everything and you'll be OK"
+msgstr "Увернись от всего и всё будет в порядке"
+
+# game_levels.cpp
+msgid "Euclidean space is overrated"
+msgstr "Евклидово пространство переоценено"
+
+# game_levels.cpp
+msgid "Green good. Red bad."
+msgstr "Зелёный - хорошо, Красный - плохо."
+
+# game_levels.cpp
+msgid "Just 32 seconds of skills"
+msgstr "Просто 32 секунды скиллов"
+
+# game_levels.cpp
+msgid "My favorite mode"
+msgstr "Мой любимый режим"
+
+# game_levels.cpp
+msgid "Never trust a six-sided polygon"
+msgstr "Не доверяй шестиугольнику"
+
+# game_levels.cpp
+msgid "Previously known as Assault"
+msgstr "Раньше известен как Assault"
+
+# game_levels.cpp
+msgid "RIP GW3:Dimensions"
+msgstr "RIP GW3:Dimensions"
+
+# game_levels.cpp
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Проживи 32 секунды с этим трюком"
+
+# game_levels.cpp
+msgid "The background is expensive to compute"
+msgstr "Фон сложно обрабатывать"
+
+# game_levels.cpp
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "Не имеет отношения к \"Super Hexagon\""
+
+# game_levels.cpp
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\"Это шутка, да?\" - тестер"
+
+# game_levels.cpp
+msgid "aka Dodge This"
+msgstr "Также известен как Dodge This"
+
+# medals.cpp
+msgid "New bronze medal"
+msgstr "Новая бронзовая медаль"
+
+# medals.cpp
+msgid "New gold medal"
+msgstr "Новая золотая медаль"
+
+# medals.cpp
+msgid "New silver medal"
+msgstr "Новая серебряная медаль"
+
+# renderer_types.cpp
+msgid "High"
+msgstr "Высокий"
+
+# renderer_types.cpp
+msgid "Low"
+msgstr "Низкий"
+
+# renderer_types.cpp
+msgid "Medium"
+msgstr "Средний"
+
+# renderer_types.cpp
+msgid "Ultra low 16x"
+msgstr "Ультра-низкий 16х"
+
+# renderer_types.cpp
+msgid "Ultra low 32x"
+msgstr "Ультра-низкий 32х"
+
+# renderer_types.cpp
+msgid "Ultra low 4x"
+msgstr "Ультра-низкий 4x"
+
+# renderer_types.cpp
+msgid "Ultra low 8x"
+msgstr "Ультра-низкий 8x"
+
