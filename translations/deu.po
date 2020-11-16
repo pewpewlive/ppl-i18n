@@ -72,7 +72,7 @@ msgstr "Anmeldung bestätigt"
 
 # screen_sign_in_confirmation.cpp
 msgid "Sign-in with \"%s\"?"
-msgstr "Sich mit \"%s\ anmelden"
+msgstr "Sich mit \"%s\" anmelden"
 
 # screen_sign_in_confirmation.cpp
 msgid "Waiting for the server..."
@@ -480,7 +480,7 @@ msgstr "Nichts mit \"Super Hexagon\" zu tun"
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\Diese Stufe ist ein Witz, oder?\" - ein Tester"
+msgstr "\"Diese Stufe ist ein Witz, oder?\" - ein Tester"
 
 # game_levels.cpp
 msgid "aka Dodge This"

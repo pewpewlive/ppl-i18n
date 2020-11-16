@@ -13,10 +13,11 @@ A few tips for contributing:
 ## Adding new languages
 If you want to add support for a new language, [send me an email](mailto:jfgeyelin+ppl@gmail.com).
 ## Status
-* [French](/translations/fr.po) (100% complete! 🎉)
-* [Croatian](/translations/hr.po) (99% complete; 1 remaining)
+* [German](/translations/deu.po) (100% complete! 🎉)
+* [French](/translations/fra.po) (100% complete! 🎉)
+* [Croatian](/translations/hrv.po) (99% complete; 1 remaining)
 * [Meme-nglish](/translations/meme.po) (97% complete; 3 remaining)
-* [Polish](/translations/pl.po) (100% complete! 🎉)
-* [Portuguese](/translations/pt.po) (95% complete; 6 remaining)
-* [Russian](/translations/ru.po) (100% complete! 🎉)
-> Report generated on Nov 15 2020 13:57:40 UTC
+* [Polish](/translations/pol.po) (100% complete! 🎉)
+* [Portuguese](/translations/por.po) (95% complete; 6 remaining)
+* [Russian](/translations/rus.po) (100% complete! 🎉)
+> Report generated on Nov 16 2020 01:21:53 UTC

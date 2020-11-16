@@ -10,10 +10,11 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 
-
+# language code are in ISO 639-2
+# https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 lang_files_dir = "translations/"
-langs = [{"code": "fr", "name": "French"}, {"code": "hr", "name": "Croatian"}, {"code": "meme", "name": "Meme-nglish"},
-         {"code": "pl", "name": "Polish"}, {"code": "pt", "name": "Portuguese"}, {"code": "ru", "name": "Russian"}]
+langs = [{"code": "deu", "name": "German"}, {"code": "fra", "name": "French"}, {"code": "hrv", "name": "Croatian"}, {"code": "meme", "name": "Meme-nglish"},
+         {"code": "pol", "name": "Polish"}, {"code": "por", "name": "Portuguese"}, {"code": "rus", "name": "Russian"}]
 lang_stats = {}
 
 # Generate the stats
