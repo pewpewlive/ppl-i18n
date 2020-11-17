@@ -172,7 +172,7 @@ msgstr "Ein Spieler muss eine Partie erstellen, die der andere beitreten muss"
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Auf der Suche nach Spielen..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
@@ -240,7 +240,7 @@ msgstr "Standardsprache"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Teilnehmen"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -248,7 +248,7 @@ msgstr "Sprache-Einstellungen"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Übersetzungen werden von der Community vorgeschlagen!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
