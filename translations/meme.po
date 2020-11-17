@@ -84,7 +84,7 @@ msgstr "Wasting internet..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr ""
+msgstr "intertwine"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
@@ -172,7 +172,7 @@ msgstr "One bro must make the gaming, the other bro joins the gaming."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "scanning gamer rooms"
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
@@ -240,7 +240,7 @@ msgstr "Default lingo"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "be useful"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -248,7 +248,7 @@ msgstr "Lingo settings"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "the lingo transfers are the words of the peeps!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
@@ -348,7 +348,7 @@ msgstr "not done level"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "manifest said no, sorry"
 
 # screen_view_level.cpp
 msgid "Loading..."
@@ -440,7 +440,7 @@ msgstr "Gamer Percent : %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "n-nothing at all?"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
