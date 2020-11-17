@@ -171,6 +171,10 @@ msgid "One player must create a room, which the other player joins."
 msgstr "Один игрок должен создать комнату, к которой подключается другой игрок."
 
 # screen_lan_create_or_join.cpp
+msgid "Searching for rooms..."
+msgstr ""
+
+# screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
 msgstr "Сети Wi-Fi необязателен доступ к интернету."
 
