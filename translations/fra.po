@@ -172,7 +172,7 @@ msgstr "Un joueur crée une partie locale, que l'autre joueur doit rejoindre."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "A la recherche de parties..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
@@ -240,11 +240,15 @@ msgstr "Langue par défaut"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Contribuer"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
 msgstr "Configuration de la langue"
+
+# screen_settings_language.cpp
+msgid "The translations are community provided!"
+msgstr "Les traductions proviennent de la communauté !"
 
 # screen_view_high_scores.cpp
 msgid "1p"

@@ -246,6 +246,10 @@ msgstr ""
 msgid "Language Settings"
 msgstr "Sprache-Einstellungen"
 
+# screen_settings_language.cpp
+msgid "The translations are community provided!"
+msgstr ""
+
 # screen_view_high_scores.cpp
 msgid "1p"
 msgstr "1s"
