@@ -239,6 +239,10 @@ msgid "Default language"
 msgstr "Idioma padrão"
 
 # screen_settings_language.cpp
+msgid "Help out"
+msgstr ""
+
+# screen_settings_language.cpp
 msgid "Language Settings"
 msgstr "Configurações do Idioma"
 
