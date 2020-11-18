@@ -172,7 +172,7 @@ msgstr "Один игрок должен создать комнату, к ко�
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Поиск комнат..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
@@ -240,7 +240,7 @@ msgstr "Системный"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Сделать перевод"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -248,7 +248,7 @@ msgstr "Язык"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Переводы на другие языки создаются сообществом!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
