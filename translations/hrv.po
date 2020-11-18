@@ -84,7 +84,7 @@ msgstr "čitavanje levela..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr ""
+msgstr "Spoji se"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
@@ -172,7 +172,7 @@ msgstr "Jedan igrač mora stvoriti sobu, u koju drugi igrač može ući."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Traženje soba..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
@@ -240,7 +240,7 @@ msgstr "Zadani jezik"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Pomogni"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -248,7 +248,7 @@ msgstr "Jezične postavke"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Prijevodi su napravljeni u zajednici igrača!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
