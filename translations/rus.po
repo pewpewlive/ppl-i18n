@@ -88,7 +88,7 @@ msgstr "Подключиться"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Подключение к комнате через интернет #ff0000ff(экспериментально)"
+msgstr "Подключение к комнатам через интернет #ff0000ff(экспериментально)"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
@@ -148,7 +148,7 @@ msgstr "Создать комнату"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Каждый игрок также должен отправить свой реплей отдельно чтобы появиться на сетевой доске лидеров."
+msgstr "Чтобы появиться на доске лидеров, обоим игрокам нужно отправить свои результаты."
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
@@ -156,11 +156,11 @@ msgstr "Помощь"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr "LAN Мультиплеер"
+msgstr "LAN мультиплеер"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Местный мультиплеер поддерживает игру с 2 игроками, подключённых к одной сети Wi-Fi."
+msgstr "LAN мультиплеер поддерживает игру с 2 игроками, подключённых к одной сети Wi-Fi."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
@@ -272,7 +272,7 @@ msgstr "личные"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr "по стране"
+msgstr "страна"
 
 # screen_view_high_scores.cpp
 msgid "world"
@@ -288,7 +288,7 @@ msgstr "Пропустить"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr "Мультиплеер по LAN"
+msgstr "LAN Мультиплеер"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -460,7 +460,7 @@ msgstr "Зелёный - хорошо, Красный - плохо."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr "Просто 32 секунды скиллов"
+msgstr "Полминуты скиллов"
 
 # game_levels.cpp
 msgid "My favorite mode"
@@ -480,7 +480,7 @@ msgstr "RIP GW3:Dimensions"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr "Проживи 32 секунды с этим трюком"
+msgstr "Секрет прохождения этого режима - это..."
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
@@ -488,7 +488,7 @@ msgstr "Обработка фона - это сложно"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Не имеет отношения к \"Super Hexagon\""
+msgstr "Никак не относится к \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
@@ -524,17 +524,17 @@ msgstr "Средний"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr "Ультра-низкий 16х"
+msgstr "Пиксель 16х"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr "Ультра-низкий 32х"
+msgstr "Пиксель 32х"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr "Ультра-низкий 4x"
+msgstr "Пиксель 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr "Ультра-низкий 8x"
+msgstr "Пиксель 8x"
 
