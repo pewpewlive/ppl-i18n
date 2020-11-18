@@ -25,4 +25,4 @@ If you want to add support for a new language, [send me an email](mailto:jfgeyel
 * [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (0% complete; 135 remaining)
 * [Turkish](/translations/tur.po) (0% complete; 135 remaining)
-> Report generated on Nov 18 2020 13:14:32 UTC
+> Report generated on Nov 18 2020 14:10:33 UTC
