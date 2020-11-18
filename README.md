@@ -5,6 +5,8 @@ This repository contains the translated strings for the game [PewPew Live](https
 Any contribution helps, even if its only a few words or phrases.
 (but please only contribute to languages you can speak; no Google Translate)
 
+For information on how to submit changes on github, take a look at this [guide](https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/editing-files-in-another-users-repository).
+
 If you contribute a significant amount, I'll put you in the credits!
 
 A few tips for contributing:
@@ -16,8 +18,11 @@ If you want to add support for a new language, [send me an email](mailto:jfgeyel
 * [German](/translations/deu.po) (100% complete! 🎉)
 * [French](/translations/fra.po) (100% complete! 🎉)
 * [Croatian](/translations/hrv.po) (97% complete; 4 remaining)
+* [Italian](/translations/ita.po) (0% complete; 135 remaining)
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
-* [Polish](/translations/pol.po) (97% complete; 3 remaining)
+* [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (93% complete; 9 remaining)
-* [Russian](/translations/rus.po) (97% complete; 3 remaining)
-> Report generated on Nov 17 2020 22:53:04 UTC
+* [Russian](/translations/rus.po) (100% complete! 🎉)
+* [Spanish](/translations/spa.po) (0% complete; 135 remaining)
+* [Turkish](/translations/tur.po) (0% complete; 135 remaining)
+> Report generated on Nov 18 2020 13:14:32 UTC

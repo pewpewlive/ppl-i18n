@@ -13,8 +13,10 @@ os.chdir(dname)
 # language code are in ISO 639-2
 # https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 lang_files_dir = "translations/"
-langs = [{"code": "deu", "name": "German"}, {"code": "fra", "name": "French"}, {"code": "hrv", "name": "Croatian"}, {"code": "meme", "name": "Meme-nglish"},
-         {"code": "pol", "name": "Polish"}, {"code": "por", "name": "Portuguese"}, {"code": "rus", "name": "Russian"}]
+langs = [{"code": "deu", "name": "German"}, {"code": "fra", "name": "French"}, {"code": "hrv", "name": "Croatian"},
+         {"code": "ita", "name": "Italian"}, {"code": "meme", "name": "Meme-nglish"}, {"code": "pol", "name": "Polish"},
+         {"code": "por", "name": "Portuguese"}, {"code": "rus", "name": "Russian"}, {"code": "spa", "name": "Spanish"},
+         {"code": "tur", "name": "Turkish"}]
 lang_stats = {}
 
 # Generate the stats
@@ -43,6 +45,8 @@ with open(readme_file, 'w') as f:
     f.write("## Contributing\n")
     f.write("Any contribution helps, even if its only a few words or phrases.\n")
     f.write("(but please only contribute to languages you can speak; no Google Translate)\n")
+    f.write("\n")
+    f.write("For information on how to submit changes on github, take a look at this [guide](https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/editing-files-in-another-users-repository).\n")
     f.write("\n")
     f.write("If you contribute a significant amount, I'll put you in the credits!\n")
     f.write("\n")
