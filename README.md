@@ -17,7 +17,7 @@ If you want to add support for a new language, [send me an email](mailto:jfgeyel
 ## Status
 * [German](/translations/deu.po) (100% complete! 🎉)
 * [French](/translations/fra.po) (100% complete! 🎉)
-* [Croatian](/translations/hrv.po) (97% complete; 4 remaining)
+* [Croatian](/translations/hrv.po) (100% complete! 🎉)
 * [Italian](/translations/ita.po) (0% complete; 135 remaining)
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
@@ -25,4 +25,4 @@ If you want to add support for a new language, [send me an email](mailto:jfgeyel
 * [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (0% complete; 135 remaining)
 * [Turkish](/translations/tur.po) (0% complete; 135 remaining)
-> Report generated on Nov 18 2020 14:10:33 UTC
+> Report generated on Nov 19 2020 12:46:23 UTC
