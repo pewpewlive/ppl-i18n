@@ -12,17 +12,18 @@ If you contribute a significant amount, I'll put you in the credits!
 A few tips for contributing:
 * Keep the `%s` as they later get replaced by some other text.
 * Try to have have the translations be approximately the same length as the english text.
+* Don't hesitate the reword the text in order to better fit the language.
 ## Adding new languages
 If you want to add support for a new language, [send me an email](mailto:jfgeyelin+ppl@gmail.com).
 ## Status
 * [German](/translations/deu.po) (100% complete! 🎉)
 * [French](/translations/fra.po) (100% complete! 🎉)
 * [Croatian](/translations/hrv.po) (100% complete! 🎉)
-* [Italian](/translations/ita.po) (0% complete; 135 remaining)
+* [Italian](/translations/ita.po) (66% complete; 45 remaining)
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (93% complete; 9 remaining)
 * [Russian](/translations/rus.po) (100% complete! 🎉)
-* [Spanish](/translations/spa.po) (0% complete; 135 remaining)
+* [Spanish](/translations/spa.po) (100% complete! 🎉)
 * [Turkish](/translations/tur.po) (0% complete; 135 remaining)
-> Report generated on Nov 19 2020 12:46:23 UTC
+> Report generated on Nov 29 2020 21:26:32 UTC

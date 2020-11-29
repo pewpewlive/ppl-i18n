@@ -53,6 +53,7 @@ with open(readme_file, 'w') as f:
     f.write("A few tips for contributing:\n")
     f.write("* Keep the `%s` as they later get replaced by some other text.\n")
     f.write("* Try to have have the translations be approximately the same length as the english text.\n")
+    f.write("* Don't hesitate the reword the text in order to better fit the language.\n")
     f.write("## Adding new languages\n")
     f.write("If you want to add support for a new language, [send me an email](mailto:jfgeyelin+ppl@gmail.com).\n")
     f.write("## Status\n")
