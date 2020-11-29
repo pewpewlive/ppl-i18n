@@ -104,7 +104,7 @@ msgstr "Port:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr "Konfiguruj drążki stereowne"
+msgstr "Konfiguruj drążki sterujące"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
@@ -128,7 +128,7 @@ msgstr "Nazwa poziomu"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr "(niekompatebilna wersja)"
+msgstr "(niekompatybilna wersja)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
@@ -160,7 +160,7 @@ msgstr "Lokalny multiplayer"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Lokalny multiplayer wspomaga do 2 graczy podłączonych do jednej sieci wifi"
+msgstr "Lokalny multiplayer wspiera do 2 graczy podłączonych do jednej sieci wifi"
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
@@ -312,7 +312,7 @@ msgstr "Błąd połączenia"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr "Stracono połączenie z serwerem"
+msgstr "Utracono połączenie z serwerem"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -320,7 +320,7 @@ msgstr "Ustawienia Dźwięku"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr "Effekty dźwiękowe"
+msgstr "Efekty dźwiękowe"
 
 # screen_select_custom_level_info.cpp
 msgid "Custom levels?!"
@@ -432,7 +432,7 @@ msgstr "Tarcza: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr "%s wyszedł/a z gry"
+msgstr "%s opuścił(a) grę"
 
 # game_state.cpp
 msgid "Accuracy: %s"
@@ -452,7 +452,7 @@ msgstr "Unikaj wszystkiego i będzie OK"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr "Euclidean space jest zbyt doceniany"
+msgstr "Przestrzeń euklidejska jest zbyt doceniana"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
@@ -484,11 +484,11 @@ msgstr "Przetrwaj 32 sekundy za pomocą tej prostej sztuczki"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr "Tło jest drogie dla kompute"
+msgstr "Renderowanie tego tła jest wymagające"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Niepowiązanie do \"Super Hexagon\""
+msgstr "Niezwiązane z \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
@@ -500,7 +500,7 @@ msgstr "aka Dodge This"
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr "Nowy bronzowy medal"
+msgstr "Nowy brązowy medal"
 
 # medals.cpp
 msgid "New gold medal"
