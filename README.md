@@ -20,10 +20,11 @@ If you want to add support for a new language, [send me an email](mailto:jfgeyel
 * [French](/translations/fra.po) (100% complete! 🎉)
 * [Croatian](/translations/hrv.po) (100% complete! 🎉)
 * [Italian](/translations/ita.po) (66% complete; 45 remaining)
+* [Lithuanian](/translations/lit.po) (0% complete; 135 remaining)
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (93% complete; 9 remaining)
 * [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (100% complete! 🎉)
 * [Turkish](/translations/tur.po) (0% complete; 135 remaining)
-> Report generated on Nov 29 2020 21:26:32 UTC
+> Report generated on Dec 03 2020 23:42:44 UTC
