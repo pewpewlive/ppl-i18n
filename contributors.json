@@ -1,0 +1,98 @@
+[
+  {
+    "lang": "deu",
+    "translators": [
+      {
+        "name": "Lithium",
+        "color": "0x00ff00ff"
+      }
+    ]
+  },
+  {
+    "lang": "eng",
+    "translators": [
+      {
+        "name": "JF",
+        "color": "0xff8000ff"
+      }
+    ]
+  },
+  {
+    "lang": "fra",
+    "translators": [
+      {
+        "name": "Lithium",
+        "color": "0x00ff00ff"
+      },
+      {
+        "name": "JF",
+        "color": "0xff8000ff"
+      }
+    ]
+  },{
+    "lang": "hrv",
+    "translators": [
+      {
+        "name": "BlankEra",
+        "color": "0x800000ff"
+      }
+    ]
+  },{
+    "lang": "ita",
+    "translators": [
+      {
+        "name": "Simoubuntu",
+        "color": "0xffffff"
+      }
+    ]
+  },{
+    "lang": "lit",
+    "translators": [
+    ]
+  },
+  {
+    "lang": "meme",
+    "translators": [
+      {
+        "name": "F.O.B.",
+        "color": "0xff20aaff"
+      }
+    ]
+  },{
+    "lang": "pol",
+    "translators": [
+      {
+        "name": "FRACIX",
+        "color": "0x3f00f8ff"
+      }
+    ]
+  },{
+    "lang": "por",
+    "translators": [
+      {
+        "name": "MaxXP",
+        "color": "0xffffffff"
+      }
+    ]
+  },{
+    "lang": "rus",
+    "translators": [
+      {
+        "name": "neoncube",
+        "color": "0xff0000ff"
+      }
+    ]
+  },{
+    "lang": "spa",
+    "translators": [
+      {
+        "name": "Angel-24",
+        "color": "0xffffffff"
+      }
+    ]
+  },{
+    "lang": "tur",
+    "translators": [
+    ]
+  }
+]
