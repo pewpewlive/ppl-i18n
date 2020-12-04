@@ -1,539 +1,540 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr ""
+msgstr "Išj."
 
 # ui_helpers.cpp
 msgid "on"
-msgstr ""
+msgstr "Įj."
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr ""
+msgstr "Gerai"
 
 # game.cpp
 msgid "Quick pause"
-msgstr ""
+msgstr "Greita pauzė"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Greita pauzė %s"
 
 # pause_ui.cpp
 msgid "Continue"
-msgstr ""
+msgstr "Tęsti"
 
 # pause_ui.cpp
 msgid "Exit"
-msgstr ""
+msgstr "Išeiti"
 
 # pause_ui.cpp
 msgid "Pause"
-msgstr ""
+msgstr "Pauzė"
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr ""
+msgstr "Iš naujo"
 
 # game_over_ui.cpp
 msgid "Game Over"
-msgstr ""
+msgstr "Žaidimas baigtas"
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr ""
+msgstr "Žaisti vėl"
 
 # screen_lan_lobby.cpp
 msgid "Cancel"
-msgstr ""
+msgstr "Atšaukti"
 
 # screen_lan_lobby.cpp
 msgid "Game is full"
-msgstr ""
+msgstr "Žaidimas pilnas"
 
 # screen_lan_lobby.cpp
 msgid "Local lobby"
-msgstr ""
+msgstr "Vietinė fojė"
 
 # screen_lan_lobby.cpp
 msgid "Ready"
-msgstr ""
+msgstr "Pasiruošti"
 
 # screen_lan_lobby.cpp
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "Laukiama kitų žaidėjų..."
 
 # screen_sign_in_confirmation.cpp
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "Nepavyko prisijungti!"
 
 # screen_sign_in_confirmation.cpp
 msgid "Sign-in confirmation"
-msgstr ""
+msgstr "Prisijungimo patvirtinimas"
 
 # screen_sign_in_confirmation.cpp
 msgid "Sign-in with \"%s\"?"
-msgstr ""
+msgstr "Prisijungti su \"%s\"?"
 
 # screen_sign_in_confirmation.cpp
 msgid "Waiting for the server..."
-msgstr ""
+msgstr "Laukiama serverio..."
 
 # screen_download_level.cpp
 msgid "Loading level..."
-msgstr ""
+msgstr "Įkeliamas lygis..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr ""
+msgstr "Prisijungti"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "Prisijunkite prie kito kambario per internetą #ff0000ff(eksperimentinis)"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
-msgstr ""
+msgstr "Prisijungti prie serverio"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
-msgstr ""
+msgstr "IP:"
 
 # screen_specify_server_ip.cpp
 msgid "Port:"
-msgstr ""
+msgstr "Port:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr ""
+msgstr "Konfigūruokite vairasvirtes"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
-msgstr ""
+msgstr "Atstatyti"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr ""
+msgstr "Keisti"
 
 # screen_select_custom_level.cpp
 msgid "Creator"
-msgstr ""
+msgstr "Kūrėjas"
 
 # screen_select_custom_level.cpp
 msgid "Custom levels"
-msgstr ""
+msgstr "Kitų žmonių lygiai"
 
 # screen_select_custom_level.cpp
 msgid "Level name"
-msgstr ""
+msgstr "Lygio pavadinimas"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(Nepalaikoma versija)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
-msgstr ""
+msgstr "Uždaryti kambarį"
 
 # screen_lan_create_or_join.cpp
 msgid "Connect to..."
-msgstr ""
+msgstr "Prisijungti prie..."
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr ""
+msgstr "Prisijungimas prie draugo mobiliosios saitvietės turėtų veikti!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
-msgstr ""
+msgstr "Sukurti kambarį"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "Kiekvienas žaidėjas turėtu atskirai įkelti pakartojimą, kad abu būtų rodomi internetinėje lyderių lentoje."
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr ""
+msgstr "Pagalba"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr ""
+msgstr "Vietinis kelių žaidėjų režimas"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "Vietinis daugelio žaidėjų režimas palaiko tik 2 žaidėjus, prijungtus prie to paties „WiFi“ tinklo."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr ""
+msgstr "Pagalba"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "Vienas žaidėjas turi sukurti kambarį, prie kurio prisijungia kitas žaidėjas."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Ieškoma kambarių..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "„WiFi“ tinklas neturi turėti internetine prieiga."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr ""
+msgstr "Kulkos"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr ""
+msgstr "Konfigūruoti laivą"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr ""
+msgstr "Modeliai"
 
 # screen_configure_ship.cpp
 msgid "Trail"
-msgstr ""
+msgstr "Pėdsakas"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "Nepavyko įkelti pakartojimų."
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "Nėra nieko įkelti!"
 
 # screen_upload_scores.cpp
 msgid "Upload scores"
-msgstr ""
+msgstr "Įkelti taškus"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
-msgstr ""
+msgstr "Įkėlimas sėkmingas"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "Įkeliamas pakartojimas %s."
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr ""
+msgstr "Konfigūruoti klaviatūrą"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "Pelės taikiklis %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
-msgstr ""
+msgstr "Judėti"
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr ""
+msgstr "Šauti"
 
 # screen_select_game_single_player.cpp
 msgid "Select level"
-msgstr ""
+msgstr "Pasirinkite lygį"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr ""
+msgstr "Numatytoji kalba"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Padėti"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
-msgstr ""
+msgstr "Kalbos nustatymai"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Vertimai yra bendruomenės patvirtinti!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr ""
+msgstr "1p"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr ""
+msgstr "2p"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr ""
+msgstr "3p"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr ""
+msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr ""
+msgstr "Asmeninis"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "Regionas"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
+msgstr "Pasaulis"
 
 # screen_informations_translations.cpp
 msgid "Translations"
-msgstr ""
+msgstr "Vertimai"
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr ""
+msgstr "Praleisti"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr ""
+msgstr "Vietinis kelių žaidėjų režimas"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr ""
+msgstr "Žaisti"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr ""
+msgstr "Vienas žaidėjas"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
-msgstr ""
+msgstr "Pamokimas"
 
 # screen_informations_music.cpp
 msgid "Music"
-msgstr ""
+msgstr "Muzika"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr ""
+msgstr "Ryšio klaida"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr ""
+msgstr "Prarastas ryšys su serveriu"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
-msgstr ""
+msgstr "Garso nustatymai"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr ""
+msgstr "Garso efektai"
 
 # screen_select_custom_level_info.cpp
 msgid "Custom levels?!"
-msgstr ""
+msgstr "Kitų žmonių lygiai?!"
 
 # screen_select_custom_level_info.cpp
 msgid "More information"
-msgstr ""
+msgstr "Daugiau informacijos"
 
 # screen_select_custom_level_info.cpp
 msgid "Yes!"
-msgstr ""
+msgstr "Taip!"
 
 # screen_select_custom_level_info.cpp
 msgid "You can finally code your own levels!"
-msgstr ""
+msgstr "Pagaliau galite koduoti savo lygius!"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr ""
+msgstr "Klaida skaitant aprašą"
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr ""
+msgstr "Expermentinis lygis"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "Nepavyko atsisiųsti aprašo"
 
 # screen_view_level.cpp
 msgid "Loading..."
-msgstr ""
+msgstr "Kraunama..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr ""
+msgstr "Vietinis rekordas: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr ""
+msgstr "Pasaulinis rekordas: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
-msgstr ""
+msgstr "Valdymo nustatymai"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
-msgstr ""
+msgstr "Klaviatūra"
 
 # screen_settings_controls.cpp
 msgid "Touchscreen"
-msgstr ""
+msgstr "Liečiamas vaizdas"
 
 # screen_informations.cpp
 msgid "Development videos"
-msgstr ""
+msgstr "Kurimo vaizdo įrašai"
 
 # screen_informations.cpp
 msgid "Discord server"
-msgstr ""
+msgstr "„Discord“ serveris"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr ""
+msgstr "Padarė %s"
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr ""
+msgstr "Garsas"
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr ""
+msgstr "Valdymas"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr ""
+msgstr "Kurėjo režimas"
 
 # screen_settings.cpp
 msgid "Language"
-msgstr ""
+msgstr "Kalba"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr ""
+msgstr "Paleisti įvadą"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr ""
+msgstr "Kokybė: %s"
 
 # screen_settings.cpp
 msgid "Settings"
-msgstr ""
+msgstr "Nustatymai"
 
 # screen_settings.cpp
 msgid "Sign-in"
-msgstr ""
+msgstr "Prisijugti"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr ""
+msgstr "Pradėti mokymą"
 
 # screen_settings.cpp
 msgid "Vibration %s"
-msgstr ""
+msgstr "Vibracija %s"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr ""
+msgstr "Skydai: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr ""
+msgstr "%s išėjo iš žaidimo"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "Tikslumas: %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "Nėra"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "Pasirinkite sunkumą"
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "Venkite visko ir viskas bus gerai"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "Euklido erdvė yra pervertinta"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "Žalia gera. Raudona bloga."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "Tik 32 sekundės įgūdžių"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr ""
+msgstr "Mano mėgstamiausias režimas"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "Niekada nepasitikėkite šešiakampiu"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "Anksčiau žinomas kaip užpuolimas"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "„RIP GW3:Dimensions“"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "Išgyvenkite 32 sekundes su šiuo paprastu triuku"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr ""
+msgstr "Foną apskaičiuoti brangu"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "Nesusijęs su \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\"Šis lygis yra pokštas, tiesa?\" - testuotojas"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr ""
+msgstr "Dar žinomas kaip „Dodge This“"
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr ""
+msgstr "Naujas bronzo medalis"
 
 # medals.cpp
 msgid "New gold medal"
-msgstr ""
+msgstr "Naujas aukso medalis"
 
 # medals.cpp
 msgid "New silver medal"
-msgstr ""
+msgstr "Naujas sidabro medalis"
 
 # renderer_types.cpp
 msgid "High"
-msgstr ""
+msgstr "Aukšta"
 
 # renderer_types.cpp
 msgid "Low"
-msgstr ""
+msgstr "Žema"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr ""
+msgstr "Vid."
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "Labai žema 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "Labai žema 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "Labai žema 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "Labai žema 8x"
+
