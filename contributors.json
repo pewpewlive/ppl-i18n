@@ -48,6 +48,10 @@
   },{
     "lang": "lit",
     "translators": [
+      {
+        "name": "SKPG-Tech",
+        "color": "0x0000ffff"
+      }
     ]
   },
   {
@@ -93,15 +97,6 @@
   },{
     "lang": "tur",
     "translators": [
-    ]
-  },
-  {
-    "lang": "lit",
-    "translators": [
-      {
-        "name": "SKPG-Tech",
-        "color": "0x0000ffff"
-      }
     ]
   }
 ]
