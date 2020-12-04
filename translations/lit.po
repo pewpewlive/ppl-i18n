@@ -500,7 +500,7 @@ msgstr "Dar žinomas kaip „Dodge This“"
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr "Naujas bronzo medalis"
+msgstr "Naujas bronzos medalis"
 
 # medals.cpp
 msgid "New gold medal"
