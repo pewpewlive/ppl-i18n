@@ -14,17 +14,18 @@ A few tips for contributing:
 * Try to have have the translations be approximately the same length as the english text.
 * Don't hesitate the reword the text in order to better fit the language.
 ## Adding new languages
-If you want to add support for a new language, [send me an email](mailto:jfgeyelin+ppl@gmail.com).
+If you want to add support for a new language, create a github Issue so that we can discuss
+the feasibility.
 ## Status
 * [German](/translations/deu.po) (100% complete! 🎉)
 * [French](/translations/fra.po) (100% complete! 🎉)
 * [Croatian](/translations/hrv.po) (100% complete! 🎉)
 * [Italian](/translations/ita.po) (66% complete; 45 remaining)
-* [Lithuanian](/translations/lit.po) (0% complete; 135 remaining)
+* [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (93% complete; 9 remaining)
 * [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (100% complete! 🎉)
-* [Turkish](/translations/tur.po) (0% complete; 135 remaining)
-> Report generated on Dec 03 2020 23:42:44 UTC
+* [Turkish](/translations/tur.po) (100% complete! 🎉)
+> Report generated on Dec 11 2020 14:20:00 UTC

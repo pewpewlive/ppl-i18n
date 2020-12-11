@@ -56,7 +56,8 @@ with open(readme_file, 'w') as f:
     f.write("* Try to have have the translations be approximately the same length as the english text.\n")
     f.write("* Don't hesitate the reword the text in order to better fit the language.\n")
     f.write("## Adding new languages\n")
-    f.write("If you want to add support for a new language, [send me an email](mailto:jfgeyelin+ppl@gmail.com).\n")
+    f.write("If you want to add support for a new language, create a github Issue so that we can discuss\n")
+    f.write("the feasibility.\n")
     f.write("## Status\n")
     for lang in langs:
         lang_code = lang["code"]
