@@ -64,11 +64,11 @@ msgstr "Ожидание игроков..."
 
 # screen_lan_lobby.cpp
 msgid "You are already in the game!"
-msgstr ""
+msgstr "Вы уже находитесь в игре!"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Скачивание уровня..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -204,11 +204,11 @@ msgstr "Загрузка результатов от %s."
 
 # screen_upload_scores.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Вы должны войти в аккаунт, чтобы отправлять результаты"
 
 # screen_upload_scores.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Аккаунт"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -232,7 +232,7 @@ msgstr "Выбор уровня"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Переводчики"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -384,7 +384,7 @@ msgstr "от %s"
 
 # screen_settings.cpp
 msgid "Account"
-msgstr ""
+msgstr "Аккаунт"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -424,179 +424,179 @@ msgstr "Вибрация %s"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Проверьте почту!"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Email не подтверждён"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Не удалось запросить сброс пароля"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Не удалось отправить письмо заново"
 
 # screen_signin.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "Неправильный пароль"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Письмо для сброса пароля отправлено"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Отправить письмо-подтверждение заново"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Запросить сброс пароля"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Запрос сброса пароля..."
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Запрос письма-подтверждения..."
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Войти"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Производится вход..."
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Вход успешен."
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "Письмо-подтверждение отправлено"
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Не удалось связаться с сервером"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Не удалось получить ответ от сервера"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Создайте аккаунт чтобы создать никнейм и синхронизировать данные"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "Вход не совершён"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Политика конфиденциальности"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Зарегистрироваться"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Адрес почты"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Подтверждение email:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Пароль"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Подтверждение пароля:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Email недействителен!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Адреса не совпадают!"
 
 # screen_register.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Не удалось получить ответ от сервера"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "Не удалось зарегистрироваться"
 
 # screen_register.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Пароль:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Пароли не совпадают!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Провверьте почту!"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Зарегистрировать аккаунт"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Регистрация..."
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "Регистрация успешна."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Максимум %s символов."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Минимум %s символов."
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Никнейм"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Никнейм (можно красить текст!)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Профиль"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Выйти"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Синхронизировать"
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -684,7 +684,7 @@ msgstr "Новая серебряная медаль"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Отсутствует информация. Так не должно быть!"
 
 # renderer_types.cpp
 msgid "High"
