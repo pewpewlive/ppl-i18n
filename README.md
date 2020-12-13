@@ -17,15 +17,15 @@ A few tips for contributing:
 If you want to add support for a new language, create a github Issue so that we can discuss
 the feasibility.
 ## Status
-* [German](/translations/deu.po) (100% complete! 🎉)
-* [French](/translations/fra.po) (100% complete! 🎉)
-* [Croatian](/translations/hrv.po) (100% complete! 🎉)
-* [Italian](/translations/ita.po) (66% complete; 45 remaining)
-* [Lithuanian](/translations/lit.po) (100% complete! 🎉)
-* [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
-* [Polish](/translations/pol.po) (100% complete! 🎉)
-* [Portuguese](/translations/por.po) (93% complete; 9 remaining)
-* [Russian](/translations/rus.po) (100% complete! 🎉)
-* [Spanish](/translations/spa.po) (100% complete! 🎉)
-* [Turkish](/translations/tur.po) (100% complete! 🎉)
-> Report generated on Dec 11 2020 14:20:00 UTC
+* [German](/translations/deu.po) (72% complete; 51 remaining)
+* [French](/translations/fra.po) (72% complete; 51 remaining)
+* [Croatian](/translations/hrv.po) (72% complete; 51 remaining)
+* [Italian](/translations/ita.po) (48% complete; 94 remaining)
+* [Lithuanian](/translations/lit.po) (72% complete; 51 remaining)
+* [Meme-nglish](/translations/meme.po) (72% complete; 51 remaining)
+* [Polish](/translations/pol.po) (72% complete; 51 remaining)
+* [Portuguese](/translations/por.po) (67% complete; 60 remaining)
+* [Russian](/translations/rus.po) (72% complete; 51 remaining)
+* [Spanish](/translations/spa.po) (72% complete; 51 remaining)
+* [Turkish](/translations/tur.po) (72% complete; 51 remaining)
+> Report generated on Dec 13 2020 05:33:09 UTC

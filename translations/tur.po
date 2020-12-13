@@ -62,25 +62,13 @@ msgstr "Hazır ol"
 msgid "Waiting for other players..."
 msgstr "Diğer oyuncular bekleniyor..."
 
-# screen_sign_in_confirmation.cpp
-msgid "Failed to sign-in!"
-msgstr "Giriş yapımı gerçekleşmemiş!"
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in confirmation"
-msgstr "Giriş yapım onayı"
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in with \"%s\"?"
-msgstr "ile giriş yap \"%s\"?"
-
-# screen_sign_in_confirmation.cpp
-msgid "Waiting for the server..."
-msgstr "Sunucu bekleniyor..."
+# screen_lan_lobby.cpp
+msgid "You are already in the game!"
+msgstr ""
 
 # screen_download_level.cpp
-msgid "Loading level..."
-msgstr "Harita yükleniyor..."
+msgid "Downloading level..."
+msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -214,6 +202,14 @@ msgstr "Yükleme başarılı"
 msgid "Uploading replay for %s."
 msgstr "%s için tekrarlamalar yükleniyor."
 
+# screen_upload_scores.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr ""
+
+# screen_upload_scores.cpp
+msgid "Your account"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Klaviyeyi düzenle"
@@ -233,6 +229,10 @@ msgstr "Atış atmak"
 # screen_select_game_single_player.cpp
 msgid "Select level"
 msgstr "Harita seç"
+
+# screen_settings_language.cpp
+msgid "Contributors"
+msgstr ""
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -277,10 +277,6 @@ msgstr "yerel"
 # screen_view_high_scores.cpp
 msgid "world"
 msgstr "dünya"
-
-# screen_informations_translations.cpp
-msgid "Translations"
-msgstr "Çeviriler"
 
 # screen_benchmark.cpp
 msgid "Skip"
@@ -387,6 +383,10 @@ msgid "by %s"
 msgstr "kurucu %s tarafından yapılmıştır"
 
 # screen_settings.cpp
+msgid "Account"
+msgstr ""
+
+# screen_settings.cpp
 msgid "Audio"
 msgstr "Ses"
 
@@ -415,16 +415,188 @@ msgid "Settings"
 msgstr "Ayarlar"
 
 # screen_settings.cpp
-msgid "Sign-in"
-msgstr "Giriş yap"
-
-# screen_settings.cpp
 msgid "Start tutorial"
 msgstr "Öğren"
 
 # screen_settings.cpp
 msgid "Vibration %s"
 msgstr "Titreşim %s"
+
+# screen_signin.cpp
+msgid "Check your inbox!"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Email not verified"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Failed to request password reset"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Failed to resend email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Incorrect password"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Password"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Password reset email sent"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Re-send verification email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Request password reset"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Requesting password reset"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Requesting verification email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Sign in"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Signing in"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Successfully signed in!"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Verification email sent"
+msgstr ""
+
+# screen_account_url_request.cpp
+msgid "Failed to contact server"
+msgstr ""
+
+# screen_account_url_request.cpp
+msgid "Failed to parse server response"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Create an account to set your name and sync your data"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Not signed in"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Privacy Policy"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Register"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm email"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm email:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm password"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm password:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Email is invalid!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Email:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Emails do not match!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Failed to parse response"
+msgstr ""
+
+# screen_register.cpp
+msgid "Failed to register"
+msgstr ""
+
+# screen_register.cpp
+msgid "Password:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Passwords do not match!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Please check your emails!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Register account"
+msgstr ""
+
+# screen_register.cpp
+msgid "Registering"
+msgstr ""
+
+# screen_register.cpp
+msgid "Registration successful."
+msgstr ""
+
+# screen_register.cpp
+msgid "Too long. Maximum %s characters."
+msgstr ""
+
+# screen_register.cpp
+msgid "Too short. Minimum %s characters."
+msgstr ""
+
+# screen_register.cpp
+msgid "Username"
+msgstr ""
+
+# screen_register.cpp
+msgid "Username (you can put colors in!):"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Online profile"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Sign out"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Synchronize"
+msgstr ""
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -510,6 +682,10 @@ msgstr "Yeni bir altın madalya kazandınız"
 msgid "New silver medal"
 msgstr "Yeni bir gümüş madalya kazandınız"
 
+# account_information.cpp
+msgid "Missing information. This should not happen!"
+msgstr ""
+
 # renderer_types.cpp
 msgid "High"
 msgstr "Yüksek"
@@ -537,4 +713,35 @@ msgstr "Aşırı düşük x4"
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr "Aşırı düşük x8"
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Failed to sign-in!"
+msgstr "Giriş yapımı gerçekleşmemiş!"
+
+# Currently unused! This string may never be used again!
+msgid "Loading level..."
+msgstr "Harita yükleniyor..."
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in"
+msgstr "Giriş yap"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in confirmation"
+msgstr "Giriş yapım onayı"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in with \"%s\"?"
+msgstr "ile giriş yap \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "Translations"
+msgstr "Çeviriler"
+
+# Currently unused! This string may never be used again!
+msgid "Waiting for the server..."
+msgstr "Sunucu bekleniyor..."
 

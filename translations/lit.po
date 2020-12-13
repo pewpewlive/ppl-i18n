@@ -62,25 +62,13 @@ msgstr "Pasiruošti"
 msgid "Waiting for other players..."
 msgstr "Laukiama kitų žaidėjų..."
 
-# screen_sign_in_confirmation.cpp
-msgid "Failed to sign-in!"
-msgstr "Nepavyko prisijungti!"
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in confirmation"
-msgstr "Prisijungimo patvirtinimas"
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in with \"%s\"?"
-msgstr "Prisijungti su \"%s\"?"
-
-# screen_sign_in_confirmation.cpp
-msgid "Waiting for the server..."
-msgstr "Laukiama serverio..."
+# screen_lan_lobby.cpp
+msgid "You are already in the game!"
+msgstr ""
 
 # screen_download_level.cpp
-msgid "Loading level..."
-msgstr "Įkeliamas lygis..."
+msgid "Downloading level..."
+msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -214,6 +202,14 @@ msgstr "Įkėlimas sėkmingas"
 msgid "Uploading replay for %s."
 msgstr "Įkeliamas pakartojimas %s."
 
+# screen_upload_scores.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr ""
+
+# screen_upload_scores.cpp
+msgid "Your account"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Konfigūruoti klaviatūrą"
@@ -233,6 +229,10 @@ msgstr "Šauti"
 # screen_select_game_single_player.cpp
 msgid "Select level"
 msgstr "Pasirinkite lygį"
+
+# screen_settings_language.cpp
+msgid "Contributors"
+msgstr ""
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -277,10 +277,6 @@ msgstr "Regionas"
 # screen_view_high_scores.cpp
 msgid "world"
 msgstr "Pasaulis"
-
-# screen_informations_translations.cpp
-msgid "Translations"
-msgstr "Vertimai"
 
 # screen_benchmark.cpp
 msgid "Skip"
@@ -387,6 +383,10 @@ msgid "by %s"
 msgstr "Padarė %s"
 
 # screen_settings.cpp
+msgid "Account"
+msgstr ""
+
+# screen_settings.cpp
 msgid "Audio"
 msgstr "Garsas"
 
@@ -415,16 +415,188 @@ msgid "Settings"
 msgstr "Nustatymai"
 
 # screen_settings.cpp
-msgid "Sign-in"
-msgstr "Prisijugti"
-
-# screen_settings.cpp
 msgid "Start tutorial"
 msgstr "Pradėti mokymą"
 
 # screen_settings.cpp
 msgid "Vibration %s"
 msgstr "Vibracija %s"
+
+# screen_signin.cpp
+msgid "Check your inbox!"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Email not verified"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Failed to request password reset"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Failed to resend email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Incorrect password"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Password"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Password reset email sent"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Re-send verification email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Request password reset"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Requesting password reset"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Requesting verification email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Sign in"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Signing in"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Successfully signed in!"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Verification email sent"
+msgstr ""
+
+# screen_account_url_request.cpp
+msgid "Failed to contact server"
+msgstr ""
+
+# screen_account_url_request.cpp
+msgid "Failed to parse server response"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Create an account to set your name and sync your data"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Not signed in"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Privacy Policy"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Register"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm email"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm email:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm password"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm password:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Email is invalid!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Email:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Emails do not match!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Failed to parse response"
+msgstr ""
+
+# screen_register.cpp
+msgid "Failed to register"
+msgstr ""
+
+# screen_register.cpp
+msgid "Password:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Passwords do not match!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Please check your emails!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Register account"
+msgstr ""
+
+# screen_register.cpp
+msgid "Registering"
+msgstr ""
+
+# screen_register.cpp
+msgid "Registration successful."
+msgstr ""
+
+# screen_register.cpp
+msgid "Too long. Maximum %s characters."
+msgstr ""
+
+# screen_register.cpp
+msgid "Too short. Minimum %s characters."
+msgstr ""
+
+# screen_register.cpp
+msgid "Username"
+msgstr ""
+
+# screen_register.cpp
+msgid "Username (you can put colors in!):"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Online profile"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Sign out"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Synchronize"
+msgstr ""
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -510,6 +682,10 @@ msgstr "Naujas aukso medalis"
 msgid "New silver medal"
 msgstr "Naujas sidabro medalis"
 
+# account_information.cpp
+msgid "Missing information. This should not happen!"
+msgstr ""
+
 # renderer_types.cpp
 msgid "High"
 msgstr "Aukšta"
@@ -537,4 +713,35 @@ msgstr "Labai žema 4x"
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr "Labai žema 8x"
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Failed to sign-in!"
+msgstr "Nepavyko prisijungti!"
+
+# Currently unused! This string may never be used again!
+msgid "Loading level..."
+msgstr "Įkeliamas lygis..."
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in"
+msgstr "Prisijugti"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in confirmation"
+msgstr "Prisijungimo patvirtinimas"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in with \"%s\"?"
+msgstr "Prisijungti su \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "Translations"
+msgstr "Vertimai"
+
+# Currently unused! This string may never be used again!
+msgid "Waiting for the server..."
+msgstr "Laukiama serverio..."
 
