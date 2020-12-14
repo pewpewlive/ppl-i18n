@@ -64,11 +64,11 @@ msgstr "Diğer oyuncular bekleniyor..."
 
 # screen_lan_lobby.cpp
 msgid "You are already in the game!"
-msgstr ""
+msgstr "Siz zaten oyundasınız!"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Harita yükleniyor..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -204,11 +204,11 @@ msgstr "%s için tekrarlamalar yükleniyor."
 
 # screen_upload_scores.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Skor yüklemek için giriş yapmış olmalısınız"
 
 # screen_upload_scores.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Sizin hesabınız"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -232,7 +232,7 @@ msgstr "Harita seç"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Katılımcılar"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -384,7 +384,7 @@ msgstr "kurucu %s tarafından yapılmıştır"
 
 # screen_settings.cpp
 msgid "Account"
-msgstr ""
+msgstr "Hesap"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -424,179 +424,179 @@ msgstr "Titreşim %s"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Gelen kutusuna bakınız!"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Email doğrulanmamıştır"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Şifre değiştirme başvurusu başarılı olmadı"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Email geri göndermesi oluşmamıştır"
 
 # screen_signin.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "Hatalı şifre"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Şifre"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Şifre değiştirme emaili göderilmiştir"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Doğrulama emailini bir daha göder"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Şifre değiştirme başvurusu iste"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Şifre değiştirme başvurusu isteniyor"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Email doğrulama isteniyor"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Giriş yap"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Giriş yapılıyor"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Başarılı giriş yapıldı!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "Doğrulama emaili göderilmiştir"
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Sunucuya bağlantı kurmak başarısız oldu"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Sunucu bağlantısında hata oluşmuş"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "İsim koymak ve verilerini eşitlemek için hesap yap"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "Giriş yapılmamıştır"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Gizlilik Politikası"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Hesap oluştur"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Emaili doğrula"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Emaili doğrula:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Şifreyi doğrula"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Şifreyi doğrula:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Email geçersizdir!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Emailler eşleşmiyor!"
 
 # screen_register.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Yanıt almada hata oluştu"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "Hesap yapımı başarısız"
 
 # screen_register.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Şifre:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Şifreler eşleşmiyor!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Lütfen emaillerinize bakınız"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Hesap yap"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Hesap yapılıyor"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "Hesap yapımı başarılı."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Çok uzun. En çok %s karakter kullanabilirsiniz."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Çok kısa. En az %s karakter kullanabilirsiniz."
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Kullanıcı adı"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Kullanıcı adı (renk kullanabilirsiniz!):"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Online profil"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Çıkış yap"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Senkronize et"
 
 # game_hud.cpp
 msgid "Shield: %s"
