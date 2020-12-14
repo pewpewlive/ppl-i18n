@@ -660,7 +660,7 @@ msgstr "Bu arka plan çok pahalı bir şeydir"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "\"Super Hexagon"\ ile hiç bir alakası yok"
+msgstr "\"Super Hexagon\" ile hiç bir alakası yok"
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"

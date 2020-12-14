@@ -58,8 +58,12 @@
     "lang": "meme",
     "translators": [
       {
-        "name": "F.O.B.",
-        "color": "0xff20aaff"
+        "name": "Flavour",
+        "color": "0x00ff00ff"
+      },
+      {
+        "name": "BlankEra",
+        "color": "0x800000ff"
       }
     ]
   },{
