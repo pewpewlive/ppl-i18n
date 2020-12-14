@@ -25,7 +25,7 @@ the feasibility.
 * [Meme-nglish](/translations/meme.po) (72% complete; 51 remaining)
 * [Polish](/translations/pol.po) (72% complete; 51 remaining)
 * [Portuguese](/translations/por.po) (67% complete; 60 remaining)
-* [Russian](/translations/rus.po) (72% complete; 51 remaining)
+* [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (72% complete; 51 remaining)
 * [Turkish](/translations/tur.po) (72% complete; 51 remaining)
-> Report generated on Dec 13 2020 05:33:09 UTC
+> Report generated on Dec 14 2020 04:36:47 UTC
