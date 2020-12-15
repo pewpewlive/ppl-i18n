@@ -471,6 +471,10 @@ msgid "Requesting verification email"
 msgstr "Email doğrulama isteniyor"
 
 # screen_signin.cpp
+msgid "Reset password"
+msgstr ""
+
+# screen_signin.cpp
 msgid "Sign in"
 msgstr "Giriş yap"
 
@@ -485,6 +489,26 @@ msgstr "Başarılı giriş yapıldı!"
 # screen_signin.cpp
 msgid "Verification email sent"
 msgstr "Doğrulama emaili göderilmiştir"
+
+# screen_synchronize.cpp
+msgid "All your medals are here."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Failed to synchronize."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronization completed."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronizing"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "You've been signed out."
+msgstr ""
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
@@ -537,10 +561,6 @@ msgstr "Email:"
 # screen_register.cpp
 msgid "Emails do not match!"
 msgstr "Emailler eşleşmiyor!"
-
-# screen_register.cpp
-msgid "Failed to parse response"
-msgstr "Yanıt almada hata oluştu"
 
 # screen_register.cpp
 msgid "Failed to register"
@@ -681,6 +701,10 @@ msgstr "Yeni bir altın madalya kazandınız"
 # medals.cpp
 msgid "New silver medal"
 msgstr "Yeni bir gümüş madalya kazandınız"
+
+# account_information.cpp
+msgid "Failed to parse response"
+msgstr "Yanıt almada hata oluştu"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"

@@ -471,6 +471,10 @@ msgid "Requesting verification email"
 msgstr "Запрос письма-подтверждения..."
 
 # screen_signin.cpp
+msgid "Reset password"
+msgstr ""
+
+# screen_signin.cpp
 msgid "Sign in"
 msgstr "Войти"
 
@@ -485,6 +489,26 @@ msgstr "Вход успешен."
 # screen_signin.cpp
 msgid "Verification email sent"
 msgstr "Письмо-подтверждение отправлено"
+
+# screen_synchronize.cpp
+msgid "All your medals are here."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Failed to synchronize."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronization completed."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronizing"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "You've been signed out."
+msgstr ""
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
@@ -537,10 +561,6 @@ msgstr "Email:"
 # screen_register.cpp
 msgid "Emails do not match!"
 msgstr "Адреса не совпадают!"
-
-# screen_register.cpp
-msgid "Failed to parse response"
-msgstr "Не удалось получить ответ от сервера"
 
 # screen_register.cpp
 msgid "Failed to register"
@@ -681,6 +701,10 @@ msgstr "Новая золотая медаль"
 # medals.cpp
 msgid "New silver medal"
 msgstr "Новая серебряная медаль"
+
+# account_information.cpp
+msgid "Failed to parse response"
+msgstr "Не удалось получить ответ от сервера"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"

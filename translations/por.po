@@ -471,6 +471,10 @@ msgid "Requesting verification email"
 msgstr ""
 
 # screen_signin.cpp
+msgid "Reset password"
+msgstr ""
+
+# screen_signin.cpp
 msgid "Sign in"
 msgstr ""
 
@@ -484,6 +488,26 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Verification email sent"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "All your medals are here."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Failed to synchronize."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronization completed."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronizing"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "You've been signed out."
 msgstr ""
 
 # screen_account_url_request.cpp
@@ -536,10 +560,6 @@ msgstr ""
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
-
-# screen_register.cpp
-msgid "Failed to parse response"
 msgstr ""
 
 # screen_register.cpp
@@ -681,6 +701,10 @@ msgstr "Nova medalha de ouro"
 # medals.cpp
 msgid "New silver medal"
 msgstr "Nova medalha de prata"
+
+# account_information.cpp
+msgid "Failed to parse response"
+msgstr ""
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
