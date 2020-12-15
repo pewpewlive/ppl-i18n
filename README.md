@@ -17,15 +17,15 @@ A few tips for contributing:
 If you want to add support for a new language, create a github Issue so that we can discuss
 the feasibility.
 ## Status
-* [German](/translations/deu.po) (70% complete; 57 remaining)
-* [French](/translations/fra.po) (70% complete; 57 remaining)
+* [German](/translations/deu.po) (100% complete! 🎉)
+* [French](/translations/fra.po) (100% complete! 🎉)
 * [Croatian](/translations/hrv.po) (70% complete; 57 remaining)
 * [Italian](/translations/ita.po) (100% complete! 🎉)
-* [Lithuanian](/translations/lit.po) (70% complete; 57 remaining)
+* [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * [Meme-nglish](/translations/meme.po) (70% complete; 57 remaining)
 * [Polish](/translations/pol.po) (96% complete; 6 remaining)
-* [Portuguese](/translations/por.po) (65% complete; 66 remaining)
+* [Portuguese](/translations/por.po) (100% complete! 🎉)
 * [Russian](/translations/rus.po) (96% complete; 6 remaining)
 * [Spanish](/translations/spa.po) (70% complete; 57 remaining)
 * [Turkish](/translations/tur.po) (96% complete; 7 remaining)
-> Report generated on Dec 15 2020 18:35:50 UTC
+> Report generated on Dec 15 2020 21:00:34 UTC
