@@ -64,7 +64,7 @@ msgstr "In der Warteschlange..."
 
 # screen_lan_lobby.cpp
 msgid "You are already in the game!"
-msgstr "Sie sie schon in der Partie!"
+msgstr "Sie sind schon in der Partie!"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -516,11 +516,11 @@ msgstr "Server wurde nicht kontaktiert"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr "Parse server response hat nicht funktioniert"
+msgstr "Das Parsen hat nicht funktioniert"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr "Erstelle dein Konto, um deinen Benutzernamen zu wählen und deine Daten zu synchronisieren"
+msgstr "Erstelle dein Konto, um deine Daten zu synchronisieren"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
@@ -528,7 +528,7 @@ msgstr "Nicht eingeloggt"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr "Datenschutzbestimmungen"
+msgstr "Datenschutz"
 
 # screen_signed_out.cpp
 msgid "Register"
@@ -704,11 +704,11 @@ msgstr "Neue Silber-Medaille"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Parse hat nicht funktioniert"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Es fehlt Informationen. Es sollte nicht passieren!"
 
 # renderer_types.cpp
 msgid "High"
