@@ -64,11 +64,11 @@ msgstr "Laukiama kitų žaidėjų..."
 
 # screen_lan_lobby.cpp
 msgid "You are already in the game!"
-msgstr ""
+msgstr "Jūs jau žaidime!"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Atsisiunčiamas lygis ..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -204,11 +204,11 @@ msgstr "Įkeliamas pakartojimas %s."
 
 # screen_upload_scores.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Norėdami įkelti taškus, turite prisijungti"
 
 # screen_upload_scores.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Jūsų paskyra"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -232,7 +232,7 @@ msgstr "Pasirinkite lygį"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Prisijungusieji"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -296,7 +296,7 @@ msgstr "Vienas žaidėjas"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
-msgstr "Pamokimas"
+msgstr "Pamokymas"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -384,7 +384,7 @@ msgstr "Padarė %s"
 
 # screen_settings.cpp
 msgid "Account"
-msgstr ""
+msgstr "Paskyra"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -424,199 +424,199 @@ msgstr "Vibracija %s"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Pažiūrėkite savo pašta!"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "El. Paštas"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "El. Paštas ne patvirtintas"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Nepavyko pakeisti slaptažodžio"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Nepavyko išsiųsti El. Pašto"
 
 # screen_signin.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "Neteisingas slaptažodis"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Slaptažodis"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Slaptažodžio keitimo El. laiškas išsiųstas"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Persiųsti patvirtinimo laišką"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Pakeisti slaptažodį"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Prašoma iš naujo nustatyti slaptažodį"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Prašoma patvirtinimo El. Pašto adreso"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Pakeisti slaptažodį"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Prisijungti"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Prisijungiama"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Sėkmingai prisijungėte!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "Patvirtinimo El. Laiškas išsiųstas"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Visi jūsų medaliai yra čia."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Nepavyko sinchronizuoti."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Sinchronizavimas pabaigtas."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Sinchronizuojama"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Jūs esate atjungtas."
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Nepavyko pasiekti serveriu"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Nepavyko išanalizuoti serverio atsakymo"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Sukurkite paskyrą, kad pasirinktumėte vardą ir sinchronizuotumėte savo duomenis"
 
 # screen_signed_out.cpp
-msgid "Not signed in"
-msgstr ""
+msgid "Neprisijungęs"
+msgstr "Neprisijungęs"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privatumo politika"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Registruotis"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Patvirtinti El. Pašto adresą"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Patvirtinti El. Pašto adresą:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Patvirtinti slaptažodį"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Patvirtinti slaptažodį:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "El. Paštas neteisingas!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "El. Paštas:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "El. Paštai nesutampa!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "Nepavyko užsiregistruoti"
 
 # screen_register.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Slaptažodis:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Slaptažodžiai nesutampa!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Patikrinkite savo El. Pašto adresus!"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Registruoti paskyrą"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Registruojama"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "Registracija sėkminga."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Per ilgas. Maksimaliai %s simboliai.."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Per trumpas. Minimaliai %s simboliai."
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Vartotojo vardas"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Vartotojo vardas (galite pasirinkti spalvas!):"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Internetinis profilis"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Atsijungti"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Sinchronizuoti"
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -648,7 +648,7 @@ msgstr "Euklido erdvė yra pervertinta"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr "Žalia gera. Raudona bloga."
+msgstr "Žalia gerai. Raudona blogai."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
@@ -704,11 +704,11 @@ msgstr "Naujas sidabro medalis"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Nepavyko išanalizuoti atsakymo"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Trūksta informacijos. Tai neturėtų atsitikti!"
 
 # renderer_types.cpp
 msgid "High"
