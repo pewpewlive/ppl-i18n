@@ -64,11 +64,11 @@ msgstr "Čekanje na druge igrače..."
 
 # screen_lan_lobby.cpp
 msgid "You are already in the game!"
-msgstr ""
+msgstr "Već si u igri!"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Preuzimanje levela..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -204,11 +204,11 @@ msgstr "Prijenos snimke za %s."
 
 # screen_upload_scores.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Morate biti prijavljeni kako biste mogli prenositi rezultate"
 
 # screen_upload_scores.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Vaš račun"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -232,7 +232,7 @@ msgstr "Odaberi level"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Suradnici"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -384,7 +384,7 @@ msgstr "od %s"
 
 # screen_settings.cpp
 msgid "Account"
-msgstr ""
+msgstr "Račun"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -424,199 +424,199 @@ msgstr "Vibracija %s"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Provjerite Vaš inbox!"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Email nije potvrđen"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Meuspješno slanje zahtjeva resetiranja lozinke"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Neuspješno ponovno slanje email-"
 
 # screen_signin.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "Netočna lozinka"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Lozinka"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Poslan email za resetiranje lozinke"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Ponovno slanje email-a za potvrdnju"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Zahtjevaj resetiranje lozinke"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Zahtjevanje resetiranja lozinke"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Zahtjevanje email-a za potvrdnju"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Resetiraj lozinku"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Prijavi se"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Prijavljivanje"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Uspješna prijava!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "Poslan email za potvrdnju."
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Sve vaše medanje su ovdje."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Neuspješna sinkronizacija."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Sinkronizacija završena."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Sinkroniziranje"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Odjavljeni ste."
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Neuspješno kontaktiranje servera"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Neuspješna rasčlaniranje odgovora servera."
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Napravite račun da biste postavili svoje ime i sinkronizirali Vaše podatke."
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "Niste prijavljeni."
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politika privatnosti"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Registriranje"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Potvrdi email"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Potvrdi email:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Potvrdi lozinku"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Potvrdi lozinku:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Email nije valjan!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Emailovi nisu jednaki!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "Neuspješno registriranje."
 
 # screen_register.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Lozinka:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Lozinke nisu jednake!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Molim Vas pregledajte vaše emailove!"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Registriraj račun"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Registriranje"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "Registriranje uspješno"
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Predugo. Maksimalno %s znakova."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Prekratko. Minimalno % znakova."
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Korisničko ime"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Korističko ime (možete mijenjati boje!)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Online profil"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Odjava"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Sinkronizacija"
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -704,11 +704,11 @@ msgstr "Nova srebrna medalja"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Neuspješno rasčlanjivanje odgovora."
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Nedostaje informacija. Ovo se ne bih trebalo dogoditi!"
 
 # renderer_types.cpp
 msgid "High"
