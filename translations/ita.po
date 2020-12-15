@@ -1,22 +1,22 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr ""
+msgstr "off"
 
 # ui_helpers.cpp
 msgid "on"
-msgstr ""
+msgstr "on"
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr ""
+msgstr "ok"
 
 # game.cpp
 msgid "Quick pause"
-msgstr ""
+msgstr "Pausa rapida"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Pausa rapida %s"
 
 # pause_ui.cpp
 msgid "Continue"
@@ -52,7 +52,7 @@ msgstr "Il gioco è pieno"
 
 # screen_lan_lobby.cpp
 msgid "Local lobby"
-msgstr ""
+msgstr "Lobby locale"
 
 # screen_lan_lobby.cpp
 msgid "Ready"
@@ -64,11 +64,11 @@ msgstr "Aspettando altri giocatori..."
 
 # screen_lan_lobby.cpp
 msgid "You are already in the game!"
-msgstr ""
+msgstr "Sei già nel gioco!"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Sto scaricando il livello..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -104,7 +104,7 @@ msgstr "Scambia"
 
 # screen_select_custom_level.cpp
 msgid "Creator"
-msgstr ""
+msgstr "Creatore"
 
 # screen_select_custom_level.cpp
 msgid "Custom levels"
@@ -168,11 +168,11 @@ msgstr "La rete wifi non deve necessariamente essere connessa a internet"
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr ""
+msgstr "Proiettili"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr ""
+msgstr "Configura la navetta"
 
 # screen_configure_ship.cpp
 msgid "Model"
@@ -180,11 +180,11 @@ msgstr "Modello"
 
 # screen_configure_ship.cpp
 msgid "Trail"
-msgstr ""
+msgstr "Scia"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "Caricamento dei replay fallito."
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
@@ -200,15 +200,15 @@ msgstr "Caricamento completato"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "Caricamento dei replay per %s."
 
 # screen_upload_scores.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Devi essere loggato per caricare i punteggi"
 
 # screen_upload_scores.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Tuo account"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -216,7 +216,7 @@ msgstr "Configura la tastiera"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "Mira con il mouse %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
@@ -232,7 +232,7 @@ msgstr "Scegli livello"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Contributori"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -240,7 +240,7 @@ msgstr "Lingua predefinita"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Aiutaci"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -252,31 +252,31 @@ msgstr "Le traduzioni sono fornite dalla community!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr ""
+msgstr "1p"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr ""
+msgstr "2p"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr ""
+msgstr "3p"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr ""
+msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr ""
+msgstr "personali"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "zona"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr "Mondo"
+msgstr "mondo"
 
 # screen_benchmark.cpp
 msgid "Skip"
@@ -288,11 +288,11 @@ msgstr "Multiplayer locale"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr ""
+msgstr "Single player"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -332,11 +332,11 @@ msgstr "Sì!"
 
 # screen_select_custom_level_info.cpp
 msgid "You can finally code your own levels!"
-msgstr ""
+msgstr "Finalmente puoi programmare i tuoi livelli personali!"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr ""
+msgstr "Errore nella lettura del manifest"
 
 # screen_view_level.cpp
 msgid "Experimental level"
@@ -344,7 +344,7 @@ msgstr "Livello sperimentale"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "Download del manifest fallito"
 
 # screen_view_level.cpp
 msgid "Loading..."
@@ -352,7 +352,7 @@ msgstr "Caricamento..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr ""
+msgstr "Record locale: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
@@ -360,7 +360,7 @@ msgstr "Record mondiale: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
-msgstr ""
+msgstr "Impostazioni dei controlli"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
@@ -372,7 +372,7 @@ msgstr "Touchscreen"
 
 # screen_informations.cpp
 msgid "Development videos"
-msgstr ""
+msgstr "Video dello sviluppo"
 
 # screen_informations.cpp
 msgid "Discord server"
@@ -380,11 +380,11 @@ msgstr "Server Discord"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr ""
+msgstr "di %s"
 
 # screen_settings.cpp
 msgid "Account"
-msgstr ""
+msgstr "Account"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -404,11 +404,11 @@ msgstr "Lingua"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr ""
+msgstr "Avvia intro"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr ""
+msgstr "Renderer: %s"
 
 # screen_settings.cpp
 msgid "Settings"
@@ -416,7 +416,7 @@ msgstr "Impostazioni"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr "Inizia tutorial"
+msgstr "Inizia  il tutorial"
 
 # screen_settings.cpp
 msgid "Vibration %s"
@@ -424,215 +424,215 @@ msgstr "Vibrazione: %s"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Controlla la tua casella di posta!"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Email non verificata"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "La richiesta di reset della password è fallita"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Il reinvio della email è fallito"
 
 # screen_signin.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "Password errata"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Email di reset della password inviata"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Reinvia l'email di verifica"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Richiedi il reset della password"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Sto richiedendo il reset della password"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Sto richiedendo l'email di verifica"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Resetta la password"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Connettiti"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Ti sto connettendo"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Sei connesso!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "Email di verifica inviata"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Tutte le tue medaglie sono qui."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Sincronizzazione fallita."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Sincronizzazione completata"
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Sto sincronizzando"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Sei stato disconnesso."
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Collegamento al server fallito"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Elaborazione della risposta del server fallita"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Crea un account per impostare il tuo nome e per sincronizzare i tuoi dati"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "Non connesso"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privacy Policy"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Registrati"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Conferma l'email"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Conferma l'email:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Conferma la password"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Conferma la password:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "L'email non è valida"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Le email non coincidono!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "Registrazione fallita"
 
 # screen_register.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Password:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Le passoword non coincidono!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Controlla le tue email, per favore!"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Registra account"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Ti sto registrando"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "Registrazione completata."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Troppo lunga. Massimo %s caratteri."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Troppo corta. Minimo %s caratteri."
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Username (puoi colorarlo!)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Profilo online"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Disconnetti"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Sincronizza"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr ""
+msgstr "Scudo: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr ""
+msgstr "%s ha lasciato il gioco"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "Precisione: %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
@@ -640,7 +640,7 @@ msgstr "Scegli la tua difficoltà"
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "Schiva tutto e starai bene"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
@@ -656,7 +656,7 @@ msgstr "Solo 32 secondi di abilità"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr ""
+msgstr "La mia modalità preferita"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
@@ -664,23 +664,23 @@ msgstr "Non fidarti mai di un poligono con 6 lati"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "Precedentemente noto come Assalto"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "RIP GW3:Dimensions"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "Sopravvivi 32 secondi con questo semplice trucco"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr ""
+msgstr "Lo sfondo è costoso da elaborare"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "Non correlato a \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
@@ -688,7 +688,7 @@ msgstr "\"Questo livello è uno scherzo, vero?\" - un tester"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr ""
+msgstr "aka Dodge This"
 
 # medals.cpp
 msgid "New bronze medal"
@@ -704,11 +704,11 @@ msgstr "Nuova medaglia d'argento"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Elaborazione delle risposta fallita"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Informazioni mancanti. Questo non dovrebbe accadere!"
 
 # renderer_types.cpp
 msgid "High"
