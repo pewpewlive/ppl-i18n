@@ -20,7 +20,7 @@ the feasibility.
 * [German](/translations/deu.po) (70% complete; 57 remaining)
 * [French](/translations/fra.po) (70% complete; 57 remaining)
 * [Croatian](/translations/hrv.po) (70% complete; 57 remaining)
-* [Italian](/translations/ita.po) (47% complete; 100 remaining)
+* [Italian](/translations/ita.po) (100% complete! 🎉)
 * [Lithuanian](/translations/lit.po) (70% complete; 57 remaining)
 * [Meme-nglish](/translations/meme.po) (70% complete; 57 remaining)
 * [Polish](/translations/pol.po) (96% complete; 6 remaining)
@@ -28,4 +28,4 @@ the feasibility.
 * [Russian](/translations/rus.po) (96% complete; 6 remaining)
 * [Spanish](/translations/spa.po) (70% complete; 57 remaining)
 * [Turkish](/translations/tur.po) (96% complete; 7 remaining)
-> Report generated on Dec 15 2020 10:40:57 UTC
+> Report generated on Dec 15 2020 18:35:50 UTC
