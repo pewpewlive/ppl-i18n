@@ -62,25 +62,13 @@ msgstr "Gotowy"
 msgid "Waiting for other players..."
 msgstr "Czekanie na pozostałych graczy..."
 
-# screen_sign_in_confirmation.cpp
-msgid "Failed to sign-in!"
-msgstr "Logowanie nie powiodło się"
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in confirmation"
-msgstr "Potwierdzanie logowania"
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in with \"%s\"?"
-msgstr "Zaloguj się za pomocą \"%s\"?"
-
-# screen_sign_in_confirmation.cpp
-msgid "Waiting for the server..."
-msgstr "Czekanie na serwer"
+# screen_lan_lobby.cpp
+msgid "You are already in the game!"
+msgstr "Jesteś już w grze!"
 
 # screen_download_level.cpp
-msgid "Loading level..."
-msgstr "Ładowanie poziomu"
+msgid "Downloading level..."
+msgstr "PObieranie poziomu..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -104,7 +92,7 @@ msgstr "Port:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr "Konfiguruj drążki stereowne"
+msgstr "Konfiguruj drążki sterujące"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
@@ -128,7 +116,7 @@ msgstr "Nazwa poziomu"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr "(niekompatebilna wersja)"
+msgstr "(niekompatybilna wersja)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
@@ -160,7 +148,7 @@ msgstr "Lokalny multiplayer"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Lokalny multiplayer wspomaga do 2 graczy podłączonych do jednej sieci wifi"
+msgstr "Lokalny multiplayer wspiera do 2 graczy podłączonych do jednej sieci wifi"
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
@@ -214,6 +202,14 @@ msgstr "Przesłanie powiodło się"
 msgid "Uploading replay for %s."
 msgstr "Przesyłanie powtórki dla %s."
 
+# screen_upload_scores.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr "Musisz być zalogowany by przesyłać wyniki"
+
+# screen_upload_scores.cpp
+msgid "Your account"
+msgstr "Twoje konto"
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Konfiguruj klawiaturę"
@@ -233,6 +229,10 @@ msgstr "Strzelaj"
 # screen_select_game_single_player.cpp
 msgid "Select level"
 msgstr "Wybierz poziom"
+
+# screen_settings_language.cpp
+msgid "Contributors"
+msgstr "współautorzy"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -278,10 +278,6 @@ msgstr "region"
 msgid "world"
 msgstr "Świat"
 
-# screen_informations_translations.cpp
-msgid "Translations"
-msgstr "Tłumaczenia"
-
 # screen_benchmark.cpp
 msgid "Skip"
 msgstr "Pomiń"
@@ -312,7 +308,7 @@ msgstr "Błąd połączenia"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr "Stracono połączenie z serwerem"
+msgstr "Utracono połączenie z serwerem"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -320,7 +316,7 @@ msgstr "Ustawienia Dźwięku"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr "Effekty dźwiękowe"
+msgstr "Efekty dźwiękowe"
 
 # screen_select_custom_level_info.cpp
 msgid "Custom levels?!"
@@ -387,6 +383,10 @@ msgid "by %s"
 msgstr "by %s"
 
 # screen_settings.cpp
+msgid "Account"
+msgstr "Konto"
+
+# screen_settings.cpp
 msgid "Audio"
 msgstr "Dźwięki"
 
@@ -415,10 +415,6 @@ msgid "Settings"
 msgstr "Ustawienia"
 
 # screen_settings.cpp
-msgid "Sign-in"
-msgstr "Zaloguj się"
-
-# screen_settings.cpp
 msgid "Start tutorial"
 msgstr "Zacznij samouczek"
 
@@ -426,13 +422,209 @@ msgstr "Zacznij samouczek"
 msgid "Vibration %s"
 msgstr "Wibracje %s"
 
+# screen_signin.cpp
+msgid "Check your inbox!"
+msgstr "Sprawdź swoją skrzynkę odbiorczą"
+
+# screen_signin.cpp
+msgid "Email"
+msgstr "E-mail"
+
+# screen_signin.cpp
+msgid "Email not verified"
+msgstr "E-mail nie zweryfikowany"
+
+# screen_signin.cpp
+msgid "Failed to request password reset"
+msgstr "Nie udało się zażądać resetowania hasła"
+
+# screen_signin.cpp
+msgid "Failed to resend email"
+msgstr "Nie udało się ponownie wysłać e-maila"
+
+# screen_signin.cpp
+msgid "Incorrect password"
+msgstr "Nieprawidłowe hasło"
+
+# screen_signin.cpp
+msgid "Password"
+msgstr "Hasło"
+
+# screen_signin.cpp
+msgid "Password reset email sent"
+msgstr "Wysłano wiadomość e-mail dotyczącą resetowania hasła"
+
+# screen_signin.cpp
+msgid "Re-send verification email"
+msgstr "Wysłano ponownie e-mail weryfikacyjny"
+
+# screen_signin.cpp
+msgid "Request password reset"
+msgstr "Poproś o resetowanie hasła"
+
+# screen_signin.cpp
+msgid "Requesting password reset"
+msgstr "Żądanie resetowanie hasła"
+
+# screen_signin.cpp
+msgid "Requesting verification email"
+msgstr "Żądanie weryfikacji e-maila"
+
+# screen_signin.cpp
+msgid "Reset password"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Sign in"
+msgstr "Zaloguj się"
+
+# screen_signin.cpp
+msgid "Signing in"
+msgstr "Logowanie się"
+
+# screen_signin.cpp
+msgid "Successfully signed in!"
+msgstr "Logowanie powiodło się"
+
+# screen_signin.cpp
+msgid "Verification email sent"
+msgstr "Wysłano e-mail weryfikacyjny"
+
+# screen_synchronize.cpp
+msgid "All your medals are here."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Failed to synchronize."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronization completed."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronizing"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "You've been signed out."
+msgstr ""
+
+# screen_account_url_request.cpp
+msgid "Failed to contact server"
+msgstr "Nie udało się skontaktować z serwerem"
+
+# screen_account_url_request.cpp
+msgid "Failed to parse server response"
+msgstr "Nie udało się przeanalizować odpowiedzi serwera"
+
+# screen_signed_out.cpp
+msgid "Create an account to set your name and sync your data"
+msgstr "Utwóz konto żeby ustawić twoją nazwę i aby zsynchronizować twoje dane"
+
+# screen_signed_out.cpp
+msgid "Not signed in"
+msgstr "Nie zalogowano"
+
+# screen_signed_out.cpp
+msgid "Privacy Policy"
+msgstr "Polityka Prywatności"
+
+# screen_signed_out.cpp
+msgid "Register"
+msgstr "Zarejestruj"
+
+# screen_register.cpp
+msgid "Confirm email"
+msgstr "Potwierdź e-mail"
+
+# screen_register.cpp
+msgid "Confirm email:"
+msgstr "Potwierdź e-mail:"
+
+# screen_register.cpp
+msgid "Confirm password"
+msgstr "Potwierdź hasło"
+
+# screen_register.cpp
+msgid "Confirm password:"
+msgstr "Potwierdź hasło:"
+
+# screen_register.cpp
+msgid "Email is invalid!"
+msgstr "E-mail jest nie prawidłowy!"
+
+# screen_register.cpp
+msgid "Email:"
+msgstr "E-mail:"
+
+# screen_register.cpp
+msgid "Emails do not match!"
+msgstr "E-maile się nie zgadzają"
+
+# screen_register.cpp
+msgid "Failed to register"
+msgstr "Nie udało się zarejestrować"
+
+# screen_register.cpp
+msgid "Password:"
+msgstr "Hasło:"
+
+# screen_register.cpp
+msgid "Passwords do not match!"
+msgstr "Hasła się nie zgadzają!"
+
+# screen_register.cpp
+msgid "Please check your emails!"
+msgstr "Prosze sprawdź swoje e-maile!"
+
+# screen_register.cpp
+msgid "Register account"
+msgstr "Zarejestruj konto"
+
+# screen_register.cpp
+msgid "Registering"
+msgstr "Rejestrowanie"
+
+# screen_register.cpp
+msgid "Registration successful."
+msgstr "Rejestracja powiodła sie"
+
+# screen_register.cpp
+msgid "Too long. Maximum %s characters."
+msgstr "Zbyt długie. Maksymalnie %s znaków."
+
+# screen_register.cpp
+msgid "Too short. Minimum %s characters."
+msgstr "Zbyt krótkie. Minimum %s znaków."
+
+# screen_register.cpp
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+# screen_register.cpp
+msgid "Username (you can put colors in!):"
+msgstr "Nazwa użytkownika (możesz dodać kolory!):"
+
+# screen_signed_in.cpp
+msgid "Online profile"
+msgstr "Profil online"
+
+# screen_signed_in.cpp
+msgid "Sign out"
+msgstr "Wyloguj się"
+
+# screen_signed_in.cpp
+msgid "Synchronize"
+msgstr "Synchronizuj"
+
 # game_hud.cpp
 msgid "Shield: %s"
 msgstr "Tarcza: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr "%s wyszedł/a z gry"
+msgstr "%s opuścił(a) grę"
 
 # game_state.cpp
 msgid "Accuracy: %s"
@@ -452,7 +644,7 @@ msgstr "Unikaj wszystkiego i będzie OK"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr "Euclidean space jest zbyt doceniany"
+msgstr "Przestrzeń euklidejska jest zbyt doceniana"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
@@ -484,11 +676,11 @@ msgstr "Przetrwaj 32 sekundy za pomocą tej prostej sztuczki"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr "Tło jest drogie dla kompute"
+msgstr "Renderowanie tego tła jest wymagające"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Niepowiązanie do \"Super Hexagon\""
+msgstr "Niezwiązane z \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
@@ -500,7 +692,7 @@ msgstr "aka Dodge This"
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr "Nowy bronzowy medal"
+msgstr "Nowy brązowy medal"
 
 # medals.cpp
 msgid "New gold medal"
@@ -509,6 +701,14 @@ msgstr "Nowy złoty medal"
 # medals.cpp
 msgid "New silver medal"
 msgstr "Nowy srebrny medal"
+
+# account_information.cpp
+msgid "Failed to parse response"
+msgstr "Nie udało się przeanalizować odpowiedzi"
+
+# account_information.cpp
+msgid "Missing information. This should not happen!"
+msgstr "Brakuje informacji. To nie powinno się zdażyć!"
 
 # renderer_types.cpp
 msgid "High"
@@ -537,4 +737,35 @@ msgstr "Ultra niskie 4x"
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr "Ultra niskie 8x"
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Failed to sign-in!"
+msgstr "Logowanie nie powiodło się"
+
+# Currently unused! This string may never be used again!
+msgid "Loading level..."
+msgstr "Ładowanie poziomu"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in"
+msgstr "Zaloguj się"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in confirmation"
+msgstr "Potwierdzanie logowania"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in with \"%s\"?"
+msgstr "Zaloguj się za pomocą \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "Translations"
+msgstr "Tłumaczenia"
+
+# Currently unused! This string may never be used again!
+msgid "Waiting for the server..."
+msgstr "Czekanie na serwer"
 

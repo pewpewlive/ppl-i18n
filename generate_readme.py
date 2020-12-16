@@ -14,9 +14,10 @@ os.chdir(dname)
 # https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 lang_files_dir = "translations/"
 langs = [{"code": "deu", "name": "German"}, {"code": "fra", "name": "French"}, {"code": "hrv", "name": "Croatian"},
-         {"code": "ita", "name": "Italian"}, {"code": "meme", "name": "Meme-nglish"}, {"code": "pol", "name": "Polish"},
-         {"code": "por", "name": "Portuguese"}, {"code": "rus", "name": "Russian"}, {"code": "spa", "name": "Spanish"},
-         {"code": "tur", "name": "Turkish"}]
+         {"code": "ita", "name": "Italian"}, {"code": "lit", "name": "Lithuanian"},
+         {"code": "meme", "name": "Meme-nglish"}, {"code": "pol", "name": "Polish"},
+         {"code": "por", "name": "Portuguese"}, {"code": "rus", "name": "Russian"},
+         {"code": "spa", "name": "Spanish"}, {"code": "tur", "name": "Turkish"}]
 lang_stats = {}
 
 # Generate the stats
@@ -53,8 +54,10 @@ with open(readme_file, 'w') as f:
     f.write("A few tips for contributing:\n")
     f.write("* Keep the `%s` as they later get replaced by some other text.\n")
     f.write("* Try to have have the translations be approximately the same length as the english text.\n")
+    f.write("* Don't hesitate the reword the text in order to better fit the language.\n")
     f.write("## Adding new languages\n")
-    f.write("If you want to add support for a new language, [send me an email](mailto:jfgeyelin+ppl@gmail.com).\n")
+    f.write("If you want to add support for a new language, create a github Issue so that we can discuss\n")
+    f.write("the feasibility.\n")
     f.write("## Status\n")
     for lang in langs:
         lang_code = lang["code"]

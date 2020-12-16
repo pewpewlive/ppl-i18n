@@ -1,86 +1,86 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr "off"
+msgstr "Išj."
 
 # ui_helpers.cpp
 msgid "on"
-msgstr "on"
+msgstr "Įj."
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr "ok"
+msgstr "Gerai"
 
 # game.cpp
 msgid "Quick pause"
-msgstr "Kurze Pause"
+msgstr "Greita pauzė"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr "Kurze Pause %s"
+msgstr "Greita pauzė %s"
 
 # pause_ui.cpp
 msgid "Continue"
-msgstr "Weitergehen"
+msgstr "Tęsti"
 
 # pause_ui.cpp
 msgid "Exit"
-msgstr "Exit"
+msgstr "Išeiti"
 
 # pause_ui.cpp
 msgid "Pause"
-msgstr "Pause"
+msgstr "Pauzė"
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr "Wieder anfangen"
+msgstr "Iš naujo"
 
 # game_over_ui.cpp
 msgid "Game Over"
-msgstr "Game Over"
+msgstr "Žaidimas baigtas"
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr "Wieder spielen"
+msgstr "Žaisti vėl"
 
 # screen_lan_lobby.cpp
 msgid "Cancel"
-msgstr "Abbrechen"
+msgstr "Atšaukti"
 
 # screen_lan_lobby.cpp
 msgid "Game is full"
-msgstr "Partie is voll"
+msgstr "Žaidimas pilnas"
 
 # screen_lan_lobby.cpp
 msgid "Local lobby"
-msgstr "Local lobby"
+msgstr "Vietinė fojė"
 
 # screen_lan_lobby.cpp
 msgid "Ready"
-msgstr "Bereit"
+msgstr "Pasiruošti"
 
 # screen_lan_lobby.cpp
 msgid "Waiting for other players..."
-msgstr "In der Warteschlange..."
+msgstr "Laukiama kitų žaidėjų..."
 
 # screen_lan_lobby.cpp
 msgid "You are already in the game!"
-msgstr "Sie sind schon in der Partie!"
+msgstr "Jūs jau žaidime!"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr "Lagen der Stufe..."
+msgstr "Atsisiunčiamas lygis ..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr "Verbindung"
+msgstr "Prisijungti"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Verbindung zu einer Partie über das Internet #ff0000ff(experimental)"
+msgstr "Prisijunkite prie kito kambario per internetą #ff0000ff(eksperimentinis)"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
-msgstr "Verbindung zum Server"
+msgstr "Prisijungti prie serverio"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
@@ -92,680 +92,680 @@ msgstr "Port:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr "Joysticks konfigurieren"
+msgstr "Konfigūruokite vairasvirtes"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
-msgstr "Reset"
+msgstr "Atstatyti"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr "Swap"
+msgstr "Keisti"
 
 # screen_select_custom_level.cpp
 msgid "Creator"
-msgstr "Ersteller"
+msgstr "Kūrėjas"
 
 # screen_select_custom_level.cpp
 msgid "Custom levels"
-msgstr "Personalisierte Stufen"
+msgstr "Kitų žmonių lygiai"
 
 # screen_select_custom_level.cpp
 msgid "Level name"
-msgstr "Name der Stufe"
+msgstr "Lygio pavadinimas"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr "(Incompatible version)"
+msgstr "(Nepalaikoma versija)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
-msgstr "Partie schließen"
+msgstr "Uždaryti kambarį"
 
 # screen_lan_create_or_join.cpp
 msgid "Connect to..."
-msgstr "Verbindung zu..."
+msgstr "Prisijungti prie..."
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "Versuchen Sie, sich zu einem Handy's hotspot zu verbinden!"
+msgstr "Prisijungimas prie draugo mobiliosios saitvietės turėtų veikti!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
-msgstr "Partie erstellen"
+msgstr "Sukurti kambarį"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Alle Spieler müssen die Replays separat laden, um in dem Online leaderboard erscheinen zu können"
+msgstr "Kiekvienas žaidėjas turėtu atskirai įkelti pakartojimą, kad abu būtų rodomi internetinėje lyderių lentoje."
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr "Hilfe"
+msgstr "Pagalba"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr "Local multiplayer"
+msgstr "Vietinis kelių žaidėjų režimas"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Local multiplayer funktionert mit 2 Spielern, die beide zu dem gleichen Wifi-Netzwerk verbunden sind."
+msgstr "Vietinis daugelio žaidėjų režimas palaiko tik 2 žaidėjus, prijungtus prie to paties „WiFi“ tinklo."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr "Multiplayer Hilfe"
+msgstr "Pagalba"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr "Ein Spieler muss eine Partie erstellen, die der andere beitreten muss"
+msgstr "Vienas žaidėjas turi sukurti kambarį, prie kurio prisijungia kitas žaidėjas."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr "Auf der Suche nach Spielen..."
+msgstr "Ieškoma kambarių..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr "Wifi-Netzwerk muss nicht umbedingt zum Internet verbunden zu sein"
+msgstr "„WiFi“ tinklas neturi turėti internetine prieiga."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr "Kugeln"
+msgstr "Kulkos"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr "Schiff konfigurieren"
+msgstr "Konfigūruoti laivą"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr "Modell"
+msgstr "Modeliai"
 
 # screen_configure_ship.cpp
 msgid "Trail"
-msgstr "Trail"
+msgstr "Pėdsakas"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr "Das Lagen der Replays hat nicht funktionert."
+msgstr "Nepavyko įkelti pakartojimų."
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
-msgstr "Es gibt nichts neues zu laden!"
+msgstr "Nėra nieko įkelti!"
 
 # screen_upload_scores.cpp
 msgid "Upload scores"
-msgstr "Scores laden"
+msgstr "Įkelti taškus"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
-msgstr "Das Laden hat funktioniert"
+msgstr "Įkėlimas sėkmingas"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr "Laden des Replays für... %s."
+msgstr "Įkeliamas pakartojimas %s."
 
 # screen_upload_scores.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr "Sie müssen Sich einloggen, um Scores zu laden"
+msgstr "Norėdami įkelti taškus, turite prisijungti"
 
 # screen_upload_scores.cpp
 msgid "Your account"
-msgstr "Ihr Konto"
+msgstr "Jūsų paskyra"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr "Tastatur konfigurieren"
+msgstr "Konfigūruoti klaviatūrą"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr "Mit dem Maus zielen %s"
+msgstr "Pelės taikiklis %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
-msgstr "Sich bewegen"
+msgstr "Judėti"
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr "Schießen"
+msgstr "Šauti"
 
 # screen_select_game_single_player.cpp
 msgid "Select level"
-msgstr "Stufe wählen"
+msgstr "Pasirinkite lygį"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr "Beiträger"
+msgstr "Prisijungusieji"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr "Standardsprache"
+msgstr "Numatytoji kalba"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr "Teilnehmen"
+msgstr "Padėti"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
-msgstr "Sprache-Einstellungen"
+msgstr "Kalbos nustatymai"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr "Übersetzungen werden von der Community vorgeschlagen!"
+msgstr "Vertimai yra bendruomenės patvirtinti!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr "1s"
+msgstr "1p"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr "2s"
+msgstr "2p"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr "3s"
+msgstr "3p"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr "4s"
+msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr "persönlich"
+msgstr "Asmeninis"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr "Region"
+msgstr "Regionas"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr "Welt"
+msgstr "Pasaulis"
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr "Überspringen"
+msgstr "Praleisti"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr "Local Multiplayer"
+msgstr "Vietinis kelių žaidėjų režimas"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr "Spielen"
+msgstr "Žaisti"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr "Single Spieler"
+msgstr "Vienas žaidėjas"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
-msgstr "Tutorial"
+msgstr "Pamokymas"
 
 # screen_informations_music.cpp
 msgid "Music"
-msgstr "Musik"
+msgstr "Muzika"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr "Verbindungsfehler"
+msgstr "Ryšio klaida"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr "Verbindung zum Server unterbrochen"
+msgstr "Prarastas ryšys su serveriu"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
-msgstr "Audio-Einstellungen"
+msgstr "Garso nustatymai"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr "Soundseffekte"
+msgstr "Garso efektai"
 
 # screen_select_custom_level_info.cpp
 msgid "Custom levels?!"
-msgstr "Personalisierte Stufen?! Echt?"
+msgstr "Kitų žmonių lygiai?!"
 
 # screen_select_custom_level_info.cpp
 msgid "More information"
-msgstr "Mehr Informationen"
+msgstr "Daugiau informacijos"
 
 # screen_select_custom_level_info.cpp
 msgid "Yes!"
-msgstr "Ja!"
+msgstr "Taip!"
 
 # screen_select_custom_level_info.cpp
 msgid "You can finally code your own levels!"
-msgstr "Du kannst endlich deine eigene Stufen programmieren!"
+msgstr "Pagaliau galite koduoti savo lygius!"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr "Fehler während des Lesens des Manifests"
+msgstr "Klaida skaitant aprašą"
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr "Experimentalstufe"
+msgstr "Expermentinis lygis"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr "Manifest wurde nicht geladen"
+msgstr "Nepavyko atsisiųsti aprašo"
 
 # screen_view_level.cpp
 msgid "Loading..."
-msgstr "Wird geladen..."
+msgstr "Kraunama..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr "Local best: %s"
+msgstr "Vietinis rekordas: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr "World record: %s"
+msgstr "Pasaulinis rekordas: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
-msgstr "Kontrollen-Einstellungen"
+msgstr "Valdymo nustatymai"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
-msgstr "Tastatur"
+msgstr "Klaviatūra"
 
 # screen_settings_controls.cpp
 msgid "Touchscreen"
-msgstr "Touchscreen"
+msgstr "Liečiamas vaizdas"
 
 # screen_informations.cpp
 msgid "Development videos"
-msgstr "Development videos"
+msgstr "Kurimo vaizdo įrašai"
 
 # screen_informations.cpp
 msgid "Discord server"
-msgstr "Discord server"
+msgstr "„Discord“ serveris"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr "von %s"
+msgstr "Padarė %s"
 
 # screen_settings.cpp
 msgid "Account"
-msgstr "Konto"
+msgstr "Paskyra"
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr "Audio"
+msgstr "Garsas"
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr "Kontrollen"
+msgstr "Valdymas"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr "Developer mode"
+msgstr "Kurėjo režimas"
 
 # screen_settings.cpp
 msgid "Language"
-msgstr "Sprache"
+msgstr "Kalba"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr "Intro starten"
+msgstr "Paleisti įvadą"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr "Qualität: %s"
+msgstr "Kokybė: %s"
 
 # screen_settings.cpp
 msgid "Settings"
-msgstr "Einstellungen"
+msgstr "Nustatymai"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr "Tutorial starten"
+msgstr "Pradėti mokymą"
 
 # screen_settings.cpp
 msgid "Vibration %s"
-msgstr "Vibration %s"
+msgstr "Vibracija %s"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr "Prüfen Sie Ihre Inbox!"
+msgstr "Pažiūrėkite savo pašta!"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr "Email"
+msgstr "El. Paštas"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr "Email wurde nicht bestätigt"
+msgstr "El. Paštas ne patvirtintas"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr "Passwort konnte nicht zurücksetzen werden"
+msgstr "Nepavyko pakeisti slaptažodžio"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr "Email konnte nicht nochmal gesendet werden"
+msgstr "Nepavyko išsiųsti El. Pašto"
 
 # screen_signin.cpp
 msgid "Incorrect password"
-msgstr "Falsches Passwort"
+msgstr "Neteisingas slaptažodis"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr "Passwort"
+msgstr "Slaptažodis"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr "Email für das neue Passwort wurde gesendet"
+msgstr "Slaptažodžio keitimo El. laiškas išsiųstas"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr "Bestätigungsemail nochmal senden"
+msgstr "Persiųsti patvirtinimo laišką"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr "Passwort zurücksetzen"
+msgstr "Pakeisti slaptažodį"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr "Anfordern des Zurücksetzens des Passworts"
+msgstr "Prašoma iš naujo nustatyti slaptažodį"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr "Anfordern der Bestätigungsemail"
+msgstr "Prašoma patvirtinimo El. Pašto adreso"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr "Passwort zurücksetzen"
+msgstr "Pakeisti slaptažodį"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr "Sich einloggen"
+msgstr "Prisijungti"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr "Login..."
+msgstr "Prisijungiama"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr "Sie sind jetzt eingeloggt!"
+msgstr "Sėkmingai prisijungėte!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr "Die Bestätigungsemail wurde gesendet"
+msgstr "Patvirtinimo El. Laiškas išsiųstas"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr "Alle Ihre Medaillen finden Sie hier"
+msgstr "Visi jūsų medaliai yra čia."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr "Synchronisation hat nicht funktioniert"
+msgstr "Nepavyko sinchronizuoti."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr "Synchronisation abgeschlossen"
+msgstr "Sinchronizavimas pabaigtas."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr "Synchronisation..."
+msgstr "Sinchronizuojama"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr "Sie sind nicht mehr eingeloggt."
+msgstr "Jūs esate atjungtas."
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
-msgstr "Server wurde nicht kontaktiert"
+msgstr "Nepavyko pasiekti serveriu"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr "Das Parsen hat nicht funktioniert"
+msgstr "Nepavyko išanalizuoti serverio atsakymo"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr "Erstelle dein Konto, um deine Daten zu synchronisieren"
+msgstr "Sukurkite paskyrą, kad pasirinktumėte vardą ir sinchronizuotumėte savo duomenis"
 
 # screen_signed_out.cpp
-msgid "Not signed in"
-msgstr "Nicht eingeloggt"
+msgid "Neprisijungęs"
+msgstr "Neprisijungęs"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr "Datenschutz"
+msgstr "Privatumo politika"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr "Erstmalig anmelden"
+msgstr "Registruotis"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr "Email bestätigen"
+msgstr "Patvirtinti El. Pašto adresą"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr "Email bestätigen:"
+msgstr "Patvirtinti El. Pašto adresą:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr "Passwort bestätigen"
+msgstr "Patvirtinti slaptažodį"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr "Passwort bestätigen:"
+msgstr "Patvirtinti slaptažodį:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr "Email ist ungültig!"
+msgstr "El. Paštas neteisingas!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr "Email:"
+msgstr "El. Paštas:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr "Emails stimmen nich miteinander!"
+msgstr "El. Paštai nesutampa!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr "Anmeldung hat nicht funktioniert"
+msgstr "Nepavyko užsiregistruoti"
 
 # screen_register.cpp
 msgid "Password:"
-msgstr "Passwort:"
+msgstr "Slaptažodis:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr "Passwörter stimmen nicht miteinander!"
+msgstr "Slaptažodžiai nesutampa!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr "Bitte Prüfen Sie Ihre Emails"
+msgstr "Patikrinkite savo El. Pašto adresus!"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr "Erstmalig anmelden"
+msgstr "Registruoti paskyrą"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr "Anmeldung..."
+msgstr "Registruojama"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr "Anmeldung hat funktioniert."
+msgstr "Registracija sėkminga."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr "Zu lang. %s Charactere maximum."
+msgstr "Per ilgas. Maksimaliai %s simboliai.."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr "Zu kurz. %s Charactere minimum."
+msgstr "Per trumpas. Minimaliai %s simboliai."
 
 # screen_register.cpp
 msgid "Username"
-msgstr "Benutzername"
+msgstr "Vartotojo vardas"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr "Benutzername (Sie können Farben benutzen!):"
+msgstr "Vartotojo vardas (galite pasirinkti spalvas!):"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr "Online Profil"
+msgstr "Internetinis profilis"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr "Sich ausloggen"
+msgstr "Atsijungti"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr "Synchronisieren"
+msgstr "Sinchronizuoti"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr "Schild: %s"
+msgstr "Skydai: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr "%s hat die Partie verlassen"
+msgstr "%s išėjo iš žaidimo"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr "Richtigkeit: %s"
+msgstr "Tikslumas: %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr "N/A"
+msgstr "Nėra"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
-msgstr "Du wählst deine eigene Schwierigkeit"
+msgstr "Pasirinkite sunkumą"
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr "Einfach alles ausweichen und es sollte OK sein"
+msgstr "Venkite visko ir viskas bus gerai"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr "Euclide wäre nicht zufrieden"
+msgstr "Euklido erdvė yra pervertinta"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr "Grün OK. Rot schlecht."
+msgstr "Žalia gerai. Raudona blogai."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr "32 Sekunden wo du einfach perfekt spielen musst"
+msgstr "Tik 32 sekundės įgūdžių"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr "Meine Lieblingsstufe"
+msgstr "Mano mėgstamiausias režimas"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
-msgstr "Polygons mit 6 Seiten muss man nie vertreuen"
+msgstr "Niekada nepasitikėkite šešiakampiu"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr "Auch bekannt als Assault"
+msgstr "Anksčiau žinomas kaip užpuolimas"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr "RIP GW3:Dimensions"
+msgstr "„RIP GW3:Dimensions“"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr "Aber was passiert nach den 32 Sekunden?"
+msgstr "Išgyvenkite 32 sekundes su šiuo paprastu triuku"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr "Dreiecke überall!"
+msgstr "Foną apskaičiuoti brangu"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Nichts mit \"Super Hexagon\" zu tun"
+msgstr "Nesusijęs su \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Diese Stufe ist ein Witz, oder?\" - ein Tester"
+msgstr "\"Šis lygis yra pokštas, tiesa?\" - testuotojas"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr "Auch bekannt als Dodge This"
+msgstr "Dar žinomas kaip „Dodge This“"
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr "Neue Bronze-Medaille"
+msgstr "Naujas bronzos medalis"
 
 # medals.cpp
 msgid "New gold medal"
-msgstr "Neue Gold-Medaille"
+msgstr "Naujas aukso medalis"
 
 # medals.cpp
 msgid "New silver medal"
-msgstr "Neue Silber-Medaille"
+msgstr "Naujas sidabro medalis"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr "Parse hat nicht funktioniert"
+msgstr "Nepavyko išanalizuoti atsakymo"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr "Es fehlt Informationen. Es sollte nicht passieren!"
+msgstr "Trūksta informacijos. Tai neturėtų atsitikti!"
 
 # renderer_types.cpp
 msgid "High"
-msgstr "Hoch"
+msgstr "Aukšta"
 
 # renderer_types.cpp
 msgid "Low"
-msgstr "Niedrig"
+msgstr "Žema"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr "Medium"
+msgstr "Vid."
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr "Ultra niedrig 16x"
+msgstr "Labai žema 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr "Ultra niedrig 32x"
+msgstr "Labai žema 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr "Ultra niedrig 4x"
+msgstr "Labai žema 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr "Ultra niedrig 8x"
+msgstr "Labai žema 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
 # Currently unused! This string may never be used again!
 msgid "Failed to sign-in!"
-msgstr "Anmeldung fehlgeschlagen!"
+msgstr "Nepavyko prisijungti!"
 
 # Currently unused! This string may never be used again!
 msgid "Loading level..."
-msgstr "Laden der Stufe..."
+msgstr "Įkeliamas lygis..."
 
 # Currently unused! This string may never be used again!
 msgid "Sign-in"
-msgstr "Sich einloggen"
+msgstr "Prisijugti"
 
 # Currently unused! This string may never be used again!
 msgid "Sign-in confirmation"
-msgstr "Anmeldung bestätigt"
+msgstr "Prisijungimo patvirtinimas"
 
 # Currently unused! This string may never be used again!
 msgid "Sign-in with \"%s\"?"
-msgstr "Sich mit \"%s\" anmelden"
+msgstr "Prisijungti su \"%s\"?"
 
 # Currently unused! This string may never be used again!
 msgid "Translations"
-msgstr "Übersetzungen"
+msgstr "Vertimai"
 
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
-msgstr "Ein Moment bitte..."
+msgstr "Laukiama serverio..."
 

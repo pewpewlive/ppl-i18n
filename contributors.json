@@ -1,0 +1,110 @@
+[
+  {
+    "lang": "deu",
+    "translators": [
+      {
+        "name": "Lithium",
+        "color": "0x00ff00ff"
+      }
+    ]
+  },
+  {
+    "lang": "eng",
+    "translators": [
+      {
+        "name": "JF",
+        "color": "0xff8000ff"
+      }
+    ]
+  },
+  {
+    "lang": "fra",
+    "translators": [
+      {
+        "name": "Lithium",
+        "color": "0x00ff00ff"
+      },
+      {
+        "name": "JF",
+        "color": "0xff8000ff"
+      }
+    ]
+  },{
+    "lang": "hrv",
+    "translators": [
+      {
+        "name": "BlankEra",
+        "color": "0x800000ff"
+      }
+    ]
+  },{
+    "lang": "ita",
+    "translators": [
+      {
+        "name": "Simoubuntu",
+        "color": "0xffffff"
+      }
+    ]
+  },{
+    "lang": "lit",
+    "translators": [
+      {
+        "name": "SKPG-Tech",
+        "color": "0x0000ffff"
+      }
+    ]
+  },
+  {
+    "lang": "meme",
+    "translators": [
+      {
+        "name": "Flavour",
+        "color": "0x00ff00ff"
+      },
+      {
+        "name": "BlankEra",
+        "color": "0x800000ff"
+      }
+    ]
+  },{
+    "lang": "pol",
+    "translators": [
+      {
+        "name": "Fracix",
+        "color": "0x0300faff"
+      }
+    ]
+  },{
+    "lang": "por",
+    "translators": [
+      {
+        "name": "MaxXP",
+        "color": "0xffffffff"
+      }
+    ]
+  },{
+    "lang": "rus",
+    "translators": [
+      {
+        "name": "neoncube",
+        "color": "0x9000ffff"
+      }
+    ]
+  },{
+    "lang": "spa",
+    "translators": [
+      {
+        "name": "Angel-24",
+        "color": "0xffffffff"
+      }
+    ]
+  },{
+    "lang": "tur",
+    "translators": [
+      {
+        "name": "kajxqeirscl",
+        "color": "0xffffffff"
+      }
+    ]
+  }
+]

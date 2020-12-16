@@ -1,540 +1,771 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr ""
+msgstr "kapalı"
 
 # ui_helpers.cpp
 msgid "on"
-msgstr ""
+msgstr "açık"
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr ""
+msgstr "tamam"
 
 # game.cpp
 msgid "Quick pause"
-msgstr ""
+msgstr "Seri duraklama"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Seri duraklama %s"
 
 # pause_ui.cpp
 msgid "Continue"
-msgstr ""
+msgstr "Devam et"
 
 # pause_ui.cpp
 msgid "Exit"
-msgstr ""
+msgstr "Çık"
 
 # pause_ui.cpp
 msgid "Pause"
-msgstr ""
+msgstr "Duraklat"
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr ""
+msgstr "Yeniden başla"
 
 # game_over_ui.cpp
 msgid "Game Over"
-msgstr ""
+msgstr "Oyun bitti"
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr ""
+msgstr "Yeniden oyna"
 
 # screen_lan_lobby.cpp
 msgid "Cancel"
-msgstr ""
+msgstr "İptal et"
 
 # screen_lan_lobby.cpp
 msgid "Game is full"
-msgstr ""
+msgstr "Oyun dolu"
 
 # screen_lan_lobby.cpp
 msgid "Local lobby"
-msgstr ""
+msgstr "Yerli oda"
 
 # screen_lan_lobby.cpp
 msgid "Ready"
-msgstr ""
+msgstr "Hazır ol"
 
 # screen_lan_lobby.cpp
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "Diğer oyuncular bekleniyor..."
 
-# screen_sign_in_confirmation.cpp
-msgid "Failed to sign-in!"
-msgstr ""
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in confirmation"
-msgstr ""
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in with \"%s\"?"
-msgstr ""
-
-# screen_sign_in_confirmation.cpp
-msgid "Waiting for the server..."
-msgstr ""
+# screen_lan_lobby.cpp
+msgid "You are already in the game!"
+msgstr "Siz zaten oyundasınız!"
 
 # screen_download_level.cpp
-msgid "Loading level..."
-msgstr ""
+msgid "Downloading level..."
+msgstr "Harita yükleniyor..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr ""
+msgstr "Bağlan"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "İnternet vasıtasıyla başka bşr odaya bağlan #ff0000ff(deneysel)"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
-msgstr ""
+msgstr "Sunucuya bağlan"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
-msgstr ""
+msgstr "İP:"
 
 # screen_specify_server_ip.cpp
 msgid "Port:"
-msgstr ""
+msgstr "Port:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr ""
+msgstr "Joystickleri düzenle"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
-msgstr ""
+msgstr "Yenile"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr ""
+msgstr "Değiştir"
 
 # screen_select_custom_level.cpp
 msgid "Creator"
-msgstr ""
+msgstr "Kurucu"
 
 # screen_select_custom_level.cpp
 msgid "Custom levels"
-msgstr ""
+msgstr "Özel haritalar"
 
 # screen_select_custom_level.cpp
 msgid "Level name"
-msgstr ""
+msgstr "Harita adı"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(Uyumsuz sürüm)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
-msgstr ""
+msgstr "Odayı kapat"
 
 # screen_lan_create_or_join.cpp
 msgid "Connect to..."
-msgstr ""
+msgstr "...'ya bağlan"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr ""
+msgstr "Telefon erişim noktasına bağlanmak da çalışabilir!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
-msgstr ""
+msgstr "Oday kur"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "Puan tablosunda iki oyuncunun da gözükmesi için her oyuncu ayrı bir şekilde tekrarlamayı yüklemeleri lazım."
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr ""
+msgstr "Yardım"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr ""
+msgstr "Yerel çok oyunculu"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "Yerel çok oyunculu oyunlar aynı wifi ağına bağlanan iki oyuncu arasında oynanabilir."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr ""
+msgstr "Çok oyunculu oyunlar yardımı"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "Bir oyuncu odayı kurur, diğer oyuncu ise bu odaya katılır."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Odalar aranıyor..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "Wifi ağı internete bağlanmak zorunda değil."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr ""
+msgstr "Mermi"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr ""
+msgstr "Gemiyi düzenle"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 # screen_configure_ship.cpp
 msgid "Trail"
-msgstr ""
+msgstr "Kuyruk"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "Tekrarlamalar yüklenememiştir."
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "Yüklenecek bir şey yok!"
 
 # screen_upload_scores.cpp
 msgid "Upload scores"
-msgstr ""
+msgstr "Tekrarlamaları yükle"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
-msgstr ""
+msgstr "Yükleme başarılı"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "%s için tekrarlamalar yükleniyor."
+
+# screen_upload_scores.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr "Skor yüklemek için giriş yapmış olmalısınız"
+
+# screen_upload_scores.cpp
+msgid "Your account"
+msgstr "Sizin hesabınız"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr ""
+msgstr "Klaviyeyi düzenle"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "Fare ile hedefleme %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
-msgstr ""
+msgstr "Yer değiştir"
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr ""
+msgstr "Atış atmak"
 
 # screen_select_game_single_player.cpp
 msgid "Select level"
-msgstr ""
+msgstr "Harita seç"
+
+# screen_settings_language.cpp
+msgid "Contributors"
+msgstr "Katılımcılar"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr ""
+msgstr "Varsayılan dil"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Yardım ver"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
-msgstr ""
+msgstr "Dil ayarları"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Türkçe çevirimi kajxqeirscl tarafından yapılmıştır."
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr ""
+msgstr "tek oyunculu"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr ""
+msgstr "iki oyunculu"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr ""
+msgstr "üç oyunculu"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr ""
+msgstr "dört oyunculu"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr ""
+msgstr "kişisel"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "yerel"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
-
-# screen_informations_translations.cpp
-msgid "Translations"
-msgstr ""
+msgstr "dünya"
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr ""
+msgstr "Geç"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr ""
+msgstr "Yerel çok oyunculu"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr ""
+msgstr "Oyna"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr ""
+msgstr "Tek Oyunculu"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
-msgstr ""
+msgstr "Öğrenme"
 
 # screen_informations_music.cpp
 msgid "Music"
-msgstr ""
+msgstr "Müzik"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr ""
+msgstr "Bağlanma hatası"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr ""
+msgstr "Sunucuya bağlantı kesildi"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
-msgstr ""
+msgstr "Ses Ayarları"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr ""
+msgstr "Sesler"
 
 # screen_select_custom_level_info.cpp
 msgid "Custom levels?!"
-msgstr ""
+msgstr "Özel haritalar mı?!"
 
 # screen_select_custom_level_info.cpp
 msgid "More information"
-msgstr ""
+msgstr "Daha fazla bilgi"
 
 # screen_select_custom_level_info.cpp
 msgid "Yes!"
-msgstr ""
+msgstr "Evet!"
 
 # screen_select_custom_level_info.cpp
 msgid "You can finally code your own levels!"
-msgstr ""
+msgstr "Kendi haritanızı siz de oluşturabilirsiniz!"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr ""
+msgstr "Manifest okuma hatası"
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr ""
+msgstr "Deneysel harita"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "Manifest alma hatası"
 
 # screen_view_level.cpp
 msgid "Loading..."
-msgstr ""
+msgstr "Yükleniyor..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr ""
+msgstr "Yerel en iyi: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr ""
+msgstr "Dünya rekoru: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
-msgstr ""
+msgstr "Kontrol Ayarları"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
-msgstr ""
+msgstr "Klaviye"
 
 # screen_settings_controls.cpp
 msgid "Touchscreen"
-msgstr ""
+msgstr "Dokunmatik ekran"
 
 # screen_informations.cpp
 msgid "Development videos"
-msgstr ""
+msgstr "Geliştirme vidyoları"
 
 # screen_informations.cpp
 msgid "Discord server"
-msgstr ""
+msgstr "Discord sunucusu"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr ""
+msgstr "kurucu %s tarafından yapılmıştır"
+
+# screen_settings.cpp
+msgid "Account"
+msgstr "Hesap"
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr ""
+msgstr "Ses"
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr ""
+msgstr "Kontroller"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr ""
+msgstr "Geliştirici modu"
 
 # screen_settings.cpp
 msgid "Language"
-msgstr ""
+msgstr "Dil"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr ""
+msgstr "İntroyu göster"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr ""
+msgstr "Gözletim şekli: %s"
 
 # screen_settings.cpp
 msgid "Settings"
-msgstr ""
-
-# screen_settings.cpp
-msgid "Sign-in"
-msgstr ""
+msgstr "Ayarlar"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr ""
+msgstr "Öğren"
 
 # screen_settings.cpp
 msgid "Vibration %s"
+msgstr "Titreşim %s"
+
+# screen_signin.cpp
+msgid "Check your inbox!"
+msgstr "Gelen kutusuna bakınız!"
+
+# screen_signin.cpp
+msgid "Email"
+msgstr "Email"
+
+# screen_signin.cpp
+msgid "Email not verified"
+msgstr "Email doğrulanmamıştır"
+
+# screen_signin.cpp
+msgid "Failed to request password reset"
+msgstr "Şifre değiştirme başvurusu başarılı olmadı"
+
+# screen_signin.cpp
+msgid "Failed to resend email"
+msgstr "Email geri göndermesi oluşmamıştır"
+
+# screen_signin.cpp
+msgid "Incorrect password"
+msgstr "Hatalı şifre"
+
+# screen_signin.cpp
+msgid "Password"
+msgstr "Şifre"
+
+# screen_signin.cpp
+msgid "Password reset email sent"
+msgstr "Şifre değiştirme emaili göderilmiştir"
+
+# screen_signin.cpp
+msgid "Re-send verification email"
+msgstr "Doğrulama emailini bir daha göder"
+
+# screen_signin.cpp
+msgid "Request password reset"
+msgstr "Şifre değiştirme başvurusu iste"
+
+# screen_signin.cpp
+msgid "Requesting password reset"
+msgstr "Şifre değiştirme başvurusu isteniyor"
+
+# screen_signin.cpp
+msgid "Requesting verification email"
+msgstr "Email doğrulama isteniyor"
+
+# screen_signin.cpp
+msgid "Reset password"
 msgstr ""
+
+# screen_signin.cpp
+msgid "Sign in"
+msgstr "Giriş yap"
+
+# screen_signin.cpp
+msgid "Signing in"
+msgstr "Giriş yapılıyor"
+
+# screen_signin.cpp
+msgid "Successfully signed in!"
+msgstr "Başarılı giriş yapıldı!"
+
+# screen_signin.cpp
+msgid "Verification email sent"
+msgstr "Doğrulama emaili göderilmiştir"
+
+# screen_synchronize.cpp
+msgid "All your medals are here."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Failed to synchronize."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronization completed."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronizing"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "You've been signed out."
+msgstr ""
+
+# screen_account_url_request.cpp
+msgid "Failed to contact server"
+msgstr "Sunucuya bağlantı kurmak başarısız oldu"
+
+# screen_account_url_request.cpp
+msgid "Failed to parse server response"
+msgstr "Sunucu bağlantısında hata oluşmuş"
+
+# screen_signed_out.cpp
+msgid "Create an account to set your name and sync your data"
+msgstr "İsim koymak ve verilerini eşitlemek için hesap yap"
+
+# screen_signed_out.cpp
+msgid "Not signed in"
+msgstr "Giriş yapılmamıştır"
+
+# screen_signed_out.cpp
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+# screen_signed_out.cpp
+msgid "Register"
+msgstr "Hesap oluştur"
+
+# screen_register.cpp
+msgid "Confirm email"
+msgstr "Emaili doğrula"
+
+# screen_register.cpp
+msgid "Confirm email:"
+msgstr "Emaili doğrula:"
+
+# screen_register.cpp
+msgid "Confirm password"
+msgstr "Şifreyi doğrula"
+
+# screen_register.cpp
+msgid "Confirm password:"
+msgstr "Şifreyi doğrula:"
+
+# screen_register.cpp
+msgid "Email is invalid!"
+msgstr "Email geçersizdir!"
+
+# screen_register.cpp
+msgid "Email:"
+msgstr "Email:"
+
+# screen_register.cpp
+msgid "Emails do not match!"
+msgstr "Emailler eşleşmiyor!"
+
+# screen_register.cpp
+msgid "Failed to register"
+msgstr "Hesap yapımı başarısız"
+
+# screen_register.cpp
+msgid "Password:"
+msgstr "Şifre:"
+
+# screen_register.cpp
+msgid "Passwords do not match!"
+msgstr "Şifreler eşleşmiyor!"
+
+# screen_register.cpp
+msgid "Please check your emails!"
+msgstr "Lütfen emaillerinize bakınız"
+
+# screen_register.cpp
+msgid "Register account"
+msgstr "Hesap yap"
+
+# screen_register.cpp
+msgid "Registering"
+msgstr "Hesap yapılıyor"
+
+# screen_register.cpp
+msgid "Registration successful."
+msgstr "Hesap yapımı başarılı."
+
+# screen_register.cpp
+msgid "Too long. Maximum %s characters."
+msgstr "Çok uzun. En çok %s karakter kullanabilirsiniz."
+
+# screen_register.cpp
+msgid "Too short. Minimum %s characters."
+msgstr "Çok kısa. En az %s karakter kullanabilirsiniz."
+
+# screen_register.cpp
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+# screen_register.cpp
+msgid "Username (you can put colors in!):"
+msgstr "Kullanıcı adı (renk kullanabilirsiniz!):"
+
+# screen_signed_in.cpp
+msgid "Online profile"
+msgstr "Online profil"
+
+# screen_signed_in.cpp
+msgid "Sign out"
+msgstr "Çıkış yap"
+
+# screen_signed_in.cpp
+msgid "Synchronize"
+msgstr "Senkronize et"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr ""
+msgstr "Kalkan: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr ""
+msgstr "%s oyundan çıktı"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "Doğruluk oranı: %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "ø"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "Kendi zorluk seviyesini seç"
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "Her şeyden uzaklaş ve SAĞ olursun"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "Normal yer anlayışı sıkıcı"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "Yeşil iyi, kırmızı kötü."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "Sadece 32 saniye acaba ne kadar zor olabilir ki?"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr ""
+msgstr "En sevdiğim harita"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "Altı kenarlı bir köşegeni hiç güvenme"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "Eskiden Assault olarak bilinirdi"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "GW3:Dimensions'a geri dönüşler"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "32 saniye boyunca hayatta kalabilirmisin?"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr ""
+msgstr "Bu arka plan çok pahalı bir şeydir"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "\"Super Hexagon\" ile hiç bir alakası yok"
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\"Bu harita bir şaka değil mi?\" - bir oyuncu"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr ""
+msgstr "kısaca Bundan Uzaklaş"
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr ""
+msgstr "Yeni bir bronz madalya kazandınız"
 
 # medals.cpp
 msgid "New gold medal"
-msgstr ""
+msgstr "Yeni bir altın madalya kazandınız"
 
 # medals.cpp
 msgid "New silver medal"
+msgstr "Yeni bir gümüş madalya kazandınız"
+
+# account_information.cpp
+msgid "Failed to parse response"
+msgstr "Yanıt almada hata oluştu"
+
+# account_information.cpp
+msgid "Missing information. This should not happen!"
 msgstr ""
 
 # renderer_types.cpp
 msgid "High"
-msgstr ""
+msgstr "Yüksek"
 
 # renderer_types.cpp
 msgid "Low"
-msgstr ""
+msgstr "Düşük"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr ""
+msgstr "Orta"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "Aşırı düşük x16"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "Aşırı düşük x32"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "Aşırı düşük x4"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "Aşırı düşük x8"
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Failed to sign-in!"
+msgstr "Giriş yapımı gerçekleşmemiş!"
+
+# Currently unused! This string may never be used again!
+msgid "Loading level..."
+msgstr "Harita yükleniyor..."
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in"
+msgstr "Giriş yap"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in confirmation"
+msgstr "Giriş yapım onayı"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in with \"%s\"?"
+msgstr "ile giriş yap \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "Translations"
+msgstr "Çeviriler"
+
+# Currently unused! This string may never be used again!
+msgid "Waiting for the server..."
+msgstr "Sunucu bekleniyor..."
 

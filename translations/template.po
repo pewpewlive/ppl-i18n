@@ -62,24 +62,12 @@ msgstr ""
 msgid "Waiting for other players..."
 msgstr ""
 
-# screen_sign_in_confirmation.cpp
-msgid "Failed to sign-in!"
-msgstr ""
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in confirmation"
-msgstr ""
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in with \"%s\"?"
-msgstr ""
-
-# screen_sign_in_confirmation.cpp
-msgid "Waiting for the server..."
+# screen_lan_lobby.cpp
+msgid "You are already in the game!"
 msgstr ""
 
 # screen_download_level.cpp
-msgid "Loading level..."
+msgid "Downloading level..."
 msgstr ""
 
 # screen_specify_server_ip.cpp
@@ -214,6 +202,14 @@ msgstr ""
 msgid "Uploading replay for %s."
 msgstr ""
 
+# screen_upload_scores.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr ""
+
+# screen_upload_scores.cpp
+msgid "Your account"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr ""
@@ -232,6 +228,10 @@ msgstr ""
 
 # screen_select_game_single_player.cpp
 msgid "Select level"
+msgstr ""
+
+# screen_settings_language.cpp
+msgid "Contributors"
 msgstr ""
 
 # screen_settings_language.cpp
@@ -276,10 +276,6 @@ msgstr ""
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
-
-# screen_informations_translations.cpp
-msgid "Translations"
 msgstr ""
 
 # screen_benchmark.cpp
@@ -387,6 +383,10 @@ msgid "by %s"
 msgstr ""
 
 # screen_settings.cpp
+msgid "Account"
+msgstr ""
+
+# screen_settings.cpp
 msgid "Audio"
 msgstr ""
 
@@ -415,15 +415,207 @@ msgid "Settings"
 msgstr ""
 
 # screen_settings.cpp
-msgid "Sign-in"
-msgstr ""
-
-# screen_settings.cpp
 msgid "Start tutorial"
 msgstr ""
 
 # screen_settings.cpp
 msgid "Vibration %s"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Check your inbox!"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Email not verified"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Failed to request password reset"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Failed to resend email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Incorrect password"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Password"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Password reset email sent"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Re-send verification email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Request password reset"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Requesting password reset"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Requesting verification email"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Reset password"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Sign in"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Signing in"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Successfully signed in!"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Verification email sent"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "All your medals are here."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Failed to synchronize."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronization completed."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronizing"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "You've been signed out."
+msgstr ""
+
+# screen_account_url_request.cpp
+msgid "Failed to contact server"
+msgstr ""
+
+# screen_account_url_request.cpp
+msgid "Failed to parse server response"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Create an account to set your name and sync your data"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Not signed in"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Privacy Policy"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Register"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm email"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm email:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm password"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm password:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Email is invalid!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Email:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Emails do not match!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Failed to register"
+msgstr ""
+
+# screen_register.cpp
+msgid "Password:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Passwords do not match!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Please check your emails!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Register account"
+msgstr ""
+
+# screen_register.cpp
+msgid "Registering"
+msgstr ""
+
+# screen_register.cpp
+msgid "Registration successful."
+msgstr ""
+
+# screen_register.cpp
+msgid "Too long. Maximum %s characters."
+msgstr ""
+
+# screen_register.cpp
+msgid "Too short. Minimum %s characters."
+msgstr ""
+
+# screen_register.cpp
+msgid "Username"
+msgstr ""
+
+# screen_register.cpp
+msgid "Username (you can put colors in!):"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Online profile"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Sign out"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Synchronize"
 msgstr ""
 
 # game_hud.cpp
@@ -508,6 +700,14 @@ msgstr ""
 
 # medals.cpp
 msgid "New silver medal"
+msgstr ""
+
+# account_information.cpp
+msgid "Failed to parse response"
+msgstr ""
+
+# account_information.cpp
+msgid "Missing information. This should not happen!"
 msgstr ""
 
 # renderer_types.cpp

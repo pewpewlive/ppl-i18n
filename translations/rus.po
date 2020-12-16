@@ -62,25 +62,13 @@ msgstr "Готов!"
 msgid "Waiting for other players..."
 msgstr "Ожидание игроков..."
 
-# screen_sign_in_confirmation.cpp
-msgid "Failed to sign-in!"
-msgstr "Не удалось войти."
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in confirmation"
-msgstr "Подтверждение входа"
-
-# screen_sign_in_confirmation.cpp
-msgid "Sign-in with \"%s\"?"
-msgstr "Войти с \"%s\"?"
-
-# screen_sign_in_confirmation.cpp
-msgid "Waiting for the server..."
-msgstr "Ожидание сервера..."
+# screen_lan_lobby.cpp
+msgid "You are already in the game!"
+msgstr "Вы уже находитесь в игре!"
 
 # screen_download_level.cpp
-msgid "Loading level..."
-msgstr "Загрузка уровня..."
+msgid "Downloading level..."
+msgstr "Скачивание уровня..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -214,6 +202,14 @@ msgstr "Результаты отправлены."
 msgid "Uploading replay for %s."
 msgstr "Загрузка результатов от %s."
 
+# screen_upload_scores.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr "Вы должны войти в аккаунт, чтобы отправлять результаты"
+
+# screen_upload_scores.cpp
+msgid "Your account"
+msgstr "Аккаунт"
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Настройка клавиатуры"
@@ -233,6 +229,10 @@ msgstr "Стрельба"
 # screen_select_game_single_player.cpp
 msgid "Select level"
 msgstr "Выбор уровня"
+
+# screen_settings_language.cpp
+msgid "Contributors"
+msgstr "Переводчики"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -277,10 +277,6 @@ msgstr "страна"
 # screen_view_high_scores.cpp
 msgid "world"
 msgstr "мировые"
-
-# screen_informations_translations.cpp
-msgid "Translations"
-msgstr "Переводчики"
 
 # screen_benchmark.cpp
 msgid "Skip"
@@ -387,6 +383,10 @@ msgid "by %s"
 msgstr "от %s"
 
 # screen_settings.cpp
+msgid "Account"
+msgstr "Аккаунт"
+
+# screen_settings.cpp
 msgid "Audio"
 msgstr "Звук"
 
@@ -415,16 +415,208 @@ msgid "Settings"
 msgstr "Настройки"
 
 # screen_settings.cpp
-msgid "Sign-in"
-msgstr "Войти"
-
-# screen_settings.cpp
 msgid "Start tutorial"
 msgstr "Запустить обучение"
 
 # screen_settings.cpp
 msgid "Vibration %s"
 msgstr "Вибрация %s"
+
+# screen_signin.cpp
+msgid "Check your inbox!"
+msgstr "Проверьте почту!"
+
+# screen_signin.cpp
+msgid "Email"
+msgstr "Email"
+
+# screen_signin.cpp
+msgid "Email not verified"
+msgstr "Email не подтверждён"
+
+# screen_signin.cpp
+msgid "Failed to request password reset"
+msgstr "Не удалось запросить сброс пароля"
+
+# screen_signin.cpp
+msgid "Failed to resend email"
+msgstr "Не удалось отправить письмо заново"
+
+# screen_signin.cpp
+msgid "Incorrect password"
+msgstr "Неправильный пароль"
+
+# screen_signin.cpp
+msgid "Password"
+msgstr "Пароль"
+
+# screen_signin.cpp
+msgid "Password reset email sent"
+msgstr "Письмо для сброса пароля отправлено"
+
+# screen_signin.cpp
+msgid "Re-send verification email"
+msgstr "Отправить письмо-подтверждение заново"
+
+# screen_signin.cpp
+msgid "Request password reset"
+msgstr "Запросить сброс пароля"
+
+# screen_signin.cpp
+msgid "Requesting password reset"
+msgstr "Запрос сброса пароля..."
+
+# screen_signin.cpp
+msgid "Requesting verification email"
+msgstr "Запрос письма-подтверждения..."
+
+# screen_signin.cpp
+msgid "Reset password"
+msgstr ""
+
+# screen_signin.cpp
+msgid "Sign in"
+msgstr "Войти"
+
+# screen_signin.cpp
+msgid "Signing in"
+msgstr "Производится вход..."
+
+# screen_signin.cpp
+msgid "Successfully signed in!"
+msgstr "Вход успешен."
+
+# screen_signin.cpp
+msgid "Verification email sent"
+msgstr "Письмо-подтверждение отправлено"
+
+# screen_synchronize.cpp
+msgid "All your medals are here."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Failed to synchronize."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronization completed."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronizing"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "You've been signed out."
+msgstr ""
+
+# screen_account_url_request.cpp
+msgid "Failed to contact server"
+msgstr "Не удалось связаться с сервером"
+
+# screen_account_url_request.cpp
+msgid "Failed to parse server response"
+msgstr "Не удалось получить ответ от сервера"
+
+# screen_signed_out.cpp
+msgid "Create an account to set your name and sync your data"
+msgstr "Создайте аккаунт чтобы создать никнейм и синхронизировать данные"
+
+# screen_signed_out.cpp
+msgid "Not signed in"
+msgstr "Вход не совершён"
+
+# screen_signed_out.cpp
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+# screen_signed_out.cpp
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+# screen_register.cpp
+msgid "Confirm email"
+msgstr "Адрес почты"
+
+# screen_register.cpp
+msgid "Confirm email:"
+msgstr "Подтверждение email:"
+
+# screen_register.cpp
+msgid "Confirm password"
+msgstr "Пароль"
+
+# screen_register.cpp
+msgid "Confirm password:"
+msgstr "Подтверждение пароля:"
+
+# screen_register.cpp
+msgid "Email is invalid!"
+msgstr "Email недействителен!"
+
+# screen_register.cpp
+msgid "Email:"
+msgstr "Email:"
+
+# screen_register.cpp
+msgid "Emails do not match!"
+msgstr "Адреса не совпадают!"
+
+# screen_register.cpp
+msgid "Failed to register"
+msgstr "Не удалось зарегистрироваться"
+
+# screen_register.cpp
+msgid "Password:"
+msgstr "Пароль:"
+
+# screen_register.cpp
+msgid "Passwords do not match!"
+msgstr "Пароли не совпадают!"
+
+# screen_register.cpp
+msgid "Please check your emails!"
+msgstr "Провверьте почту!"
+
+# screen_register.cpp
+msgid "Register account"
+msgstr "Зарегистрировать аккаунт"
+
+# screen_register.cpp
+msgid "Registering"
+msgstr "Регистрация..."
+
+# screen_register.cpp
+msgid "Registration successful."
+msgstr "Регистрация успешна."
+
+# screen_register.cpp
+msgid "Too long. Maximum %s characters."
+msgstr "Максимум %s символов."
+
+# screen_register.cpp
+msgid "Too short. Minimum %s characters."
+msgstr "Минимум %s символов."
+
+# screen_register.cpp
+msgid "Username"
+msgstr "Никнейм"
+
+# screen_register.cpp
+msgid "Username (you can put colors in!):"
+msgstr "Никнейм (можно красить текст!)"
+
+# screen_signed_in.cpp
+msgid "Online profile"
+msgstr "Профиль"
+
+# screen_signed_in.cpp
+msgid "Sign out"
+msgstr "Выйти"
+
+# screen_signed_in.cpp
+msgid "Synchronize"
+msgstr "Синхронизировать"
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -510,6 +702,14 @@ msgstr "Новая золотая медаль"
 msgid "New silver medal"
 msgstr "Новая серебряная медаль"
 
+# account_information.cpp
+msgid "Failed to parse response"
+msgstr "Не удалось получить ответ от сервера"
+
+# account_information.cpp
+msgid "Missing information. This should not happen!"
+msgstr "Отсутствует информация. Так не должно быть!"
+
 # renderer_types.cpp
 msgid "High"
 msgstr "Высокий"
@@ -537,4 +737,35 @@ msgstr "Пиксель 4x"
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr "Пиксель 8x"
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Failed to sign-in!"
+msgstr "Не удалось войти."
+
+# Currently unused! This string may never be used again!
+msgid "Loading level..."
+msgstr "Загрузка уровня..."
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in"
+msgstr "Войти"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in confirmation"
+msgstr "Подтверждение входа"
+
+# Currently unused! This string may never be used again!
+msgid "Sign-in with \"%s\"?"
+msgstr "Войти с \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "Translations"
+msgstr "Переводчики"
+
+# Currently unused! This string may never be used again!
+msgid "Waiting for the server..."
+msgstr "Ожидание сервера..."
 
