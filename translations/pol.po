@@ -383,10 +383,6 @@ msgid "by %s"
 msgstr "by %s"
 
 # screen_settings.cpp
-msgid "Account"
-msgstr "Konto"
-
-# screen_settings.cpp
 msgid "Audio"
 msgstr "Dźwięki"
 
@@ -508,7 +504,7 @@ msgstr "Synchronizacja..."
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr "Zostałeś wylogowany."
+msgstr "Zostałeś wylogowany."
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
@@ -517,6 +513,10 @@ msgstr "Nie udało się skontaktować z serwerem"
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
 msgstr "Nie udało się przeanalizować odpowiedzi serwera"
+
+# screen_signed_out.cpp
+msgid "Account"
+msgstr "Konto"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"

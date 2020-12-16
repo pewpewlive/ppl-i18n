@@ -383,10 +383,6 @@ msgid "by %s"
 msgstr "de %s"
 
 # screen_settings.cpp
-msgid "Account"
-msgstr "Cuenta"
-
-# screen_settings.cpp
 msgid "Audio"
 msgstr "Audio"
 
@@ -517,6 +513,10 @@ msgstr "No hay conexión con el servidor"
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
 msgstr "Fallo al analizar respuesta del servidor"
+
+# screen_signed_out.cpp
+msgid "Account"
+msgstr "Cuenta"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
@@ -768,3 +768,4 @@ msgstr "Traducciones"
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
 msgstr "Esperando al servidor..."
+

@@ -383,10 +383,6 @@ msgid "by %s"
 msgstr "von %s"
 
 # screen_settings.cpp
-msgid "Account"
-msgstr "Konto"
-
-# screen_settings.cpp
 msgid "Audio"
 msgstr "Audio"
 
@@ -517,6 +513,10 @@ msgstr "Server wurde nicht kontaktiert"
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
 msgstr "Das Parsen hat nicht funktioniert"
+
+# screen_signed_out.cpp
+msgid "Account"
+msgstr "Konto"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"

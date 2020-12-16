@@ -383,10 +383,6 @@ msgid "by %s"
 msgstr "od %s"
 
 # screen_settings.cpp
-msgid "Account"
-msgstr "Račun"
-
-# screen_settings.cpp
 msgid "Audio"
 msgstr "Audio"
 
@@ -517,6 +513,10 @@ msgstr "Neuspješno kontaktiranje servera"
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
 msgstr "Neuspješna rasčlaniranje odgovora servera."
+
+# screen_signed_out.cpp
+msgid "Account"
+msgstr "Račun"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
