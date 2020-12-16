@@ -64,11 +64,11 @@ msgstr "Esperando otros jugadores..."
 
 # screen_lan_lobby.cpp
 msgid "You are already in the game!"
-msgstr ""
+msgstr "¡Ya estás en la partida!"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Descargando nivel..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -204,11 +204,11 @@ msgstr "Subiendo repetición de %s."
 
 # screen_upload_scores.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Inicia sesión para subir tus puntuaciones"
 
 # screen_upload_scores.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Tu cuenta"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -232,7 +232,7 @@ msgstr "Elige un nivel"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Contriubidores"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -252,19 +252,19 @@ msgstr "¡Las traducciones son cortesía de la comunidad!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr "1 P."
+msgstr "1J"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr "2 P."
+msgstr "2J"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr "3 P."
+msgstr "3J"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr "4 P."
+msgstr "4J"
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -384,7 +384,7 @@ msgstr "de %s"
 
 # screen_settings.cpp
 msgid "Account"
-msgstr ""
+msgstr "Cuenta"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -404,7 +404,7 @@ msgstr "Idioma"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr "Ver intro"
+msgstr "Intro"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
@@ -424,199 +424,199 @@ msgstr "Vibración %s"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "¡Revisa tu bandeja de entrada!"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Correo electrónico"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "La cuenta no se ha verificado"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "No se pudo solicitar un reinicio de contraseña"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "No se pudo reenviar el mensaje"
 
 # screen_signin.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "Contraseña incorrecta"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Se envió un mensaje para restablecer tu contraseña"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Reenviar el mensaje de verificación"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Solicitar restablecer mi contraseña"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Solicitando restablecer la contraseña..."
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Solicitando mensaje de verificación"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Restablecer contraseña"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Registrarse"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Registrándote..."
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Registro completado"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "Mensaje de verificación enviado"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Aquí están todas tus medallas."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Fallo al sincronizar."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Sincronizacin completada."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Sincronizando..."
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Tu sesión se ha cerrado."
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "No hay conexión con el servidor"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Fallo al analizar respuesta del servidor"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Crea una cuenta para usar un nombre y sincronizar tus datos"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "No estás registrado"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Política de Privacidad"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Regístrame"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Confirmar correo electrónico"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Confirma tu correo:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Confirmar contraseña"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Confirma tu contraseña:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "¡No es un correo válido!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Correo electrónico"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "¡Las cuentas de correo no coinciden!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "No se pudo registrar"
 
 # screen_register.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Contraseña:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "¡Las contraseñas no coinciden!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "¡Por favor, revisa tus correos electrónicos!"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Registrar cuenta"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Registrando..."
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "El registro se completó con éxito."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Máximo de %s caracteres."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Mínimo de %s caracteres."
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Nombre de usuario"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Usuario (¡puedes usar colores!)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Perfil en línea"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Cerrar sesión"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Sincronizar"
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -624,7 +624,7 @@ msgstr "Escudos: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr "%s ha se ha ido"
+msgstr "%s se ha ido"
 
 # game_state.cpp
 msgid "Accuracy: %s"
@@ -688,7 +688,7 @@ msgstr "\Este nivel es un chiste, ¿si?\" - un jugador"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr "A.K.A: Dodge This"
+msgstr "aka: Dodge This"
 
 # medals.cpp
 msgid "New bronze medal"
@@ -704,11 +704,11 @@ msgstr "Nueva medalla de plata"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Fallo al analizar respuesta"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Falta información. ¡Esto no debería ocurrir!"
 
 # renderer_types.cpp
 msgid "High"
@@ -768,4 +768,3 @@ msgstr "Traducciones"
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
 msgstr "Esperando al servidor..."
-
