@@ -464,7 +464,7 @@ msgstr "Poproś o resetowanie hasła"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr "Żądanie resetowanie hasła"
+msgstr "Żądanie resetu hasła"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
@@ -472,7 +472,7 @@ msgstr "Żądanie weryfikacji e-maila"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Zresetuj hasło"
 
 # screen_signin.cpp
 msgid "Sign in"
@@ -480,7 +480,7 @@ msgstr "Zaloguj się"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr "Logowanie się"
+msgstr "Logowanie..."
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
@@ -492,23 +492,23 @@ msgstr "Wysłano e-mail weryfikacyjny"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Tu znajdziesz wszystkie swoje medale."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Błąd synchronizacji"
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Synchronizacja ukończona."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Synchronizacja..."
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Zostałeś wylogowany."
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
@@ -520,7 +520,7 @@ msgstr "Nie udało się przeanalizować odpowiedzi serwera"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr "Utwóz konto żeby ustawić twoją nazwę i aby zsynchronizować twoje dane"
+msgstr "Utwórz konto żeby ustawić twoją nazwę i aby zsynchronizować twoje dane"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
@@ -552,7 +552,7 @@ msgstr "Potwierdź hasło:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr "E-mail jest nie prawidłowy!"
+msgstr "E-mail jest nieprawidłowy!"
 
 # screen_register.cpp
 msgid "Email:"
@@ -560,7 +560,7 @@ msgstr "E-mail:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr "E-maile się nie zgadzają"
+msgstr "E-maile się nie zgadzają!"
 
 # screen_register.cpp
 msgid "Failed to register"
@@ -576,7 +576,7 @@ msgstr "Hasła się nie zgadzają!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr "Prosze sprawdź swoje e-maile!"
+msgstr "Sprawdź swoją skrzynkę odbiorczą!"
 
 # screen_register.cpp
 msgid "Register account"
@@ -708,7 +708,7 @@ msgstr "Nie udało się przeanalizować odpowiedzi"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr "Brakuje informacji. To nie powinno się zdażyć!"
+msgstr "Brakuje informacji. To nie powinno się zdarzyć!"
 
 # renderer_types.cpp
 msgid "High"
