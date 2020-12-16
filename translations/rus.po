@@ -576,7 +576,7 @@ msgstr "Пароли не совпадают!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr "Провверьте почту!"
+msgstr "Проверьте почту!"
 
 # screen_register.cpp
 msgid "Register account"
