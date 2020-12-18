@@ -468,7 +468,7 @@ msgstr "Запрос письма-подтверждения..."
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Сбросить пароль"
 
 # screen_signin.cpp
 msgid "Sign in"
@@ -488,23 +488,23 @@ msgstr "Письмо-подтверждение отправлено"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Все медали сохранены."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Не удалось синхронизироваться."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Синхронизация успешна."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Синхронизация"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Вы вышли из аккаунта."
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
@@ -564,7 +564,7 @@ msgstr "Адреса не совпадают!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr "Не удалось зарегистрироваться"
+msgstr "Не удалось зарегистрироваться."
 
 # screen_register.cpp
 msgid "Password:"
