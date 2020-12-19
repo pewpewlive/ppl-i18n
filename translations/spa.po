@@ -1,10 +1,10 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr "OFF"
+msgstr "NO"
 
 # ui_helpers.cpp
 msgid "on"
-msgstr "ON"
+msgstr "SÍ"
 
 # keyboard_view.cpp
 msgid "ok"
@@ -232,11 +232,11 @@ msgstr "Elige un nivel"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr "Contriubidores"
+msgstr "Traductores"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr "Idioma por defecto"
+msgstr "Por defecto"
 
 # screen_settings_language.cpp
 msgid "Help out"
@@ -292,7 +292,7 @@ msgstr "Jugar"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr "En Solitario"
+msgstr "En solitario"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -476,15 +476,15 @@ msgstr "Restablecer contraseña"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr "Registrarse"
+msgstr "Iniciar sesión"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr "Registrándote..."
+msgstr "Iniciando sesión..."
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr "Registro completado"
+msgstr "Inicio de sesión completado"
 
 # screen_signin.cpp
 msgid "Verification email sent"
