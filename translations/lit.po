@@ -383,10 +383,6 @@ msgid "by %s"
 msgstr "Padarė %s"
 
 # screen_settings.cpp
-msgid "Account"
-msgstr "Paskyra"
-
-# screen_settings.cpp
 msgid "Audio"
 msgstr "Garsas"
 
@@ -519,11 +515,15 @@ msgid "Failed to parse server response"
 msgstr "Nepavyko išanalizuoti serverio atsakymo"
 
 # screen_signed_out.cpp
+msgid "Account"
+msgstr "Paskyra"
+
+# screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
 msgstr "Sukurkite paskyrą, kad pasirinktumėte vardą ir sinchronizuotumėte savo duomenis"
 
 # screen_signed_out.cpp
-msgid "Neprisijungęs"
+msgid "Not signed in"
 msgstr "Neprisijungęs"
 
 # screen_signed_out.cpp

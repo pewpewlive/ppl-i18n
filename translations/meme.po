@@ -383,10 +383,6 @@ msgid "by %s"
 msgstr "brought to you by %s"
 
 # screen_settings.cpp
-msgid "Account"
-msgstr ""
-
-# screen_settings.cpp
 msgid "Audio"
 msgstr "Tunes"
 
@@ -516,6 +512,10 @@ msgstr ""
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Account"
 msgstr ""
 
 # screen_signed_out.cpp

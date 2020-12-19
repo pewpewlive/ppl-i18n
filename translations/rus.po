@@ -383,10 +383,6 @@ msgid "by %s"
 msgstr "от %s"
 
 # screen_settings.cpp
-msgid "Account"
-msgstr "Аккаунт"
-
-# screen_settings.cpp
 msgid "Audio"
 msgstr "Звук"
 
@@ -472,7 +468,7 @@ msgstr "Запрос письма-подтверждения..."
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Сбросить пароль"
 
 # screen_signin.cpp
 msgid "Sign in"
@@ -492,23 +488,23 @@ msgstr "Письмо-подтверждение отправлено"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Все медали сохранены."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Не удалось синхронизироваться."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Синхронизация успешна."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Синхронизация"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Вы вышли из аккаунта."
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
@@ -517,6 +513,10 @@ msgstr "Не удалось связаться с сервером"
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
 msgstr "Не удалось получить ответ от сервера"
+
+# screen_signed_out.cpp
+msgid "Account"
+msgstr "Аккаунт"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
@@ -564,7 +564,7 @@ msgstr "Адреса не совпадают!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr "Не удалось зарегистрироваться"
+msgstr "Не удалось зарегистрироваться."
 
 # screen_register.cpp
 msgid "Password:"
@@ -576,7 +576,7 @@ msgstr "Пароли не совпадают!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr "Провверьте почту!"
+msgstr "Проверьте почту!"
 
 # screen_register.cpp
 msgid "Register account"

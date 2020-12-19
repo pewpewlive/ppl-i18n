@@ -383,10 +383,6 @@ msgid "by %s"
 msgstr "kurucu %s tarafından yapılmıştır"
 
 # screen_settings.cpp
-msgid "Account"
-msgstr "Hesap"
-
-# screen_settings.cpp
 msgid "Audio"
 msgstr "Ses"
 
@@ -517,6 +513,10 @@ msgstr "Sunucuya bağlantı kurmak başarısız oldu"
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
 msgstr "Sunucu bağlantısında hata oluşmuş"
+
+# screen_signed_out.cpp
+msgid "Account"
+msgstr "Hesap"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
