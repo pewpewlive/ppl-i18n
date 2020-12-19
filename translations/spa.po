@@ -540,15 +540,15 @@ msgstr "Confirmar correo electrónico"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr "Confirma tu correo:"
+msgstr "Sí, tienes que repetirlo"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr "Confirmar contraseña"
+msgstr "Confirmar contraseña:"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr "Confirma tu contraseña:"
+msgstr "Escríbela otra vez"
 
 # screen_register.cpp
 msgid "Email is invalid!"
@@ -600,7 +600,7 @@ msgstr "Mínimo de %s caracteres."
 
 # screen_register.cpp
 msgid "Username"
-msgstr "Nombre de usuario"
+msgstr "Nombre"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
@@ -684,7 +684,7 @@ msgstr "No existe relación alguna con \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\Este nivel es un chiste, ¿si?\" - un jugador"
+msgstr "\Este nivel es un chiste, ¿verdad?\" - un jugador"
 
 # game_levels.cpp
 msgid "aka Dodge This"
