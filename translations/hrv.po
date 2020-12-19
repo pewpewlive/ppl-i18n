@@ -488,7 +488,7 @@ msgstr "Poslan email za potvrdnju."
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr "Sve vaše medanje su ovdje."
+msgstr "Sve vaše medalje su ovdje."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
