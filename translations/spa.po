@@ -1,10 +1,10 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr "OFF"
+msgstr "NO"
 
 # ui_helpers.cpp
 msgid "on"
-msgstr "ON"
+msgstr "SÍ"
 
 # keyboard_view.cpp
 msgid "ok"
@@ -176,7 +176,7 @@ msgstr "Configurar Nave"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr "Modelo"
+msgstr "Nave"
 
 # screen_configure_ship.cpp
 msgid "Trail"
@@ -200,7 +200,7 @@ msgstr "Se ha subido correctamente"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr "Subiendo repetición de %s."
+msgstr "Subiendo partida de %s."
 
 # screen_upload_scores.cpp
 msgid "You need to be signed-in to upload scores"
@@ -232,11 +232,11 @@ msgstr "Elige un nivel"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr "Contriubidores"
+msgstr "Traductores"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr "Idioma por defecto"
+msgstr "Por defecto"
 
 # screen_settings_language.cpp
 msgid "Help out"
@@ -292,7 +292,7 @@ msgstr "Jugar"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr "En Solitario"
+msgstr "En solitario"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -383,6 +383,10 @@ msgid "by %s"
 msgstr "de %s"
 
 # screen_settings.cpp
+msgid "Account"
+msgstr "Cuenta"
+
+# screen_settings.cpp
 msgid "Audio"
 msgstr "Audio"
 
@@ -412,7 +416,7 @@ msgstr "Ajustes"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr "Iniciar tutorial"
+msgstr "Tutorial"
 
 # screen_settings.cpp
 msgid "Vibration %s"
@@ -472,15 +476,15 @@ msgstr "Restablecer contraseña"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr "Registrarse"
+msgstr "Iniciar sesión"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr "Registrándote..."
+msgstr "Iniciando sesión..."
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr "Registro completado"
+msgstr "Inicio de sesión completado"
 
 # screen_signin.cpp
 msgid "Verification email sent"
@@ -515,10 +519,6 @@ msgid "Failed to parse server response"
 msgstr "Fallo al analizar respuesta del servidor"
 
 # screen_signed_out.cpp
-msgid "Account"
-msgstr "Cuenta"
-
-# screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
 msgstr "Crea una cuenta para usar un nombre y sincronizar tus datos"
 
@@ -540,15 +540,15 @@ msgstr "Confirmar correo electrónico"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr "Confirma tu correo:"
+msgstr "Sí, tienes que repetirlo"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr "Confirmar contraseña"
+msgstr "Confirmar contraseña:"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr "Confirma tu contraseña:"
+msgstr "Escríbela otra vez"
 
 # screen_register.cpp
 msgid "Email is invalid!"
@@ -600,7 +600,7 @@ msgstr "Mínimo de %s caracteres."
 
 # screen_register.cpp
 msgid "Username"
-msgstr "Nombre de usuario"
+msgstr "Nombre"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
@@ -684,7 +684,7 @@ msgstr "No existe relación alguna con \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\Este nivel es un chiste, ¿si?\" - un jugador"
+msgstr "\Este nivel es un chiste, ¿verdad?\" - un jugador"
 
 # game_levels.cpp
 msgid "aka Dodge This"
@@ -768,4 +768,3 @@ msgstr "Traducciones"
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
 msgstr "Esperando al servidor..."
-
