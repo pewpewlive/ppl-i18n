@@ -468,7 +468,7 @@ msgstr "Email doğrulama isteniyor"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Şifreyi sıfırla"
 
 # screen_signin.cpp
 msgid "Sign in"
@@ -488,23 +488,23 @@ msgstr "Doğrulama emaili göderilmiştir"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Tüm madelyaların burada."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Senkronizasyon başarısız."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Senkronizasyon başarılı."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Senkronize ediliyor"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Çıkış yapıldı."
 
 # screen_account_url_request.cpp
 msgid "Failed to contact server"
@@ -708,7 +708,7 @@ msgstr "Yanıt almada hata oluştu"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Bilgi eksikliği. Bu durum gerçekleşmemeli!"
 
 # renderer_types.cpp
 msgid "High"
