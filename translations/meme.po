@@ -42,32 +42,20 @@ msgstr "Filthy Casual"
 msgid "Play again"
 msgstr "+1 Attempt"
 
-# screen_lan_lobby.cpp
-msgid "Cancel"
-msgstr "Ctrl+Z"
-
-# screen_lan_lobby.cpp
-msgid "Game is full"
-msgstr "No room sry"
-
-# screen_lan_lobby.cpp
-msgid "Local lobby"
-msgstr "Gamin Group"
-
-# screen_lan_lobby.cpp
-msgid "Ready"
-msgstr "yes"
-
-# screen_lan_lobby.cpp
-msgid "Waiting for other players..."
-msgstr "These guys sure are slow..."
-
-# screen_lan_lobby.cpp
-msgid "You are already in the game!"
-msgstr ""
-
 # screen_download_level.cpp
 msgid "Downloading level..."
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Authenticating..."
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Failed to authenticate"
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Failed to contact server"
 msgstr ""
 
 # screen_specify_server_ip.cpp
@@ -89,6 +77,18 @@ msgstr "Gamer hive:"
 # screen_specify_server_ip.cpp
 msgid "Port:"
 msgstr "Gamer entry:"
+
+# screen_online_enter_password.cpp
+msgid "Enter password"
+msgstr ""
+
+# screen_online_enter_password.cpp
+msgid "Join"
+msgstr ""
+
+# screen_online_enter_password.cpp
+msgid "Password:"
+msgstr ""
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
@@ -114,6 +114,22 @@ msgstr "yeah, the other levels too"
 msgid "Level name"
 msgstr "battleground"
 
+# screen_select_multiplayer_type.cpp
+msgid "LAN multiplayer"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Online multiplayer"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Play with people around the world!"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Play with people on the same network!"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "This version swiped left"
@@ -121,10 +137,6 @@ msgstr "This version swiped left"
 # screen_lan_create_or_join.cpp
 msgid "Close room"
 msgstr "End game session"
-
-# screen_lan_create_or_join.cpp
-msgid "Connect to..."
-msgstr "Mooch from..."
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
@@ -202,14 +214,6 @@ msgstr "Dominance Asserted"
 msgid "Uploading replay for %s."
 msgstr "%s is asserting dominance..."
 
-# screen_upload_scores.cpp
-msgid "You need to be signed-in to upload scores"
-msgstr ""
-
-# screen_upload_scores.cpp
-msgid "Your account"
-msgstr ""
-
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Change da button-thing"
@@ -229,6 +233,10 @@ msgstr "Pew"
 # screen_select_game_single_player.cpp
 msgid "Select level"
 msgstr "The Main Squeezes"
+
+# screen_online_list_rooms.cpp
+msgid "Refresh"
+msgstr ""
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -287,6 +295,10 @@ msgid "Local Multiplayer"
 msgstr "With the bois"
 
 # screen_main_menu.cpp
+msgid "Multiplayer"
+msgstr ""
+
+# screen_main_menu.cpp
 msgid "Play"
 msgstr "Game"
 
@@ -294,9 +306,37 @@ msgstr "Game"
 msgid "Single Player"
 msgstr "Solo run"
 
+# screen_online_create_or_join_room.cpp
+msgid "Creating room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Failed to join room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Joining room"
+msgstr ""
+
 # screen_tutorial.cpp
 msgid "Tutorial"
 msgstr "Learnin'"
+
+# screen_online_configure_room.cpp
+msgid "2 extra characters:"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Any level"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Room configuration"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Room name: %s"
+msgstr ""
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -418,6 +458,34 @@ msgstr "Learn me some pls"
 msgid "Vibration %s"
 msgstr "Vibration %s"
 
+# screen_multiplayer_lobby.cpp
+msgid "Cancel"
+msgstr "Ctrl+Z"
+
+# screen_multiplayer_lobby.cpp
+msgid "Game is full"
+msgstr "No room sry"
+
+# screen_multiplayer_lobby.cpp
+msgid "Local lobby"
+msgstr "Gamin Group"
+
+# screen_multiplayer_lobby.cpp
+msgid "Online lobby"
+msgstr ""
+
+# screen_multiplayer_lobby.cpp
+msgid "Ready"
+msgstr "yes"
+
+# screen_multiplayer_lobby.cpp
+msgid "Waiting for other players..."
+msgstr "These guys sure are slow..."
+
+# screen_multiplayer_lobby.cpp
+msgid "You are already in the game!"
+msgstr ""
+
 # screen_signin.cpp
 msgid "Check your inbox!"
 msgstr ""
@@ -507,10 +575,6 @@ msgid "You've been signed out."
 msgstr ""
 
 # screen_account_url_request.cpp
-msgid "Failed to contact server"
-msgstr ""
-
-# screen_account_url_request.cpp
 msgid "Failed to parse server response"
 msgstr ""
 
@@ -532,6 +596,18 @@ msgstr ""
 
 # screen_signed_out.cpp
 msgid "Register"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "You need to be signed-in to play online"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Your account"
 msgstr ""
 
 # screen_register.cpp
@@ -564,10 +640,6 @@ msgstr ""
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
-
-# screen_register.cpp
-msgid "Password:"
 msgstr ""
 
 # screen_register.cpp
@@ -740,6 +812,10 @@ msgstr "JPEG 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Connect to..."
+msgstr "Mooch from..."
 
 # Currently unused! This string may never be used again!
 msgid "Failed to sign-in!"

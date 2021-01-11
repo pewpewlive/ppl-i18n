@@ -13,11 +13,13 @@ os.chdir(dname)
 # language code are in ISO 639-2
 # https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 lang_files_dir = "translations/"
-langs = [{"code": "deu", "name": "German"}, {"code": "fra", "name": "French"}, {"code": "hrv", "name": "Croatian"},
-         {"code": "ita", "name": "Italian"}, {"code": "lit", "name": "Lithuanian"},
+langs = [{"code": "deu", "name": "German"}, {"code": "fra", "name": "French"},
+         {"code": "hrv", "name": "Croatian"}, {"code": "ind", "name": "Indonesian"},
+         {"code": "ita", "name": "Italian"}, {"code": "lit", "name": "Lithuanian"}, {"code": "msa", "name": "Malay"}, 
          {"code": "meme", "name": "Meme-nglish"}, {"code": "pol", "name": "Polish"},
          {"code": "por", "name": "Portuguese"}, {"code": "rus", "name": "Russian"},
-         {"code": "spa", "name": "Spanish"}, {"code": "tur", "name": "Turkish"}]
+         {"code": "spa", "name": "Spanish"}, {"code": "tur", "name": "Turkish"},
+         {"code": "ukr", "name": "Ukrainian"}]
 lang_stats = {}
 
 # Generate the stats

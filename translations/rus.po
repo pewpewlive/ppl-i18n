@@ -42,33 +42,21 @@ msgstr "Игра Окончена"
 msgid "Play again"
 msgstr "Начать заново"
 
-# screen_lan_lobby.cpp
-msgid "Cancel"
-msgstr "Отмена"
-
-# screen_lan_lobby.cpp
-msgid "Game is full"
-msgstr "Нет свободных мест."
-
-# screen_lan_lobby.cpp
-msgid "Local lobby"
-msgstr "Локальное лобби"
-
-# screen_lan_lobby.cpp
-msgid "Ready"
-msgstr "Готов!"
-
-# screen_lan_lobby.cpp
-msgid "Waiting for other players..."
-msgstr "Ожидание игроков..."
-
-# screen_lan_lobby.cpp
-msgid "You are already in the game!"
-msgstr "Вы уже находитесь в игре!"
-
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Скачивание уровня..."
+
+# screen_online_authenticate.cpp
+msgid "Authenticating..."
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Failed to authenticate"
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Failed to contact server"
+msgstr "Не удалось связаться с сервером"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -89,6 +77,18 @@ msgstr "IP:"
 # screen_specify_server_ip.cpp
 msgid "Port:"
 msgstr "Порт:"
+
+# screen_online_enter_password.cpp
+msgid "Enter password"
+msgstr ""
+
+# screen_online_enter_password.cpp
+msgid "Join"
+msgstr ""
+
+# screen_online_enter_password.cpp
+msgid "Password:"
+msgstr "Пароль:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
@@ -114,6 +114,22 @@ msgstr "Уровни сообщества"
 msgid "Level name"
 msgstr "Уровень"
 
+# screen_select_multiplayer_type.cpp
+msgid "LAN multiplayer"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Online multiplayer"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Play with people around the world!"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Play with people on the same network!"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "(Несовместимая версия)"
@@ -121,10 +137,6 @@ msgstr "(Несовместимая версия)"
 # screen_lan_create_or_join.cpp
 msgid "Close room"
 msgstr "Закрыть комнату"
-
-# screen_lan_create_or_join.cpp
-msgid "Connect to..."
-msgstr "Подключиться к..."
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
@@ -202,14 +214,6 @@ msgstr "Результаты отправлены."
 msgid "Uploading replay for %s."
 msgstr "Загрузка результатов от %s."
 
-# screen_upload_scores.cpp
-msgid "You need to be signed-in to upload scores"
-msgstr "Вы должны войти в аккаунт, чтобы отправлять результаты"
-
-# screen_upload_scores.cpp
-msgid "Your account"
-msgstr "Аккаунт"
-
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Настройка клавиатуры"
@@ -229,6 +233,10 @@ msgstr "Стрельба"
 # screen_select_game_single_player.cpp
 msgid "Select level"
 msgstr "Выбор уровня"
+
+# screen_online_list_rooms.cpp
+msgid "Refresh"
+msgstr ""
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -287,6 +295,10 @@ msgid "Local Multiplayer"
 msgstr "LAN Мультиплеер"
 
 # screen_main_menu.cpp
+msgid "Multiplayer"
+msgstr ""
+
+# screen_main_menu.cpp
 msgid "Play"
 msgstr "Играть"
 
@@ -294,9 +306,37 @@ msgstr "Играть"
 msgid "Single Player"
 msgstr "Одиночная игра"
 
+# screen_online_create_or_join_room.cpp
+msgid "Creating room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Failed to join room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Joining room"
+msgstr ""
+
 # screen_tutorial.cpp
 msgid "Tutorial"
 msgstr "Обучение"
+
+# screen_online_configure_room.cpp
+msgid "2 extra characters:"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Any level"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Room configuration"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Room name: %s"
+msgstr ""
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -418,6 +458,34 @@ msgstr "Запустить обучение"
 msgid "Vibration %s"
 msgstr "Вибрация %s"
 
+# screen_multiplayer_lobby.cpp
+msgid "Cancel"
+msgstr "Отмена"
+
+# screen_multiplayer_lobby.cpp
+msgid "Game is full"
+msgstr "Нет свободных мест."
+
+# screen_multiplayer_lobby.cpp
+msgid "Local lobby"
+msgstr "Локальное лобби"
+
+# screen_multiplayer_lobby.cpp
+msgid "Online lobby"
+msgstr ""
+
+# screen_multiplayer_lobby.cpp
+msgid "Ready"
+msgstr "Готов!"
+
+# screen_multiplayer_lobby.cpp
+msgid "Waiting for other players..."
+msgstr "Ожидание игроков..."
+
+# screen_multiplayer_lobby.cpp
+msgid "You are already in the game!"
+msgstr "Вы уже находитесь в игре!"
+
 # screen_signin.cpp
 msgid "Check your inbox!"
 msgstr "Проверьте почту!"
@@ -507,10 +575,6 @@ msgid "You've been signed out."
 msgstr "Вы вышли из аккаунта."
 
 # screen_account_url_request.cpp
-msgid "Failed to contact server"
-msgstr "Не удалось связаться с сервером"
-
-# screen_account_url_request.cpp
 msgid "Failed to parse server response"
 msgstr "Не удалось получить ответ от сервера"
 
@@ -533,6 +597,18 @@ msgstr "Политика конфиденциальности"
 # screen_signed_out.cpp
 msgid "Register"
 msgstr "Зарегистрироваться"
+
+# screen_signed_out.cpp
+msgid "You need to be signed-in to play online"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr "Вы должны войти в аккаунт, чтобы отправлять результаты"
+
+# screen_signed_out.cpp
+msgid "Your account"
+msgstr "Аккаунт"
 
 # screen_register.cpp
 msgid "Confirm email"
@@ -565,10 +641,6 @@ msgstr "Адреса не совпадают!"
 # screen_register.cpp
 msgid "Failed to register"
 msgstr "Не удалось зарегистрироваться."
-
-# screen_register.cpp
-msgid "Password:"
-msgstr "Пароль:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
@@ -740,6 +812,10 @@ msgstr "Пиксель 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Connect to..."
+msgstr "Подключиться к..."
 
 # Currently unused! This string may never be used again!
 msgid "Failed to sign-in!"

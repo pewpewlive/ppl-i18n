@@ -42,33 +42,21 @@ msgstr "Game Over"
 msgid "Play again"
 msgstr "Jugar de nuevo"
 
-# screen_lan_lobby.cpp
-msgid "Cancel"
-msgstr "Cancelar"
-
-# screen_lan_lobby.cpp
-msgid "Game is full"
-msgstr "La partida está llena"
-
-# screen_lan_lobby.cpp
-msgid "Local lobby"
-msgstr "Menú local"
-
-# screen_lan_lobby.cpp
-msgid "Ready"
-msgstr "Listo"
-
-# screen_lan_lobby.cpp
-msgid "Waiting for other players..."
-msgstr "Esperando otros jugadores..."
-
-# screen_lan_lobby.cpp
-msgid "You are already in the game!"
-msgstr "¡Ya estás en la partida!"
-
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Descargando nivel..."
+
+# screen_online_authenticate.cpp
+msgid "Authenticating..."
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Failed to authenticate"
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Failed to contact server"
+msgstr "No hay conexión con el servidor"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -89,6 +77,18 @@ msgstr "IP:"
 # screen_specify_server_ip.cpp
 msgid "Port:"
 msgstr "Puerto:"
+
+# screen_online_enter_password.cpp
+msgid "Enter password"
+msgstr ""
+
+# screen_online_enter_password.cpp
+msgid "Join"
+msgstr ""
+
+# screen_online_enter_password.cpp
+msgid "Password:"
+msgstr "Contraseña:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
@@ -114,6 +114,22 @@ msgstr "Niveles personalizados"
 msgid "Level name"
 msgstr "Nombre del nivel"
 
+# screen_select_multiplayer_type.cpp
+msgid "LAN multiplayer"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Online multiplayer"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Play with people around the world!"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Play with people on the same network!"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "(Version incompatible)"
@@ -121,10 +137,6 @@ msgstr "(Version incompatible)"
 # screen_lan_create_or_join.cpp
 msgid "Close room"
 msgstr "Cerrar partida"
-
-# screen_lan_create_or_join.cpp
-msgid "Connect to..."
-msgstr "Conectar a..."
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
@@ -202,14 +214,6 @@ msgstr "Se ha subido correctamente"
 msgid "Uploading replay for %s."
 msgstr "Subiendo partida de %s."
 
-# screen_upload_scores.cpp
-msgid "You need to be signed-in to upload scores"
-msgstr "Inicia sesión para subir tus puntuaciones"
-
-# screen_upload_scores.cpp
-msgid "Your account"
-msgstr "Tu cuenta"
-
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Configurar teclado"
@@ -229,6 +233,10 @@ msgstr "Disparar"
 # screen_select_game_single_player.cpp
 msgid "Select level"
 msgstr "Elige un nivel"
+
+# screen_online_list_rooms.cpp
+msgid "Refresh"
+msgstr ""
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -287,6 +295,10 @@ msgid "Local Multiplayer"
 msgstr "Multijugador Local"
 
 # screen_main_menu.cpp
+msgid "Multiplayer"
+msgstr ""
+
+# screen_main_menu.cpp
 msgid "Play"
 msgstr "Jugar"
 
@@ -294,9 +306,37 @@ msgstr "Jugar"
 msgid "Single Player"
 msgstr "En solitario"
 
+# screen_online_create_or_join_room.cpp
+msgid "Creating room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Failed to join room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Joining room"
+msgstr ""
+
 # screen_tutorial.cpp
 msgid "Tutorial"
 msgstr "Tutorial"
+
+# screen_online_configure_room.cpp
+msgid "2 extra characters:"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Any level"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Room configuration"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Room name: %s"
+msgstr ""
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -383,10 +423,6 @@ msgid "by %s"
 msgstr "de %s"
 
 # screen_settings.cpp
-msgid "Account"
-msgstr "Cuenta"
-
-# screen_settings.cpp
 msgid "Audio"
 msgstr "Audio"
 
@@ -421,6 +457,34 @@ msgstr "Tutorial"
 # screen_settings.cpp
 msgid "Vibration %s"
 msgstr "Vibración %s"
+
+# screen_multiplayer_lobby.cpp
+msgid "Cancel"
+msgstr "Cancelar"
+
+# screen_multiplayer_lobby.cpp
+msgid "Game is full"
+msgstr "La partida está llena"
+
+# screen_multiplayer_lobby.cpp
+msgid "Local lobby"
+msgstr "Menú local"
+
+# screen_multiplayer_lobby.cpp
+msgid "Online lobby"
+msgstr ""
+
+# screen_multiplayer_lobby.cpp
+msgid "Ready"
+msgstr "Listo"
+
+# screen_multiplayer_lobby.cpp
+msgid "Waiting for other players..."
+msgstr "Esperando otros jugadores..."
+
+# screen_multiplayer_lobby.cpp
+msgid "You are already in the game!"
+msgstr "¡Ya estás en la partida!"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -511,12 +575,12 @@ msgid "You've been signed out."
 msgstr "Tu sesión se ha cerrado."
 
 # screen_account_url_request.cpp
-msgid "Failed to contact server"
-msgstr "No hay conexión con el servidor"
-
-# screen_account_url_request.cpp
 msgid "Failed to parse server response"
 msgstr "Fallo al analizar respuesta del servidor"
+
+# screen_signed_out.cpp
+msgid "Account"
+msgstr "Cuenta"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
@@ -533,6 +597,18 @@ msgstr "Política de Privacidad"
 # screen_signed_out.cpp
 msgid "Register"
 msgstr "Regístrame"
+
+# screen_signed_out.cpp
+msgid "You need to be signed-in to play online"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr "Inicia sesión para subir tus puntuaciones"
+
+# screen_signed_out.cpp
+msgid "Your account"
+msgstr "Tu cuenta"
 
 # screen_register.cpp
 msgid "Confirm email"
@@ -565,10 +641,6 @@ msgstr "¡Las cuentas de correo no coinciden!"
 # screen_register.cpp
 msgid "Failed to register"
 msgstr "No se pudo registrar"
-
-# screen_register.cpp
-msgid "Password:"
-msgstr "Contraseña:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
@@ -742,6 +814,10 @@ msgstr "Ultra bajo 8x"
 # They are kept in case they are needed again later.
 
 # Currently unused! This string may never be used again!
+msgid "Connect to..."
+msgstr "Conectar a..."
+
+# Currently unused! This string may never be used again!
 msgid "Failed to sign-in!"
 msgstr "¡No se pudo iniciar sesión!"
 
@@ -768,3 +844,4 @@ msgstr "Traducciones"
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
 msgstr "Esperando al servidor..."
+

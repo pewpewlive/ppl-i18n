@@ -42,33 +42,21 @@ msgstr "Oyun bitti"
 msgid "Play again"
 msgstr "Yeniden oyna"
 
-# screen_lan_lobby.cpp
-msgid "Cancel"
-msgstr "İptal et"
-
-# screen_lan_lobby.cpp
-msgid "Game is full"
-msgstr "Oyun dolu"
-
-# screen_lan_lobby.cpp
-msgid "Local lobby"
-msgstr "Yerli oda"
-
-# screen_lan_lobby.cpp
-msgid "Ready"
-msgstr "Hazır ol"
-
-# screen_lan_lobby.cpp
-msgid "Waiting for other players..."
-msgstr "Diğer oyuncular bekleniyor..."
-
-# screen_lan_lobby.cpp
-msgid "You are already in the game!"
-msgstr "Siz zaten oyundasınız!"
-
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Harita yükleniyor..."
+
+# screen_online_authenticate.cpp
+msgid "Authenticating..."
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Failed to authenticate"
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Failed to contact server"
+msgstr "Sunucuya bağlantı kurmak başarısız oldu"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -89,6 +77,18 @@ msgstr "İP:"
 # screen_specify_server_ip.cpp
 msgid "Port:"
 msgstr "Port:"
+
+# screen_online_enter_password.cpp
+msgid "Enter password"
+msgstr ""
+
+# screen_online_enter_password.cpp
+msgid "Join"
+msgstr ""
+
+# screen_online_enter_password.cpp
+msgid "Password:"
+msgstr "Şifre:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
@@ -114,6 +114,22 @@ msgstr "Özel haritalar"
 msgid "Level name"
 msgstr "Harita adı"
 
+# screen_select_multiplayer_type.cpp
+msgid "LAN multiplayer"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Online multiplayer"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Play with people around the world!"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Play with people on the same network!"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "(Uyumsuz sürüm)"
@@ -121,10 +137,6 @@ msgstr "(Uyumsuz sürüm)"
 # screen_lan_create_or_join.cpp
 msgid "Close room"
 msgstr "Odayı kapat"
-
-# screen_lan_create_or_join.cpp
-msgid "Connect to..."
-msgstr "...'ya bağlan"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
@@ -202,14 +214,6 @@ msgstr "Yükleme başarılı"
 msgid "Uploading replay for %s."
 msgstr "%s için tekrarlamalar yükleniyor."
 
-# screen_upload_scores.cpp
-msgid "You need to be signed-in to upload scores"
-msgstr "Skor yüklemek için giriş yapmış olmalısınız"
-
-# screen_upload_scores.cpp
-msgid "Your account"
-msgstr "Sizin hesabınız"
-
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Klaviyeyi düzenle"
@@ -229,6 +233,10 @@ msgstr "Atış atmak"
 # screen_select_game_single_player.cpp
 msgid "Select level"
 msgstr "Harita seç"
+
+# screen_online_list_rooms.cpp
+msgid "Refresh"
+msgstr ""
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -287,6 +295,10 @@ msgid "Local Multiplayer"
 msgstr "Yerel çok oyunculu"
 
 # screen_main_menu.cpp
+msgid "Multiplayer"
+msgstr ""
+
+# screen_main_menu.cpp
 msgid "Play"
 msgstr "Oyna"
 
@@ -294,9 +306,37 @@ msgstr "Oyna"
 msgid "Single Player"
 msgstr "Tek Oyunculu"
 
+# screen_online_create_or_join_room.cpp
+msgid "Creating room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Failed to join room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Joining room"
+msgstr ""
+
 # screen_tutorial.cpp
 msgid "Tutorial"
 msgstr "Öğrenme"
+
+# screen_online_configure_room.cpp
+msgid "2 extra characters:"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Any level"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Room configuration"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Room name: %s"
+msgstr ""
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -418,6 +458,34 @@ msgstr "Öğren"
 msgid "Vibration %s"
 msgstr "Titreşim %s"
 
+# screen_multiplayer_lobby.cpp
+msgid "Cancel"
+msgstr "İptal et"
+
+# screen_multiplayer_lobby.cpp
+msgid "Game is full"
+msgstr "Oyun dolu"
+
+# screen_multiplayer_lobby.cpp
+msgid "Local lobby"
+msgstr "Yerli oda"
+
+# screen_multiplayer_lobby.cpp
+msgid "Online lobby"
+msgstr ""
+
+# screen_multiplayer_lobby.cpp
+msgid "Ready"
+msgstr "Hazır ol"
+
+# screen_multiplayer_lobby.cpp
+msgid "Waiting for other players..."
+msgstr "Diğer oyuncular bekleniyor..."
+
+# screen_multiplayer_lobby.cpp
+msgid "You are already in the game!"
+msgstr "Siz zaten oyundasınız!"
+
 # screen_signin.cpp
 msgid "Check your inbox!"
 msgstr "Gelen kutusuna bakınız!"
@@ -507,10 +575,6 @@ msgid "You've been signed out."
 msgstr "Çıkış yapıldı."
 
 # screen_account_url_request.cpp
-msgid "Failed to contact server"
-msgstr "Sunucuya bağlantı kurmak başarısız oldu"
-
-# screen_account_url_request.cpp
 msgid "Failed to parse server response"
 msgstr "Sunucu bağlantısında hata oluşmuş"
 
@@ -533,6 +597,18 @@ msgstr "Gizlilik Politikası"
 # screen_signed_out.cpp
 msgid "Register"
 msgstr "Hesap oluştur"
+
+# screen_signed_out.cpp
+msgid "You need to be signed-in to play online"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr "Skor yüklemek için giriş yapmış olmalısınız"
+
+# screen_signed_out.cpp
+msgid "Your account"
+msgstr "Sizin hesabınız"
 
 # screen_register.cpp
 msgid "Confirm email"
@@ -565,10 +641,6 @@ msgstr "Emailler eşleşmiyor!"
 # screen_register.cpp
 msgid "Failed to register"
 msgstr "Hesap yapımı başarısız"
-
-# screen_register.cpp
-msgid "Password:"
-msgstr "Şifre:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
@@ -740,6 +812,10 @@ msgstr "Aşırı düşük x8"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Connect to..."
+msgstr "...'ya bağlan"
 
 # Currently unused! This string may never be used again!
 msgid "Failed to sign-in!"
