@@ -44,19 +44,19 @@ msgstr "+1 Attempt"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Yoinking level..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Playing pong..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Lost at pong"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "server has denied your friend request"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -80,15 +80,15 @@ msgstr "Gamer entry:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Gib sekret code"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Intrude"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Sekret code:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
@@ -116,19 +116,19 @@ msgstr "battleground"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "Close bro session"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "All bro session"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "All homies down to play"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Homies sapping your WiFi down to play"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -236,11 +236,11 @@ msgstr "The Main Squeezes"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "CTRL + R"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "The real ones"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -292,11 +292,11 @@ msgstr "Pass"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr "With the bois"
+msgstr "With the local bois"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "With the global bois"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -308,15 +308,15 @@ msgstr "Solo run"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Making gaming hideout"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Failed to intrude gaming hideout"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Intruding gaming hideout"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -324,19 +324,19 @@ msgstr "Learnin'"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2-long gamer tag:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "All's fair game"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Gaming hideout configs"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Gaming hideout alias: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -468,11 +468,11 @@ msgstr "No room sry"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
-msgstr "Gamin Group"
+msgstr "Local Gamin Group"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Global Gamin Group"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
@@ -484,211 +484,211 @@ msgstr "These guys sure are slow..."
 
 # screen_multiplayer_lobby.cpp
 msgid "You are already in the game!"
-msgstr ""
+msgstr "Bruh you're already here"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Inbox. There. Now"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Email not chill"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Gamere code reset didn't make it"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Email resend didn't make it"
 
 # screen_signin.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "bruh"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Gamer code"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Gamer code reset pending"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Email? Do it again"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Change gamer code?"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Finna change gamer code"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Finna verify email"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Change Gamer code"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Welcome gamer"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Step right in"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Welcome aboard gamer"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "Email confirm go vroom"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Shinies all accounted for"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Synchronize: nah"
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Synchronize: yea"
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Connecting four..."
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Later gamer"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Server illegible"
 
 # screen_signed_out.cpp
 msgid "Account"
-msgstr ""
+msgstr "this you?"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Become a chill bro and take your shinies everywhere"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "Not a chill bro"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privacy Policy"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Join us"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Sorry, chill bro's only"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Only chill bro's can assert dominance"
 
 # screen_signed_out.cpp
 msgid "Your account"
-msgstr ""
+msgstr "You"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Do it again"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Do it again:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Gamer code again"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Gamer code again:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Email is kil?"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Gib email"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Emails swiped left"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "Register: no"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Passwords swiped left"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Email. There. Now."
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Become a chill bro"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Chilling..."
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "Chill bro successful."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Sorry mate, %s letters is it."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Sorry mate, need at least %s letters."
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Gamer tag"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Gamer tag (we have colors)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Gamer info"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Aight ima head out"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Shinies get"
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -776,11 +776,11 @@ msgstr "oo silver"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Response illegible"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Ayo where's the info"
 
 # renderer_types.cpp
 msgid "High"
