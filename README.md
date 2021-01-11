@@ -13,6 +13,7 @@ A few tips for contributing:
 * Keep the `%s` as they later get replaced by some other text.
 * Try to have have the translations be approximately the same length as the english text.
 * Don't hesitate the reword the text in order to better fit the language.
+* In order to reduce merge conflicts, avoid working on a single pull request for multiple days. It's better if you create one pull request per day.
 ## Adding new languages
 If you want to add support for a new language, create a github Issue so that we can discuss
 the feasibility.
@@ -31,4 +32,4 @@ the feasibility.
 * [Spanish](/translations/spa.po) (90% complete; 19 remaining)
 * [Turkish](/translations/tur.po) (90% complete; 19 remaining)
 * [Ukrainian](/translations/ukr.po) (0% complete; 203 remaining)
-> Report generated on Jan 11 2021 19:18:06 UTC
+> Report generated on Jan 11 2021 19:31:40 UTC
