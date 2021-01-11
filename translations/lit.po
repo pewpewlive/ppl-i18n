@@ -48,11 +48,11 @@ msgstr "Atsisiunčiamas lygis ..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Autentifikuojama..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Nepavyko autentifikuoti"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
@@ -80,11 +80,11 @@ msgstr "Port:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Įveskite slaptažodį"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Prisijungti"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
@@ -116,19 +116,19 @@ msgstr "Lygio pavadinimas"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "Vietinis (LAN) kelių žaidėjų režimas"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Internetinis kelių žaidėjų režimas"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Žaiskite su žmonėmis aplink pasaulį!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Žaiskite su žmonėmis tame pačiame tinkle!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -236,7 +236,7 @@ msgstr "Pasirinkite lygį"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Atnaujinti"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -296,7 +296,7 @@ msgstr "Vietinis kelių žaidėjų režimas"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Kelių žaidėjų režimas"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -308,15 +308,15 @@ msgstr "Vienas žaidėjas"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Kuriamas kambarys"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Nepavyko prisijungti prie kambario"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Prisijungiama prie kambario"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -324,19 +324,19 @@ msgstr "Pamokymas"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "Dvi papildomos raidės:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Bet koks lygis"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Kambario konfigūracija"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Kambario pavadinimas: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -472,7 +472,7 @@ msgstr "Vietinė fojė"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Internetinė fojė"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
@@ -600,7 +600,7 @@ msgstr "Registruotis"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Jūs turite būti prisijungę, kad žaisti internete"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
@@ -844,4 +844,3 @@ msgstr "Vertimai"
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
 msgstr "Laukiama serverio..."
-
