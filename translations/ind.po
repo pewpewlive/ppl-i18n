@@ -52,7 +52,7 @@ msgstr "Mengautentikasikan..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr "Gagal untuk Mengautentikasikan"
+msgstr "Gagal untuk Mengautentikasi"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
@@ -64,7 +64,7 @@ msgstr "Hubung"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "Terhubung dengan ruang lain melalui internet #ff0000ff(experimental)"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
@@ -220,7 +220,7 @@ msgstr "Atur keyboard"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "Pembidik mouse %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
@@ -376,7 +376,7 @@ msgstr "Kamu akhirnya bisa mengkode level mu sendiri!"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr ""
+msgstr "Kesalahan membaca manifes"
 
 # screen_view_level.cpp
 msgid "Experimental level"
@@ -384,7 +384,7 @@ msgstr "Level percobaan"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "Gagal untuk mengunduh manifes"
 
 # screen_view_level.cpp
 msgid "Loading..."
@@ -412,7 +412,7 @@ msgstr "Layar sentuh"
 
 # screen_informations.cpp
 msgid "Development videos"
-msgstr ""
+msgstr "Video pengembangan"
 
 # screen_informations.cpp
 msgid "Discord server"
@@ -420,7 +420,7 @@ msgstr "Server discord"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr ""
+msgstr "Oleh %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -432,7 +432,7 @@ msgstr "Kontrol"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr ""
+msgstr "Mode pengembangan"
 
 # screen_settings.cpp
 msgid "Language"
@@ -524,11 +524,11 @@ msgstr "Mengirim ulang verifikasi email"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Minta setel ulang kata sandi"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Meminta setel ulang kata sandi"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
@@ -576,7 +576,7 @@ msgstr "Kau telah keluar."
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Gagal mengurai respons server"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -600,11 +600,11 @@ msgstr "Daftar"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Kau harus masuk akun agar dapat bermain online"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Kau harus masuk akun agar dapat mengunggah skor"
 
 # screen_signed_out.cpp
 msgid "Your account"
@@ -612,200 +612,200 @@ msgstr "Akun mu"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Konfirmasi email"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Konfirmasi email:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Konfirmasi kata sandi"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Konfirmasi kata sandi:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Email salah!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Email tidak cocok!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "Gagal untuk mendaftar"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Kata sandi tidak cocok"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Tolong periksa email mu!"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Daftar akun"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Mendaftarkan"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "Pendaftaran berhasil."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Terlalu panjang. Maksimum %s huruf"
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Terlalu pendek. Minimum %s huruf"
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Nama pengguna"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Nama pengguna (kamu bisa memakai warna disini!):""
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Profil online"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Keluar"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Sinkronisasi"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr ""
+msgstr "Pelindung: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr ""
+msgstr "%s meninggalkan permainan"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "Akurasi: %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "ø"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "Pilih kesulitan kamu sendiri"
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "Hindari semuanya dan kau akan baik baik saja"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "Ruang euclidean itu dilebih-lebihkan"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "Hijau baik. Merah buruk"
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "Hanya 32 detik dari keterampilan"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr ""
+msgstr "Mode Favorit ku"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "Jangan pernah mempercayai sebuah poligon bersisi enam"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "Sebelumnya dikenal sebagai Assault"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "RIP GW3: Dimensi"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "Bertahan 32 detik dengan trik yang sederhana"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr ""
+msgstr "Latar belakang lama untuk dihitung"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "Tak berhubungan dengan \Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\"Level ini hanya lelucon kan?\" - Seorang tester"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr ""
+msgstr "Alias Hindari ini"
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr ""
+msgstr "Medali perunggu baru"
 
 # medals.cpp
 msgid "New gold medal"
-msgstr ""
+msgstr "Medali emas baru"
 
 # medals.cpp
 msgid "New silver medal"
-msgstr ""
+msgstr "Medali perak baru"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Gagal untuk mengurai tanggapan"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Informasi hilang. ini seharusnya tidak terjadi!"
 
 # renderer_types.cpp
 msgid "High"
-msgstr ""
+msgstr "Tinggi"
 
 # renderer_types.cpp
 msgid "Low"
-msgstr ""
+msgstr "Rendah"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "Ultra rendah 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "Ultra rendah 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "Ultra rendah 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "Ultra rendah 8x"
