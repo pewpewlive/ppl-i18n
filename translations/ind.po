@@ -1,66 +1,66 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr ""
+msgstr "mati"
 
 # ui_helpers.cpp
 msgid "on"
-msgstr ""
+msgstr "hidup"
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr ""
+msgstr "ok"
 
 # game.cpp
 msgid "Quick pause"
-msgstr ""
+msgstr "Jeda cepat"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Jeda cepat %s"
 
 # pause_ui.cpp
 msgid "Continue"
-msgstr ""
+msgstr "Lanjutkan"
 
 # pause_ui.cpp
 msgid "Exit"
-msgstr ""
+msgstr "Keluar"
 
 # pause_ui.cpp
 msgid "Pause"
-msgstr ""
+msgstr "Jeda"
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr ""
+msgstr "Mulai ulang"
 
 # game_over_ui.cpp
 msgid "Game Over"
-msgstr ""
+msgstr "Game berakhir"
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr ""
+msgstr "Main lagi"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Mengunduh level..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr Mengautentikasikan..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Gagal untuk Mengautentikasikan"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Gagal untuk menghubungi server"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr ""
+msgstr "Hubung"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
@@ -68,155 +68,155 @@ msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
-msgstr ""
+msgstr "Menghubungi ke server"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
-msgstr ""
+msgstr "IP"
 
 # screen_specify_server_ip.cpp
 msgid "Port:"
-msgstr ""
+msgstr "Port"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Masukan kata sandi"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Gabung"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Kata sandi"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr ""
+msgstr "Atur pengendali"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
-msgstr ""
+msgstr "Setel ulang"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr ""
+msgstr "Tukar"
 
 # screen_select_custom_level.cpp
 msgid "Creator"
-msgstr ""
+msgstr "Pencipta"
 
 # screen_select_custom_level.cpp
 msgid "Custom levels"
-msgstr ""
+msgstr "Level kustom"
 
 # screen_select_custom_level.cpp
 msgid "Level name"
-msgstr ""
+msgstr "Nama level"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "Multiplayer LAN"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Multiplayer online"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Bermain dengan orang di seluruh dunia!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Bermain dengan orang di jaringan yang sama!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(Versi tak mendukung)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
-msgstr ""
+msgstr "Tutup ruang"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr ""
+msgstr "Menghubungkan ke hotspot ponsel seharusnya berhasil!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
-msgstr ""
+msgstr "Buat ruang"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "Setiap pemain butuh mengunggah replaynya sendiri agar terlihat di papan skor online"
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr ""
+msgstr "Tolong"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr ""
+msgstr "Multiplayer lokal"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "Multiplayer lokal mendukung 2 pemain terhubung di jaringan wifi yang sama."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr ""
+msgstr "Tolong multiplayer"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "Satu pemain harus membuat ruang, yang pemain lain akan gabung"
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Mencari ruang..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "Jaringan wifi tidak harus terhubung dengan internet."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr ""
+msgstr "Peluru"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr ""
+msgstr "Atur Kapal"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 # screen_configure_ship.cpp
 msgid "Trail"
-msgstr ""
+msgstr "Jejak"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "Gagal untuk mengunggah replay."
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "Tidak ada yang untuk di unggah!"
 
 # screen_upload_scores.cpp
 msgid "Upload scores"
-msgstr ""
+msgstr "Unggah skor"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
-msgstr ""
+msgstr "Sukses mengunggah"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "Mengunggah replay untuk %s."
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr ""
+msgstr "Atur keyboard"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
@@ -224,155 +224,155 @@ msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Move"
-msgstr ""
+msgstr "Bergerak"
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr ""
+msgstr "Tembak"
 
 # screen_select_game_single_player.cpp
 msgid "Select level"
-msgstr ""
+msgstr "Pilih level"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Segarkan"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Kontributor"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr ""
+msgstr "Bahasa default"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Menolong"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
-msgstr ""
+msgstr "Pengaturan bahasa"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Penerjemahan disediakan oleh komunitas!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr ""
+msgstr "1p"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr ""
+msgstr "2p"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr ""
+msgstr "3p"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr ""
+msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr ""
+msgstr "pribadi"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "negara"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
+msgstr "dunia"
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr ""
+msgstr "Lengkahi"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr ""
+msgstr "Multiplayer lokal"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Multiplayer"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr ""
+msgstr "Main"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr ""
+msgstr "Satu pemain"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Buat ruang"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Gagal untuk gabung ruang"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Bergabung ke ruang"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 karakter tambahan"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Level apapun"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Pengaturan ruang"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Nama ruang: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr ""
+msgstr "Hubungan error"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr ""
+msgstr "Hilang hubungan pada server"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
-msgstr ""
+msgstr "Pengaturan suara"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr ""
+msgstr "Suara efek"
 
 # screen_select_custom_level_info.cpp
 msgid "Custom levels?!"
-msgstr ""
+msgstr "Level kustom?!"
 
 # screen_select_custom_level_info.cpp
 msgid "More information"
-msgstr ""
+msgstr "Lebih banyak info"
 
 # screen_select_custom_level_info.cpp
 msgid "Yes!"
-msgstr ""
+msgstr "Ya!"
 
 # screen_select_custom_level_info.cpp
 msgid "You can finally code your own levels!"
-msgstr ""
+msgstr "Kamu akhirnya bisa mengkode level mu sendiri!"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -380,7 +380,7 @@ msgstr ""
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr ""
+msgstr "Level percobaan"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
@@ -388,27 +388,27 @@ msgstr ""
 
 # screen_view_level.cpp
 msgid "Loading..."
-msgstr ""
+msgstr "Memuat..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr ""
+msgstr "Terbaik lokal: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr ""
+msgstr "Rekor dunia: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
-msgstr ""
+msgstr "Pengaturan kontrol"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
-msgstr ""
+msgstr "Keyboard"
 
 # screen_settings_controls.cpp
 msgid "Touchscreen"
-msgstr ""
+msgstr "Layar sentuh"
 
 # screen_informations.cpp
 msgid "Development videos"
@@ -416,7 +416,7 @@ msgstr ""
 
 # screen_informations.cpp
 msgid "Discord server"
-msgstr ""
+msgstr "Server discord"
 
 # screen_informations.cpp
 msgid "by %s"
@@ -424,11 +424,11 @@ msgstr ""
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr ""
+msgstr "Suara"
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr ""
+msgstr "Kontrol"
 
 # screen_settings.cpp
 msgid "Developer mode"
@@ -436,91 +436,91 @@ msgstr ""
 
 # screen_settings.cpp
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr ""
+msgstr "Putar intro"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr ""
+msgstr "Perenderan: %s"
 
 # screen_settings.cpp
 msgid "Settings"
-msgstr ""
+msgstr "Pengaturan"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr ""
+msgstr "Mulai tutorial"
 
 # screen_settings.cpp
 msgid "Vibration %s"
-msgstr ""
+msgstr "Getaran %s"
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 # screen_multiplayer_lobby.cpp
 msgid "Game is full"
-msgstr ""
+msgstr "Game penuh"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
-msgstr ""
+msgstr "Lobi lokal"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Lobi online"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
-msgstr ""
+msgstr "Siap"
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "Menunggu pemain lain..."
 
 # screen_multiplayer_lobby.cpp
 msgid "You are already in the game!"
-msgstr ""
+msgstr "Kau sudah berada di dalam game!"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Chek kotak surat mu!"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Email tidak terverifikasi"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Gagal untuk meminta menyetel ulang kata sandi"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Gagal mengirim ulang email"
 
 # screen_signin.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "Kata sandi salah"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Kata sandi"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Email penyetel ulang kata sandi terkirim"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Mengirim ulang verifikasi email"
 
 # screen_signin.cpp
 msgid "Request password reset"
@@ -532,47 +532,47 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Meminta Verifikasi email"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Setel ulang kata sandi"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Masuk"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Memasukan"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Berhasil masuk!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "Email verifikasi terkirim"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Semua medali mu disini."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Gagal untuk mensinkronisasi"
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Sinkronisasi Selesai."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Mensinkronisasikan"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Kau telah keluar."
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
@@ -580,23 +580,23 @@ msgstr ""
 
 # screen_signed_out.cpp
 msgid "Account"
-msgstr ""
+msgstr "Akun"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Buat akun untuk menetapkan nama dan sinkronisasikan data mu"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "Tidak masuk"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Kebijakan pribadi"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Daftar"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
@@ -608,7 +608,7 @@ msgstr ""
 
 # screen_signed_out.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Akun mu"
 
 # screen_register.cpp
 msgid "Confirm email"
