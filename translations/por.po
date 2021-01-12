@@ -48,11 +48,11 @@ msgstr "Baixando o nível..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Autenticando..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Falha ao autenticar"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
@@ -80,11 +80,11 @@ msgstr "Porta:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Digite a senha"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Entre"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
@@ -116,19 +116,19 @@ msgstr "Nome do nível"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "LAN multiplayer"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Multiplayer online"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Jogue com pessoas ao redor do mundo!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Jogue com pessoas na mesma rede!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -236,7 +236,7 @@ msgstr "Selecione o nível"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Atualizar"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -296,7 +296,7 @@ msgstr "Local Multiplayer"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Multiplayer"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -308,15 +308,15 @@ msgstr "Um Jogador"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Criando sala"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Falha ao entrar no sala"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Entrar na sala"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -324,19 +324,19 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 caracteres extras:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Qualquer nivel"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Configuração da sala"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Nome da sala: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -472,7 +472,7 @@ msgstr "Salão local"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Salão online"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
@@ -600,7 +600,7 @@ msgstr "Registrar"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Você tem que estar conectado para jogar online"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
@@ -844,4 +844,3 @@ msgstr "Traduções"
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
 msgstr "Esperando pelo servidor..."
-
