@@ -23,13 +23,13 @@ the feasibility.
 * [Croatian](/translations/hrv.po) (90% complete; 19 remaining)
 * [Indonesian](/translations/ind.po) (0% complete; 203 remaining)
 * [Italian](/translations/ita.po) (90% complete; 19 remaining)
-* [Lithuanian](/translations/lit.po) (90% complete; 19 remaining)
+* [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * [Malay](/translations/msa.po) (0% complete; 203 remaining)
-* [Meme-nglish](/translations/meme.po) (63% complete; 76 remaining)
+* [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
 * [Polish](/translations/pol.po) (90% complete; 19 remaining)
 * [Portuguese](/translations/por.po) (90% complete; 19 remaining)
 * [Russian](/translations/rus.po) (90% complete; 19 remaining)
 * [Spanish](/translations/spa.po) (90% complete; 19 remaining)
 * [Turkish](/translations/tur.po) (90% complete; 19 remaining)
 * [Ukrainian](/translations/ukr.po) (0% complete; 203 remaining)
-> Report generated on Jan 11 2021 19:31:40 UTC
+> Report generated on Jan 12 2021 06:51:05 UTC
