@@ -752,7 +752,7 @@ msgstr "Latar belakang lama untuk dihitung"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Tak berhubungan dengan \Super Hexagon\""
+msgstr "Tak berhubungan dengan \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
