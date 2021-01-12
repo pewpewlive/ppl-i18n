@@ -1,812 +1,812 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr ""
+msgstr "вимкн."
 
 # ui_helpers.cpp
 msgid "on"
-msgstr ""
+msgstr "вмикн."
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr ""
+msgstr "прийняти"
 
 # game.cpp
 msgid "Quick pause"
-msgstr ""
+msgstr "Швидка пауза"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Швидка пауза %s"
 
 # pause_ui.cpp
 msgid "Continue"
-msgstr ""
+msgstr "Продовжити"
 
 # pause_ui.cpp
 msgid "Exit"
-msgstr ""
+msgstr "Вийти"
 
 # pause_ui.cpp
 msgid "Pause"
-msgstr ""
+msgstr "Пауза"
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr ""
+msgstr "Перезапуск"
 
 # game_over_ui.cpp
 msgid "Game Over"
-msgstr ""
+msgstr "Кінець гри"
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr ""
+msgstr "грати знову"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Загрузка рівня..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Аутентифікація ..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Не вийшло аутентифікаціювати"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Не вийшло приєднатися до сервера"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr ""
+msgstr "Приєднатися"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "Приєднатися до інакшої кімнати через інтернет #ff0000ff(Експериментально)"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
-msgstr ""
+msgstr "Приєднатися до сервера"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
-msgstr ""
+msgstr "Айпі:"
 
 # screen_specify_server_ip.cpp
 msgid "Port:"
-msgstr ""
+msgstr "Порт:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Введіть пароль"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Приєднатися"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Пароль"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr ""
+msgstr "Конфігурація джойстиків"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
-msgstr ""
+msgstr "Скинути положення"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr ""
+msgstr "Поміняти місцями"
 
 # screen_select_custom_level.cpp
 msgid "Creator"
-msgstr ""
+msgstr "Створювач"
 
 # screen_select_custom_level.cpp
 msgid "Custom levels"
-msgstr ""
+msgstr "Кастомні рівні"
 
 # screen_select_custom_level.cpp
 msgid "Level name"
-msgstr ""
+msgstr "Назва рівня"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "мультиплеєр по мережі"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Онлайн мультиплеєр"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Грати з людьми навколо світу!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Грати з людьми на одній мережі"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(Не сумісні версії)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
-msgstr ""
+msgstr "Закрити кімнату"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr ""
+msgstr "Підключення до точки доступу телефону має працювати!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
-msgstr ""
+msgstr "Створити кімнату"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "Кожному гравцеві потрібно завантажити повтор окремо, щоб з'явитися на дошці лідерів в Інтернеті"
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr ""
+msgstr "Допомога"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr ""
+msgstr "Локальний мультиплеєр"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "У локальному мультиплеєр підтримується 2 гравців, які підключені до однієї мережі."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr ""
+msgstr "Допомога з мкльтиплеєром"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "Один гравець має створити кімнату, у яку інший має зайти"
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Пошук кімнат..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "Мережа не має бути підключена до мережі."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr ""
+msgstr "Кулі"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr ""
+msgstr "Налаштування Шатлу"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr ""
+msgstr "Модель"
 
 # screen_configure_ship.cpp
 msgid "Trail"
-msgstr ""
+msgstr "Хвіст"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "Не вдалося завантажити повтори."
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "Нічого для завантаження!"
 
 # screen_upload_scores.cpp
 msgid "Upload scores"
-msgstr ""
+msgstr "Завантажити оцінки"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
-msgstr ""
+msgstr "Успішне завантаження"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "Завантаження повтора %s."
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr ""
+msgstr "Налаштування клавіатури"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "Прицілювання миші %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
-msgstr ""
+msgstr "Пересування"
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr ""
+msgstr "Постріл"
 
 # screen_select_game_single_player.cpp
 msgid "Select level"
-msgstr ""
+msgstr "Вибір рівню"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Перезавантажити"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Вкладачі"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr ""
+msgstr "Мова за замовчуванням"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Виручити"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
-msgstr ""
+msgstr "Налаштування Мови"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Переклади надані спільнотою!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr ""
+msgstr "1п"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr ""
+msgstr "2п"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr ""
+msgstr "3п"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr ""
+msgstr "4п"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr ""
+msgstr "персональні"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "регіон"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
+msgstr "світ"
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr ""
+msgstr "Пропустити"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr ""
+msgstr "Локальний Мультиплеєр"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Мультиплеєр"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr ""
+msgstr "Грати"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr ""
+msgstr "Один Гравець"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Створення кімнати"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Не вдалося приєднатися до кімнати"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Приєднання до кімнати"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
-msgstr ""
+msgstr "Туторіал"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 додаткових героїв"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Любий рівень"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Налаштування кімнати"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Назва кімнати: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
-msgstr ""
+msgstr "Музика"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr ""
+msgstr "Помилка з'єднання"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr ""
+msgstr "Втрачено зв’язок із сервером"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
-msgstr ""
+msgstr "Налаштування Звуку"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr ""
+msgstr "Звукові ефекти"
 
 # screen_select_custom_level_info.cpp
 msgid "Custom levels?!"
-msgstr ""
+msgstr "Кастомні рівні?!"
 
 # screen_select_custom_level_info.cpp
 msgid "More information"
-msgstr ""
+msgstr "Більше інформації"
 
 # screen_select_custom_level_info.cpp
 msgid "Yes!"
-msgstr ""
+msgstr "Так!"
 
 # screen_select_custom_level_info.cpp
 msgid "You can finally code your own levels!"
-msgstr ""
+msgstr "Ви нарешті можете кодувати власні рівні!"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr ""
+msgstr "Помилка читання маніфесту"
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr ""
+msgstr "Експериментальний рівень"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "Не вдалося завантажити маніфест"
 
 # screen_view_level.cpp
 msgid "Loading..."
-msgstr ""
+msgstr "Завантаження..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr ""
+msgstr "Локальна найкраща оцінка: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr ""
+msgstr "Рекорд світу: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
-msgstr ""
+msgstr "Налаштування керування"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
-msgstr ""
+msgstr "Клавіатура"
 
 # screen_settings_controls.cpp
 msgid "Touchscreen"
-msgstr ""
+msgstr "Дотик"
 
 # screen_informations.cpp
 msgid "Development videos"
-msgstr ""
+msgstr "Відео розробки"
 
 # screen_informations.cpp
 msgid "Discord server"
-msgstr ""
+msgstr "Сервер Діскорду"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr ""
+msgstr "Від %s"
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr ""
+msgstr "Звук"
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr ""
+msgstr "Контроль"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr ""
+msgstr "Режим розробника"
 
 # screen_settings.cpp
 msgid "Language"
-msgstr ""
+msgstr "Мова"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr ""
+msgstr "Запустити вступ"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr ""
+msgstr "Візуалізатор: %s"
 
 # screen_settings.cpp
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr ""
+msgstr "Почати туторіал"
 
 # screen_settings.cpp
 msgid "Vibration %s"
-msgstr ""
+msgstr "Вібрація %s"
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
-msgstr ""
+msgstr "Відміна"
 
 # screen_multiplayer_lobby.cpp
 msgid "Game is full"
-msgstr ""
+msgstr "Гра завантажена на повну"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
-msgstr ""
+msgstr "Локальне лоббі"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Онлайн лоббі"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
-msgstr ""
+msgstr "Готовий"
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "Чекаємо інших гравців..."
 
 # screen_multiplayer_lobby.cpp
 msgid "You are already in the game!"
-msgstr ""
+msgstr "Ти вже у грі!"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Перевірити свою пошту"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Емейл"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Емейл не звірений"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Не вдалося запросити скид паролю"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Не вдалося повторно надіслати емейл"
 
 # screen_signin.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "Невірний пароль"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Посилання для скидання пароля надіслано"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Перенадіслати перевірку емейлу"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Запросити скид паролю"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Запрошення на скид паролю"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Запрошення перевірки емейлу"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Скид паролю"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Зайти"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Заходження"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Успішно зайшли!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "Повідомлення із підтвердженням надіслано"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Усі твої медалі тут."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Не вдалося синхронізувати."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Синхронізувати і завершенно"
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Синхронізування"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Ви зайшли."
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Не вдалося проаналізувати відповідь сервера"
 
 # screen_signed_out.cpp
 msgid "Account"
-msgstr ""
+msgstr "Аккаунт"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Створити аккаунт щоб ввести ім'я та синхронізувати ваші дані"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "Ви не зайшли"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Політика конфіденційності"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Реєстрація"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Ви маєте зайти щоб грати онлайн"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Ви маєте зайти щоб завантажувати оцінки"
 
 # screen_signed_out.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Ваш аккаунт"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Перевірити емейл"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Перевірити емейл:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Перевірити пароль"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Перевірити пароль:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Емейл недійсний!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Емейл:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Емейли не співпадають!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "Не вдала реєстрація"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Паролі не співпадають"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Будь ласка перевірте вашу електронну пошту!"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Реєстрація аккаунта"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Реєстрація"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "Реєстрація вдала."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Дуже довго. Максимум %s символів."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Дуже коротко. Мінімум %s символів"
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Юзернейм"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Юзернейм(Ви можете використати кольори в ньому)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Онлайн профіль"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Вийти з аккаунта"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Синхронізувати"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr ""
+msgstr "Щит: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr ""
+msgstr "%s покинув гру"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "Точність: %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "Н/З"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "Виберіть свою складність"
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "Ухиляйтесь від усього, і ви будете в ПОРЯДКУ"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "Евклідовий простір переоцінений"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "Зелений добре. Червоний погано"
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "Просто 32 секунди вправності"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr ""
+msgstr "Мій улюблений режим"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "Ніколи не довіряй шестикутнику"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "Раніше відомий як Assault"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "ВЗМ GW3:Dimensions"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "Виживи 32 секунди з цим простим трюком"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr ""
+msgstr "Фон дорого обчислити"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "Не пов'язано з \ "Super Hexagon \""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\"Цей рівеньи- жарт, так?" - тестер"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr ""
+msgstr "він же Dodge This"
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr ""
+msgstr "Нова бронзова медаль"
 
 # medals.cpp
 msgid "New gold medal"
-msgstr ""
+msgstr "Нова золота медаль"
 
 # medals.cpp
 msgid "New silver medal"
-msgstr ""
+msgstr "Нова срібна медаль"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Не вдалося проаналізувати відповідь"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Відсутня інформація. Цього не мало статися!"
 
 # renderer_types.cpp
 msgid "High"
-msgstr ""
+msgstr "Висока"
 
 # renderer_types.cpp
 msgid "Low"
-msgstr ""
+msgstr "Низька"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr ""
+msgstr "Середня"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "Дуже низька 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "Дуже низька 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "Дуже низька 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "Дуже низька 8x"
 
