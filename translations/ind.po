@@ -48,7 +48,7 @@ msgstr "Mengunduh level..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr Mengautentikasikan..."
+msgstr "Mengautentikasikan..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
