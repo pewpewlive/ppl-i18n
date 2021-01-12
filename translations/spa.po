@@ -48,15 +48,15 @@ msgstr "Descargando nivel..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Verificando..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "No se pudo verificar"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
-msgstr "No hay conexión con el servidor"
+msgstr "No se pudo conectar con el servidor"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -64,7 +64,7 @@ msgstr "Conectar"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Conecta con alguna partida mediante Internet #ff0000ff(experimental)"
+msgstr "Únete a alguna partida a través de Internet #ff0000ff(experimental)"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
@@ -80,11 +80,11 @@ msgstr "Puerto:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Introducir contraseña"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Unirse"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
@@ -116,19 +116,19 @@ msgstr "Nombre del nivel"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "Multijugador en LAN"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Multijugador en línea"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "¡Juega con gente de todo el mundo!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "¡Juega con gente en tu misma red!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -148,7 +148,7 @@ msgstr "Crear partida"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Cada uno de los jugadores deben subir la repetición de la partida para que ambos puedan aparecer en la clasificación en línea."
+msgstr "Cada uno de los jugadores debe subir la repetición de la partida para que ambos aparezcan en la clasificación en línea."
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
@@ -160,7 +160,7 @@ msgstr "Multijugador local"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "El Multijugador local permite a 2 jugadores en una partida si se encuentran en la misma red WIFI."
+msgstr "El Multijugador local permite que 2 jugadores luchen juntos si están conectados a la misma red WIFI."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
@@ -168,7 +168,7 @@ msgstr "Ayuda sobre el Multijugador"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr "Un jugador debe crear una partida, a la cual el otro jugador debe unirse."
+msgstr "Un jugador debe crear una partida, a la que el otro jugador debe unirse."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
@@ -176,7 +176,7 @@ msgstr "Buscando partidas..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr "La conexión WIFI no necesita estar conectada a Internet."
+msgstr "La red WIFI no necesita estar conectada a Internet."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
@@ -196,7 +196,7 @@ msgstr "Estela"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr "No se han podido subir las repeticiones"
+msgstr "No se pudieron subir las repeticiones."
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
@@ -232,11 +232,11 @@ msgstr "Disparar"
 
 # screen_select_game_single_player.cpp
 msgid "Select level"
-msgstr "Elige un nivel"
+msgstr "Elegir nivel"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Recargar"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -296,7 +296,7 @@ msgstr "Multijugador Local"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Multijugador"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -308,15 +308,15 @@ msgstr "En solitario"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Creando partida"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Fallo al unirse a la partida"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Entrando"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -324,19 +324,19 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 naves más:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Cualquiera"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Configurar partida"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Nombre: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -348,7 +348,7 @@ msgstr "Error de conexión"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr "Se ha perdido la conexión con el servidor"
+msgstr "Se perdió la conexión con el servidor"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -356,7 +356,7 @@ msgstr "Audio"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr "Efectos"
+msgstr "Sonido"
 
 # screen_select_custom_level_info.cpp
 msgid "Custom levels?!"
@@ -392,7 +392,7 @@ msgstr "Cargando..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr "Mejor en local: %s"
+msgstr "Mejor local: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
@@ -472,7 +472,7 @@ msgstr "Menú local"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Sala de espera"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
@@ -496,7 +496,7 @@ msgstr "Correo electrónico"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr "La cuenta no se ha verificado"
+msgstr "El correo no se ha verificado"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
@@ -516,7 +516,7 @@ msgstr "Contraseña"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr "Se envió un mensaje para restablecer tu contraseña"
+msgstr "Hemos enviado un mensaje para restablecer tu contraseña"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
@@ -528,7 +528,7 @@ msgstr "Solicitar restablecer mi contraseña"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr "Solicitando restablecer la contraseña..."
+msgstr "Solicitando restablecer la contraseña"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
@@ -568,11 +568,11 @@ msgstr "Sincronizacin completada."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr "Sincronizando..."
+msgstr "Sincronizando"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr "Tu sesión se ha cerrado."
+msgstr "Has cerrado tu sesión."
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
@@ -596,11 +596,11 @@ msgstr "Política de Privacidad"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr "Regístrame"
+msgstr "Registrarse"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Debes iniciar sesión para jugar en línea"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
@@ -612,19 +612,19 @@ msgstr "Tu cuenta"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr "Confirmar correo electrónico"
+msgstr "Una vez más, porfa"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr "Sí, tienes que repetirlo"
+msgstr "Confirmar correo electrónico:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr "Confirmar contraseña:"
+msgstr "Sí, escríbela otra vez"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr "Escríbela otra vez"
+msgstr "Confirma tu contraseña:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
@@ -632,7 +632,7 @@ msgstr "¡No es un correo válido!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr "Correo electrónico"
+msgstr "Correo electrónico:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
@@ -656,7 +656,7 @@ msgstr "Registrar cuenta"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr "Registrando..."
+msgstr "Registrando"
 
 # screen_register.cpp
 msgid "Registration successful."
@@ -664,15 +664,15 @@ msgstr "El registro se completó con éxito."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr "Máximo de %s caracteres."
+msgstr "Demasiado largo. Máximo %s caracteres."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr "Mínimo de %s caracteres."
+msgstr "Demasiado corto. Mínimo %s caracteres."
 
 # screen_register.cpp
 msgid "Username"
-msgstr "Nombre"
+msgstr "Nombre de usuario"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
@@ -692,7 +692,7 @@ msgstr "Sincronizar"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr "Escudos: %s"
+msgstr "Escudo: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
@@ -756,7 +756,7 @@ msgstr "No existe relación alguna con \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Este nivel es un chiste, ¿verdad?\" - un jugador"
+msgstr "\"Este nivel es una broma, ¿verdad?\" - un jugador"
 
 # game_levels.cpp
 msgid "aka Dodge This"
