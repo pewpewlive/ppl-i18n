@@ -55,7 +55,7 @@ with open(readme_file, 'w', encoding="utf8", newline='\n') as f:
     f.write("\n")
     f.write("A few tips for contributing:\n")
     f.write("* Keep the `%s` as they later get replaced by some other text.\n")
-    f.write("* Try to have have the translations be approximately the same length as the english text.\n")
+    f.write("* Try to have the translations be approximately the same length as the english text.\n")
     f.write("* Don't hesitate the reword the text in order to better fit the language.\n")
     f.write("* In order to reduce merge conflicts, avoid working on a single pull request for multiple days. It's better if you create one pull request per day.\n")
     f.write("## Adding new languages\n")
