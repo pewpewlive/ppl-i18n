@@ -752,11 +752,11 @@ msgstr "Фон дорого обчислити"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Не пов'язано з \ "Super Hexagon \""
+msgstr "Не пов'язано з \"Super Hexagon \""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Цей рівеньи- жарт, так?" - тестер"
+msgstr "\"Цей рівеньи- жарт, так?\" - тестер"
 
 # game_levels.cpp
 msgid "aka Dodge This"
