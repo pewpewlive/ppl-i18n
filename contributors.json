@@ -38,6 +38,14 @@
       }
     ]
   },{
+    "lang": "ind",
+    "translators": [
+      {
+        "name": "Orange",
+        "color": "0xffa500ff"
+      }
+    ]
+  },{
     "lang": "ita",
     "translators": [
       {
@@ -106,5 +114,12 @@
         "color": "0xffffffff"
       }
     ]
-  }
+  },{
+    "lang": "ukr",
+    "translators": [
+      {
+        "name": "Quarlify",
+        "color": "0x8a2be2ff"
+      }
+    ]
 ]
