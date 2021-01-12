@@ -676,7 +676,7 @@ msgstr "Nama pengguna"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr "Nama pengguna (kamu bisa memakai warna disini!):""
+msgstr "Nama pengguna (kamu bisa memakai warna disini!):"
 
 # screen_signed_in.cpp
 msgid "Online profile"
