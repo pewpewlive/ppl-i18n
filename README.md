@@ -27,9 +27,9 @@ the feasibility.
 * [Malay](/translations/msa.po) (0% complete; 203 remaining)
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
-* [Portuguese](/translations/por.po) (90% complete; 19 remaining)
+* [Portuguese](/translations/por.po) (100% complete! 🎉)
 * [Russian](/translations/rus.po) (90% complete; 19 remaining)
 * [Spanish](/translations/spa.po) (100% complete! 🎉)
 * [Turkish](/translations/tur.po) (90% complete; 19 remaining)
 * [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
-> Report generated on Jan 12 2021 18:45:38 UTC
+> Report generated on Jan 12 2021 21:14:58 UTC
