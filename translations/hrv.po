@@ -48,11 +48,11 @@ msgstr "Preuzimanje levela..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Autentificiranje.."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Neuspješna autentifikacija."
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
@@ -80,11 +80,11 @@ msgstr "Port:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Upišite lozinku"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Pridruži se"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
@@ -116,19 +116,19 @@ msgstr "Ime levela"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "LAN više igrača"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Online više igrača"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Igrajte s ljudima diljem svijeta!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Igrajte s ljudima na istoj mreži!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -236,7 +236,7 @@ msgstr "Odaberi level"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Osvježi"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -296,7 +296,7 @@ msgstr "Lokalno više igrača"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Više igrača"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -308,15 +308,15 @@ msgstr "Jedan igrač"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Izrađivanje sobe"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Neuspješno pridruživanje u sobu"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Pridruživanje u sobu"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -324,19 +324,19 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 dodatne znamenke:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Bilo koji level"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Postavke sobe"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Ime sobe"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -472,7 +472,7 @@ msgstr "Lokalna partija"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Online soba"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
@@ -600,7 +600,7 @@ msgstr "Registriranje"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Morate biti prijavljeni kako biste igrali online"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
