@@ -48,7 +48,7 @@ msgstr "Preuzimanje levela..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr "Autentificiranje.."
+msgstr "Autentificiranje..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -336,7 +336,7 @@ msgstr "Postavke sobe"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr "Ime sobe"
+msgstr "Ime sobe: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -668,7 +668,7 @@ msgstr "Predugo. Maksimalno %s znakova."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr "Prekratko. Minimalno % znakova."
+msgstr "Prekratko. Minimalno %s znakova."
 
 # screen_register.cpp
 msgid "Username"
