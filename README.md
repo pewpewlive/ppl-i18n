@@ -20,16 +20,16 @@ the feasibility.
 ## Status
 * [German](/translations/deu.po) (90% complete; 19 remaining)
 * [French](/translations/fra.po) (90% complete; 19 remaining)
-* [Croatian](/translations/hrv.po) (90% complete; 19 remaining)
+* [Croatian](/translations/hrv.po) (100% complete! 🎉)
 * [Indonesian](/translations/ind.po) (69% complete; 62 remaining)
 * [Italian](/translations/ita.po) (90% complete; 19 remaining)
 * [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * [Malay](/translations/msa.po) (0% complete; 203 remaining)
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
-* [Polish](/translations/pol.po) (90% complete; 19 remaining)
+* [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (90% complete; 19 remaining)
 * [Russian](/translations/rus.po) (90% complete; 19 remaining)
 * [Spanish](/translations/spa.po) (90% complete; 19 remaining)
 * [Turkish](/translations/tur.po) (90% complete; 19 remaining)
 * [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
-> Report generated on Jan 12 2021 11:08:46 UTC
+> Report generated on Jan 12 2021 12:46:09 UTC
