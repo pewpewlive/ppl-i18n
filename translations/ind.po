@@ -72,11 +72,11 @@ msgstr "Menghubungi ke server"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
-msgstr "IP"
+msgstr "IP:"
 
 # screen_specify_server_ip.cpp
 msgid "Port:"
-msgstr "Port"
+msgstr "Port:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
@@ -809,4 +809,3 @@ msgstr ""
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr ""
-
