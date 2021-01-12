@@ -44,15 +44,15 @@ msgstr "Zagraj ponownie"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr "PObieranie poziomu..."
+msgstr "Pobieranie poziomu..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Uwierzytelnianie..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Uwierzytelnianie nie powiodło się"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
@@ -80,11 +80,11 @@ msgstr "Port:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Wprowadź hasło"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Dołącz"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
@@ -116,19 +116,19 @@ msgstr "Nazwa poziomu"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "Lokalna gra wieloosobowa"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Gra Online wieloosobowa"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Graj z osobami z całego świata!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Graj z osobami w tej samej sieci!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -156,15 +156,15 @@ msgstr "Pomoc"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr "Lokalny multiplayer"
+msgstr "Lokalny gra wieloosobowa"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Lokalny multiplayer wspiera do 2 graczy podłączonych do jednej sieci wifi"
+msgstr "Lokalna gra wieloosobowa wspiera do 2 graczy podłączonych do jednej sieci wifi"
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr "Pomoc multiplayer"
+msgstr "Pomoc do gry Wieloosobowej"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
@@ -236,7 +236,7 @@ msgstr "Wybierz poziom"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Odśwież"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -292,11 +292,11 @@ msgstr "Pomiń"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr "Lokalny Multiplayer"
+msgstr "Tryb Lokalnej gry Wieloosobowej"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Tryb Wieloosobowy"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -304,19 +304,19 @@ msgstr "Zagraj"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr "Jeden gracz"
+msgstr "Tryb Jednoosobowy"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Tworzenie pokoju"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Nie udało się dołączyć do pokoju"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Dołączanie do pokoju"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -324,19 +324,19 @@ msgstr "Samouczek"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 dodatkowe litery:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Dowolny poziom"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Konfiguracja pokoju"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Nazwa pokoju %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -468,11 +468,11 @@ msgstr "Gra jest pełna"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
-msgstr "Lokalne Lobby"
+msgstr "Lobby lokalne"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Lobby Online"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
@@ -488,7 +488,7 @@ msgstr "Jesteś już w grze!"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr "Sprawdź swoją skrzynkę odbiorczą"
+msgstr "Sprawdź swoją skrzynkę odbiorczą!"
 
 # screen_signin.cpp
 msgid "Email"
@@ -600,7 +600,7 @@ msgstr "Zarejestruj"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Aby grać online, musisz się zalogować"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
