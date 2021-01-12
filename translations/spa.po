@@ -756,7 +756,7 @@ msgstr "No existe relación alguna con \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\Este nivel es un chiste, ¿verdad?\" - un jugador"
+msgstr "\"Este nivel es un chiste, ¿verdad?\" - un jugador"
 
 # game_levels.cpp
 msgid "aka Dodge This"
