@@ -15,7 +15,7 @@ os.chdir(dname)
 lang_files_dir = "translations/"
 langs = [{"code": "deu", "name": "German"}, {"code": "fra", "name": "French"},
          {"code": "hrv", "name": "Croatian"}, {"code": "ind", "name": "Indonesian"},
-         {"code": "ita", "name": "Italian"}, {"code": "lit", "name": "Lithuanian"}, {"code": "msa", "name": "Malay"}, 
+         {"code": "ita", "name": "Italian"}, {"code": "lit", "name": "Lithuanian"},
          {"code": "meme", "name": "Meme-nglish"}, {"code": "pol", "name": "Polish"},
          {"code": "por", "name": "Portuguese"}, {"code": "rus", "name": "Russian"},
          {"code": "spa", "name": "Spanish"}, {"code": "tur", "name": "Turkish"},
