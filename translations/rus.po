@@ -48,11 +48,11 @@ msgstr "Скачивание уровня..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Аутентификация..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Аутентификация не удалась"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
@@ -80,11 +80,11 @@ msgstr "Порт:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Введите пароль"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Присоединиться"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
@@ -116,19 +116,19 @@ msgstr "Уровень"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "LAN мультиплеер"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Онлайн мультиплеер"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Играй с людьми по всему миру!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Играй с людьми на одной сети!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -236,7 +236,7 @@ msgstr "Выбор уровня"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Обновить"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -296,7 +296,7 @@ msgstr "LAN Мультиплеер"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Мультиплеер"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -308,15 +308,15 @@ msgstr "Одиночная игра"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Комната создаётся"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Не удалось подключиться к комнате"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Вход в комнату  "
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -324,19 +324,19 @@ msgstr "Обучение"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 дополнительных символа:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Любой уровень"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Настройка комнаты"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Название: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -472,7 +472,7 @@ msgstr "Локальное лобби"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Онлайн лобби"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
@@ -600,7 +600,7 @@ msgstr "Зарегистрироваться"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Вы должны войти, чтобы играть онлайн"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
