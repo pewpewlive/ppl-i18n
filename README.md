@@ -11,6 +11,7 @@ If you contribute a significant amount, I'll put you in the credits!
 
 A few tips for contributing:
 * Keep the `%s` as they later get replaced by some other text.
+* Keep the text fragments that look like `#ffffffff` encode colors. Keep them!
 * Try to have the translations be approximately the same length as the English text.
 * Don't hesitate the reword the text to better fit the language.
 * In order to reduce merge conflicts, avoid working on a single pull request for multiple days. It's better if you create one pull request per day.
@@ -19,7 +20,7 @@ If you want to add support for a new language, create a GitHub Issue so that we 
 the feasibility.
 ## Status
 * [German](/translations/deu.po) (90% complete; 19 remaining)
-* [French](/translations/fra.po) (90% complete; 19 remaining)
+* [French](/translations/fra.po) (100% complete! 🎉)
 * [Croatian](/translations/hrv.po) (100% complete! 🎉)
 * [Indonesian](/translations/ind.po) (100% complete! 🎉)
 * [Italian](/translations/ita.po) (90% complete; 19 remaining)
@@ -28,8 +29,8 @@ the feasibility.
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (100% complete! 🎉)
-* [Russian](/translations/rus.po) (90% complete; 19 remaining)
+* [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (100% complete! 🎉)
-* [Turkish](/translations/tur.po) (90% complete; 19 remaining)
+* [Turkish](/translations/tur.po) (100% complete! 🎉)
 * [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
-> Report generated on Jan 12 2021 21:14:58 UTC
+> Report generated on Jan 13 2021 17:20:56 UTC
