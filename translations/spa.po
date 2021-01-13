@@ -180,7 +180,7 @@ msgstr "La red WIFI no necesita estar conectada a Internet."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr "Proyectiles"
+msgstr "Balas"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
