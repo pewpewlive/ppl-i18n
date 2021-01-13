@@ -48,11 +48,11 @@ msgstr "Téléchargement du niveau..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Authentification..."
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Echec de l'authentification"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
@@ -80,11 +80,11 @@ msgstr "Port:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Saisie du mot de passe"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Rejoindre"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
@@ -116,19 +116,19 @@ msgstr "Nom du niveau"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "Multijoueur en LAN"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Multijoueur en ligne"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Joue avec des gens du monde entier!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Joue avec les gens sur le réseau local"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -144,7 +144,7 @@ msgstr "Essayez d'utiliser le partage de connexion via le téléphone d'un ami !
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
-msgstr "Créer une partie locale"
+msgstr "Créer une partie"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
@@ -236,7 +236,7 @@ msgstr "Sélectionner le niveau"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Rafraîchir"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -296,7 +296,7 @@ msgstr "Multi-joueur local"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Multijoueur"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -308,15 +308,15 @@ msgstr "Jouer en solo"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Creation de la partie"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Impossible de rejoindre la partie"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Connexion à la partie"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -324,19 +324,19 @@ msgstr "Tutoriel"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 caractères en plus :"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Tous les niveaux"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Configuration "
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Nom de la partie: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -472,7 +472,7 @@ msgstr "Partie locale"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Partie en ligne"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
@@ -600,7 +600,7 @@ msgstr "S'enregistrer"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Tu dois t'être identifié pour jouer en ligne"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
