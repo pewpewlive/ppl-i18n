@@ -296,7 +296,7 @@ msgstr "With the local bois"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr "With the global bois"
+msgstr "With the bois"
 
 # screen_main_menu.cpp
 msgid "Play"
