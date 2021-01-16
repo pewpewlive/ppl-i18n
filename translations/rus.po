@@ -48,23 +48,23 @@ msgstr "Скачивание уровня..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr "Аутентификация..."
+msgstr "Аутентификация"
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Ошибка :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr "Аутентификация не удалась"
+msgstr "Аутентификация не удалась."
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
-msgstr "Не удалось связаться с сервером"
+msgstr "Не удалось связаться с сервером."
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Необходима новейшая версия игры."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -132,11 +132,11 @@ msgstr "Онлайн мультиплеер"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr "Играй с людьми по всему миру!"
+msgstr "Играть с людьми по всему миру!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr "Играй с людьми на одной сети!"
+msgstr "Играть с людьми на одной сети!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -316,39 +316,39 @@ msgstr "Одиночная игра"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr "Комната создаётся"
+msgstr "Ожидание игроков"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr "Не удалось подключиться к комнате"
+msgstr "Не удалось подключиться к комнате."
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
-msgstr "Неправильный пароль"
+msgstr "Неправильный пароль."
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr "Вход в комнату  "
+msgstr "Вход в комнату"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "В комнате нет свободных мест."
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Такой комнаты не существует."
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "Комната истекла."
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Неизвестная ошибка."
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Вы уже находитесь в комнате!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -524,11 +524,11 @@ msgstr "Email не подтверждён"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr "Не удалось запросить сброс пароля"
+msgstr "Не удалось запросить сброс пароля."
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr "Не удалось отправить письмо заново"
+msgstr "Не удалось отправить письмо заново."
 
 # screen_signin.cpp
 msgid "Password"
@@ -536,7 +536,7 @@ msgstr "Пароль"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr "Письмо для сброса пароля отправлено"
+msgstr "Письмо для сброса пароля отправлено."
 
 # screen_signin.cpp
 msgid "Re-send verification email"
