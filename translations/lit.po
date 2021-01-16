@@ -52,7 +52,7 @@ msgstr "Autentifikuojama..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Klaida :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -64,7 +64,7 @@ msgstr "Nepavyko pasiekti serveriu"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Reikia turėti naują žaidimo versiją."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -332,23 +332,23 @@ msgstr "Prisijungiama prie kambario"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Kambarys yra pilnas"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Kambarys nutrauktas"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "Kambarys nebegalioja"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Nežinoma klaida"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Jūs jau esate kambaryje!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
