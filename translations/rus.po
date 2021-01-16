@@ -51,12 +51,20 @@ msgid "Authenticating..."
 msgstr "Аутентификация..."
 
 # screen_online_authenticate.cpp
+msgid "Error :("
+msgstr ""
+
+# screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Аутентификация не удалась"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
 msgstr "Не удалось связаться с сервером"
+
+# screen_online_authenticate.cpp
+msgid "Need the latest version of the game."
+msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -315,8 +323,32 @@ msgid "Failed to join room"
 msgstr "Не удалось подключиться к комнате"
 
 # screen_online_create_or_join_room.cpp
+msgid "Incorrect password"
+msgstr "Неправильный пароль"
+
+# screen_online_create_or_join_room.cpp
 msgid "Joining room"
 msgstr "Вход в комнату  "
+
+# screen_online_create_or_join_room.cpp
+msgid "Room is full"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room does not exist anymore"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room expired"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Unknown error"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "You are already in the room!"
+msgstr ""
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -463,10 +495,6 @@ msgid "Cancel"
 msgstr "Отмена"
 
 # screen_multiplayer_lobby.cpp
-msgid "Game is full"
-msgstr "Нет свободных мест."
-
-# screen_multiplayer_lobby.cpp
 msgid "Local lobby"
 msgstr "Локальное лобби"
 
@@ -481,10 +509,6 @@ msgstr "Готов!"
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
 msgstr "Ожидание игроков..."
-
-# screen_multiplayer_lobby.cpp
-msgid "You are already in the game!"
-msgstr "Вы уже находитесь в игре!"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -505,10 +529,6 @@ msgstr "Не удалось запросить сброс пароля"
 # screen_signin.cpp
 msgid "Failed to resend email"
 msgstr "Не удалось отправить письмо заново"
-
-# screen_signin.cpp
-msgid "Incorrect password"
-msgstr "Неправильный пароль"
 
 # screen_signin.cpp
 msgid "Password"
@@ -822,6 +842,10 @@ msgid "Failed to sign-in!"
 msgstr "Не удалось войти."
 
 # Currently unused! This string may never be used again!
+msgid "Game is full"
+msgstr "Нет свободных мест."
+
+# Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Загрузка уровня..."
 
@@ -844,4 +868,8 @@ msgstr "Переводчики"
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
 msgstr "Ожидание сервера..."
+
+# Currently unused! This string may never be used again!
+msgid "You are already in the game!"
+msgstr "Вы уже находитесь в игре!"
 

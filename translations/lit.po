@@ -51,12 +51,20 @@ msgid "Authenticating..."
 msgstr "Autentifikuojama..."
 
 # screen_online_authenticate.cpp
+msgid "Error :("
+msgstr ""
+
+# screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Nepavyko autentifikuoti"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
 msgstr "Nepavyko pasiekti serveriu"
+
+# screen_online_authenticate.cpp
+msgid "Need the latest version of the game."
+msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -315,8 +323,32 @@ msgid "Failed to join room"
 msgstr "Nepavyko prisijungti prie kambario"
 
 # screen_online_create_or_join_room.cpp
+msgid "Incorrect password"
+msgstr "Neteisingas slaptažodis"
+
+# screen_online_create_or_join_room.cpp
 msgid "Joining room"
 msgstr "Prisijungiama prie kambario"
+
+# screen_online_create_or_join_room.cpp
+msgid "Room is full"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room does not exist anymore"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room expired"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Unknown error"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "You are already in the room!"
+msgstr ""
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -463,10 +495,6 @@ msgid "Cancel"
 msgstr "Atšaukti"
 
 # screen_multiplayer_lobby.cpp
-msgid "Game is full"
-msgstr "Žaidimas pilnas"
-
-# screen_multiplayer_lobby.cpp
 msgid "Local lobby"
 msgstr "Vietinė fojė"
 
@@ -481,10 +509,6 @@ msgstr "Pasiruošti"
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
 msgstr "Laukiama kitų žaidėjų..."
-
-# screen_multiplayer_lobby.cpp
-msgid "You are already in the game!"
-msgstr "Jūs jau žaidime!"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -505,10 +529,6 @@ msgstr "Nepavyko pakeisti slaptažodžio"
 # screen_signin.cpp
 msgid "Failed to resend email"
 msgstr "Nepavyko išsiųsti El. Pašto"
-
-# screen_signin.cpp
-msgid "Incorrect password"
-msgstr "Neteisingas slaptažodis"
 
 # screen_signin.cpp
 msgid "Password"
@@ -822,6 +842,10 @@ msgid "Failed to sign-in!"
 msgstr "Nepavyko prisijungti!"
 
 # Currently unused! This string may never be used again!
+msgid "Game is full"
+msgstr "Žaidimas pilnas"
+
+# Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Įkeliamas lygis..."
 
@@ -844,3 +868,8 @@ msgstr "Vertimai"
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
 msgstr "Laukiama serverio..."
+
+# Currently unused! This string may never be used again!
+msgid "You are already in the game!"
+msgstr "Jūs jau žaidime!"
+

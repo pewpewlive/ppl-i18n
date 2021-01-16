@@ -51,12 +51,20 @@ msgid "Authenticating..."
 msgstr ""
 
 # screen_online_authenticate.cpp
+msgid "Error :("
+msgstr ""
+
+# screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr ""
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
 msgstr "Server wurde nicht kontaktiert"
+
+# screen_online_authenticate.cpp
+msgid "Need the latest version of the game."
+msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -315,7 +323,31 @@ msgid "Failed to join room"
 msgstr ""
 
 # screen_online_create_or_join_room.cpp
+msgid "Incorrect password"
+msgstr "Falsches Passwort"
+
+# screen_online_create_or_join_room.cpp
 msgid "Joining room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Room is full"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room does not exist anymore"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room expired"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Unknown error"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "You are already in the room!"
 msgstr ""
 
 # screen_tutorial.cpp
@@ -463,10 +495,6 @@ msgid "Cancel"
 msgstr "Abbrechen"
 
 # screen_multiplayer_lobby.cpp
-msgid "Game is full"
-msgstr "Partie is voll"
-
-# screen_multiplayer_lobby.cpp
 msgid "Local lobby"
 msgstr "Local lobby"
 
@@ -481,10 +509,6 @@ msgstr "Bereit"
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
 msgstr "In der Warteschlange..."
-
-# screen_multiplayer_lobby.cpp
-msgid "You are already in the game!"
-msgstr "Sie sind schon in der Partie!"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -505,10 +529,6 @@ msgstr "Passwort konnte nicht zurücksetzen werden"
 # screen_signin.cpp
 msgid "Failed to resend email"
 msgstr "Email konnte nicht nochmal gesendet werden"
-
-# screen_signin.cpp
-msgid "Incorrect password"
-msgstr "Falsches Passwort"
 
 # screen_signin.cpp
 msgid "Password"
@@ -822,6 +842,10 @@ msgid "Failed to sign-in!"
 msgstr "Anmeldung fehlgeschlagen!"
 
 # Currently unused! This string may never be used again!
+msgid "Game is full"
+msgstr "Partie is voll"
+
+# Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Laden der Stufe..."
 
@@ -844,4 +868,8 @@ msgstr "Übersetzungen"
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
 msgstr "Ein Moment bitte..."
+
+# Currently unused! This string may never be used again!
+msgid "You are already in the game!"
+msgstr "Sie sind schon in der Partie!"
 

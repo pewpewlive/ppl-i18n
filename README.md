@@ -19,18 +19,18 @@ A few tips for contributing:
 If you want to add support for a new language, create a GitHub Issue so that we can discuss
 the feasibility.
 ## Status
-* [German](/translations/deu.po) (90% complete; 19 remaining)
-* [French](/translations/fra.po) (100% complete! 🎉)
-* [Croatian](/translations/hrv.po) (100% complete! 🎉)
-* [Indonesian](/translations/ind.po) (100% complete! 🎉)
-* [Italian](/translations/ita.po) (90% complete; 19 remaining)
-* [Lithuanian](/translations/lit.po) (100% complete! 🎉)
+* [German](/translations/deu.po) (88% complete; 26 remaining)
+* [French](/translations/fra.po) (96% complete; 7 remaining)
+* [Croatian](/translations/hrv.po) (96% complete; 7 remaining)
+* [Indonesian](/translations/ind.po) (96% complete; 7 remaining)
+* [Italian](/translations/ita.po) (87% complete; 26 remaining)
+* [Lithuanian](/translations/lit.po) (96% complete; 7 remaining)
 * [Malay](/translations/msa.po) (0% complete; 203 remaining)
-* [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
-* [Polish](/translations/pol.po) (100% complete! 🎉)
-* [Portuguese](/translations/por.po) (100% complete! 🎉)
-* [Russian](/translations/rus.po) (100% complete! 🎉)
-* [Spanish](/translations/spa.po) (100% complete! 🎉)
-* [Turkish](/translations/tur.po) (100% complete! 🎉)
-* [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
-> Report generated on Jan 13 2021 17:20:56 UTC
+* [Meme-nglish](/translations/meme.po) (96% complete; 7 remaining)
+* [Polish](/translations/pol.po) (96% complete; 7 remaining)
+* [Portuguese](/translations/por.po) (96% complete; 7 remaining)
+* [Russian](/translations/rus.po) (96% complete; 7 remaining)
+* [Spanish](/translations/spa.po) (96% complete; 7 remaining)
+* [Turkish](/translations/tur.po) (96% complete; 7 remaining)
+* [Ukrainian](/translations/ukr.po) (96% complete; 7 remaining)
+> Report generated on Jan 16 2021 10:28:53 UTC

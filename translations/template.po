@@ -51,11 +51,19 @@ msgid "Authenticating..."
 msgstr ""
 
 # screen_online_authenticate.cpp
+msgid "Error :("
+msgstr ""
+
+# screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr ""
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Need the latest version of the game."
 msgstr ""
 
 # screen_specify_server_ip.cpp
@@ -315,7 +323,31 @@ msgid "Failed to join room"
 msgstr ""
 
 # screen_online_create_or_join_room.cpp
+msgid "Incorrect password"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
 msgid "Joining room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Room is full"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room does not exist anymore"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room expired"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Unknown error"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "You are already in the room!"
 msgstr ""
 
 # screen_tutorial.cpp
@@ -463,10 +495,6 @@ msgid "Cancel"
 msgstr ""
 
 # screen_multiplayer_lobby.cpp
-msgid "Game is full"
-msgstr ""
-
-# screen_multiplayer_lobby.cpp
 msgid "Local lobby"
 msgstr ""
 
@@ -480,10 +508,6 @@ msgstr ""
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
-msgstr ""
-
-# screen_multiplayer_lobby.cpp
-msgid "You are already in the game!"
 msgstr ""
 
 # screen_signin.cpp
@@ -504,10 +528,6 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
-
-# screen_signin.cpp
-msgid "Incorrect password"
 msgstr ""
 
 # screen_signin.cpp

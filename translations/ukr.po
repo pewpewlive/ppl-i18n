@@ -51,12 +51,20 @@ msgid "Authenticating..."
 msgstr "Аутентифікація ..."
 
 # screen_online_authenticate.cpp
+msgid "Error :("
+msgstr ""
+
+# screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Не вийшло аутентифікаціювати"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
 msgstr "Не вийшло приєднатися до сервера"
+
+# screen_online_authenticate.cpp
+msgid "Need the latest version of the game."
+msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -315,8 +323,32 @@ msgid "Failed to join room"
 msgstr "Не вдалося приєднатися до кімнати"
 
 # screen_online_create_or_join_room.cpp
+msgid "Incorrect password"
+msgstr "Невірний пароль"
+
+# screen_online_create_or_join_room.cpp
 msgid "Joining room"
 msgstr "Приєднання до кімнати"
+
+# screen_online_create_or_join_room.cpp
+msgid "Room is full"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room does not exist anymore"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room expired"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Unknown error"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "You are already in the room!"
+msgstr ""
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -463,10 +495,6 @@ msgid "Cancel"
 msgstr "Відміна"
 
 # screen_multiplayer_lobby.cpp
-msgid "Game is full"
-msgstr "Гра завантажена на повну"
-
-# screen_multiplayer_lobby.cpp
 msgid "Local lobby"
 msgstr "Локальне лоббі"
 
@@ -481,10 +509,6 @@ msgstr "Готовий"
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
 msgstr "Чекаємо інших гравців..."
-
-# screen_multiplayer_lobby.cpp
-msgid "You are already in the game!"
-msgstr "Ти вже у грі!"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -505,10 +529,6 @@ msgstr "Не вдалося запросити скид паролю"
 # screen_signin.cpp
 msgid "Failed to resend email"
 msgstr "Не вдалося повторно надіслати емейл"
-
-# screen_signin.cpp
-msgid "Incorrect password"
-msgstr "Невірний пароль"
 
 # screen_signin.cpp
 msgid "Password"
@@ -809,4 +829,15 @@ msgstr "Дуже низька 4x"
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr "Дуже низька 8x"
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Game is full"
+msgstr "Гра завантажена на повну"
+
+# Currently unused! This string may never be used again!
+msgid "You are already in the game!"
+msgstr "Ти вже у грі!"
 

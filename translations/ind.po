@@ -51,12 +51,20 @@ msgid "Authenticating..."
 msgstr "Mengautentikasikan..."
 
 # screen_online_authenticate.cpp
+msgid "Error :("
+msgstr ""
+
+# screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Gagal untuk Mengautentikasi"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
 msgstr "Gagal untuk menghubungi server"
+
+# screen_online_authenticate.cpp
+msgid "Need the latest version of the game."
+msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -315,8 +323,32 @@ msgid "Failed to join room"
 msgstr "Gagal untuk gabung ruang"
 
 # screen_online_create_or_join_room.cpp
+msgid "Incorrect password"
+msgstr "Kata sandi salah"
+
+# screen_online_create_or_join_room.cpp
 msgid "Joining room"
 msgstr "Bergabung ke ruang"
+
+# screen_online_create_or_join_room.cpp
+msgid "Room is full"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room does not exist anymore"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room expired"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Unknown error"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "You are already in the room!"
+msgstr ""
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -463,10 +495,6 @@ msgid "Cancel"
 msgstr "Batal"
 
 # screen_multiplayer_lobby.cpp
-msgid "Game is full"
-msgstr "Game penuh"
-
-# screen_multiplayer_lobby.cpp
 msgid "Local lobby"
 msgstr "Lobi lokal"
 
@@ -481,10 +509,6 @@ msgstr "Siap"
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
 msgstr "Menunggu pemain lain..."
-
-# screen_multiplayer_lobby.cpp
-msgid "You are already in the game!"
-msgstr "Kau sudah berada di dalam game!"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -505,10 +529,6 @@ msgstr "Gagal untuk meminta menyetel ulang kata sandi"
 # screen_signin.cpp
 msgid "Failed to resend email"
 msgstr "Gagal mengirim ulang email"
-
-# screen_signin.cpp
-msgid "Incorrect password"
-msgstr "Kata sandi salah"
 
 # screen_signin.cpp
 msgid "Password"
@@ -809,3 +829,15 @@ msgstr "Ultra rendah 4x"
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr "Ultra rendah 8x"
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Game is full"
+msgstr "Game penuh"
+
+# Currently unused! This string may never be used again!
+msgid "You are already in the game!"
+msgstr "Kau sudah berada di dalam game!"
+

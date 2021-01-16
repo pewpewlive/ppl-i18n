@@ -51,12 +51,20 @@ msgid "Authenticating..."
 msgstr "Uwierzytelnianie..."
 
 # screen_online_authenticate.cpp
+msgid "Error :("
+msgstr ""
+
+# screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Uwierzytelnianie nie powiodło się"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
 msgstr "Nie udało się skontaktować z serwerem"
+
+# screen_online_authenticate.cpp
+msgid "Need the latest version of the game."
+msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -315,8 +323,32 @@ msgid "Failed to join room"
 msgstr "Nie udało się dołączyć do pokoju"
 
 # screen_online_create_or_join_room.cpp
+msgid "Incorrect password"
+msgstr "Nieprawidłowe hasło"
+
+# screen_online_create_or_join_room.cpp
 msgid "Joining room"
 msgstr "Dołączanie do pokoju"
+
+# screen_online_create_or_join_room.cpp
+msgid "Room is full"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room does not exist anymore"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room expired"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Unknown error"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "You are already in the room!"
+msgstr ""
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -463,10 +495,6 @@ msgid "Cancel"
 msgstr "Anuluj"
 
 # screen_multiplayer_lobby.cpp
-msgid "Game is full"
-msgstr "Gra jest pełna"
-
-# screen_multiplayer_lobby.cpp
 msgid "Local lobby"
 msgstr "Lobby lokalne"
 
@@ -481,10 +509,6 @@ msgstr "Gotowy"
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
 msgstr "Czekanie na pozostałych graczy..."
-
-# screen_multiplayer_lobby.cpp
-msgid "You are already in the game!"
-msgstr "Jesteś już w grze!"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -505,10 +529,6 @@ msgstr "Nie udało się zażądać resetowania hasła"
 # screen_signin.cpp
 msgid "Failed to resend email"
 msgstr "Nie udało się ponownie wysłać e-maila"
-
-# screen_signin.cpp
-msgid "Incorrect password"
-msgstr "Nieprawidłowe hasło"
 
 # screen_signin.cpp
 msgid "Password"
@@ -822,6 +842,10 @@ msgid "Failed to sign-in!"
 msgstr "Logowanie nie powiodło się"
 
 # Currently unused! This string may never be used again!
+msgid "Game is full"
+msgstr "Gra jest pełna"
+
+# Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Ładowanie poziomu"
 
@@ -844,4 +868,8 @@ msgstr "Tłumaczenia"
 # Currently unused! This string may never be used again!
 msgid "Waiting for the server..."
 msgstr "Czekanie na serwer"
+
+# Currently unused! This string may never be used again!
+msgid "You are already in the game!"
+msgstr "Jesteś już w grze!"
 
