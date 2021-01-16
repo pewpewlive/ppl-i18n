@@ -52,7 +52,7 @@ msgstr "Mengautentikasikan..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Ada kesalahan =["
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -64,7 +64,7 @@ msgstr "Gagal untuk menghubungi server"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Butuh versi terbaru dari game."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -256,7 +256,7 @@ msgstr "Bahasa default"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr "Menolong"
+msgstr "Tolonglah"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -332,23 +332,23 @@ msgstr "Bergabung ke ruang"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Ruang penuh"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Ruangnya tidak ada lagi"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "Ruangan kadaluarsa"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Kesalahan tidak diketahui"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Kau sudah ada didalam ruang!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -724,7 +724,7 @@ msgstr "Akurasi: %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr "ø"
+msgstr "T/A"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
