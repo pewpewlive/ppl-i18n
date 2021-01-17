@@ -52,7 +52,7 @@ msgstr "Eşleştiriliyor..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Hata :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -64,7 +64,7 @@ msgstr "Sunucuya bağlantı kurmak başarısız oldu"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Oyunun en yeni sürümü gerekli."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -332,23 +332,23 @@ msgstr "Odaya katılıyor"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Oda dolu"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Oda artık yok"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "Odanın süresi geçti"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Bilinmeyen bir hata oluştu"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Siz zaten odadasınız!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
