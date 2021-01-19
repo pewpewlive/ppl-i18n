@@ -52,7 +52,7 @@ msgstr "Verificando..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Error :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -64,7 +64,7 @@ msgstr "No se pudo conectar con el servidor"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Requiere la última versión del juego."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -156,7 +156,7 @@ msgstr "Crear partida"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Cada uno de los jugadores debe subir la repetición de la partida para que ambos aparezcan en la clasificación en línea."
+msgstr "Cada jugador debe subir la repetición de la partida para que ambos aparezcan en la clasificación en línea."
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
@@ -256,7 +256,7 @@ msgstr "Por defecto"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr "Ayudar con las traducciones"
+msgstr "Ayudar a traducir"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -332,23 +332,23 @@ msgstr "Entrando"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "La partida está llena"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Esta partida ya no existe"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "La partida ha expirado"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Error desconocido"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "¡Ya estás en la partida!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -356,7 +356,7 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr "2 naves más:"
+msgstr "Nombre:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
