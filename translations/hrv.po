@@ -52,7 +52,7 @@ msgstr "Autentificiranje..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Greška :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -64,7 +64,7 @@ msgstr "Neuspješno kontaktiranje servera"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Morate imati najnoviju verziju igre."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -332,23 +332,23 @@ msgstr "Pridruživanje u sobu"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Soba je puna"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Soba ne postoji"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "Soba je istekla"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Nepoznata greška"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Već ste u sobi!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
