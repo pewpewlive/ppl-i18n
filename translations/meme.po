@@ -52,7 +52,7 @@ msgstr "Playing pong..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Something happened :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -64,7 +64,7 @@ msgstr "server has denied your friend request"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Need ship software update"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -332,23 +332,23 @@ msgstr "Intruding gaming hideout"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Can't fit more gamers in here!"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Where room go?"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "Room left out for too long, its spoiled"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "IDK what happened"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Can't be in 2 rooms at the same time"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
