@@ -48,15 +48,15 @@ msgstr "Sto scaricando il livello..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Autenticazione..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Errore :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Autenticazione fallita"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
@@ -64,7 +64,7 @@ msgstr "Collegamento al server fallito"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "È richiesta l'ultima versione del gioco."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -88,11 +88,11 @@ msgstr "Porta:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Inserisci la password"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Entra"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
@@ -124,19 +124,19 @@ msgstr "Nome del livello"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "Multiplayer LAN"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Multiplayer online"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Gioca con persone da tutto il mondo!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Gioca con persone nella stessa rete!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -244,7 +244,7 @@ msgstr "Scegli livello"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Aggiorna"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -304,7 +304,7 @@ msgstr "Multiplayer locale"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Multiplayer"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -316,7 +316,7 @@ msgstr "Single player"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Sto creando la stanza"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
