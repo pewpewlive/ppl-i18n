@@ -156,7 +156,7 @@ msgstr "Crea stanza"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Ogni giocatore deve caricare il replay separatamente per apparire entrambi nella classifica online"
+msgstr "Ogni giocatore deve caricare il replay separatamente per apparire nella classifica online"
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
@@ -320,7 +320,7 @@ msgstr "Sto creando la stanza"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Ingresso nella stanza fallito"
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
@@ -328,27 +328,27 @@ msgstr "Password errata"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Ingresso nella stanza"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Stanza piena"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "La stanza non esiste più"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "La stanza è scaduta"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Errore sconosciuto"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Sei già nella stanza"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -356,19 +356,19 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 caratteri extra:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Qualunque livello"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Configurazione della stanza"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Nome della stanza: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -476,7 +476,7 @@ msgstr "Avvia intro"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr "Renderer: %s"
+msgstr "Qualità: %s"
 
 # screen_settings.cpp
 msgid "Settings"
@@ -500,7 +500,7 @@ msgstr "Lobby locale"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Lobby online"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
@@ -508,7 +508,7 @@ msgstr "Pronto"
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
-msgstr "Aspettando altri giocatori..."
+msgstr "In attesa di altri giocatori..."
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -560,11 +560,11 @@ msgstr "Resetta la password"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr "Connettiti"
+msgstr "Entra"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr "Ti sto connettendo"
+msgstr "Connessione"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
@@ -576,7 +576,7 @@ msgstr "Email di verifica inviata"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr "Tutte le tue medaglie sono qui."
+msgstr "Tutte le tue medaglie sono arrivate."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -588,7 +588,7 @@ msgstr "Sincronizzazione completata"
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr "Sto sincronizzando"
+msgstr "Sincronizzazione"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
@@ -620,11 +620,11 @@ msgstr "Registrati"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Devi aver fatto l'accesso per giocare online"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr "Devi essere loggato per caricare i punteggi"
+msgstr "Devi aver fatto l'accesso per caricare i punteggi"
 
 # screen_signed_out.cpp
 msgid "Your account"
@@ -668,7 +668,7 @@ msgstr "Le passoword non coincidono!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr "Controlla le tue email, per favore!"
+msgstr "Controlla tra le tue email, per favore!"
 
 # screen_register.cpp
 msgid "Register account"
@@ -676,7 +676,7 @@ msgstr "Registra account"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr "Ti sto registrando"
+msgstr "Registrazione"
 
 # screen_register.cpp
 msgid "Registration successful."
