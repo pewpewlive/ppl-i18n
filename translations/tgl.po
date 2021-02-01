@@ -1,14 +1,14 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr ""
+msgstr "patayin"
 
 # ui_helpers.cpp
 msgid "on"
-msgstr ""
+msgstr "buksan"
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr ""
+msgstr "ok"
 
 # game.cpp
 msgid "Quick pause"
@@ -20,11 +20,11 @@ msgstr ""
 
 # pause_ui.cpp
 msgid "Continue"
-msgstr ""
+msgstr "Ituloy"
 
 # pause_ui.cpp
 msgid "Exit"
-msgstr ""
+msgstr "Umalis"
 
 # pause_ui.cpp
 msgid "Pause"
@@ -32,7 +32,7 @@ msgstr ""
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr ""
+msgstr "Ulit"
 
 # game_over_ui.cpp
 msgid "Game Over"
@@ -40,11 +40,11 @@ msgstr ""
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr ""
+msgstr "Laro ulit"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Nagda-download..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
@@ -52,7 +52,7 @@ msgstr ""
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "May mali :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -64,11 +64,11 @@ msgstr ""
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Kailangan ang pinakabagong bersiyon ng laro"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr ""
+msgstr "Kumonekta"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
@@ -80,15 +80,15 @@ msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
-msgstr ""
+msgstr "IP"
 
 # screen_specify_server_ip.cpp
 msgid "Port:"
-msgstr ""
+msgstr "Port"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Ilagay ang password"
 
 # screen_online_enter_password.cpp
 msgid "Join"
@@ -96,7 +96,7 @@ msgstr ""
 
 # screen_online_enter_password.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Password:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
