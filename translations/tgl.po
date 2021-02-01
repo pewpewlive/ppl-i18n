@@ -12,11 +12,11 @@ msgstr "ok"
 
 # game.cpp
 msgid "Quick pause"
-msgstr ""
+msgstr "Mabilis na paghinto"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Mabilis na paghinto %s"
 
 # pause_ui.cpp
 msgid "Continue"
@@ -28,11 +28,11 @@ msgstr "Umalis"
 
 # pause_ui.cpp
 msgid "Pause"
-msgstr ""
+msgstr "Hininto"
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr "Ulit"
+msgstr "Ulitin"
 
 # game_over_ui.cpp
 msgid "Game Over"
@@ -60,7 +60,7 @@ msgstr ""
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Hindi makaabot sa server"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -76,15 +76,15 @@ msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
-msgstr ""
+msgstr "Kumonekta sa server"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
-msgstr "IP"
+msgstr "IP:"
 
 # screen_specify_server_ip.cpp
 msgid "Port:"
-msgstr "Port"
+msgstr "Port:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
@@ -160,7 +160,7 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr ""
+msgstr "Tulong"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
@@ -312,7 +312,7 @@ msgstr ""
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr ""
+msgstr "Pang-isahan"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
@@ -456,7 +456,7 @@ msgstr ""
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr ""
+msgstr "Tunog"
 
 # screen_settings.cpp
 msgid "Controls"
@@ -468,11 +468,11 @@ msgstr ""
 
 # screen_settings.cpp
 msgid "Language"
-msgstr ""
+msgstr "Wika"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr ""
+msgstr "Panoorin ang intro"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
@@ -664,7 +664,7 @@ msgstr ""
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Hindi nagtugma ang password!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
@@ -732,7 +732,7 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "Galingan mo ang pag-ilag at hindi ka mapapakamak"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
@@ -744,7 +744,7 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "32 seconds lang sapat na :)"
 
 # game_levels.cpp
 msgid "My favorite mode"
@@ -768,7 +768,7 @@ msgstr ""
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr ""
+msgstr "Sa ganda ng background mapapa-sanaol ka nalang"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
