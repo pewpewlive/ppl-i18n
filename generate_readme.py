@@ -18,7 +18,7 @@ langs = [{"code": "deu", "name": "German"}, {"code": "fra", "name": "French"},
          {"code": "ita", "name": "Italian"}, {"code": "lit", "name": "Lithuanian"}, {"code": "msa", "name": "Malay"},
          {"code": "meme", "name": "Meme-nglish"}, {"code": "pol", "name": "Polish"},
          {"code": "por", "name": "Portuguese"}, {"code": "rus", "name": "Russian"},
-         {"code": "spa", "name": "Spanish"}, {"code": "tur", "name": "Turkish"},
+         {"code": "spa", "name": "Spanish"}, {"code": "tgl", "name": "Tagalog"}, {"code": "tur", "name": "Turkish"},
          {"code": "ukr", "name": "Ukrainian"}]
 lang_stats = {}
 
