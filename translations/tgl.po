@@ -36,7 +36,7 @@ msgstr "Ulitin"
 
 # game_over_ui.cpp
 msgid "Game Over"
-msgstr ""
+msgstr "Natapos na"
 
 # game_over_ui.cpp
 msgid "Play again"
@@ -72,7 +72,7 @@ msgstr "Kumonekta"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "Kumonekta sa room gamit ang internet #ff0000ff(experimental)"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
@@ -92,7 +92,7 @@ msgstr "Ilagay ang password"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Sumali"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
@@ -108,11 +108,11 @@ msgstr ""
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr ""
+msgstr "Pagpalitin"
 
 # screen_select_custom_level.cpp
 msgid "Creator"
-msgstr ""
+msgstr "May gawa"
 
 # screen_select_custom_level.cpp
 msgid "Custom levels"
@@ -120,7 +120,7 @@ msgstr ""
 
 # screen_select_custom_level.cpp
 msgid "Level name"
-msgstr ""
+msgstr "Pangalan ng level"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
@@ -144,7 +144,7 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
-msgstr ""
+msgstr "Isarado ang room"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
@@ -152,7 +152,7 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
-msgstr ""
+msgstr "Gumawa ng room"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
@@ -176,19 +176,19 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "Kailangan muna gumawa ng silid ang isang manlalaro bago sumali ang iba."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Naghahanap ng rooms..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "Hindi kailangang naka-konekta sa internet ang wifi network."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr ""
+msgstr "Bala"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
@@ -248,15 +248,15 @@ msgstr ""
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Mga nag-ambag"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr ""
+msgstr "Pangunahing wika"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Tumulong"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -268,35 +268,35 @@ msgstr ""
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr ""
+msgstr "1p"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr ""
+msgstr "2p"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr ""
+msgstr "3p"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr ""
+msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr ""
+msgstr "pansarili"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "rehiyon"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
+msgstr "mundo"
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr ""
+msgstr "Laktawan"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
@@ -304,7 +304,7 @@ msgstr ""
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "May Kasama"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -316,27 +316,27 @@ msgstr "Pang-isahan"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Gumagawa ng room"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Hindi makasali sa room"
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "Mali ang password"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Sumasali sa room"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Puno na ang room"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Hindi na mahanap ang room"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
@@ -348,11 +348,11 @@ msgstr ""
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Nasa room ka na!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
-msgstr ""
+msgstr "Mga turo"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
@@ -368,7 +368,7 @@ msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Pangalan ng room: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -376,11 +376,11 @@ msgstr ""
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr ""
+msgstr "Hindi makakonekta"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr ""
+msgstr "Nawalan ng koneksyon sa server"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -396,7 +396,7 @@ msgstr ""
 
 # screen_select_custom_level_info.cpp
 msgid "More information"
-msgstr ""
+msgstr "Iba pang impormasyon"
 
 # screen_select_custom_level_info.cpp
 msgid "Yes!"
@@ -492,7 +492,7 @@ msgstr ""
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
-msgstr ""
+msgstr "Ikansela"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
@@ -508,7 +508,7 @@ msgstr ""
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "Naghihintay sa ibang manlalaro..."
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -516,7 +516,7 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
@@ -576,7 +576,7 @@ msgstr ""
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Nandito ang lahat ng iyong medalya."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -632,19 +632,19 @@ msgstr ""
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Kumpirmahin ang email"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Kumpirmahin ang email:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Kumpirmahin ang password"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Kumpirmahin ang password:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
@@ -656,7 +656,7 @@ msgstr ""
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Hindi nagtugma ang mga email"
 
 # screen_register.cpp
 msgid "Failed to register"
@@ -664,7 +664,7 @@ msgstr ""
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr "Hindi nagtugma ang password!"
+msgstr "Hindi nagtugma ang mga password!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
@@ -692,11 +692,11 @@ msgstr ""
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Pangalan"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Pangalan (pwede mong lagyan ng mga kulay!)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -716,7 +716,7 @@ msgstr ""
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr ""
+msgstr "Umalis sa laro si %s"
 
 # game_state.cpp
 msgid "Accuracy: %s"
@@ -728,7 +728,7 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "Gusto mo pahirapan sarili mo? Ikaw bahala."
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
@@ -740,7 +740,7 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "Kunin ang berde. Lumayo sa pula."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
@@ -752,7 +752,7 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "Huwag magtiwala sa hugis na may anim na gilid"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
@@ -764,15 +764,15 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "Manatiling buhay sa loob ng 32 segundo"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr "Sa ganda ng background mapapa-sanaol ka nalang"
+msgstr ""
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "Walang koneksyon sa \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
@@ -784,15 +784,15 @@ msgstr ""
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr ""
+msgstr "Nadagdagan ng tansong medalya"
 
 # medals.cpp
 msgid "New gold medal"
-msgstr ""
+msgstr "Nadagdagan ng gintong medalya"
 
 # medals.cpp
 msgid "New silver medal"
-msgstr ""
+msgstr "Nadagdagan ng pilak na medalya"
 
 # account_information.cpp
 msgid "Failed to parse response"
