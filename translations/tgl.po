@@ -28,7 +28,7 @@ msgstr "Umalis"
 
 # pause_ui.cpp
 msgid "Pause"
-msgstr "Hininto"
+msgstr "Nakahinto"
 
 # pause_ui.cpp
 msgid "Restart"
@@ -48,7 +48,7 @@ msgstr "Nagda-download..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Ino-authenticate"
 
 # screen_online_authenticate.cpp
 msgid "Error :("
@@ -56,7 +56,7 @@ msgstr "May mali :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Hindi ma-authenticate"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
@@ -100,11 +100,11 @@ msgstr "Password:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr ""
+msgstr "Ayos ng joysticks"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
-msgstr ""
+msgstr "Ibalik"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
@@ -116,7 +116,7 @@ msgstr "May gawa"
 
 # screen_select_custom_level.cpp
 msgid "Custom levels"
-msgstr ""
+msgstr "Mga level na ginawa"
 
 # screen_select_custom_level.cpp
 msgid "Level name"
@@ -124,23 +124,23 @@ msgstr "Pangalan ng level"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "Gamit LAN"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Gamit online network"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Makipaglaro sa mga manlalaro sa loob at labas ng bansa!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Makipaglaro sa mga manlalaro sa kaparehong network!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(Hindi tugma ang bersiyon)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
@@ -148,7 +148,7 @@ msgstr "Isarado ang room"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr ""
+msgstr "Kahit sa hotspot ng phone ka kumonekta, gagana 'yan!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
@@ -156,7 +156,7 @@ msgstr "Gumawa ng room"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "Para parehong lumabas ang pangalan ng bawat manlalaro sa online leaderboard, kailangan nilang i-upload ng magkahiwalay ang replay."
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
@@ -164,19 +164,19 @@ msgstr "Tulong"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr ""
+msgstr "Laro gamit LAN"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "Ang dalawang manlalaro ay kailangang nakakonekta sa magkaparehong wifi network."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr ""
+msgstr "Paglalaro gamit LAN"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr "Kailangan muna gumawa ng silid ang isang manlalaro bago sumali ang iba."
+msgstr "Kailangan muna gumawa ng room ang isang manlalaro bago sumali ang iba."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
@@ -184,7 +184,7 @@ msgstr "Naghahanap ng rooms..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr "Hindi kailangang naka-konekta sa internet ang wifi network."
+msgstr "Hindi kinakailangang naka-konekta sa internet ang wifi network."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
@@ -192,59 +192,59 @@ msgstr "Bala"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr ""
+msgstr "Ayos ng Ship"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr ""
+msgstr "Bahay"
 
 # screen_configure_ship.cpp
 msgid "Trail"
-msgstr ""
+msgstr "Buntot"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "Hindi ma-upload ang replay."
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "Walang ma-upload!"
 
 # screen_upload_scores.cpp
 msgid "Upload scores"
-msgstr ""
+msgstr "I-upload ang record"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
-msgstr ""
+msgstr "Na-upload na."
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "Ina-upload ang replay para sa %s."
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr ""
+msgstr "Ayos ng keyboard"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "Pag-aim ng mouse %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
-msgstr ""
+msgstr "Paggalaw"
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr ""
+msgstr "Pagtira"
 
 # screen_select_game_single_player.cpp
 msgid "Select level"
-msgstr ""
+msgstr "Pumili ng level"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Mag-load muli"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -260,11 +260,11 @@ msgstr "Tumulong"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
-msgstr ""
+msgstr "Mga Pagpipiliang Wika"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Ginawa ng komunidad ang mga translations."
 
 # screen_view_high_scores.cpp
 msgid "1p"
@@ -300,7 +300,7 @@ msgstr "Laktawan"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr ""
+msgstr "Lokal na Multiplayer"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -308,7 +308,7 @@ msgstr "May Kasama"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr ""
+msgstr "Laruin"
 
 # screen_main_menu.cpp
 msgid "Single Player"
@@ -340,11 +340,11 @@ msgstr "Hindi na mahanap ang room"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "Hindi na mahanap ang room"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Hindi matukoy ang mali"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
@@ -356,7 +356,7 @@ msgstr "Mga turo"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 dagdag na character:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -364,7 +364,7 @@ msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Ayos ng room"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
@@ -372,7 +372,7 @@ msgstr "Pangalan ng room: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
-msgstr ""
+msgstr "Musika"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
@@ -384,15 +384,15 @@ msgstr "Nawalan ng koneksyon sa server"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
-msgstr ""
+msgstr "Ayos ng Audio"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr ""
+msgstr "Tunog"
 
 # screen_select_custom_level_info.cpp
 msgid "Custom levels?!"
-msgstr ""
+msgstr "Pwede gumawa ng level?"
 
 # screen_select_custom_level_info.cpp
 msgid "More information"
@@ -400,59 +400,59 @@ msgstr "Iba pang impormasyon"
 
 # screen_select_custom_level_info.cpp
 msgid "Yes!"
-msgstr ""
+msgstr "Syempre!"
 
 # screen_select_custom_level_info.cpp
 msgid "You can finally code your own levels!"
-msgstr ""
+msgstr "Pwede ka na mag-code ng sarili mong level!"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr ""
+msgstr "Hindi mabasa ang manifest"
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr ""
+msgstr "Experimental"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "Hindi ma-download ang manifest"
 
 # screen_view_level.cpp
 msgid "Loading..."
-msgstr ""
+msgstr "Maghintay..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr ""
+msgstr "Record panlokal: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr ""
+msgstr "Record pang-mundo: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
-msgstr ""
+msgstr "Ayos ng Controller"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
-msgstr ""
+msgstr "Gamit keyboard"
 
 # screen_settings_controls.cpp
 msgid "Touchscreen"
-msgstr ""
+msgstr "Gamit touchscreen"
 
 # screen_informations.cpp
 msgid "Development videos"
-msgstr ""
+msgstr "Mga video ng paggawa"
 
 # screen_informations.cpp
 msgid "Discord server"
-msgstr ""
+msgstr "Server ng discord"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr ""
+msgstr "ni %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -460,11 +460,11 @@ msgstr "Tunog"
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr ""
+msgstr "Controller"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr ""
+msgstr "Pang-developer"
 
 # screen_settings.cpp
 msgid "Language"
@@ -476,19 +476,19 @@ msgstr "Panoorin ang intro"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr ""
+msgstr "Itsura: %s"
 
 # screen_settings.cpp
 msgid "Settings"
-msgstr ""
+msgstr "Pagkaayos"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr ""
+msgstr "Magpaturo"
 
 # screen_settings.cpp
 msgid "Vibration %s"
-msgstr ""
+msgstr "Pag-alog %s"
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
@@ -512,7 +512,7 @@ msgstr "Naghihintay sa ibang manlalaro..."
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Tingnan ang mensaheng dumating sayo!"
 
 # screen_signin.cpp
 msgid "Email"
@@ -520,23 +520,23 @@ msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Hindi makumpirma ang email"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Hindi makahingi ng permiso sa pagpalit ng password"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Hindi mapadalang muli ang email"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Nakuha ang permiso sa pagpapalit ng password"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
@@ -804,29 +804,29 @@ msgstr ""
 
 # renderer_types.cpp
 msgid "High"
-msgstr ""
+msgstr "Malinaw"
 
 # renderer_types.cpp
 msgid "Low"
-msgstr ""
+msgstr "Malabo"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr ""
+msgstr "Katamtaman"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "Pinalabo ng 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "Pinalabo ng 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "Pinalabo ng 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "Pinalabo ng 8x"
 
