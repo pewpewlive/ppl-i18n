@@ -64,7 +64,7 @@ msgstr "Hindi makaabot sa server"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr "Kailangan ang pinakabagong bersiyon ng laro"
+msgstr "Kailangan ang pinakabagong bersiyon ng laro."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -264,7 +264,7 @@ msgstr "Mga Pagpipiliang Wika"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr "Ginawa ng komunidad ang mga translations."
+msgstr "Ginawa ng komunidad ang mga translations!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
@@ -580,7 +580,7 @@ msgstr "Nandito ang lahat ng iyong medalya."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr "Hindi ma-synchronize"
+msgstr "Hindi ma-synchronize."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
@@ -688,7 +688,7 @@ msgstr "Mahaba na. Hanggang %s na character."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr "Maikli. Mula % na character."
+msgstr "Maikli. Mula %s na character."
 
 # screen_register.cpp
 msgid "Username"
@@ -696,7 +696,7 @@ msgstr "Pangalan"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr "Pangalan (pwede mong lagyan ng mga kulay!)"
+msgstr "Pangalan (pwede mong lagyan ng mga kulay!):"
 
 # screen_signed_in.cpp
 msgid "Online profile"
