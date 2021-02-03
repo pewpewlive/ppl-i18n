@@ -12,11 +12,11 @@ msgstr "ok"
 
 # game.cpp
 msgid "Quick pause"
-msgstr "Mabilis na paghinto"
+msgstr "Binitawan"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr "Mabilis na paghinto %s"
+msgstr "Ihinto pagbitaw %s"
 
 # pause_ui.cpp
 msgid "Continue"
@@ -48,7 +48,7 @@ msgstr "Nagda-download..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr "Ino-authenticate"
+msgstr "Ino-authenticate..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
@@ -108,7 +108,7 @@ msgstr "Ibalik"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr "Pagpalitin"
+msgstr "Palit"
 
 # screen_select_custom_level.cpp
 msgid "Creator"
@@ -148,7 +148,7 @@ msgstr "Isarado ang room"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "Kahit sa hotspot ng phone ka kumonekta, gagana 'yan!"
+msgstr "Sapat na ang pagkonekta sa hotspot ng phone!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
@@ -244,7 +244,7 @@ msgstr "Pumili ng level"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr "Mag-load muli"
+msgstr "I-load ulit"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -292,7 +292,7 @@ msgstr "rehiyon"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr "mundo"
+msgstr "daigdig"
 
 # screen_benchmark.cpp
 msgid "Skip"
@@ -360,7 +360,7 @@ msgstr "2 dagdag na character:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Kahit ano"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -424,11 +424,11 @@ msgstr "Maghintay..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr "Record panlokal: %s"
+msgstr "Record pansarili: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr "Record pang-mundo: %s"
+msgstr "Record pandaigdig: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
@@ -496,19 +496,19 @@ msgstr "Ikansela"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
-msgstr ""
+msgstr "Local lobby"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Online lobby"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
-msgstr ""
+msgstr "Handa na!"
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
-msgstr "Naghihintay sa ibang manlalaro..."
+msgstr "Naghihintay ng ibang manlalaro..."
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -528,7 +528,7 @@ msgstr "Hindi makahingi ng permiso sa pagpalit ng password"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr "Hindi mapadalang muli ang email"
+msgstr "Hindi makapadala sa email"
 
 # screen_signin.cpp
 msgid "Password"
@@ -536,43 +536,43 @@ msgstr "Password"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr "Nakuha ang permiso sa pagpapalit ng password"
+msgstr "Nakuha na ang permiso sa pagpalit ng password"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Muling padalhan ng verification ang email"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Humingi ng permiso sa pagpalit ng password"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Humihingi ng permiso sa pagpalit ng password"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Pinapadalhan ng verification ang email"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Ibalik ang password"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Mag log in"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Nagla-log in"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Nakapag-log in na!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "Napadalhan na ng verification ang email"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
@@ -580,55 +580,55 @@ msgstr "Nandito ang lahat ng iyong medalya."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Hindi ma-synchronize"
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Na-synchronize na."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Sini-synchronize"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Nakapag-log out ka na."
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Hindi makuha ang tugon ng server"
 
 # screen_signed_out.cpp
 msgid "Account"
-msgstr ""
+msgstr "Account"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Gumawa ng account para makapaglagay ng pangalan at ma-sync ang iyong data"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "Hindi pa naka-log in"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Patakaran ukol sa Privacy"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Mag-register"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Kailangan munang mag-log in bago makipaglaro online"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Kailangan munang mag-log in bago ma-upload ang mga record"
 
 # screen_signed_out.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Iyong account"
 
 # screen_register.cpp
 msgid "Confirm email"
@@ -648,19 +648,19 @@ msgstr "Kumpirmahin ang password:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Hindi wasto ang email!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr "Hindi nagtugma ang mga email"
+msgstr "Hindi nagtugma ang mga email!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "Hindi ma-register"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
@@ -668,27 +668,27 @@ msgstr "Hindi nagtugma ang mga password!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Mangyaring buksan ang iyong email!"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Pag-register ng account"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Nire-register"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "Nakapag-register na!"
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Mahaba na. Hanggang %s na character."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Maikli. Mula % na character."
 
 # screen_register.cpp
 msgid "Username"
@@ -700,19 +700,19 @@ msgstr "Pangalan (pwede mong lagyan ng mga kulay!)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Iyong profile"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Mag-log out"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Synchronize"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr ""
+msgstr "Proteksyon: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
@@ -720,11 +720,11 @@ msgstr "Umalis sa laro si %s"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "Ga'no kasakto?: %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "Wala pa"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
@@ -736,11 +736,11 @@ msgstr "Galingan mo ang pag-ilag at hindi ka mapapakamak"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "Euclidean space? Hmmm..."
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr "Kunin ang berde. Lumayo sa pula."
+msgstr "Lapitan ang berde. Layuan sa pula."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
@@ -748,7 +748,7 @@ msgstr "32 seconds lang sapat na :)"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr ""
+msgstr "Kaya mong tapusin 'to?"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
@@ -756,11 +756,11 @@ msgstr "Huwag magtiwala sa hugis na may anim na gilid"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "Unang nakilala bilang Assault"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "GW3:Dimensions, ano na?"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
@@ -768,7 +768,7 @@ msgstr "Manatiling buhay sa loob ng 32 segundo"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr ""
+msgstr "Background lang ang nagdala"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
@@ -776,11 +776,11 @@ msgstr "Walang koneksyon sa \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\"Totoo ba to?\" - tagasubok (tester)"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr ""
+msgstr "Ops... Ilag!"
 
 # medals.cpp
 msgid "New bronze medal"
@@ -796,11 +796,11 @@ msgstr "Nadagdagan ng pilak na medalya"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Hindi makuha ang tugon"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "May nawawala. Hindi pwedeng mangyari 'to!"
 
 # renderer_types.cpp
 msgid "High"
