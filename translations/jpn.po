@@ -1,142 +1,142 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr ""
+msgstr "オフ"
 
 # ui_helpers.cpp
 msgid "on"
-msgstr ""
+msgstr "オン"
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr ""
+msgstr "OK"
 
 # game.cpp
 msgid "Quick pause"
-msgstr ""
+msgstr "イチジテイシ"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr ""
+msgstr "イチジテイシ %s"
 
 # pause_ui.cpp
 msgid "Continue"
-msgstr ""
+msgstr "ツヅケル"
 
 # pause_ui.cpp
 msgid "Exit"
-msgstr ""
+msgstr "ヤメル"
 
 # pause_ui.cpp
 msgid "Pause"
-msgstr ""
+msgstr "イチジテイシ"
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr ""
+msgstr "ヤリナオス"
 
 # game_over_ui.cpp
 msgid "Game Over"
-msgstr ""
+msgstr "GAME OVER"
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr ""
+msgstr "モウイチド"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "レベル ダウンロードチュウ"
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "ニンショウチュウ"
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "エラー :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "ニンショウ シッパイ"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "サーバー セツゾク シッパイ"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "ゲームヲ コウシン シテクダサイ"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr ""
+msgstr "セツゾク"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "インターネットヲ ツカイ ルームニ ハイリマス #ff0000ff(オタメシキノウ)"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
-msgstr ""
+msgstr "サーバーニ セツゾク"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
-msgstr ""
+msgstr "IP:"
 
 # screen_specify_server_ip.cpp
 msgid "Port:"
-msgstr ""
+msgstr "Port:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "パスワード ニュウリョク"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "ハイル"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
-msgstr ""
+msgstr "パスワード:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr ""
+msgstr "ジョイスティック セッテイ"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
-msgstr ""
+msgstr "リセット"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr ""
+msgstr "イレカエ"
 
 # screen_select_custom_level.cpp
 msgid "Creator"
-msgstr ""
+msgstr "サクシャ"
 
 # screen_select_custom_level.cpp
 msgid "Custom levels"
-msgstr ""
+msgstr "カスタムレベル"
 
 # screen_select_custom_level.cpp
 msgid "Level name"
-msgstr ""
+msgstr "レベルネーム"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "LAN マルチプレイ"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "オンライン マルチプレイ"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "セカイジュウノ ヒトト プレイ！"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "オナジ ネットワークノ ヒトト プレイ！"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -144,15 +144,15 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
-msgstr ""
+msgstr "ルームヲ トジル"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr ""
+msgstr "ホットスポット セツゾク セイコウ！"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
-msgstr ""
+msgstr "ルーム サクセイ"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
@@ -160,131 +160,131 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr ""
+msgstr "ヘルプ"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr ""
+msgstr "ローカル マルチプレイ"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "オナジ Wifiセツゾクヲ ツカウ 2プレイヤーガ ヒツヨウデス"
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr ""
+msgstr "マルチプレイ ヘルプ"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "ホカノ プレイヤーガ ハイレル ルームガ ヒツヨウデス"
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "ルーム ケンサクチュウ"
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "Wifi セツゾクハ インターネットニ ツナゲル ヒツヨウ ナシ"
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr ""
+msgstr "ダンガン"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr ""
+msgstr "シップ セッテイ"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr ""
+msgstr "モデル"
 
 # screen_configure_ship.cpp
 msgid "Trail"
-msgstr ""
+msgstr "シッポ"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "リプレイ アップロード シッパイ"
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "アップロード スルモノ ナシ"
 
 # screen_upload_scores.cpp
 msgid "Upload scores"
-msgstr ""
+msgstr "スコア アップロード"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
-msgstr ""
+msgstr "アップロード セイコウ"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "リプレイ アップロードチュウ %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr ""
+msgstr "キーボード セッテイ"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "マウス エイム %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
-msgstr ""
+msgstr "イドウ"
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr ""
+msgstr "シャゲキ"
 
 # screen_select_game_single_player.cpp
 msgid "Select level"
-msgstr ""
+msgstr "レベル センタク"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "コウシン"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "テイキョウシャ"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr ""
+msgstr "デフォルト ゲンゴ"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "キョウリョクスル"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
-msgstr ""
+msgstr "ゲンゴ セッテイ"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "ホンヤクハ コミュニティカラ サクセイサレマシタ！"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr ""
+msgstr "1p"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr ""
+msgstr "2p"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr ""
+msgstr "3p"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr ""
+msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr ""
+msgstr "コジン"
 
 # screen_view_high_scores.cpp
 msgid "region"
@@ -296,47 +296,47 @@ msgstr ""
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr ""
+msgstr "スキップ"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr ""
+msgstr "ローカル マルチプレイ"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "マルチプレイ"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr ""
+msgstr "プレイ"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr ""
+msgstr "シングルプレイ"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "ルーム サクセイ"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "ルーム サンカ シッパイ"
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "パスワード ガ チガイマス"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "ルーム サンカチュウ"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "ルームガ イッパイデス"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "ルームガ アリマセン"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
@@ -344,15 +344,15 @@ msgstr ""
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "ナゾノ エラー"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "ルームニ ハイッテイマス"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
-msgstr ""
+msgstr "チュートリアル"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
@@ -360,155 +360,155 @@ msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "スベテノ レベル"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "ルーム セッテイ"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "ルームネーム: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
-msgstr ""
+msgstr "オンガク"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr ""
+msgstr "セツゾク エラー"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr ""
+msgstr "サーバー セツゾクガ アリマセン"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
-msgstr ""
+msgstr "オーディオ セッテイ"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr ""
+msgstr "コウカオン"
 
 # screen_select_custom_level_info.cpp
 msgid "Custom levels?!"
-msgstr ""
+msgstr "カスタムレベル！？"
 
 # screen_select_custom_level_info.cpp
 msgid "More information"
-msgstr ""
+msgstr "モット ヨム"
 
 # screen_select_custom_level_info.cpp
 msgid "Yes!"
-msgstr ""
+msgstr "YES!"
 
 # screen_select_custom_level_info.cpp
 msgid "You can finally code your own levels!"
-msgstr ""
+msgstr "ツイニ レベル デキタ！"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr ""
+msgstr "マニフェスト ヨミコミ シッパイ"
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr ""
+msgstr "ジッケンテキ レベル"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "マニフェスト ダウンロード シッパイ"
 
 # screen_view_level.cpp
 msgid "Loading..."
-msgstr ""
+msgstr "ヨミコミチュウ..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr ""
+msgstr "ローカル ベスト: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr ""
+msgstr "セカイキロク: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
-msgstr ""
+msgstr "ソウサ セッテイ"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
-msgstr ""
+msgstr "キーボード"
 
 # screen_settings_controls.cpp
 msgid "Touchscreen"
-msgstr ""
+msgstr "タッチスクリーン"
 
 # screen_informations.cpp
 msgid "Development videos"
-msgstr ""
+msgstr "カイハツ エイゾウ"
 
 # screen_informations.cpp
 msgid "Discord server"
-msgstr ""
+msgstr "Discord サーバー"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr ""
+msgstr "by %s"
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr ""
+msgstr "オーディオ"
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr ""
+msgstr "コントロール"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr ""
+msgstr "カイハツシャ モード"
 
 # screen_settings.cpp
 msgid "Language"
-msgstr ""
+msgstr "ゲンゴ"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr ""
+msgstr "イントロ キドウ"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr ""
+msgstr "レンダラー: %s"
 
 # screen_settings.cpp
 msgid "Settings"
-msgstr ""
+msgstr "セッテイ"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr ""
+msgstr "チュートリアル カイシ"
 
 # screen_settings.cpp
 msgid "Vibration %s"
-msgstr ""
+msgstr "シンドウ %s"
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
-msgstr ""
+msgstr "ローカル ロビー"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "オンライン ロビー"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
-msgstr ""
+msgstr "ジュンビカンリョウ"
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "ホカノ プレイヤーヲ マッテイマス..."
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -516,7 +516,7 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
@@ -720,51 +720,51 @@ msgstr ""
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "メイチュウリツ: %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "ムズカシサハ キミガ エラベ"
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "スベテ ヨケレバイイ"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "ユークリッド ウチュウハ ヒョウカサレスギダ"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "ミドリ ヨシ。 アカ ダメ。"
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "32ビョウカンノ ギジュツ"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr ""
+msgstr "ワタシノ オキニイリ"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "ロクメン ポリゴンヲ シンジルナ"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "アサルト ソウ ヨバレテイル"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "RIP GW3:Dimensions"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "シンプルニ 32ビョウ イキテミヨウ"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
@@ -772,11 +772,11 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "\"Super Hexagon\" トハ カンケイアリマセン"
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\"コレ ジョウダン デショ？\" - テスター"
 
 # game_levels.cpp
 msgid "aka Dodge This"
@@ -784,15 +784,15 @@ msgstr ""
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr ""
+msgstr "ブロンズ メダル カクトク"
 
 # medals.cpp
 msgid "New gold medal"
-msgstr ""
+msgstr "ゴールド メダル カクトク"
 
 # medals.cpp
 msgid "New silver medal"
-msgstr ""
+msgstr "シルバー メダル カクトク"
 
 # account_information.cpp
 msgid "Failed to parse response"
@@ -804,15 +804,15 @@ msgstr ""
 
 # renderer_types.cpp
 msgid "High"
-msgstr ""
+msgstr "タカイ"
 
 # renderer_types.cpp
 msgid "Low"
-msgstr ""
+msgstr "ヒクイ"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr ""
+msgstr "マアマア"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
