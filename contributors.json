@@ -50,7 +50,15 @@
     "translators": [
       {
         "name": "Simoubuntu",
-        "color": "0xffffff"
+        "color": "0xffffffff"
+      }
+    ]
+  },{
+    "lang": "jpn",
+    "translators": [
+      {
+        "name": "noobie213",
+        "color": "0x7f0061ff"
       }
     ]
   },{

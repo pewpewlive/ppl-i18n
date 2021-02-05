@@ -13,12 +13,21 @@ os.chdir(dname)
 # language code are in ISO 639-2
 # https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 lang_files_dir = "translations/"
-langs = [{"code": "deu", "name": "German"}, {"code": "fra", "name": "French"},
-         {"code": "hrv", "name": "Croatian"}, {"code": "ind", "name": "Indonesian"},
-         {"code": "ita", "name": "Italian"}, {"code": "lit", "name": "Lithuanian"}, {"code": "msa", "name": "Malay"},
-         {"code": "meme", "name": "Meme-nglish"}, {"code": "pol", "name": "Polish"},
-         {"code": "por", "name": "Portuguese"}, {"code": "rus", "name": "Russian"},
-         {"code": "spa", "name": "Spanish"}, {"code": "tgl", "name": "Tagalog"}, {"code": "tur", "name": "Turkish"},
+langs = [{"code": "deu", "name": "German"},
+         {"code": "fra", "name": "French"},
+         {"code": "hrv", "name": "Croatian"},
+         {"code": "ind", "name": "Indonesian"},
+         {"code": "ita", "name": "Italian"},
+         {"code": "jpn", "name": "Japanese"},
+         {"code": "lit", "name": "Lithuanian"},
+         {"code": "msa", "name": "Malay"},
+         {"code": "meme", "name": "Meme-nglish"},
+         {"code": "pol", "name": "Polish"},
+         {"code": "por", "name": "Portuguese"},
+         {"code": "rus", "name": "Russian"},
+         {"code": "spa", "name": "Spanish"},
+         {"code": "tgl", "name": "Tagalog"},
+         {"code": "tur", "name": "Turkish"},
          {"code": "ukr", "name": "Ukrainian"}]
 lang_stats = {}
 
@@ -55,7 +64,7 @@ with open(readme_file, 'w', encoding="utf8", newline='\n') as f:
     f.write("\n")
     f.write("A few tips for contributing:\n")
     f.write("* Keep the `%s` as they later get replaced by some other text.\n")
-    f.write("* Keep the text fragments that look like `#ffffffff` encode colors. Keep them!\n")
+    f.write("* The text fragments that look like `#ffffffff` encode colors. Keep them!\n")
     f.write("* Try to have the translations be approximately the same length as the English text.\n")
     f.write("* Don't hesitate the reword the text to better fit the language.\n")
     f.write("* In order to reduce merge conflicts, avoid working on a single pull request for multiple days. It's better if you create one pull request per day.\n")

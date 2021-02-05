@@ -11,7 +11,7 @@ If you contribute a significant amount, I'll put you in the credits!
 
 A few tips for contributing:
 * Keep the `%s` as they later get replaced by some other text.
-* Keep the text fragments that look like `#ffffffff` encode colors. Keep them!
+* The text fragments that look like `#ffffffff` encode colors. Keep them!
 * Try to have the translations be approximately the same length as the English text.
 * Don't hesitate the reword the text to better fit the language.
 * In order to reduce merge conflicts, avoid working on a single pull request for multiple days. It's better if you create one pull request per day.
@@ -24,6 +24,7 @@ the feasibility.
 * [Croatian](/translations/hrv.po) (100% complete! 🎉)
 * [Indonesian](/translations/ind.po) (100% complete! 🎉)
 * [Italian](/translations/ita.po) (100% complete! 🎉)
+* [Japanese](/translations/jpn.po) (68% complete; 65 remaining)
 * [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * [Malay](/translations/msa.po) (0% complete; 203 remaining)
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
@@ -31,7 +32,7 @@ the feasibility.
 * [Portuguese](/translations/por.po) (96% complete; 7 remaining)
 * [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (100% complete! 🎉)
-* [Tagalog](/translations/tgl.po) (13% complete; 179 remaining)
+* [Tagalog](/translations/tgl.po) (100% complete! 🎉)
 * [Turkish](/translations/tur.po) (100% complete! 🎉)
 * [Ukrainian](/translations/ukr.po) (96% complete; 7 remaining)
-> Report generated on Feb 01 2021 16:58:02 UTC
+> Report generated on Feb 05 2021 00:45:23 UTC
