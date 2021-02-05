@@ -110,18 +110,6 @@ msgstr "Reset"
 msgid "Swap"
 msgstr "Swap"
 
-# screen_select_custom_level.cpp
-msgid "Creator"
-msgstr "Ersteller"
-
-# screen_select_custom_level.cpp
-msgid "Custom levels"
-msgstr "Personalisierte Stufen"
-
-# screen_select_custom_level.cpp
-msgid "Level name"
-msgstr "Name der Stufe"
-
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
 msgstr ""
@@ -237,10 +225,6 @@ msgstr "Sich bewegen"
 # screen_configure_keyboard.cpp
 msgid "Shoot"
 msgstr "Schießen"
-
-# screen_select_game_single_player.cpp
-msgid "Select level"
-msgstr "Stufe wählen"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
@@ -390,21 +374,53 @@ msgstr "Audio-Einstellungen"
 msgid "Sound effects"
 msgstr "Soundseffekte"
 
-# screen_select_custom_level_info.cpp
-msgid "Custom levels?!"
-msgstr "Personalisierte Stufen?! Echt?"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "More information"
-msgstr "Mehr Informationen"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "Yes!"
-msgstr "Ja!"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "You can finally code your own levels!"
-msgstr "Du kannst endlich deine eigene Stufen programmieren!"
+# screen_select_single_player_level.cpp
+msgid "About the levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "IN REVIEW"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official levels"
+msgstr ""
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -838,6 +854,18 @@ msgid "Connect to..."
 msgstr "Verbindung zu..."
 
 # Currently unused! This string may never be used again!
+msgid "Creator"
+msgstr "Ersteller"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels"
+msgstr "Personalisierte Stufen"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels?!"
+msgstr "Personalisierte Stufen?! Echt?"
+
+# Currently unused! This string may never be used again!
 msgid "Failed to sign-in!"
 msgstr "Anmeldung fehlgeschlagen!"
 
@@ -846,8 +874,20 @@ msgid "Game is full"
 msgstr "Partie is voll"
 
 # Currently unused! This string may never be used again!
+msgid "Level name"
+msgstr "Name der Stufe"
+
+# Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Laden der Stufe..."
+
+# Currently unused! This string may never be used again!
+msgid "More information"
+msgstr "Mehr Informationen"
+
+# Currently unused! This string may never be used again!
+msgid "Select level"
+msgstr "Stufe wählen"
 
 # Currently unused! This string may never be used again!
 msgid "Sign-in"
@@ -870,6 +910,14 @@ msgid "Waiting for the server..."
 msgstr "Ein Moment bitte..."
 
 # Currently unused! This string may never be used again!
+msgid "Yes!"
+msgstr "Ja!"
+
+# Currently unused! This string may never be used again!
 msgid "You are already in the game!"
 msgstr "Sie sind schon in der Partie!"
+
+# Currently unused! This string may never be used again!
+msgid "You can finally code your own levels!"
+msgstr "Du kannst endlich deine eigene Stufen programmieren!"
 

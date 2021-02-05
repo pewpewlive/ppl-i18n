@@ -110,18 +110,6 @@ msgstr "Fix mistakes"
 msgid "Swap"
 msgstr "Swap"
 
-# screen_select_custom_level.cpp
-msgid "Creator"
-msgstr "To blame"
-
-# screen_select_custom_level.cpp
-msgid "Custom levels"
-msgstr "yeah, the other levels too"
-
-# screen_select_custom_level.cpp
-msgid "Level name"
-msgstr "battleground"
-
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
 msgstr "Close bro session"
@@ -237,10 +225,6 @@ msgstr "go"
 # screen_configure_keyboard.cpp
 msgid "Shoot"
 msgstr "Pew"
-
-# screen_select_game_single_player.cpp
-msgid "Select level"
-msgstr "The Main Squeezes"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
@@ -390,21 +374,53 @@ msgstr "Change the Tunes"
 msgid "Sound effects"
 msgstr "Tune effects"
 
-# screen_select_custom_level_info.cpp
-msgid "Custom levels?!"
-msgstr "Self-made shenanigans?!"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "More information"
-msgstr "Learn me some"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "Yes!"
-msgstr "ye"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "You can finally code your own levels!"
-msgstr "You can now make... some other levels"
+# screen_select_single_player_level.cpp
+msgid "About the levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "IN REVIEW"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official levels"
+msgstr ""
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -838,6 +854,18 @@ msgid "Connect to..."
 msgstr "Mooch from..."
 
 # Currently unused! This string may never be used again!
+msgid "Creator"
+msgstr "To blame"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels"
+msgstr "yeah, the other levels too"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels?!"
+msgstr "Self-made shenanigans?!"
+
+# Currently unused! This string may never be used again!
 msgid "Failed to sign-in!"
 msgstr "sign-in was a complete fail"
 
@@ -846,8 +874,20 @@ msgid "Game is full"
 msgstr "No room sry"
 
 # Currently unused! This string may never be used again!
+msgid "Level name"
+msgstr "battleground"
+
+# Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Wasting internet..."
+
+# Currently unused! This string may never be used again!
+msgid "More information"
+msgstr "Learn me some"
+
+# Currently unused! This string may never be used again!
+msgid "Select level"
+msgstr "The Main Squeezes"
 
 # Currently unused! This string may never be used again!
 msgid "Sign-in"
@@ -870,6 +910,14 @@ msgid "Waiting for the server..."
 msgstr "Flipping light switches, hol up."
 
 # Currently unused! This string may never be used again!
+msgid "Yes!"
+msgstr "ye"
+
+# Currently unused! This string may never be used again!
 msgid "You are already in the game!"
 msgstr "Bruh you're already here"
+
+# Currently unused! This string may never be used again!
+msgid "You can finally code your own levels!"
+msgstr "You can now make... some other levels"
 

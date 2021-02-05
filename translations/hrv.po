@@ -110,18 +110,6 @@ msgstr "Resetiraj"
 msgid "Swap"
 msgstr "Zamijeni"
 
-# screen_select_custom_level.cpp
-msgid "Creator"
-msgstr "Kreator"
-
-# screen_select_custom_level.cpp
-msgid "Custom levels"
-msgstr "Prilagođeni leveli"
-
-# screen_select_custom_level.cpp
-msgid "Level name"
-msgstr "Ime levela"
-
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
 msgstr "LAN više igrača"
@@ -237,10 +225,6 @@ msgstr "Kretanje"
 # screen_configure_keyboard.cpp
 msgid "Shoot"
 msgstr "Pucanje"
-
-# screen_select_game_single_player.cpp
-msgid "Select level"
-msgstr "Odaberi level"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
@@ -390,21 +374,53 @@ msgstr "Audio postavke"
 msgid "Sound effects"
 msgstr "Zvučni efekti"
 
-# screen_select_custom_level_info.cpp
-msgid "Custom levels?!"
-msgstr "Prilagođeni leveli?!"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "More information"
-msgstr "Više informacija"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "Yes!"
-msgstr "Da!"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "You can finally code your own levels!"
-msgstr "Napokon možete kodirati svoje levele!"
+# screen_select_single_player_level.cpp
+msgid "About the levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "IN REVIEW"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official levels"
+msgstr ""
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -838,6 +854,18 @@ msgid "Connect to..."
 msgstr "Spoji se na..."
 
 # Currently unused! This string may never be used again!
+msgid "Creator"
+msgstr "Kreator"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels"
+msgstr "Prilagođeni leveli"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels?!"
+msgstr "Prilagođeni leveli?!"
+
+# Currently unused! This string may never be used again!
 msgid "Failed to sign-in!"
 msgstr "Prijava neuspješna!"
 
@@ -846,8 +874,20 @@ msgid "Game is full"
 msgstr "Igra je puna"
 
 # Currently unused! This string may never be used again!
+msgid "Level name"
+msgstr "Ime levela"
+
+# Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "čitavanje levela..."
+
+# Currently unused! This string may never be used again!
+msgid "More information"
+msgstr "Više informacija"
+
+# Currently unused! This string may never be used again!
+msgid "Select level"
+msgstr "Odaberi level"
 
 # Currently unused! This string may never be used again!
 msgid "Sign-in"
@@ -870,6 +910,14 @@ msgid "Waiting for the server..."
 msgstr "Čekanje na server..."
 
 # Currently unused! This string may never be used again!
+msgid "Yes!"
+msgstr "Da!"
+
+# Currently unused! This string may never be used again!
 msgid "You are already in the game!"
 msgstr "Već si u igri!"
+
+# Currently unused! This string may never be used again!
+msgid "You can finally code your own levels!"
+msgstr "Napokon možete kodirati svoje levele!"
 

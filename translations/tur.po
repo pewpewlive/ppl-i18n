@@ -110,18 +110,6 @@ msgstr "Yenile"
 msgid "Swap"
 msgstr "Değiştir"
 
-# screen_select_custom_level.cpp
-msgid "Creator"
-msgstr "Kurucu"
-
-# screen_select_custom_level.cpp
-msgid "Custom levels"
-msgstr "Özel haritalar"
-
-# screen_select_custom_level.cpp
-msgid "Level name"
-msgstr "Harita adı"
-
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
 msgstr "LAN çok oyunculu"
@@ -237,10 +225,6 @@ msgstr "Yer değiştir"
 # screen_configure_keyboard.cpp
 msgid "Shoot"
 msgstr "Atış atmak"
-
-# screen_select_game_single_player.cpp
-msgid "Select level"
-msgstr "Harita seç"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
@@ -390,21 +374,53 @@ msgstr "Ses Ayarları"
 msgid "Sound effects"
 msgstr "Sesler"
 
-# screen_select_custom_level_info.cpp
-msgid "Custom levels?!"
-msgstr "Özel haritalar mı?!"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "More information"
-msgstr "Daha fazla bilgi"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "Yes!"
-msgstr "Evet!"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "You can finally code your own levels!"
-msgstr "Kendi haritanızı siz de oluşturabilirsiniz!"
+# screen_select_single_player_level.cpp
+msgid "About the levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "IN REVIEW"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official levels"
+msgstr ""
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -838,6 +854,18 @@ msgid "Connect to..."
 msgstr "...'ya bağlan"
 
 # Currently unused! This string may never be used again!
+msgid "Creator"
+msgstr "Kurucu"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels"
+msgstr "Özel haritalar"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels?!"
+msgstr "Özel haritalar mı?!"
+
+# Currently unused! This string may never be used again!
 msgid "Failed to sign-in!"
 msgstr "Giriş yapımı gerçekleşmemiş!"
 
@@ -846,8 +874,20 @@ msgid "Game is full"
 msgstr "Oyun dolu"
 
 # Currently unused! This string may never be used again!
+msgid "Level name"
+msgstr "Harita adı"
+
+# Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Harita yükleniyor..."
+
+# Currently unused! This string may never be used again!
+msgid "More information"
+msgstr "Daha fazla bilgi"
+
+# Currently unused! This string may never be used again!
+msgid "Select level"
+msgstr "Harita seç"
 
 # Currently unused! This string may never be used again!
 msgid "Sign-in"
@@ -870,6 +910,14 @@ msgid "Waiting for the server..."
 msgstr "Sunucu bekleniyor..."
 
 # Currently unused! This string may never be used again!
+msgid "Yes!"
+msgstr "Evet!"
+
+# Currently unused! This string may never be used again!
 msgid "You are already in the game!"
 msgstr "Siz zaten oyundasınız!"
+
+# Currently unused! This string may never be used again!
+msgid "You can finally code your own levels!"
+msgstr "Kendi haritanızı siz de oluşturabilirsiniz!"
 

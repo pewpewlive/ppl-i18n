@@ -110,18 +110,6 @@ msgstr "Ibalik"
 msgid "Swap"
 msgstr "Palit"
 
-# screen_select_custom_level.cpp
-msgid "Creator"
-msgstr "May gawa"
-
-# screen_select_custom_level.cpp
-msgid "Custom levels"
-msgstr "Mga level na ginawa"
-
-# screen_select_custom_level.cpp
-msgid "Level name"
-msgstr "Pangalan ng level"
-
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
 msgstr "Gamit LAN"
@@ -237,10 +225,6 @@ msgstr "Paggalaw"
 # screen_configure_keyboard.cpp
 msgid "Shoot"
 msgstr "Pagtira"
-
-# screen_select_game_single_player.cpp
-msgid "Select level"
-msgstr "Pumili ng level"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
@@ -390,21 +374,53 @@ msgstr "Ayos ng Audio"
 msgid "Sound effects"
 msgstr "Tunog"
 
-# screen_select_custom_level_info.cpp
-msgid "Custom levels?!"
-msgstr "Pwede gumawa ng level?"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "More information"
-msgstr "Iba pang impormasyon"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "Yes!"
-msgstr "Syempre!"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "You can finally code your own levels!"
-msgstr "Pwede ka na mag-code ng sarili mong level!"
+# screen_select_single_player_level.cpp
+msgid "About the levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "IN REVIEW"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official levels"
+msgstr ""
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -829,4 +845,39 @@ msgstr "Pinalabo ng 4x"
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr "Pinalabo ng 8x"
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Creator"
+msgstr "May gawa"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels"
+msgstr "Mga level na ginawa"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels?!"
+msgstr "Pwede gumawa ng level?"
+
+# Currently unused! This string may never be used again!
+msgid "Level name"
+msgstr "Pangalan ng level"
+
+# Currently unused! This string may never be used again!
+msgid "More information"
+msgstr "Iba pang impormasyon"
+
+# Currently unused! This string may never be used again!
+msgid "Select level"
+msgstr "Pumili ng level"
+
+# Currently unused! This string may never be used again!
+msgid "Yes!"
+msgstr "Syempre!"
+
+# Currently unused! This string may never be used again!
+msgid "You can finally code your own levels!"
+msgstr "Pwede ka na mag-code ng sarili mong level!"
 
