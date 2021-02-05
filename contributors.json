@@ -57,8 +57,8 @@
     "lang": "jpn",
     "translators": [
       {
-        "name": "noobie213",
-        "color": "0x7f0061ff"
+        "name": "AMPHASHx2109",
+        "color": "0x7636c6ff"
       }
     ]
   },{
@@ -112,6 +112,14 @@
       {
         "name": "Angel-24",
         "color": "0xff9900ff"
+      }
+    ]
+  },{
+    "lang": "tgl",
+    "translators": [
+      {
+        "name": "noobie213",
+        "color": "0x7f0061ff"
       }
     ]
   },{
