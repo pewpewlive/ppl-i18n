@@ -324,7 +324,7 @@ msgstr "La partie n'existe plus"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr "La partie a expirée"
+msgstr "La partie a expiré"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
@@ -332,7 +332,7 @@ msgstr "Erreur inconnue"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr "Tu es déjà dans la partie!"
+msgstr "Tu es déjà dans la partie !"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -376,15 +376,15 @@ msgstr "Effets sonores"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "Les niveaux #ffff00ffCommunautaires#ffffffff ont été créés par VOUS, la communauté."
+msgstr "Les niveaux #ffff00ffcommunautaires#ffffffff ont été créés par VOUS, la communauté."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "Les niveaux #ffff00ffExperimentaux#ffffffff n'ont pas encore été lancés."
+msgstr "Les niveaux #ffff00ffexperimentaux#ffffffff n'ont pas encore été lancés."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "Les niveaux #ffff00ffOfficiels#ffffffff ont été créés par moi (JF), et permettent d'obtenir des médailles."
+msgstr "Les niveaux #ffff00ffofficiels#ffffffff ont été créés par moi (JF), et permettent d'obtenir des médailles."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
