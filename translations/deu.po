@@ -44,19 +44,19 @@ msgstr "Wieder spielen"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr "Lagen der Stufe..."
+msgstr "Lagen des Levels..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Authentifizierung..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Authentifizierungsfehler :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Könnte nicht authentifizieren"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
@@ -64,7 +64,7 @@ msgstr "Server wurde nicht kontaktiert"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Du brauchst die neueste Version des Spiels"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -88,11 +88,11 @@ msgstr "Port:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Passwort eingeben"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Beitreten"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
@@ -112,23 +112,23 @@ msgstr "Swap"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "LAN multiplayer"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Online multiplayer"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Spiel mit Leuten auf der ganzen Welt!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Spiel mit Leuten auf dem gleichen Netzwerk!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr "(Incompatible version)"
+msgstr "(Inkompatible Version)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
@@ -136,7 +136,7 @@ msgstr "Partie schließen"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "Versuchen Sie, sich zu einem Handy's hotspot zu verbinden!"
+msgstr "Versuch, dich zu einem Handy's hotspot zu verbinden!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
@@ -228,7 +228,7 @@ msgstr "Schießen"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Aktualisieren"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -288,7 +288,7 @@ msgstr "Local Multiplayer"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Multiplayer"
 
 # screen_main_menu.cpp
 msgid "Play"
@@ -300,11 +300,11 @@ msgstr "Single Spieler"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Partie wird erstellt..."
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Partie könnte nicht beitretet werden"
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
@@ -312,27 +312,27 @@ msgstr "Falsches Passwort"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Partie wird beitretet..."
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Die Partie is voll"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Die Partie existiert nicht mehr"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "Die Partie ist abgelaufen"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Unbekannt Fehler"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Du bist schon in der Partie!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -340,19 +340,19 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
-msgstr ""
+msgstr "2 zusätzliche Buchstaben:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Alle Levels"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Partie Konfiguration"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Name der Partie"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -376,51 +376,51 @@ msgstr "Soundseffekte"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "#ffff00ffGemeinschaftslevels#ffffffff werden von EUCH = die Gemeinschaft erstellt"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "#ffff00ffExperimental-Levels#ffffffff sind Levels, die noch nicht veröffentlicht wurden"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "#ffff00ffOffizielle#ffffffff" Levels werden von mir (JF) erstellt, und mit diesen Levels kannst du Medaillen gewinnen. 
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr ""
+msgstr Über die Levels"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
-msgstr ""
+msgstr "Gemeinschaft"
 
 # screen_select_single_player_level.cpp
 msgid "Community levels"
-msgstr ""
+msgstr "Gemeinschaftslevels"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
-msgstr ""
+msgstr "Experimental"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr ""
+msgstr "Experimental-Levels"
 
 # screen_select_single_player_level.cpp
 msgid "IN REVIEW"
-msgstr ""
+msgstr "Wird geprüft..."
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "Mehr Info on github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
+msgstr "Offiziell"
 
 # screen_select_single_player_level.cpp
 msgid "Official levels"
-msgstr ""
+msgstr "Offizielle Levels"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -428,7 +428,7 @@ msgstr "Fehler während des Lesens des Manifests"
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr "Experimentalstufe"
+msgstr "Experimental-Level"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
@@ -512,11 +512,11 @@ msgstr "Abbrechen"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
-msgstr "Local lobby"
+msgstr "Local Lobby"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Online Lobby"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
@@ -528,7 +528,7 @@ msgstr "In der Warteschlange..."
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr "Prüfen Sie Ihre Inbox!"
+msgstr "Prüf deine Inbox!"
 
 # screen_signin.cpp
 msgid "Email"
@@ -584,7 +584,7 @@ msgstr "Login..."
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr "Sie sind jetzt eingeloggt!"
+  msgstr "Du bist jetzt eingeloggt!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
@@ -592,7 +592,7 @@ msgstr "Die Bestätigungsemail wurde gesendet"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr "Alle Ihre Medaillen finden Sie hier"
+msgstr "Alle deine Medaillen findest du hier"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -608,7 +608,7 @@ msgstr "Synchronisation..."
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr "Sie sind nicht mehr eingeloggt."
+msgstr "Du bist nicht mehr eingeloggt."
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
@@ -636,15 +636,15 @@ msgstr "Erstmalig anmelden"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Du musst dich einloggen, um Online zu spielen"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr "Sie müssen Sich einloggen, um Scores zu laden"
+msgstr "Du musst dich einloggen, um Scores zu laden"
 
 # screen_signed_out.cpp
 msgid "Your account"
-msgstr "Ihr Konto"
+msgstr "Dein Konto"
 
 # screen_register.cpp
 msgid "Confirm email"
@@ -684,7 +684,7 @@ msgstr "Passwörter stimmen nicht miteinander!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr "Bitte Prüfen Sie Ihre Emails"
+msgstr "Prüf bitte deine Emails!"
 
 # screen_register.cpp
 msgid "Register account"
@@ -712,7 +712,7 @@ msgstr "Benutzername"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr "Benutzername (Sie können Farben benutzen!):"
+msgstr "Benutzername (Du kannst Farben benutzen!):"
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -764,7 +764,7 @@ msgstr "32 Sekunden wo du einfach perfekt spielen musst"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr "Meine Lieblingsstufe"
+msgstr "Mein Lieblingslevel"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
@@ -792,7 +792,7 @@ msgstr "Nichts mit \"Super Hexagon\" zu tun"
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Diese Stufe ist ein Witz, oder?\" - ein Tester"
+msgstr "\"Dieses Level ist ein Witz, oder?\" - ein Tester"
 
 # game_levels.cpp
 msgid "aka Dodge This"
@@ -859,11 +859,11 @@ msgstr "Ersteller"
 
 # Currently unused! This string may never be used again!
 msgid "Custom levels"
-msgstr "Personalisierte Stufen"
+msgstr "Personalisierte Levels"
 
 # Currently unused! This string may never be used again!
 msgid "Custom levels?!"
-msgstr "Personalisierte Stufen?! Echt?"
+msgstr "Personalisierte Levels?! Echt?"
 
 # Currently unused! This string may never be used again!
 msgid "Failed to sign-in!"
@@ -875,11 +875,11 @@ msgstr "Partie is voll"
 
 # Currently unused! This string may never be used again!
 msgid "Level name"
-msgstr "Name der Stufe"
+msgstr "Name des Levels"
 
 # Currently unused! This string may never be used again!
 msgid "Loading level..."
-msgstr "Laden der Stufe..."
+msgstr "Laden des Levels..."
 
 # Currently unused! This string may never be used again!
 msgid "More information"
@@ -887,7 +887,7 @@ msgstr "Mehr Informationen"
 
 # Currently unused! This string may never be used again!
 msgid "Select level"
-msgstr "Stufe wählen"
+msgstr "Level wählen"
 
 # Currently unused! This string may never be used again!
 msgid "Sign-in"
@@ -919,5 +919,5 @@ msgstr "Sie sind schon in der Partie!"
 
 # Currently unused! This string may never be used again!
 msgid "You can finally code your own levels!"
-msgstr "Du kannst endlich deine eigene Stufen programmieren!"
+msgstr "Du kannst endlich deine eigene Levels programmieren!"
 
