@@ -384,11 +384,11 @@ msgstr "#ffff00ffExperimental-Levels#ffffffff sind Levels, die noch nicht veröf
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffOffizielle#ffffffff" Levels werden von mir (JF) erstellt, und mit diesen Levels kannst du Medaillen gewinnen. 
+msgstr "#ffff00ffOffizielle#ffffffff Levels werden von mir (JF) erstellt, und mit diesen Levels kannst du Medaillen gewinnen."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr Über die Levels"
+msgstr "Über die Levels"
 
 # screen_select_single_player_level.cpp
 msgid "Community"

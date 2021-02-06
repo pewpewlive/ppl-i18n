@@ -19,20 +19,20 @@ A few tips for contributing:
 If you want to add support for a new language, create a GitHub Issue so that we can discuss
 the feasibility.
 ## Status
-* [German](/translations/deu.po) (83% complete; 38 remaining)
-* [French](/translations/fra.po) (91% complete; 19 remaining)
+* [German](/translations/deu.po) (100% complete! 🎉)
+* [French](/translations/fra.po) (100% complete! 🎉)
 * [Croatian](/translations/hrv.po) (94% complete; 12 remaining)
 * [Indonesian](/translations/ind.po) (94% complete; 12 remaining)
 * [Italian](/translations/ita.po) (94% complete; 12 remaining)
-* [Japanese](/translations/jpn.po) (65% complete; 77 remaining)
+* [Japanese](/translations/jpn.po) (68% complete; 65 remaining)
 * [Lithuanian](/translations/lit.po) (94% complete; 12 remaining)
 * [Malay](/translations/msa.po) (0% complete; 203 remaining)
-* [Meme-nglish](/translations/meme.po) (94% complete; 12 remaining)
-* [Polish](/translations/pol.po) (94% complete; 12 remaining)
+* [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
+* [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (91% complete; 19 remaining)
-* [Russian](/translations/rus.po) (94% complete; 12 remaining)
+* [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (94% complete; 12 remaining)
 * [Tagalog](/translations/tgl.po) (94% complete; 12 remaining)
-* [Turkish](/translations/tur.po) (94% complete; 12 remaining)
+* [Turkish](/translations/tur.po) (100% complete! 🎉)
 * [Ukrainian](/translations/ukr.po) (91% complete; 19 remaining)
-> Report generated on Feb 05 2021 15:35:33 UTC
+> Report generated on Feb 06 2021 23:02:55 UTC
