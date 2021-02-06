@@ -376,11 +376,11 @@ msgstr "Soundseffekte"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffGemeinschaftslevels#ffffffff werden von EUCH = die Gemeinschaft erstellt"
+msgstr "#ffff00ffGemeinschaftslevels#ffffffff werden von der Gemeinschaft erstellt."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffExperimental-Levels#ffffffff sind Levels, die noch nicht veröffentlicht wurden"
+msgstr "#ffff00ffExperimental-Levels#ffffffff sind Levels, die noch nicht veröffentlicht wurden."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
