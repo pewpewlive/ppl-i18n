@@ -248,23 +248,23 @@ msgstr "Dil ayarları"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr "Türkçe çevirimi kajxqeirscl tarafından yapılmıştır."
+msgstr "Çeviriler topluluk tarafından sağlanmaktadır!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr "tek oyunculu"
+msgstr "1p"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr "iki oyunculu"
+msgstr "2p"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr "üç oyunculu"
+msgstr "3p"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr "dört oyunculu"
+msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -376,7 +376,7 @@ msgstr "Sesler"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffTopluluk#ffffffff haritaları SİZİN toplumun tarafından inla edilmiştir."
+msgstr "#ffff00ffTopluluk#ffffffff haritaları SİZİN toplumun tarafından inşa edilmiştir."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
@@ -384,7 +384,7 @@ msgstr "#ffff00ffDeneysel#ffffffff haritalar daha yayınlanmamış haritalardır
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffResmi#ffffffff haritalar benim (JF) tarafından yapılmış olup, sizin madelya kazanmanızı sağlar."
+msgstr "#ffff00ffResmi#ffffffff haritalar benim (JF) tarafından yapılmış olup, sizin madalya kazanmanızı sağlar."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
