@@ -584,7 +584,7 @@ msgstr "Login..."
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-  msgstr "Du bist jetzt eingeloggt!"
+msgstr "Du bist jetzt eingeloggt!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
