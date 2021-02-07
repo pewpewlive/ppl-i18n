@@ -248,7 +248,7 @@ msgstr "Mga Pagpipiliang Wika"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr "Ginawa ng komunidad ang mga translations!"
+msgstr "Ginawa ng komunidad ang mga pagsasalin!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
