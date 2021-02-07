@@ -96,7 +96,7 @@ msgstr "Присоединиться"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
-msgstr "Пароль:"
+msgstr "Пароль (необязательно):"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
