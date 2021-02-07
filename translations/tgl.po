@@ -172,7 +172,7 @@ msgstr "Naghahanap ng rooms..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr "Hindi kinakailangang naka-konekta sa internet ang wifi network."
+msgstr "Hindi kinakailangang nakakonekta sa internet ang wifi network."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
@@ -376,51 +376,51 @@ msgstr "Tunog"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "IKAW at ang komunidad ang may gawa ng mga level na pang#ffff00ffkomunidad#ffffffff."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "Ang mga level na #ffff00ffexperimental#ffffffff ay ang mga level na kasalukuyang ginagawa."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "Ako (si JF) ang may gawa ng mga #ffff00ffopisyal#ffffffff na level, kung saan ka maaaring makakamit ng mga medalya."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr ""
+msgstr "Tungkol sa mga level"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
-msgstr ""
+msgstr "Pangkomunidad"
 
 # screen_select_single_player_level.cpp
 msgid "Community levels"
-msgstr ""
+msgstr "Mga level ng komunidad"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
-msgstr ""
+msgstr "Experimental"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr ""
+msgstr "Mga level na experimental"
 
 # screen_select_single_player_level.cpp
 msgid "IN REVIEW"
-msgstr ""
+msgstr "SUSURIIN"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "Iba pang impormasyon sa github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
+msgstr "Opisyal"
 
 # screen_select_single_player_level.cpp
 msgid "Official levels"
-msgstr ""
+msgstr "Mga opisyal na level"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -592,7 +592,7 @@ msgstr "Napadalhan na ng verification ang email"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr "Nandito ang lahat ng iyong medalya."
+msgstr "Nandito na ang lahat ng iyong medalya."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -756,7 +756,7 @@ msgstr "Euclidean space? Hmmm..."
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr "Lapitan ang berde. Layuan sa pula."
+msgstr "Lapitan ang berde. Layuan ang pula."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
@@ -792,7 +792,7 @@ msgstr "Walang koneksyon sa \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Totoo ba to?\" - tagasubok (tester)"
+msgstr "\"Totoo ba to?\" - tester (tagasiyasat ng laro)"
 
 # game_levels.cpp
 msgid "aka Dodge This"
