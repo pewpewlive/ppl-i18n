@@ -27,7 +27,7 @@ msgid "Exit"
 msgstr "Offboard"
 
 # pause_ui.cpp
-msgid "Pause
+msgid "Pause"
 msgstr "Anchored"
 
 # pause_ui.cpp
