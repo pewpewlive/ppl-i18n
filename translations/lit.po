@@ -376,51 +376,51 @@ msgstr "Garso efektai"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "Lygiai #ffff00ffBendruomenės#ffffffff skiltyje yra lygiai kuriuos sukūrėte JŪS, puikioji bendruomenė."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "Lygiai #ffff00ffEkspermentiniai#ffffffff skiltyje yra lygiai kuriuos sukūrėte JŪS, puikioji bendruomenė bet jie dar nėra patvirtinti ar pabaigti."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "Lygiai #ffff00ffOficialūs#ffffffff skiltyje yra lygiai kuriuos sukūrė šio žaidimo kūrėjas (JF), jie leidžia jums gauti medalius."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr ""
+msgstr "Apie Lygius"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
-msgstr ""
+msgstr "Bendruomenės"
 
 # screen_select_single_player_level.cpp
 msgid "Community levels"
-msgstr ""
+msgstr "Bendruomenės Lygiai"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
-msgstr ""
+msgstr "Ekspermentiniai"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr ""
+msgstr "Ekspermentiniai Lygiai"
 
 # screen_select_single_player_level.cpp
 msgid "IN REVIEW"
-msgstr ""
+msgstr "PERŽIŪROJE"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "Daugiau informacijos rasite čia github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
+msgstr "Oficialūs"
 
 # screen_select_single_player_level.cpp
 msgid "Official levels"
-msgstr ""
+msgstr "Oficialūs Lygiai"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -428,7 +428,7 @@ msgstr "Klaida skaitant aprašą"
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr "Expermentinis lygis"
+msgstr "Ekspermentinis lygis"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
