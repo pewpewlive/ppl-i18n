@@ -1,14 +1,14 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr ""
+msgstr "Arr!"
 
 # ui_helpers.cpp
 msgid "on"
-msgstr ""
+msgstr "Aye!"
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr ""
+msgstr "Aye Aye!"
 
 # game.cpp
 msgid "Quick pause"
@@ -20,15 +20,15 @@ msgstr ""
 
 # pause_ui.cpp
 msgid "Continue"
-msgstr ""
+msgstr "Back to deck"
 
 # pause_ui.cpp
 msgid "Exit"
-msgstr ""
+msgstr "Offboard"
 
 # pause_ui.cpp
-msgid "Pause"
-msgstr ""
+msgid "Pause
+msgstr "Anchored"
 
 # pause_ui.cpp
 msgid "Restart"
@@ -44,7 +44,7 @@ msgstr ""
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Pirating ship..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
@@ -52,7 +52,7 @@ msgstr ""
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Ship Damaged! }:("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -64,7 +64,7 @@ msgstr ""
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Ye're need to upgraded ye're ship."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -100,7 +100,7 @@ msgstr ""
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr ""
+msgstr "Fix the Steering wheel"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
@@ -120,7 +120,7 @@ msgstr ""
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Have fun wit' pirate in the 7 seas!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
@@ -140,7 +140,7 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
-msgstr ""
+msgstr "Make a crew"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
@@ -196,11 +196,11 @@ msgstr ""
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "Non to buried!"
 
 # screen_upload_scores.cpp
 msgid "Upload scores"
-msgstr ""
+msgstr "Buried treasure"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
@@ -224,7 +224,7 @@ msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr ""
+msgstr "Attack"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
@@ -232,7 +232,7 @@ msgstr ""
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Scallywags"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -248,7 +248,7 @@ msgstr ""
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Thi' Talki given by Pirate!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
@@ -268,15 +268,15 @@ msgstr ""
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr ""
+msgstr "Deck"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "Sea"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
+msgstr "7 Seas"
 
 # screen_benchmark.cpp
 msgid "Skip"
@@ -288,15 +288,15 @@ msgstr ""
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Wit' Sailors"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr ""
+msgstr "Set sail"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr ""
+msgstr "One sailor"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
@@ -392,11 +392,11 @@ msgstr ""
 
 # screen_select_single_player_level.cpp
 msgid "Community"
-msgstr ""
+msgstr "Pirates"
 
 # screen_select_single_player_level.cpp
 msgid "Community levels"
-msgstr ""
+msgstr "Pirate ship"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
@@ -416,11 +416,11 @@ msgstr ""
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
+msgstr "Naval fleet"
 
 # screen_select_single_player_level.cpp
 msgid "Official levels"
-msgstr ""
+msgstr "Navy ship"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -448,7 +448,7 @@ msgstr ""
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
-msgstr ""
+msgstr "Get thi sail rigt'"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
@@ -464,7 +464,7 @@ msgstr ""
 
 # screen_informations.cpp
 msgid "Discord server"
-msgstr ""
+msgstr "The crew"
 
 # screen_informations.cpp
 msgid "by %s"
@@ -476,15 +476,15 @@ msgstr ""
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr ""
+msgstr "Steering wheel"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr ""
+msgstr "Davy jones apprentice"
 
 # screen_settings.cpp
 msgid "Language"
-msgstr ""
+msgstr "Talkin'"
 
 # screen_settings.cpp
 msgid "Launch intro"
@@ -520,11 +520,11 @@ msgstr ""
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
-msgstr ""
+msgstr "Shall we?"
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "What should we do with the drunken sailor?"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -548,7 +548,7 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Thi word"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
@@ -592,7 +592,7 @@ msgstr ""
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Ye're treasure here!"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -616,7 +616,7 @@ msgstr ""
 
 # screen_signed_out.cpp
 msgid "Account"
-msgstr ""
+msgstr "Identity"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
@@ -628,7 +628,7 @@ msgstr ""
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "The Navy rules"
 
 # screen_signed_out.cpp
 msgid "Register"
@@ -644,7 +644,7 @@ msgstr ""
 
 # screen_signed_out.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Ye're identity"
 
 # screen_register.cpp
 msgid "Confirm email"
@@ -740,7 +740,7 @@ msgstr ""
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "Non"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
