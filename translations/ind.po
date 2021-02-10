@@ -388,39 +388,39 @@ msgstr ""
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr ""
+msgstr "Tentang level ini"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
-msgstr ""
+msgstr "Komunitas"
 
 # screen_select_single_player_level.cpp
 msgid "Community levels"
-msgstr ""
+msgstr "Level dari komunitas"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
-msgstr ""
+msgstr "Percobaan"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr ""
+msgstr "Level Percobaan"
 
 # screen_select_single_player_level.cpp
 msgid "IN REVIEW"
-msgstr ""
+msgstr "DALAM PENILAIAN"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "Lebih banyak info di github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
+msgstr "Resmi"
 
 # screen_select_single_player_level.cpp
 msgid "Official levels"
-msgstr ""
+msgstr "Level resmi"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
