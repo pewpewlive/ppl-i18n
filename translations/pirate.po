@@ -12,11 +12,11 @@ msgstr "Aye Aye!"
 
 # game.cpp
 msgid "Quick pause"
-msgstr ""
+msgstr "Dirt' coward"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Dirt' coward %s"
 
 # pause_ui.cpp
 msgid "Continue"
@@ -32,11 +32,11 @@ msgstr "Anchored"
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr ""
+msgstr "Try again?"
 
 # game_over_ui.cpp
 msgid "Game Over"
-msgstr ""
+msgstr "Ship sinked!"
 
 # game_over_ui.cpp
 msgid "Play again"
@@ -128,7 +128,7 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(Ye're scabby ship)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
@@ -168,7 +168,7 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Man on lookout"
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
@@ -176,7 +176,7 @@ msgstr ""
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr ""
+msgstr "Chasing gun"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
@@ -184,11 +184,11 @@ msgstr ""
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr ""
+msgstr "Cog"
 
 # screen_configure_ship.cpp
 msgid "Trail"
-msgstr ""
+msgstr "Clipper"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
@@ -204,7 +204,7 @@ msgstr "Buried treasure"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
-msgstr ""
+msgstr "Treasure buried"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
@@ -220,11 +220,11 @@ msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Move"
-msgstr ""
+msgstr "Spring"
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr "Attack"
+msgstr "Fire!"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
@@ -280,7 +280,7 @@ msgstr "7 Seas"
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr ""
+msgstr "Heave to!"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
@@ -292,11 +292,11 @@ msgstr "Wit' Sailors"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr "Set sail"
+msgstr "Hands hoy!"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr "One sailor"
+msgstr "Sailor man"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
@@ -304,7 +304,7 @@ msgstr ""
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Failed to plunder"
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
@@ -312,11 +312,11 @@ msgstr ""
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Plundering"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Ye're late"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
@@ -328,7 +328,7 @@ msgstr ""
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Galley Do!"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
@@ -336,7 +336,7 @@ msgstr ""
 
 # screen_tutorial.cpp
 msgid "Tutorial"
-msgstr ""
+msgstr "avast ye!"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters:"
@@ -488,7 +488,7 @@ msgstr "Talkin'"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr ""
+msgstr "Heave ho!"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
@@ -576,7 +576,7 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Jolly be commin'"
 
 # screen_signin.cpp
 msgid "Signing in"
@@ -584,7 +584,7 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Ye're a boccaneer"
 
 # screen_signin.cpp
 msgid "Verification email sent"
@@ -592,7 +592,7 @@ msgstr ""
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr "Ye're treasure here!"
+msgstr "Ye're bootys here!"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -624,7 +624,7 @@ msgstr ""
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "Ye're not a pirate"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
@@ -632,7 +632,7 @@ msgstr "The Navy rules"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Go on account"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
@@ -692,7 +692,7 @@ msgstr ""
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Joining buccaneer"
 
 # screen_register.cpp
 msgid "Registration successful."
@@ -720,7 +720,7 @@ msgstr ""
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Jolly be off"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
@@ -800,15 +800,15 @@ msgstr ""
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr ""
+msgstr "bronze bounty"
 
 # medals.cpp
 msgid "New gold medal"
-msgstr ""
+msgstr "Doubloons!!"
 
 # medals.cpp
 msgid "New silver medal"
-msgstr ""
+msgstr "Silver bounty!"
 
 # account_information.cpp
 msgid "Failed to parse response"
