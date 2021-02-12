@@ -28,7 +28,7 @@ the feasibility.
 * [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * [Malay](/translations/msa.po) (0% complete; 203 remaining)
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
-* [Pirate Speak](/translations/pirate.po) (0% complete; 212 remaining)
+* [Pirate Speak](/translations/pirate.po) (31% complete; 145 remaining)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (91% complete; 19 remaining)
 * [Romanian](/translations/ron.po) (0% complete; 212 remaining)
@@ -37,4 +37,4 @@ the feasibility.
 * [Tagalog](/translations/tgl.po) (100% complete! 🎉)
 * [Turkish](/translations/tur.po) (100% complete! 🎉)
 * [Ukrainian](/translations/ukr.po) (91% complete; 19 remaining)
-> Report generated on Feb 10 2021 14:12:37 UTC
+> Report generated on Feb 12 2021 20:31:15 UTC
