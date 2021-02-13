@@ -16,7 +16,7 @@ msgstr "Binitawan"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr "Ihinto pagbitaw %s"
+msgstr "Hinto pagbitaw %s"
 
 # pause_ui.cpp
 msgid "Continue"
@@ -152,7 +152,7 @@ msgstr "Tulong"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr "Laro gamit LAN"
+msgstr "Makipaglaro gamit ang LAN"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
@@ -792,7 +792,7 @@ msgstr "Walang koneksyon sa \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Totoo ba to?\" - tester (tagasiyasat ng laro)"
+msgstr "\"Totoo ba to?\" - tester"
 
 # game_levels.cpp
 msgid "aka Dodge This"
