@@ -76,7 +76,7 @@ msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
-msgstr ""
+msgstr "Lower thi gankplank!"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
@@ -180,7 +180,7 @@ msgstr "Chasing gun"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr ""
+msgstr "Get ye're Boat"
 
 # screen_configure_ship.cpp
 msgid "Model"
@@ -192,7 +192,7 @@ msgstr "Clipper"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "Hmm.. i smell witch in here.."
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
@@ -252,11 +252,11 @@ msgstr "Thi' Talki given by Pirate!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr ""
+msgstr "Solo"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr ""
+msgstr "Duel"
 
 # screen_view_high_scores.cpp
 msgid "3p"
@@ -320,11 +320,11 @@ msgstr "Ye're late"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Dutchman sunkin' ship"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "Ship's been abandon"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
@@ -332,7 +332,7 @@ msgstr "Galley Do!"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Ye're here, stop drinking!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -356,15 +356,15 @@ msgstr ""
 
 # screen_informations_music.cpp
 msgid "Music"
-msgstr ""
+msgstr "Shanties"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr ""
+msgstr "Gankplank broke"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr ""
+msgstr "cant reach thi pier"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -432,11 +432,11 @@ msgstr ""
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "Something fishy is 'here"
 
 # screen_view_level.cpp
 msgid "Loading..."
-msgstr ""
+msgstr "Hmmm..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
@@ -468,11 +468,11 @@ msgstr "The crew"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr ""
+msgstr "Hang %s"
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr ""
+msgstr "Sea wave"
 
 # screen_settings.cpp
 msgid "Controls"
@@ -508,7 +508,7 @@ msgstr ""
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
-msgstr ""
+msgstr "Man's decision"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
@@ -532,7 +532,7 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "letter"
 
 # screen_signin.cpp
 msgid "Email not verified"
@@ -608,7 +608,7 @@ msgstr ""
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Man in disguise"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
@@ -732,7 +732,7 @@ msgstr ""
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr ""
+msgstr "%s abandoning ship"
 
 # game_state.cpp
 msgid "Accuracy: %s"
@@ -748,11 +748,11 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "Hands off!"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "Davy Jones's locker"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
@@ -760,7 +760,7 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "Half time pure skills"
 
 # game_levels.cpp
 msgid "My favorite mode"
@@ -768,7 +768,7 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "The witch don't tell the truth"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
@@ -816,7 +816,7 @@ msgstr ""
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Someone touched me booty! what Dirt' sailor!"
 
 # renderer_types.cpp
 msgid "High"
