@@ -292,7 +292,7 @@ msgstr "May Kasama"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr "Laruin"
+msgstr "Maglaro"
 
 # screen_main_menu.cpp
 msgid "Single Player"
