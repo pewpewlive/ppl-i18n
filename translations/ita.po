@@ -376,51 +376,51 @@ msgstr "Effetti sonori"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "I livelli della #ffff00ffCommunity#ffffffff sono creati da VOI, la community."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "I livelli #ffff00ffSperimentali#ffffffff sono livelli che non sono ancora stati rilasciati"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "I livelli #ffff00ffUfficiali#ffffffff sono creati da me (JF) e ti permettono di guadagnare medaglie."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr ""
+msgstr "A proposito dei livelli"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
-msgstr ""
+msgstr "Community"
 
 # screen_select_single_player_level.cpp
 msgid "Community levels"
-msgstr ""
+msgstr "Livelli Cdella Community"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
-msgstr ""
+msgstr "Sperimentale"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr ""
+msgstr "Livelli Sperimentali"
 
 # screen_select_single_player_level.cpp
 msgid "IN REVIEW"
-msgstr ""
+msgstr "In revisione"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "Maggiori informazioni su github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
+msgstr "Ufficiale"
 
 # screen_select_single_player_level.cpp
 msgid "Official levels"
-msgstr ""
+msgstr "Livelli Ufficiali"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
