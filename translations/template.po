@@ -126,6 +126,10 @@ msgstr ""
 msgid "Play with people on the same network!"
 msgstr ""
 
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr ""
@@ -339,11 +343,15 @@ msgid "Tutorial"
 msgstr ""
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
+msgid "2 extra characters (optional):"
 msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
 msgstr ""
 
 # screen_online_configure_room.cpp

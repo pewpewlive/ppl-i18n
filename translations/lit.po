@@ -126,6 +126,10 @@ msgstr "Žaiskite su žmonėmis aplink pasaulį!"
 msgid "Play with people on the same network!"
 msgstr "Žaiskite su žmonėmis tame pačiame tinkle!"
 
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "(Nepalaikoma versija)"
@@ -339,12 +343,16 @@ msgid "Tutorial"
 msgstr "Pamokymas"
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
-msgstr "Dvi papildomos raidės:"
+msgid "2 extra characters (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
 msgstr "Bet koks lygis"
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -848,6 +856,10 @@ msgstr "Labai žema 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "2 extra characters:"
+msgstr "Dvi papildomos raidės:"
 
 # Currently unused! This string may never be used again!
 msgid "Connect to..."

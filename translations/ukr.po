@@ -126,6 +126,10 @@ msgstr "Грати з людьми навколо світу!"
 msgid "Play with people on the same network!"
 msgstr "Грати з людьми на одній мережі"
 
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "(Не сумісні версії)"
@@ -339,12 +343,16 @@ msgid "Tutorial"
 msgstr "Туторіал"
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
-msgstr "2 додаткових героїв"
+msgid "2 extra characters (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
 msgstr "Любий рівень"
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -848,6 +856,10 @@ msgstr "Дуже низька 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "2 extra characters:"
+msgstr "2 додаткових героїв"
 
 # Currently unused! This string may never be used again!
 msgid "Creator"

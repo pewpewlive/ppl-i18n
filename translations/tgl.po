@@ -126,6 +126,10 @@ msgstr "Makipaglaro sa mga manlalaro sa loob at labas ng bansa!"
 msgid "Play with people on the same network!"
 msgstr "Makipaglaro sa mga manlalaro sa kaparehong network!"
 
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "(Hindi tugma ang bersiyon)"
@@ -339,12 +343,16 @@ msgid "Tutorial"
 msgstr "Mga turo"
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
-msgstr "2 dagdag na character:"
+msgid "2 extra characters (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
 msgstr "Kahit ano"
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -848,6 +856,10 @@ msgstr "Pinalabo ng 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "2 extra characters:"
+msgstr "2 dagdag na character:"
 
 # Currently unused! This string may never be used again!
 msgid "Creator"

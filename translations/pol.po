@@ -126,6 +126,10 @@ msgstr "Graj z osobami z całego świata!"
 msgid "Play with people on the same network!"
 msgstr "Graj z osobami w tej samej sieci!"
 
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "(niekompatybilna wersja)"
@@ -339,12 +343,16 @@ msgid "Tutorial"
 msgstr "Samouczek"
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
-msgstr "2 dodatkowe litery:"
+msgid "2 extra characters (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
 msgstr "Dowolny poziom"
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -848,6 +856,10 @@ msgstr "Ultra niskie 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "2 extra characters:"
+msgstr "2 dodatkowe litery:"
 
 # Currently unused! This string may never be used again!
 msgid "Connect to..."

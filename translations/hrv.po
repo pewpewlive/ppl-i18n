@@ -126,6 +126,10 @@ msgstr "Igrajte s ljudima diljem svijeta!"
 msgid "Play with people on the same network!"
 msgstr "Igrajte s ljudima na istoj mreži!"
 
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "(Inkompatibilna verzija)"
@@ -339,12 +343,16 @@ msgid "Tutorial"
 msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
-msgstr "2 dodatne znamenke:"
+msgid "2 extra characters (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
 msgstr "Bilo koji level"
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -378,7 +386,7 @@ msgstr "Zvučni efekti"
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "Levele #ffff00ffzajednice#ffffffff ste napravili VI, zajednica."
 
-# https://youtu.be/zJnzubaJATg.cpp
+# screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
 msgstr "#ffff00ffEksperimentalni#ffffffff leveli su leveli koji još nisu pušteni u javnost."
 
@@ -848,6 +856,10 @@ msgstr "Ultra nisko 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "2 extra characters:"
+msgstr "2 dodatne znamenke:"
 
 # Currently unused! This string may never be used again!
 msgid "Connect to..."

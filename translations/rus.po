@@ -96,7 +96,7 @@ msgstr "Присоединиться"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
-msgstr "Пароль (необязательно):"
+msgstr "Пароль:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
@@ -125,6 +125,10 @@ msgstr "Играть с людьми по всему миру!"
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
 msgstr "Играть с людьми на одной сети!"
+
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -339,12 +343,16 @@ msgid "Tutorial"
 msgstr "Обучение"
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
-msgstr "2 дополнительных символа:"
+msgid "2 extra characters (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
 msgstr "Любой уровень"
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
+msgstr "Пароль (необязательно):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -848,6 +856,10 @@ msgstr "Пиксель 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "2 extra characters:"
+msgstr "2 дополнительных символа:"
 
 # Currently unused! This string may never be used again!
 msgid "Connect to..."

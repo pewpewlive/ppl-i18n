@@ -126,6 +126,10 @@ msgstr "Dünya çapından kişilerle birlikte oyna!"
 msgid "Play with people on the same network!"
 msgstr "Aynı ağa bağlanan kişilerle birlikte oyna!"
 
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "(Uyumsuz sürüm)"
@@ -339,12 +343,16 @@ msgid "Tutorial"
 msgstr "Öğrenme"
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
-msgstr "2 karakter daha:"
+msgid "2 extra characters (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
 msgstr "Herhangi bir harita"
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -848,6 +856,10 @@ msgstr "Aşırı düşük x8"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "2 extra characters:"
+msgstr "2 karakter daha:"
 
 # Currently unused! This string may never be used again!
 msgid "Connect to..."

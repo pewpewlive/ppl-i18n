@@ -126,6 +126,10 @@ msgstr "All homies down to play"
 msgid "Play with people on the same network!"
 msgstr "Homies sapping your WiFi down to play"
 
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr ""
+
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
 msgstr "This version swiped left"
@@ -339,12 +343,16 @@ msgid "Tutorial"
 msgstr "Learnin'"
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
-msgstr "2-long gamer tag:"
+msgid "2 extra characters (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
 msgstr "All's fair game"
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -848,6 +856,10 @@ msgstr "JPEG 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "2 extra characters:"
+msgstr "2-long gamer tag:"
 
 # Currently unused! This string may never be used again!
 msgid "Connect to..."
