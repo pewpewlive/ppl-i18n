@@ -128,7 +128,7 @@ msgstr "Žaiskite su žmonėmis tame pačiame tinkle!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Pasirinkite kelių žaidėjų režimo tipą"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -344,7 +344,7 @@ msgstr "Pamokymas"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "Dvi papildomos raidės (nebūtina):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -352,7 +352,7 @@ msgstr "Bet koks lygis"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Slaptažodis (nebūtina):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
