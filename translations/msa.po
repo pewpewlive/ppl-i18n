@@ -51,11 +51,19 @@ msgid "Authenticating..."
 msgstr ""
 
 # screen_online_authenticate.cpp
+msgid "Error :("
+msgstr ""
+
+# screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr ""
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
+msgstr ""
+
+# screen_online_authenticate.cpp
+msgid "Need the latest version of the game."
 msgstr ""
 
 # screen_specify_server_ip.cpp
@@ -102,18 +110,6 @@ msgstr ""
 msgid "Swap"
 msgstr ""
 
-# screen_select_custom_level.cpp
-msgid "Creator"
-msgstr ""
-
-# screen_select_custom_level.cpp
-msgid "Custom levels"
-msgstr ""
-
-# screen_select_custom_level.cpp
-msgid "Level name"
-msgstr ""
-
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
 msgstr ""
@@ -128,6 +124,10 @@ msgstr ""
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
+msgstr ""
+
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
 msgstr ""
 
 # screen_lan_create_or_join.cpp
@@ -230,10 +230,6 @@ msgstr ""
 msgid "Shoot"
 msgstr ""
 
-# screen_select_game_single_player.cpp
-msgid "Select level"
-msgstr ""
-
 # screen_online_list_rooms.cpp
 msgid "Refresh"
 msgstr ""
@@ -315,7 +311,31 @@ msgid "Failed to join room"
 msgstr ""
 
 # screen_online_create_or_join_room.cpp
+msgid "Incorrect password"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
 msgid "Joining room"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Room is full"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room does not exist anymore"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "The room expired"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "Unknown error"
+msgstr ""
+
+# screen_online_create_or_join_room.cpp
+msgid "You are already in the room!"
 msgstr ""
 
 # screen_tutorial.cpp
@@ -323,11 +343,15 @@ msgid "Tutorial"
 msgstr ""
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
+msgid "2 extra characters (optional):"
 msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
+msgstr ""
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
 msgstr ""
 
 # screen_online_configure_room.cpp
@@ -358,20 +382,52 @@ msgstr ""
 msgid "Sound effects"
 msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "Custom levels?!"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "More information"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
 msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "Yes!"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "You can finally code your own levels!"
+# screen_select_single_player_level.cpp
+msgid "About the levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "IN REVIEW"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official levels"
 msgstr ""
 
 # screen_view_level.cpp
@@ -463,10 +519,6 @@ msgid "Cancel"
 msgstr ""
 
 # screen_multiplayer_lobby.cpp
-msgid "Game is full"
-msgstr ""
-
-# screen_multiplayer_lobby.cpp
 msgid "Local lobby"
 msgstr ""
 
@@ -480,10 +532,6 @@ msgstr ""
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
-msgstr ""
-
-# screen_multiplayer_lobby.cpp
-msgid "You are already in the game!"
 msgstr ""
 
 # screen_signin.cpp
@@ -504,10 +552,6 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
-
-# screen_signin.cpp
-msgid "Incorrect password"
 msgstr ""
 
 # screen_signin.cpp
@@ -809,4 +853,7 @@ msgstr ""
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr ""
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
 

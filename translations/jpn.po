@@ -110,18 +110,6 @@ msgstr "リセット"
 msgid "Swap"
 msgstr "イレカエ"
 
-# screen_select_custom_level.cpp
-msgid "Creator"
-msgstr "サクシャ"
-
-# screen_select_custom_level.cpp
-msgid "Custom levels"
-msgstr "カスタムレベル"
-
-# screen_select_custom_level.cpp
-msgid "Level name"
-msgstr "レベルネーム"
-
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
 msgstr "LAN マルチプレイ"
@@ -137,6 +125,10 @@ msgstr "セカイジュウノ ヒトト プレイ！"
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
 msgstr "オナジ ネットワークノ ヒトト プレイ！"
+
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -237,10 +229,6 @@ msgstr "イドウ"
 # screen_configure_keyboard.cpp
 msgid "Shoot"
 msgstr "シャゲキ"
-
-# screen_select_game_single_player.cpp
-msgid "Select level"
-msgstr "レベル センタク"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
@@ -355,12 +343,16 @@ msgid "Tutorial"
 msgstr "チュートリアル"
 
 # screen_online_configure_room.cpp
-msgid "2 extra characters:"
+msgid "2 extra characters (optional):"
 msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
 msgstr "スベテノ レベル"
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
+msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -390,21 +382,53 @@ msgstr "オーディオ セッテイ"
 msgid "Sound effects"
 msgstr "コウカオン"
 
-# screen_select_custom_level_info.cpp
-msgid "Custom levels?!"
-msgstr "カスタムレベル！？"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "More information"
-msgstr "モット ヨム"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "Yes!"
-msgstr "YES!"
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr ""
 
-# screen_select_custom_level_info.cpp
-msgid "You can finally code your own levels!"
-msgstr "ツイニ レベル デキタ！"
+# screen_select_single_player_level.cpp
+msgid "About the levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Community levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Experimental levels"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "IN REVIEW"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official"
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "Official levels"
+msgstr ""
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -829,4 +853,39 @@ msgstr ""
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr ""
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Creator"
+msgstr "サクシャ"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels"
+msgstr "カスタムレベル"
+
+# Currently unused! This string may never be used again!
+msgid "Custom levels?!"
+msgstr "カスタムレベル！？"
+
+# Currently unused! This string may never be used again!
+msgid "Level name"
+msgstr "レベルネーム"
+
+# Currently unused! This string may never be used again!
+msgid "More information"
+msgstr "モット ヨム"
+
+# Currently unused! This string may never be used again!
+msgid "Select level"
+msgstr "レベル センタク"
+
+# Currently unused! This string may never be used again!
+msgid "Yes!"
+msgstr "YES!"
+
+# Currently unused! This string may never be used again!
+msgid "You can finally code your own levels!"
+msgstr "ツイニ レベル デキタ！"
 
