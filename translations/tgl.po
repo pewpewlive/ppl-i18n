@@ -128,7 +128,7 @@ msgstr "Makipaglaro sa mga manlalaro sa kaparehong network!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Maglaro ng may kasama"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -188,7 +188,7 @@ msgstr "Ayos ng Ship"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr "Bahay"
+msgstr "Modelo"
 
 # screen_configure_ship.cpp
 msgid "Trail"
@@ -344,7 +344,7 @@ msgstr "Mga turo"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 dagdag na character (pwedeng laktawan):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -352,7 +352,7 @@ msgstr "Kahit ano"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Password (pwedeng laktawan):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
