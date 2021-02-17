@@ -128,7 +128,7 @@ msgstr "¡Juega con gente en tu misma red!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Tipo de partida"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -244,7 +244,7 @@ msgstr "Por defecto"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr "Ayudar a traducir"
+msgstr "GitHub de los traductores"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -344,15 +344,15 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 caracteres adicionales (opcional):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr "Cualquiera"
+msgstr "Cualquier nivel"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Contraseña (opcional):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
