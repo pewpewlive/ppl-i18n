@@ -128,7 +128,7 @@ msgstr "Играть с людьми на одной сети!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Выбор типа мультилеера"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -344,7 +344,7 @@ msgstr "Обучение"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 доп. символа (необязательно):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
