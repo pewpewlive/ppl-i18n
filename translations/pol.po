@@ -128,7 +128,7 @@ msgstr "Graj z osobami w tej samej sieci!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Wybierz typ gry wieloosobowej"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -344,7 +344,7 @@ msgstr "Samouczek"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 dodatkowe znaki (opcjonalne):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -352,7 +352,7 @@ msgstr "Dowolny poziom"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Hasło (opcjonalne):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
