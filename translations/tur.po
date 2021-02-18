@@ -128,7 +128,7 @@ msgstr "Aynı ağa bağlanan kişilerle birlikte oyna!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Çok oyunculu oyun türünü seç"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -344,7 +344,7 @@ msgstr "Öğrenme"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 ekstra karakter (zorunlu değil):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -352,7 +352,7 @@ msgstr "Herhangi bir harita"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Şifre (zorunlu değil)"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
