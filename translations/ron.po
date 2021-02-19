@@ -216,187 +216,187 @@ msgstr "Se postează scorul pentru %s."
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr ""
+msgstr "Configură tastatura"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "Tragere cu mouse-ul %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
-msgstr ""
+msgstr "Mișcare"
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr ""
+msgstr "Tragere"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Reîncarcă"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Contributori"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr ""
+msgstr "Limba prestabilită"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Ajută"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
-msgstr ""
+msgstr "Setări pentru Limbă"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Traducerile sunt făcute de comunitate!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr ""
+msgstr "1p"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr ""
+msgstr "2p"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr ""
+msgstr "3p"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr ""
+msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr ""
+msgstr "personal"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "regiune"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
+msgstr "lume"
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr ""
+msgstr "Omite"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr ""
+msgstr "Multiplayer local"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
-msgstr ""
+msgstr "Multiplayer"
 
 # screen_main_menu.cpp
 msgid "Play"
-msgstr ""
+msgstr "Joacă"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr ""
+msgstr "Single Player"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Se crează camera"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr ""
+msgstr "Nu s-a putut intra in cameră"
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "Parolă incorectă"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr ""
+msgstr "Se intră în cameră"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Camera e plină"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Camera nu mai există acum"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "Camera a exprimat"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Eroare necunoscută"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Ești deja în cameră!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 caractere in plus (opțional):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Orice nivel"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Parolă (opțional):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Configură camera"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Numele camerei: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
-msgstr ""
+msgstr "Muzică"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr ""
+msgstr "Eroare de conexiune"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr ""
+msgstr "S-a pierdut conexiunea la server"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
-msgstr ""
+msgstr "Setări Audio"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr ""
+msgstr "Efecte de sunet"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "Nivelele de #ffff00ffcomunitate#ffffffff sunt făcute de VOI, cominitatea"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "Nivelele #ffff00ffexperimentale#ffffffff sunt nivele care nu au fost lansate încă"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "Nivelele #ffff00ffofficiale#ffffffff sunt făcute de mine (JF), și te lasă să primești medalii"
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr ""
+msgstr "Despre nivele"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
