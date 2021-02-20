@@ -400,203 +400,203 @@ msgstr "Despre nivele"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
-msgstr ""
+msgstr "Comunitate"
 
 # screen_select_single_player_level.cpp
 msgid "Community levels"
-msgstr ""
+msgstr "Nivele de comunitate"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
-msgstr ""
+msgstr "Experimental"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr ""
+msgstr "Nivele experimentale"
 
 # screen_select_single_player_level.cpp
 msgid "IN REVIEW"
-msgstr ""
+msgstr "ÎN REVIEW"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "Mai multe informații la github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
+msgstr "Official"
 
 # screen_select_single_player_level.cpp
 msgid "Official levels"
-msgstr ""
+msgstr "Nivele oficiale"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr ""
+msgstr "Eroare citind manifest-ul"
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr ""
+msgstr "Nivel experimental"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "Nu s-a putut descărca manifest-ul"
 
 # screen_view_level.cpp
 msgid "Loading..."
-msgstr ""
+msgstr "Se încarcă..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr ""
+msgstr "Recordul local: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr ""
+msgstr "Recordul mondial: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
-msgstr ""
+msgstr "Setări de Controale"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
-msgstr ""
+msgstr "Tastatură"
 
 # screen_settings_controls.cpp
 msgid "Touchscreen"
-msgstr ""
+msgstr "Touchscreen"
 
 # screen_informations.cpp
 msgid "Development videos"
-msgstr ""
+msgstr "Videoclipuri de developare"
 
 # screen_informations.cpp
 msgid "Discord server"
-msgstr ""
+msgstr "Server-ul de Discord"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr ""
+msgstr "de %s"
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr ""
+msgstr "Controale"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr ""
+msgstr "Mod de developeri"
 
 # screen_settings.cpp
 msgid "Language"
-msgstr ""
+msgstr "Limbă"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr ""
+msgstr "Pornește intro-ul"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr ""
+msgstr "Renderer: %s"
 
 # screen_settings.cpp
 msgid "Settings"
-msgstr ""
+msgstr "Setări"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr ""
+msgstr "Începe tutoral-ul"
 
 # screen_settings.cpp
 msgid "Vibration %s"
-msgstr ""
+msgstr "Vibrație %s"
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
-msgstr ""
+msgstr "Lobby local"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
-msgstr ""
+msgstr "Lobby online"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
-msgstr ""
+msgstr "Pregătit"
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "Se așteaptă alți jucători..."
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Verifică-ți email-ul!"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Email-ul nu e verificat"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Nu s-a putut cere resetarea parolei"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Nu s-a putut retrimite email-ul"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Parolă"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "S-a trimis email-ul de resetare a parolei"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Retrimite email-ul de verificație"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "Cere resetarea parolei"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Se cere resetarea parolei"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Se cere email-ul de verificare"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "Restâetează parola"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "Conectează-te"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "Se conectează"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "S-a conectat cu succes"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "S-a trimis email-ul de verificare"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
