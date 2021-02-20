@@ -600,103 +600,103 @@ msgstr "S-a trimis email-ul de verificare"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "Toate medaliile tale sunt aici."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Nu s-a putut sincroniza."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Sincronizare terminată."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "Se sincronizează"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "Ai fost deconectat."
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "Nu s-a putut folosi răspunsul serverului"
 
 # screen_signed_out.cpp
 msgid "Account"
-msgstr ""
+msgstr "Contul"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Crează un cont ca să-ți setezi numele și să-ți sincronizezi lucrurile"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "Nu ești conectat"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privacy Policy"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Înregistrează-te"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Trebuie să fi conectat ca să te joci online"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Trebuie să fi conectat ca să postezi scorurile"
 
 # screen_signed_out.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Contul tău"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Confirmă-ți emailul"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Confirmă-ți emailul:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Confirmă-ți parola"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Confirmă-ți parola:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Email-ul este invalid!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Email-urile nu sunt la fel!"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "Nu s-a putut înregistra"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Parolele nu sunt la fel!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Verifică-ți email-ul"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "Înregistrează contul"
 
 # screen_register.cpp
 msgid "Registering"
