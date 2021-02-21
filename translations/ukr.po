@@ -384,15 +384,15 @@ msgstr "Звукові ефекти"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffCommunity#ffffffff рівні збудовані ТОБОЮ, або іншими"
+msgstr "#ffff00ffСпільнота#ffffffff рівні збудовані ТОБОЮ, або іншими"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffExperimental#ffffffff рівні ті що ще не готові"
+msgstr "#ffff00ffЕкспереметальні#ffffffff рівні ті що ще не готові"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffOfficial#ffffffff рівні ті що збудовані мною (JF), і можна заробляти медалі."
+msgstr "#ffff00ffОфіціальні#ffffffff рівні ті що збудовані мною (JF), і можна заробляти медалі."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
