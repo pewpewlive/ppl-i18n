@@ -829,6 +829,7 @@ msgstr "Informație lipsă. Nu ar trebui să se întâmple asta!"
 # renderer_types.cpp
 msgid "High"
 msgstr "Mare
+
 # renderer_types.cpp
 msgid "Low"
 msgstr "Mic"
