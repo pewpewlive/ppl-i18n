@@ -99,6 +99,14 @@
       }
     ]
   },{
+    "lang": "ron",
+    "translators": [
+      {
+        "name": "tavitu",
+        "color": "0x0000ffff"
+      }
+    ]
+  },{
     "lang": "rus",
     "translators": [
       {
