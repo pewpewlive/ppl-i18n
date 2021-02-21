@@ -728,27 +728,27 @@ msgstr "Profilul online"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "Deconectează-te"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Sincronizează"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr ""
+msgstr "Scuturi: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr ""
+msgstr "%s a ieșit din joc"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "Acuratețe"
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
@@ -808,51 +808,50 @@ msgstr "aka Dodge This"
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr ""
+msgstr "Medalie de bronz nouă"
 
 # medals.cpp
 msgid "New gold medal"
-msgstr ""
+msgstr "Medalie de aur nouă"
 
 # medals.cpp
 msgid "New silver medal"
-msgstr ""
+msgstr "Medalie de argint nouă"
 
 # account_information.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Nu s-a putut folosi răspunsul"
 
 # account_information.cpp
 msgid "Missing information. This should not happen!"
-msgstr ""
+msgstr "Informație lipsă. Nu ar trebui să se întâmple asta!"
 
 # renderer_types.cpp
 msgid "High"
-msgstr ""
-
+msgstr "Mare
 # renderer_types.cpp
 msgid "Low"
-msgstr ""
+msgstr "Mic"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "Foarte mic 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "Foarte mic 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "Foarte mic 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "Foarte mic 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
