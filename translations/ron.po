@@ -700,31 +700,31 @@ msgstr "Înregistrează contul"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "Se înregistrează"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "S-a înregistrat cu succes."
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Prea lung. Maxim %s caractere."
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Prea scurt. Minim %s caractere."
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "Nume"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Nume (poți să folosești culori!):"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "Profilul online"
 
 # screen_signed_in.cpp
 msgid "Sign out"
@@ -752,59 +752,59 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "Alege-ți dificultatea"
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "Fereștete de totul și o să fi OK"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "Spațiul Euclidian e prea folosit"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "Verde bun. Roșu rău"
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "Doar 32 de secunde de dificultate"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr ""
+msgstr "Modul meu favorit"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "Să nu ai niciodată incredere intr-un poligon cu 6 laturi"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "Cunoscut înainte ca și Assault"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "RIP GW3:Dimensions"
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "Supraviețuiește 32 de secunde cu acest tric simplu"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
-msgstr ""
+msgstr "Fundalul este scump de arătat"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "Nu are nicio legătură cu \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\"Acest nivel este o glumă nu?\" - un tester"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr ""
+msgstr "aka Dodge This"
 
 # medals.cpp
 msgid "New bronze medal"
