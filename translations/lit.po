@@ -16,7 +16,7 @@ msgstr "Greita pauzė"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr "Greita pauzė %s"
+msgstr "Greitoji pauzė %s"
 
 # pause_ui.cpp
 msgid "Continue"
@@ -60,11 +60,11 @@ msgstr "Nepavyko autentifikuoti"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
-msgstr "Nepavyko pasiekti serveriu"
+msgstr "Nepavyko pasiekti serverio"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr "Reikia turėti naują žaidimo versiją."
+msgstr "Reikia turėti naujausią žaidimo versiją."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -108,7 +108,7 @@ msgstr "Atstatyti"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr "Keisti"
+msgstr "Apkeisti"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
@@ -120,11 +120,11 @@ msgstr "Internetinis kelių žaidėjų režimas"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr "Žaiskite su žmonėmis aplink pasaulį!"
+msgstr "Žaiskite su žaidėjais aplink pasaulį!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr "Žaiskite su žmonėmis tame pačiame tinkle!"
+msgstr "Žaiskite su žaidėjais tame pačiame tinkle!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
@@ -140,7 +140,7 @@ msgstr "Uždaryti kambarį"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "Prisijungimas prie draugo mobiliosios saitvietės turėtų veikti!"
+msgstr "Prisijungimas prie mobiliosios saitvietės turėtų veikti!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
@@ -148,7 +148,7 @@ msgstr "Sukurti kambarį"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Kiekvienas žaidėjas turėtu atskirai įkelti pakartojimą, kad abu būtų rodomi internetinėje lyderių lentoje."
+msgstr "Kiekvienas žaidėjas turėtų atskirai įkelti pakartojimą, kad abu būtų rodomi internetinėje lyderių lentoje."
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
@@ -176,7 +176,7 @@ msgstr "Ieškoma kambarių..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr "„WiFi“ tinklas neturi turėti internetine prieiga."
+msgstr "„WiFi“ tinklas gali neturėti prieigos prie interneto."
 
 # screen_configure_ship.cpp
 msgid "Bullets"
@@ -212,7 +212,7 @@ msgstr "Įkėlimas sėkmingas"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr "Įkeliamas pakartojimas %s."
+msgstr "Įkeliamas pakartojimas %s lygiui."
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -236,7 +236,7 @@ msgstr "Atnaujinti"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr "Prisijungusieji"
+msgstr "Prisidėję"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -252,7 +252,7 @@ msgstr "Kalbos nustatymai"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr "Vertimai yra bendruomenės patvirtinti!"
+msgstr "Vertimai yra bendruomenės sukurti!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
@@ -272,15 +272,15 @@ msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr "Asmeninis"
+msgstr "asmeninis"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr "Regionas"
+msgstr "regionas"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr "Pasaulis"
+msgstr "pasaulis"
 
 # screen_benchmark.cpp
 msgid "Skip"
@@ -300,7 +300,7 @@ msgstr "Žaisti"
 
 # screen_main_menu.cpp
 msgid "Single Player"
-msgstr "Vienas žaidėjas"
+msgstr "Vienas Žaidėjas"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
@@ -384,15 +384,15 @@ msgstr "Garso efektai"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "Lygiai #ffff00ffBendruomenės#ffffffff skiltyje yra lygiai kuriuos sukūrėte JŪS, puikioji bendruomenė."
+msgstr "Lygiai #ffff00ffBendruomenės#ffffffff skiltyje yra lygiai kuriuos sukūrėte JŪS, „PewPew“ bendruomenė."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "Lygiai #ffff00ffEkspermentiniai#ffffffff skiltyje yra lygiai kuriuos sukūrėte JŪS, puikioji bendruomenė bet jie dar nėra patvirtinti ar pabaigti."
+msgstr "Lygiai #ffff00ffEkspermentiniai#ffffffff skiltyje yra lygiai kurie dar nėra patvirtinti ar pabaigti."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "Lygiai #ffff00ffOficialūs#ffffffff skiltyje yra lygiai kuriuos sukūrė šio žaidimo kūrėjas (JF), jie leidžia jums gauti medalius."
+msgstr "Lygiai #ffff00ffOficialūs#ffffffff skiltyje yra lygiai kuriuos sukūrė šio žaidimo kūrėjas (JF), ir jie leidžia jums gauti medalius."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
@@ -400,7 +400,7 @@ msgstr "Apie Lygius"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
-msgstr "Bendruomenės"
+msgstr "Bendruomenė"
 
 # screen_select_single_player_level.cpp
 msgid "Community levels"
@@ -420,7 +420,7 @@ msgstr "PERŽIŪROJE"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "Daugiau informacijos rasite čia github.com/jyaif/ppl-utils"
+msgstr "Daugiau informacijos rasite čia: github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
@@ -476,7 +476,7 @@ msgstr "„Discord“ serveris"
 
 # screen_informations.cpp
 msgid "by %s"
-msgstr "Padarė %s"
+msgstr "Sukūrė %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -540,11 +540,11 @@ msgstr "Pažiūrėkite savo pašta!"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr "El. Paštas"
+msgstr "El-paštas"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr "El. Paštas ne patvirtintas"
+msgstr "El-paštas ne patvirtintas"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
@@ -552,7 +552,7 @@ msgstr "Nepavyko pakeisti slaptažodžio"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr "Nepavyko išsiųsti El. Pašto"
+msgstr "Nepavyko išsiųsti laiško"
 
 # screen_signin.cpp
 msgid "Password"
@@ -560,7 +560,7 @@ msgstr "Slaptažodis"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr "Slaptažodžio keitimo El. laiškas išsiųstas"
+msgstr "Slaptažodžio keitimo laiškas išsiųstas"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
@@ -656,11 +656,11 @@ msgstr "Jūsų paskyra"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr "Patvirtinti El. Pašto adresą"
+msgstr "Patvirtinti el-pašto adresą"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr "Patvirtinti El. Pašto adresą:"
+msgstr "Patvirtinti el-pašto adresą:"
 
 # screen_register.cpp
 msgid "Confirm password"
@@ -672,15 +672,15 @@ msgstr "Patvirtinti slaptažodį:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr "El. Paštas neteisingas!"
+msgstr "El-paštas neteisingas!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr "El. Paštas:"
+msgstr "El-paštas:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr "El. Paštai nesutampa!"
+msgstr "El-paštai nesutampa!"
 
 # screen_register.cpp
 msgid "Failed to register"
@@ -692,7 +692,7 @@ msgstr "Slaptažodžiai nesutampa!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr "Patikrinkite savo El. Pašto adresus!"
+msgstr "Patikrinkite savo el-pašto adresus!"
 
 # screen_register.cpp
 msgid "Register account"
@@ -760,7 +760,7 @@ msgstr "Venkite visko ir viskas bus gerai"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr "Euklido erdvė yra pervertinta"
+msgstr "Euklidinė erdvė yra pervertinta"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
@@ -780,7 +780,7 @@ msgstr "Niekada nepasitikėkite šešiakampiu"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr "Anksčiau žinomas kaip užpuolimas"
+msgstr "Anksčiau žinomas kaip Užpuolimas"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
@@ -836,7 +836,7 @@ msgstr "Žema"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr "Vid."
+msgstr "Vidutinė"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
@@ -932,4 +932,3 @@ msgstr "Jūs jau žaidime!"
 # Currently unused! This string may never be used again!
 msgid "You can finally code your own levels!"
 msgstr "Pagaliau galite koduoti savo lygius!"
-
