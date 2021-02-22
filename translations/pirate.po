@@ -40,7 +40,7 @@ msgstr "Ship sinked!"
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr ""
+msgstr "Ye want a rematch?"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -48,7 +48,7 @@ msgstr "Pirating ship..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "Look at yerself sailor!"
 
 # screen_online_authenticate.cpp
 msgid "Error :("
@@ -56,11 +56,11 @@ msgstr "Ship Damaged! }:("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Ye're look like a landlubber"
 
 # screen_online_authenticate.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Cant reach the ship"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -68,7 +68,7 @@ msgstr "Ye're need to upgraded ye're ship."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr ""
+msgstr "Swinging to the ship"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
@@ -88,15 +88,15 @@ msgstr ""
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Say thi magic word"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Welcome Aboard"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
-msgstr ""
+msgstr "Magic word:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
@@ -104,7 +104,7 @@ msgstr "Fix the Steering wheel"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
-msgstr ""
+msgstr "Fix Ye're deck"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
@@ -128,7 +128,7 @@ msgstr ""
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Choose what kind of duel ye want sailor!"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -136,7 +136,7 @@ msgstr "(Ye're scabby ship)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
-msgstr ""
+msgstr "Get to thi land"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
@@ -152,7 +152,7 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr ""
+msgstr "Ye're need a favour?"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
@@ -244,7 +244,7 @@ msgstr ""
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Give us a favour here!"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -312,7 +312,7 @@ msgstr "Failed to plunder"
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
-msgstr ""
+msgstr "That's not the magic word"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
@@ -348,7 +348,7 @@ msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr ""
+msgstr "Whatever"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
@@ -380,7 +380,7 @@ msgstr ""
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
-msgstr ""
+msgstr "Wind of the sea"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
@@ -536,7 +536,7 @@ msgstr "What should we do with the drunken sailor?"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "let's se Yer letter"
 
 # screen_signin.cpp
 msgid "Email"
@@ -644,11 +644,11 @@ msgstr "Go on account"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Only Pirate can go sailed to the 7 sea"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Ye're not a pirate? you cant buried yer treasure then"
 
 # screen_signed_out.cpp
 msgid "Your account"
@@ -656,19 +656,19 @@ msgstr "Ye're identity"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Is this ye?"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Is this ye?:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "This magic word?"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "This magic word?:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
@@ -736,7 +736,7 @@ msgstr ""
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr ""
+msgstr "Scuttle: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
