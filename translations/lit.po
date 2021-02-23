@@ -256,19 +256,19 @@ msgstr "Vertimai yra bendruomenės sukurti!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr "1p"
+msgstr "1 ž."
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr "2p"
+msgstr "2 ž."
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr "3p"
+msgstr "3 ž."
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr "4p"
+msgstr "4 ž."
 
 # screen_view_high_scores.cpp
 msgid "personal"
