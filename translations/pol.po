@@ -1,10 +1,10 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr "off"
+msgstr "wyłą"
 
 # ui_helpers.cpp
 msgid "on"
-msgstr "on"
+msgstr "włą"
 
 # keyboard_view.cpp
 msgid "ok"
