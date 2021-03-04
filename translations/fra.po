@@ -128,7 +128,7 @@ msgstr "Joue avec les gens sur le réseau local"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Selection du multijoueur"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -214,6 +214,14 @@ msgstr "Envoi réussi !"
 msgid "Uploading replay for %s."
 msgstr "Envoi des scores pour %s."
 
+# screen_career.cpp
+msgid "Career"
+msgstr "Carrière"
+
+# screen_career.cpp
+msgid "Medals: %s"
+msgstr "Médailles: %s"
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Configurer le clavier"
@@ -287,10 +295,6 @@ msgid "Skip"
 msgstr "Passer"
 
 # screen_main_menu.cpp
-msgid "Local Multiplayer"
-msgstr "Multi-joueur local"
-
-# screen_main_menu.cpp
 msgid "Multiplayer"
 msgstr "Multijoueur"
 
@@ -344,7 +348,7 @@ msgstr "Tutoriel"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 lettres en plus (facultatif):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -352,7 +356,7 @@ msgstr "Tous les niveaux"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Mot de passe (facultatif):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -827,6 +831,10 @@ msgid "Missing information. This should not happen!"
 msgstr "Manque d'informations. Ça ne devrait pas arriver!"
 
 # renderer_types.cpp
+msgid "Dark High"
+msgstr "Sombre"
+
+# renderer_types.cpp
 msgid "High"
 msgstr "Haute"
 
@@ -892,6 +900,10 @@ msgstr "Nom du niveau"
 # Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Niveau en cours de chargement..."
+
+# Currently unused! This string may never be used again!
+msgid "Local Multiplayer"
+msgstr "Multi-joueur local"
 
 # Currently unused! This string may never be used again!
 msgid "More information"

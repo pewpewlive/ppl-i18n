@@ -214,6 +214,14 @@ msgstr "アップロード セイコウ"
 msgid "Uploading replay for %s."
 msgstr "リプレイ アップロードチュウ %s"
 
+# screen_career.cpp
+msgid "Career"
+msgstr ""
+
+# screen_career.cpp
+msgid "Medals: %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "キーボード セッテイ"
@@ -285,10 +293,6 @@ msgstr ""
 # screen_benchmark.cpp
 msgid "Skip"
 msgstr "スキップ"
-
-# screen_main_menu.cpp
-msgid "Local Multiplayer"
-msgstr "ローカル マルチプレイ"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -827,6 +831,10 @@ msgid "Missing information. This should not happen!"
 msgstr ""
 
 # renderer_types.cpp
+msgid "Dark High"
+msgstr ""
+
+# renderer_types.cpp
 msgid "High"
 msgstr "タカイ"
 
@@ -872,6 +880,10 @@ msgstr "カスタムレベル！？"
 # Currently unused! This string may never be used again!
 msgid "Level name"
 msgstr "レベルネーム"
+
+# Currently unused! This string may never be used again!
+msgid "Local Multiplayer"
+msgstr "ローカル マルチプレイ"
 
 # Currently unused! This string may never be used again!
 msgid "More information"

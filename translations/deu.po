@@ -112,11 +112,11 @@ msgstr "Swap"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr "LAN multiplayer"
+msgstr "LAN Multiplayer"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr "Online multiplayer"
+msgstr "Online Multiplayer"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
@@ -128,7 +128,7 @@ msgstr "Spiel mit Leuten auf dem gleichen Netzwerk!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Multiplayer-Typ wählen"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -156,11 +156,11 @@ msgstr "Hilfe"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr "Local multiplayer"
+msgstr "Local Multiplayer"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Local multiplayer funktionert mit 2 Spielern, die beide zu dem gleichen Wifi-Netzwerk verbunden sind."
+msgstr "Local Multiplayer funktionert mit 2 Spielern, die beide zu dem gleichen Wifi-Netzwerk verbunden sind."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
@@ -213,6 +213,14 @@ msgstr "Das Laden hat funktioniert"
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
 msgstr "Laden des Replays für... %s."
+
+# screen_career.cpp
+msgid "Career"
+msgstr "Karrier"
+
+# screen_career.cpp
+msgid "Medals: %s"
+msgstr "Medaillen: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -287,10 +295,6 @@ msgid "Skip"
 msgstr "Überspringen"
 
 # screen_main_menu.cpp
-msgid "Local Multiplayer"
-msgstr "Local Multiplayer"
-
-# screen_main_menu.cpp
 msgid "Multiplayer"
 msgstr "Multiplayer"
 
@@ -344,7 +348,7 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 zusätzliche Buchstaben (optional):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -352,7 +356,7 @@ msgstr "Alle Levels"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Passwort (optional):""
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -827,6 +831,10 @@ msgid "Missing information. This should not happen!"
 msgstr "Es fehlt Informationen. Es sollte nicht passieren!"
 
 # renderer_types.cpp
+msgid "Dark High"
+msgstr "Dunkel"
+
+# renderer_types.cpp
 msgid "High"
 msgstr "Hoch"
 
@@ -892,6 +900,10 @@ msgstr "Name des Levels"
 # Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Laden des Levels..."
+
+# Currently unused! This string may never be used again!
+msgid "Local Multiplayer"
+msgstr "Local Multiplayer"
 
 # Currently unused! This string may never be used again!
 msgid "More information"

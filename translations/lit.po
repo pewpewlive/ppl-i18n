@@ -214,6 +214,14 @@ msgstr "Įkėlimas sėkmingas"
 msgid "Uploading replay for %s."
 msgstr "Įkeliamas pakartojimas %s lygiui."
 
+# screen_career.cpp
+msgid "Career"
+msgstr ""
+
+# screen_career.cpp
+msgid "Medals: %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Konfigūruoti klaviatūrą"
@@ -285,10 +293,6 @@ msgstr "pasaulis"
 # screen_benchmark.cpp
 msgid "Skip"
 msgstr "Praleisti"
-
-# screen_main_menu.cpp
-msgid "Local Multiplayer"
-msgstr "Vietinis kelių žaidėjų režimas"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -827,6 +831,10 @@ msgid "Missing information. This should not happen!"
 msgstr "Trūksta informacijos. Tai neturėtų atsitikti!"
 
 # renderer_types.cpp
+msgid "Dark High"
+msgstr ""
+
+# renderer_types.cpp
 msgid "High"
 msgstr "Aukšta"
 
@@ -894,6 +902,10 @@ msgid "Loading level..."
 msgstr "Įkeliamas lygis..."
 
 # Currently unused! This string may never be used again!
+msgid "Local Multiplayer"
+msgstr "Vietinis kelių žaidėjų režimas"
+
+# Currently unused! This string may never be used again!
 msgid "More information"
 msgstr "Daugiau informacijos"
 
@@ -932,3 +944,4 @@ msgstr "Jūs jau žaidime!"
 # Currently unused! This string may never be used again!
 msgid "You can finally code your own levels!"
 msgstr "Pagaliau galite koduoti savo lygius!"
+

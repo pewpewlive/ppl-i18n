@@ -214,6 +214,14 @@ msgstr ""
 msgid "Uploading replay for %s."
 msgstr ""
 
+# screen_career.cpp
+msgid "Career"
+msgstr ""
+
+# screen_career.cpp
+msgid "Medals: %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr ""
@@ -284,10 +292,6 @@ msgstr ""
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr ""
-
-# screen_main_menu.cpp
-msgid "Local Multiplayer"
 msgstr ""
 
 # screen_main_menu.cpp
@@ -827,6 +831,10 @@ msgid "Missing information. This should not happen!"
 msgstr ""
 
 # renderer_types.cpp
+msgid "Dark High"
+msgstr ""
+
+# renderer_types.cpp
 msgid "High"
 msgstr ""
 
@@ -853,7 +861,4 @@ msgstr ""
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr ""
-
-# The following translations are not in use anymore!
-# They are kept in case they are needed again later.
 

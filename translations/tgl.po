@@ -214,6 +214,14 @@ msgstr "Na-upload na."
 msgid "Uploading replay for %s."
 msgstr "Ina-upload ang replay para sa %s."
 
+# screen_career.cpp
+msgid "Career"
+msgstr ""
+
+# screen_career.cpp
+msgid "Medals: %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Ayos ng keyboard"
@@ -285,10 +293,6 @@ msgstr "daigdig"
 # screen_benchmark.cpp
 msgid "Skip"
 msgstr "Laktawan"
-
-# screen_main_menu.cpp
-msgid "Local Multiplayer"
-msgstr "Lokal na Multiplayer"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -827,6 +831,10 @@ msgid "Missing information. This should not happen!"
 msgstr "May nawawala. Hindi pwedeng mangyari 'to!"
 
 # renderer_types.cpp
+msgid "Dark High"
+msgstr ""
+
+# renderer_types.cpp
 msgid "High"
 msgstr "Malinaw"
 
@@ -876,6 +884,10 @@ msgstr "Pwede gumawa ng level?"
 # Currently unused! This string may never be used again!
 msgid "Level name"
 msgstr "Pangalan ng level"
+
+# Currently unused! This string may never be used again!
+msgid "Local Multiplayer"
+msgstr "Lokal na Multiplayer"
 
 # Currently unused! This string may never be used again!
 msgid "More information"

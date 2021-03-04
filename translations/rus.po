@@ -214,6 +214,14 @@ msgstr "Результаты отправлены."
 msgid "Uploading replay for %s."
 msgstr "Загрузка результатов от %s."
 
+# screen_career.cpp
+msgid "Career"
+msgstr ""
+
+# screen_career.cpp
+msgid "Medals: %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Настройка клавиатуры"
@@ -285,10 +293,6 @@ msgstr "мировые"
 # screen_benchmark.cpp
 msgid "Skip"
 msgstr "Пропустить"
-
-# screen_main_menu.cpp
-msgid "Local Multiplayer"
-msgstr "LAN Мультиплеер"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -827,6 +831,10 @@ msgid "Missing information. This should not happen!"
 msgstr "Отсутствует информация. Так не должно быть!"
 
 # renderer_types.cpp
+msgid "Dark High"
+msgstr ""
+
+# renderer_types.cpp
 msgid "High"
 msgstr "Высокий"
 
@@ -892,6 +900,10 @@ msgstr "Уровень"
 # Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Загрузка уровня..."
+
+# Currently unused! This string may never be used again!
+msgid "Local Multiplayer"
+msgstr "LAN Мультиплеер"
 
 # Currently unused! This string may never be used again!
 msgid "More information"

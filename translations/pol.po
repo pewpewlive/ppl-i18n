@@ -214,6 +214,14 @@ msgstr "Przesłanie powiodło się"
 msgid "Uploading replay for %s."
 msgstr "Przesyłanie powtórki dla %s."
 
+# screen_career.cpp
+msgid "Career"
+msgstr ""
+
+# screen_career.cpp
+msgid "Medals: %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Konfiguruj klawiaturę"
@@ -285,10 +293,6 @@ msgstr "Świat"
 # screen_benchmark.cpp
 msgid "Skip"
 msgstr "Pomiń"
-
-# screen_main_menu.cpp
-msgid "Local Multiplayer"
-msgstr "Tryb Lokalnej gry Wieloosobowej"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -827,6 +831,10 @@ msgid "Missing information. This should not happen!"
 msgstr "Brakuje informacji. To nie powinno się zdarzyć!"
 
 # renderer_types.cpp
+msgid "Dark High"
+msgstr ""
+
+# renderer_types.cpp
 msgid "High"
 msgstr "Wysokie"
 
@@ -892,6 +900,10 @@ msgstr "Nazwa poziomu"
 # Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Ładowanie poziomu"
+
+# Currently unused! This string may never be used again!
+msgid "Local Multiplayer"
+msgstr "Tryb Lokalnej gry Wieloosobowej"
 
 # Currently unused! This string may never be used again!
 msgid "More information"

@@ -214,6 +214,14 @@ msgstr "Se ha subido correctamente"
 msgid "Uploading replay for %s."
 msgstr "Subiendo partida de %s."
 
+# screen_career.cpp
+msgid "Career"
+msgstr ""
+
+# screen_career.cpp
+msgid "Medals: %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Configurar teclado"
@@ -285,10 +293,6 @@ msgstr "Mundial"
 # screen_benchmark.cpp
 msgid "Skip"
 msgstr "Omitir"
-
-# screen_main_menu.cpp
-msgid "Local Multiplayer"
-msgstr "Multijugador Local"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -827,6 +831,10 @@ msgid "Missing information. This should not happen!"
 msgstr "Falta información. ¡Esto no debería ocurrir!"
 
 # renderer_types.cpp
+msgid "Dark High"
+msgstr ""
+
+# renderer_types.cpp
 msgid "High"
 msgstr "Alto"
 
@@ -892,6 +900,10 @@ msgstr "Nombre del nivel"
 # Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Cargando nivel..."
+
+# Currently unused! This string may never be used again!
+msgid "Local Multiplayer"
+msgstr "Multijugador Local"
 
 # Currently unused! This string may never be used again!
 msgid "More information"

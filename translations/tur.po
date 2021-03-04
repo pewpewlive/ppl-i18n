@@ -214,6 +214,14 @@ msgstr "Yükleme başarılı"
 msgid "Uploading replay for %s."
 msgstr "%s için tekrarlamalar yükleniyor."
 
+# screen_career.cpp
+msgid "Career"
+msgstr ""
+
+# screen_career.cpp
+msgid "Medals: %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Klaviyeyi düzenle"
@@ -285,10 +293,6 @@ msgstr "dünya"
 # screen_benchmark.cpp
 msgid "Skip"
 msgstr "Geç"
-
-# screen_main_menu.cpp
-msgid "Local Multiplayer"
-msgstr "Yerel çok oyunculu"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -827,6 +831,10 @@ msgid "Missing information. This should not happen!"
 msgstr "Bilgi eksikliği. Bu durum gerçekleşmemeli!"
 
 # renderer_types.cpp
+msgid "Dark High"
+msgstr ""
+
+# renderer_types.cpp
 msgid "High"
 msgstr "Yüksek"
 
@@ -892,6 +900,10 @@ msgstr "Harita adı"
 # Currently unused! This string may never be used again!
 msgid "Loading level..."
 msgstr "Harita yükleniyor..."
+
+# Currently unused! This string may never be used again!
+msgid "Local Multiplayer"
+msgstr "Yerel çok oyunculu"
 
 # Currently unused! This string may never be used again!
 msgid "More information"
