@@ -216,11 +216,11 @@ msgstr "Prijenos snimke za %s."
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Karijera"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Medalje: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -832,7 +832,7 @@ msgstr "Nedostaje informacija. Ovo se ne bih trebalo dogoditi!"
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr ""
+msgstr "Tamno Visoko"
 
 # renderer_types.cpp
 msgid "High"
