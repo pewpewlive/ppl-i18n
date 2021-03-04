@@ -356,7 +356,7 @@ msgstr "Alle Levels"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr "Passwort (optional):""
+msgstr "Passwort (optional):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
