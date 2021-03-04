@@ -216,11 +216,11 @@ msgstr "Завантаження повтора %s."
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Кар'єра"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Медалі: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
