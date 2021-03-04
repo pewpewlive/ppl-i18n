@@ -1,157 +1,170 @@
 [
   {
-    "lang": "deu",
-    "translators": [
+    "lang":"deu",
+    "translators":[
       {
-        "name": "Lithium",
-        "color": "0x00ff00ff"
+        "name":"Lithium",
+        "color":"0x00ff00ff"
       }
     ]
   },
   {
-    "lang": "eng",
-    "translators": [
+    "lang":"eng",
+    "translators":[
       {
-        "name": "JF",
-        "color": "0x0080ffff"
+        "name":"JF",
+        "color":"0x0080ffff"
       }
     ]
   },
   {
-    "lang": "fra",
-    "translators": [
+    "lang":"fra",
+    "translators":[
       {
-        "name": "Lithium",
-        "color": "0x00ff00ff"
+        "name":"Lithium",
+        "color":"0x00ff00ff"
       },
       {
-        "name": "JF",
-        "color": "0x0080ffff"
-      }
-    ]
-  },{
-    "lang": "hrv",
-    "translators": [
-      {
-        "name": "BlankEra",
-        "color": "0x800000ff"
-      }
-    ]
-  },{
-    "lang": "ind",
-    "translators": [
-      {
-        "name": "Orange",
-        "color": "0xffa500ff"
-      }
-    ]
-  },{
-    "lang": "ita",
-    "translators": [
-      {
-        "name": "Simoubuntu",
-        "color": "0xffffffff"
-      }
-    ]
-  },{
-    "lang": "jpn",
-    "translators": [
-      {
-        "name": "AMPHASHx2109",
-        "color": "0x7636c6ff"
-      }
-    ]
-  },{
-    "lang": "lit",
-    "translators": [
-      {
-        "name": "SKPG-Tech",
-        "color": "0x0000ffff"
-      },
-      {
-        "name": "Tasty Kiwi",
-        "color": "0x7cf113ff"
+        "name":"JF",
+        "color":"0x0080ffff"
       }
     ]
   },
   {
-    "lang": "meme",
-    "translators": [
+    "lang":"hrv",
+    "translators":[
       {
-        "name": "Flavour",
-        "color": "0x00ff00ff"
+        "name":"BlankEra",
+        "color":"0x800000ff"
+      }
+    ]
+  },
+  {
+    "lang":"ind",
+    "translators":[
+      {
+        "name":"Orange",
+        "color":"0xffa500ff"
+      }
+    ]
+  },
+  {
+    "lang":"ita",
+    "translators":[
+      {
+        "name":"Simoubuntu",
+        "color":"0xffffffff"
+      }
+    ]
+  },
+  {
+    "lang":"jpn",
+    "translators":[
+      {
+        "name":"AMPHASHx2109",
+        "color":"0x7636c6ff"
+      }
+    ]
+  },
+  {
+    "lang":"lit",
+    "translators":[
+      {
+        "name":"SKPG-Tech",
+        "color":"0x0000ffff"
       },
       {
-        "name": "BlankEra",
-        "color": "0x800000ff"
+        "name":"Tasty Kiwi",
+        "color":"0x7cf113ff"
       }
     ]
-  },{
-    "lang": "pol",
-    "translators": [
+  },
+  {
+    "lang":"meme",
+    "translators":[
       {
-        "name": "Fracix",
-        "color": "0x0300faff"
-      }
-    ]
-  },{
-    "lang": "por",
-    "translators": [
-      {
-        "name": "MaxXP",
-        "color": "0xffffffff"
-      }
-    ]
-  },{
-    "lang": "ron",
-    "translators": [
-      {
-        "name": "tavitu",
-        "color": "0x0000ffff"
-      }
-    ]
-  },{
-    "lang": "rus",
-    "translators": [
-      {
-        "name": "neoncube",
-        "color": "0x9000ffff"
-      }
-    ]
-  },{
-    "lang": "spa",
-    "translators": [
-      {
-        "name": "Angel-24",
-        "color": "0xff9900ff"
-      }
-    ]
-  },{
-    "lang": "tgl",
-    "translators": [
-      {
-        "name": "noobie213",
-        "color": "0x7f0061ff"
-      }
-    ]
-  },{
-    "lang": "tur",
-    "translators": [
-      {
-        "name": "kajxqeirscl",
-        "color": "0xffffffff"
-      }
-    ]
-  },{
-    "lang": "ukr",
-    "translators": [
-      {
-        "name": "Quarlify",
-        "color": "0x8a2be2ff"
+        "name":"Flavour",
+        "color":"0x00ff00ff"
       },
       {
-        "name": "Foch",
-        "color": "0x7cf113ff"
+        "name":"BlankEra",
+        "color":"0x800000ff"
+      }
+    ]
+  },
+  {
+    "lang":"pol",
+    "translators":[
+      {
+        "name":"Fracix",
+        "color":"0x0300faff"
+      }
+    ]
+  },
+  {
+    "lang":"por",
+    "translators":[
+      {
+        "name":"MaxXP",
+        "color":"0xffffffff"
+      }
+    ]
+  },
+  {
+    "lang":"ron",
+    "translators":[
+      {
+        "name":"tavitu",
+        "color":"0x0000ffff"
+      }
+    ]
+  },
+  {
+    "lang":"rus",
+    "translators":[
+      {
+        "name":"neoncube",
+        "color":"0x9000ffff"
+      }
+    ]
+  },
+  {
+    "lang":"spa",
+    "translators":[
+      {
+        "name":"Angel-24",
+        "color":"0xff9900ff"
+      }
+    ]
+  },
+  {
+    "lang":"tgl",
+    "translators":[
+      {
+        "name":"noobie213",
+        "color":"0x7f0061ff"
+      }
+    ]
+  },
+  {
+    "lang":"tur",
+    "translators":[
+      {
+        "name":"kajxqeirscl",
+        "color":"0xffffffff"
+      }
+    ]
+  },
+  {
+    "lang":"ukr",
+    "translators":[
+      {
+        "name":"Quarlify",
+        "color":"0x8a2be2ff"
+      },
+      {
+        "name":"Foch",
+        "color":"0x7cf113ff"
       }
     ]
   }
