@@ -128,7 +128,7 @@ msgstr "Homies sapping your WiFi down to play"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Pick a multihomie type"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -216,11 +216,11 @@ msgstr "%s is asserting dominance..."
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Skill-o-meter"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Shiny bois: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -348,7 +348,7 @@ msgstr "Learnin'"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 extra squiggly lines (optional):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -356,7 +356,7 @@ msgstr "All's fair game"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Sekret code (optional):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -832,7 +832,7 @@ msgstr "Ayo where's the info"
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr ""
+msgstr "High but cooler"
 
 # renderer_types.cpp
 msgid "High"
