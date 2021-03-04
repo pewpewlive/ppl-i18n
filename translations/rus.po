@@ -216,11 +216,11 @@ msgstr "Загрузка результатов от %s."
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Карьера"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Медали: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -832,7 +832,7 @@ msgstr "Отсутствует информация. Так не должно б
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr ""
+msgstr "Тёмный Высокий"
 
 # renderer_types.cpp
 msgid "High"
