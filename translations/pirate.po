@@ -80,11 +80,11 @@ msgstr "Lower thi gankplank!"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
-msgstr ""
+msgstr "location:"
 
 # screen_specify_server_ip.cpp
-msgid "Port:"
-msgstr ""
+msgid "Port:
+msgstr "Port:"
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
@@ -112,11 +112,11 @@ msgstr ""
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "Local Duel"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Lets show our gold to them"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
@@ -124,7 +124,7 @@ msgstr "Have fun wit' pirate in the 7 seas!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Battle with Ye're crew here!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
@@ -140,7 +140,7 @@ msgstr "Get to thi land"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr ""
+msgstr "Psstt, try pirating Yer friend's hotspot!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
@@ -148,7 +148,7 @@ msgstr "Make a crew"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "All crew have to burried their treasure to show yer gold to the world"
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
@@ -156,15 +156,15 @@ msgstr "Ye're need a favour?"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr ""
+msgstr "Local Duel"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "Local duel need 2 sailor Ye're bratt, and don't tell me you forget how!"
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr ""
+msgstr "How i do this?"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
@@ -216,19 +216,19 @@ msgstr ""
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Life in the sea"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Doubloons: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr ""
+msgstr "Get this fancy ship thi ol' way!"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "Clicky thing aim %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
@@ -240,7 +240,7 @@ msgstr "Fire!"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Look again"
 
 # screen_settings_language.cpp
 msgid "Contributors"
@@ -248,7 +248,7 @@ msgstr "Scallywags"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr ""
+msgstr "What talky?"
 
 # screen_settings_language.cpp
 msgid "Help out"
@@ -256,7 +256,7 @@ msgstr "Give us a favour here!"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
-msgstr ""
+msgstr "Fix yer mouth"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
@@ -272,11 +272,11 @@ msgstr "Duel"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr ""
+msgstr "3 way"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr ""
+msgstr "Crew"
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -308,7 +308,7 @@ msgstr "Sailor man"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr ""
+msgstr "Making crew"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
@@ -352,19 +352,19 @@ msgstr ""
 
 # screen_online_configure_room.cpp
 msgid "Any level"
-msgstr "Whatever"
+msgstr "Any duel"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Magic word (if ye want):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr ""
+msgstr "Duel rules"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
-msgstr ""
+msgstr "Battle name: %s"
 
 # screen_informations_music.cpp
 msgid "Music"
@@ -380,7 +380,7 @@ msgstr "cant reach thi pier"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
-msgstr ""
+msgstr "Wind sound"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
@@ -400,7 +400,7 @@ msgstr ""
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr ""
+msgstr "What is this ship?"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
@@ -412,15 +412,15 @@ msgstr "Pirate ship"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
-msgstr ""
+msgstr "Testing by the monkey"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr ""
+msgstr "Ship tested by monkey"
 
 # screen_select_single_player_level.cpp
 msgid "IN REVIEW"
-msgstr ""
+msgstr "Let see..."
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
@@ -436,11 +436,11 @@ msgstr "Navy ship"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr ""
+msgstr "Something isn't right.."
 
 # screen_view_level.cpp
 msgid "Experimental level"
-msgstr ""
+msgstr "Monkey tester"
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
@@ -452,11 +452,11 @@ msgstr "Hmmm..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr ""
+msgstr "Man stand alone: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr ""
+msgstr "The Bravefull: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
@@ -464,11 +464,11 @@ msgstr "Get thi sail rigt'"
 
 # screen_settings_controls.cpp
 msgid "Keyboard"
-msgstr ""
+msgstr "Steering board"
 
 # screen_settings_controls.cpp
 msgid "Touchscreen"
-msgstr ""
+msgstr "Touchy Steering"
 
 # screen_informations.cpp
 msgid "Development videos"
@@ -516,7 +516,7 @@ msgstr ""
 
 # screen_settings.cpp
 msgid "Vibration %s"
-msgstr ""
+msgstr "Waves %s"
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
@@ -524,7 +524,7 @@ msgstr "Man's decision"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
-msgstr ""
+msgstr "Local battle"
 
 # screen_multiplayer_lobby.cpp
 msgid "Online lobby"
@@ -748,7 +748,7 @@ msgstr "%s abandoning ship"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "Ye're aim: %s"
 
 # game_state.cpp
 msgid "N/A"
@@ -768,7 +768,7 @@ msgstr "Davy Jones's locker"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "Believe green, no dont go to red ye..."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
@@ -776,7 +776,7 @@ msgstr "Half time pure skills"
 
 # game_levels.cpp
 msgid "My favorite mode"
-msgstr ""
+msgstr "ahg, me favorite!"
 
 # game_levels.cpp
 msgid "Never trust a six-sided polygon"
