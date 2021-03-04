@@ -216,11 +216,11 @@ msgstr "Įkeliamas pakartojimas %s lygiui."
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Karjera"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Medaliai: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -832,7 +832,7 @@ msgstr "Trūksta informacijos. Tai neturėtų atsitikti!"
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr ""
+msgstr "Tamsiai Aukšta"
 
 # renderer_types.cpp
 msgid "High"
