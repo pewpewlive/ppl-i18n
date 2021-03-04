@@ -832,7 +832,7 @@ msgstr "Відсутня інформація. Цього не мало стат
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr ""
+msgstr "Темне Високе"
 
 # renderer_types.cpp
 msgid "High"
