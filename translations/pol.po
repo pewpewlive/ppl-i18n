@@ -216,11 +216,11 @@ msgstr "Przesyłanie powtórki dla %s."
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Kariera"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Medale: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -764,7 +764,7 @@ msgstr "Unikaj wszystkiego i będzie OK"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr "Przestrzeń euklidejska jest zbyt doceniana"
+msgstr "Euclidean space jest zbyt doceniany"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
@@ -832,7 +832,7 @@ msgstr "Brakuje informacji. To nie powinno się zdarzyć!"
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr ""
+msgstr "Ciemny Wysoki"
 
 # renderer_types.cpp
 msgid "High"
