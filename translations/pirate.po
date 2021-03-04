@@ -83,7 +83,7 @@ msgid "IP:"
 msgstr "location:"
 
 # screen_specify_server_ip.cpp
-msgid "Port:
+msgid "Port:"
 msgstr "Port:"
 
 # screen_online_enter_password.cpp
