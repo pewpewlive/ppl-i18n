@@ -216,11 +216,11 @@ msgstr "Se postează scorul pentru %s."
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Carieră"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Medalii: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -832,11 +832,11 @@ msgstr "Informație lipsă. Nu ar trebui să se întâmple asta!"
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr ""
+msgstr "Mare Întunecat"
 
 # renderer_types.cpp
 msgid "High"
-msgstr "Mar"
+msgstr "Mare"
 
 # renderer_types.cpp
 msgid "Low"
