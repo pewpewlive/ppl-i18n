@@ -93,6 +93,15 @@
     ]
   },
   {
+    "lang":"pirate",
+    "translators":[
+      {
+        "name":"Backbeard",
+        "color":"0xffffff80"
+      },
+    ]
+  },
+  {
     "lang":"pol",
     "translators":[
       {
