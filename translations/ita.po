@@ -832,35 +832,35 @@ msgstr "Informazioni mancanti. Questo non dovrebbe accadere!"
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr "Alto dark"
+msgstr "Alta scura"
 
 # renderer_types.cpp
 msgid "High"
-msgstr "Alto"
+msgstr "Alta"
 
 # renderer_types.cpp
 msgid "Low"
-msgstr "Basso"
+msgstr "Bassa"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr "Medio"
+msgstr "Media"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr "Ultra basso 16x"
+msgstr "Ultra bassa 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr "Ultra basso 32x"
+msgstr "Ultra bassa 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr "Ultra basso 4x"
+msgstr "Ultra bassa 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr "Ultra basso 8x"
+msgstr "Ultra bassa 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
