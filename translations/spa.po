@@ -216,11 +216,11 @@ msgstr "Subiendo partida de %s."
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Trayectoria"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Medallas: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -320,7 +320,7 @@ msgstr "Contraseña incorrecta"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr "Entrando"
+msgstr "Uniéndose..."
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
@@ -380,7 +380,7 @@ msgstr "Se perdió la conexión con el servidor"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
-msgstr "Audio"
+msgstr "Ajustes de sonido"
 
 # screen_settings_audio.cpp
 msgid "Sound effects"
@@ -400,7 +400,7 @@ msgstr "Los niveles #ffff00ffOficiales#ffffffff han sido creados por mí (JF). E
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr "Sobre los niveles"
+msgstr "¿Alguna duda?"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
@@ -484,7 +484,7 @@ msgstr "de %s"
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr "Audio"
+msgstr "Sonido"
 
 # screen_settings.cpp
 msgid "Controls"
@@ -500,7 +500,7 @@ msgstr "Idioma"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr "Intro"
+msgstr "Ver Intro del juego"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
@@ -512,11 +512,11 @@ msgstr "Ajustes"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr "Tutorial"
+msgstr "Jugar el Tutorial"
 
 # screen_settings.cpp
 msgid "Vibration %s"
-msgstr "Vibración %s"
+msgstr "Vibración: %s"
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
@@ -744,7 +744,7 @@ msgstr "Escudo: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr "%s se ha ido"
+msgstr "%s ha abandonado la partida"
 
 # game_state.cpp
 msgid "Accuracy: %s"
@@ -832,7 +832,7 @@ msgstr "Falta información. ¡Esto no debería ocurrir!"
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr ""
+msgstr "Alto, pero Oscuro"
 
 # renderer_types.cpp
 msgid "High"
@@ -848,19 +848,19 @@ msgstr "Medio"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr "Ultra Bajo 16x"
+msgstr "Súper bajo 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr "Ultra Bajo 32x"
+msgstr "Extremadamente bajo 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr "Ultra bajo 4x"
+msgstr "Muy bajo 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr "Ultra bajo 8x"
+msgstr "Demasiado bajo 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
