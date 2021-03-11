@@ -108,7 +108,7 @@ msgstr "Fix Ye're deck"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr ""
+msgstr "Change station"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
@@ -168,7 +168,7 @@ msgstr "How i do this?"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "One man made a crew for man's "
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
@@ -348,7 +348,7 @@ msgstr "avast ye!"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "Alias for the crew (If ye want):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -388,15 +388,15 @@ msgstr "Wind of the sea"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "#ffff00ffCommunity#ffffffff Challenge by ye, Thi pirate"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "#ffff00ffExperimental#ffffffff Challenge is still in testing, just wait.
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "#ffff00ffOfficial#ffffffff Challenge send by the greatest, Pirate JF, ye can steal some gold."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
@@ -424,7 +424,7 @@ msgstr "Let see..."
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "Learn to make one github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
@@ -504,7 +504,7 @@ msgstr "Heave ho!"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr ""
+msgstr "Vision: %s"
 
 # screen_settings.cpp
 msgid "Settings"
@@ -512,7 +512,7 @@ msgstr ""
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr ""
+msgstr "Taught me!"
 
 # screen_settings.cpp
 msgid "Vibration %s"
@@ -784,7 +784,7 @@ msgstr "The witch don't tell the truth"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "Formerly call as assault"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
@@ -792,7 +792,7 @@ msgstr ""
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "Stay alive for a half minute, that's it"
 
 # game_levels.cpp
 msgid "The background is expensive to compute"
@@ -808,7 +808,7 @@ msgstr ""
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr ""
+msgstr "Alias Dodge this"
 
 # medals.cpp
 msgid "New bronze medal"
@@ -832,33 +832,33 @@ msgstr "Someone touched me booty! what Dirt' sailor!"
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr ""
+msgstr "Eye of an owl"
 
 # renderer_types.cpp
 msgid "High"
-msgstr ""
+msgstr "Clear vision"
 
 # renderer_types.cpp
 msgid "Low"
-msgstr ""
+msgstr "Blurry as a cow"
 
 # renderer_types.cpp
 msgid "Medium"
-msgstr ""
+msgstr "Ye had a normal eye"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "So very blurry"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "Are ye blind?"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "So Blurry."
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "Very Blurry"
 
