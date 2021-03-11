@@ -392,7 +392,7 @@ msgstr "#ffff00ffCommunity#ffffffff Challenge by ye, Thi pirate"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffExperimental#ffffffff Challenge is still in testing, just wait.
+msgstr "#ffff00ffExperimental#ffffffff Challenge is still in testing, just wait."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
