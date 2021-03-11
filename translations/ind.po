@@ -216,11 +216,11 @@ msgstr "Mengunggah replay untuk %s."
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Karir"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Medali: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -348,7 +348,7 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 ekstar huruf (Tidak harus):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -356,7 +356,7 @@ msgstr "Level apapun"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "Kata sandi (tidak harus):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -388,15 +388,15 @@ msgstr "Suara efek"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "#ffff00ffCommunity#ffffffff level yang dibuat oleh KAU, Komunitasnya."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "#ffff00ffExperimental#ffffffff level yang belum di rilis."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "#ffff00ffOfficial#ffffffff level yang dibuat oleh ku (JF), dan bisa mendapatkan medali."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
