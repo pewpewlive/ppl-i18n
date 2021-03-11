@@ -388,15 +388,15 @@ msgstr "Tunog"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "IKAW at ang komunidad ang may gawa ng mga level na pang#ffff00ffkomunidad#ffffffff."
+msgstr "Malalaro ang mga level na ginawa ng komunidad sa #ffff00ff\"pangkomunidad\"#ffffffff."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "Ang mga level na #ffff00ffexperimental#ffffffff ay ang mga level na kasalukuyang ginagawa."
+msgstr "Kung ikaw ay interesado sa mga level na kasalukuyang ginagawa ng komunidad, pindutin lamang ang #ffff00ff\"experimental\"#ffffffff."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "Ako (si JF) ang may gawa ng mga #ffff00ffopisyal#ffffffff na level, kung saan ka maaaring makakamit ng mga medalya."
+msgstr "Makikita sa #ffff00ff\"opisyal\"#ffffffff ang mga level na ginawa ng developer (ni JF), kung saan ka maaaring makakamit ng mga medalya."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
