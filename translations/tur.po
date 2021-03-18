@@ -216,11 +216,11 @@ msgstr "%s için tekrarlamalar yükleniyor."
 
 # screen_career.cpp
 msgid "Career"
-msgstr ""
+msgstr "Kariyer"
 
 # screen_career.cpp
 msgid "Medals: %s"
-msgstr ""
+msgstr "Madelyalar: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -832,7 +832,7 @@ msgstr "Bilgi eksikliği. Bu durum gerçekleşmemeli!"
 
 # renderer_types.cpp
 msgid "Dark High"
-msgstr ""
+msgstr "Karanlık Yüksek"
 
 # renderer_types.cpp
 msgid "High"
