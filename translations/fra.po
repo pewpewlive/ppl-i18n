@@ -644,7 +644,7 @@ msgstr "Confidentialité"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr "S'enregistrer"
+msgstr "Créer un compte"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
