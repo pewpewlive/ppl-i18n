@@ -42,6 +42,38 @@ msgstr "Fim de Jogo"
 msgid "Play again"
 msgstr "Jogue de novo"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Falha ao fazer contato com o servidor"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Falha ao analisar a resposta"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr "Falha ao entrar"
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr ""
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Baixando o nível..."
@@ -57,10 +89,6 @@ msgstr ""
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Falha ao autenticar"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Falha ao fazer contato com o servidor"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,11 +243,7 @@ msgid "Uploading replay for %s."
 msgstr "Enviando replay para %s."
 
 # screen_career.cpp
-msgid "Career"
-msgstr ""
-
-# screen_career.cpp
-msgid "Medals: %s"
+msgid "Statistics"
 msgstr ""
 
 # screen_configure_keyboard.cpp
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr ""
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr ""
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr ""
 
@@ -428,10 +448,6 @@ msgstr ""
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
 msgstr ""
 
 # screen_view_level.cpp
@@ -458,6 +474,14 @@ msgstr "Melhor pontuação local: %s"
 msgid "World record: %s"
 msgstr "Recorde mundial: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "por %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Configurações de Controle"
@@ -477,10 +501,6 @@ msgstr "Vídeos de desenvolvimento"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "Servidor no discord"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "por %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Todas as suas medalhas estão aqui."
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Falha ao sincronizar."
 
@@ -621,10 +645,6 @@ msgstr "Sincronizando"
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Você foi desconectado."
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Falha ao analisar a resposta do servidor"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "Sobreviva 32 segundos com este truque simples"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "O fundo é caro para calcular"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Não há nada relacionado com o \"Super Hexagon\""
 
@@ -822,33 +838,29 @@ msgstr "Nova medalha de ouro"
 msgid "New silver medal"
 msgstr "Nova medalha de prata"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Falha ao analisar a resposta"
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Informação perdida. Isso não deveria acontecer!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr ""
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Alto"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Baixo"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Médio"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "Muito baixo 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -886,8 +898,8 @@ msgid "Custom levels?!"
 msgstr "Níveis customizados?!"
 
 # Currently unused! This string may never be used again!
-msgid "Failed to sign-in!"
-msgstr "Falha ao entrar"
+msgid "Failed to parse server response"
+msgstr "Falha ao analisar a resposta do servidor"
 
 # Currently unused! This string may never be used again!
 msgid "Game is full"
@@ -904,6 +916,18 @@ msgstr "Carregando nível"
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "Local Multiplayer"
+
+# Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Baixo"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Médio"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Informação perdida. Isso não deveria acontecer!"
 
 # Currently unused! This string may never be used again!
 msgid "More information"
@@ -924,6 +948,10 @@ msgstr "Confirmação de entrada"
 # Currently unused! This string may never be used again!
 msgid "Sign-in with \"%s\"?"
 msgstr "Entrar com \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "O fundo é caro para calcular"
 
 # Currently unused! This string may never be used again!
 msgid "Translations"

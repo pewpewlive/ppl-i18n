@@ -42,6 +42,38 @@ msgstr "Game Over"
 msgid "Play again"
 msgstr "Rejouer"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Niveaux communautaires"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Echec de connexion au serveur"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Echec du parsing de la réponse du serveur"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr "Echec de l'identification"
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Niveaux officiels"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Téléchargement du niveau..."
@@ -57,10 +89,6 @@ msgstr "Erreur :("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Echec de l'authentification"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Echec de connexion au serveur"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr "Envoi des scores pour %s."
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Carrière"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Médailles: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Communauté"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Niveaux communautaires"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Expérimentaux"
 
@@ -429,10 +449,6 @@ msgstr "Plus d'infos sur github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Officiels"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Niveaux officiels"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Record personnel : %s"
 msgid "World record: %s"
 msgstr "Record mondial : %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "par %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Configuration des contrôles"
@@ -477,10 +501,6 @@ msgstr "Vidéos de développement"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "Serveur Discord"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "par %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Toutes tes médailles sont là"
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Echec de synchronisation."
 
@@ -621,10 +645,6 @@ msgstr "Synchronisation en cours"
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Tu as été déconnecté."
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Echec du parsing de la reponse du serveur"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "Vous ne croirez jamais ce qui arrive à la fin..."
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "Des triangles jaunes partout"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Non, rien à voir avec Super Hexagon"
 
@@ -822,33 +838,29 @@ msgstr "Nouvelle médaille d'or"
 msgid "New silver medal"
 msgstr "Nouvelle médaille d'argent"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Echec du parsing de la réponse du serveur"
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Manque d'informations. Ça ne devrait pas arriver!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr "Sombre"
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Haute"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Basse"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Moyenne"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "Ultra bas 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -870,6 +882,10 @@ msgid "2 extra characters:"
 msgstr "2 caractères en plus :"
 
 # Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Carrière"
+
+# Currently unused! This string may never be used again!
 msgid "Connect to..."
 msgstr "Se connecter à..."
 
@@ -886,8 +902,12 @@ msgid "Custom levels?!"
 msgstr "Des niveaux personnalisés ?!"
 
 # Currently unused! This string may never be used again!
-msgid "Failed to sign-in!"
-msgstr "Echec de l'identification"
+msgid "Dark High"
+msgstr "Sombre"
+
+# Currently unused! This string may never be used again!
+msgid "Failed to parse server response"
+msgstr "Echec du parsing de la reponse du serveur"
 
 # Currently unused! This string may never be used again!
 msgid "Game is full"
@@ -904,6 +924,22 @@ msgstr "Niveau en cours de chargement..."
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "Multi-joueur local"
+
+# Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Basse"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Médailles: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Moyenne"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Manque d'informations. Ça ne devrait pas arriver!"
 
 # Currently unused! This string may never be used again!
 msgid "More information"
@@ -924,6 +960,10 @@ msgstr "Identification réussie"
 # Currently unused! This string may never be used again!
 msgid "Sign-in with \"%s\"?"
 msgstr "S'identifier avec \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "Des triangles jaunes partout"
 
 # Currently unused! This string may never be used again!
 msgid "Translations"

@@ -42,6 +42,38 @@ msgstr "Кінець гри"
 msgid "Play again"
 msgstr "грати знову"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Рівні спільноти"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Не вийшло приєднатися до сервера"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Не вдалося проаналізувати відповідь"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Офіціальні левели"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Загрузка рівня..."
@@ -57,10 +89,6 @@ msgstr "Помилка :("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Не вийшло аутентифікаціювати"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Не вийшло приєднатися до сервера"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr "Завантаження повтора %s."
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Кар'єра"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Медалі: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Спільнота"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Рівні спільноти"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Експеременити"
 
@@ -429,10 +449,6 @@ msgstr "Більше інформації на github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Офіціальні"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Офіціальні левели"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Локальна найкраща оцінка: %s"
 msgid "World record: %s"
 msgstr "Рекорд світу: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "Від %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Налаштування керування"
@@ -477,10 +501,6 @@ msgstr "Відео розробки"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "Сервер Діскорду"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "Від %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Усі твої медалі тут."
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Не вдалося синхронізувати."
 
@@ -621,10 +645,6 @@ msgstr "Синхронізування"
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Ви зайшли."
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Не вдалося проаналізувати відповідь сервера"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "Виживи 32 секунди з цим простим трюком"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "Фон дорого обчислити"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Не пов'язано з \"Super Hexagon \""
 
@@ -822,33 +838,29 @@ msgstr "Нова золота медаль"
 msgid "New silver medal"
 msgstr "Нова срібна медаль"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Не вдалося проаналізувати відповідь"
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Відсутня інформація. Цього не мало статися!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr "Темне Високе"
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Висока"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Низька"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Середня"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "Дуже низька 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -870,6 +882,10 @@ msgid "2 extra characters:"
 msgstr "2 додаткових героїв"
 
 # Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Кар'єра"
+
+# Currently unused! This string may never be used again!
 msgid "Creator"
 msgstr "Створювач"
 
@@ -880,6 +896,14 @@ msgstr "Кастомні рівні"
 # Currently unused! This string may never be used again!
 msgid "Custom levels?!"
 msgstr "Кастомні рівні?!"
+
+# Currently unused! This string may never be used again!
+msgid "Dark High"
+msgstr "Темне Високе"
+
+# Currently unused! This string may never be used again!
+msgid "Failed to parse server response"
+msgstr "Не вдалося проаналізувати відповідь сервера"
 
 # Currently unused! This string may never be used again!
 msgid "Game is full"
@@ -894,12 +918,32 @@ msgid "Local Multiplayer"
 msgstr "Локальний Мультиплеєр"
 
 # Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Низька"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Медалі: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Середня"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Відсутня інформація. Цього не мало статися!"
+
+# Currently unused! This string may never be used again!
 msgid "More information"
 msgstr "Більше інформації"
 
 # Currently unused! This string may never be used again!
 msgid "Select level"
 msgstr "Вибір рівню"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "Фон дорого обчислити"
 
 # Currently unused! This string may never be used again!
 msgid "Yes!"

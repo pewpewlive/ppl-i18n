@@ -42,6 +42,38 @@ msgstr "Игра Окончена"
 msgid "Play again"
 msgstr "Начать заново"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Уровни сообщества"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Не удалось связаться с сервером."
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Не удалось получить ответ от сервера"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr "Не удалось войти."
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Официальные уровни"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Скачивание уровня..."
@@ -57,10 +89,6 @@ msgstr "Ошибка :("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Аутентификация не удалась."
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Не удалось связаться с сервером."
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr "Загрузка результатов от %s."
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Карьера"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Медали: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Сообщество"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Уровни сообщества"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Экспериментальные"
 
@@ -429,10 +449,6 @@ msgstr "Подробнее на github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Официальные"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Официальные уровни"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Личный рекорд: %s"
 msgid "World record: %s"
 msgstr "Мировой рекорд: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "от %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Настройки управления"
@@ -477,10 +501,6 @@ msgstr "YouTube"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "Сервер Discord"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "от %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Все медали сохранены."
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Не удалось синхронизироваться."
 
@@ -621,10 +645,6 @@ msgstr "Синхронизация"
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Вы вышли из аккаунта."
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Не удалось получить ответ от сервера"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "Секрет прохождения этого режима - это..."
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "Обработка фона - это сложно"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Никак не относится к \"Super Hexagon\""
 
@@ -822,33 +838,29 @@ msgstr "Новая золотая медаль"
 msgid "New silver medal"
 msgstr "Новая серебряная медаль"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Не удалось получить ответ от сервера"
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Отсутствует информация. Так не должно быть!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr "Тёмный Высокий"
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Высокий"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Низкий"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Средний"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "Пиксель 16х"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -870,6 +882,10 @@ msgid "2 extra characters:"
 msgstr "2 дополнительных символа:"
 
 # Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Карьера"
+
+# Currently unused! This string may never be used again!
 msgid "Connect to..."
 msgstr "Подключиться к..."
 
@@ -886,8 +902,12 @@ msgid "Custom levels?!"
 msgstr "Собственные уровни?!"
 
 # Currently unused! This string may never be used again!
-msgid "Failed to sign-in!"
-msgstr "Не удалось войти."
+msgid "Dark High"
+msgstr "Тёмный Высокий"
+
+# Currently unused! This string may never be used again!
+msgid "Failed to parse server response"
+msgstr "Не удалось получить ответ от сервера"
 
 # Currently unused! This string may never be used again!
 msgid "Game is full"
@@ -904,6 +924,22 @@ msgstr "Загрузка уровня..."
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "LAN Мультиплеер"
+
+# Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Низкий"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Медали: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Средний"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Отсутствует информация. Так не должно быть!"
 
 # Currently unused! This string may never be used again!
 msgid "More information"
@@ -924,6 +960,10 @@ msgstr "Подтверждение входа"
 # Currently unused! This string may never be used again!
 msgid "Sign-in with \"%s\"?"
 msgstr "Войти с \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "Обработка фона - это сложно"
 
 # Currently unused! This string may never be used again!
 msgid "Translations"

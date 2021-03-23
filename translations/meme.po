@@ -42,6 +42,38 @@ msgstr "Filthy Casual"
 msgid "Play again"
 msgstr "+1 Attempt"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Home-baked levels"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "server has denied your friend request"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Response illegible"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr "sign-in was a complete fail"
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Main-Squeeze levels"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Yoinking level..."
@@ -57,10 +89,6 @@ msgstr "Something happened :("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Lost at pong"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "server has denied your friend request"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr "%s is asserting dominance..."
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Skill-o-meter"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Shiny bois: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Home-baked"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Home-baked levels"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Half-baked"
 
@@ -429,10 +449,6 @@ msgstr "Learn ya some on github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Main-Squeeze"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Main-Squeeze levels"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Your PB: %s"
 msgid "World record: %s"
 msgstr "Top dog: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "brought to you by %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Move n' Pew properties"
@@ -477,10 +501,6 @@ msgstr "Professional Coding Master-Classes"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "The Gamer Heaven"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "brought to you by %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Shinies all accounted for"
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Synchronize: nah"
 
@@ -621,10 +645,6 @@ msgstr "Connecting four..."
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Later gamer"
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Server illegible"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "The secret to 32 seconds is-"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "90% of budget is in the background"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Definitely not inspired by Super Hexagon"
 
@@ -822,33 +838,29 @@ msgstr "YOU'VE JUST WON A MILLION POUNDS"
 msgid "New silver medal"
 msgstr "oo silver"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Response illegible"
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Ayo where's the info"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr "High but cooler"
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Elite"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "JPEG"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Casual"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "JPEG 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -870,6 +882,10 @@ msgid "2 extra characters:"
 msgstr "2-long gamer tag:"
 
 # Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Skill-o-meter"
+
+# Currently unused! This string may never be used again!
 msgid "Connect to..."
 msgstr "Mooch from..."
 
@@ -886,8 +902,12 @@ msgid "Custom levels?!"
 msgstr "Self-made shenanigans?!"
 
 # Currently unused! This string may never be used again!
-msgid "Failed to sign-in!"
-msgstr "sign-in was a complete fail"
+msgid "Dark High"
+msgstr "High but cooler"
+
+# Currently unused! This string may never be used again!
+msgid "Failed to parse server response"
+msgstr "Server illegible"
 
 # Currently unused! This string may never be used again!
 msgid "Game is full"
@@ -904,6 +924,22 @@ msgstr "Wasting internet..."
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "With the local bois"
+
+# Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "JPEG"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Shiny bois: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Casual"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Ayo where's the info"
 
 # Currently unused! This string may never be used again!
 msgid "More information"
@@ -924,6 +960,10 @@ msgstr "Confirm your Sign-in lifeline"
 # Currently unused! This string may never be used again!
 msgid "Sign-in with \"%s\"?"
 msgstr "Enter the dungeon using \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "90% of budget is in the background"
 
 # Currently unused! This string may never be used again!
 msgid "Translations"

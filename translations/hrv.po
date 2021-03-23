@@ -42,6 +42,38 @@ msgstr "Igra je gotova"
 msgid "Play again"
 msgstr "Igraj opet"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Leveli zajednice"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Neuspješno kontaktiranje servera"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Neuspješno rasčlanjivanje odgovora."
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr "Prijava neuspješna!"
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Službeni leveli"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Preuzimanje levela..."
@@ -57,10 +89,6 @@ msgstr "Greška :("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Neuspješna autentifikacija."
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Neuspješno kontaktiranje servera"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr "Prijenos snimke za %s."
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Karijera"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Medalje: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Zajednica"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Leveli zajednice"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Eksperimentalno"
 
@@ -429,10 +449,6 @@ msgstr "Više informacija na github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Službeno"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Službeni leveli"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Lokalni rekord: %s"
 msgid "World record: %s"
 msgstr "Svjetski rekord: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "od %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Postavke kontroli"
@@ -477,10 +501,6 @@ msgstr "Videi o razvoju igre"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "Discord server"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "od %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Sve vaše medalje su ovdje."
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Neuspješna sinkronizacija."
 
@@ -621,10 +645,6 @@ msgstr "Sinkroniziranje"
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Odjavljeni ste."
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Neuspješna rasčlaniranje odgovora servera."
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "Preživi 32 sekunde sa ovim jednostavnim trikom"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "Pozadina je skupa za izračunavanje"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Nije povezano sa \"Super Hexagon\""
 
@@ -822,33 +838,29 @@ msgstr "Nova zlatna medalja"
 msgid "New silver medal"
 msgstr "Nova srebrna medalja"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Neuspješno rasčlanjivanje odgovora."
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Nedostaje informacija. Ovo se ne bih trebalo dogoditi!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr "Tamno Visoko"
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Visoko"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Nisko"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Srednje"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "Ultra nisko 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -870,6 +882,10 @@ msgid "2 extra characters:"
 msgstr "2 dodatne znamenke:"
 
 # Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Karijera"
+
+# Currently unused! This string may never be used again!
 msgid "Connect to..."
 msgstr "Spoji se na..."
 
@@ -886,8 +902,12 @@ msgid "Custom levels?!"
 msgstr "Prilagođeni leveli?!"
 
 # Currently unused! This string may never be used again!
-msgid "Failed to sign-in!"
-msgstr "Prijava neuspješna!"
+msgid "Dark High"
+msgstr "Tamno Visoko"
+
+# Currently unused! This string may never be used again!
+msgid "Failed to parse server response"
+msgstr "Neuspješna rasčlaniranje odgovora servera."
 
 # Currently unused! This string may never be used again!
 msgid "Game is full"
@@ -904,6 +924,22 @@ msgstr "čitavanje levela..."
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "Lokalno više igrača"
+
+# Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Nisko"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Medalje: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Srednje"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Nedostaje informacija. Ovo se ne bih trebalo dogoditi!"
 
 # Currently unused! This string may never be used again!
 msgid "More information"
@@ -924,6 +960,10 @@ msgstr "Potvrda prijave"
 # Currently unused! This string may never be used again!
 msgid "Sign-in with \"%s\"?"
 msgstr "Prijavi se sa \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "Pozadina je skupa za izračunavanje"
 
 # Currently unused! This string may never be used again!
 msgid "Translations"

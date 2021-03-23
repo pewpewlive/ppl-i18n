@@ -42,6 +42,38 @@ msgstr "Žaidimas baigtas"
 msgid "Play again"
 msgstr "Žaisti vėl"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Bendruomenės Lygiai"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Nepavyko pasiekti serverio"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Nepavyko išanalizuoti atsakymo"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr "Nepavyko prisijungti!"
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Oficialūs Lygiai"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Atsisiunčiamas lygis ..."
@@ -57,10 +89,6 @@ msgstr "Klaida :("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Nepavyko autentifikuoti"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Nepavyko pasiekti serverio"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr "Įkeliamas pakartojimas %s lygiui."
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Karjera"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Medaliai: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Bendruomenė"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Bendruomenės Lygiai"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Ekspermentiniai"
 
@@ -429,10 +449,6 @@ msgstr "Daugiau informacijos rasite čia: github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Oficialūs"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Oficialūs Lygiai"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Vietinis rekordas: %s"
 msgid "World record: %s"
 msgstr "Pasaulinis rekordas: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "Sukūrė %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Valdymo nustatymai"
@@ -477,10 +501,6 @@ msgstr "Kurimo vaizdo įrašai"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "„Discord“ serveris"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "Sukūrė %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Visi jūsų medaliai yra čia."
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Nepavyko sinchronizuoti."
 
@@ -621,10 +645,6 @@ msgstr "Sinchronizuojama"
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Jūs esate atjungtas."
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Nepavyko išanalizuoti serverio atsakymo"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "Išgyvenkite 32 sekundes su šiuo paprastu triuku"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "Foną apskaičiuoti brangu"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Nesusijęs su \"Super Hexagon\""
 
@@ -822,33 +838,29 @@ msgstr "Naujas aukso medalis"
 msgid "New silver medal"
 msgstr "Naujas sidabro medalis"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Nepavyko išanalizuoti atsakymo"
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Trūksta informacijos. Tai neturėtų atsitikti!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr "Tamsiai Aukšta"
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Aukšta"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Žema"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Vidutinė"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "Labai žema 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -870,6 +882,10 @@ msgid "2 extra characters:"
 msgstr "Dvi papildomos raidės:"
 
 # Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Karjera"
+
+# Currently unused! This string may never be used again!
 msgid "Connect to..."
 msgstr "Prisijungti prie..."
 
@@ -886,8 +902,12 @@ msgid "Custom levels?!"
 msgstr "Kitų žmonių lygiai?!"
 
 # Currently unused! This string may never be used again!
-msgid "Failed to sign-in!"
-msgstr "Nepavyko prisijungti!"
+msgid "Dark High"
+msgstr "Tamsiai Aukšta"
+
+# Currently unused! This string may never be used again!
+msgid "Failed to parse server response"
+msgstr "Nepavyko išanalizuoti serverio atsakymo"
 
 # Currently unused! This string may never be used again!
 msgid "Game is full"
@@ -904,6 +924,22 @@ msgstr "Įkeliamas lygis..."
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "Vietinis kelių žaidėjų režimas"
+
+# Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Žema"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Medaliai: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Vidutinė"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Trūksta informacijos. Tai neturėtų atsitikti!"
 
 # Currently unused! This string may never be used again!
 msgid "More information"
@@ -924,6 +960,10 @@ msgstr "Prisijungimo patvirtinimas"
 # Currently unused! This string may never be used again!
 msgid "Sign-in with \"%s\"?"
 msgstr "Prisijungti su \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "Foną apskaičiuoti brangu"
 
 # Currently unused! This string may never be used again!
 msgid "Translations"

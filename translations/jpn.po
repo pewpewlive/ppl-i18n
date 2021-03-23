@@ -42,6 +42,38 @@ msgstr "GAME OVER"
 msgid "Play again"
 msgstr "モウイチド"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "サーバー セツゾク シッパイ"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr ""
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "レベル ダウンロードチュウ"
@@ -57,10 +89,6 @@ msgstr "エラー :("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "ニンショウ シッパイ"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "サーバー セツゾク シッパイ"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,11 +243,7 @@ msgid "Uploading replay for %s."
 msgstr "リプレイ アップロードチュウ %s"
 
 # screen_career.cpp
-msgid "Career"
-msgstr ""
-
-# screen_career.cpp
-msgid "Medals: %s"
+msgid "Statistics"
 msgstr ""
 
 # screen_configure_keyboard.cpp
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr ""
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr ""
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr ""
 
@@ -428,10 +448,6 @@ msgstr ""
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
 msgstr ""
 
 # screen_view_level.cpp
@@ -458,6 +474,14 @@ msgstr "ローカル ベスト: %s"
 msgid "World record: %s"
 msgstr "セカイキロク: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "by %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "ソウサ セッテイ"
@@ -477,10 +501,6 @@ msgstr "カイハツ エイゾウ"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "Discord サーバー"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "by %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr ""
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr ""
 
@@ -620,10 +644,6 @@ msgstr ""
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
 msgstr ""
 
 # screen_signed_out.cpp
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "シンプルニ 32ビョウ イキテミヨウ"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr ""
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "\"Super Hexagon\" トハ カンケイアリマセン"
 
@@ -822,32 +838,28 @@ msgstr "ゴールド メダル カクトク"
 msgid "New silver medal"
 msgstr "シルバー メダル カクトク"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr ""
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr ""
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr ""
-
 # renderer_types.cpp
 msgid "High"
 msgstr "タカイ"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "ヒクイ"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "マアマア"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
 msgstr ""
 
 # renderer_types.cpp
@@ -884,6 +896,14 @@ msgstr "レベルネーム"
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "ローカル マルチプレイ"
+
+# Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "ヒクイ"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "マアマア"
 
 # Currently unused! This string may never be used again!
 msgid "More information"

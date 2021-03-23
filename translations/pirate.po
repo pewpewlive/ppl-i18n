@@ -42,6 +42,38 @@ msgstr "Ship sinked!"
 msgid "Play again"
 msgstr "Ye want a rematch?"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Pirate ship"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Cant reach the ship"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Navy ship"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Pirating ship..."
@@ -57,10 +89,6 @@ msgstr "Ship Damaged! }:("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Ye're look like a landlubber"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Cant reach the ship"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr ""
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Life in the sea"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Doubloons: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Pirates"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Pirate ship"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Testing by the monkey"
 
@@ -429,10 +449,6 @@ msgstr "Learn to make one github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Naval fleet"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Navy ship"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Man stand alone: %s"
 msgid "World record: %s"
 msgstr "The Bravefull: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "Hang %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Get thi sail rigt'"
@@ -477,10 +501,6 @@ msgstr ""
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "The crew"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "Hang %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Ye're bootys here!"
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr ""
 
@@ -621,10 +645,6 @@ msgstr ""
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Man in disguise"
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr ""
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "Stay alive for a half minute, that's it"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr ""
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr ""
 
@@ -822,33 +838,29 @@ msgstr "Doubloons!!"
 msgid "New silver medal"
 msgstr "Silver bounty!"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr ""
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Someone touched me booty! what Dirt' sailor!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr "Eye of an owl"
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Clear vision"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Blurry as a cow"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Ye had a normal eye"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "So very blurry"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -861,4 +873,31 @@ msgstr "So Blurry."
 # renderer_types.cpp
 msgid "Ultra low 8x"
 msgstr "Very Blurry"
+
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+# Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Life in the sea"
+
+# Currently unused! This string may never be used again!
+msgid "Dark High"
+msgstr "Eye of an owl"
+
+# Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Blurry as a cow"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Doubloons: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Ye had a normal eye"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Someone touched me booty! what Dirt' sailor!"
 

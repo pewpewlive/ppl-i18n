@@ -42,6 +42,38 @@ msgstr "Oyun bitti"
 msgid "Play again"
 msgstr "Yeniden oyna"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Topluluk haritaları"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Sunucuya bağlantı kurmak başarısız oldu"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Yanıt almada hata oluştu"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr "Giriş yapımı gerçekleşmemiş!"
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Resmi haritalar"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Harita yükleniyor..."
@@ -57,10 +89,6 @@ msgstr "Hata :("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Eşleştirme başarısız"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Sunucuya bağlantı kurmak başarısız oldu"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr "%s için tekrarlamalar yükleniyor."
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Kariyer"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Madelyalar: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Topluluk"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Topluluk haritaları"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Deneysel"
 
@@ -429,10 +449,6 @@ msgstr "Daha fazla bilgi için github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Resmi"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Resmi haritalar"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Yerel en iyi: %s"
 msgid "World record: %s"
 msgstr "Dünya rekoru: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "kurucu %s tarafından yapılmıştır"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Kontrol Ayarları"
@@ -477,10 +501,6 @@ msgstr "Geliştirme vidyoları"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "Discord sunucusu"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "kurucu %s tarafından yapılmıştır"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Tüm madelyaların burada."
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Senkronizasyon başarısız."
 
@@ -621,10 +645,6 @@ msgstr "Senkronize ediliyor"
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Çıkış yapıldı."
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Sunucu bağlantısında hata oluşmuş"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "32 saniye boyunca hayatta kalabilirmisin?"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "Bu arka plan çok pahalı bir şeydir"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "\"Super Hexagon\" ile hiç bir alakası yok"
 
@@ -822,33 +838,29 @@ msgstr "Yeni bir altın madalya kazandınız"
 msgid "New silver medal"
 msgstr "Yeni bir gümüş madalya kazandınız"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Yanıt almada hata oluştu"
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Bilgi eksikliği. Bu durum gerçekleşmemeli!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr "Karanlık Yüksek"
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Yüksek"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Düşük"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Orta"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "Aşırı düşük x16"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -870,6 +882,10 @@ msgid "2 extra characters:"
 msgstr "2 karakter daha:"
 
 # Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Kariyer"
+
+# Currently unused! This string may never be used again!
 msgid "Connect to..."
 msgstr "...'ya bağlan"
 
@@ -886,8 +902,12 @@ msgid "Custom levels?!"
 msgstr "Özel haritalar mı?!"
 
 # Currently unused! This string may never be used again!
-msgid "Failed to sign-in!"
-msgstr "Giriş yapımı gerçekleşmemiş!"
+msgid "Dark High"
+msgstr "Karanlık Yüksek"
+
+# Currently unused! This string may never be used again!
+msgid "Failed to parse server response"
+msgstr "Sunucu bağlantısında hata oluşmuş"
 
 # Currently unused! This string may never be used again!
 msgid "Game is full"
@@ -904,6 +924,22 @@ msgstr "Harita yükleniyor..."
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "Yerel çok oyunculu"
+
+# Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Düşük"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Madelyalar: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Orta"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Bilgi eksikliği. Bu durum gerçekleşmemeli!"
 
 # Currently unused! This string may never be used again!
 msgid "More information"
@@ -924,6 +960,10 @@ msgstr "Giriş yapım onayı"
 # Currently unused! This string may never be used again!
 msgid "Sign-in with \"%s\"?"
 msgstr "ile giriş yap \"%s\"?"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "Bu arka plan çok pahalı bir şeydir"
 
 # Currently unused! This string may never be used again!
 msgid "Translations"

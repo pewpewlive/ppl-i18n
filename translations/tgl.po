@@ -42,6 +42,38 @@ msgstr "Natapos na"
 msgid "Play again"
 msgstr "Laro ulit"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Mga level ng komunidad"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Hindi makaabot sa server"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Hindi makuha ang tugon"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Mga opisyal na level"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Nagda-download..."
@@ -57,10 +89,6 @@ msgstr "May mali :("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Hindi ma-authenticate"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Hindi makaabot sa server"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr "Ina-upload ang replay para sa %s."
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Mga Nakamit"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Mga medalya: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Pangkomunidad"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Mga level ng komunidad"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Experimental"
 
@@ -429,10 +449,6 @@ msgstr "Iba pang impormasyon sa github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Opisyal"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Mga opisyal na level"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Record pansarili: %s"
 msgid "World record: %s"
 msgstr "Record pandaigdig: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "ni %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Ayos ng Controller"
@@ -477,10 +501,6 @@ msgstr "Mga video ng paggawa"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "Server ng discord"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "ni %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Nandito na ang lahat ng iyong medalya."
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Hindi ma-synchronize."
 
@@ -621,10 +645,6 @@ msgstr "Sini-synchronize"
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Nakapag-log out ka na."
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Hindi makuha ang tugon ng server"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "Manatiling buhay sa loob ng 32 segundo"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "Background lang ang nagdala"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Walang koneksyon sa \"Super Hexagon\""
 
@@ -822,33 +838,29 @@ msgstr "Nadagdagan ng gintong medalya"
 msgid "New silver medal"
 msgstr "Nadagdagan ng pilak na medalya"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Hindi makuha ang tugon"
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "May nawawala. Hindi pwedeng mangyari 'to!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr "Maaliwalas"
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Malinaw"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Malabo"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Katamtaman"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "Pinalabo ng 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -870,6 +882,10 @@ msgid "2 extra characters:"
 msgstr "2 dagdag na character:"
 
 # Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Mga Nakamit"
+
+# Currently unused! This string may never be used again!
 msgid "Creator"
 msgstr "May gawa"
 
@@ -882,6 +898,14 @@ msgid "Custom levels?!"
 msgstr "Pwede gumawa ng level?"
 
 # Currently unused! This string may never be used again!
+msgid "Dark High"
+msgstr "Maaliwalas"
+
+# Currently unused! This string may never be used again!
+msgid "Failed to parse server response"
+msgstr "Hindi makuha ang tugon ng server"
+
+# Currently unused! This string may never be used again!
 msgid "Level name"
 msgstr "Pangalan ng level"
 
@@ -890,12 +914,32 @@ msgid "Local Multiplayer"
 msgstr "Lokal na Multiplayer"
 
 # Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Malabo"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Mga medalya: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Katamtaman"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "May nawawala. Hindi pwedeng mangyari 'to!"
+
+# Currently unused! This string may never be used again!
 msgid "More information"
 msgstr "Iba pang impormasyon"
 
 # Currently unused! This string may never be used again!
 msgid "Select level"
 msgstr "Pumili ng level"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "Background lang ang nagdala"
 
 # Currently unused! This string may never be used again!
 msgid "Yes!"

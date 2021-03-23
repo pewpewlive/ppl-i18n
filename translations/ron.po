@@ -42,6 +42,38 @@ msgstr "Sfârșit de joc"
 msgid "Play again"
 msgstr "Mai joacă odată"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Nivele de comunitate"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Nu s-a putut conecta la server"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Nu s-a putut folosi răspunsul"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Nivele oficiale"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Se descarcă nivelul..."
@@ -57,10 +89,6 @@ msgstr "Eroare :("
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Nu sa putut autentifica"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Nu s-a putut conecta la server"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr "Se postează scorul pentru %s."
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Carieră"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Medalii: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Comunitate"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Nivele de comunitate"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Experimental"
 
@@ -429,10 +449,6 @@ msgstr "Mai multe informații la github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Official"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Nivele oficiale"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Recordul local: %s"
 msgid "World record: %s"
 msgstr "Recordul mondial: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "de %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Setări de Controale"
@@ -477,10 +501,6 @@ msgstr "Videoclipuri de developare"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "Server-ul de Discord"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "de %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Toate medaliile tale sunt aici."
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Nu s-a putut sincroniza."
 
@@ -621,10 +645,6 @@ msgstr "Se sincronizează"
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Ai fost deconectat."
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Nu s-a putut folosi răspunsul serverului"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "Supraviețuiește 32 de secunde cu acest tric simplu"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "Fundalul este scump de arătat"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Nu are nicio legătură cu \"Super Hexagon\""
 
@@ -822,33 +838,29 @@ msgstr "Medalie de aur nouă"
 msgid "New silver medal"
 msgstr "Medalie de argint nouă"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Nu s-a putut folosi răspunsul"
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Informație lipsă. Nu ar trebui să se întâmple asta!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr "Mare Întunecat"
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Mare"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Mic"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Medium"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "Foarte mic 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -866,6 +878,38 @@ msgstr "Foarte mic 8x"
 # They are kept in case they are needed again later.
 
 # Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Carieră"
+
+# Currently unused! This string may never be used again!
+msgid "Dark High"
+msgstr "Mare Întunecat"
+
+# Currently unused! This string may never be used again!
+msgid "Failed to parse server response"
+msgstr "Nu s-a putut folosi răspunsul serverului"
+
+# Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "Multiplayer local"
+
+# Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Mic"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Medalii: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Medium"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Informație lipsă. Nu ar trebui să se întâmple asta!"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "Fundalul este scump de arătat"
 

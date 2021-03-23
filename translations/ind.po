@@ -42,6 +42,38 @@ msgstr "Game berakhir"
 msgid "Play again"
 msgstr "Main lagi"
 
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "Level dari komunitas"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "Gagal untuk menghubungi server"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "Gagal untuk mengurai tanggapan"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "Level resmi"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr ""
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr ""
+
 # screen_download_level.cpp
 msgid "Downloading level..."
 msgstr "Mengunduh level..."
@@ -57,10 +89,6 @@ msgstr "Ada kesalahan =["
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
 msgstr "Gagal untuk Mengautentikasi"
-
-# screen_online_authenticate.cpp
-msgid "Failed to contact server"
-msgstr "Gagal untuk menghubungi server"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -215,12 +243,8 @@ msgid "Uploading replay for %s."
 msgstr "Mengunggah replay untuk %s."
 
 # screen_career.cpp
-msgid "Career"
-msgstr "Karir"
-
-# screen_career.cpp
-msgid "Medals: %s"
-msgstr "Medali: %s"
+msgid "Statistics"
+msgstr ""
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -407,10 +431,6 @@ msgid "Community"
 msgstr "Komunitas"
 
 # screen_select_single_player_level.cpp
-msgid "Community levels"
-msgstr "Level dari komunitas"
-
-# screen_select_single_player_level.cpp
 msgid "Experimental"
 msgstr "Percobaan"
 
@@ -429,10 +449,6 @@ msgstr "Lebih banyak info di github.com/jyaif/ppl-utils"
 # screen_select_single_player_level.cpp
 msgid "Official"
 msgstr "Resmi"
-
-# screen_select_single_player_level.cpp
-msgid "Official levels"
-msgstr "Level resmi"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -458,6 +474,14 @@ msgstr "Terbaik lokal: %s"
 msgid "World record: %s"
 msgstr "Rekor dunia: %s"
 
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "Oleh %s"
+
 # screen_settings_controls.cpp
 msgid "Controls Settings"
 msgstr "Pengaturan kontrol"
@@ -477,10 +501,6 @@ msgstr "Video pengembangan"
 # screen_informations.cpp
 msgid "Discord server"
 msgstr "Server discord"
-
-# screen_informations.cpp
-msgid "by %s"
-msgstr "Oleh %s"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -607,6 +627,10 @@ msgid "All your medals are here."
 msgstr "Semua medali mu disini."
 
 # screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
 msgid "Failed to synchronize."
 msgstr "Gagal untuk mensinkronisasi"
 
@@ -621,10 +645,6 @@ msgstr "Mensinkronisasikan"
 # screen_synchronize.cpp
 msgid "You've been signed out."
 msgstr "Kau telah keluar."
-
-# screen_account_url_request.cpp
-msgid "Failed to parse server response"
-msgstr "Gagal mengurai respons server"
 
 # screen_signed_out.cpp
 msgid "Account"
@@ -795,10 +815,6 @@ msgid "Survive 32 seconds with this simple trick"
 msgstr "Bertahan 32 detik dengan trik yang sederhana"
 
 # game_levels.cpp
-msgid "The background is expensive to compute"
-msgstr "Latar belakang lama untuk dihitung"
-
-# game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Tak berhubungan dengan \"Super Hexagon\""
 
@@ -822,33 +838,29 @@ msgstr "Medali emas baru"
 msgid "New silver medal"
 msgstr "Medali perak baru"
 
-# account_information.cpp
-msgid "Failed to parse response"
-msgstr "Gagal untuk mengurai tanggapan"
-
-# account_information.cpp
-msgid "Missing information. This should not happen!"
-msgstr "Informasi hilang. ini seharusnya tidak terjadi!"
-
-# renderer_types.cpp
-msgid "Dark High"
-msgstr ""
-
 # renderer_types.cpp
 msgid "High"
 msgstr "Tinggi"
 
 # renderer_types.cpp
-msgid "Low"
-msgstr "Rendah"
+msgid "High (Dark)"
+msgstr ""
 
 # renderer_types.cpp
-msgid "Medium"
-msgstr "Medium"
+msgid "Minimal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
 msgstr "Ultra rendah 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr ""
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -870,6 +882,10 @@ msgid "2 extra characters:"
 msgstr "2 karakter tambahan"
 
 # Currently unused! This string may never be used again!
+msgid "Career"
+msgstr "Karir"
+
+# Currently unused! This string may never be used again!
 msgid "Creator"
 msgstr "Pencipta"
 
@@ -880,6 +896,10 @@ msgstr "Level kustom"
 # Currently unused! This string may never be used again!
 msgid "Custom levels?!"
 msgstr "Level kustom?!"
+
+# Currently unused! This string may never be used again!
+msgid "Failed to parse server response"
+msgstr "Gagal mengurai respons server"
 
 # Currently unused! This string may never be used again!
 msgid "Game is full"
@@ -894,12 +914,32 @@ msgid "Local Multiplayer"
 msgstr "Multiplayer lokal"
 
 # Currently unused! This string may never be used again!
+msgid "Low"
+msgstr "Rendah"
+
+# Currently unused! This string may never be used again!
+msgid "Medals: %s"
+msgstr "Medali: %s"
+
+# Currently unused! This string may never be used again!
+msgid "Medium"
+msgstr "Medium"
+
+# Currently unused! This string may never be used again!
+msgid "Missing information. This should not happen!"
+msgstr "Informasi hilang. ini seharusnya tidak terjadi!"
+
+# Currently unused! This string may never be used again!
 msgid "More information"
 msgstr "Lebih banyak info"
 
 # Currently unused! This string may never be used again!
 msgid "Select level"
 msgstr "Pilih level"
+
+# Currently unused! This string may never be used again!
+msgid "The background is expensive to compute"
+msgstr "Latar belakang lama untuk dihitung"
 
 # Currently unused! This string may never be used again!
 msgid "Yes!"
