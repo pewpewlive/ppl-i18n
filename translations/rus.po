@@ -44,7 +44,7 @@ msgstr "Начать заново"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Простой"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -68,11 +68,11 @@ msgstr "Официальные уровни"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "попыток: %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "время в игре: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -244,7 +244,7 @@ msgstr "Загрузка результатов от %s."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Статистика"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -476,7 +476,7 @@ msgstr "Мировой рекорд: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "средний результат: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -628,7 +628,7 @@ msgstr "Все медали сохранены."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Не удалось загрузить резервные данные."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -844,15 +844,15 @@ msgstr "Высокий"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Высокий (Тёмный)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Минимальный"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Минимальный (Тёмный)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
@@ -860,7 +860,7 @@ msgstr "Пиксель 16х"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Пиксель 2х"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
