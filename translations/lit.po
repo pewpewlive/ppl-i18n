@@ -68,7 +68,7 @@ msgstr "Oficialūs Lygiai"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr "žaista kartų:"
+msgstr "žaista kartų: %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
