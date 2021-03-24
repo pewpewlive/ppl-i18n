@@ -44,7 +44,7 @@ msgstr "Mai joacă odată"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Casual"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -60,7 +60,7 @@ msgstr "Nu s-a putut folosi răspunsul"
 
 # shared_strings.cpp
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "Nu s-a putut conecta!"
 
 # shared_strings.cpp
 msgid "Official levels"
@@ -68,11 +68,11 @@ msgstr "Nivele oficiale"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "ai jucat nivelul de %s ori"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "timp jucat: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -628,7 +628,7 @@ msgstr "Toate medaliile tale sunt aici."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Nu s-a putut descărca backup-ul"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -844,15 +844,15 @@ msgstr "Mare"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Mare (Întunecat)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Minimal"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Minimal (Întunecat)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
@@ -860,7 +860,7 @@ msgstr "Foarte mic 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Foarte mic 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
