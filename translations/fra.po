@@ -44,7 +44,7 @@ msgstr "Rejouer"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Relaxe"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -68,11 +68,11 @@ msgstr "Niveaux officiels"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "nombre de parties: %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "temps joué: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -244,7 +244,7 @@ msgstr "Envoi des scores pour %s."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Statistiques"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -476,7 +476,7 @@ msgstr "Record mondial : %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "score moyen: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -628,7 +628,7 @@ msgstr "Toutes tes médailles sont là"
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Echec du téléchargement de la sauvegarde"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -844,35 +844,35 @@ msgstr "Haute"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Haute (Nuit)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Minimale"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Minimale (Nuit)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr "Ultra bas 16x"
+msgstr "Ultra basse 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Ultra basse 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr "Ultra bas 32x"
+msgstr "Ultra basse 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr "Ultra bas 4x"
+msgstr "Ultra basse 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr "Ultra bas 8x"
+msgstr "Ultra basse 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
