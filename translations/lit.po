@@ -44,7 +44,7 @@ msgstr "Žaisti vėl"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Paprastas"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -68,11 +68,11 @@ msgstr "Oficialūs Lygiai"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "žaista kartų:"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "žaista laiko: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -244,7 +244,7 @@ msgstr "Įkeliamas pakartojimas %s lygiui."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Statistika"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -476,7 +476,7 @@ msgstr "Pasaulinis rekordas: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "vidutinis taškų skaičius: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -552,7 +552,7 @@ msgstr "Internetinė fojė"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
-msgstr "Pasiruošti"
+msgstr "Pasiruošęs"
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
@@ -628,7 +628,7 @@ msgstr "Visi jūsų medaliai yra čia."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Nepavyko atsisiųsti atsarginės kopijos."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -844,15 +844,15 @@ msgstr "Aukšta"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Aukšta (Tamsi)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Žemiausia"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Žemiausia (Tamsi)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
@@ -860,7 +860,7 @@ msgstr "Labai žema 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Labai žema 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
@@ -979,9 +979,8 @@ msgstr "Taip!"
 
 # Currently unused! This string may never be used again!
 msgid "You are already in the game!"
-msgstr "Jūs jau žaidime!"
+msgstr "Jūs jau esate žaidime!"
 
 # Currently unused! This string may never be used again!
 msgid "You can finally code your own levels!"
-msgstr "Pagaliau galite koduoti savo lygius!"
-
+msgstr "Pagaliau galite kurti savo lygius!"
