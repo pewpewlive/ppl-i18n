@@ -68,7 +68,7 @@ msgstr "Poziomy Oficjalne"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr "Liczba zagrań &s"
+msgstr "Liczba zagrań %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
