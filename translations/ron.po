@@ -44,7 +44,7 @@ msgstr "Mai joacă odată"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr "Casual"
+msgstr "Relaxat"
 
 # shared_strings.cpp
 msgid "Community levels"
