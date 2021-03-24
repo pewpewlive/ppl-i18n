@@ -44,7 +44,7 @@ msgstr "Yeniden oyna"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Sıralamasız"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -68,11 +68,11 @@ msgstr "Resmi haritalar"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "oynama sayısı %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "oynama zamanı %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -244,7 +244,7 @@ msgstr "%s için tekrarlamalar yükleniyor."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "İstatistikler"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -476,7 +476,7 @@ msgstr "Dünya rekoru: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "ortalama skor: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -628,7 +628,7 @@ msgstr "Tüm madelyaların burada."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Yedek verileri yüklemek başarısız"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -844,15 +844,15 @@ msgstr "Yüksek"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Yüksek (Koyu)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Minimal"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Minimal (Koyu)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
@@ -860,7 +860,7 @@ msgstr "Aşırı düşük x16"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Aşırı düşük x16"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
