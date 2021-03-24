@@ -44,7 +44,7 @@ msgstr "Zagraj ponownie"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Proste"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -68,11 +68,11 @@ msgstr "Poziomy Oficjalne"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "Liczba zagrań &s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "Czas grania %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -244,7 +244,7 @@ msgstr "Przesyłanie powtórki dla %s."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Statystyki"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -476,7 +476,7 @@ msgstr "Rekord światowy: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "przeciętny wynik: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -628,7 +628,7 @@ msgstr "Tu znajdziesz wszystkie swoje medale."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Nie udało się pobrać danych kopii zapasowej"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -844,15 +844,15 @@ msgstr "Wysokie"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Wysoki (Ciemny)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Minimalny"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Minimalny (Ciemny)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
@@ -860,7 +860,7 @@ msgstr "Ultra niskie 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Ultra niski 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
