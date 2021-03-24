@@ -44,7 +44,7 @@ msgstr "Zagraj ponownie"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr "Proste"
+msgstr "Luźny"
 
 # shared_strings.cpp
 msgid "Community levels"
