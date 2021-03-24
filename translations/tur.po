@@ -860,7 +860,7 @@ msgstr "Aşırı düşük x16"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr "Aşırı düşük x16"
+msgstr "Aşırı düşük x2"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
