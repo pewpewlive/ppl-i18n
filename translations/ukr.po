@@ -44,7 +44,7 @@ msgstr "грати знову"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Звичайний"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -60,7 +60,7 @@ msgstr "Не вдалося проаналізувати відповідь"
 
 # shared_strings.cpp
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "Неполучилось заєструватись!"
 
 # shared_strings.cpp
 msgid "Official levels"
@@ -68,11 +68,11 @@ msgstr "Офіціальні левели"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "кількість ігор %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "часу зіграно: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -244,7 +244,7 @@ msgstr "Завантаження повтора %s."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Статистика"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -420,7 +420,7 @@ msgstr "#ffff00ffЕкспереметальні#ffffffff рівні ті що щ
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffОфіціальні#ffffffff рівні ті що збудовані мною (JF), і можна заробляти медалі."
+msgstr "#ffff00ffОфіціальні#ffffffff рівні ті що збудовані мною (JF), і дозволяє заробляти медалі."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
@@ -476,7 +476,7 @@ msgstr "Рекорд світу: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "середьня оцінка: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -628,7 +628,7 @@ msgstr "Усі твої медалі тут."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Неполучилось скачати резервне копіювання."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -844,15 +844,15 @@ msgstr "Висока"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Високе (Темне)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Мінімальне"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Мінімальне (Темне)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
@@ -860,7 +860,7 @@ msgstr "Дуже низька 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Дуже низька 2х"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
