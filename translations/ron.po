@@ -68,7 +68,7 @@ msgstr "Nivele oficiale"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr "ai jucat nivelul de %s ori"
+msgstr "ai jucat de %s ori"
 
 # shared_strings.cpp
 msgid "time played: %s"
