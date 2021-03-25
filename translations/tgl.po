@@ -44,7 +44,7 @@ msgstr "Laro ulit"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Simple"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -244,7 +244,7 @@ msgstr "Ina-upload ang replay para sa %s."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Istatistika"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
