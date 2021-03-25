@@ -480,7 +480,7 @@ msgstr "vidutinis taškų skaičius: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
-msgstr "Sukūrė %s"
+msgstr "sukūrė %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
@@ -848,11 +848,11 @@ msgstr "Aukšta (Tamsi)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr "Žemiausia"
+msgstr "Minimali"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr "Žemiausia (Tamsi)"
+msgstr "Minimali (Tamsi)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
