@@ -44,7 +44,7 @@ msgstr "Jugar de nuevo"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Informal"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -68,11 +68,11 @@ msgstr "Niveles oficiales"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "Partidas jugadas: %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "Tiempo jugado: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -128,7 +128,7 @@ msgstr "Contraseña:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr "Configurar joysticks"
+msgstr "Configurar botones"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
@@ -244,7 +244,7 @@ msgstr "Subiendo partida de %s."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Estadísticas"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -476,7 +476,7 @@ msgstr "Récord mundial: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "Puntuación media: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -628,7 +628,7 @@ msgstr "Aquí están todas tus medallas."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Fallo al descargar datos de respaldo"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -844,35 +844,35 @@ msgstr "Alto"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Alto (Oscuro)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Mínimo"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Mínimo (Oscuro)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr "Súper bajo 16x"
+msgstr "Extremadamente bajo 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Muy bajo 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr "Extremadamente bajo 32x"
+msgstr "No, por favor 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr "Muy bajo 4x"
+msgstr "Demasiado bajo 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr "Demasiado bajo 8x"
+msgstr "Súper bajo 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
