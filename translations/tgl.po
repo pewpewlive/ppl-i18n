@@ -60,7 +60,7 @@ msgstr "Hindi makuha ang tugon"
 
 # shared_strings.cpp
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "Hindi makapag-log in!"
 
 # shared_strings.cpp
 msgid "Official levels"
@@ -68,11 +68,11 @@ msgstr "Mga opisyal na level"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "Ilang beses nilaro?: %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "Ga'no katagal nilaro?: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -476,7 +476,7 @@ msgstr "Record pandaigdig: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "Karaniwang record: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -628,7 +628,7 @@ msgstr "Nandito na ang lahat ng iyong medalya."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Hindi makagawa ng backup para sa data"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -772,7 +772,7 @@ msgstr "Ga'no kasakto?: %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr "Wala pa"
+msgstr "Wala"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
@@ -848,7 +848,7 @@ msgstr ""
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Malabo"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
@@ -860,7 +860,7 @@ msgstr "Pinalabo ng 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Pinalabo ng 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
