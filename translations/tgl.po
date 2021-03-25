@@ -844,7 +844,7 @@ msgstr "Malinaw"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Malinaw (Pinadilim)"
 
 # renderer_types.cpp
 msgid "Minimal"
@@ -852,7 +852,7 @@ msgstr "Malabo"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Malabo (Pinadilim)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
