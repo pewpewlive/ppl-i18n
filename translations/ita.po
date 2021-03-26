@@ -68,11 +68,11 @@ msgstr "Livelli Ufficiali"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr "conteggio partite: "
+msgstr "conteggio partite: %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr "tempo di gioco: "
+msgstr "tempo di gioco: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
