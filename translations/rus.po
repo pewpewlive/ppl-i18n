@@ -844,7 +844,7 @@ msgstr "Высокий"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr "Высокий (Тёмный)"
+msgstr "Наивысший"
 
 # renderer_types.cpp
 msgid "Minimal"
@@ -852,7 +852,7 @@ msgstr "Минимальный"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr "Минимальный (Тёмный)"
+msgstr "Низкий Тёмный"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
