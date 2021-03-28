@@ -88,7 +88,7 @@ msgstr "Eroare :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr "Nu sa putut autentifica"
+msgstr "Nu s-a putut autentifica"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
@@ -144,11 +144,11 @@ msgstr "Multiplayer LAN"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr "Multiplayer"
+msgstr "Multiplayer online"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
-msgstr "Joacă-te cu persoane din lume!"
+msgstr "Joacă-te cu persoane din toată lumea!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
@@ -188,7 +188,7 @@ msgstr "Multiplayer local"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Multiplayer-ul local suportă 2 jucători conectați la aceiași rețea wifi"
+msgstr "Multiplayer-ul local suportă 2 jucători conectați la aceiași rețea wifi."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
@@ -244,7 +244,7 @@ msgstr "Se postează scorul pentru %s."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Statistici"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -356,7 +356,7 @@ msgstr "Camera nu mai există acum"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr "Camera a exprimat"
+msgstr "Camera a expirat"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
@@ -384,7 +384,7 @@ msgstr "Parolă (opțional):"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
-msgstr "Configură camera"
+msgstr "Configurația camerei"
 
 # screen_online_configure_room.cpp
 msgid "Room name: %s"
@@ -476,7 +476,7 @@ msgstr "Recordul mondial: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "scor mediu: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -512,7 +512,7 @@ msgstr "Controale"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr "Mod de developeri"
+msgstr "Mod de developare"
 
 # screen_settings.cpp
 msgid "Language"
@@ -540,7 +540,7 @@ msgstr "Vibrație %s"
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Anulează"
 
 # screen_multiplayer_lobby.cpp
 msgid "Local lobby"
@@ -604,7 +604,7 @@ msgstr "Se cere email-ul de verificare"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr "Restâetează parola"
+msgstr "Resetează parola"
 
 # screen_signin.cpp
 msgid "Sign in"
@@ -768,7 +768,7 @@ msgstr "%s a ieșit din joc"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr "Acuratețe"
+msgstr "Acuratețe: %sa"
 
 # game_state.cpp
 msgid "N/A"
