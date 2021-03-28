@@ -244,7 +244,7 @@ msgstr "Ina-upload ang replay para sa %s."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr "Istatistika"
+msgstr "Iyong Nakamit"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -372,7 +372,7 @@ msgstr "Mga turo"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr "2 dagdag na character (pwedeng laktawan):"
+msgstr "(pwedeng laktawan) 2 dagdag na character:"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -380,7 +380,7 @@ msgstr "Kahit ano"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr "Password (pwedeng laktawan):"
+msgstr "(pwedeng laktawan) Password:"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -524,7 +524,7 @@ msgstr "Panoorin ang intro"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr "Itsura: %s"
+msgstr "Detalye: %s"
 
 # screen_settings.cpp
 msgid "Settings"
@@ -840,39 +840,39 @@ msgstr "Nadagdagan ng pilak na medalya"
 
 # renderer_types.cpp
 msgid "High"
-msgstr "Malinaw"
+msgstr "Detalyado"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr "Malinaw (Pinadilim)"
+msgstr "Detalyado (Madilim)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr "Malabo"
+msgstr "Bahagya"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr "Malabo (Pinadilim)"
+msgstr "Bahagya (Madilim)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr "Pinalabo ng 16x"
+msgstr "Malabo ng 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr "Pinalabo ng 2x"
+msgstr "Malabo ng 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr "Pinalabo ng 32x"
+msgstr "Malabo ng 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr "Pinalabo ng 4x"
+msgstr "Malabo ng 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr "Pinalabo ng 8x"
+msgstr "Malabo ng 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
