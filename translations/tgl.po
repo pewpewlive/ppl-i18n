@@ -840,11 +840,11 @@ msgstr "Nadagdagan ng pilak na medalya"
 
 # renderer_types.cpp
 msgid "High"
-msgstr "Detalyado"
+msgstr "Sagad"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr "Detalyado (Madilim)"
+msgstr "Sagad (Madilim)"
 
 # renderer_types.cpp
 msgid "Minimal"
