@@ -768,7 +768,7 @@ msgstr "%s a ieșit din joc"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr "Acuratețe: %sa"
+msgstr "Acuratețe: %s"
 
 # game_state.cpp
 msgid "N/A"
