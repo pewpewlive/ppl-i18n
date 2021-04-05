@@ -524,7 +524,7 @@ msgstr "Panoorin ang intro"
 
 # screen_settings.cpp
 msgid "Renderer: %s"
-msgstr "Detalye: %s"
+msgstr "Itsura: %s"
 
 # screen_settings.cpp
 msgid "Settings"
@@ -840,39 +840,39 @@ msgstr "Nadagdagan ng pilak na medalya"
 
 # renderer_types.cpp
 msgid "High"
-msgstr "Sagad"
+msgstr "Malinaw"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr "Sagad (Madilim)"
+msgstr "Maaliwalas"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr "Bahagya"
+msgstr "Simple"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr "Bahagya (Madilim)"
+msgstr "Madilim"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr "Malabo ng 16x"
+msgstr "Pinalabo ng 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr "Malabo ng 2x"
+msgstr "Pinalabo ng 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr "Malabo ng 32x"
+msgstr "Pinalabo ng 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr "Malabo ng 4x"
+msgstr "Pinalabo ng 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr "Malabo ng 8x"
+msgstr "Pinalabo ng 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
