@@ -72,7 +72,7 @@ msgstr "ai jucat de %s ori"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr "ai jucat %s timp"
+msgstr "ai jucat %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
