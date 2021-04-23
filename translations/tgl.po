@@ -40,11 +40,11 @@ msgstr "Natapos na"
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr "Laro ulit"
+msgstr "Maglaro muli"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr "Simple"
+msgstr "Pampalipas-oras"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -332,7 +332,7 @@ msgstr "Pang-isahan"
 
 # screen_online_create_or_join_room.cpp
 msgid "Creating room"
-msgstr "Gumagawa ng room"
+msgstr "Naghahanap ng kalaro"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
@@ -416,7 +416,7 @@ msgstr "Malalaro ang mga level na ginawa ng komunidad sa #ffff00ff\"pangkomunida
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "Kung ikaw ay interesado sa mga level na kasalukuyang ginagawa ng komunidad, pindutin lamang ang #ffff00ff\"experimental\"#ffffffff."
+msgstr "Kung ikaw ay interesado sa mga level na kasalukuyang ginagawa ng komunidad, pwede mong bisitahin ang #ffff00ff\"experimental\"#ffffffff."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
