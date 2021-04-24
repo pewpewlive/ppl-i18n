@@ -804,7 +804,7 @@ msgstr "Huwag magtiwala sa hugis na may anim na gilid"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr "Unang nakilala bilang Assault"
+msgstr "Unang nakilala bilang \"Assault\""
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
@@ -824,7 +824,7 @@ msgstr "\"Totoo ba to?\" - tester"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr "Ops... Ilag!"
+msgstr "Kilala rin sa tawag na \"Dodge This\""
 
 # medals.cpp
 msgid "New bronze medal"
@@ -939,7 +939,7 @@ msgstr "Pumili ng level"
 
 # Currently unused! This string may never be used again!
 msgid "The background is expensive to compute"
-msgstr "Background lang ang nagdala"
+msgstr "Ang ganda ng background :O"
 
 # Currently unused! This string may never be used again!
 msgid "Yes!"
