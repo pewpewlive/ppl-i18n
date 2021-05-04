@@ -760,7 +760,7 @@ msgstr "Synchronizuj"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr "Tarcza: %s"
+msgstr "Tarcze: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
