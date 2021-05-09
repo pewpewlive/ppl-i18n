@@ -816,11 +816,11 @@ msgstr "Išgyvenkite 32 sekundes su šiuo paprastu triuku"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Nesusijęs su \"Super Hexagon\""
+msgstr "Nesusijęs su „Super Hexagon”"
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Šis lygis yra pokštas, tiesa?\" - testuotojas"
+msgstr "„Šis lygis yra pokštas, tiesa?” - testuotojas"
 
 # game_levels.cpp
 msgid "aka Dodge This"
