@@ -808,7 +808,7 @@ msgstr "Unang nakilala bilang \"Assault\""
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
-msgstr "GW3:Dimensions, ano na?"
+msgstr ""
 
 # game_levels.cpp
 msgid "Survive 32 seconds with this simple trick"
