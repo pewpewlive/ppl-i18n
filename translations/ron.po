@@ -816,15 +816,15 @@ msgstr "Supraviețuiește 32 de secunde cu acest tric simplu"
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Nu are nicio legătură cu \"Super Hexagon\""
+msgstr "Nu are nicio legătură cu „Super Hexagon”"
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Acest nivel este o glumă nu?\" - un tester"
+msgstr "„Acest nivel este o glumă nu?” - un tester"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr "aka Dodge This"
+msgstr "Cunoscut ca și „Dodge This”"
 
 # medals.cpp
 msgid "New bronze medal"
