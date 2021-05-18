@@ -248,7 +248,7 @@ msgstr "Statistiken"
 
 # screen_select_level_of_author.cpp
 msgid "Levels by %s"
-msgstr ""
+msgstr "Levels von %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -308,31 +308,31 @@ msgstr "4s"
 
 # screen_view_high_scores.cpp
 msgid "Africa"
-msgstr ""
+msgstr "Afrika"
 
 # screen_view_high_scores.cpp
 msgid "Asia"
-msgstr ""
+msgstr "Asien"
 
 # screen_view_high_scores.cpp
 msgid "Europe"
-msgstr ""
+msgstr "Europa"
 
 # screen_view_high_scores.cpp
 msgid "North America"
-msgstr ""
+msgstr "Nordamerika"
 
 # screen_view_high_scores.cpp
 msgid "Oceania"
-msgstr ""
+msgstr "Ozeanien"
 
 # screen_view_high_scores.cpp
 msgid "South America"
-msgstr ""
+msgstr "Südamerika"
 
 # screen_view_high_scores.cpp
 msgid "continent"
-msgstr ""
+msgstr "Kontinent"
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -444,15 +444,15 @@ msgstr "Soundseffekte"
 
 # screen_settings_audio.cpp
 msgid "Visualization"
-msgstr ""
+msgstr "Musiksynchronisation"
 
 # screen_watch_replay.cpp
 msgid "Failed to download replay."
-msgstr ""
+msgstr "Fehler beim Laden das Replay"
 
 # screen_watch_replay.cpp
 msgid "Failed to read replay."
-msgstr ""
+msgstr "Fehler beim Reden das Replay"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
@@ -804,7 +804,7 @@ msgstr "Wird geprüft..."
 
 # player_data_manager.cpp
 msgid "New personal best! %s ⇨ %s"
-msgstr ""
+msgstr "Neuen personal Rekord! %s ⇨ %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
@@ -884,7 +884,7 @@ msgstr "Neue Silber-Medaille"
 
 # renderer_types.cpp
 msgid "Compression friendly"
-msgstr ""
+msgstr "Kompressionsfreundlich"
 
 # renderer_types.cpp
 msgid "High"
