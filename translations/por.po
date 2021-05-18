@@ -246,6 +246,10 @@ msgstr "Enviando replay para %s."
 msgid "Statistics"
 msgstr ""
 
+# screen_select_level_of_author.cpp
+msgid "Levels by %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Configurar teclado"
@@ -301,6 +305,34 @@ msgstr "3p"
 # screen_view_high_scores.cpp
 msgid "4p"
 msgstr "4p"
+
+# screen_view_high_scores.cpp
+msgid "Africa"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Asia"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Europe"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "North America"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Oceania"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "South America"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "continent"
+msgstr ""
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -410,6 +442,18 @@ msgstr "Configurações do Áudio"
 msgid "Sound effects"
 msgstr "Efeitos sonoros"
 
+# screen_settings_audio.cpp
+msgid "Visualization"
+msgstr ""
+
+# screen_watch_replay.cpp
+msgid "Failed to download replay."
+msgstr ""
+
+# screen_watch_replay.cpp
+msgid "Failed to read replay."
+msgstr ""
+
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr ""
@@ -436,10 +480,6 @@ msgstr ""
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr ""
-
-# screen_select_single_player_level.cpp
-msgid "IN REVIEW"
 msgstr ""
 
 # screen_select_single_player_level.cpp
@@ -521,10 +561,6 @@ msgstr "Idioma"
 # screen_settings.cpp
 msgid "Launch intro"
 msgstr "Reproduzir Introdução"
-
-# screen_settings.cpp
-msgid "Renderer: %s"
-msgstr "Gráficos: %s"
 
 # screen_settings.cpp
 msgid "Settings"
@@ -762,6 +798,14 @@ msgstr "Sincronizar"
 msgid "Shield: %s"
 msgstr "Escudo: %s"
 
+# community_level_selector.cpp
+msgid "IN REVIEW"
+msgstr ""
+
+# player_data_manager.cpp
+msgid "New personal best! %s ⇨ %s"
+msgstr ""
+
 # game_network_message_parser.cpp
 msgid "%s left the game"
 msgstr "%s saiu do jogo"
@@ -837,6 +881,10 @@ msgstr "Nova medalha de ouro"
 # medals.cpp
 msgid "New silver medal"
 msgstr "Nova medalha de prata"
+
+# renderer_types.cpp
+msgid "Compression friendly"
+msgstr ""
 
 # renderer_types.cpp
 msgid "High"
@@ -932,6 +980,10 @@ msgstr "Informação perdida. Isso não deveria acontecer!"
 # Currently unused! This string may never be used again!
 msgid "More information"
 msgstr "Mais informações"
+
+# Currently unused! This string may never be used again!
+msgid "Renderer: %s"
+msgstr "Gráficos: %s"
 
 # Currently unused! This string may never be used again!
 msgid "Select level"

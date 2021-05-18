@@ -246,6 +246,10 @@ msgstr "Prijenos snimke za %s."
 msgid "Statistics"
 msgstr "Statistika"
 
+# screen_select_level_of_author.cpp
+msgid "Levels by %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Konfiguriraj tipkovnicu"
@@ -301,6 +305,34 @@ msgstr "3p"
 # screen_view_high_scores.cpp
 msgid "4p"
 msgstr "4p"
+
+# screen_view_high_scores.cpp
+msgid "Africa"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Asia"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Europe"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "North America"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Oceania"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "South America"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "continent"
+msgstr ""
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -410,6 +442,18 @@ msgstr "Audio postavke"
 msgid "Sound effects"
 msgstr "Zvučni efekti"
 
+# screen_settings_audio.cpp
+msgid "Visualization"
+msgstr ""
+
+# screen_watch_replay.cpp
+msgid "Failed to download replay."
+msgstr ""
+
+# screen_watch_replay.cpp
+msgid "Failed to read replay."
+msgstr ""
+
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "Levele #ffff00ffzajednice#ffffffff ste napravili VI, zajednica."
@@ -437,10 +481,6 @@ msgstr "Eksperimentalno"
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
 msgstr "Eksperimentalni leveli"
-
-# screen_select_single_player_level.cpp
-msgid "IN REVIEW"
-msgstr "U PREGLEDU"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
@@ -521,10 +561,6 @@ msgstr "Jezik"
 # screen_settings.cpp
 msgid "Launch intro"
 msgstr "Pokreni intro"
-
-# screen_settings.cpp
-msgid "Renderer: %s"
-msgstr "Renderer: %s"
 
 # screen_settings.cpp
 msgid "Settings"
@@ -762,6 +798,14 @@ msgstr "Sinkronizacija"
 msgid "Shield: %s"
 msgstr "Štit: %s"
 
+# community_level_selector.cpp
+msgid "IN REVIEW"
+msgstr "U PREGLEDU"
+
+# player_data_manager.cpp
+msgid "New personal best! %s ⇨ %s"
+msgstr ""
+
 # game_network_message_parser.cpp
 msgid "%s left the game"
 msgstr "%s je izašao iz igre"
@@ -837,6 +881,10 @@ msgstr "Nova zlatna medalja"
 # medals.cpp
 msgid "New silver medal"
 msgstr "Nova srebrna medalja"
+
+# renderer_types.cpp
+msgid "Compression friendly"
+msgstr ""
 
 # renderer_types.cpp
 msgid "High"
@@ -944,6 +992,10 @@ msgstr "Nedostaje informacija. Ovo se ne bih trebalo dogoditi!"
 # Currently unused! This string may never be used again!
 msgid "More information"
 msgstr "Više informacija"
+
+# Currently unused! This string may never be used again!
+msgid "Renderer: %s"
+msgstr "Renderer: %s"
 
 # Currently unused! This string may never be used again!
 msgid "Select level"

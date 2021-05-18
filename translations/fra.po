@@ -246,6 +246,10 @@ msgstr "Envoi des scores pour %s."
 msgid "Statistics"
 msgstr "Statistiques"
 
+# screen_select_level_of_author.cpp
+msgid "Levels by %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Configurer le clavier"
@@ -301,6 +305,34 @@ msgstr "3j"
 # screen_view_high_scores.cpp
 msgid "4p"
 msgstr "4j"
+
+# screen_view_high_scores.cpp
+msgid "Africa"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Asia"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Europe"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "North America"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Oceania"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "South America"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "continent"
+msgstr ""
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -410,6 +442,18 @@ msgstr "Paramètres audio"
 msgid "Sound effects"
 msgstr "Effets sonores"
 
+# screen_settings_audio.cpp
+msgid "Visualization"
+msgstr ""
+
+# screen_watch_replay.cpp
+msgid "Failed to download replay."
+msgstr ""
+
+# screen_watch_replay.cpp
+msgid "Failed to read replay."
+msgstr ""
+
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "Les niveaux #ffff00ffcommunautaires#ffffffff ont été créés par VOUS, la communauté."
@@ -437,10 +481,6 @@ msgstr "Expérimentaux"
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
 msgstr "Niveaux expérimentaux"
-
-# screen_select_single_player_level.cpp
-msgid "IN REVIEW"
-msgstr "EN REVUE"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
@@ -521,10 +561,6 @@ msgstr "Langue"
 # screen_settings.cpp
 msgid "Launch intro"
 msgstr "Lancer l'intro !"
-
-# screen_settings.cpp
-msgid "Renderer: %s"
-msgstr "Qualité : %s"
 
 # screen_settings.cpp
 msgid "Settings"
@@ -762,6 +798,14 @@ msgstr "Synchroniser"
 msgid "Shield: %s"
 msgstr "Bouclier: %s"
 
+# community_level_selector.cpp
+msgid "IN REVIEW"
+msgstr "EN REVUE"
+
+# player_data_manager.cpp
+msgid "New personal best! %s ⇨ %s"
+msgstr ""
+
 # game_network_message_parser.cpp
 msgid "%s left the game"
 msgstr "%s a quitté la partie"
@@ -837,6 +881,10 @@ msgstr "Nouvelle médaille d'or"
 # medals.cpp
 msgid "New silver medal"
 msgstr "Nouvelle médaille d'argent"
+
+# renderer_types.cpp
+msgid "Compression friendly"
+msgstr ""
 
 # renderer_types.cpp
 msgid "High"
@@ -944,6 +992,10 @@ msgstr "Manque d'informations. Ça ne devrait pas arriver!"
 # Currently unused! This string may never be used again!
 msgid "More information"
 msgstr "Plus d'info !"
+
+# Currently unused! This string may never be used again!
+msgid "Renderer: %s"
+msgstr "Qualité : %s"
 
 # Currently unused! This string may never be used again!
 msgid "Select level"

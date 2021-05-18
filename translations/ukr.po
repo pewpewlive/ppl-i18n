@@ -246,6 +246,10 @@ msgstr "Завантаження повтора %s."
 msgid "Statistics"
 msgstr "Статистика"
 
+# screen_select_level_of_author.cpp
+msgid "Levels by %s"
+msgstr ""
+
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
 msgstr "Налаштування клавіатури"
@@ -301,6 +305,34 @@ msgstr "3п"
 # screen_view_high_scores.cpp
 msgid "4p"
 msgstr "4п"
+
+# screen_view_high_scores.cpp
+msgid "Africa"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Asia"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Europe"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "North America"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "Oceania"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "South America"
+msgstr ""
+
+# screen_view_high_scores.cpp
+msgid "continent"
+msgstr ""
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -410,6 +442,18 @@ msgstr "Налаштування Звуку"
 msgid "Sound effects"
 msgstr "Звукові ефекти"
 
+# screen_settings_audio.cpp
+msgid "Visualization"
+msgstr ""
+
+# screen_watch_replay.cpp
+msgid "Failed to download replay."
+msgstr ""
+
+# screen_watch_replay.cpp
+msgid "Failed to read replay."
+msgstr ""
+
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "#ffff00ffСпільнота#ffffffff рівні збудовані ТОБОЮ, або іншими"
@@ -437,10 +481,6 @@ msgstr "Експеременити"
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
 msgstr "Експерементні левели"
-
-# screen_select_single_player_level.cpp
-msgid "IN REVIEW"
-msgstr "В ПЕРЕВІРЦІ"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
@@ -521,10 +561,6 @@ msgstr "Мова"
 # screen_settings.cpp
 msgid "Launch intro"
 msgstr "Запустити вступ"
-
-# screen_settings.cpp
-msgid "Renderer: %s"
-msgstr "Візуалізатор: %s"
 
 # screen_settings.cpp
 msgid "Settings"
@@ -762,6 +798,14 @@ msgstr "Синхронізувати"
 msgid "Shield: %s"
 msgstr "Щит: %s"
 
+# community_level_selector.cpp
+msgid "IN REVIEW"
+msgstr "В ПЕРЕВІРЦІ"
+
+# player_data_manager.cpp
+msgid "New personal best! %s ⇨ %s"
+msgstr ""
+
 # game_network_message_parser.cpp
 msgid "%s left the game"
 msgstr "%s покинув гру"
@@ -837,6 +881,10 @@ msgstr "Нова золота медаль"
 # medals.cpp
 msgid "New silver medal"
 msgstr "Нова срібна медаль"
+
+# renderer_types.cpp
+msgid "Compression friendly"
+msgstr ""
 
 # renderer_types.cpp
 msgid "High"
@@ -936,6 +984,10 @@ msgstr "Відсутня інформація. Цього не мало стат
 # Currently unused! This string may never be used again!
 msgid "More information"
 msgstr "Більше інформації"
+
+# Currently unused! This string may never be used again!
+msgid "Renderer: %s"
+msgstr "Візуалізатор: %s"
 
 # Currently unused! This string may never be used again!
 msgid "Select level"
