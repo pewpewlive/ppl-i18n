@@ -884,7 +884,7 @@ msgstr "Medalie de argint nouă"
 
 # renderer_types.cpp
 msgid "Compression friendly"
-msgstr "Mod de compresie"
+msgstr "Mod pentru compresie"
 
 # renderer_types.cpp
 msgid "High"
