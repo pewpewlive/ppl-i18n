@@ -804,7 +804,7 @@ msgstr "PERŽIŪROJE"
 
 # player_data_manager.cpp
 msgid "New personal best! %s ⇨ %s"
-msgstr "Naujas "
+msgstr "Naujas vietinis rekordas! %s ⇨ %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
