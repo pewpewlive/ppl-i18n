@@ -33,8 +33,8 @@ the feasibility.
 * [Portuguese](/translations/por.po) (82% complete; 45 remaining)
 * [Romanian](/translations/ron.po) (100% complete! 🎉)
 * [Russian](/translations/rus.po) (100% complete! 🎉)
-* [Spanish](/translations/spa.po) (94% complete; 13 remaining)
+* [Spanish](/translations/spa.po) (100% complete! 🎉)
 * [Tagalog](/translations/tgl.po) (94% complete; 13 remaining)
 * [Turkish](/translations/tur.po) (100% complete! 🎉)
 * [Ukrainian](/translations/ukr.po) (94% complete; 13 remaining)
-> Report generated on May 18 2021 15:48:03 UTC
+> Report generated on May 18 2021 17:17:52 UTC
