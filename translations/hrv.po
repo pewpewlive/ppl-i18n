@@ -248,7 +248,7 @@ msgstr "Statistika"
 
 # screen_select_level_of_author.cpp
 msgid "Levels by %s"
-msgstr "Level od %s"
+msgstr "Leveli od %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
