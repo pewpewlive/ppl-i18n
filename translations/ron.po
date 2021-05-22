@@ -68,11 +68,11 @@ msgstr "Nivele oficiale"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr "ai jucat de %s ori"
+msgstr "te-ai jucat de %s ori"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr "ai jucat %s"
+msgstr "te-ai jucat %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -92,7 +92,7 @@ msgstr "Nu s-a putut autentifica"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr "Este nevoie de ultima versiune a jocului."
+msgstr "Ai nevoie de ultima versiune a jocului."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -128,7 +128,7 @@ msgstr "Parola:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr "Configurează butoanele"
+msgstr "Configură butoanele"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
@@ -176,7 +176,7 @@ msgstr "Crează o cameră"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Fiecare jucător va trebui să-și posteze scorul separat ca să apară amândoi în top."
+msgstr "Fiecare jucător va trebui să-și posteze scorul separat ca să apară amândoi în top-ul online."
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
@@ -188,7 +188,7 @@ msgstr "Multiplayer local"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Multiplayer-ul local suportă 2 jucători conectați la aceiași rețea wifi."
+msgstr "Multiplayer-ul local suportă 2 jucători conectați la aceeași rețea wifi."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
@@ -380,7 +380,7 @@ msgstr "Se intră în cameră"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr "Camera e plină"
+msgstr "Camera este plină"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
@@ -404,7 +404,7 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr "2 caractere in plus (opțional):"
+msgstr "2 caractere în plus (opțional):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -488,7 +488,7 @@ msgstr "Mai multe informații la github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr "Official"
+msgstr "Oficial"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -740,7 +740,7 @@ msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr "Email-urile nu sunt la fel!"
+msgstr "Email-urile nu se potrivesc!"
 
 # screen_register.cpp
 msgid "Failed to register"
@@ -748,7 +748,7 @@ msgstr "Nu s-a putut înregistra"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr "Parolele nu sunt la fel!"
+msgstr "Parolele nu se potrivesc!"
 
 # screen_register.cpp
 msgid "Please check your emails!"
