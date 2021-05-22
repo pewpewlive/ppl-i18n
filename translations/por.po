@@ -316,7 +316,7 @@ msgstr "Ásia"
 
 # screen_view_high_scores.cpp
 msgid "Europe"
-msgstr "Europa
+msgstr "Europa"
 
 # screen_view_high_scores.cpp
 msgid "North America"
