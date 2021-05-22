@@ -413,6 +413,7 @@ msgstr "Qualquer nivel"
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
 msgstr "Senha (opcional):"
+
 # screen_online_configure_room.cpp
 msgid "Room configuration"
 msgstr "Configuração da sala"
