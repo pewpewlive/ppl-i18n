@@ -44,11 +44,11 @@ msgstr "Jogue de novo"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Casual"
 
 # shared_strings.cpp
 msgid "Community levels"
-msgstr ""
+msgstr "Níveis da comunidade"
 
 # shared_strings.cpp
 msgid "Failed to contact server"
@@ -64,15 +64,15 @@ msgstr "Falha ao entrar"
 
 # shared_strings.cpp
 msgid "Official levels"
-msgstr ""
+msgstr "Níveis oficiais"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "Vezes jogadas: %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "Tempo de jogo: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -84,7 +84,7 @@ msgstr "Autenticando..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Erro :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -92,7 +92,7 @@ msgstr "Falha ao autenticar"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "é necessário a ultima versão do jogo"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -156,7 +156,7 @@ msgstr "Jogue com pessoas na mesma rede!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Selecione o tipo de multijogador"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
@@ -244,11 +244,11 @@ msgstr "Enviando replay para %s."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Estatísticas"
 
 # screen_select_level_of_author.cpp
 msgid "Levels by %s"
-msgstr ""
+msgstr "Níveis por %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -308,31 +308,31 @@ msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "Africa"
-msgstr ""
+msgstr "África"
 
 # screen_view_high_scores.cpp
 msgid "Asia"
-msgstr ""
+msgstr "Ásia"
 
 # screen_view_high_scores.cpp
 msgid "Europe"
-msgstr ""
+msgstr "Europa
 
 # screen_view_high_scores.cpp
 msgid "North America"
-msgstr ""
+msgstr "América do norte"
 
 # screen_view_high_scores.cpp
 msgid "Oceania"
-msgstr ""
+msgstr "Oceania"
 
 # screen_view_high_scores.cpp
 msgid "South America"
-msgstr ""
+msgstr "América do sul"
 
 # screen_view_high_scores.cpp
 msgid "continent"
-msgstr ""
+msgstr "continente"
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -380,11 +380,11 @@ msgstr "Entrar na sala"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "Sala cheia"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "A sala não existe mais"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
@@ -392,11 +392,11 @@ msgstr ""
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "erro desconhecido"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Você já está em uma sala!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -412,8 +412,7 @@ msgstr "Qualquer nivel"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
-
+msgstr "Senha (opcional):"
 # screen_online_configure_room.cpp
 msgid "Room configuration"
 msgstr "Configuração da sala"
@@ -444,7 +443,7 @@ msgstr "Efeitos sonoros"
 
 # screen_settings_audio.cpp
 msgid "Visualization"
-msgstr ""
+msgstr "Visualização"
 
 # screen_watch_replay.cpp
 msgid "Failed to download replay."
@@ -452,7 +451,7 @@ msgstr ""
 
 # screen_watch_replay.cpp
 msgid "Failed to read replay."
-msgstr ""
+msgstr "Falha ao reproduzir replay."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
@@ -464,31 +463,31 @@ msgstr ""
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "#ffff00ffOfficial#ffffffff Níveis que são feitos por mim (JF), e lhe permite ganhar medalhas."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr ""
+msgstr "Sobre os níveis"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
-msgstr ""
+msgstr "Comunidade"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
-msgstr ""
+msgstr "Experimental"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr ""
+msgstr "Níveis experimentais"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "Mais informações em github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
+msgstr "Oficial"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -516,7 +515,7 @@ msgstr "Recorde mundial: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "Pontuação média: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -540,7 +539,7 @@ msgstr "Vídeos de desenvolvimento"
 
 # screen_informations.cpp
 msgid "Discord server"
-msgstr "Servidor no discord"
+msgstr "Servidor do discord"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -608,7 +607,7 @@ msgstr "Email não verificado"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr "Falha ao solicitara a redefinição da senha"
+msgstr "Falha ao solicitar a redefinição da senha"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
@@ -664,7 +663,7 @@ msgstr "Todas as suas medalhas estão aqui."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Falha ao baixar dados de backup"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -800,11 +799,11 @@ msgstr "Escudo: %s"
 
 # community_level_selector.cpp
 msgid "IN REVIEW"
-msgstr ""
+msgstr "EM REVISÃO"
 
 # player_data_manager.cpp
 msgid "New personal best! %s ⇨ %s"
-msgstr ""
+msgstr "Nova maior pontuação! %s ⇨ %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
@@ -892,7 +891,7 @@ msgstr "Alto"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Alto (Dark)"
 
 # renderer_types.cpp
 msgid "Minimal"
@@ -908,7 +907,7 @@ msgstr "Muito baixo 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Muito baixo 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
