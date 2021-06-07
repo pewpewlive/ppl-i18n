@@ -796,7 +796,7 @@ msgstr "Sincronizează"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr "Scut: %s"
+msgstr "Scuturi: %s"
 
 # community_level_selector.cpp
 msgid "IN REVIEW"
