@@ -444,7 +444,7 @@ msgstr "Tunog"
 
 # screen_settings_audio.cpp
 msgid "Visualization"
-msgstr ""
+msgstr "Pag-visualize"
 
 # screen_watch_replay.cpp
 msgid "Failed to download replay."
@@ -544,7 +544,7 @@ msgstr "Server ng discord"
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr "Tunog"
+msgstr "Audio"
 
 # screen_settings.cpp
 msgid "Controls"
