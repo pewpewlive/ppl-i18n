@@ -448,11 +448,11 @@ msgstr "ビジュアライザ"
 
 # screen_watch_replay.cpp
 msgid "Failed to download replay."
-msgstr "リプレイ ダウンロード シッパイ。"
+msgstr "リプレイ ダウンロード シッパイ"
 
 # screen_watch_replay.cpp
 msgid "Failed to read replay."
-msgstr "リプレイ ヨミコミ シッパイ。"
+msgstr "リプレイ ヨミコミ シッパイ"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
