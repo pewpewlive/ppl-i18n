@@ -44,11 +44,11 @@ msgstr "モウイチド"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "カジュアル"
 
 # shared_strings.cpp
 msgid "Community levels"
-msgstr ""
+msgstr "コミュニティ レベル"
 
 # shared_strings.cpp
 msgid "Failed to contact server"
@@ -60,19 +60,19 @@ msgstr ""
 
 # shared_strings.cpp
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "サインイン シッパイ"
 
 # shared_strings.cpp
 msgid "Official levels"
-msgstr ""
+msgstr "オフィシャル"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "プレイ シタ"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "プレイ ジカン"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -156,11 +156,11 @@ msgstr "オナジ ネットワークノ ヒトト プレイ！"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "マルチプレイ タイプ センタク"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(ミカンセイ バージョン)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
@@ -168,7 +168,7 @@ msgstr "ルームヲ トジル"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "ホットスポット セツゾク セイコウ！"
+msgstr "ホットスポット ヘノ セツゾクガ イイデショウ"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
@@ -176,7 +176,7 @@ msgstr "ルーム サクセイ"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "ミンナデ リーダーボードニ ノルニハ コベツノ リプレイ アップロードガ ヒツヨウデス"
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
@@ -244,11 +244,11 @@ msgstr "リプレイ アップロードチュウ %s"
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "キロク"
 
 # screen_select_level_of_author.cpp
 msgid "Levels by %s"
-msgstr ""
+msgstr "サクセイシャ: %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -272,7 +272,7 @@ msgstr "コウシン"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr "テイキョウシャ"
+msgstr "サンカシャ"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -308,31 +308,31 @@ msgstr "4p"
 
 # screen_view_high_scores.cpp
 msgid "Africa"
-msgstr ""
+msgstr "アフリカ"
 
 # screen_view_high_scores.cpp
 msgid "Asia"
-msgstr ""
+msgstr "アジア"
 
 # screen_view_high_scores.cpp
 msgid "Europe"
-msgstr ""
+msgstr "ヨーロッパ"
 
 # screen_view_high_scores.cpp
 msgid "North America"
-msgstr ""
+msgstr "キタ アメリカ"
 
 # screen_view_high_scores.cpp
 msgid "Oceania"
-msgstr ""
+msgstr "オセアニア"
 
 # screen_view_high_scores.cpp
 msgid "South America"
-msgstr ""
+msgstr "ミナミ アメリカ"
 
 # screen_view_high_scores.cpp
 msgid "continent"
-msgstr ""
+msgstr "タイリク"
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -340,11 +340,11 @@ msgstr "コジン"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "チイキベツ"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
+msgstr "グローバル"
 
 # screen_benchmark.cpp
 msgid "Skip"
@@ -388,7 +388,7 @@ msgstr "ルームガ アリマセン"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "ルーム キゲンギレ"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
@@ -404,7 +404,7 @@ msgstr "チュートリアル"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2モジ ツケタス (オプション)"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -412,7 +412,7 @@ msgstr "スベテノ レベル"
 
 # screen_online_configure_room.cpp
 msgid "Password (optional):"
-msgstr ""
+msgstr "パスワード (オプション)"
 
 # screen_online_configure_room.cpp
 msgid "Room configuration"
@@ -444,51 +444,51 @@ msgstr "コウカオン"
 
 # screen_settings_audio.cpp
 msgid "Visualization"
-msgstr ""
+msgstr "ビジュアライザ"
 
 # screen_watch_replay.cpp
 msgid "Failed to download replay."
-msgstr ""
+msgstr "リプレイ ダウンロード シッパイ。"
 
 # screen_watch_replay.cpp
 msgid "Failed to read replay."
-msgstr ""
+msgstr "リプレイ ヨミコミ シッパイ。"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "#ffff00ffコミュニティ#ffffffff , ツマリ キミタチガ ツクッタ レベル"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "#ffff00ffジッケンテキ#ffffffff レベル... マダ リリース サレテイナイ モノ"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "#ffff00ffオフィシャル#ffffffff レベルハ ワタシ (JF) ガ ツクッタ。 メダルヲ カクトク デキル"
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr ""
+msgstr "レベル ニ ツイテ"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
-msgstr ""
+msgstr "コミュニティ"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
-msgstr ""
+msgstr "ジッケンテキ"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr ""
+msgstr "ジッケンテキ レベル"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "クワシクハ コチラ github.com/jyaif/ppl-utils"
 
 # screen_select_single_player_level.cpp
 msgid "Official"
-msgstr ""
+msgstr "オフィシャル"
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
@@ -512,11 +512,11 @@ msgstr "ローカル ベスト: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr "セカイキロク: %s"
+msgstr "ワールド レコード: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "ヘイキン スコア"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -596,7 +596,7 @@ msgstr "ホカノ プレイヤーヲ マッテイマス..."
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "メール ヲ カクニン シテネ!"
 
 # screen_signin.cpp
 msgid "Email"
@@ -604,207 +604,207 @@ msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Email ニンショウ サレテイマセン"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "パスワード リセット リクエスト シッパイ"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Email サイソウシン シッパイ"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "パスワード リセット メールガ ソウシン サレマシタ"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "ニンショウ メール サイソウシン"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "パスワード リセットヲ リクエスト"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "パスワード リセット リクエスト チュウ"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "ニンショウ メール リクエスト チュウ"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "パスワード リセット"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "サインイン"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "サインイン ナウ"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "サインイン セイコウ!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "ニンショウ メールガ ソウシン サレマシタ"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
-msgstr ""
+msgstr "メダル ジョウホウガ ホゾン サレマシタ"
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "バックアップ データ ダウンロード シッパイ"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "シンクロナイズ シッパイ"
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "シンクロナイズ カンリョウ"
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "シンクロ チュウ"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "サインアウト シマシタ"
 
 # screen_signed_out.cpp
 msgid "Account"
-msgstr ""
+msgstr "アカウント"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "アカウントヲ サクセイシ キロクヲ ホゾン シヨウ"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "サインイン シテナイ"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "プライバシー ポリシー"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "トウロク"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "オンライン プレイ ニハ サインインガ ヒツヨウデス"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "スコア アップロード ニハ サインインガ ヒツヨウデス"
 
 # screen_signed_out.cpp
 msgid "Your account"
-msgstr ""
+msgstr "アナタノ アカウント"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Email サイニュウリョク"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Email サイニュウリョク:"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "パスワード サイニュウリョク"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "パスワード サイニュウリョク:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Email ガ ムコウデス"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Email イッチ シマセン"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "トウロク シッパイ"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "パスワード イッチ シマセン"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Emailヲ チェック シテクダサイ!"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "アカウント トウロク"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "トウロクチュウ"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "トウロク セイコウ"
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "ナガスギル。サイダイ %s モジ マデ"
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "ミジカイ。%s モジ イジョウ"
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "ユーザーネーム"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "ユーザーネーム (イロガ ツケラレル!)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "オンライン プロフィール"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "サインアウト"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "シンクロナイズ"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr ""
+msgstr "シールド: %s"
 
 # community_level_selector.cpp
 msgid "IN REVIEW"
-msgstr ""
+msgstr "レビューチュウ"
 
 # player_data_manager.cpp
 msgid "New personal best! %s ⇨ %s"
-msgstr ""
+msgstr "シンキロク! %s ⇨ %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
@@ -828,7 +828,7 @@ msgstr "スベテ ヨケレバイイ"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
-msgstr "ユークリッド ウチュウハ ヒョウカサレスギダ"
+msgstr "ユークリッド クウカンハ ヒョウカサレスギダ"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
@@ -848,7 +848,7 @@ msgstr "ロクメン ポリゴンヲ シンジルナ"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr "アサルト ソウ ヨバレテイル"
+msgstr "アサルト... ソウ ヨバレテイル"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
@@ -868,7 +868,7 @@ msgstr "\"コレ ジョウダン デショ？\" - テスター"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr ""
+msgstr "\"ヨケロ\" トモ イワレル"
 
 # medals.cpp
 msgid "New bronze medal"
@@ -884,43 +884,43 @@ msgstr "シルバー メダル カクトク"
 
 # renderer_types.cpp
 msgid "Compression friendly"
-msgstr ""
+msgstr "コンパクト"
 
 # renderer_types.cpp
 msgid "High"
-msgstr "タカイ"
+msgstr "キレイ"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "キレイ (ダーク)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "ミニマル"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "ミニマル (ダーク)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "レトロ 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "レトロ 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "レトロ 32x"
 
 # renderer_types.cpp
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "レトロ 4x"
 
 # renderer_types.cpp
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "レトロ 8x"
 
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
