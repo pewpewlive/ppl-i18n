@@ -160,7 +160,7 @@ msgstr "マルチプレイ タイプ センタク"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr "(ミカンセイ バージョン)"
+msgstr "(ゴカンセイ ナシ バージョン)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
