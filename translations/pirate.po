@@ -56,7 +56,7 @@ msgstr "Cant reach the ship"
 
 # shared_strings.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "We're not receive parse"
 
 # shared_strings.cpp
 msgid "Failed to sign-in!"
@@ -240,7 +240,7 @@ msgstr "Treasure buried"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "Keeping your sailtime in %s."
 
 # screen_career.cpp
 msgid "Statistics"
@@ -248,7 +248,7 @@ msgstr ""
 
 # screen_select_level_of_author.cpp
 msgid "Levels by %s"
-msgstr ""
+msgstr "Build 'er %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -312,27 +312,27 @@ msgstr ""
 
 # screen_view_high_scores.cpp
 msgid "Asia"
-msgstr ""
+msgstr "Asia"
 
 # screen_view_high_scores.cpp
 msgid "Europe"
-msgstr ""
+msgstr "Europe"
 
 # screen_view_high_scores.cpp
 msgid "North America"
-msgstr ""
+msgstr "North America"
 
 # screen_view_high_scores.cpp
 msgid "Oceania"
-msgstr ""
+msgstr "Oceania"
 
 # screen_view_high_scores.cpp
 msgid "South America"
-msgstr ""
+msgstr "South America"
 
 # screen_view_high_scores.cpp
 msgid "continent"
-msgstr ""
+msgstr "Sum big land"
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -444,15 +444,15 @@ msgstr "Wind of the sea"
 
 # screen_settings_audio.cpp
 msgid "Visualization"
-msgstr ""
+msgstr "Looking eye"
 
 # screen_watch_replay.cpp
 msgid "Failed to download replay."
-msgstr ""
+msgstr "Failed to rob thi replay."
 
 # screen_watch_replay.cpp
 msgid "Failed to read replay."
-msgstr ""
+msgstr "hm, what is this replay?."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
@@ -516,7 +516,7 @@ msgstr "The Bravefull: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "Most points pirates got: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -564,7 +564,7 @@ msgstr "Heave ho!"
 
 # screen_settings.cpp
 msgid "Settings"
-msgstr ""
+msgstr "Fixer"
 
 # screen_settings.cpp
 msgid "Start tutorial"
@@ -892,15 +892,15 @@ msgstr "Clear vision"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Dark vision"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Simpleton"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Dark Simpleton"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
@@ -908,7 +908,7 @@ msgstr "So very blurry"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Me blurred"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
