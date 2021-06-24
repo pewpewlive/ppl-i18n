@@ -44,7 +44,7 @@ msgstr "+1 Attempt"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "Chad game"
 
 # shared_strings.cpp
 msgid "Community levels"
@@ -68,11 +68,11 @@ msgstr "Main-Squeeze levels"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "Ded count: %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "Suffering for: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -244,11 +244,11 @@ msgstr "%s is asserting dominance..."
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "Number and stuff"
 
 # screen_select_level_of_author.cpp
 msgid "Levels by %s"
-msgstr ""
+msgstr "Not made by %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -332,7 +332,7 @@ msgstr ""
 
 # screen_view_high_scores.cpp
 msgid "continent"
-msgstr ""
+msgstr "Large mass of land"
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -444,15 +444,15 @@ msgstr "Tune effects"
 
 # screen_settings_audio.cpp
 msgid "Visualization"
-msgstr ""
+msgstr "Gamer vision"
 
 # screen_watch_replay.cpp
 msgid "Failed to download replay."
-msgstr ""
+msgstr "Haha, Imagine can't download replay."
 
 # screen_watch_replay.cpp
 msgid "Failed to read replay."
-msgstr ""
+msgstr "Can't read replay, learn more."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
@@ -516,7 +516,7 @@ msgstr "Top dog: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "Average iq: %q"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -664,7 +664,7 @@ msgstr "Shinies all accounted for"
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Wait, you don't have backup data!"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -804,7 +804,7 @@ msgstr "HMMMMMM"
 
 # player_data_manager.cpp
 msgid "New personal best! %s ⇨ %s"
-msgstr ""
+msgstr "New PB eh? %s ⇨ %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
@@ -884,7 +884,7 @@ msgstr "oo silver"
 
 # renderer_types.cpp
 msgid "Compression friendly"
-msgstr ""
+msgstr ".zip it carefully"
 
 # renderer_types.cpp
 msgid "High"
@@ -892,15 +892,15 @@ msgstr "Elite"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr ""
+msgstr "Dank elite"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Minimalism"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Minimal, But darker"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
@@ -908,7 +908,7 @@ msgstr "JPEG 16x"
 
 # renderer_types.cpp
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "JPEG low 2x"
 
 # renderer_types.cpp
 msgid "Ultra low 32x"
