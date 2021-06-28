@@ -32,7 +32,7 @@ msgstr "Пауза"
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr "Начать заново"
+msgstr "Заново"
 
 # game_over_ui.cpp
 msgid "Game Over"
@@ -40,7 +40,7 @@ msgstr "Игра Окончена"
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr "Начать заново"
+msgstr "Заново"
 
 # shared_strings.cpp
 msgid "Casual"
@@ -56,7 +56,7 @@ msgstr "Не удалось связаться с сервером."
 
 # shared_strings.cpp
 msgid "Failed to parse response"
-msgstr "Не удалось получить ответ от сервера"
+msgstr "Не удалось получить ответ от сервера."
 
 # shared_strings.cpp
 msgid "Failed to sign-in!"
@@ -76,11 +76,11 @@ msgstr "время в игре: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr "Скачивание уровня..."
+msgstr "Загрузка уровня..."
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr "Аутентификация"
+msgstr "Аутентификация..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
@@ -168,7 +168,7 @@ msgstr "Закрыть комнату"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "Если подключиться к точке доступа телефона, всё должно работать!"
+msgstr "Достаточно подключиться к точке доступа телефона!"
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
@@ -192,7 +192,7 @@ msgstr "LAN мультиплеер поддерживает игру с 2 игр
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr "Помощь по совместной игре"
+msgstr "Помощь по мультиплееру"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
@@ -428,11 +428,11 @@ msgstr "Музыка"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
-msgstr "Ошибка подключения"
+msgstr "Ошибка подключения."
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to server"
-msgstr "Потеряно соединение с сервером"
+msgstr "Потеряно соединение с сервером."
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -464,7 +464,7 @@ msgstr "#ffff00ffЭкспериментальные#ffffffff уровни - не
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffОфициальные#ffffffff уровни созданы мною (JF), и дают зарабатывать медали."
+msgstr "#ffff00ffОфициальные#ffffffff уровни созданы мной (JF) и дают зарабатывать медали."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
@@ -632,11 +632,11 @@ msgstr "Запросить сброс пароля"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr "Запрос сброса пароля..."
+msgstr "Запрос сброса пароля"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr "Запрос письма-подтверждения..."
+msgstr "Запрос письма-подтверждения"
 
 # screen_signin.cpp
 msgid "Reset password"
@@ -648,7 +648,7 @@ msgstr "Войти"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr "Производится вход..."
+msgstr "Производится вход"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
@@ -656,7 +656,7 @@ msgstr "Вход успешен."
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr "Письмо-подтверждение отправлено"
+msgstr "Письмо-подтверждение отправлено."
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
@@ -668,7 +668,7 @@ msgstr "Не удалось загрузить резервные данные."
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr "Не удалось синхронизироваться."
+msgstr "Не удалось синхронизировать."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
@@ -688,7 +688,7 @@ msgstr "Аккаунт"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr "Создайте аккаунт чтобы создать никнейм и синхронизировать данные"
+msgstr "Создайте аккаунт, чтобы создать никнейм и синхронизировать данные"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
@@ -892,7 +892,7 @@ msgstr "Высокий"
 
 # renderer_types.cpp
 msgid "High (Dark)"
-msgstr "Наивысший"
+msgstr "Высокий Тёмный"
 
 # renderer_types.cpp
 msgid "Minimal"
