@@ -44,7 +44,7 @@
     "translators":[
       {
         "name":"StellarIP",
-        "color":"0xffa500ff"
+        "color":"0xff7700ff"
       }
     ]
   },
@@ -75,7 +75,7 @@
       },
       {
         "name":"Tasty Kiwi",
-        "color":"0x7cf113ff"
+        "color":"0x00fb00ff"
       }
     ]
   },
