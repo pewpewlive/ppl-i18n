@@ -672,7 +672,7 @@ msgstr "Fallo al sincronizar."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr "Sincronizacin completada."
+msgstr "Sincronización completada."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
