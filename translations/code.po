@@ -1,102 +1,102 @@
 # ui_helpers.cpp
 msgid "off"
-msgstr ""
+msgstr "false"
 
 # ui_helpers.cpp
 msgid "on"
-msgstr ""
+msgstr "true"
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr ""
+msgstr "Ok();"
 
 # game.cpp
 msgid "Quick pause"
-msgstr ""
+msgstr "QuickPause();"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr ""
+msgstr "QuickPause(%s);"
 
 # pause_ui.cpp
 msgid "Continue"
-msgstr ""
+msgstr "Resume();"
 
 # pause_ui.cpp
 msgid "Exit"
-msgstr ""
+msgstr "return 0;"
 
 # pause_ui.cpp
 msgid "Pause"
-msgstr ""
+msgstr "Paused == ture"
 
 # pause_ui.cpp
 msgid "Restart"
-msgstr ""
+msgstr "Restart();"
 
 # game_over_ui.cpp
 msgid "Game Over"
-msgstr ""
+msgstr "Game_Over == true"
 
 # game_over_ui.cpp
 msgid "Play again"
-msgstr ""
+msgstr "PlayAgain();"
 
 # shared_strings.cpp
 msgid "Casual"
-msgstr ""
+msgstr "level.casual"
 
 # shared_strings.cpp
 msgid "Community levels"
-msgstr ""
+msgstr "GameCommunity.levels"
 
 # shared_strings.cpp
 msgid "Failed to contact server"
-msgstr ""
+msgstr "game.error = \"Failed server contact\""
 
 # shared_strings.cpp
 msgid "Failed to parse response"
-msgstr ""
+msgstr "game.error = \"Failed response parse\""
 
 # shared_strings.cpp
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "game.error = \"Failed sign-in\""
 
 # shared_strings.cpp
 msgid "Official levels"
-msgstr ""
+msgstr "GameOfficial.levels"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr ""
+msgstr "play_count = %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr ""
+msgstr "time_played = %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Level.downloading == true"
 
 # screen_online_authenticate.cpp
 msgid "Authenticating..."
-msgstr ""
+msgstr "game.auth == true"
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "game.error = \"Error :(\""
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "game.error = \"Failed Authentication\""
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "if (game.version == latest)"
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
-msgstr ""
+msgstr "Establish();"
 
 # screen_specify_server_ip.cpp
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
@@ -104,47 +104,47 @@ msgstr ""
 
 # screen_specify_server_ip.cpp
 msgid "Connect to server"
-msgstr ""
+msgstr "Establish(server);"
 
 # screen_specify_server_ip.cpp
 msgid "IP:"
-msgstr ""
+msgstr "server.ip ="
 
 # screen_specify_server_ip.cpp
 msgid "Port:"
-msgstr ""
+msgstr "server.port ="
 
 # screen_online_enter_password.cpp
 msgid "Enter password"
-msgstr ""
+msgstr "Enter room.password"
 
 # screen_online_enter_password.cpp
 msgid "Join"
-msgstr ""
+msgstr "Connect();"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
-msgstr ""
+msgstr "room.password ="
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr ""
+msgstr "JoyStickConfig();"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
-msgstr ""
+msgstr "Reset();"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
-msgstr ""
+msgstr "Swap();"
 
 # screen_select_multiplayer_type.cpp
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "GameMulti.LAN"
 
 # screen_select_multiplayer_type.cpp
 msgid "Online multiplayer"
-msgstr ""
+msgstr "GameMulti.Online"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people around the world!"
@@ -156,15 +156,15 @@ msgstr ""
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "case GameSelectedMultiType:"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(lan_game1.version != lan_game2.version)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
-msgstr ""
+msgstr "TerminateRoom();"
 
 # screen_lan_create_or_join.cpp
 msgid "Connecting to a phone's hotspot should work!"
@@ -172,23 +172,23 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "Create room"
-msgstr ""
+msgstr "CreateRoom();"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "for (int i = 0; i < players.amount; i++) { if (players[i].replayUploaded == true) { game.LdrBrd.Show(); } }"
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr ""
+msgstr "GetLanHelp();"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr ""
+msgstr "GameMulti.Local"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "GameMulti.Local.maxPlayerAmount == 2 && player1.wifi == player2.wifi"
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
@@ -196,159 +196,159 @@ msgstr ""
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "player1.CreateRoom(); player2.Connect(player1.CreatedRoom);"
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "GameMulti.search == true"
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "if (wifi == webState.connected || wifi == webState.disconnected)"
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr ""
+msgstr "ship.bullets"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr ""
+msgstr "ShipConfig.UI"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr ""
+msgstr "ship.model"
 
 # screen_configure_ship.cpp
 msgid "Trail"
-msgstr ""
+msgstr "ship.trail"
 
 # screen_upload_scores.cpp
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "game.error = \"Failed replay upload\""
 
 # screen_upload_scores.cpp
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "Replays[] is empty"
 
 # screen_upload_scores.cpp
 msgid "Upload scores"
-msgstr ""
+msgstr "UploadScore();"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
-msgstr ""
+msgstr "UploadScore() returned: success"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "UploadReplayForLevel(\"%s\");"
 
 # screen_career.cpp
 msgid "Statistics"
-msgstr ""
+msgstr "GameStats"
 
 # screen_select_level_of_author.cpp
 msgid "Levels by %s"
-msgstr ""
+msgstr "Levels[].author == %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr ""
+msgstr "KeyBrdConfig();"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "MouseAim == %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
-msgstr ""
+msgstr "Move();"
 
 # screen_configure_keyboard.cpp
 msgid "Shoot"
-msgstr ""
+msgstr "Shoot();"
 
 # screen_online_list_rooms.cpp
 msgid "Refresh"
-msgstr ""
+msgstr "Refresh();"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "contributors.json"
 
 # screen_settings_language.cpp
 msgid "Default language"
-msgstr ""
+msgstr "Languages.default"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr ""
+msgstr "Contribute();"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
-msgstr ""
+msgstr "Languages.Settings.UI"
 
 # screen_settings_language.cpp
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Languages.Translations[].Authors == Community"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr ""
+msgstr "[1]"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr ""
+msgstr "[2]"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr ""
+msgstr "[3]"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr ""
+msgstr "[4]"
 
 # screen_view_high_scores.cpp
 msgid "Africa"
-msgstr ""
+msgstr "Africa"
 
 # screen_view_high_scores.cpp
 msgid "Asia"
-msgstr ""
+msgstr "Asia"
 
 # screen_view_high_scores.cpp
 msgid "Europe"
-msgstr ""
+msgstr "Europe"
 
 # screen_view_high_scores.cpp
 msgid "North America"
-msgstr ""
+msgstr "North America"
 
 # screen_view_high_scores.cpp
 msgid "Oceania"
-msgstr ""
+msgstr "Oceania"
 
 # screen_view_high_scores.cpp
 msgid "South America"
-msgstr ""
+msgstr "South America"
 
 # screen_view_high_scores.cpp
 msgid "continent"
-msgstr ""
+msgstr "continent"
 
 # screen_view_high_scores.cpp
 msgid "personal"
-msgstr ""
+msgstr "personal"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "region"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
+msgstr "world"
 
 # screen_benchmark.cpp
 msgid "Skip"
-msgstr ""
+msgstr "Skip();"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -448,11 +448,11 @@ msgstr ""
 
 # screen_watch_replay.cpp
 msgid "Failed to download replay."
-msgstr ""
+msgstr "game.error = \"Failed replay download\""
 
 # screen_watch_replay.cpp
 msgid "Failed to read replay."
-msgstr ""
+msgstr "game.error = \"Failed replay read\""
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
@@ -492,7 +492,7 @@ msgstr ""
 
 # screen_view_level.cpp
 msgid "Error reading manifest"
-msgstr ""
+msgstr "game.error = \"Failed reading manifest\""
 
 # screen_view_level.cpp
 msgid "Experimental level"
@@ -500,7 +500,7 @@ msgstr ""
 
 # screen_view_level.cpp
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "game.error = \"Failed manifest download\""
 
 # screen_view_level.cpp
 msgid "Loading..."
@@ -508,19 +508,19 @@ msgstr ""
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr ""
+msgstr "player_local_best = %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
-msgstr ""
+msgstr "player_world_record = %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr ""
+msgstr "player_average_score = %s"
 
 # screen_view_level.cpp
 msgid "by %s"
-msgstr ""
+msgstr "level.author = %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
@@ -544,35 +544,35 @@ msgstr ""
 
 # screen_settings.cpp
 msgid "Audio"
-msgstr ""
+msgstr "Game.Audio"
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr ""
+msgstr "Game.Controls"
 
 # screen_settings.cpp
 msgid "Developer mode"
-msgstr ""
+msgstr "Game.DevMode"
 
 # screen_settings.cpp
 msgid "Language"
-msgstr ""
+msgstr "Game.Lang"
 
 # screen_settings.cpp
 msgid "Launch intro"
-msgstr ""
+msgstr "LaunchIntro();"
 
 # screen_settings.cpp
 msgid "Settings"
-msgstr ""
+msgstr "Game.Settings"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr ""
+msgstr "StartTutorial();"
 
 # screen_settings.cpp
 msgid "Vibration %s"
-msgstr ""
+msgstr "Game.Vibration = %s"
 
 # screen_multiplayer_lobby.cpp
 msgid "Cancel"
@@ -604,15 +604,15 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "email.verified == false"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "game.error = \"Failed password reset request\""
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "game.error = \"Failed email resend\""
 
 # screen_signin.cpp
 msgid "Password"
@@ -644,7 +644,7 @@ msgstr ""
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "SignIn();"
 
 # screen_signin.cpp
 msgid "Signing in"
@@ -664,11 +664,11 @@ msgstr ""
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "game.error = \"Failed backup data download\""
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "game.error = \"Failed synchronization\""
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
@@ -692,63 +692,63 @@ msgstr ""
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "player.singedIn == false"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privacy Policy"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "Register();"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "if (player.singedIn == true) { PlayOnline(); }"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "if (player.singedIn == true) { UploadScore(); }"
 
 # screen_signed_out.cpp
 msgid "Your account"
-msgstr ""
+msgstr "Player.Account.UI"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Email.Confirm"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Email.Confirm ="
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "Password.Confirm"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "Password.Confirm ="
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "email.invalid == true"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "email ="
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "email1 != email2"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "game.error = \"Failed registration\""
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "passwd1 != passwd2"
 
 # screen_register.cpp
 msgid "Please check your emails!"
@@ -756,7 +756,7 @@ msgstr ""
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "RegisterAccount();"
 
 # screen_register.cpp
 msgid "Registering"
@@ -768,31 +768,31 @@ msgstr ""
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "if (username.length <= %s)"
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "if (username.length >= %s)"
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "username"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "username (ColorsAccepted == True) ="
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "OnlineProfile();"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "SignOut();"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "Synchronize();"
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -800,23 +800,23 @@ msgstr ""
 
 # community_level_selector.cpp
 msgid "IN REVIEW"
-msgstr ""
+msgstr "level.review == true"
 
 # player_data_manager.cpp
 msgid "New personal best! %s ⇨ %s"
-msgstr ""
+msgstr "Game.TransitionPB(%s, %s);"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr ""
+msgstr "%s.Disconnect();"
 
 # game_state.cpp
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "level.try.accuracy = %s"
 
 # game_state.cpp
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 # game_levels.cpp
 msgid "Choose your own difficulty"
@@ -872,15 +872,15 @@ msgstr ""
 
 # medals.cpp
 msgid "New bronze medal"
-msgstr ""
+msgstr "medals.push_back(\"Bronze\");"
 
 # medals.cpp
 msgid "New gold medal"
-msgstr ""
+msgstr "medals.push_back(\"Gold\");"
 
 # medals.cpp
 msgid "New silver medal"
-msgstr ""
+msgstr "medals.push_back(\"Silver\");"
 
 # renderer_types.cpp
 msgid "Compression friendly"
