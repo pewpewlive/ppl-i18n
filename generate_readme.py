@@ -13,7 +13,8 @@ os.chdir(dname)
 # language code are in ISO 639-2
 # https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 lang_files_dir = "translations/"
-langs = [{"code": "deu", "name": "German"},
+langs = [{"code": "code", "name": "Code"},
+         {"code": "deu", "name": "German"},
          {"code": "fra", "name": "French"},
          {"code": "hrv", "name": "Croatian"},
          {"code": "ind", "name": "Indonesian"},
