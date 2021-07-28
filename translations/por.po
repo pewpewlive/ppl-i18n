@@ -56,7 +56,7 @@ msgstr "Falha ao fazer contato com o servidor"
 
 # shared_strings.cpp
 msgid "Failed to parse response"
-msgstr "Falha ao analisar a resposta"
+msgstr "Falha ao analisar resposta"
 
 # shared_strings.cpp
 msgid "Failed to sign-in!"
@@ -200,7 +200,7 @@ msgstr "Um jogador cria a sala, e o outro jogador entra."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
-msgstr "Procurando por quartos..."
+msgstr "Procurando por salas..."
 
 # screen_lan_create_or_join.cpp
 msgid "The wifi network does not have to be connected to the internet."
@@ -208,7 +208,7 @@ msgstr "A rede wifi não precisa estar conectado a internet"
 
 # screen_configure_ship.cpp
 msgid "Bullets"
-msgstr "Balas"
+msgstr "Tiros"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
@@ -368,7 +368,7 @@ msgstr "Criando sala"
 
 # screen_online_create_or_join_room.cpp
 msgid "Failed to join room"
-msgstr "Falha ao entrar no sala"
+msgstr "Falha ao entrar na sala"
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
@@ -388,7 +388,7 @@ msgstr "A sala não existe mais"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "A sala expirou"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
@@ -404,7 +404,7 @@ msgstr "Tutorial"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 personagens extras (opcional):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -448,7 +448,7 @@ msgstr "Visualização"
 
 # screen_watch_replay.cpp
 msgid "Failed to download replay."
-msgstr ""
+msgstr "Falha ao baixar replay"
 
 # screen_watch_replay.cpp
 msgid "Failed to read replay."
@@ -456,11 +456,11 @@ msgstr "Falha ao reproduzir replay."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "#ffff00ffComunidade#ffffffff os níveis são construídos por VOCÊ, a comunidade. "
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "#ffff00ffExperimental#ffffffff são níveis que ainda não foram lançados."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
@@ -884,7 +884,7 @@ msgstr "Nova medalha de prata"
 
 # renderer_types.cpp
 msgid "Compression friendly"
-msgstr ""
+msgstr "Compressão amigável"
 
 # renderer_types.cpp
 msgid "High"
@@ -896,11 +896,11 @@ msgstr "Alto (Dark)"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr ""
+msgstr "Mínimo"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Mínimo (escuro)"
 
 # renderer_types.cpp
 msgid "Ultra low 16x"
@@ -963,7 +963,7 @@ msgstr "Carregando nível"
 
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
-msgstr "Local Multiplayer"
+msgstr "Multiplayer local "
 
 # Currently unused! This string may never be used again!
 msgid "Low"
