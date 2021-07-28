@@ -64,7 +64,7 @@ msgstr "Неполучилось заєструватись!"
 
 # shared_strings.cpp
 msgid "Official levels"
-msgstr "Офіціальні левели"
+msgstr "Офіціальні рівні"
 
 # shared_strings.cpp
 msgid "play count: %s"
@@ -124,7 +124,7 @@ msgstr "Приєднатися"
 
 # screen_online_enter_password.cpp
 msgid "Password:"
-msgstr "Пароль"
+msgstr "Пароль:"
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
@@ -132,7 +132,7 @@ msgstr "Конфігурація джойстиків"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
-msgstr "Скинути положення"
+msgstr "Скинути"
 
 # screen_configure_touch_joystick.cpp
 msgid "Swap"
@@ -152,7 +152,7 @@ msgstr "Грати з людьми навколо світу!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr "Грати з людьми на одній мережі"
+msgstr "Грати з людьми на одній мережі!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
@@ -176,7 +176,7 @@ msgstr "Створити кімнату"
 
 # screen_lan_create_or_join.cpp
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Кожному гравцеві потрібно завантажити повтор окремо, щоб з'явитися на дошці лідерів в Інтернеті"
+msgstr "Кожному гравцеві потрібно завантажити повтор окремо, щоб з'явитися на дошці лідерів в Інтернеті."
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
@@ -192,11 +192,11 @@ msgstr "У локальному мультиплеєр підтримуєтьс�
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr "Допомога з мкльтиплеєром"
+msgstr "Допомога з мультиплеєром"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
-msgstr "Один гравець має створити кімнату, у яку інший має зайти"
+msgstr "Один гравець має створити кімнату, у яку інший має зайти."
 
 # screen_lan_create_or_join.cpp
 msgid "Searching for rooms..."
@@ -212,7 +212,7 @@ msgstr "Кулі"
 
 # screen_configure_ship.cpp
 msgid "Configure Ship"
-msgstr "Налаштування Шатлу"
+msgstr "Налаштування Корабля"
 
 # screen_configure_ship.cpp
 msgid "Model"
@@ -232,7 +232,7 @@ msgstr "Нічого для завантаження!"
 
 # screen_upload_scores.cpp
 msgid "Upload scores"
-msgstr "Завантажити оцінки"
+msgstr "Завантажити рекорди"
 
 # screen_upload_scores.cpp
 msgid "Upload successful"
@@ -248,7 +248,7 @@ msgstr "Статистика"
 
 # screen_select_level_of_author.cpp
 msgid "Levels by %s"
-msgstr "Левели за %s"
+msgstr "Рівні за %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -280,7 +280,7 @@ msgstr "Мова за замовчуванням"
 
 # screen_settings_language.cpp
 msgid "Help out"
-msgstr "Виручити"
+msgstr "Допомогти"
 
 # screen_settings_language.cpp
 msgid "Language Settings"
@@ -292,19 +292,19 @@ msgstr "Переклади надані спільнотою!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr "1п"
+msgstr "1г"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr "2п"
+msgstr "2г"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr "3п"
+msgstr "3г"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr "4п"
+msgstr "4г"
 
 # screen_view_high_scores.cpp
 msgid "Africa"
@@ -404,7 +404,7 @@ msgstr "Туторіал"
 
 # screen_online_configure_room.cpp
 msgid "2 extra characters (optional):"
-msgstr "2 екстра персонажів (по бажанню)"
+msgstr "2 екстра букви (по бажанню):"
 
 # screen_online_configure_room.cpp
 msgid "Any level"
@@ -456,7 +456,7 @@ msgstr "Неполучилось прочитати реплей."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffСпільнота#ffffffff рівні збудовані ТОБОЮ, або іншими"
+msgstr "Рівні #ffff00ffСпільноти#ffffffff збудовані ТОБОЮ, та іншими."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
@@ -464,11 +464,11 @@ msgstr "#ffff00ffЕкспереметальні#ffffffff рівні ті що щ
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffОфіціальні#ffffffff рівні ті що збудовані мною (JF), і дозволяє заробляти медалі."
+msgstr "#ffff00ffОфіційні#ffffffff рівні ті що збудовані мною (JF), і дозволяє здобувати медалі."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
-msgstr "Про левели"
+msgstr "Про рівні"
 
 # screen_select_single_player_level.cpp
 msgid "Community"
@@ -476,11 +476,11 @@ msgstr "Спільнота"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental"
-msgstr "Експеременити"
+msgstr "Експерементальні"
 
 # screen_select_single_player_level.cpp
 msgid "Experimental levels"
-msgstr "Експерементні левели"
+msgstr "Експерементальні рівні"
 
 # screen_select_single_player_level.cpp
 msgid "More info on github.com/jyaif/ppl-utils"
@@ -508,7 +508,7 @@ msgstr "Завантаження..."
 
 # screen_view_level.cpp
 msgid "Local best: %s"
-msgstr "Локальна найкраща оцінка: %s"
+msgstr "Локальна найкращий рекорд: %s"
 
 # screen_view_level.cpp
 msgid "World record: %s"
@@ -548,7 +548,7 @@ msgstr "Звук"
 
 # screen_settings.cpp
 msgid "Controls"
-msgstr "Контроль"
+msgstr "Управління"
 
 # screen_settings.cpp
 msgid "Developer mode"
@@ -600,19 +600,19 @@ msgstr "Перевірити свою пошту"
 
 # screen_signin.cpp
 msgid "Email"
-msgstr "Емейл"
+msgstr "Пошта"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr "Емейл не звірений"
+msgstr "Пошта не звірена"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr "Не вдалося запросити скид паролю"
+msgstr "Не вдалося запросити скидання паролю"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr "Не вдалося повторно надіслати емейл"
+msgstr "Не вдалося повторно надіслати пошту"
 
 # screen_signin.cpp
 msgid "Password"
@@ -620,27 +620,27 @@ msgstr "Пароль"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr "Посилання для скидання пароля надіслано"
+msgstr "Посилання надіслано на пошту для скидання пароля"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr "Перенадіслати перевірку емейлу"
+msgstr "Перенадіслати перевірку пошти"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr "Запросити скид паролю"
+msgstr "Запросити скидання паролю"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr "Запрошення на скид паролю"
+msgstr "Запрошення на скидання паролю"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr "Запрошення перевірки емейлу"
+msgstr "Запрошення перевірки пошти"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr "Скид паролю"
+msgstr "Скидання паролю"
 
 # screen_signin.cpp
 msgid "Sign in"
@@ -664,7 +664,7 @@ msgstr "Усі твої медалі тут."
 
 # screen_synchronize.cpp
 msgid "Failed to download backup data"
-msgstr "Неполучилось скачати резервне копіювання."
+msgstr "Неполучилось скачати резервне копіювання"
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
@@ -672,7 +672,7 @@ msgstr "Не вдалося синхронізувати."
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr "Синхронізувати і завершенно"
+msgstr "Синхронізувати і завершенно."
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
@@ -716,11 +716,11 @@ msgstr "Ваш аккаунт"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr "Перевірити емейл"
+msgstr "Перевірити почту"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr "Перевірити емейл:"
+msgstr "Перевірити почту:"
 
 # screen_register.cpp
 msgid "Confirm password"
@@ -732,15 +732,15 @@ msgstr "Перевірити пароль:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr "Емейл недійсний!"
+msgstr "Почта недійсна!"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr "Емейл:"
+msgstr "Почта:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr "Емейли не співпадають!"
+msgstr "Почти не співпадають!"
 
 # screen_register.cpp
 msgid "Failed to register"
@@ -780,7 +780,7 @@ msgstr "Юзернейм"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr "Юзернейм(Ви можете використати кольори в ньому)"
+msgstr "Юзернейм (Ви можете використати кольори в ньому)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -824,7 +824,7 @@ msgstr "Виберіть свою складність"
 
 # game_levels.cpp
 msgid "Dodge everything and you'll be OK"
-msgstr "Ухиляйтесь від усього, і ви будете в ПОРЯДКУ"
+msgstr "Ухиляйтесь від усього, і ви будете в порядку"
 
 # game_levels.cpp
 msgid "Euclidean space is overrated"
@@ -864,7 +864,7 @@ msgstr "Не пов'язано з \"Super Hexagon \""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Цей рівеньи- жарт, так?\" - тестер"
+msgstr "\"Цей рівень жарт, так?\" - тестер"
 
 # game_levels.cpp
 msgid "aka Dodge This"
