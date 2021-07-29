@@ -19,7 +19,7 @@ A few tips for contributing:
 If you want to add support for a new language, create a GitHub Issue so that we can discuss
 the feasibility.
 ## Status
-* [Code](/translations/code.po) (0% complete; 231 remaining)
+* [Code](/translations/code.po) (100% complete! 🎉)
 * [German](/translations/deu.po) (100% complete! 🎉)
 * [French](/translations/fra.po) (94% complete; 13 remaining)
 * [Croatian](/translations/hrv.po) (100% complete! 🎉)
@@ -31,11 +31,11 @@ the feasibility.
 * [Malay](/translations/msa.po) (0% complete; 231 remaining)
 * [Pirate Speak](/translations/pirate.po) (80% complete; 46 remaining)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
-* [Portuguese](/translations/por.po) (96% complete; 8 remaining)
+* [Portuguese](/translations/por.po) (100% complete! 🎉)
 * [Romanian](/translations/ron.po) (100% complete! 🎉)
 * [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (100% complete! 🎉)
 * [Tagalog](/translations/tgl.po) (100% complete! 🎉)
 * [Turkish](/translations/tur.po) (100% complete! 🎉)
 * [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
-> Report generated on Jul 08 2021 17:30:30 UTC
+> Report generated on Jul 29 2021 18:41:24 UTC

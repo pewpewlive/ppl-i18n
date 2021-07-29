@@ -752,7 +752,7 @@ msgstr "Pass1 != Pass2"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Register.EmailChck = true"
 
 # screen_register.cpp
 msgid "Register account"
