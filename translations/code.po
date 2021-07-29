@@ -464,7 +464,7 @@ msgstr "#ffff00ffGame.Experimental#ffffffff.levels.released = false"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffGame.Official#ffffffff.levels"
+msgstr "#ffff00ffGame.Official#ffffffff.levels.author = Game.Dev(\"JF\") && AllowMedals = true"
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
