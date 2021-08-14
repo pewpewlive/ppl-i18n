@@ -256,11 +256,11 @@ msgstr "Autentificiranje..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Ne možete igrati s više igrača na simetričnom NAT."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Checking network..."
-msgstr ""
+msgstr "Provjera mreže..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Error :("
@@ -272,7 +272,7 @@ msgstr "Neuspješna autentifikacija."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Neuspješno povezivanje sa STUN serverima."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Need the latest version of the game."
@@ -444,7 +444,7 @@ msgstr "Greška u povezivanju"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Izgubljena povezanost sa hostom."
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -552,7 +552,7 @@ msgstr "Videi o razvoju igre"
 
 # screen_informations.cpp
 msgid "Directed by %s"
-msgstr ""
+msgstr "Režirao %s"
 
 # screen_informations.cpp
 msgid "Discord server"
@@ -612,35 +612,35 @@ msgstr "Čekanje na druge igrače..."
 
 # screen_edit_nickname.cpp
 msgid "Change"
-msgstr ""
+msgstr "Promijeni"
 
 # screen_edit_nickname.cpp
 msgid "Change colors"
-msgstr ""
+msgstr "Promijeni boje"
 
 # screen_edit_nickname.cpp
 msgid "Failed to update username"
-msgstr ""
+msgstr "Neuspješno ažuriranje korisničkog imena"
 
 # screen_edit_nickname.cpp
 msgid "New username:"
-msgstr ""
+msgstr "Novo korisničko ime:"
 
 # screen_edit_nickname.cpp
 msgid "Old username:"
-msgstr ""
+msgstr "Staro korisničko ime:"
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Promijenite samo boje! %s"
 
 # screen_edit_nickname.cpp
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Uspješna promjena korisničkog imena"
 
 # screen_edit_nickname.cpp
 msgid "Username color change"
-msgstr ""
+msgstr "Promjena boje korisničkog imena"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -832,23 +832,23 @@ msgstr "Korističko ime (možete mijenjati boje!)"
 
 # screen_signed_in.cpp
 msgid "Account deletion"
-msgstr ""
+msgstr "Brisanje računa"
 
 # screen_signed_in.cpp
 msgid "Account deletion requested."
-msgstr ""
+msgstr "Poslan zahtjev za brisanje računa."
 
 # screen_signed_in.cpp
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "Email za potvrdu je poslan."
 
 # screen_signed_in.cpp
 msgid "Delete account"
-msgstr ""
+msgstr "Izbriši račun"
 
 # screen_signed_in.cpp
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Neuspješno slanje zahtjeva za brisanje računa"
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -864,7 +864,7 @@ msgstr "Sinkronizacija"
 
 # top_notification_view.cpp
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sČekanje na druge igrače%s"
 
 # game_hud.cpp
 msgid "Shield: %s"
