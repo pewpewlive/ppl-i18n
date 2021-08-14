@@ -78,22 +78,6 @@ msgstr "temps joué: %s"
 msgid "Downloading level..."
 msgstr "Téléchargement du niveau..."
 
-# screen_online_authenticate.cpp
-msgid "Authenticating..."
-msgstr "Authentification..."
-
-# screen_online_authenticate.cpp
-msgid "Error :("
-msgstr "Erreur :("
-
-# screen_online_authenticate.cpp
-msgid "Failed to authenticate"
-msgstr "Echec de l'authentification"
-
-# screen_online_authenticate.cpp
-msgid "Need the latest version of the game."
-msgstr "Il faut la dernière version du jeu"
-
 # screen_specify_server_ip.cpp
 msgid "Connect"
 msgstr "Se connecter"
@@ -266,6 +250,34 @@ msgstr "Déplacement"
 msgid "Shoot"
 msgstr "Tir"
 
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Authenticating..."
+msgstr "Authentification..."
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Can't play in multiplayer with a symmetric NAT."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Checking network..."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Error :("
+msgstr "Erreur :("
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Failed to authenticate"
+msgstr "Echec de l'authentification"
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Failed to connect to the STUN servers."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Need the latest version of the game."
+msgstr "Il faut la dernière version du jeu"
+
 # screen_online_list_rooms.cpp
 msgid "Refresh"
 msgstr "Rafraîchir"
@@ -431,8 +443,8 @@ msgid "Connection error"
 msgstr "Erreur de connexion"
 
 # screen_server_connection_closed.cpp
-msgid "Lost connection to server"
-msgstr "La connexion au serveur a été perdue"
+msgid "Lost connection to host"
+msgstr ""
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -539,6 +551,10 @@ msgid "Development videos"
 msgstr "Vidéos de développement"
 
 # screen_informations.cpp
+msgid "Directed by %s"
+msgstr ""
+
+# screen_informations.cpp
 msgid "Discord server"
 msgstr "Serveur Discord"
 
@@ -593,6 +609,38 @@ msgstr "Je suis prêt !"
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
 msgstr "En attente d'autres joueurs..."
+
+# screen_edit_nickname.cpp
+msgid "Change"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Change colors"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Failed to update nickname"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "New nickname:"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Nickname change succesfull"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Nickname color change"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Old nickname:"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Only change colors! %s"
+msgstr ""
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -783,6 +831,26 @@ msgid "Username (you can put colors in!):"
 msgstr "Identifiant (tu peux mettre des couleurs !) :"
 
 # screen_signed_in.cpp
+msgid "Account deletion"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Account deletion requested."
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "An email asking for confirmation was sent."
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Delete account"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Failed to request account deletion"
+msgstr ""
+
+# screen_signed_in.cpp
 msgid "Online profile"
 msgstr "Profil web"
 
@@ -793,6 +861,10 @@ msgstr "Se déconnecter"
 # screen_signed_in.cpp
 msgid "Synchronize"
 msgstr "Synchroniser"
+
+# top_notification_view.cpp
+msgid "%sWaiting for other player%s"
+msgstr ""
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -972,6 +1044,10 @@ msgstr "Niveau en cours de chargement..."
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "Multi-joueur local"
+
+# Currently unused! This string may never be used again!
+msgid "Lost connection to server"
+msgstr "La connexion au serveur a été perdue"
 
 # Currently unused! This string may never be used again!
 msgid "Low"

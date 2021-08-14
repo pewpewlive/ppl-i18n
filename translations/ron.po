@@ -78,22 +78,6 @@ msgstr "te-ai jucat %s"
 msgid "Downloading level..."
 msgstr "Se descarcă nivelul..."
 
-# screen_online_authenticate.cpp
-msgid "Authenticating..."
-msgstr "Se autentifică..."
-
-# screen_online_authenticate.cpp
-msgid "Error :("
-msgstr "Eroare :("
-
-# screen_online_authenticate.cpp
-msgid "Failed to authenticate"
-msgstr "Nu s-a putut autentifica"
-
-# screen_online_authenticate.cpp
-msgid "Need the latest version of the game."
-msgstr "Ai nevoie de ultima versiune a jocului."
-
 # screen_specify_server_ip.cpp
 msgid "Connect"
 msgstr "Conectează-te"
@@ -266,6 +250,34 @@ msgstr "Mișcare"
 msgid "Shoot"
 msgstr "Tragere"
 
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Authenticating..."
+msgstr "Se autentifică..."
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Can't play in multiplayer with a symmetric NAT."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Checking network..."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Error :("
+msgstr "Eroare :("
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Failed to authenticate"
+msgstr "Nu s-a putut autentifica"
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Failed to connect to the STUN servers."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Need the latest version of the game."
+msgstr "Ai nevoie de ultima versiune a jocului."
+
 # screen_online_list_rooms.cpp
 msgid "Refresh"
 msgstr "Reîncarcă"
@@ -431,8 +443,8 @@ msgid "Connection error"
 msgstr "Eroare de conexiune"
 
 # screen_server_connection_closed.cpp
-msgid "Lost connection to server"
-msgstr "S-a pierdut conexiunea la server"
+msgid "Lost connection to host"
+msgstr ""
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -539,6 +551,10 @@ msgid "Development videos"
 msgstr "Videoclipuri de developare"
 
 # screen_informations.cpp
+msgid "Directed by %s"
+msgstr ""
+
+# screen_informations.cpp
 msgid "Discord server"
 msgstr "Server-ul de Discord"
 
@@ -593,6 +609,38 @@ msgstr "Pregătit"
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
 msgstr "Se așteaptă alți jucători..."
+
+# screen_edit_nickname.cpp
+msgid "Change"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Change colors"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Failed to update nickname"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "New nickname:"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Nickname change succesfull"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Nickname color change"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Old nickname:"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Only change colors! %s"
+msgstr ""
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -783,6 +831,26 @@ msgid "Username (you can put colors in!):"
 msgstr "Nume (poți să folosești culori!):"
 
 # screen_signed_in.cpp
+msgid "Account deletion"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Account deletion requested."
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "An email asking for confirmation was sent."
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Delete account"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Failed to request account deletion"
+msgstr ""
+
+# screen_signed_in.cpp
 msgid "Online profile"
 msgstr "Profilul online"
 
@@ -793,6 +861,10 @@ msgstr "Deconectează-te"
 # screen_signed_in.cpp
 msgid "Synchronize"
 msgstr "Sincronizează"
+
+# top_notification_view.cpp
+msgid "%sWaiting for other player%s"
+msgstr ""
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -940,6 +1012,10 @@ msgstr "Nu s-a putut folosi răspunsul serverului"
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "Multiplayer local"
+
+# Currently unused! This string may never be used again!
+msgid "Lost connection to server"
+msgstr "S-a pierdut conexiunea la server"
 
 # Currently unused! This string may never be used again!
 msgid "Low"

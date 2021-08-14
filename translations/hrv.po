@@ -78,22 +78,6 @@ msgstr "vrijeme igranja: %s"
 msgid "Downloading level..."
 msgstr "Preuzimanje levela..."
 
-# screen_online_authenticate.cpp
-msgid "Authenticating..."
-msgstr "Autentificiranje..."
-
-# screen_online_authenticate.cpp
-msgid "Error :("
-msgstr "Greška :("
-
-# screen_online_authenticate.cpp
-msgid "Failed to authenticate"
-msgstr "Neuspješna autentifikacija."
-
-# screen_online_authenticate.cpp
-msgid "Need the latest version of the game."
-msgstr "Morate imati najnoviju verziju igre."
-
 # screen_specify_server_ip.cpp
 msgid "Connect"
 msgstr "Spoji se"
@@ -266,6 +250,34 @@ msgstr "Kretanje"
 msgid "Shoot"
 msgstr "Pucanje"
 
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Authenticating..."
+msgstr "Autentificiranje..."
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Can't play in multiplayer with a symmetric NAT."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Checking network..."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Error :("
+msgstr "Greška :("
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Failed to authenticate"
+msgstr "Neuspješna autentifikacija."
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Failed to connect to the STUN servers."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Need the latest version of the game."
+msgstr "Morate imati najnoviju verziju igre."
+
 # screen_online_list_rooms.cpp
 msgid "Refresh"
 msgstr "Osvježi"
@@ -431,8 +443,8 @@ msgid "Connection error"
 msgstr "Greška u povezivanju"
 
 # screen_server_connection_closed.cpp
-msgid "Lost connection to server"
-msgstr "Izgubljena veza sa serverom"
+msgid "Lost connection to host"
+msgstr ""
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -539,6 +551,10 @@ msgid "Development videos"
 msgstr "Videi o razvoju igre"
 
 # screen_informations.cpp
+msgid "Directed by %s"
+msgstr ""
+
+# screen_informations.cpp
 msgid "Discord server"
 msgstr "Discord server"
 
@@ -593,6 +609,38 @@ msgstr "Spreman"
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
 msgstr "Čekanje na druge igrače..."
+
+# screen_edit_nickname.cpp
+msgid "Change"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Change colors"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Failed to update nickname"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "New nickname:"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Nickname change succesfull"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Nickname color change"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Old nickname:"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Only change colors! %s"
+msgstr ""
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -783,6 +831,26 @@ msgid "Username (you can put colors in!):"
 msgstr "Korističko ime (možete mijenjati boje!)"
 
 # screen_signed_in.cpp
+msgid "Account deletion"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Account deletion requested."
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "An email asking for confirmation was sent."
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Delete account"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Failed to request account deletion"
+msgstr ""
+
+# screen_signed_in.cpp
 msgid "Online profile"
 msgstr "Online profil"
 
@@ -793,6 +861,10 @@ msgstr "Odjava"
 # screen_signed_in.cpp
 msgid "Synchronize"
 msgstr "Sinkronizacija"
+
+# top_notification_view.cpp
+msgid "%sWaiting for other player%s"
+msgstr ""
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -972,6 +1044,10 @@ msgstr "čitavanje levela..."
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "Lokalno više igrača"
+
+# Currently unused! This string may never be used again!
+msgid "Lost connection to server"
+msgstr "Izgubljena veza sa serverom"
 
 # Currently unused! This string may never be used again!
 msgid "Low"

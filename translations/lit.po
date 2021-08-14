@@ -78,22 +78,6 @@ msgstr "žaista laiko: %s"
 msgid "Downloading level..."
 msgstr "Atsisiunčiamas lygis ..."
 
-# screen_online_authenticate.cpp
-msgid "Authenticating..."
-msgstr "Autentifikuojama..."
-
-# screen_online_authenticate.cpp
-msgid "Error :("
-msgstr "Klaida :("
-
-# screen_online_authenticate.cpp
-msgid "Failed to authenticate"
-msgstr "Nepavyko autentifikuoti"
-
-# screen_online_authenticate.cpp
-msgid "Need the latest version of the game."
-msgstr "Reikia turėti naujausią žaidimo versiją."
-
 # screen_specify_server_ip.cpp
 msgid "Connect"
 msgstr "Prisijungti"
@@ -266,6 +250,34 @@ msgstr "Judėti"
 msgid "Shoot"
 msgstr "Šauti"
 
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Authenticating..."
+msgstr "Autentifikuojama..."
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Can't play in multiplayer with a symmetric NAT."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Checking network..."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Error :("
+msgstr "Klaida :("
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Failed to authenticate"
+msgstr "Nepavyko autentifikuoti"
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Failed to connect to the STUN servers."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Need the latest version of the game."
+msgstr "Reikia turėti naujausią žaidimo versiją."
+
 # screen_online_list_rooms.cpp
 msgid "Refresh"
 msgstr "Atnaujinti"
@@ -431,8 +443,8 @@ msgid "Connection error"
 msgstr "Ryšio klaida"
 
 # screen_server_connection_closed.cpp
-msgid "Lost connection to server"
-msgstr "Prarastas ryšys su serveriu"
+msgid "Lost connection to host"
+msgstr ""
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -539,6 +551,10 @@ msgid "Development videos"
 msgstr "Kurimo vaizdo įrašai"
 
 # screen_informations.cpp
+msgid "Directed by %s"
+msgstr ""
+
+# screen_informations.cpp
 msgid "Discord server"
 msgstr "„Discord“ serveris"
 
@@ -593,6 +609,38 @@ msgstr "Pasiruošęs"
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
 msgstr "Laukiama kitų žaidėjų..."
+
+# screen_edit_nickname.cpp
+msgid "Change"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Change colors"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Failed to update nickname"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "New nickname:"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Nickname change succesfull"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Nickname color change"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Old nickname:"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Only change colors! %s"
+msgstr ""
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -783,6 +831,26 @@ msgid "Username (you can put colors in!):"
 msgstr "Vartotojo vardas (galite pasirinkti spalvas!):"
 
 # screen_signed_in.cpp
+msgid "Account deletion"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Account deletion requested."
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "An email asking for confirmation was sent."
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Delete account"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Failed to request account deletion"
+msgstr ""
+
+# screen_signed_in.cpp
 msgid "Online profile"
 msgstr "Internetinis profilis"
 
@@ -793,6 +861,10 @@ msgstr "Atsijungti"
 # screen_signed_in.cpp
 msgid "Synchronize"
 msgstr "Sinchronizuoti"
+
+# top_notification_view.cpp
+msgid "%sWaiting for other player%s"
+msgstr ""
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -972,6 +1044,10 @@ msgstr "Įkeliamas lygis..."
 # Currently unused! This string may never be used again!
 msgid "Local Multiplayer"
 msgstr "Vietinis kelių žaidėjų režimas"
+
+# Currently unused! This string may never be used again!
+msgid "Lost connection to server"
+msgstr "Prarastas ryšys su serveriu"
 
 # Currently unused! This string may never be used again!
 msgid "Low"

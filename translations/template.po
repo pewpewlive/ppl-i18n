@@ -78,22 +78,6 @@ msgstr ""
 msgid "Downloading level..."
 msgstr ""
 
-# screen_online_authenticate.cpp
-msgid "Authenticating..."
-msgstr ""
-
-# screen_online_authenticate.cpp
-msgid "Error :("
-msgstr ""
-
-# screen_online_authenticate.cpp
-msgid "Failed to authenticate"
-msgstr ""
-
-# screen_online_authenticate.cpp
-msgid "Need the latest version of the game."
-msgstr ""
-
 # screen_specify_server_ip.cpp
 msgid "Connect"
 msgstr ""
@@ -266,6 +250,34 @@ msgstr ""
 msgid "Shoot"
 msgstr ""
 
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Authenticating..."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Can't play in multiplayer with a symmetric NAT."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Checking network..."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Error :("
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Failed to authenticate"
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Failed to connect to the STUN servers."
+msgstr ""
+
+# screen_online_authenticate_and_check_nat.cpp
+msgid "Need the latest version of the game."
+msgstr ""
+
 # screen_online_list_rooms.cpp
 msgid "Refresh"
 msgstr ""
@@ -431,7 +443,7 @@ msgid "Connection error"
 msgstr ""
 
 # screen_server_connection_closed.cpp
-msgid "Lost connection to server"
+msgid "Lost connection to host"
 msgstr ""
 
 # screen_settings_audio.cpp
@@ -539,6 +551,10 @@ msgid "Development videos"
 msgstr ""
 
 # screen_informations.cpp
+msgid "Directed by %s"
+msgstr ""
+
+# screen_informations.cpp
 msgid "Discord server"
 msgstr ""
 
@@ -592,6 +608,38 @@ msgstr ""
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Change"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Change colors"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Failed to update nickname"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "New nickname:"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Nickname change succesfull"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Nickname color change"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Old nickname:"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Only change colors! %s"
 msgstr ""
 
 # screen_signin.cpp
@@ -783,6 +831,26 @@ msgid "Username (you can put colors in!):"
 msgstr ""
 
 # screen_signed_in.cpp
+msgid "Account deletion"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Account deletion requested."
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "An email asking for confirmation was sent."
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Delete account"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Failed to request account deletion"
+msgstr ""
+
+# screen_signed_in.cpp
 msgid "Online profile"
 msgstr ""
 
@@ -792,6 +860,10 @@ msgstr ""
 
 # screen_signed_in.cpp
 msgid "Synchronize"
+msgstr ""
+
+# top_notification_view.cpp
+msgid "%sWaiting for other player%s"
 msgstr ""
 
 # game_hud.cpp
