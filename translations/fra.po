@@ -232,7 +232,7 @@ msgstr "Statistiques"
 
 # screen_select_level_of_author.cpp
 msgid "Levels by %s"
-msgstr ""
+msgstr "Niveaux par %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
@@ -256,11 +256,11 @@ msgstr "Authentification..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Impossible de jouer en multijoueur avec un NAT symétrique"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Checking network..."
-msgstr ""
+msgstr "Vérification de la connection..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Error :("
@@ -272,7 +272,7 @@ msgstr "Echec de l'authentification"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Echec de connections aux serveurs STUN."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Need the latest version of the game."
@@ -320,31 +320,31 @@ msgstr "4j"
 
 # screen_view_high_scores.cpp
 msgid "Africa"
-msgstr ""
+msgstr "Afrique"
 
 # screen_view_high_scores.cpp
 msgid "Asia"
-msgstr ""
+msgstr "Asie"
 
 # screen_view_high_scores.cpp
 msgid "Europe"
-msgstr ""
+msgstr "Europe"
 
 # screen_view_high_scores.cpp
 msgid "North America"
-msgstr ""
+msgstr "Amérique du Nord"
 
 # screen_view_high_scores.cpp
 msgid "Oceania"
-msgstr ""
+msgstr "Océanie"
 
 # screen_view_high_scores.cpp
 msgid "South America"
-msgstr ""
+msgstr "Amérique du Sud"
 
 # screen_view_high_scores.cpp
 msgid "continent"
-msgstr ""
+msgstr "continent"
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -444,7 +444,7 @@ msgstr "Erreur de connexion"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Connection à l'hôte perdue"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -456,15 +456,15 @@ msgstr "Effets sonores"
 
 # screen_settings_audio.cpp
 msgid "Visualization"
-msgstr ""
+msgstr "Visualisation"
 
 # screen_watch_replay.cpp
 msgid "Failed to download replay."
-msgstr ""
+msgstr "Echec du téléchargement du replay"
 
 # screen_watch_replay.cpp
 msgid "Failed to read replay."
-msgstr ""
+msgstr "Impossible de lire le replay"
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
@@ -552,7 +552,7 @@ msgstr "Vidéos de développement"
 
 # screen_informations.cpp
 msgid "Directed by %s"
-msgstr ""
+msgstr "Crée par %s"
 
 # screen_informations.cpp
 msgid "Discord server"
@@ -612,11 +612,11 @@ msgstr "En attente d'autres joueurs..."
 
 # screen_edit_nickname.cpp
 msgid "Change"
-msgstr ""
+msgstr "Changer"
 
 # screen_edit_nickname.cpp
 msgid "Change colors"
-msgstr ""
+msgstr "Changer les couleurs"
 
 # screen_edit_nickname.cpp
 msgid "Failed to update nickname"
@@ -640,7 +640,7 @@ msgstr ""
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Change uniquement les couleurs! %s"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -832,23 +832,23 @@ msgstr "Identifiant (tu peux mettre des couleurs !) :"
 
 # screen_signed_in.cpp
 msgid "Account deletion"
-msgstr ""
+msgstr "Suppression du compte"
 
 # screen_signed_in.cpp
 msgid "Account deletion requested."
-msgstr ""
+msgstr "Supression du compte demandée."
 
 # screen_signed_in.cpp
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "Un email de confirmation a été envoyé."
 
 # screen_signed_in.cpp
 msgid "Delete account"
-msgstr ""
+msgstr "Supprimer mon compte"
 
 # screen_signed_in.cpp
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Echec de la supression du compte"
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -864,7 +864,7 @@ msgstr "Synchroniser"
 
 # top_notification_view.cpp
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sEn attente de l'autre joueur%s"
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -876,7 +876,7 @@ msgstr "EN REVUE"
 
 # player_data_manager.cpp
 msgid "New personal best! %s ⇨ %s"
-msgstr ""
+msgstr "Nouveau record personnel! %s ⇨ %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
