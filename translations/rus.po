@@ -619,27 +619,27 @@ msgid "Change colors"
 msgstr ""
 
 # screen_edit_nickname.cpp
-msgid "Failed to update nickname"
+msgid "Failed to update username"
 msgstr ""
 
 # screen_edit_nickname.cpp
-msgid "New nickname:"
+msgid "New username:"
 msgstr ""
 
 # screen_edit_nickname.cpp
-msgid "Nickname change succesfull"
-msgstr ""
-
-# screen_edit_nickname.cpp
-msgid "Nickname color change"
-msgstr ""
-
-# screen_edit_nickname.cpp
-msgid "Old nickname:"
+msgid "Old username:"
 msgstr ""
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Username change succesfull"
+msgstr ""
+
+# screen_edit_nickname.cpp
+msgid "Username color change"
 msgstr ""
 
 # screen_signin.cpp
