@@ -624,11 +624,11 @@ msgstr "Nepavyko pakeisti vartotojo vardo"
 
 # screen_edit_nickname.cpp
 msgid "New username:"
-msgstr "Naujas vartotojo vardas"
+msgstr "Naujas vartotojo vardas:"
 
 # screen_edit_nickname.cpp
 msgid "Old username:"
-msgstr "Senas vartotojo vardas"
+msgstr "Senas vartotojo vardas:"
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
@@ -836,7 +836,7 @@ msgstr "Paskyros pašalinimas"
 
 # screen_signed_in.cpp
 msgid "Account deletion requested."
-msgstr "Vartotojo pašalinimo prašymas išsiųstas."
+msgstr "Paskyros pašalinimo prašymas išsiųstas."
 
 # screen_signed_in.cpp
 msgid "An email asking for confirmation was sent."
