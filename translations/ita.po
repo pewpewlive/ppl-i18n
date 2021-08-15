@@ -256,11 +256,11 @@ msgstr "Autenticazione..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Non è possibile giocare in multiplayer con un NAT simmetrico."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Checking network..."
-msgstr ""
+msgstr "Controllo la rete..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Error :("
@@ -272,7 +272,7 @@ msgstr "Autenticazione fallita"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Connessione ai server STUN fallita."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Need the latest version of the game."
@@ -444,7 +444,7 @@ msgstr "Errore di connessione"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Connessione all'host persa"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -552,7 +552,7 @@ msgstr "Video dello sviluppo"
 
 # screen_informations.cpp
 msgid "Directed by %s"
-msgstr ""
+msgstr "Diretto da %s"
 
 # screen_informations.cpp
 msgid "Discord server"
@@ -612,35 +612,35 @@ msgstr "In attesa di altri giocatori..."
 
 # screen_edit_nickname.cpp
 msgid "Change"
-msgstr ""
+msgstr "Cambia"
 
 # screen_edit_nickname.cpp
 msgid "Change colors"
-msgstr ""
+msgstr "Cambia colori"
 
 # screen_edit_nickname.cpp
 msgid "Failed to update username"
-msgstr ""
+msgstr "Modifica dello username fallita"
 
 # screen_edit_nickname.cpp
 msgid "New username:"
-msgstr ""
+msgstr "Nuovo username:"
 
 # screen_edit_nickname.cpp
 msgid "Old username:"
-msgstr ""
+msgstr "Vecchio username:"
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Cambia solo i colori! %s"
 
 # screen_edit_nickname.cpp
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Modifica dello username completata"
 
 # screen_edit_nickname.cpp
 msgid "Username color change"
-msgstr ""
+msgstr "Modifica il colore dello username"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -832,23 +832,23 @@ msgstr "Username (puoi colorarlo!)"
 
 # screen_signed_in.cpp
 msgid "Account deletion"
-msgstr ""
+msgstr "Cancellazione account"
 
 # screen_signed_in.cpp
 msgid "Account deletion requested."
-msgstr ""
+msgstr "Cancellazione dell'account richiesta."
 
 # screen_signed_in.cpp
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "Una email di conferma è stata inviata."
 
 # screen_signed_in.cpp
 msgid "Delete account"
-msgstr ""
+msgstr "Cancella account"
 
 # screen_signed_in.cpp
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Richiesta di cancellazione dell'account fallita"
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -864,7 +864,7 @@ msgstr "Sincronizza"
 
 # top_notification_view.cpp
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sAspettando altri giocatori%s"
 
 # game_hud.cpp
 msgid "Shield: %s"
