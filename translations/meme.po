@@ -256,8 +256,7 @@ msgstr "Playing pong..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Ah sorry mate, can't play multiplayer in Shmmetry NAT.. idk
-"
+msgstr "Ah sorry mate, can't play multiplayer in Shmmetry NAT.. idk"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Checking network..."
