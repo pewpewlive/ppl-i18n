@@ -552,7 +552,7 @@ msgstr "YouTube"
 
 # screen_informations.cpp
 msgid "Directed by %s"
-msgstr ""
+msgstr "Под руководством %s"
 
 # screen_informations.cpp
 msgid "Discord server"
