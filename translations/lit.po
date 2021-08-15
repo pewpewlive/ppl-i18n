@@ -552,7 +552,7 @@ msgstr "Kurimo vaizdo įrašai"
 
 # screen_informations.cpp
 msgid "Directed by %s"
-msgstr "Sukūrė: %s"
+msgstr "Padėjo kurti: %s"
 
 # screen_informations.cpp
 msgid "Discord server"
