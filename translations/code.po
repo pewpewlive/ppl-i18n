@@ -632,7 +632,7 @@ msgstr "OldUsername ="
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Change() returned: %s"
 
 # screen_edit_nickname.cpp
 msgid "Username change succesfull"
