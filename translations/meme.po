@@ -260,7 +260,7 @@ msgstr ""
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Checking network..."
-msgstr ""
+msgstr "Ayo, is your internet on?"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Error :("
@@ -272,7 +272,7 @@ msgstr "Lost at pong"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Can't connect to \"STUN\" server.. now read that backward."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Need the latest version of the game."
@@ -320,27 +320,27 @@ msgstr "quartet"
 
 # screen_view_high_scores.cpp
 msgid "Africa"
-msgstr ""
+msgstr "Land of knuckles"
 
 # screen_view_high_scores.cpp
 msgid "Asia"
-msgstr ""
+msgstr "Rice land"
 
 # screen_view_high_scores.cpp
 msgid "Europe"
-msgstr ""
+msgstr "Ah, Europa."
 
 # screen_view_high_scores.cpp
 msgid "North America"
-msgstr ""
+msgstr "Canada and USA"
 
 # screen_view_high_scores.cpp
 msgid "Oceania"
-msgstr ""
+msgstr "Some islands"
 
 # screen_view_high_scores.cpp
 msgid "South America"
-msgstr ""
+msgstr "America but south"
 
 # screen_view_high_scores.cpp
 msgid "continent"
@@ -444,7 +444,7 @@ msgstr "bruh you need protegent to connect"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Sorry bro, we lost it."
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -620,27 +620,27 @@ msgstr ""
 
 # screen_edit_nickname.cpp
 msgid "Failed to update username"
-msgstr ""
+msgstr "Woops, failed renewing the gamertag"
 
 # screen_edit_nickname.cpp
 msgid "New username:"
-msgstr ""
+msgstr "New gamertag:"
 
 # screen_edit_nickname.cpp
 msgid "Old username:"
-msgstr ""
+msgstr "Old Gamertag:"
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Ah ah, only change colours %s"
 
 # screen_edit_nickname.cpp
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Gamertag has been renewed"
 
 # screen_edit_nickname.cpp
 msgid "Username color change"
-msgstr ""
+msgstr "Change my gamertag colour"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -856,7 +856,7 @@ msgstr "Gamer info"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr "Aight ima head out"
+msgstr "Aight imma head out"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
