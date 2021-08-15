@@ -256,7 +256,8 @@ msgstr "Playing pong..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Ah sorry mate, can't play multiplayer in Shmmetry NAT.. idk
+"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Checking network..."
@@ -332,7 +333,7 @@ msgstr "Ah, Europa."
 
 # screen_view_high_scores.cpp
 msgid "North America"
-msgstr "Canada and USA"
+msgstr "Southn't America"
 
 # screen_view_high_scores.cpp
 msgid "Oceania"
@@ -384,7 +385,7 @@ msgstr "Failed to intrude gaming hideout"
 
 # screen_online_create_or_join_room.cpp
 msgid "Incorrect password"
-msgstr "bruh"
+msgstr "bruv"
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
@@ -552,7 +553,7 @@ msgstr "Professional Coding Master-Classes"
 
 # screen_informations.cpp
 msgid "Directed by %s"
-msgstr ""
+msgstr "Meme CEO is %s"
 
 # screen_informations.cpp
 msgid "Discord server"
@@ -612,11 +613,11 @@ msgstr "These guys sure are slow..."
 
 # screen_edit_nickname.cpp
 msgid "Change"
-msgstr ""
+msgstr "Nah, i want a new style"
 
 # screen_edit_nickname.cpp
 msgid "Change colors"
-msgstr ""
+msgstr "New Colour, rainbow maybe."
 
 # screen_edit_nickname.cpp
 msgid "Failed to update username"
@@ -832,23 +833,23 @@ msgstr "Gamer tag (we have colors)"
 
 # screen_signed_in.cpp
 msgid "Account deletion"
-msgstr ""
+msgstr "Commencing deletion of gamer privileges"
 
 # screen_signed_in.cpp
 msgid "Account deletion requested."
-msgstr ""
+msgstr "Ask to delete gamer privileges."
 
 # screen_signed_in.cpp
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "There's an email sent to confirm your decision, check it out."
 
 # screen_signed_in.cpp
 msgid "Delete account"
-msgstr ""
+msgstr "Delet da gamer"
 
 # screen_signed_in.cpp
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Sorry bruv, can't request to delete your games privileges"
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -864,7 +865,7 @@ msgstr "Shinies get"
 
 # top_notification_view.cpp
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sWaiting for other gamers%s"
 
 # game_hud.cpp
 msgid "Shield: %s"
