@@ -8,7 +8,7 @@ msgstr "Įj."
 
 # keyboard_view.cpp
 msgid "ok"
-msgstr "Gerai"
+msgstr "gerai"
 
 # game.cpp
 msgid "Quick pause"
@@ -256,11 +256,11 @@ msgstr "Autentifikuojama..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Negalima žaisti kelių žaidėjų režime su simetriniu NAT."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Checking network..."
-msgstr ""
+msgstr "Tikrinamas tinklas..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Error :("
@@ -272,7 +272,7 @@ msgstr "Nepavyko autentifikuoti"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Nepavyko prisijungti prie STUN serverių."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Need the latest version of the game."
@@ -444,7 +444,7 @@ msgstr "Ryšio klaida"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Nutrūko ryšys su serveriu"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -532,7 +532,7 @@ msgstr "vidutinis taškų skaičius: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
-msgstr "sukūrė %s"
+msgstr "sukūrė: %s"
 
 # screen_settings_controls.cpp
 msgid "Controls Settings"
@@ -552,7 +552,7 @@ msgstr "Kurimo vaizdo įrašai"
 
 # screen_informations.cpp
 msgid "Directed by %s"
-msgstr ""
+msgstr "Sukūrė: %s"
 
 # screen_informations.cpp
 msgid "Discord server"
@@ -612,39 +612,39 @@ msgstr "Laukiama kitų žaidėjų..."
 
 # screen_edit_nickname.cpp
 msgid "Change"
-msgstr ""
+msgstr "Pakeisti"
 
 # screen_edit_nickname.cpp
 msgid "Change colors"
-msgstr ""
+msgstr "Pakeisti spalvas"
 
 # screen_edit_nickname.cpp
 msgid "Failed to update username"
-msgstr ""
+msgstr "Nepavyko pakeisti vartotojo vardo"
 
 # screen_edit_nickname.cpp
 msgid "New username:"
-msgstr ""
+msgstr "Naujas vartotojo vardas"
 
 # screen_edit_nickname.cpp
 msgid "Old username:"
-msgstr ""
+msgstr "Senas vartotojo vardas"
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Galima pakeisti tik spalvas! %s"
 
 # screen_edit_nickname.cpp
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Vartotojo vardas pakeistas"
 
 # screen_edit_nickname.cpp
 msgid "Username color change"
-msgstr ""
+msgstr "Vartotojo vardo spalvos keitimas"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr "Pažiūrėkite savo pašta!"
+msgstr "Pažiūrėkite savo paštą!"
 
 # screen_signin.cpp
 msgid "Email"
@@ -652,7 +652,7 @@ msgstr "El-paštas"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr "El-paštas ne patvirtintas"
+msgstr "El-paštas nepatvirtintas"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
@@ -704,7 +704,7 @@ msgstr "Sėkmingai prisijungėte!"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr "Patvirtinimo El. Laiškas išsiųstas"
+msgstr "Patvirtinimo laiškas išsiųstas"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
@@ -832,23 +832,23 @@ msgstr "Vartotojo vardas (galite pasirinkti spalvas!):"
 
 # screen_signed_in.cpp
 msgid "Account deletion"
-msgstr ""
+msgstr "Paskyros pašalinimas"
 
 # screen_signed_in.cpp
 msgid "Account deletion requested."
-msgstr ""
+msgstr "Vartotojo pašalinimo prašymas išsiųstas."
 
 # screen_signed_in.cpp
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "Pašalinimo patvirtinimo laiškas išsiųstas"
 
 # screen_signed_in.cpp
 msgid "Delete account"
-msgstr ""
+msgstr "Pašalinti paskyrą"
 
 # screen_signed_in.cpp
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Nepavyko išsiųsti paskyros pašalinimo prašymo"
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -864,7 +864,7 @@ msgstr "Sinchronizuoti"
 
 # top_notification_view.cpp
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sLaukiama kitų žaidėjų%s"
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -880,7 +880,7 @@ msgstr "Naujas vietinis rekordas! %s ⇨ %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr "%s išėjo iš žaidimo"
+msgstr "%s paliko žaidimą"
 
 # game_state.cpp
 msgid "Accuracy: %s"
@@ -904,7 +904,7 @@ msgstr "Euklidinė erdvė yra pervertinta"
 
 # game_levels.cpp
 msgid "Green good. Red bad."
-msgstr "Žalia gerai. Raudona blogai."
+msgstr "Žalia - gerai. Raudona - blogai."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
@@ -920,7 +920,7 @@ msgstr "Niekada nepasitikėkite šešiakampiu"
 
 # game_levels.cpp
 msgid "Previously known as Assault"
-msgstr "Anksčiau žinomas kaip Užpuolimas"
+msgstr "Anksčiau žinomas kaip „Assault“"
 
 # game_levels.cpp
 msgid "RIP GW3:Dimensions"
@@ -1112,4 +1112,3 @@ msgstr "Jūs jau esate žaidime!"
 # Currently unused! This string may never be used again!
 msgid "You can finally code your own levels!"
 msgstr "Pagaliau galite kurti savo lygius!"
-
