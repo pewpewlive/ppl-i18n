@@ -256,11 +256,11 @@ msgstr "Аутентификация..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Игра в мультиплеере при симметричном NAT невозможна."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Checking network..."
-msgstr ""
+msgstr "Проверка сети..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Error :("
@@ -272,7 +272,7 @@ msgstr "Аутентификация не удалась."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Не удалось подключиться к STUN серверам."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Need the latest version of the game."
@@ -444,7 +444,7 @@ msgstr "Ошибка подключения."
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Подключение потеряно"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -612,35 +612,35 @@ msgstr "Ожидание игроков..."
 
 # screen_edit_nickname.cpp
 msgid "Change"
-msgstr ""
+msgstr "Изменить"
 
 # screen_edit_nickname.cpp
 msgid "Change colors"
-msgstr ""
+msgstr "Изменить цвет"
 
 # screen_edit_nickname.cpp
 msgid "Failed to update username"
-msgstr ""
+msgstr "Не удалось изменить никнейм."
 
 # screen_edit_nickname.cpp
 msgid "New username:"
-msgstr ""
+msgstr "Новый никнейм:"
 
 # screen_edit_nickname.cpp
 msgid "Old username:"
-msgstr ""
+msgstr "Старый никнейм:"
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Меняется только цвет! %s"
 
 # screen_edit_nickname.cpp
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Смена никнейма успешна"
 
 # screen_edit_nickname.cpp
 msgid "Username color change"
-msgstr ""
+msgstr "Изменить цвет никнейма"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -696,7 +696,7 @@ msgstr "Войти"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr "Производится вход"
+msgstr "Вход"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
@@ -828,27 +828,27 @@ msgstr "Никнейм"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr "Никнейм (можно красить текст!)"
+msgstr "Никнейм (можно красить!)"
 
 # screen_signed_in.cpp
 msgid "Account deletion"
-msgstr ""
+msgstr "Удаление аккаунта"
 
 # screen_signed_in.cpp
 msgid "Account deletion requested."
-msgstr ""
+msgstr "Запрошено удаление аккаунта."
 
 # screen_signed_in.cpp
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "Письмо-подтверждение отправлено."
 
 # screen_signed_in.cpp
 msgid "Delete account"
-msgstr ""
+msgstr "Удалить аккаунт"
 
 # screen_signed_in.cpp
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Не удалось запросить удаление аккаунта."
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -864,7 +864,7 @@ msgstr "Синхронизировать"
 
 # top_notification_view.cpp
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sОжидание игроков%s"
 
 # game_hud.cpp
 msgid "Shield: %s"
@@ -932,7 +932,7 @@ msgstr "Секрет прохождения этого режима - это..."
 
 # game_levels.cpp
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Никак не относится к \"Super Hexagon\""
+msgstr "Не относится к \"Super Hexagon\""
 
 # game_levels.cpp
 msgid "\"This level is a joke right?\" - a tester"
