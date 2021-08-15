@@ -256,11 +256,11 @@ msgstr "Аутентифікація ..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Неможна грати в мультиплеєр з симетричною NAT."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Checking network..."
-msgstr ""
+msgstr "Перевіряю мережу..."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Error :("
@@ -272,7 +272,7 @@ msgstr "Не вийшло аутентифікаціювати"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Не получилось приєднатись до STUN серверів."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Need the latest version of the game."
@@ -444,7 +444,7 @@ msgstr "Помилка з'єднання"
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Втрачено підключення до хоста."
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -552,7 +552,7 @@ msgstr "Відео розробки"
 
 # screen_informations.cpp
 msgid "Directed by %s"
-msgstr ""
+msgstr "Направлено за %s"
 
 # screen_informations.cpp
 msgid "Discord server"
@@ -612,39 +612,39 @@ msgstr "Чекаємо інших гравців..."
 
 # screen_edit_nickname.cpp
 msgid "Change"
-msgstr ""
+msgstr "Поміняти"
 
 # screen_edit_nickname.cpp
 msgid "Change colors"
-msgstr ""
+msgstr "Поміняти кольори"
 
 # screen_edit_nickname.cpp
 msgid "Failed to update username"
-msgstr ""
+msgstr "Не получилось поміняти нікнейм"
 
 # screen_edit_nickname.cpp
 msgid "New username:"
-msgstr ""
+msgstr "Новий нікнейм:"
 
 # screen_edit_nickname.cpp
 msgid "Old username:"
-msgstr ""
+msgstr "Старий нікнейм:"
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Тільки міняти кольори! %s"
 
 # screen_edit_nickname.cpp
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Получилось поміняти нікнейм"
 
 # screen_edit_nickname.cpp
 msgid "Username color change"
-msgstr ""
+msgstr "Нікнейм поміняти кольор"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr "Перевірити свою пошту"
+msgstr "Перевірите свою пошту"
 
 # screen_signin.cpp
 msgid "Email"
@@ -828,27 +828,27 @@ msgstr "Юзернейм"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr "Юзернейм (Ви можете використати кольори в ньому)"
+msgstr "Юзернейм (Ви можете використати кольори в ньому!):"
 
 # screen_signed_in.cpp
 msgid "Account deletion"
-msgstr ""
+msgstr "Видалення акаунта"
 
 # screen_signed_in.cpp
 msgid "Account deletion requested."
-msgstr ""
+msgstr "Видалення акаунта відправлено."
 
 # screen_signed_in.cpp
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "В пошті питає про запит яке було відправлене."
 
 # screen_signed_in.cpp
 msgid "Delete account"
-msgstr ""
+msgstr "Видалити Акаунт"
 
 # screen_signed_in.cpp
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Неполучилось відправити запит з видалення акаута"
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -864,7 +864,7 @@ msgstr "Синхронізувати"
 
 # top_notification_view.cpp
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sЧекаєм за іншими гравцями%s"
 
 # game_hud.cpp
 msgid "Shield: %s"
