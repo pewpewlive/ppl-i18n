@@ -256,11 +256,11 @@ msgstr "Game.Authing = true"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "if (Network == method.symmetricNAT) { CanPlay = false }"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Checking network..."
-msgstr ""
+msgstr "Network.Checking = true"
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Error :("
@@ -272,7 +272,7 @@ msgstr "Game.Error = \"Failed Authentication\""
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Game.Error = \"Connection to the STUN servers failed\""
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Need the latest version of the game."
@@ -444,7 +444,7 @@ msgstr "Game.Error = \"Connection error\""
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to host"
-msgstr ""
+msgstr "ConnectionToHost.Status = Lost"
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -552,7 +552,7 @@ msgstr "DevVids("youtube");"
 
 # screen_informations.cpp
 msgid "Directed by %s"
-msgstr ""
+msgstr "Game.Director = %s"
 
 # screen_informations.cpp
 msgid "Discord server"
@@ -612,23 +612,23 @@ msgstr "GameMulti.Await(players);"
 
 # screen_edit_nickname.cpp
 msgid "Change"
-msgstr ""
+msgstr "Change();"
 
 # screen_edit_nickname.cpp
 msgid "Change colors"
-msgstr ""
+msgstr "ChangeColors.UI"
 
 # screen_edit_nickname.cpp
 msgid "Failed to update username"
-msgstr ""
+msgstr "Game.Error = \"Failed to update username\""
 
 # screen_edit_nickname.cpp
 msgid "New username:"
-msgstr ""
+msgstr "NewUsername ="
 
 # screen_edit_nickname.cpp
 msgid "Old username:"
-msgstr ""
+msgstr "OldUsername ="
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
@@ -636,11 +636,11 @@ msgstr ""
 
 # screen_edit_nickname.cpp
 msgid "Username change succesfull"
-msgstr ""
+msgstr "ChngUsrnameClrs() returned: \"success\""
 
 # screen_edit_nickname.cpp
 msgid "Username color change"
-msgstr ""
+msgstr "ChngUsrnameClrs();"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -832,23 +832,23 @@ msgstr "Username (ColorsAccepted = true) ="
 
 # screen_signed_in.cpp
 msgid "Account deletion"
-msgstr ""
+msgstr "AcctDel.UI"
 
 # screen_signed_in.cpp
 msgid "Account deletion requested."
-msgstr ""
+msgstr "AcctDel.Requested = true"
 
 # screen_signed_in.cpp
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "ConfirmEmail.Sent = true"
 
 # screen_signed_in.cpp
 msgid "Delete account"
-msgstr ""
+msgstr "DelAcct();"
 
 # screen_signed_in.cpp
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Game.Error = \"Account deletion request failed\""
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -864,7 +864,7 @@ msgstr "Sync();"
 
 # top_notification_view.cpp
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sMultiplayer.Await(player);%s"
 
 # game_hud.cpp
 msgid "Shield: %s"
