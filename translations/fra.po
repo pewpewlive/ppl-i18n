@@ -940,7 +940,7 @@ msgstr "\"C'est une blague ce niveau ?\" - Un joueur"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr "Aussi connu sous \"Dodge This\
+msgstr "Aussi connu sous \"Dodge This\""
 
 
 # medals.cpp
