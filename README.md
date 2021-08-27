@@ -20,11 +20,11 @@ If you want to add support for a new language, create a GitHub Issue so that we 
 the feasibility.
 ## Status
 * [Code](/translations/code.po) (100% complete! 🎉)
-* [German](/translations/deu.po) (93% complete; 19 remaining)
-* [French](/translations/fra.po) (97% complete; 6 remaining)
+* [German](/translations/deu.po) (100% complete! 🎉)
+* [French](/translations/fra.po) (100% complete! 🎉)
 * [Croatian](/translations/hrv.po) (100% complete! 🎉)
 * [Indonesian](/translations/ind.po) (100% complete! 🎉)
-* [Italian](/translations/ita.po) (93% complete; 19 remaining)
+* [Italian](/translations/ita.po) (100% complete! 🎉)
 * [Japanese](/translations/jpn.po) (91% complete; 21 remaining)
 * [Korean](/translations/kor.po) (0% complete; 249 remaining)
 * [Lithuanian](/translations/lit.po) (100% complete! 🎉)
@@ -41,4 +41,4 @@ the feasibility.
 * [Traditional Chinese](/translations/cht.po) (14% complete; 214 remaining)
 * [Turkish](/translations/tur.po) (93% complete; 19 remaining)
 * [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
-> Report generated on Aug 15 2021 16:02:41 UTC
+> Report generated on Aug 27 2021 10:01:42 UTC
