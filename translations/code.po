@@ -548,7 +548,7 @@ msgstr "TchScreen();"
 
 # screen_informations.cpp
 msgid "Development videos"
-msgstr "DevVids("youtube");"
+msgstr "DevVids(\"youtube\");"
 
 # screen_informations.cpp
 msgid "Directed by %s"
