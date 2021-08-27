@@ -620,27 +620,27 @@ msgstr "Changer les couleurs"
 
 # screen_edit_nickname.cpp
 msgid "Failed to update username"
-msgstr ""
+msgstr "Échec de la mise à jour du pseudo"
 
 # screen_edit_nickname.cpp
 msgid "New username:"
-msgstr ""
+msgstr "Nouveau pseudo:"
 
 # screen_edit_nickname.cpp
 msgid "Old username:"
-msgstr ""
+msgstr "Ancien pseudo:"
 
 # screen_edit_nickname.cpp
 msgid "Only change colors! %s"
-msgstr "Change uniquement les couleurs! %s"
+msgstr "Seules les couleurs peuvent changer! %s"
 
 # screen_edit_nickname.cpp
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Pseudo mis à jour"
 
 # screen_edit_nickname.cpp
 msgid "Username color change"
-msgstr ""
+msgstr "Changement des couleurs du pseudo"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -940,7 +940,8 @@ msgstr "\"C'est une blague ce niveau ?\" - Un joueur"
 
 # game_levels.cpp
 msgid "aka Dodge This"
-msgstr "Aussi connu sous \"Dodge This\""
+msgstr "Aussi connu sous \"Dodge This\
+
 
 # medals.cpp
 msgid "New bronze medal"
@@ -956,7 +957,7 @@ msgstr "Nouvelle médaille d'argent"
 
 # renderer_types.cpp
 msgid "Compression friendly"
-msgstr ""
+msgstr "Compatible avec la compression"
 
 # renderer_types.cpp
 msgid "High"
