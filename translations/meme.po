@@ -528,7 +528,7 @@ msgstr "Top dog: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr "Average iq: %q"
+msgstr "Average iq: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
