@@ -16,7 +16,7 @@ msgstr "QuickPause();"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr "QuickPause(%s);"
+msgstr "QuickPause = %s"
 
 # pause_ui.cpp
 msgid "Continue"
@@ -112,7 +112,7 @@ msgstr "room.password ="
 
 # screen_configure_touch_joystick.cpp
 msgid "Configure joysticks"
-msgstr "JoyStickConfig();"
+msgstr "JoyStickConfig.UI"
 
 # screen_configure_touch_joystick.cpp
 msgid "Reset"
@@ -164,7 +164,7 @@ msgstr "for (int i = 0; i < players.amount; i++) { if (players[i].replayUploaded
 
 # screen_lan_create_or_join.cpp
 msgid "Help"
-msgstr "GetLanHelp();"
+msgstr "GetHelp();"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
@@ -176,7 +176,7 @@ msgstr "GameMulti.Local.maxPlayerAmount == 2 && player1.wifi == player2.wifi"
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr "LanHelp.UI"
+msgstr "Help.UI"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
@@ -236,11 +236,11 @@ msgstr "Levels[].author == %s"
 
 # screen_configure_keyboard.cpp
 msgid "Configure keyboard"
-msgstr "KeyBrdConfig();"
+msgstr "KeyBrdConfig.UI"
 
 # screen_configure_keyboard.cpp
 msgid "Mouse aim %s"
-msgstr "MouseAim == %s"
+msgstr "MouseAim = %s"
 
 # screen_configure_keyboard.cpp
 msgid "Move"
@@ -436,7 +436,7 @@ msgstr "MultiRoom.Name = %s"
 
 # screen_informations_music.cpp
 msgid "Music"
-msgstr "GameMusic"
+msgstr "GameMusic.UI"
 
 # screen_server_connection_closed.cpp
 msgid "Connection error"
@@ -516,7 +516,7 @@ msgstr "Game.Error = \"Failed manifest download\""
 
 # screen_view_level.cpp
 msgid "Loading..."
-msgstr "Level.Loading = true"
+msgstr "Game.Loading = true"
 
 # screen_view_level.cpp
 msgid "Local best: %s"
@@ -636,11 +636,11 @@ msgstr "Change() returned: %s"
 
 # screen_edit_nickname.cpp
 msgid "Username change succesfull"
-msgstr "ChngUsrnameClrs() returned: \"success\""
+msgstr "Change() returned: \"success\""
 
 # screen_edit_nickname.cpp
 msgid "Username color change"
-msgstr "ChngUsrnameClrs();"
+msgstr "ChangeColors.UI"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
@@ -880,7 +880,7 @@ msgstr "Game.TransitionPB(%s, %s);"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr "%s.Disconnect();"
+msgstr "%s called: Disconnect()"
 
 # game_state.cpp
 msgid "Accuracy: %s"
@@ -956,7 +956,7 @@ msgstr "medals.push_back(\"Silver\");"
 
 # renderer_types.cpp
 msgid "Compression friendly"
-msgstr "CompFriendly = true"
+msgstr "Theme(CompFriendly);"
 
 # renderer_types.cpp
 msgid "High"
@@ -968,7 +968,7 @@ msgstr "DarkTheme(INT_MAX);"
 
 # renderer_types.cpp
 msgid "Minimal"
-msgstr "Theme(INT_MIN)"
+msgstr "Theme(INT_MIN);"
 
 # renderer_types.cpp
 msgid "Minimal (Dark)"
