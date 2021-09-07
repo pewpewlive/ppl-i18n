@@ -1,5 +1,14 @@
 [
   {
+    "lang":"code",
+    "translators":[
+      {
+        "name":"HTTP 418",
+        "color":"0xaaffaaff"
+      }
+    ]
+  },
+  {
     "lang":"deu",
     "translators":[
       {
