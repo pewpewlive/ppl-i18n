@@ -552,7 +552,7 @@ msgstr "Videos de desarrollo"
 
 # screen_informations.cpp
 msgid "Directed by %s"
-msgstr ""
+msgstr "Dirigido por %s"
 
 # screen_informations.cpp
 msgid "Discord server"
