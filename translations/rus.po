@@ -12,11 +12,11 @@ msgstr "ок"
 
 # game.cpp
 msgid "Quick pause"
-msgstr "Мини-пауза"
+msgstr "Минипауза"
 
 # game.cpp
 msgid "Quick pause %s"
-msgstr "Мини-пауза %s"
+msgstr "Минипауза %s"
 
 # pause_ui.cpp
 msgid "Continue"
@@ -68,11 +68,11 @@ msgstr "Официальные уровни"
 
 # shared_strings.cpp
 msgid "play count: %s"
-msgstr "попыток: %s"
+msgstr "Попыток: %s"
 
 # shared_strings.cpp
 msgid "time played: %s"
-msgstr "время в игре: %s"
+msgstr "Время в игре: %s"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
@@ -176,7 +176,7 @@ msgstr "LAN мультиплеер поддерживает игру с 2 игр
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
-msgstr "Помощь по мультиплееру"
+msgstr "Помощь по игре в мультиплеере"
 
 # screen_lan_create_or_join.cpp
 msgid "One player must create a room, which the other player joins."
@@ -272,7 +272,7 @@ msgstr "Аутентификация не удалась."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Failed to connect to the STUN servers."
-msgstr "Не удалось подключиться к STUN серверам."
+msgstr "Не удалось подключиться к серверам STUN."
 
 # screen_online_authenticate_and_check_nat.cpp
 msgid "Need the latest version of the game."
@@ -388,7 +388,7 @@ msgstr "Неправильный пароль."
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr "Вход в комнату"
+msgstr "Вход в комнату..."
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
@@ -408,7 +408,7 @@ msgstr "Неизвестная ошибка."
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr "Вы уже находитесь в комнате!"
+msgstr "Вы уже находитесь в комнате."
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -444,7 +444,7 @@ msgstr "Ошибка подключения."
 
 # screen_server_connection_closed.cpp
 msgid "Lost connection to host"
-msgstr "Подключение потеряно"
+msgstr "Подключение потеряно."
 
 # screen_settings_audio.cpp
 msgid "Audio Settings"
@@ -468,7 +468,7 @@ msgstr "Не удалось прочитать реплей."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffУровни сообщества#ffffffff созданы такими же людьми, как и ВЫ."
+msgstr "#ffff00ffУровни сообщества#ffffffff создаются такими же людьми, как и ВЫ."
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
@@ -476,7 +476,7 @@ msgstr "#ffff00ffЭкспериментальные#ffffffff уровни - не
 
 # screen_select_single_player_level.cpp
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffОфициальные#ffffffff уровни созданы мной (JF) и дают зарабатывать медали."
+msgstr "#ffff00ffОфициальные#ffffffff уровни созданы мной (#0080ffffJF#ffffffff) и дают зарабатывать медали."
 
 # screen_select_single_player_level.cpp
 msgid "About the levels"
@@ -528,7 +528,7 @@ msgstr "Мировой рекорд: %s"
 
 # screen_view_level.cpp
 msgid "average score: %s"
-msgstr "средний результат: %s"
+msgstr "Средний результат: %s"
 
 # screen_view_level.cpp
 msgid "by %s"
@@ -604,7 +604,7 @@ msgstr "Онлайн лобби"
 
 # screen_multiplayer_lobby.cpp
 msgid "Ready"
-msgstr "Готов!"
+msgstr "Готов"
 
 # screen_multiplayer_lobby.cpp
 msgid "Waiting for other players..."
@@ -644,7 +644,7 @@ msgstr "Изменить цвет никнейма"
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr "Проверьте почту!"
+msgstr "Проверьте почту."
 
 # screen_signin.cpp
 msgid "Email"
@@ -780,7 +780,7 @@ msgstr "Подтверждение пароля:"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr "Email недействителен!"
+msgstr "Email недействителен."
 
 # screen_register.cpp
 msgid "Email:"
@@ -788,7 +788,7 @@ msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr "Адреса не совпадают!"
+msgstr "Адреса не совпадают."
 
 # screen_register.cpp
 msgid "Failed to register"
@@ -796,11 +796,11 @@ msgstr "Не удалось зарегистрироваться."
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr "Пароли не совпадают!"
+msgstr "Пароли не совпадают."
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr "Проверьте почту!"
+msgstr "Проверьте почту."
 
 # screen_register.cpp
 msgid "Register account"
