@@ -1,0 +1,69 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "2 extra characters:"
+msgstr "2 додаткових героїв"
+
+msgid "Career"
+msgstr "Кар'єра"
+
+msgid "Creator"
+msgstr "Створювач"
+
+msgid "Custom levels"
+msgstr "Кастомні рівні"
+
+msgid "Custom levels?!"
+msgstr "Кастомні рівні?!"
+
+msgid "Dark High"
+msgstr "Темне Високе"
+
+msgid "Failed to parse server response"
+msgstr "Не вдалося проаналізувати відповідь сервера"
+
+msgid "Game is full"
+msgstr "Гра завантажена на повну"
+
+msgid "Level name"
+msgstr "Назва рівня"
+
+msgid "Local Multiplayer"
+msgstr "Локальний Мультиплеєр"
+
+msgid "Lost connection to server"
+msgstr "Втрачено зв’язок із сервером"
+
+msgid "Low"
+msgstr "Низька"
+
+msgid "Medals: %s"
+msgstr "Медалі: %s"
+
+msgid "Medium"
+msgstr "Середня"
+
+msgid "Missing information. This should not happen!"
+msgstr "Відсутня інформація. Цього не мало статися!"
+
+msgid "More information"
+msgstr "Більше інформації"
+
+msgid "Renderer: %s"
+msgstr "Візуалізатор: %s"
+
+msgid "Select level"
+msgstr "Вибір рівню"
+
+msgid "The background is expensive to compute"
+msgstr "Фон дорого обчислити"
+
+msgid "Yes!"
+msgstr "Так!"
+
+msgid "You are already in the game!"
+msgstr "Ти вже у грі!"
+
+msgid "You can finally code your own levels!"
+msgstr "Ви нарешті можете кодувати власні рівні!"
+

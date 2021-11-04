@@ -1,1115 +1,1100 @@
-# ui_helpers.cpp
-msgid "off"
-msgstr "kapalı"
-
-# ui_helpers.cpp
+#: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
 msgstr "açık"
 
-# keyboard_view.cpp
+#: ../client/application/ui/ui_helpers.cpp:64
+msgid "off"
+msgstr "kapalı"
+
+#: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
 msgstr "tamam"
 
-# game.cpp
+#: ../client/application/game/game.cpp:160
 msgid "Quick pause"
 msgstr "Seri duraklama"
 
-# game.cpp
+#: ../client/application/game/game.cpp:166
 msgid "Quick pause %s"
 msgstr "Seri duraklama %s"
 
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
 msgstr "Devam et"
 
-# pause_ui.cpp
-msgid "Exit"
-msgstr "Çık"
-
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
 msgstr "Duraklat"
 
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
 msgstr "Yeniden başla"
 
-# game_over_ui.cpp
-msgid "Game Over"
-msgstr "Oyun bitti"
+#: ../client/application/game/ui/pause_ui.cpp:72
+msgid "Exit"
+msgstr "Çık"
 
-# game_over_ui.cpp
+#: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
 msgstr "Yeniden oyna"
 
-# shared_strings.cpp
-msgid "Casual"
-msgstr "Sıralamasız"
+#: ../client/application/game/ui/game_over_ui.cpp:34
+msgid "Game Over"
+msgstr "Oyun bitti"
 
-# shared_strings.cpp
-msgid "Community levels"
-msgstr "Topluluk haritaları"
-
-# shared_strings.cpp
-msgid "Failed to contact server"
-msgstr "Sunucuya bağlantı kurmak başarısız oldu"
-
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
 msgstr "Yanıt almada hata oluştu"
 
-# shared_strings.cpp
-msgid "Failed to sign-in!"
-msgstr "Giriş yapımı gerçekleşmemiş!"
+#: ../client/application/game/ui/shared_strings.cpp:11
+msgid "Failed to contact server"
+msgstr "Sunucuya bağlantı kurmak başarısız oldu"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
 msgstr "Resmi haritalar"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:19
+msgid "Community levels"
+msgstr "Topluluk haritaları"
+
+#: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
 msgstr "oynama sayısı %s"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
 msgstr "oynama zamanı %s"
 
-# screen_download_level.cpp
+#: ../client/application/game/ui/shared_strings.cpp:31
+msgid "Casual"
+msgstr "Sıralamasız"
+
+#: ../client/application/game/ui/shared_strings.cpp:35
+msgid "Failed to sign-in!"
+msgstr "Giriş yapımı gerçekleşmemiş!"
+
+#: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
 msgstr "Harita yükleniyor..."
 
-# screen_specify_server_ip.cpp
-msgid "Connect"
-msgstr "Bağlan"
-
-# screen_specify_server_ip.cpp
-msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "İnternet vasıtasıyla başka bşr odaya bağlan #ff0000ff(deneysel)"
-
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:23
 msgid "Connect to server"
 msgstr "Sunucuya bağlan"
 
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:55
 msgid "IP:"
 msgstr "İP:"
 
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:63
 msgid "Port:"
 msgstr "Port:"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "İnternet vasıtasıyla başka bşr odaya bağlan #ff0000ff(deneysel)"
+
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
+msgid "Connect"
+msgstr "Bağlan"
+
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:29
 msgid "Enter password"
 msgstr "Şifreyi gir"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:32
 msgid "Join"
 msgstr "Katıl"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:45
 msgid "Password:"
 msgstr "Şifre:"
 
-# screen_configure_touch_joystick.cpp
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:83
 msgid "Configure joysticks"
 msgstr "Joystickleri düzenle"
 
-# screen_configure_touch_joystick.cpp
-msgid "Reset"
-msgstr "Yenile"
-
-# screen_configure_touch_joystick.cpp
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Swap"
 msgstr "Değiştir"
 
-# screen_select_multiplayer_type.cpp
-msgid "LAN multiplayer"
-msgstr "LAN çok oyunculu"
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:103
+msgid "Reset"
+msgstr "Yenile"
 
-# screen_select_multiplayer_type.cpp
-msgid "Online multiplayer"
-msgstr "Online çok oyunculu"
-
-# screen_select_multiplayer_type.cpp
-msgid "Play with people around the world!"
-msgstr "Dünya çapından kişilerle birlikte oyna!"
-
-# screen_select_multiplayer_type.cpp
-msgid "Play with people on the same network!"
-msgstr "Aynı ağa bağlanan kişilerle birlikte oyna!"
-
-# screen_select_multiplayer_type.cpp
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:23
 msgid "Select multiplayer type"
 msgstr "Çok oyunculu oyun türünü seç"
 
-# screen_lan_create_or_join.cpp
-msgid "(Incompatible version)"
-msgstr "(Uyumsuz sürüm)"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:27
+msgid "Online multiplayer"
+msgstr "Online çok oyunculu"
 
-# screen_lan_create_or_join.cpp
-msgid "Close room"
-msgstr "Odayı kapat"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
+msgid "Play with people around the world!"
+msgstr "Dünya çapından kişilerle birlikte oyna!"
 
-# screen_lan_create_or_join.cpp
-msgid "Connecting to a phone's hotspot should work!"
-msgstr "Telefon erişim noktasına bağlanmak da çalışabilir!"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
+msgid "LAN multiplayer"
+msgstr "LAN çok oyunculu"
 
-# screen_lan_create_or_join.cpp
-msgid "Create room"
-msgstr "Oday kur"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:64
+msgid "Play with people on the same network!"
+msgstr "Aynı ağa bağlanan kişilerle birlikte oyna!"
 
-# screen_lan_create_or_join.cpp
-msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Puan tablosunda iki oyuncunun da gözükmesi için her oyuncu ayrı bir şekilde tekrarlamayı yüklemeleri lazım."
-
-# screen_lan_create_or_join.cpp
-msgid "Help"
-msgstr "Yardım"
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
 msgstr "Yerel çok oyunculu"
 
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
+msgid "Help"
+msgstr "Yardım"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:55
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
 msgstr "Yerel çok oyunculu oyunlar aynı wifi ağına bağlanan iki oyuncu arasında oynanabilir."
 
-# screen_lan_create_or_join.cpp
-msgid "Multiplayer help"
-msgstr "Çok oyunculu oyunlar yardımı"
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:56
 msgid "One player must create a room, which the other player joins."
 msgstr "Bir oyuncu odayı kurur, diğer oyuncu ise bu odaya katılır."
 
-# screen_lan_create_or_join.cpp
-msgid "Searching for rooms..."
-msgstr "Odalar aranıyor..."
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
 msgstr "Wifi ağı internete bağlanmak zorunda değil."
 
-# screen_configure_ship.cpp
-msgid "Bullets"
-msgstr "Mermi"
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:58
+msgid "Connecting to a phone's hotspot should work!"
+msgstr "Telefon erişim noktasına bağlanmak da çalışabilir!"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:59
+msgid "Each player need to upload the replay separately to both appear in the online leader board."
+msgstr "Puan tablosunda iki oyuncunun da gözükmesi için her oyuncu ayrı bir şekilde tekrarlamayı yüklemeleri lazım."
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:74
+msgid "Multiplayer help"
+msgstr "Çok oyunculu oyunlar yardımı"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:124
+msgid "Searching for rooms..."
+msgstr "Odalar aranıyor..."
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:185
+msgid "(Incompatible version)"
+msgstr "(Uyumsuz sürüm)"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:206
+msgid "Create room"
+msgstr "Oday kur"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:208
+msgid "Close room"
+msgstr "Odayı kapat"
+
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
 msgstr "Gemiyi düzenle"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
 msgstr "Model"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
 msgstr "Kuyruk"
 
-# screen_upload_scores.cpp
-msgid "Failed to upload replays."
-msgstr "Tekrarlamalar yüklenememiştir."
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+msgid "Bullets"
+msgstr "Mermi"
 
-# screen_upload_scores.cpp
-msgid "Nothing to upload!"
-msgstr "Yüklenecek bir şey yok!"
-
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:22
 msgid "Upload scores"
 msgstr "Tekrarlamaları yükle"
 
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
+msgid "Nothing to upload!"
+msgstr "Yüklenecek bir şey yok!"
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
+msgid "Failed to upload replays."
+msgstr "Tekrarlamalar yüklenememiştir."
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
 msgstr "Yükleme başarılı"
 
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
 msgstr "%s için tekrarlamalar yükleniyor."
 
-# screen_career.cpp
+#: ../client/application/game/ui/screens/screen_career.cpp:39
 msgid "Statistics"
 msgstr "İstatistikler"
 
-# screen_select_level_of_author.cpp
+#: ../client/application/game/ui/screens/screen_select_level_of_author.cpp:42
 msgid "Levels by %s"
 msgstr "Bu haritalar %s tarafından yapılmıştır"
 
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
 msgid "Configure keyboard"
 msgstr "Klaviyeyi düzenle"
 
-# screen_configure_keyboard.cpp
-msgid "Mouse aim %s"
-msgstr "Fare ile hedefleme %s"
-
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
 msgid "Move"
 msgstr "Yer değiştir"
 
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
 msgstr "Atış atmak"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Authenticating..."
-msgstr "Eşleştiriliyor..."
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
+msgid "Mouse aim %s"
+msgstr "Fare ile hedefleme %s"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
-
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:71
 msgid "Checking network..."
 msgstr ""
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Error :("
-msgstr "Hata :("
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
+msgid "Can't play in multiplayer with a symmetric NAT."
+msgstr ""
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Failed to authenticate"
-msgstr "Eşleştirme başarısız"
-
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
 msgstr ""
 
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
+msgid "Authenticating..."
+msgstr "Eşleştiriliyor..."
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:112
 msgid "Need the latest version of the game."
 msgstr "Oyunun en yeni sürümü gerekli."
 
-# screen_online_list_rooms.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:121
+msgid "Failed to authenticate"
+msgstr "Eşleştirme başarısız"
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
+msgid "Error :("
+msgstr "Hata :("
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
+msgid "Are you sure you want to report this comment?"
+msgstr ""
+
+#. Shown in a notification after successfully reporting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
+msgid "Successfully reported comment"
+msgstr ""
+
+#. Shown in a notification if a comment could not be reported.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:163
+msgid "Error reporting comment"
+msgstr ""
+
+#. The title of the screen where players delete comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:200
+msgid "Delete comment"
+msgstr ""
+
+#. Shown in a notification after successfully deleting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
+msgid "Successfully deleted comment"
+msgstr ""
+
+#. Shown in a notification if a comment could not be deleting.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:204
+msgid "Error deleting comment"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#. Used as a placeholder in the textfield where players write their comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
+msgid "<Add a comment here>"
+msgstr ""
+
+#. Displayed in a button. Pressing that button posts the comment that was
+#. written by the player.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:316
+msgid "Comment"
+msgstr ""
+
+#. Shown in a notification if the player tries to post a comment that is
+#. less than 3 character long.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
+msgid "Comment must be at least 3 characters long."
+msgstr ""
+
+#. Shown in the title of the screen where the player waits for the comment
+#. to be posted to the server.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
+msgid "Posting comment"
+msgstr ""
+
+#. Shown in a notification after a comment was succesfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:388
+msgid "Comment posted"
+msgstr ""
+
+#. Shown in a notification after a comment was succesfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
+msgid "Failed to post comment"
+msgstr ""
+
+#. The title of the screen where players report comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
+msgctxt "report_screen_title"
+msgid "Report comment"
+msgstr ""
+
+#. The title of the screen where players enter the comment they want to add.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
+msgctxt "add_comment_screen_title"
+msgid "Add comment"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking wether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
+msgctxt "menu_confirm_action"
+msgid "Yes"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking whether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:474
+msgctxt "menu_cancel_action"
+msgid "No"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:95
 msgid "Refresh"
 msgstr "Yenile"
 
-# screen_settings_language.cpp
-msgid "Contributors"
-msgstr "Katılımcılar"
-
-# screen_settings_language.cpp
-msgid "Default language"
-msgstr "Varsayılan dil"
-
-# screen_settings_language.cpp
-msgid "Help out"
-msgstr "Yardım ver"
-
-# screen_settings_language.cpp
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:22
 msgid "Language Settings"
 msgstr "Dil ayarları"
 
-# screen_settings_language.cpp
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:26
 msgid "The translations are community provided!"
 msgstr "Çeviriler topluluk tarafından sağlanmaktadır!"
 
-# screen_view_high_scores.cpp
-msgid "1p"
-msgstr "1p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:35
+msgid "Default language"
+msgstr "Varsayılan dil"
 
-# screen_view_high_scores.cpp
-msgid "2p"
-msgstr "2p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:50
+msgid "Help out"
+msgstr "Yardım ver"
 
-# screen_view_high_scores.cpp
-msgid "3p"
-msgstr "3p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:60
+msgid "Contributors"
+msgstr "Katılımcılar"
 
-# screen_view_high_scores.cpp
-msgid "4p"
-msgstr "4p"
-
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:25
 msgid "Africa"
 msgstr "Afrika"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:26
 msgid "Asia"
 msgstr "Asya"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
 msgid "Europe"
 msgstr "Avrupa"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:28
 msgid "North America"
 msgstr "Kuzey Amerika"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:29
 msgid "Oceania"
 msgstr "Okyanusya"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:30
 msgid "South America"
 msgstr "Güney Amerika"
 
-# screen_view_high_scores.cpp
-msgid "continent"
-msgstr "kıta"
-
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "personal"
 msgstr "kişisel"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "region"
 msgstr "yerel"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "world"
 msgstr "dünya"
 
-# screen_benchmark.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:120
+msgid "continent"
+msgstr "kıta"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "1p"
+msgstr "1p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "2p"
+msgstr "2p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "3p"
+msgstr "3p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:154
+msgid "4p"
+msgstr "4p"
+
+#: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
 msgstr "Geç"
 
-# screen_main_menu.cpp
-msgid "Multiplayer"
-msgstr "Çok oyunculu"
-
-# screen_main_menu.cpp
-msgid "Play"
-msgstr "Oyna"
-
-# screen_main_menu.cpp
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:42
 msgid "Single Player"
 msgstr "Tek Oyunculu"
 
-# screen_online_create_or_join_room.cpp
-msgid "Creating room"
-msgstr "Oda kuruluyor"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:45
+msgid "Play"
+msgstr "Oyna"
 
-# screen_online_create_or_join_room.cpp
-msgid "Failed to join room"
-msgstr "Odaya katılmak başarısız"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:63
+msgid "Multiplayer"
+msgstr "Çok oyunculu"
 
-# screen_online_create_or_join_room.cpp
-msgid "Incorrect password"
-msgstr "Hatalı şifre"
-
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
 msgid "Joining room"
 msgstr "Odaya katılıyor"
 
-# screen_online_create_or_join_room.cpp
-msgid "Room is full"
-msgstr "Oda dolu"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
+msgid "Creating room"
+msgstr "Oda kuruluyor"
 
-# screen_online_create_or_join_room.cpp
-msgid "The room does not exist anymore"
-msgstr "Oda artık yok"
-
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:336
 msgid "The room expired"
 msgstr "Odanın süresi geçti"
 
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
 msgid "Unknown error"
 msgstr "Bilinmeyen bir hata oluştu"
 
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:365
+msgid "Failed to join room"
+msgstr "Odaya katılmak başarısız"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
+msgid "Incorrect password"
+msgstr "Hatalı şifre"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "You are already in the room!"
 msgstr "Siz zaten odadasınız!"
 
-# screen_tutorial.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:385
+msgid "The room does not exist anymore"
+msgstr "Oda artık yok"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:388
+msgid "Room is full"
+msgstr "Oda dolu"
+
+#: ../client/application/game/ui/screens/screen_tutorial.cpp:34
 msgid "Tutorial"
 msgstr "Öğrenme"
 
-# screen_online_configure_room.cpp
-msgid "2 extra characters (optional):"
-msgstr "2 ekstra karakter (zorunlu değil):"
-
-# screen_online_configure_room.cpp
-msgid "Any level"
-msgstr "Herhangi bir harita"
-
-# screen_online_configure_room.cpp
-msgid "Password (optional):"
-msgstr "Şifre (zorunlu değil)"
-
-# screen_online_configure_room.cpp
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:44
 msgid "Room configuration"
 msgstr "Oda konfigürasyonu"
 
-# screen_online_configure_room.cpp
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:70
+msgid "2 extra characters (optional):"
+msgstr "2 ekstra karakter (zorunlu değil):"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:103
+msgid "Password (optional):"
+msgstr "Şifre (zorunlu değil)"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:139
+msgid "Any level"
+msgstr "Herhangi bir harita"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:187
 msgid "Room name: %s"
 msgstr "Oda adı: %s"
 
-# screen_informations_music.cpp
+#: ../client/application/game/ui/screens/screen_informations_music.cpp:29
 msgid "Music"
 msgstr "Müzik"
 
-# screen_server_connection_closed.cpp
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:18
 msgid "Connection error"
 msgstr "Bağlanma hatası"
 
-# screen_server_connection_closed.cpp
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:22
 msgid "Lost connection to host"
 msgstr ""
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:23
 msgid "Audio Settings"
 msgstr "Ses Ayarları"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:36
 msgid "Sound effects"
 msgstr "Sesler"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:106
 msgid "Visualization"
 msgstr "Görselleştirme"
 
-# screen_watch_replay.cpp
-msgid "Failed to download replay."
-msgstr "Tekrarlama yüklemesi başarısız."
-
-# screen_watch_replay.cpp
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:50
 msgid "Failed to read replay."
 msgstr "Tekrarlama okuması başarısız."
 
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffTopluluk#ffffffff haritaları SİZİN toplumun tarafından inşa edilmiştir."
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
+msgid "Failed to download replay."
+msgstr "Tekrarlama yüklemesi başarısız."
 
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffDeneysel#ffffffff haritalar daha yayınlanmamış haritalardır."
-
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffResmi#ffffffff haritalar benim (JF) tarafından yapılmış olup, sizin madalya kazanmanızı sağlar."
-
-# screen_select_single_player_level.cpp
-msgid "About the levels"
-msgstr "Haritalar hakkında"
-
-# screen_select_single_player_level.cpp
-msgid "Community"
-msgstr "Topluluk"
-
-# screen_select_single_player_level.cpp
-msgid "Experimental"
-msgstr "Deneysel"
-
-# screen_select_single_player_level.cpp
-msgid "Experimental levels"
-msgstr "Deneysel haritalar"
-
-# screen_select_single_player_level.cpp
-msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "Daha fazla bilgi için github.com/jyaif/ppl-utils"
-
-# screen_select_single_player_level.cpp
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:39
 msgid "Official"
 msgstr "Resmi"
 
-# screen_view_level.cpp
-msgid "Error reading manifest"
-msgstr "Manifest okuma hatası"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
+msgid "Community"
+msgstr "Topluluk"
 
-# screen_view_level.cpp
-msgid "Experimental level"
-msgstr "Deneysel harita"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:42
+msgid "Experimental"
+msgstr "Deneysel"
 
-# screen_view_level.cpp
-msgid "Failed to download manifest"
-msgstr "Manifest alma hatası"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:84
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffResmi#ffffffff haritalar benim (JF) tarafından yapılmış olup, sizin madalya kazanmanızı sağlar."
 
-# screen_view_level.cpp
-msgid "Loading..."
-msgstr "Yükleniyor..."
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:85
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffTopluluk#ffffffff haritaları SİZİN toplumun tarafından inşa edilmiştir."
 
-# screen_view_level.cpp
-msgid "Local best: %s"
-msgstr "Yerel en iyi: %s"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:86
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Daha fazla bilgi için github.com/jyaif/ppl-utils"
 
-# screen_view_level.cpp
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:87
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffDeneysel#ffffffff haritalar daha yayınlanmamış haritalardır."
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:102
+msgid "About the levels"
+msgstr "Haritalar hakkında"
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:146
+msgid "Experimental levels"
+msgstr "Deneysel haritalar"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
 msgstr "Dünya rekoru: %s"
 
-# screen_view_level.cpp
-msgid "average score: %s"
-msgstr "ortalama skor: %s"
+#: ../client/application/game/ui/screens/screen_view_level.cpp:36
+msgid "Local best: %s"
+msgstr "Yerel en iyi: %s"
 
-# screen_view_level.cpp
+#: ../client/application/game/ui/screens/screen_view_level.cpp:73
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:109
+msgid "Error reading manifest"
+msgstr "Manifest okuma hatası"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:114
+msgid "Failed to download manifest"
+msgstr "Manifest alma hatası"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:138
 msgid "by %s"
 msgstr "kurucu %s tarafından yapılmıştır"
 
-# screen_settings_controls.cpp
+#: ../client/application/game/ui/screens/screen_view_level.cpp:237
+msgid "average score: %s"
+msgstr "ortalama skor: %s"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:364
+msgid "Experimental level"
+msgstr "Deneysel harita"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:20
 msgid "Controls Settings"
 msgstr "Kontrol Ayarları"
 
-# screen_settings_controls.cpp
-msgid "Keyboard"
-msgstr "Klaviye"
-
-# screen_settings_controls.cpp
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
 msgstr "Dokunmatik ekran"
 
-# screen_informations.cpp
-msgid "Development videos"
-msgstr "Geliştirme vidyoları"
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:36
+msgid "Keyboard"
+msgstr "Klaviye"
 
-# screen_informations.cpp
+#: ../client/application/game/ui/screens/screen_informations.cpp:37
 msgid "Directed by %s"
 msgstr ""
 
-# screen_informations.cpp
+#: ../client/application/game/ui/screens/screen_informations.cpp:63
+msgid "Development videos"
+msgstr "Geliştirme vidyoları"
+
+#: ../client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Discord server"
 msgstr "Discord sunucusu"
 
-# screen_settings.cpp
-msgid "Audio"
-msgstr "Ses"
-
-# screen_settings.cpp
-msgid "Controls"
-msgstr "Kontroller"
-
-# screen_settings.cpp
-msgid "Developer mode"
-msgstr "Geliştirici modu"
-
-# screen_settings.cpp
-msgid "Language"
-msgstr "Dil"
-
-# screen_settings.cpp
-msgid "Launch intro"
-msgstr "İntroyu göster"
-
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:36
 msgid "Settings"
 msgstr "Ayarlar"
 
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:79
+msgid "Controls"
+msgstr "Kontroller"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:88
+msgid "Audio"
+msgstr "Ses"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:98
+msgid "Language"
+msgstr "Dil"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:136
 msgid "Start tutorial"
 msgstr "Öğren"
 
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:146
+msgid "Launch intro"
+msgstr "İntroyu göster"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:155
+msgid "Developer mode"
+msgstr "Geliştirici modu"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:206
 msgid "Vibration %s"
 msgstr "Titreşim %s"
 
-# screen_multiplayer_lobby.cpp
-msgid "Cancel"
-msgstr "İptal et"
-
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:205
 msgid "Local lobby"
 msgstr "Yerli oda"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:208
 msgid "Online lobby"
 msgstr "Online oda"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:215
 msgid "Ready"
 msgstr "Hazır ol"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:224
+msgid "Cancel"
+msgstr "İptal et"
+
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:367
 msgid "Waiting for other players..."
 msgstr "Diğer oyuncular bekleniyor..."
 
-# screen_edit_nickname.cpp
-msgid "Change"
-msgstr ""
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:25
 msgid "Change colors"
 msgstr ""
 
-# screen_edit_nickname.cpp
-msgid "Failed to update username"
-msgstr ""
-
-# screen_edit_nickname.cpp
-msgid "New username:"
-msgstr ""
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:38
 msgid "Old username:"
 msgstr ""
 
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:41
+msgid "New username:"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:55
+msgid "Change"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:73
 msgid "Only change colors! %s"
 msgstr ""
 
-# screen_edit_nickname.cpp
-msgid "Username change succesfull"
-msgstr ""
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:86
 msgid "Username color change"
 msgstr ""
 
-# screen_signin.cpp
-msgid "Check your inbox!"
-msgstr "Gelen kutusuna bakınız!"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:94
+msgid "Username change succesfull"
+msgstr ""
 
-# screen_signin.cpp
-msgid "Email"
-msgstr "Email"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:105
+msgid "Failed to update username"
+msgstr ""
 
-# screen_signin.cpp
-msgid "Email not verified"
-msgstr "Email doğrulanmamıştır"
-
-# screen_signin.cpp
-msgid "Failed to request password reset"
-msgstr "Şifre değiştirme başvurusu başarılı olmadı"
-
-# screen_signin.cpp
-msgid "Failed to resend email"
-msgstr "Email geri göndermesi oluşmamıştır"
-
-# screen_signin.cpp
-msgid "Password"
-msgstr "Şifre"
-
-# screen_signin.cpp
-msgid "Password reset email sent"
-msgstr "Şifre değiştirme emaili göderilmiştir"
-
-# screen_signin.cpp
-msgid "Re-send verification email"
-msgstr "Doğrulama emailini bir daha göder"
-
-# screen_signin.cpp
-msgid "Request password reset"
-msgstr "Şifre değiştirme başvurusu iste"
-
-# screen_signin.cpp
-msgid "Requesting password reset"
-msgstr "Şifre değiştirme başvurusu isteniyor"
-
-# screen_signin.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:30
 msgid "Requesting verification email"
 msgstr "Email doğrulama isteniyor"
 
-# screen_signin.cpp
-msgid "Reset password"
-msgstr "Şifreyi sıfırla"
-
-# screen_signin.cpp
-msgid "Sign in"
-msgstr "Giriş yap"
-
-# screen_signin.cpp
-msgid "Signing in"
-msgstr "Giriş yapılıyor"
-
-# screen_signin.cpp
-msgid "Successfully signed in!"
-msgstr "Başarılı giriş yapıldı!"
-
-# screen_signin.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Verification email sent"
 msgstr "Doğrulama emaili göderilmiştir"
 
-# screen_synchronize.cpp
-msgid "All your medals are here."
-msgstr "Tüm madelyaların burada."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:38
+msgid "Check your inbox!"
+msgstr "Gelen kutusuna bakınız!"
 
-# screen_synchronize.cpp
-msgid "Failed to download backup data"
-msgstr "Yedek verileri yüklemek başarısız"
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:42
+msgid "Failed to resend email"
+msgstr "Email geri göndermesi oluşmamıştır"
 
-# screen_synchronize.cpp
-msgid "Failed to synchronize."
-msgstr "Senkronizasyon başarısız."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:53
+msgid "Requesting password reset"
+msgstr "Şifre değiştirme başvurusu isteniyor"
 
-# screen_synchronize.cpp
-msgid "Synchronization completed."
-msgstr "Senkronizasyon başarılı."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:59
+msgid "Password reset email sent"
+msgstr "Şifre değiştirme emaili göderilmiştir"
 
-# screen_synchronize.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:66
+msgid "Failed to request password reset"
+msgstr "Şifre değiştirme başvurusu başarılı olmadı"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:86
+msgid "Sign in"
+msgstr "Giriş yap"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
+msgid "Email"
+msgstr "Email"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
+msgid "Password"
+msgstr "Şifre"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:144
+msgid "Signing in"
+msgstr "Giriş yapılıyor"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:159
+msgid "Successfully signed in!"
+msgstr "Başarılı giriş yapıldı!"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
+msgid "Email not verified"
+msgstr "Email doğrulanmamıştır"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:173
+msgid "Re-send verification email"
+msgstr "Doğrulama emailini bir daha göder"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:191
+msgid "Request password reset"
+msgstr "Şifre değiştirme başvurusu iste"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:217
+msgid "Reset password"
+msgstr "Şifreyi sıfırla"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:34
 msgid "Synchronizing"
 msgstr "Senkronize ediliyor"
 
-# screen_synchronize.cpp
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:83
+msgid "Failed to synchronize."
+msgstr "Senkronizasyon başarısız."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:109
 msgid "You've been signed out."
 msgstr "Çıkış yapıldı."
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:143
+msgid "Failed to download backup data"
+msgstr "Yedek verileri yüklemek başarısız"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:192
+msgid "Synchronization completed."
+msgstr "Senkronizasyon başarılı."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:193
+msgid "All your medals are here."
+msgstr "Tüm madelyaların burada."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Account"
 msgstr "Hesap"
 
-# screen_signed_out.cpp
-msgid "Create an account to set your name and sync your data"
-msgstr "İsim koymak ve verilerini eşitlemek için hesap yap"
-
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:25
 msgid "Not signed in"
 msgstr "Giriş yapılmamıştır"
 
-# screen_signed_out.cpp
-msgid "Privacy Policy"
-msgstr "Gizlilik Politikası"
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:29
+msgid "Create an account to set your name and sync your data"
+msgstr "İsim koymak ve verilerini eşitlemek için hesap yap"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:33
 msgid "Register"
 msgstr "Hesap oluştur"
 
-# screen_signed_out.cpp
-msgid "You need to be signed-in to play online"
-msgstr "Online oynamak için giriş yapmış olmalısınız"
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:58
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:100
 msgid "You need to be signed-in to upload scores"
 msgstr "Skor yüklemek için giriş yapmış olmalısınız"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:103
+msgid "You need to be signed-in to play online"
+msgstr "Online oynamak için giriş yapmış olmalısınız"
+
+#. Error message shown if to the player when they are trying to view
+#. comments while not signed-in.
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
+msgid "You need to be signed-in to view comments"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
 msgstr "Sizin hesabınız"
 
-# screen_register.cpp
-msgid "Confirm email"
-msgstr "Emaili doğrula"
-
-# screen_register.cpp
-msgid "Confirm email:"
-msgstr "Emaili doğrula:"
-
-# screen_register.cpp
-msgid "Confirm password"
-msgstr "Şifreyi doğrula"
-
-# screen_register.cpp
-msgid "Confirm password:"
-msgstr "Şifreyi doğrula:"
-
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:23
 msgid "Email is invalid!"
 msgstr "Email geçersizdir!"
 
-# screen_register.cpp
-msgid "Email:"
-msgstr "Email:"
-
-# screen_register.cpp
-msgid "Emails do not match!"
-msgstr "Emailler eşleşmiyor!"
-
-# screen_register.cpp
-msgid "Failed to register"
-msgstr "Hesap yapımı başarısız"
-
-# screen_register.cpp
-msgid "Passwords do not match!"
-msgstr "Şifreler eşleşmiyor!"
-
-# screen_register.cpp
-msgid "Please check your emails!"
-msgstr "Lütfen emaillerinize bakınız"
-
-# screen_register.cpp
-msgid "Register account"
-msgstr "Hesap yap"
-
-# screen_register.cpp
-msgid "Registering"
-msgstr "Hesap yapılıyor"
-
-# screen_register.cpp
-msgid "Registration successful."
-msgstr "Hesap yapımı başarılı."
-
-# screen_register.cpp
-msgid "Too long. Maximum %s characters."
-msgstr "Çok uzun. En çok %s karakter kullanabilirsiniz."
-
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:48
 msgid "Too short. Minimum %s characters."
 msgstr "Çok kısa. En az %s karakter kullanabilirsiniz."
 
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:55
+msgid "Too long. Maximum %s characters."
+msgstr "Çok uzun. En çok %s karakter kullanabilirsiniz."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:76
+msgid "Register account"
+msgstr "Hesap yap"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
 msgid "Username"
 msgstr "Kullanıcı adı"
 
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
+msgid "Confirm password"
+msgstr "Şifreyi doğrula"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:89
+msgid "Confirm email"
+msgstr "Emaili doğrula"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
+msgid "Registering"
+msgstr "Hesap yapılıyor"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
+msgid "Registration successful."
+msgstr "Hesap yapımı başarılı."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:147
+msgid "Please check your emails!"
+msgstr "Lütfen emaillerinize bakınız"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:151
+msgid "Failed to register"
+msgstr "Hesap yapımı başarısız"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:183
 msgid "Username (you can put colors in!):"
 msgstr "Kullanıcı adı (renk kullanabilirsiniz!):"
 
-# screen_signed_in.cpp
-msgid "Account deletion"
-msgstr ""
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Confirm password:"
+msgstr "Şifreyi doğrula:"
 
-# screen_signed_in.cpp
-msgid "Account deletion requested."
-msgstr ""
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Email:"
+msgstr "Email:"
 
-# screen_signed_in.cpp
-msgid "An email asking for confirmation was sent."
-msgstr ""
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Confirm email:"
+msgstr "Emaili doğrula:"
 
-# screen_signed_in.cpp
-msgid "Delete account"
-msgstr ""
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:218
+msgid "Passwords do not match!"
+msgstr "Şifreler eşleşmiyor!"
 
-# screen_signed_in.cpp
-msgid "Failed to request account deletion"
-msgstr ""
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:227
+msgid "Emails do not match!"
+msgstr "Emailler eşleşmiyor!"
 
-# screen_signed_in.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:42
 msgid "Online profile"
 msgstr "Online profil"
 
-# screen_signed_in.cpp
-msgid "Sign out"
-msgstr "Çıkış yap"
-
-# screen_signed_in.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:68
 msgid "Synchronize"
 msgstr "Senkronize et"
 
-# top_notification_view.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:88
+msgid "Sign out"
+msgstr "Çıkış yap"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:100
+msgid "Delete account"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:115
+msgid "Account deletion"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:122
+msgid "Account deletion requested."
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:124
+msgid "An email asking for confirmation was sent."
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:129
+msgid "Failed to request account deletion"
+msgstr ""
+
+#: ../client/application/game/ui/views/top_notification_view.cpp:55
 msgid "%sWaiting for other player%s"
 msgstr ""
 
-# game_hud.cpp
+#: ../client/application/game/ui/views/game_hud.cpp:48
 msgid "Shield: %s"
 msgstr "Kalkan: %s"
 
-# community_level_selector.cpp
+#: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
 msgstr "İncelemede"
 
-# player_data_manager.cpp
+#: ../client/application/game/player_data/player_data_manager.cpp:248
 msgid "New personal best! %s ⇨ %s"
 msgstr "Yenş kişisel rekor! %s ⇨ %s"
 
-# game_network_message_parser.cpp
+#: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
 msgstr "%s oyundan çıktı"
 
-# game_state.cpp
-msgid "Accuracy: %s"
-msgstr "Doğruluk oranı: %s"
-
-# game_state.cpp
+#: ../client/application/game/state/game_state.cpp:445
 msgid "N/A"
 msgstr "ø"
 
-# game_levels.cpp
-msgid "Choose your own difficulty"
-msgstr "Kendi zorluk seviyesini seç"
+#: ../client/application/game/state/game_state.cpp:456
+msgid "Accuracy: %s"
+msgstr "Doğruluk oranı: %s"
 
-# game_levels.cpp
+#: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
 msgstr "Her şeyden uzaklaş ve SAĞ olursun"
 
-# game_levels.cpp
-msgid "Euclidean space is overrated"
-msgstr "Normal yer anlayışı sıkıcı"
-
-# game_levels.cpp
-msgid "Green good. Red bad."
-msgstr "Yeşil iyi, kırmızı kötü."
-
-# game_levels.cpp
-msgid "Just 32 seconds of skills"
-msgstr "Sadece 32 saniye acaba ne kadar zor olabilir ki?"
-
-# game_levels.cpp
-msgid "My favorite mode"
-msgstr "En sevdiğim harita"
-
-# game_levels.cpp
-msgid "Never trust a six-sided polygon"
-msgstr "Altı kenarlı bir köşegeni hiç güvenme"
-
-# game_levels.cpp
-msgid "Previously known as Assault"
-msgstr "Eskiden Assault olarak bilinirdi"
-
-# game_levels.cpp
-msgid "RIP GW3:Dimensions"
-msgstr "GW3:Dimensions'a geri dönüşler"
-
-# game_levels.cpp
-msgid "Survive 32 seconds with this simple trick"
-msgstr "32 saniye boyunca hayatta kalabilirmisin?"
-
-# game_levels.cpp
-msgid "Unrelated to \"Super Hexagon\""
-msgstr "\"Super Hexagon\" ile hiç bir alakası yok"
-
-# game_levels.cpp
-msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Bu harita bir şaka değil mi?\" - bir oyuncu"
-
-# game_levels.cpp
+#: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
 msgstr "kısaca Bundan Uzaklaş"
 
-# medals.cpp
+#: ../client/application/game/levels/game_levels.cpp:84
+msgid "Green good. Red bad."
+msgstr "Yeşil iyi, kırmızı kötü."
+
+#: ../client/application/game/levels/game_levels.cpp:95
+msgid "Never trust a six-sided polygon"
+msgstr "Altı kenarlı bir köşegeni hiç güvenme"
+
+#: ../client/application/game/levels/game_levels.cpp:96
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "\"Super Hexagon\" ile hiç bir alakası yok"
+
+#: ../client/application/game/levels/game_levels.cpp:97
+msgid "Choose your own difficulty"
+msgstr "Kendi zorluk seviyesini seç"
+
+#: ../client/application/game/levels/game_levels.cpp:107
+msgid "Euclidean space is overrated"
+msgstr "Normal yer anlayışı sıkıcı"
+
+#: ../client/application/game/levels/game_levels.cpp:118
+msgid "Just 32 seconds of skills"
+msgstr "Sadece 32 saniye acaba ne kadar zor olabilir ki?"
+
+#: ../client/application/game/levels/game_levels.cpp:118
+msgid "My favorite mode"
+msgstr "En sevdiğim harita"
+
+#: ../client/application/game/levels/game_levels.cpp:119
+msgid "Survive 32 seconds with this simple trick"
+msgstr "32 saniye boyunca hayatta kalabilirmisin?"
+
+#: ../client/application/game/levels/game_levels.cpp:120
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\"Bu harita bir şaka değil mi?\" - bir oyuncu"
+
+#: ../client/application/game/levels/game_levels.cpp:131
+msgid "RIP GW3:Dimensions"
+msgstr "GW3:Dimensions'a geri dönüşler"
+
+#: ../client/application/game/levels/game_levels.cpp:131
+msgid "Previously known as Assault"
+msgstr "Eskiden Assault olarak bilinirdi"
+
+#: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
 msgstr "Yeni bir bronz madalya kazandınız"
 
-# medals.cpp
-msgid "New gold medal"
-msgstr "Yeni bir altın madalya kazandınız"
-
-# medals.cpp
+#: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
 msgstr "Yeni bir gümüş madalya kazandınız"
 
-# renderer_types.cpp
-msgid "Compression friendly"
-msgstr "Kompresyon için iyi"
+#: ../client/application/game/levels/medals.cpp:10
+msgid "New gold medal"
+msgstr "Yeni bir altın madalya kazandınız"
 
-# renderer_types.cpp
-msgid "High"
-msgstr "Yüksek"
-
-# renderer_types.cpp
-msgid "High (Dark)"
-msgstr "Yüksek (Koyu)"
-
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:8
 msgid "Minimal"
 msgstr "Minimal"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "Minimal (Dark)"
 msgstr "Minimal (Koyu)"
 
-# renderer_types.cpp
-msgid "Ultra low 16x"
-msgstr "Aşırı düşük x16"
+#: ../client/application/graphics/renderers/renderer_types.cpp:12
+msgid "High"
+msgstr "Yüksek"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:14
+msgid "High (Dark)"
+msgstr "Yüksek (Koyu)"
+
+#: ../client/application/graphics/renderers/renderer_types.cpp:16
+msgid "Compression friendly"
+msgstr "Kompresyon için iyi"
+
+#: ../client/application/graphics/renderers/renderer_types.cpp:17
 msgid "Ultra low 2x"
 msgstr "Aşırı düşük x2"
 
-# renderer_types.cpp
-msgid "Ultra low 32x"
-msgstr "Aşırı düşük x32"
-
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:19
 msgid "Ultra low 4x"
 msgstr "Aşırı düşük x4"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:21
 msgid "Ultra low 8x"
 msgstr "Aşırı düşük x8"
 
-# The following translations are not in use anymore!
-# They are kept in case they are needed again later.
+#: ../client/application/graphics/renderers/renderer_types.cpp:23
+msgid "Ultra low 16x"
+msgstr "Aşırı düşük x16"
 
-# Currently unused! This string may never be used again!
-msgid "2 extra characters:"
-msgstr "2 karakter daha:"
-
-# Currently unused! This string may never be used again!
-msgid "Career"
-msgstr "Kariyer"
-
-# Currently unused! This string may never be used again!
-msgid "Connect to..."
-msgstr "...'ya bağlan"
-
-# Currently unused! This string may never be used again!
-msgid "Creator"
-msgstr "Kurucu"
-
-# Currently unused! This string may never be used again!
-msgid "Custom levels"
-msgstr "Özel haritalar"
-
-# Currently unused! This string may never be used again!
-msgid "Custom levels?!"
-msgstr "Özel haritalar mı?!"
-
-# Currently unused! This string may never be used again!
-msgid "Dark High"
-msgstr "Karanlık Yüksek"
-
-# Currently unused! This string may never be used again!
-msgid "Failed to parse server response"
-msgstr "Sunucu bağlantısında hata oluşmuş"
-
-# Currently unused! This string may never be used again!
-msgid "Game is full"
-msgstr "Oyun dolu"
-
-# Currently unused! This string may never be used again!
-msgid "Level name"
-msgstr "Harita adı"
-
-# Currently unused! This string may never be used again!
-msgid "Loading level..."
-msgstr "Harita yükleniyor..."
-
-# Currently unused! This string may never be used again!
-msgid "Local Multiplayer"
-msgstr "Yerel çok oyunculu"
-
-# Currently unused! This string may never be used again!
-msgid "Lost connection to server"
-msgstr "Sunucuya bağlantı kesildi"
-
-# Currently unused! This string may never be used again!
-msgid "Low"
-msgstr "Düşük"
-
-# Currently unused! This string may never be used again!
-msgid "Medals: %s"
-msgstr "Madelyalar: %s"
-
-# Currently unused! This string may never be used again!
-msgid "Medium"
-msgstr "Orta"
-
-# Currently unused! This string may never be used again!
-msgid "Missing information. This should not happen!"
-msgstr "Bilgi eksikliği. Bu durum gerçekleşmemeli!"
-
-# Currently unused! This string may never be used again!
-msgid "More information"
-msgstr "Daha fazla bilgi"
-
-# Currently unused! This string may never be used again!
-msgid "Renderer: %s"
-msgstr "Gözletim şekli: %s"
-
-# Currently unused! This string may never be used again!
-msgid "Select level"
-msgstr "Harita seç"
-
-# Currently unused! This string may never be used again!
-msgid "Sign-in"
-msgstr "Giriş yap"
-
-# Currently unused! This string may never be used again!
-msgid "Sign-in confirmation"
-msgstr "Giriş yapım onayı"
-
-# Currently unused! This string may never be used again!
-msgid "Sign-in with \"%s\"?"
-msgstr "ile giriş yap \"%s\"?"
-
-# Currently unused! This string may never be used again!
-msgid "The background is expensive to compute"
-msgstr "Bu arka plan çok pahalı bir şeydir"
-
-# Currently unused! This string may never be used again!
-msgid "Translations"
-msgstr "Çeviriler"
-
-# Currently unused! This string may never be used again!
-msgid "Waiting for the server..."
-msgstr "Sunucu bekleniyor..."
-
-# Currently unused! This string may never be used again!
-msgid "Yes!"
-msgstr "Evet!"
-
-# Currently unused! This string may never be used again!
-msgid "You are already in the game!"
-msgstr "Siz zaten oyundasınız!"
-
-# Currently unused! This string may never be used again!
-msgid "You can finally code your own levels!"
-msgstr "Kendi haritanızı siz de oluşturabilirsiniz!"
+#: ../client/application/graphics/renderers/renderer_types.cpp:25
+msgid "Ultra low 32x"
+msgstr "Aşırı düşük x32"
 

@@ -1,0 +1,90 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "2 extra characters:"
+msgstr "Nombre:"
+
+msgid "Career"
+msgstr "Trayectoria"
+
+msgid "Connect to..."
+msgstr "Conectar a..."
+
+msgid "Creator"
+msgstr "Creador"
+
+msgid "Custom levels"
+msgstr "Niveles personalizados"
+
+msgid "Custom levels?!"
+msgstr "¡¿Niveles personalizados?!"
+
+msgid "Dark High"
+msgstr "Alto, pero Oscuro"
+
+msgid "Failed to parse server response"
+msgstr "Fallo al analizar respuesta del servidor"
+
+msgid "Game is full"
+msgstr "La partida está llena"
+
+msgid "Level name"
+msgstr "Nombre del nivel"
+
+msgid "Loading level..."
+msgstr "Cargando nivel..."
+
+msgid "Local Multiplayer"
+msgstr "Multijugador Local"
+
+msgid "Lost connection to server"
+msgstr "Se perdió la conexión con el servidor"
+
+msgid "Low"
+msgstr "Bajo"
+
+msgid "Medals: %s"
+msgstr "Medallas: %s"
+
+msgid "Medium"
+msgstr "Medio"
+
+msgid "Missing information. This should not happen!"
+msgstr "Falta información. ¡Esto no debería ocurrir!"
+
+msgid "More information"
+msgstr "Más información"
+
+msgid "Renderer: %s"
+msgstr "Renderizado: %s"
+
+msgid "Select level"
+msgstr "Elegir nivel"
+
+msgid "Sign-in"
+msgstr "Iniciar sesión"
+
+msgid "Sign-in confirmation"
+msgstr "Confirmar inicio de sesión"
+
+msgid "Sign-in with \"%s\"?"
+msgstr "¿Iniciar sesión con \"%s\"?"
+
+msgid "The background is expensive to compute"
+msgstr "El fondo es difícil de computar"
+
+msgid "Translations"
+msgstr "Traducciones"
+
+msgid "Waiting for the server..."
+msgstr "Esperando al servidor..."
+
+msgid "Yes!"
+msgstr "¡Sí!"
+
+msgid "You are already in the game!"
+msgstr "¡Ya estás en la partida!"
+
+msgid "You can finally code your own levels!"
+msgstr "¡Ya puedes programar tus propios niveles!"
+

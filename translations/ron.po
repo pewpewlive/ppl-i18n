@@ -1,1043 +1,1100 @@
-# ui_helpers.cpp
-msgid "off"
-msgstr "oprit"
-
-# ui_helpers.cpp
+#: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
 msgstr "pornit"
 
-# keyboard_view.cpp
+#: ../client/application/ui/ui_helpers.cpp:64
+msgid "off"
+msgstr "oprit"
+
+#: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
 msgstr "ok"
 
-# game.cpp
+#: ../client/application/game/game.cpp:160
 msgid "Quick pause"
 msgstr "Pauză rapidă"
 
-# game.cpp
+#: ../client/application/game/game.cpp:166
 msgid "Quick pause %s"
 msgstr "Pauză rapidă %s"
 
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
 msgstr "Continuă"
 
-# pause_ui.cpp
-msgid "Exit"
-msgstr "Ieși"
-
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
 msgstr "Pauză"
 
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
 msgstr "Restart"
 
-# game_over_ui.cpp
-msgid "Game Over"
-msgstr "Sfârșit de joc"
+#: ../client/application/game/ui/pause_ui.cpp:72
+msgid "Exit"
+msgstr "Ieși"
 
-# game_over_ui.cpp
+#: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
 msgstr "Mai joacă odată"
 
-# shared_strings.cpp
-msgid "Casual"
-msgstr "Relaxat"
+#: ../client/application/game/ui/game_over_ui.cpp:34
+msgid "Game Over"
+msgstr "Sfârșit de joc"
 
-# shared_strings.cpp
-msgid "Community levels"
-msgstr "Nivele de comunitate"
-
-# shared_strings.cpp
-msgid "Failed to contact server"
-msgstr "Nu s-a putut conecta la server"
-
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
 msgstr "Nu s-a putut folosi răspunsul"
 
-# shared_strings.cpp
-msgid "Failed to sign-in!"
-msgstr "Nu s-a putut conecta!"
+#: ../client/application/game/ui/shared_strings.cpp:11
+msgid "Failed to contact server"
+msgstr "Nu s-a putut conecta la server"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
 msgstr "Nivele oficiale"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:19
+msgid "Community levels"
+msgstr "Nivele de comunitate"
+
+#: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
 msgstr "te-ai jucat de %s ori"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
 msgstr "te-ai jucat %s"
 
-# screen_download_level.cpp
+#: ../client/application/game/ui/shared_strings.cpp:31
+msgid "Casual"
+msgstr "Relaxat"
+
+#: ../client/application/game/ui/shared_strings.cpp:35
+msgid "Failed to sign-in!"
+msgstr "Nu s-a putut conecta!"
+
+#: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
 msgstr "Se descarcă nivelul..."
 
-# screen_specify_server_ip.cpp
-msgid "Connect"
-msgstr "Conectează-te"
-
-# screen_specify_server_ip.cpp
-msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Conectează-te la o altă cameră folosind internetul #ff0000ff(experimental)"
-
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:23
 msgid "Connect to server"
 msgstr "Conectează-te la server"
 
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:55
 msgid "IP:"
 msgstr "IP:"
 
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:63
 msgid "Port:"
 msgstr "Port:"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Conectează-te la o altă cameră folosind internetul #ff0000ff(experimental)"
+
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
+msgid "Connect"
+msgstr "Conectează-te"
+
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:29
 msgid "Enter password"
 msgstr "Introduce parola"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:32
 msgid "Join"
 msgstr "Intră"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:45
 msgid "Password:"
 msgstr "Parola:"
 
-# screen_configure_touch_joystick.cpp
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:83
 msgid "Configure joysticks"
 msgstr "Configură butoanele"
 
-# screen_configure_touch_joystick.cpp
-msgid "Reset"
-msgstr "Reset"
-
-# screen_configure_touch_joystick.cpp
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Swap"
 msgstr "Schimbă"
 
-# screen_select_multiplayer_type.cpp
-msgid "LAN multiplayer"
-msgstr "Multiplayer LAN"
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:103
+msgid "Reset"
+msgstr "Reset"
 
-# screen_select_multiplayer_type.cpp
-msgid "Online multiplayer"
-msgstr "Multiplayer online"
-
-# screen_select_multiplayer_type.cpp
-msgid "Play with people around the world!"
-msgstr "Joacă-te cu persoane din toată lumea!"
-
-# screen_select_multiplayer_type.cpp
-msgid "Play with people on the same network!"
-msgstr "Joacă-te cu persoane din aceiași rețea!"
-
-# screen_select_multiplayer_type.cpp
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:23
 msgid "Select multiplayer type"
 msgstr "Selectează tipul de multiplayer"
 
-# screen_lan_create_or_join.cpp
-msgid "(Incompatible version)"
-msgstr "(Versiune incompatibilă)"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:27
+msgid "Online multiplayer"
+msgstr "Multiplayer online"
 
-# screen_lan_create_or_join.cpp
-msgid "Close room"
-msgstr "Inchide camera"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
+msgid "Play with people around the world!"
+msgstr "Joacă-te cu persoane din toată lumea!"
 
-# screen_lan_create_or_join.cpp
-msgid "Connecting to a phone's hotspot should work!"
-msgstr "Ar trebui să meargă să te conectezi la hotspot-ul unui telefon!"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
+msgid "LAN multiplayer"
+msgstr "Multiplayer LAN"
 
-# screen_lan_create_or_join.cpp
-msgid "Create room"
-msgstr "Crează o cameră"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:64
+msgid "Play with people on the same network!"
+msgstr "Joacă-te cu persoane din aceiași rețea!"
 
-# screen_lan_create_or_join.cpp
-msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Fiecare jucător va trebui să-și posteze scorul separat ca să apară amândoi în top-ul online."
-
-# screen_lan_create_or_join.cpp
-msgid "Help"
-msgstr "Ajutor"
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
 msgstr "Multiplayer local"
 
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
+msgid "Help"
+msgstr "Ajutor"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:55
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
 msgstr "Multiplayer-ul local suportă 2 jucători conectați la aceeași rețea wifi."
 
-# screen_lan_create_or_join.cpp
-msgid "Multiplayer help"
-msgstr "Ajutor pentru multiplayer"
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:56
 msgid "One player must create a room, which the other player joins."
 msgstr "Un jucător va trebui să creeze o cameră, în care va intra cealaltă persoană."
 
-# screen_lan_create_or_join.cpp
-msgid "Searching for rooms..."
-msgstr "Se caută camere..."
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
 msgstr "Rețeaua wifi nu trebuie să fie conectată la internet."
 
-# screen_configure_ship.cpp
-msgid "Bullets"
-msgstr "Gloanțe"
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:58
+msgid "Connecting to a phone's hotspot should work!"
+msgstr "Ar trebui să meargă să te conectezi la hotspot-ul unui telefon!"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:59
+msgid "Each player need to upload the replay separately to both appear in the online leader board."
+msgstr "Fiecare jucător va trebui să-și posteze scorul separat ca să apară amândoi în top-ul online."
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:74
+msgid "Multiplayer help"
+msgstr "Ajutor pentru multiplayer"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:124
+msgid "Searching for rooms..."
+msgstr "Se caută camere..."
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:185
+msgid "(Incompatible version)"
+msgstr "(Versiune incompatibilă)"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:206
+msgid "Create room"
+msgstr "Crează o cameră"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:208
+msgid "Close room"
+msgstr "Inchide camera"
+
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
 msgstr "Configurează Racheta"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
 msgstr "Model"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
 msgstr "Coadă"
 
-# screen_upload_scores.cpp
-msgid "Failed to upload replays."
-msgstr "Nu s-au putut posta scorurile."
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+msgid "Bullets"
+msgstr "Gloanțe"
 
-# screen_upload_scores.cpp
-msgid "Nothing to upload!"
-msgstr "Nimic de postat!"
-
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:22
 msgid "Upload scores"
 msgstr "Postează scorurile"
 
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
+msgid "Nothing to upload!"
+msgstr "Nimic de postat!"
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
+msgid "Failed to upload replays."
+msgstr "Nu s-au putut posta scorurile."
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
 msgstr "Postare cu succes"
 
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
 msgstr "Se postează scorul pentru %s."
 
-# screen_career.cpp
+#: ../client/application/game/ui/screens/screen_career.cpp:39
 msgid "Statistics"
 msgstr "Statistici"
 
-# screen_select_level_of_author.cpp
+#: ../client/application/game/ui/screens/screen_select_level_of_author.cpp:42
 msgid "Levels by %s"
 msgstr "Nivele de %s"
 
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
 msgid "Configure keyboard"
 msgstr "Configură tastatura"
 
-# screen_configure_keyboard.cpp
-msgid "Mouse aim %s"
-msgstr "Tragere cu mouse-ul %s"
-
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
 msgid "Move"
 msgstr "Mișcare"
 
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
 msgstr "Tragere"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Authenticating..."
-msgstr "Se autentifică..."
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
+msgid "Mouse aim %s"
+msgstr "Tragere cu mouse-ul %s"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Nu se poate juca multiplayer cu un NAT simetric."
-
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:71
 msgid "Checking network..."
 msgstr "Se verifică rețeaua"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Error :("
-msgstr "Eroare :("
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
+msgid "Can't play in multiplayer with a symmetric NAT."
+msgstr "Nu se poate juca multiplayer cu un NAT simetric."
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Failed to authenticate"
-msgstr "Nu s-a putut autentifica"
-
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
 msgstr "Nu s-a putut conecta la serverele STUN."
 
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
+msgid "Authenticating..."
+msgstr "Se autentifică..."
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:112
 msgid "Need the latest version of the game."
 msgstr "Ai nevoie de ultima versiune a jocului."
 
-# screen_online_list_rooms.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:121
+msgid "Failed to authenticate"
+msgstr "Nu s-a putut autentifica"
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
+msgid "Error :("
+msgstr "Eroare :("
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
+msgid "Are you sure you want to report this comment?"
+msgstr ""
+
+#. Shown in a notification after successfully reporting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
+msgid "Successfully reported comment"
+msgstr ""
+
+#. Shown in a notification if a comment could not be reported.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:163
+msgid "Error reporting comment"
+msgstr ""
+
+#. The title of the screen where players delete comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:200
+msgid "Delete comment"
+msgstr ""
+
+#. Shown in a notification after successfully deleting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
+msgid "Successfully deleted comment"
+msgstr ""
+
+#. Shown in a notification if a comment could not be deleting.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:204
+msgid "Error deleting comment"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#. Used as a placeholder in the textfield where players write their comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
+msgid "<Add a comment here>"
+msgstr ""
+
+#. Displayed in a button. Pressing that button posts the comment that was
+#. written by the player.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:316
+msgid "Comment"
+msgstr ""
+
+#. Shown in a notification if the player tries to post a comment that is
+#. less than 3 character long.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
+msgid "Comment must be at least 3 characters long."
+msgstr ""
+
+#. Shown in the title of the screen where the player waits for the comment
+#. to be posted to the server.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
+msgid "Posting comment"
+msgstr ""
+
+#. Shown in a notification after a comment was succesfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:388
+msgid "Comment posted"
+msgstr ""
+
+#. Shown in a notification after a comment was succesfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
+msgid "Failed to post comment"
+msgstr ""
+
+#. The title of the screen where players report comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
+msgctxt "report_screen_title"
+msgid "Report comment"
+msgstr ""
+
+#. The title of the screen where players enter the comment they want to add.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
+msgctxt "add_comment_screen_title"
+msgid "Add comment"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking wether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
+msgctxt "menu_confirm_action"
+msgid "Yes"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking whether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:474
+msgctxt "menu_cancel_action"
+msgid "No"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:95
 msgid "Refresh"
 msgstr "Reîncarcă"
 
-# screen_settings_language.cpp
-msgid "Contributors"
-msgstr "Contributori"
-
-# screen_settings_language.cpp
-msgid "Default language"
-msgstr "Limba prestabilită"
-
-# screen_settings_language.cpp
-msgid "Help out"
-msgstr "Ajută"
-
-# screen_settings_language.cpp
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:22
 msgid "Language Settings"
 msgstr "Setări pentru Limbă"
 
-# screen_settings_language.cpp
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:26
 msgid "The translations are community provided!"
 msgstr "Traducerile sunt făcute de comunitate!"
 
-# screen_view_high_scores.cpp
-msgid "1p"
-msgstr "1p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:35
+msgid "Default language"
+msgstr "Limba prestabilită"
 
-# screen_view_high_scores.cpp
-msgid "2p"
-msgstr "2p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:50
+msgid "Help out"
+msgstr "Ajută"
 
-# screen_view_high_scores.cpp
-msgid "3p"
-msgstr "3p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:60
+msgid "Contributors"
+msgstr "Contributori"
 
-# screen_view_high_scores.cpp
-msgid "4p"
-msgstr "4p"
-
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:25
 msgid "Africa"
 msgstr "Africa"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:26
 msgid "Asia"
 msgstr "Asia"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
 msgid "Europe"
 msgstr "Europa"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:28
 msgid "North America"
 msgstr "America de Nord"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:29
 msgid "Oceania"
 msgstr "Oceania"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:30
 msgid "South America"
 msgstr "America de Sud"
 
-# screen_view_high_scores.cpp
-msgid "continent"
-msgstr "continent"
-
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "personal"
 msgstr "personal"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "region"
 msgstr "regiune"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "world"
 msgstr "lume"
 
-# screen_benchmark.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:120
+msgid "continent"
+msgstr "continent"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "1p"
+msgstr "1p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "2p"
+msgstr "2p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "3p"
+msgstr "3p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:154
+msgid "4p"
+msgstr "4p"
+
+#: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
 msgstr "Omite"
 
-# screen_main_menu.cpp
-msgid "Multiplayer"
-msgstr "Multiplayer"
-
-# screen_main_menu.cpp
-msgid "Play"
-msgstr "Joacă"
-
-# screen_main_menu.cpp
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:42
 msgid "Single Player"
 msgstr "Single Player"
 
-# screen_online_create_or_join_room.cpp
-msgid "Creating room"
-msgstr "Se crează camera"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:45
+msgid "Play"
+msgstr "Joacă"
 
-# screen_online_create_or_join_room.cpp
-msgid "Failed to join room"
-msgstr "Nu s-a putut intra in cameră"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:63
+msgid "Multiplayer"
+msgstr "Multiplayer"
 
-# screen_online_create_or_join_room.cpp
-msgid "Incorrect password"
-msgstr "Parolă incorectă"
-
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
 msgid "Joining room"
 msgstr "Se intră în cameră"
 
-# screen_online_create_or_join_room.cpp
-msgid "Room is full"
-msgstr "Camera este plină"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
+msgid "Creating room"
+msgstr "Se crează camera"
 
-# screen_online_create_or_join_room.cpp
-msgid "The room does not exist anymore"
-msgstr "Camera nu mai există acum"
-
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:336
 msgid "The room expired"
 msgstr "Camera a expirat"
 
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
 msgid "Unknown error"
 msgstr "Eroare necunoscută"
 
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:365
+msgid "Failed to join room"
+msgstr "Nu s-a putut intra in cameră"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
+msgid "Incorrect password"
+msgstr "Parolă incorectă"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "You are already in the room!"
 msgstr "Ești deja în cameră!"
 
-# screen_tutorial.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:385
+msgid "The room does not exist anymore"
+msgstr "Camera nu mai există acum"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:388
+msgid "Room is full"
+msgstr "Camera este plină"
+
+#: ../client/application/game/ui/screens/screen_tutorial.cpp:34
 msgid "Tutorial"
 msgstr "Tutorial"
 
-# screen_online_configure_room.cpp
-msgid "2 extra characters (optional):"
-msgstr "2 caractere în plus (opțional):"
-
-# screen_online_configure_room.cpp
-msgid "Any level"
-msgstr "Orice nivel"
-
-# screen_online_configure_room.cpp
-msgid "Password (optional):"
-msgstr "Parolă (opțional):"
-
-# screen_online_configure_room.cpp
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:44
 msgid "Room configuration"
 msgstr "Configurația camerei"
 
-# screen_online_configure_room.cpp
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:70
+msgid "2 extra characters (optional):"
+msgstr "2 caractere în plus (opțional):"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:103
+msgid "Password (optional):"
+msgstr "Parolă (opțional):"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:139
+msgid "Any level"
+msgstr "Orice nivel"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:187
 msgid "Room name: %s"
 msgstr "Numele camerei: %s"
 
-# screen_informations_music.cpp
+#: ../client/application/game/ui/screens/screen_informations_music.cpp:29
 msgid "Music"
 msgstr "Muzică"
 
-# screen_server_connection_closed.cpp
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:18
 msgid "Connection error"
 msgstr "Eroare de conexiune"
 
-# screen_server_connection_closed.cpp
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:22
 msgid "Lost connection to host"
 msgstr "S-a pierdut conexiunea la gazdă"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:23
 msgid "Audio Settings"
 msgstr "Setări Audio"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:36
 msgid "Sound effects"
 msgstr "Efecte de sunet"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:106
 msgid "Visualization"
 msgstr "Vizualizare"
 
-# screen_watch_replay.cpp
-msgid "Failed to download replay."
-msgstr "Nu s-a putut descărca reluarea"
-
-# screen_watch_replay.cpp
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:50
 msgid "Failed to read replay."
 msgstr "Nu s-a putut citi reluarea"
 
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "Nivelele de #ffff00ffcomunitate#ffffffff sunt făcute de VOI, cominitatea"
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
+msgid "Failed to download replay."
+msgstr "Nu s-a putut descărca reluarea"
 
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "Nivelele #ffff00ffexperimentale#ffffffff sunt nivele care nu au fost lansate încă"
-
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "Nivelele #ffff00ffofficiale#ffffffff sunt făcute de mine (JF), și te lasă să primești medalii"
-
-# screen_select_single_player_level.cpp
-msgid "About the levels"
-msgstr "Despre nivele"
-
-# screen_select_single_player_level.cpp
-msgid "Community"
-msgstr "Comunitate"
-
-# screen_select_single_player_level.cpp
-msgid "Experimental"
-msgstr "Experimental"
-
-# screen_select_single_player_level.cpp
-msgid "Experimental levels"
-msgstr "Nivele experimentale"
-
-# screen_select_single_player_level.cpp
-msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "Mai multe informații la github.com/jyaif/ppl-utils"
-
-# screen_select_single_player_level.cpp
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:39
 msgid "Official"
 msgstr "Oficial"
 
-# screen_view_level.cpp
-msgid "Error reading manifest"
-msgstr "Eroare citind manifest-ul"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
+msgid "Community"
+msgstr "Comunitate"
 
-# screen_view_level.cpp
-msgid "Experimental level"
-msgstr "Nivel experimental"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:42
+msgid "Experimental"
+msgstr "Experimental"
 
-# screen_view_level.cpp
-msgid "Failed to download manifest"
-msgstr "Nu s-a putut descărca manifest-ul"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:84
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "Nivelele #ffff00ffofficiale#ffffffff sunt făcute de mine (JF), și te lasă să primești medalii"
 
-# screen_view_level.cpp
-msgid "Loading..."
-msgstr "Se încarcă..."
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:85
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "Nivelele de #ffff00ffcomunitate#ffffffff sunt făcute de VOI, cominitatea"
 
-# screen_view_level.cpp
-msgid "Local best: %s"
-msgstr "Recordul local: %s"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:86
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Mai multe informații la github.com/jyaif/ppl-utils"
 
-# screen_view_level.cpp
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:87
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "Nivelele #ffff00ffexperimentale#ffffffff sunt nivele care nu au fost lansate încă"
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:102
+msgid "About the levels"
+msgstr "Despre nivele"
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:146
+msgid "Experimental levels"
+msgstr "Nivele experimentale"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
 msgstr "Recordul mondial: %s"
 
-# screen_view_level.cpp
-msgid "average score: %s"
-msgstr "scor mediu: %s"
+#: ../client/application/game/ui/screens/screen_view_level.cpp:36
+msgid "Local best: %s"
+msgstr "Recordul local: %s"
 
-# screen_view_level.cpp
+#: ../client/application/game/ui/screens/screen_view_level.cpp:73
+msgid "Loading..."
+msgstr "Se încarcă..."
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:109
+msgid "Error reading manifest"
+msgstr "Eroare citind manifest-ul"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:114
+msgid "Failed to download manifest"
+msgstr "Nu s-a putut descărca manifest-ul"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:138
 msgid "by %s"
 msgstr "de %s"
 
-# screen_settings_controls.cpp
+#: ../client/application/game/ui/screens/screen_view_level.cpp:237
+msgid "average score: %s"
+msgstr "scor mediu: %s"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:364
+msgid "Experimental level"
+msgstr "Nivel experimental"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:20
 msgid "Controls Settings"
 msgstr "Setări de Controale"
 
-# screen_settings_controls.cpp
-msgid "Keyboard"
-msgstr "Tastatură"
-
-# screen_settings_controls.cpp
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
 msgstr "Touchscreen"
 
-# screen_informations.cpp
-msgid "Development videos"
-msgstr "Videoclipuri de developare"
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:36
+msgid "Keyboard"
+msgstr "Tastatură"
 
-# screen_informations.cpp
+#: ../client/application/game/ui/screens/screen_informations.cpp:37
 msgid "Directed by %s"
 msgstr "Creat de %s"
 
-# screen_informations.cpp
+#: ../client/application/game/ui/screens/screen_informations.cpp:63
+msgid "Development videos"
+msgstr "Videoclipuri de developare"
+
+#: ../client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Discord server"
 msgstr "Server-ul de Discord"
 
-# screen_settings.cpp
-msgid "Audio"
-msgstr "Audio"
-
-# screen_settings.cpp
-msgid "Controls"
-msgstr "Controale"
-
-# screen_settings.cpp
-msgid "Developer mode"
-msgstr "Mod de developare"
-
-# screen_settings.cpp
-msgid "Language"
-msgstr "Limbă"
-
-# screen_settings.cpp
-msgid "Launch intro"
-msgstr "Pornește intro-ul"
-
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:36
 msgid "Settings"
 msgstr "Setări"
 
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:79
+msgid "Controls"
+msgstr "Controale"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:88
+msgid "Audio"
+msgstr "Audio"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:98
+msgid "Language"
+msgstr "Limbă"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:136
 msgid "Start tutorial"
 msgstr "Începe tutoral-ul"
 
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:146
+msgid "Launch intro"
+msgstr "Pornește intro-ul"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:155
+msgid "Developer mode"
+msgstr "Mod de developare"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:206
 msgid "Vibration %s"
 msgstr "Vibrație %s"
 
-# screen_multiplayer_lobby.cpp
-msgid "Cancel"
-msgstr "Anulează"
-
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:205
 msgid "Local lobby"
 msgstr "Lobby local"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:208
 msgid "Online lobby"
 msgstr "Lobby online"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:215
 msgid "Ready"
 msgstr "Pregătit"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:224
+msgid "Cancel"
+msgstr "Anulează"
+
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:367
 msgid "Waiting for other players..."
 msgstr "Se așteaptă alți jucători..."
 
-# screen_edit_nickname.cpp
-msgid "Change"
-msgstr "Schimbă"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:25
 msgid "Change colors"
 msgstr "Schimbă culorile"
 
-# screen_edit_nickname.cpp
-msgid "Failed to update username"
-msgstr "Nu s-a putut schimba numele"
-
-# screen_edit_nickname.cpp
-msgid "New username:"
-msgstr "Numele nou:"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:38
 msgid "Old username:"
 msgstr "Numele vechi:"
 
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:41
+msgid "New username:"
+msgstr "Numele nou:"
+
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:55
+msgid "Change"
+msgstr "Schimbă"
+
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:73
 msgid "Only change colors! %s"
 msgstr "Schimbă numai culorile! %s"
 
-# screen_edit_nickname.cpp
-msgid "Username change succesfull"
-msgstr "Numele a fost schimbat cu succes"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:86
 msgid "Username color change"
 msgstr "Schimbă culoarea numelui"
 
-# screen_signin.cpp
-msgid "Check your inbox!"
-msgstr "Verifică-ți email-ul!"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:94
+msgid "Username change succesfull"
+msgstr "Numele a fost schimbat cu succes"
 
-# screen_signin.cpp
-msgid "Email"
-msgstr "Email"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:105
+msgid "Failed to update username"
+msgstr "Nu s-a putut schimba numele"
 
-# screen_signin.cpp
-msgid "Email not verified"
-msgstr "Email-ul nu e verificat"
-
-# screen_signin.cpp
-msgid "Failed to request password reset"
-msgstr "Nu s-a putut cere resetarea parolei"
-
-# screen_signin.cpp
-msgid "Failed to resend email"
-msgstr "Nu s-a putut retrimite email-ul"
-
-# screen_signin.cpp
-msgid "Password"
-msgstr "Parolă"
-
-# screen_signin.cpp
-msgid "Password reset email sent"
-msgstr "S-a trimis email-ul de resetare a parolei"
-
-# screen_signin.cpp
-msgid "Re-send verification email"
-msgstr "Retrimite email-ul de verificație"
-
-# screen_signin.cpp
-msgid "Request password reset"
-msgstr "Cere resetarea parolei"
-
-# screen_signin.cpp
-msgid "Requesting password reset"
-msgstr "Se cere resetarea parolei"
-
-# screen_signin.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:30
 msgid "Requesting verification email"
 msgstr "Se cere email-ul de verificare"
 
-# screen_signin.cpp
-msgid "Reset password"
-msgstr "Resetează parola"
-
-# screen_signin.cpp
-msgid "Sign in"
-msgstr "Conectează-te"
-
-# screen_signin.cpp
-msgid "Signing in"
-msgstr "Se conectează"
-
-# screen_signin.cpp
-msgid "Successfully signed in!"
-msgstr "S-a conectat cu succes"
-
-# screen_signin.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Verification email sent"
 msgstr "S-a trimis email-ul de verificare"
 
-# screen_synchronize.cpp
-msgid "All your medals are here."
-msgstr "Toate medaliile tale sunt aici."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:38
+msgid "Check your inbox!"
+msgstr "Verifică-ți email-ul!"
 
-# screen_synchronize.cpp
-msgid "Failed to download backup data"
-msgstr "Nu s-a putut descărca backup-ul"
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:42
+msgid "Failed to resend email"
+msgstr "Nu s-a putut retrimite email-ul"
 
-# screen_synchronize.cpp
-msgid "Failed to synchronize."
-msgstr "Nu s-a putut sincroniza."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:53
+msgid "Requesting password reset"
+msgstr "Se cere resetarea parolei"
 
-# screen_synchronize.cpp
-msgid "Synchronization completed."
-msgstr "Sincronizare terminată."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:59
+msgid "Password reset email sent"
+msgstr "S-a trimis email-ul de resetare a parolei"
 
-# screen_synchronize.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:66
+msgid "Failed to request password reset"
+msgstr "Nu s-a putut cere resetarea parolei"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:86
+msgid "Sign in"
+msgstr "Conectează-te"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
+msgid "Email"
+msgstr "Email"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
+msgid "Password"
+msgstr "Parolă"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:144
+msgid "Signing in"
+msgstr "Se conectează"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:159
+msgid "Successfully signed in!"
+msgstr "S-a conectat cu succes"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
+msgid "Email not verified"
+msgstr "Email-ul nu e verificat"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:173
+msgid "Re-send verification email"
+msgstr "Retrimite email-ul de verificație"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:191
+msgid "Request password reset"
+msgstr "Cere resetarea parolei"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:217
+msgid "Reset password"
+msgstr "Resetează parola"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:34
 msgid "Synchronizing"
 msgstr "Se sincronizează"
 
-# screen_synchronize.cpp
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:83
+msgid "Failed to synchronize."
+msgstr "Nu s-a putut sincroniza."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:109
 msgid "You've been signed out."
 msgstr "Ai fost deconectat."
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:143
+msgid "Failed to download backup data"
+msgstr "Nu s-a putut descărca backup-ul"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:192
+msgid "Synchronization completed."
+msgstr "Sincronizare terminată."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:193
+msgid "All your medals are here."
+msgstr "Toate medaliile tale sunt aici."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Account"
 msgstr "Contul"
 
-# screen_signed_out.cpp
-msgid "Create an account to set your name and sync your data"
-msgstr "Crează un cont ca să-ți setezi numele și să-ți sincronizezi lucrurile"
-
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:25
 msgid "Not signed in"
 msgstr "Nu ești conectat"
 
-# screen_signed_out.cpp
-msgid "Privacy Policy"
-msgstr "Privacy Policy"
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:29
+msgid "Create an account to set your name and sync your data"
+msgstr "Crează un cont ca să-ți setezi numele și să-ți sincronizezi lucrurile"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:33
 msgid "Register"
 msgstr "Înregistrează-te"
 
-# screen_signed_out.cpp
-msgid "You need to be signed-in to play online"
-msgstr "Trebuie să fi conectat ca să te joci online"
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:58
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:100
 msgid "You need to be signed-in to upload scores"
 msgstr "Trebuie să fi conectat ca să postezi scorurile"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:103
+msgid "You need to be signed-in to play online"
+msgstr "Trebuie să fi conectat ca să te joci online"
+
+#. Error message shown if to the player when they are trying to view
+#. comments while not signed-in.
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
+msgid "You need to be signed-in to view comments"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
 msgstr "Contul tău"
 
-# screen_register.cpp
-msgid "Confirm email"
-msgstr "Confirmă-ți emailul"
-
-# screen_register.cpp
-msgid "Confirm email:"
-msgstr "Confirmă-ți emailul:"
-
-# screen_register.cpp
-msgid "Confirm password"
-msgstr "Confirmă-ți parola"
-
-# screen_register.cpp
-msgid "Confirm password:"
-msgstr "Confirmă-ți parola:"
-
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:23
 msgid "Email is invalid!"
 msgstr "Email-ul este invalid!"
 
-# screen_register.cpp
-msgid "Email:"
-msgstr "Email:"
-
-# screen_register.cpp
-msgid "Emails do not match!"
-msgstr "Email-urile nu se potrivesc!"
-
-# screen_register.cpp
-msgid "Failed to register"
-msgstr "Nu s-a putut înregistra"
-
-# screen_register.cpp
-msgid "Passwords do not match!"
-msgstr "Parolele nu se potrivesc!"
-
-# screen_register.cpp
-msgid "Please check your emails!"
-msgstr "Verifică-ți email-ul"
-
-# screen_register.cpp
-msgid "Register account"
-msgstr "Înregistrează contul"
-
-# screen_register.cpp
-msgid "Registering"
-msgstr "Se înregistrează"
-
-# screen_register.cpp
-msgid "Registration successful."
-msgstr "S-a înregistrat cu succes."
-
-# screen_register.cpp
-msgid "Too long. Maximum %s characters."
-msgstr "Prea lung. Maxim %s caractere."
-
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:48
 msgid "Too short. Minimum %s characters."
 msgstr "Prea scurt. Minim %s caractere."
 
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:55
+msgid "Too long. Maximum %s characters."
+msgstr "Prea lung. Maxim %s caractere."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:76
+msgid "Register account"
+msgstr "Înregistrează contul"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
 msgid "Username"
 msgstr "Nume"
 
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
+msgid "Confirm password"
+msgstr "Confirmă-ți parola"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:89
+msgid "Confirm email"
+msgstr "Confirmă-ți emailul"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
+msgid "Registering"
+msgstr "Se înregistrează"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
+msgid "Registration successful."
+msgstr "S-a înregistrat cu succes."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:147
+msgid "Please check your emails!"
+msgstr "Verifică-ți email-ul"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:151
+msgid "Failed to register"
+msgstr "Nu s-a putut înregistra"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:183
 msgid "Username (you can put colors in!):"
 msgstr "Nume (poți să folosești culori!):"
 
-# screen_signed_in.cpp
-msgid "Account deletion"
-msgstr "Ștergerea contului"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Confirm password:"
+msgstr "Confirmă-ți parola:"
 
-# screen_signed_in.cpp
-msgid "Account deletion requested."
-msgstr "A fost cerută ștergerea contului."
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Email:"
+msgstr "Email:"
 
-# screen_signed_in.cpp
-msgid "An email asking for confirmation was sent."
-msgstr "Un email cerând confirmarea a fost trimis."
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Confirm email:"
+msgstr "Confirmă-ți emailul:"
 
-# screen_signed_in.cpp
-msgid "Delete account"
-msgstr "Șterge contul"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:218
+msgid "Passwords do not match!"
+msgstr "Parolele nu se potrivesc!"
 
-# screen_signed_in.cpp
-msgid "Failed to request account deletion"
-msgstr "Nu s-a putut cere ștergerea contului"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:227
+msgid "Emails do not match!"
+msgstr "Email-urile nu se potrivesc!"
 
-# screen_signed_in.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:42
 msgid "Online profile"
 msgstr "Profilul online"
 
-# screen_signed_in.cpp
-msgid "Sign out"
-msgstr "Deconectează-te"
-
-# screen_signed_in.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:68
 msgid "Synchronize"
 msgstr "Sincronizează"
 
-# top_notification_view.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:88
+msgid "Sign out"
+msgstr "Deconectează-te"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:100
+msgid "Delete account"
+msgstr "Șterge contul"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:115
+msgid "Account deletion"
+msgstr "Ștergerea contului"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:122
+msgid "Account deletion requested."
+msgstr "A fost cerută ștergerea contului."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:124
+msgid "An email asking for confirmation was sent."
+msgstr "Un email cerând confirmarea a fost trimis."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:129
+msgid "Failed to request account deletion"
+msgstr "Nu s-a putut cere ștergerea contului"
+
+#: ../client/application/game/ui/views/top_notification_view.cpp:55
 msgid "%sWaiting for other player%s"
 msgstr "%sSe așteaptă un alt jucător%s"
 
-# game_hud.cpp
+#: ../client/application/game/ui/views/game_hud.cpp:48
 msgid "Shield: %s"
 msgstr "Scuturi: %s"
 
-# community_level_selector.cpp
+#: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
 msgstr "ÎN REVIEW"
 
-# player_data_manager.cpp
+#: ../client/application/game/player_data/player_data_manager.cpp:248
 msgid "New personal best! %s ⇨ %s"
 msgstr "Un nou record personal! %s ⇨ %s"
 
-# game_network_message_parser.cpp
+#: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
 msgstr "%s a ieșit din joc"
 
-# game_state.cpp
-msgid "Accuracy: %s"
-msgstr "Acuratețe: %s"
-
-# game_state.cpp
+#: ../client/application/game/state/game_state.cpp:445
 msgid "N/A"
 msgstr "N/A"
 
-# game_levels.cpp
-msgid "Choose your own difficulty"
-msgstr "Alege-ți dificultatea"
+#: ../client/application/game/state/game_state.cpp:456
+msgid "Accuracy: %s"
+msgstr "Acuratețe: %s"
 
-# game_levels.cpp
+#: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
 msgstr "Fereștete de totul și o să fi OK"
 
-# game_levels.cpp
-msgid "Euclidean space is overrated"
-msgstr "Spațiul Euclidian e prea folosit"
-
-# game_levels.cpp
-msgid "Green good. Red bad."
-msgstr "Verde bun. Roșu rău"
-
-# game_levels.cpp
-msgid "Just 32 seconds of skills"
-msgstr "Doar 32 de secunde de dificultate"
-
-# game_levels.cpp
-msgid "My favorite mode"
-msgstr "Modul meu favorit"
-
-# game_levels.cpp
-msgid "Never trust a six-sided polygon"
-msgstr "Să nu ai niciodată incredere intr-un poligon cu 6 laturi"
-
-# game_levels.cpp
-msgid "Previously known as Assault"
-msgstr "Cunoscut înainte ca și Assault"
-
-# game_levels.cpp
-msgid "RIP GW3:Dimensions"
-msgstr "RIP GW3:Dimensions"
-
-# game_levels.cpp
-msgid "Survive 32 seconds with this simple trick"
-msgstr "Supraviețuiește 32 de secunde cu acest tric simplu"
-
-# game_levels.cpp
-msgid "Unrelated to \"Super Hexagon\""
-msgstr "Nu are nicio legătură cu „Super Hexagon”"
-
-# game_levels.cpp
-msgid "\"This level is a joke right?\" - a tester"
-msgstr "„Acest nivel este o glumă nu?” - un tester"
-
-# game_levels.cpp
+#: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
 msgstr "Cunoscut ca și „Dodge This”"
 
-# medals.cpp
+#: ../client/application/game/levels/game_levels.cpp:84
+msgid "Green good. Red bad."
+msgstr "Verde bun. Roșu rău"
+
+#: ../client/application/game/levels/game_levels.cpp:95
+msgid "Never trust a six-sided polygon"
+msgstr "Să nu ai niciodată incredere intr-un poligon cu 6 laturi"
+
+#: ../client/application/game/levels/game_levels.cpp:96
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "Nu are nicio legătură cu „Super Hexagon”"
+
+#: ../client/application/game/levels/game_levels.cpp:97
+msgid "Choose your own difficulty"
+msgstr "Alege-ți dificultatea"
+
+#: ../client/application/game/levels/game_levels.cpp:107
+msgid "Euclidean space is overrated"
+msgstr "Spațiul Euclidian e prea folosit"
+
+#: ../client/application/game/levels/game_levels.cpp:118
+msgid "Just 32 seconds of skills"
+msgstr "Doar 32 de secunde de dificultate"
+
+#: ../client/application/game/levels/game_levels.cpp:118
+msgid "My favorite mode"
+msgstr "Modul meu favorit"
+
+#: ../client/application/game/levels/game_levels.cpp:119
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Supraviețuiește 32 de secunde cu acest tric simplu"
+
+#: ../client/application/game/levels/game_levels.cpp:120
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "„Acest nivel este o glumă nu?” - un tester"
+
+#: ../client/application/game/levels/game_levels.cpp:131
+msgid "RIP GW3:Dimensions"
+msgstr "RIP GW3:Dimensions"
+
+#: ../client/application/game/levels/game_levels.cpp:131
+msgid "Previously known as Assault"
+msgstr "Cunoscut înainte ca și Assault"
+
+#: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
 msgstr "Medalie de bronz nouă"
 
-# medals.cpp
-msgid "New gold medal"
-msgstr "Medalie de aur nouă"
-
-# medals.cpp
+#: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
 msgstr "Medalie de argint nouă"
 
-# renderer_types.cpp
-msgid "Compression friendly"
-msgstr "Mod pentru compresie"
+#: ../client/application/game/levels/medals.cpp:10
+msgid "New gold medal"
+msgstr "Medalie de aur nouă"
 
-# renderer_types.cpp
-msgid "High"
-msgstr "Mare"
-
-# renderer_types.cpp
-msgid "High (Dark)"
-msgstr "Mare (Întunecat)"
-
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:8
 msgid "Minimal"
 msgstr "Minimal"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "Minimal (Dark)"
 msgstr "Minimal (Întunecat)"
 
-# renderer_types.cpp
-msgid "Ultra low 16x"
-msgstr "Foarte mic 16x"
+#: ../client/application/graphics/renderers/renderer_types.cpp:12
+msgid "High"
+msgstr "Mare"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:14
+msgid "High (Dark)"
+msgstr "Mare (Întunecat)"
+
+#: ../client/application/graphics/renderers/renderer_types.cpp:16
+msgid "Compression friendly"
+msgstr "Mod pentru compresie"
+
+#: ../client/application/graphics/renderers/renderer_types.cpp:17
 msgid "Ultra low 2x"
 msgstr "Foarte mic 2x"
 
-# renderer_types.cpp
-msgid "Ultra low 32x"
-msgstr "Foarte mic 32x"
-
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:19
 msgid "Ultra low 4x"
 msgstr "Foarte mic 4x"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:21
 msgid "Ultra low 8x"
 msgstr "Foarte mic 8x"
 
-# The following translations are not in use anymore!
-# They are kept in case they are needed again later.
+#: ../client/application/graphics/renderers/renderer_types.cpp:23
+msgid "Ultra low 16x"
+msgstr "Foarte mic 16x"
 
-# Currently unused! This string may never be used again!
-msgid "Career"
-msgstr "Carieră"
-
-# Currently unused! This string may never be used again!
-msgid "Dark High"
-msgstr "Mare Întunecat"
-
-# Currently unused! This string may never be used again!
-msgid "Failed to parse server response"
-msgstr "Nu s-a putut folosi răspunsul serverului"
-
-# Currently unused! This string may never be used again!
-msgid "Local Multiplayer"
-msgstr "Multiplayer local"
-
-# Currently unused! This string may never be used again!
-msgid "Lost connection to server"
-msgstr "S-a pierdut conexiunea la server"
-
-# Currently unused! This string may never be used again!
-msgid "Low"
-msgstr "Mic"
-
-# Currently unused! This string may never be used again!
-msgid "Medals: %s"
-msgstr "Medalii: %s"
-
-# Currently unused! This string may never be used again!
-msgid "Medium"
-msgstr "Medium"
-
-# Currently unused! This string may never be used again!
-msgid "Missing information. This should not happen!"
-msgstr "Informație lipsă. Nu ar trebui să se întâmple asta!"
-
-# Currently unused! This string may never be used again!
-msgid "Renderer: %s"
-msgstr "Renderer: %s"
-
-# Currently unused! This string may never be used again!
-msgid "The background is expensive to compute"
-msgstr "Fundalul este scump de arătat"
+#: ../client/application/graphics/renderers/renderer_types.cpp:25
+msgid "Ultra low 32x"
+msgstr "Foarte mic 32x"
 

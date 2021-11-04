@@ -1,0 +1,27 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "Career"
+msgstr "Life in the sea"
+
+msgid "Dark High"
+msgstr "Eye of an owl"
+
+msgid "Lost connection to server"
+msgstr "cant reach thi pier"
+
+msgid "Low"
+msgstr "Blurry as a cow"
+
+msgid "Medals: %s"
+msgstr "Doubloons: %s"
+
+msgid "Medium"
+msgstr "Ye had a normal eye"
+
+msgid "Missing information. This should not happen!"
+msgstr "Someone touched me booty! what Dirt' sailor!"
+
+msgid "Renderer: %s"
+msgstr "Vision: %s"
+

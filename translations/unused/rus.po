@@ -1,0 +1,90 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "2 extra characters:"
+msgstr "2 дополнительных символа:"
+
+msgid "Career"
+msgstr "Карьера"
+
+msgid "Connect to..."
+msgstr "Подключиться к..."
+
+msgid "Creator"
+msgstr "Автор"
+
+msgid "Custom levels"
+msgstr "Уровни сообщества"
+
+msgid "Custom levels?!"
+msgstr "Собственные уровни?!"
+
+msgid "Dark High"
+msgstr "Тёмный Высокий"
+
+msgid "Failed to parse server response"
+msgstr "Не удалось получить ответ от сервера"
+
+msgid "Game is full"
+msgstr "Нет свободных мест."
+
+msgid "Level name"
+msgstr "Уровень"
+
+msgid "Loading level..."
+msgstr "Загрузка уровня..."
+
+msgid "Local Multiplayer"
+msgstr "LAN Мультиплеер"
+
+msgid "Lost connection to server"
+msgstr "Потеряно соединение с сервером."
+
+msgid "Low"
+msgstr "Низкий"
+
+msgid "Medals: %s"
+msgstr "Медали: %s"
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "Missing information. This should not happen!"
+msgstr "Отсутствует информация. Так не должно быть!"
+
+msgid "More information"
+msgstr "Подробная информация"
+
+msgid "Renderer: %s"
+msgstr "Рендер: %s"
+
+msgid "Select level"
+msgstr "Выбор уровня"
+
+msgid "Sign-in"
+msgstr "Войти"
+
+msgid "Sign-in confirmation"
+msgstr "Подтверждение входа"
+
+msgid "Sign-in with \"%s\"?"
+msgstr "Войти с \"%s\"?"
+
+msgid "The background is expensive to compute"
+msgstr "Обработка фона - это сложно"
+
+msgid "Translations"
+msgstr "Переводчики"
+
+msgid "Waiting for the server..."
+msgstr "Ожидание сервера..."
+
+msgid "Yes!"
+msgstr "Да!"
+
+msgid "You are already in the game!"
+msgstr "Вы уже находитесь в игре!"
+
+msgid "You can finally code your own levels!"
+msgstr "Теперь уровни можно программировать!"
+

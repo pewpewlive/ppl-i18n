@@ -1,1115 +1,1100 @@
-# ui_helpers.cpp
-msgid "off"
-msgstr "isklj."
-
-# ui_helpers.cpp
+#: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
 msgstr "uklj."
 
-# keyboard_view.cpp
+#: ../client/application/ui/ui_helpers.cpp:64
+msgid "off"
+msgstr "isklj."
+
+#: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
 msgstr "u redu"
 
-# game.cpp
+#: ../client/application/game/game.cpp:160
 msgid "Quick pause"
 msgstr "Brza pauza"
 
-# game.cpp
+#: ../client/application/game/game.cpp:166
 msgid "Quick pause %s"
 msgstr "Brza pauza %s"
 
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
 msgstr "Nastavi"
 
-# pause_ui.cpp
-msgid "Exit"
-msgstr "Izlaz"
-
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
 msgstr "Pauza"
 
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
 msgstr "Restartiraj"
 
-# game_over_ui.cpp
-msgid "Game Over"
-msgstr "Igra je gotova"
+#: ../client/application/game/ui/pause_ui.cpp:72
+msgid "Exit"
+msgstr "Izlaz"
 
-# game_over_ui.cpp
+#: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
 msgstr "Igraj opet"
 
-# shared_strings.cpp
-msgid "Casual"
-msgstr "Klasično"
+#: ../client/application/game/ui/game_over_ui.cpp:34
+msgid "Game Over"
+msgstr "Igra je gotova"
 
-# shared_strings.cpp
-msgid "Community levels"
-msgstr "Leveli zajednice"
-
-# shared_strings.cpp
-msgid "Failed to contact server"
-msgstr "Neuspješno kontaktiranje servera"
-
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
 msgstr "Neuspješno rasčlanjivanje odgovora."
 
-# shared_strings.cpp
-msgid "Failed to sign-in!"
-msgstr "Prijava neuspješna!"
+#: ../client/application/game/ui/shared_strings.cpp:11
+msgid "Failed to contact server"
+msgstr "Neuspješno kontaktiranje servera"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
 msgstr "Službeni leveli"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:19
+msgid "Community levels"
+msgstr "Leveli zajednice"
+
+#: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
 msgstr "broj igranja: %s"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
 msgstr "vrijeme igranja: %s"
 
-# screen_download_level.cpp
+#: ../client/application/game/ui/shared_strings.cpp:31
+msgid "Casual"
+msgstr "Klasično"
+
+#: ../client/application/game/ui/shared_strings.cpp:35
+msgid "Failed to sign-in!"
+msgstr "Prijava neuspješna!"
+
+#: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
 msgstr "Preuzimanje levela..."
 
-# screen_specify_server_ip.cpp
-msgid "Connect"
-msgstr "Spoji se"
-
-# screen_specify_server_ip.cpp
-msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Spoji se na sobu preko interneta #ff0000ff(eksperimentalno)"
-
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:23
 msgid "Connect to server"
 msgstr "Spoji se na server"
 
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:55
 msgid "IP:"
 msgstr "IP:"
 
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:63
 msgid "Port:"
 msgstr "Port:"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Spoji se na sobu preko interneta #ff0000ff(eksperimentalno)"
+
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
+msgid "Connect"
+msgstr "Spoji se"
+
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:29
 msgid "Enter password"
 msgstr "Upišite lozinku"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:32
 msgid "Join"
 msgstr "Pridruži se"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:45
 msgid "Password:"
 msgstr "Lozinka:"
 
-# screen_configure_touch_joystick.cpp
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:83
 msgid "Configure joysticks"
 msgstr "Konfiguriraj joystickove"
 
-# screen_configure_touch_joystick.cpp
-msgid "Reset"
-msgstr "Resetiraj"
-
-# screen_configure_touch_joystick.cpp
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Swap"
 msgstr "Zamijeni"
 
-# screen_select_multiplayer_type.cpp
-msgid "LAN multiplayer"
-msgstr "LAN više igrača"
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:103
+msgid "Reset"
+msgstr "Resetiraj"
 
-# screen_select_multiplayer_type.cpp
-msgid "Online multiplayer"
-msgstr "Online više igrača"
-
-# screen_select_multiplayer_type.cpp
-msgid "Play with people around the world!"
-msgstr "Igrajte s ljudima diljem svijeta!"
-
-# screen_select_multiplayer_type.cpp
-msgid "Play with people on the same network!"
-msgstr "Igrajte s ljudima na istoj mreži!"
-
-# screen_select_multiplayer_type.cpp
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:23
 msgid "Select multiplayer type"
 msgstr "Odaberi vrstu više igrača"
 
-# screen_lan_create_or_join.cpp
-msgid "(Incompatible version)"
-msgstr "(Inkompatibilna verzija)"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:27
+msgid "Online multiplayer"
+msgstr "Online više igrača"
 
-# screen_lan_create_or_join.cpp
-msgid "Close room"
-msgstr "Zatvori sobu"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
+msgid "Play with people around the world!"
+msgstr "Igrajte s ljudima diljem svijeta!"
 
-# screen_lan_create_or_join.cpp
-msgid "Connecting to a phone's hotspot should work!"
-msgstr "Spajanje na mobilni hotspot bih trebalo raditi!"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
+msgid "LAN multiplayer"
+msgstr "LAN više igrača"
 
-# screen_lan_create_or_join.cpp
-msgid "Create room"
-msgstr "Stvori sobu"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:64
+msgid "Play with people on the same network!"
+msgstr "Igrajte s ljudima na istoj mreži!"
 
-# screen_lan_create_or_join.cpp
-msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Svaki igrač mora prijenijeti svoj rezultat zasebno kako bih oboje bili na online ljestvici rezultata."
-
-# screen_lan_create_or_join.cpp
-msgid "Help"
-msgstr "Pomoć"
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
 msgstr "Lokalno više igrača"
 
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
+msgid "Help"
+msgstr "Pomoć"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:55
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
 msgstr "Lokalno više igrača podržava 2 igrača spojena na istu wifi mrežu."
 
-# screen_lan_create_or_join.cpp
-msgid "Multiplayer help"
-msgstr "Pomoć za više igrača"
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:56
 msgid "One player must create a room, which the other player joins."
 msgstr "Jedan igrač mora stvoriti sobu, u koju drugi igrač može ući."
 
-# screen_lan_create_or_join.cpp
-msgid "Searching for rooms..."
-msgstr "Traženje soba..."
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
 msgstr "Wifi mreža ne mora biti spojena na internet."
 
-# screen_configure_ship.cpp
-msgid "Bullets"
-msgstr "Metci"
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:58
+msgid "Connecting to a phone's hotspot should work!"
+msgstr "Spajanje na mobilni hotspot bih trebalo raditi!"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:59
+msgid "Each player need to upload the replay separately to both appear in the online leader board."
+msgstr "Svaki igrač mora prijenijeti svoj rezultat zasebno kako bih oboje bili na online ljestvici rezultata."
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:74
+msgid "Multiplayer help"
+msgstr "Pomoć za više igrača"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:124
+msgid "Searching for rooms..."
+msgstr "Traženje soba..."
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:185
+msgid "(Incompatible version)"
+msgstr "(Inkompatibilna verzija)"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:206
+msgid "Create room"
+msgstr "Stvori sobu"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:208
+msgid "Close room"
+msgstr "Zatvori sobu"
+
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
 msgstr "Konfiguriraj brod"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
 msgstr "Model"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
 msgstr "Trag"
 
-# screen_upload_scores.cpp
-msgid "Failed to upload replays."
-msgstr "Neuspjeli prijenos snimaka."
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+msgid "Bullets"
+msgstr "Metci"
 
-# screen_upload_scores.cpp
-msgid "Nothing to upload!"
-msgstr "Nema ništa za prijenos!"
-
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:22
 msgid "Upload scores"
 msgstr "Prenesi rezultate"
 
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
+msgid "Nothing to upload!"
+msgstr "Nema ništa za prijenos!"
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
+msgid "Failed to upload replays."
+msgstr "Neuspjeli prijenos snimaka."
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
 msgstr "Prijenos uspješan."
 
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
 msgstr "Prijenos snimke za %s."
 
-# screen_career.cpp
+#: ../client/application/game/ui/screens/screen_career.cpp:39
 msgid "Statistics"
 msgstr "Statistika"
 
-# screen_select_level_of_author.cpp
+#: ../client/application/game/ui/screens/screen_select_level_of_author.cpp:42
 msgid "Levels by %s"
 msgstr "Leveli od %s"
 
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
 msgid "Configure keyboard"
 msgstr "Konfiguriraj tipkovnicu"
 
-# screen_configure_keyboard.cpp
-msgid "Mouse aim %s"
-msgstr "Ciljanje mišem %s"
-
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
 msgid "Move"
 msgstr "Kretanje"
 
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
 msgstr "Pucanje"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Authenticating..."
-msgstr "Autentificiranje..."
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
+msgid "Mouse aim %s"
+msgstr "Ciljanje mišem %s"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Ne možete igrati s više igrača na simetričnom NAT."
-
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:71
 msgid "Checking network..."
 msgstr "Provjera mreže..."
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Error :("
-msgstr "Greška :("
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
+msgid "Can't play in multiplayer with a symmetric NAT."
+msgstr "Ne možete igrati s više igrača na simetričnom NAT."
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Failed to authenticate"
-msgstr "Neuspješna autentifikacija."
-
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
 msgstr "Neuspješno povezivanje sa STUN serverima."
 
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
+msgid "Authenticating..."
+msgstr "Autentificiranje..."
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:112
 msgid "Need the latest version of the game."
 msgstr "Morate imati najnoviju verziju igre."
 
-# screen_online_list_rooms.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:121
+msgid "Failed to authenticate"
+msgstr "Neuspješna autentifikacija."
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
+msgid "Error :("
+msgstr "Greška :("
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
+msgid "Are you sure you want to report this comment?"
+msgstr ""
+
+#. Shown in a notification after successfully reporting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
+msgid "Successfully reported comment"
+msgstr ""
+
+#. Shown in a notification if a comment could not be reported.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:163
+msgid "Error reporting comment"
+msgstr ""
+
+#. The title of the screen where players delete comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:200
+msgid "Delete comment"
+msgstr ""
+
+#. Shown in a notification after successfully deleting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
+msgid "Successfully deleted comment"
+msgstr ""
+
+#. Shown in a notification if a comment could not be deleting.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:204
+msgid "Error deleting comment"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#. Used as a placeholder in the textfield where players write their comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
+msgid "<Add a comment here>"
+msgstr ""
+
+#. Displayed in a button. Pressing that button posts the comment that was
+#. written by the player.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:316
+msgid "Comment"
+msgstr ""
+
+#. Shown in a notification if the player tries to post a comment that is
+#. less than 3 character long.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
+msgid "Comment must be at least 3 characters long."
+msgstr ""
+
+#. Shown in the title of the screen where the player waits for the comment
+#. to be posted to the server.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
+msgid "Posting comment"
+msgstr ""
+
+#. Shown in a notification after a comment was succesfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:388
+msgid "Comment posted"
+msgstr ""
+
+#. Shown in a notification after a comment was succesfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
+msgid "Failed to post comment"
+msgstr ""
+
+#. The title of the screen where players report comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
+msgctxt "report_screen_title"
+msgid "Report comment"
+msgstr ""
+
+#. The title of the screen where players enter the comment they want to add.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
+msgctxt "add_comment_screen_title"
+msgid "Add comment"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking wether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
+msgctxt "menu_confirm_action"
+msgid "Yes"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking whether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:474
+msgctxt "menu_cancel_action"
+msgid "No"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:95
 msgid "Refresh"
 msgstr "Osvježi"
 
-# screen_settings_language.cpp
-msgid "Contributors"
-msgstr "Suradnici"
-
-# screen_settings_language.cpp
-msgid "Default language"
-msgstr "Zadani jezik"
-
-# screen_settings_language.cpp
-msgid "Help out"
-msgstr "Pomogni"
-
-# screen_settings_language.cpp
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:22
 msgid "Language Settings"
 msgstr "Jezične postavke"
 
-# screen_settings_language.cpp
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:26
 msgid "The translations are community provided!"
 msgstr "Prijevodi su napravljeni u zajednici igrača!"
 
-# screen_view_high_scores.cpp
-msgid "1p"
-msgstr "1p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:35
+msgid "Default language"
+msgstr "Zadani jezik"
 
-# screen_view_high_scores.cpp
-msgid "2p"
-msgstr "2p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:50
+msgid "Help out"
+msgstr "Pomogni"
 
-# screen_view_high_scores.cpp
-msgid "3p"
-msgstr "3p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:60
+msgid "Contributors"
+msgstr "Suradnici"
 
-# screen_view_high_scores.cpp
-msgid "4p"
-msgstr "4p"
-
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:25
 msgid "Africa"
 msgstr "Afrika"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:26
 msgid "Asia"
 msgstr "Azija"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
 msgid "Europe"
 msgstr "Europa"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:28
 msgid "North America"
 msgstr "Sj. Amerika"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:29
 msgid "Oceania"
 msgstr "Oceanija"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:30
 msgid "South America"
 msgstr "J. Amerika"
 
-# screen_view_high_scores.cpp
-msgid "continent"
-msgstr "kontinent"
-
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "personal"
 msgstr "osobno"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "region"
 msgstr "regija"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "world"
 msgstr "svijet"
 
-# screen_benchmark.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:120
+msgid "continent"
+msgstr "kontinent"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "1p"
+msgstr "1p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "2p"
+msgstr "2p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "3p"
+msgstr "3p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:154
+msgid "4p"
+msgstr "4p"
+
+#: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
 msgstr "Preskoči"
 
-# screen_main_menu.cpp
-msgid "Multiplayer"
-msgstr "Više igrača"
-
-# screen_main_menu.cpp
-msgid "Play"
-msgstr "Igraj"
-
-# screen_main_menu.cpp
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:42
 msgid "Single Player"
 msgstr "Jedan igrač"
 
-# screen_online_create_or_join_room.cpp
-msgid "Creating room"
-msgstr "Izrađivanje sobe"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:45
+msgid "Play"
+msgstr "Igraj"
 
-# screen_online_create_or_join_room.cpp
-msgid "Failed to join room"
-msgstr "Neuspješno pridruživanje u sobu"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:63
+msgid "Multiplayer"
+msgstr "Više igrača"
 
-# screen_online_create_or_join_room.cpp
-msgid "Incorrect password"
-msgstr "Netočna lozinka"
-
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
 msgid "Joining room"
 msgstr "Pridruživanje u sobu"
 
-# screen_online_create_or_join_room.cpp
-msgid "Room is full"
-msgstr "Soba je puna"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
+msgid "Creating room"
+msgstr "Izrađivanje sobe"
 
-# screen_online_create_or_join_room.cpp
-msgid "The room does not exist anymore"
-msgstr "Soba ne postoji"
-
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:336
 msgid "The room expired"
 msgstr "Soba je istekla"
 
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
 msgid "Unknown error"
 msgstr "Nepoznata greška"
 
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:365
+msgid "Failed to join room"
+msgstr "Neuspješno pridruživanje u sobu"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
+msgid "Incorrect password"
+msgstr "Netočna lozinka"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "You are already in the room!"
 msgstr "Već ste u sobi!"
 
-# screen_tutorial.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:385
+msgid "The room does not exist anymore"
+msgstr "Soba ne postoji"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:388
+msgid "Room is full"
+msgstr "Soba je puna"
+
+#: ../client/application/game/ui/screens/screen_tutorial.cpp:34
 msgid "Tutorial"
 msgstr "Tutorial"
 
-# screen_online_configure_room.cpp
-msgid "2 extra characters (optional):"
-msgstr "2 posebna znaka (neobavezno):"
-
-# screen_online_configure_room.cpp
-msgid "Any level"
-msgstr "Bilo koji level"
-
-# screen_online_configure_room.cpp
-msgid "Password (optional):"
-msgstr "Lozinka (neobavezno):"
-
-# screen_online_configure_room.cpp
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:44
 msgid "Room configuration"
 msgstr "Postavke sobe"
 
-# screen_online_configure_room.cpp
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:70
+msgid "2 extra characters (optional):"
+msgstr "2 posebna znaka (neobavezno):"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:103
+msgid "Password (optional):"
+msgstr "Lozinka (neobavezno):"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:139
+msgid "Any level"
+msgstr "Bilo koji level"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:187
 msgid "Room name: %s"
 msgstr "Ime sobe: %s"
 
-# screen_informations_music.cpp
+#: ../client/application/game/ui/screens/screen_informations_music.cpp:29
 msgid "Music"
 msgstr "Glazba"
 
-# screen_server_connection_closed.cpp
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:18
 msgid "Connection error"
 msgstr "Greška u povezivanju"
 
-# screen_server_connection_closed.cpp
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:22
 msgid "Lost connection to host"
 msgstr "Izgubljena povezanost sa hostom."
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:23
 msgid "Audio Settings"
 msgstr "Audio postavke"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:36
 msgid "Sound effects"
 msgstr "Zvučni efekti"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:106
 msgid "Visualization"
 msgstr "Vizualizacija"
 
-# screen_watch_replay.cpp
-msgid "Failed to download replay."
-msgstr "Neuspješno preuzimanje snimke."
-
-# screen_watch_replay.cpp
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:50
 msgid "Failed to read replay."
 msgstr "Neuspješno čitanje snimke."
 
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "Levele #ffff00ffzajednice#ffffffff ste napravili VI, zajednica."
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
+msgid "Failed to download replay."
+msgstr "Neuspješno preuzimanje snimke."
 
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffEksperimentalni#ffffffff leveli su leveli koji još nisu pušteni u javnost."
-
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffSlužbene#ffffffff levele sam napravio ja (JF), omogućuju vam osvajanje medalja."
-
-# screen_select_single_player_level.cpp
-msgid "About the levels"
-msgstr "O levelima"
-
-# screen_select_single_player_level.cpp
-msgid "Community"
-msgstr "Zajednica"
-
-# screen_select_single_player_level.cpp
-msgid "Experimental"
-msgstr "Eksperimentalno"
-
-# screen_select_single_player_level.cpp
-msgid "Experimental levels"
-msgstr "Eksperimentalni leveli"
-
-# screen_select_single_player_level.cpp
-msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "Više informacija na github.com/jyaif/ppl-utils"
-
-# screen_select_single_player_level.cpp
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:39
 msgid "Official"
 msgstr "Službeno"
 
-# screen_view_level.cpp
-msgid "Error reading manifest"
-msgstr "Greška čitanja manifesta"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
+msgid "Community"
+msgstr "Zajednica"
 
-# screen_view_level.cpp
-msgid "Experimental level"
-msgstr "Eksperimentalni level"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:42
+msgid "Experimental"
+msgstr "Eksperimentalno"
 
-# screen_view_level.cpp
-msgid "Failed to download manifest"
-msgstr "Neuspjelo preuzimanje manifesta"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:84
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffSlužbene#ffffffff levele sam napravio ja (JF), omogućuju vam osvajanje medalja."
 
-# screen_view_level.cpp
-msgid "Loading..."
-msgstr "Učitavanje..."
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:85
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "Levele #ffff00ffzajednice#ffffffff ste napravili VI, zajednica."
 
-# screen_view_level.cpp
-msgid "Local best: %s"
-msgstr "Lokalni rekord: %s"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:86
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Više informacija na github.com/jyaif/ppl-utils"
 
-# screen_view_level.cpp
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:87
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffEksperimentalni#ffffffff leveli su leveli koji još nisu pušteni u javnost."
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:102
+msgid "About the levels"
+msgstr "O levelima"
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:146
+msgid "Experimental levels"
+msgstr "Eksperimentalni leveli"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
 msgstr "Svjetski rekord: %s"
 
-# screen_view_level.cpp
-msgid "average score: %s"
-msgstr "prosječni bodovi: %s"
+#: ../client/application/game/ui/screens/screen_view_level.cpp:36
+msgid "Local best: %s"
+msgstr "Lokalni rekord: %s"
 
-# screen_view_level.cpp
+#: ../client/application/game/ui/screens/screen_view_level.cpp:73
+msgid "Loading..."
+msgstr "Učitavanje..."
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:109
+msgid "Error reading manifest"
+msgstr "Greška čitanja manifesta"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:114
+msgid "Failed to download manifest"
+msgstr "Neuspjelo preuzimanje manifesta"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:138
 msgid "by %s"
 msgstr "od %s"
 
-# screen_settings_controls.cpp
+#: ../client/application/game/ui/screens/screen_view_level.cpp:237
+msgid "average score: %s"
+msgstr "prosječni bodovi: %s"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:364
+msgid "Experimental level"
+msgstr "Eksperimentalni level"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:20
 msgid "Controls Settings"
 msgstr "Postavke kontroli"
 
-# screen_settings_controls.cpp
-msgid "Keyboard"
-msgstr "Tipkovnica"
-
-# screen_settings_controls.cpp
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
 msgstr "Ekran na dodir"
 
-# screen_informations.cpp
-msgid "Development videos"
-msgstr "Videi o razvoju igre"
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:36
+msgid "Keyboard"
+msgstr "Tipkovnica"
 
-# screen_informations.cpp
+#: ../client/application/game/ui/screens/screen_informations.cpp:37
 msgid "Directed by %s"
 msgstr "Režirao %s"
 
-# screen_informations.cpp
+#: ../client/application/game/ui/screens/screen_informations.cpp:63
+msgid "Development videos"
+msgstr "Videi o razvoju igre"
+
+#: ../client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Discord server"
 msgstr "Discord server"
 
-# screen_settings.cpp
-msgid "Audio"
-msgstr "Audio"
-
-# screen_settings.cpp
-msgid "Controls"
-msgstr "Kontrole"
-
-# screen_settings.cpp
-msgid "Developer mode"
-msgstr "Mod za razvijanje"
-
-# screen_settings.cpp
-msgid "Language"
-msgstr "Jezik"
-
-# screen_settings.cpp
-msgid "Launch intro"
-msgstr "Pokreni intro"
-
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:36
 msgid "Settings"
 msgstr "Postavke"
 
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:79
+msgid "Controls"
+msgstr "Kontrole"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:88
+msgid "Audio"
+msgstr "Audio"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:98
+msgid "Language"
+msgstr "Jezik"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:136
 msgid "Start tutorial"
 msgstr "Pokreni tutorial"
 
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:146
+msgid "Launch intro"
+msgstr "Pokreni intro"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:155
+msgid "Developer mode"
+msgstr "Mod za razvijanje"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:206
 msgid "Vibration %s"
 msgstr "Vibracija %s"
 
-# screen_multiplayer_lobby.cpp
-msgid "Cancel"
-msgstr "Otkaži"
-
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:205
 msgid "Local lobby"
 msgstr "Lokalna partija"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:208
 msgid "Online lobby"
 msgstr "Online soba"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:215
 msgid "Ready"
 msgstr "Spreman"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:224
+msgid "Cancel"
+msgstr "Otkaži"
+
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:367
 msgid "Waiting for other players..."
 msgstr "Čekanje na druge igrače..."
 
-# screen_edit_nickname.cpp
-msgid "Change"
-msgstr "Promijeni"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:25
 msgid "Change colors"
 msgstr "Promijeni boje"
 
-# screen_edit_nickname.cpp
-msgid "Failed to update username"
-msgstr "Neuspješno ažuriranje korisničkog imena"
-
-# screen_edit_nickname.cpp
-msgid "New username:"
-msgstr "Novo korisničko ime:"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:38
 msgid "Old username:"
 msgstr "Staro korisničko ime:"
 
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:41
+msgid "New username:"
+msgstr "Novo korisničko ime:"
+
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:55
+msgid "Change"
+msgstr "Promijeni"
+
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:73
 msgid "Only change colors! %s"
 msgstr "Promijenite samo boje! %s"
 
-# screen_edit_nickname.cpp
-msgid "Username change succesfull"
-msgstr "Uspješna promjena korisničkog imena"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:86
 msgid "Username color change"
 msgstr "Promjena boje korisničkog imena"
 
-# screen_signin.cpp
-msgid "Check your inbox!"
-msgstr "Provjerite Vaš inbox!"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:94
+msgid "Username change succesfull"
+msgstr "Uspješna promjena korisničkog imena"
 
-# screen_signin.cpp
-msgid "Email"
-msgstr "Email"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:105
+msgid "Failed to update username"
+msgstr "Neuspješno ažuriranje korisničkog imena"
 
-# screen_signin.cpp
-msgid "Email not verified"
-msgstr "Email nije potvrđen"
-
-# screen_signin.cpp
-msgid "Failed to request password reset"
-msgstr "Meuspješno slanje zahtjeva resetiranja lozinke"
-
-# screen_signin.cpp
-msgid "Failed to resend email"
-msgstr "Neuspješno ponovno slanje email-"
-
-# screen_signin.cpp
-msgid "Password"
-msgstr "Lozinka"
-
-# screen_signin.cpp
-msgid "Password reset email sent"
-msgstr "Poslan email za resetiranje lozinke"
-
-# screen_signin.cpp
-msgid "Re-send verification email"
-msgstr "Ponovno slanje email-a za potvrdnju"
-
-# screen_signin.cpp
-msgid "Request password reset"
-msgstr "Zahtjevaj resetiranje lozinke"
-
-# screen_signin.cpp
-msgid "Requesting password reset"
-msgstr "Zahtjevanje resetiranja lozinke"
-
-# screen_signin.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:30
 msgid "Requesting verification email"
 msgstr "Zahtjevanje email-a za potvrdnju"
 
-# screen_signin.cpp
-msgid "Reset password"
-msgstr "Resetiraj lozinku"
-
-# screen_signin.cpp
-msgid "Sign in"
-msgstr "Prijavi se"
-
-# screen_signin.cpp
-msgid "Signing in"
-msgstr "Prijavljivanje"
-
-# screen_signin.cpp
-msgid "Successfully signed in!"
-msgstr "Uspješna prijava!"
-
-# screen_signin.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Verification email sent"
 msgstr "Poslan email za potvrdnju."
 
-# screen_synchronize.cpp
-msgid "All your medals are here."
-msgstr "Sve vaše medalje su ovdje."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:38
+msgid "Check your inbox!"
+msgstr "Provjerite Vaš inbox!"
 
-# screen_synchronize.cpp
-msgid "Failed to download backup data"
-msgstr "Neuspjelo preuzimanje podataka sigurnosne kopije"
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:42
+msgid "Failed to resend email"
+msgstr "Neuspješno ponovno slanje email-"
 
-# screen_synchronize.cpp
-msgid "Failed to synchronize."
-msgstr "Neuspješna sinkronizacija."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:53
+msgid "Requesting password reset"
+msgstr "Zahtjevanje resetiranja lozinke"
 
-# screen_synchronize.cpp
-msgid "Synchronization completed."
-msgstr "Sinkronizacija završena."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:59
+msgid "Password reset email sent"
+msgstr "Poslan email za resetiranje lozinke"
 
-# screen_synchronize.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:66
+msgid "Failed to request password reset"
+msgstr "Meuspješno slanje zahtjeva resetiranja lozinke"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:86
+msgid "Sign in"
+msgstr "Prijavi se"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
+msgid "Email"
+msgstr "Email"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
+msgid "Password"
+msgstr "Lozinka"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:144
+msgid "Signing in"
+msgstr "Prijavljivanje"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:159
+msgid "Successfully signed in!"
+msgstr "Uspješna prijava!"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
+msgid "Email not verified"
+msgstr "Email nije potvrđen"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:173
+msgid "Re-send verification email"
+msgstr "Ponovno slanje email-a za potvrdnju"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:191
+msgid "Request password reset"
+msgstr "Zahtjevaj resetiranje lozinke"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:217
+msgid "Reset password"
+msgstr "Resetiraj lozinku"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:34
 msgid "Synchronizing"
 msgstr "Sinkroniziranje"
 
-# screen_synchronize.cpp
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:83
+msgid "Failed to synchronize."
+msgstr "Neuspješna sinkronizacija."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:109
 msgid "You've been signed out."
 msgstr "Odjavljeni ste."
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:143
+msgid "Failed to download backup data"
+msgstr "Neuspjelo preuzimanje podataka sigurnosne kopije"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:192
+msgid "Synchronization completed."
+msgstr "Sinkronizacija završena."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:193
+msgid "All your medals are here."
+msgstr "Sve vaše medalje su ovdje."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Account"
 msgstr "Račun"
 
-# screen_signed_out.cpp
-msgid "Create an account to set your name and sync your data"
-msgstr "Napravite račun da biste postavili svoje ime i sinkronizirali Vaše podatke."
-
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:25
 msgid "Not signed in"
 msgstr "Niste prijavljeni."
 
-# screen_signed_out.cpp
-msgid "Privacy Policy"
-msgstr "Politika privatnosti"
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:29
+msgid "Create an account to set your name and sync your data"
+msgstr "Napravite račun da biste postavili svoje ime i sinkronizirali Vaše podatke."
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:33
 msgid "Register"
 msgstr "Registriranje"
 
-# screen_signed_out.cpp
-msgid "You need to be signed-in to play online"
-msgstr "Morate biti prijavljeni kako biste igrali online"
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:58
+msgid "Privacy Policy"
+msgstr "Politika privatnosti"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:100
 msgid "You need to be signed-in to upload scores"
 msgstr "Morate biti prijavljeni kako biste mogli prenositi rezultate"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:103
+msgid "You need to be signed-in to play online"
+msgstr "Morate biti prijavljeni kako biste igrali online"
+
+#. Error message shown if to the player when they are trying to view
+#. comments while not signed-in.
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
+msgid "You need to be signed-in to view comments"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
 msgstr "Vaš račun"
 
-# screen_register.cpp
-msgid "Confirm email"
-msgstr "Potvrdi email"
-
-# screen_register.cpp
-msgid "Confirm email:"
-msgstr "Potvrdi email:"
-
-# screen_register.cpp
-msgid "Confirm password"
-msgstr "Potvrdi lozinku"
-
-# screen_register.cpp
-msgid "Confirm password:"
-msgstr "Potvrdi lozinku:"
-
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:23
 msgid "Email is invalid!"
 msgstr "Email nije valjan!"
 
-# screen_register.cpp
-msgid "Email:"
-msgstr "Email:"
-
-# screen_register.cpp
-msgid "Emails do not match!"
-msgstr "Emailovi nisu jednaki!"
-
-# screen_register.cpp
-msgid "Failed to register"
-msgstr "Neuspješno registriranje."
-
-# screen_register.cpp
-msgid "Passwords do not match!"
-msgstr "Lozinke nisu jednake!"
-
-# screen_register.cpp
-msgid "Please check your emails!"
-msgstr "Molim Vas pregledajte vaše emailove!"
-
-# screen_register.cpp
-msgid "Register account"
-msgstr "Registriraj račun"
-
-# screen_register.cpp
-msgid "Registering"
-msgstr "Registriranje"
-
-# screen_register.cpp
-msgid "Registration successful."
-msgstr "Registriranje uspješno"
-
-# screen_register.cpp
-msgid "Too long. Maximum %s characters."
-msgstr "Predugo. Maksimalno %s znakova."
-
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:48
 msgid "Too short. Minimum %s characters."
 msgstr "Prekratko. Minimalno %s znakova."
 
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:55
+msgid "Too long. Maximum %s characters."
+msgstr "Predugo. Maksimalno %s znakova."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:76
+msgid "Register account"
+msgstr "Registriraj račun"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
 msgid "Username"
 msgstr "Korisničko ime"
 
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
+msgid "Confirm password"
+msgstr "Potvrdi lozinku"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:89
+msgid "Confirm email"
+msgstr "Potvrdi email"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
+msgid "Registering"
+msgstr "Registriranje"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
+msgid "Registration successful."
+msgstr "Registriranje uspješno"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:147
+msgid "Please check your emails!"
+msgstr "Molim Vas pregledajte vaše emailove!"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:151
+msgid "Failed to register"
+msgstr "Neuspješno registriranje."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:183
 msgid "Username (you can put colors in!):"
 msgstr "Korističko ime (možete mijenjati boje!)"
 
-# screen_signed_in.cpp
-msgid "Account deletion"
-msgstr "Brisanje računa"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Confirm password:"
+msgstr "Potvrdi lozinku:"
 
-# screen_signed_in.cpp
-msgid "Account deletion requested."
-msgstr "Poslan zahtjev za brisanje računa."
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Email:"
+msgstr "Email:"
 
-# screen_signed_in.cpp
-msgid "An email asking for confirmation was sent."
-msgstr "Email za potvrdu je poslan."
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Confirm email:"
+msgstr "Potvrdi email:"
 
-# screen_signed_in.cpp
-msgid "Delete account"
-msgstr "Izbriši račun"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:218
+msgid "Passwords do not match!"
+msgstr "Lozinke nisu jednake!"
 
-# screen_signed_in.cpp
-msgid "Failed to request account deletion"
-msgstr "Neuspješno slanje zahtjeva za brisanje računa"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:227
+msgid "Emails do not match!"
+msgstr "Emailovi nisu jednaki!"
 
-# screen_signed_in.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:42
 msgid "Online profile"
 msgstr "Online profil"
 
-# screen_signed_in.cpp
-msgid "Sign out"
-msgstr "Odjava"
-
-# screen_signed_in.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:68
 msgid "Synchronize"
 msgstr "Sinkronizacija"
 
-# top_notification_view.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:88
+msgid "Sign out"
+msgstr "Odjava"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:100
+msgid "Delete account"
+msgstr "Izbriši račun"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:115
+msgid "Account deletion"
+msgstr "Brisanje računa"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:122
+msgid "Account deletion requested."
+msgstr "Poslan zahtjev za brisanje računa."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:124
+msgid "An email asking for confirmation was sent."
+msgstr "Email za potvrdu je poslan."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:129
+msgid "Failed to request account deletion"
+msgstr "Neuspješno slanje zahtjeva za brisanje računa"
+
+#: ../client/application/game/ui/views/top_notification_view.cpp:55
 msgid "%sWaiting for other player%s"
 msgstr "%sČekanje na druge igrače%s"
 
-# game_hud.cpp
+#: ../client/application/game/ui/views/game_hud.cpp:48
 msgid "Shield: %s"
 msgstr "Štit: %s"
 
-# community_level_selector.cpp
+#: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
 msgstr "U PREGLEDU"
 
-# player_data_manager.cpp
+#: ../client/application/game/player_data/player_data_manager.cpp:248
 msgid "New personal best! %s ⇨ %s"
 msgstr "Novi rekord! %s ⇨ %s"
 
-# game_network_message_parser.cpp
+#: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
 msgstr "%s je izašao iz igre"
 
-# game_state.cpp
-msgid "Accuracy: %s"
-msgstr "Preciznost: %s"
-
-# game_state.cpp
+#: ../client/application/game/state/game_state.cpp:445
 msgid "N/A"
 msgstr "N/A"
 
-# game_levels.cpp
-msgid "Choose your own difficulty"
-msgstr "Odaberi svoju težinu"
+#: ../client/application/game/state/game_state.cpp:456
+msgid "Accuracy: %s"
+msgstr "Preciznost: %s"
 
-# game_levels.cpp
+#: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
 msgstr "Izbjegni sve i biti ćeš OK"
 
-# game_levels.cpp
-msgid "Euclidean space is overrated"
-msgstr "Euclideanov svemir je preuveličan"
-
-# game_levels.cpp
-msgid "Green good. Red bad."
-msgstr "Zeleno dobro. Crveno loše."
-
-# game_levels.cpp
-msgid "Just 32 seconds of skills"
-msgstr "Samo 32 sekunde vještine"
-
-# game_levels.cpp
-msgid "My favorite mode"
-msgstr "Moj omiljeni mod"
-
-# game_levels.cpp
-msgid "Never trust a six-sided polygon"
-msgstr "Nikad ne vjeruj šesterostranom poligonu"
-
-# game_levels.cpp
-msgid "Previously known as Assault"
-msgstr "Prije znan kao Assault"
-
-# game_levels.cpp
-msgid "RIP GW3:Dimensions"
-msgstr "Počivao u miru GW3:Dimensions"
-
-# game_levels.cpp
-msgid "Survive 32 seconds with this simple trick"
-msgstr "Preživi 32 sekunde sa ovim jednostavnim trikom"
-
-# game_levels.cpp
-msgid "Unrelated to \"Super Hexagon\""
-msgstr "Nije povezano sa \"Super Hexagon\""
-
-# game_levels.cpp
-msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Ovaj level je šala, zar ne?\" - tester"
-
-# game_levels.cpp
+#: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
 msgstr "ili Dodge This"
 
-# medals.cpp
+#: ../client/application/game/levels/game_levels.cpp:84
+msgid "Green good. Red bad."
+msgstr "Zeleno dobro. Crveno loše."
+
+#: ../client/application/game/levels/game_levels.cpp:95
+msgid "Never trust a six-sided polygon"
+msgstr "Nikad ne vjeruj šesterostranom poligonu"
+
+#: ../client/application/game/levels/game_levels.cpp:96
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "Nije povezano sa \"Super Hexagon\""
+
+#: ../client/application/game/levels/game_levels.cpp:97
+msgid "Choose your own difficulty"
+msgstr "Odaberi svoju težinu"
+
+#: ../client/application/game/levels/game_levels.cpp:107
+msgid "Euclidean space is overrated"
+msgstr "Euclideanov svemir je preuveličan"
+
+#: ../client/application/game/levels/game_levels.cpp:118
+msgid "Just 32 seconds of skills"
+msgstr "Samo 32 sekunde vještine"
+
+#: ../client/application/game/levels/game_levels.cpp:118
+msgid "My favorite mode"
+msgstr "Moj omiljeni mod"
+
+#: ../client/application/game/levels/game_levels.cpp:119
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Preživi 32 sekunde sa ovim jednostavnim trikom"
+
+#: ../client/application/game/levels/game_levels.cpp:120
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\"Ovaj level je šala, zar ne?\" - tester"
+
+#: ../client/application/game/levels/game_levels.cpp:131
+msgid "RIP GW3:Dimensions"
+msgstr "Počivao u miru GW3:Dimensions"
+
+#: ../client/application/game/levels/game_levels.cpp:131
+msgid "Previously known as Assault"
+msgstr "Prije znan kao Assault"
+
+#: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
 msgstr "Nova brončana medalja"
 
-# medals.cpp
-msgid "New gold medal"
-msgstr "Nova zlatna medalja"
-
-# medals.cpp
+#: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
 msgstr "Nova srebrna medalja"
 
-# renderer_types.cpp
-msgid "Compression friendly"
-msgstr "Pogodno za kompresiju"
+#: ../client/application/game/levels/medals.cpp:10
+msgid "New gold medal"
+msgstr "Nova zlatna medalja"
 
-# renderer_types.cpp
-msgid "High"
-msgstr "Visoko"
-
-# renderer_types.cpp
-msgid "High (Dark)"
-msgstr "Visoko (Tamno)"
-
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:8
 msgid "Minimal"
 msgstr "Minimalno"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "Minimal (Dark)"
 msgstr "Minimalno (Tamno)"
 
-# renderer_types.cpp
-msgid "Ultra low 16x"
-msgstr "Ultra nisko 16x"
+#: ../client/application/graphics/renderers/renderer_types.cpp:12
+msgid "High"
+msgstr "Visoko"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:14
+msgid "High (Dark)"
+msgstr "Visoko (Tamno)"
+
+#: ../client/application/graphics/renderers/renderer_types.cpp:16
+msgid "Compression friendly"
+msgstr "Pogodno za kompresiju"
+
+#: ../client/application/graphics/renderers/renderer_types.cpp:17
 msgid "Ultra low 2x"
 msgstr "Ultra nisko 2x"
 
-# renderer_types.cpp
-msgid "Ultra low 32x"
-msgstr "Ultra nisko 32x"
-
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:19
 msgid "Ultra low 4x"
 msgstr "Ultra nisko 4x"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:21
 msgid "Ultra low 8x"
 msgstr "Ultra nisko 8x"
 
-# The following translations are not in use anymore!
-# They are kept in case they are needed again later.
+#: ../client/application/graphics/renderers/renderer_types.cpp:23
+msgid "Ultra low 16x"
+msgstr "Ultra nisko 16x"
 
-# Currently unused! This string may never be used again!
-msgid "2 extra characters:"
-msgstr "2 dodatne znamenke:"
-
-# Currently unused! This string may never be used again!
-msgid "Career"
-msgstr "Karijera"
-
-# Currently unused! This string may never be used again!
-msgid "Connect to..."
-msgstr "Spoji se na..."
-
-# Currently unused! This string may never be used again!
-msgid "Creator"
-msgstr "Kreator"
-
-# Currently unused! This string may never be used again!
-msgid "Custom levels"
-msgstr "Prilagođeni leveli"
-
-# Currently unused! This string may never be used again!
-msgid "Custom levels?!"
-msgstr "Prilagođeni leveli?!"
-
-# Currently unused! This string may never be used again!
-msgid "Dark High"
-msgstr "Tamno Visoko"
-
-# Currently unused! This string may never be used again!
-msgid "Failed to parse server response"
-msgstr "Neuspješna rasčlaniranje odgovora servera."
-
-# Currently unused! This string may never be used again!
-msgid "Game is full"
-msgstr "Igra je puna"
-
-# Currently unused! This string may never be used again!
-msgid "Level name"
-msgstr "Ime levela"
-
-# Currently unused! This string may never be used again!
-msgid "Loading level..."
-msgstr "čitavanje levela..."
-
-# Currently unused! This string may never be used again!
-msgid "Local Multiplayer"
-msgstr "Lokalno više igrača"
-
-# Currently unused! This string may never be used again!
-msgid "Lost connection to server"
-msgstr "Izgubljena veza sa serverom"
-
-# Currently unused! This string may never be used again!
-msgid "Low"
-msgstr "Nisko"
-
-# Currently unused! This string may never be used again!
-msgid "Medals: %s"
-msgstr "Medalje: %s"
-
-# Currently unused! This string may never be used again!
-msgid "Medium"
-msgstr "Srednje"
-
-# Currently unused! This string may never be used again!
-msgid "Missing information. This should not happen!"
-msgstr "Nedostaje informacija. Ovo se ne bih trebalo dogoditi!"
-
-# Currently unused! This string may never be used again!
-msgid "More information"
-msgstr "Više informacija"
-
-# Currently unused! This string may never be used again!
-msgid "Renderer: %s"
-msgstr "Renderer: %s"
-
-# Currently unused! This string may never be used again!
-msgid "Select level"
-msgstr "Odaberi level"
-
-# Currently unused! This string may never be used again!
-msgid "Sign-in"
-msgstr "Prijava"
-
-# Currently unused! This string may never be used again!
-msgid "Sign-in confirmation"
-msgstr "Potvrda prijave"
-
-# Currently unused! This string may never be used again!
-msgid "Sign-in with \"%s\"?"
-msgstr "Prijavi se sa \"%s\"?"
-
-# Currently unused! This string may never be used again!
-msgid "The background is expensive to compute"
-msgstr "Pozadina je skupa za izračunavanje"
-
-# Currently unused! This string may never be used again!
-msgid "Translations"
-msgstr "Prijevodi"
-
-# Currently unused! This string may never be used again!
-msgid "Waiting for the server..."
-msgstr "Čekanje na server..."
-
-# Currently unused! This string may never be used again!
-msgid "Yes!"
-msgstr "Da!"
-
-# Currently unused! This string may never be used again!
-msgid "You are already in the game!"
-msgstr "Već si u igri!"
-
-# Currently unused! This string may never be used again!
-msgid "You can finally code your own levels!"
-msgstr "Napokon možete kodirati svoje levele!"
+#: ../client/application/graphics/renderers/renderer_types.cpp:25
+msgid "Ultra low 32x"
+msgstr "Ultra nisko 32x"
 

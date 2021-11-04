@@ -1,0 +1,90 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "2 extra characters:"
+msgstr "Dvi papildomos raidės:"
+
+msgid "Career"
+msgstr "Karjera"
+
+msgid "Connect to..."
+msgstr "Prisijungti prie..."
+
+msgid "Creator"
+msgstr "Kūrėjas"
+
+msgid "Custom levels"
+msgstr "Kitų žmonių lygiai"
+
+msgid "Custom levels?!"
+msgstr "Kitų žmonių lygiai?!"
+
+msgid "Dark High"
+msgstr "Tamsiai Aukšta"
+
+msgid "Failed to parse server response"
+msgstr "Nepavyko išanalizuoti serverio atsakymo"
+
+msgid "Game is full"
+msgstr "Žaidimas pilnas"
+
+msgid "Level name"
+msgstr "Lygio pavadinimas"
+
+msgid "Loading level..."
+msgstr "Įkeliamas lygis..."
+
+msgid "Local Multiplayer"
+msgstr "Vietinis kelių žaidėjų režimas"
+
+msgid "Lost connection to server"
+msgstr "Prarastas ryšys su serveriu"
+
+msgid "Low"
+msgstr "Žema"
+
+msgid "Medals: %s"
+msgstr "Medaliai: %s"
+
+msgid "Medium"
+msgstr "Vidutinė"
+
+msgid "Missing information. This should not happen!"
+msgstr "Trūksta informacijos. Tai neturėtų atsitikti!"
+
+msgid "More information"
+msgstr "Daugiau informacijos"
+
+msgid "Renderer: %s"
+msgstr "Kokybė: %s"
+
+msgid "Select level"
+msgstr "Pasirinkite lygį"
+
+msgid "Sign-in"
+msgstr "Prisijugti"
+
+msgid "Sign-in confirmation"
+msgstr "Prisijungimo patvirtinimas"
+
+msgid "Sign-in with \"%s\"?"
+msgstr "Prisijungti su \"%s\"?"
+
+msgid "The background is expensive to compute"
+msgstr "Foną apskaičiuoti brangu"
+
+msgid "Translations"
+msgstr "Vertimai"
+
+msgid "Waiting for the server..."
+msgstr "Laukiama serverio..."
+
+msgid "Yes!"
+msgstr "Taip!"
+
+msgid "You are already in the game!"
+msgstr "Jūs jau esate žaidime!"
+
+msgid "You can finally code your own levels!"
+msgstr "Pagaliau galite kurti savo lygius!"
+

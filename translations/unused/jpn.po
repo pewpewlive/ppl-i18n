@@ -1,0 +1,42 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "Creator"
+msgstr "サクシャ"
+
+msgid "Custom levels"
+msgstr "カスタムレベル"
+
+msgid "Custom levels?!"
+msgstr "カスタムレベル！？"
+
+msgid "Level name"
+msgstr "レベルネーム"
+
+msgid "Local Multiplayer"
+msgstr "ローカル マルチプレイ"
+
+msgid "Lost connection to server"
+msgstr "サーバー セツゾクガ アリマセン"
+
+msgid "Low"
+msgstr "ヒクイ"
+
+msgid "Medium"
+msgstr "マアマア"
+
+msgid "More information"
+msgstr "モット ヨム"
+
+msgid "Renderer: %s"
+msgstr "レンダラー: %s"
+
+msgid "Select level"
+msgstr "レベル センタク"
+
+msgid "Yes!"
+msgstr "YES!"
+
+msgid "You can finally code your own levels!"
+msgstr "ツイニ レベル デキタ！"
+

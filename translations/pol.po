@@ -1,1115 +1,1100 @@
-# ui_helpers.cpp
-msgid "off"
-msgstr "wyłą"
-
-# ui_helpers.cpp
+#: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
 msgstr "włą"
 
-# keyboard_view.cpp
+#: ../client/application/ui/ui_helpers.cpp:64
+msgid "off"
+msgstr "wyłą"
+
+#: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
 msgstr "okej"
 
-# game.cpp
+#: ../client/application/game/game.cpp:160
 msgid "Quick pause"
 msgstr "szybka pauza"
 
-# game.cpp
+#: ../client/application/game/game.cpp:166
 msgid "Quick pause %s"
 msgstr "szybka pauza %s"
 
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
 msgstr "Kontynuuj"
 
-# pause_ui.cpp
-msgid "Exit"
-msgstr "Wyjście"
-
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
 msgstr "Pauza"
 
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
 msgstr "Restartuj"
 
-# game_over_ui.cpp
-msgid "Game Over"
-msgstr "Koniec gry"
+#: ../client/application/game/ui/pause_ui.cpp:72
+msgid "Exit"
+msgstr "Wyjście"
 
-# game_over_ui.cpp
+#: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
 msgstr "Zagraj ponownie"
 
-# shared_strings.cpp
-msgid "Casual"
-msgstr "Luźny"
+#: ../client/application/game/ui/game_over_ui.cpp:34
+msgid "Game Over"
+msgstr "Koniec gry"
 
-# shared_strings.cpp
-msgid "Community levels"
-msgstr "Poziomy społeczności"
-
-# shared_strings.cpp
-msgid "Failed to contact server"
-msgstr "Nie udało się skontaktować z serwerem"
-
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
 msgstr "Nie udało się przeanalizować odpowiedzi"
 
-# shared_strings.cpp
-msgid "Failed to sign-in!"
-msgstr "Logowanie nie powiodło się"
+#: ../client/application/game/ui/shared_strings.cpp:11
+msgid "Failed to contact server"
+msgstr "Nie udało się skontaktować z serwerem"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
 msgstr "Poziomy Oficjalne"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:19
+msgid "Community levels"
+msgstr "Poziomy społeczności"
+
+#: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
 msgstr "Liczba zagrań %s"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
 msgstr "Czas grania %s"
 
-# screen_download_level.cpp
+#: ../client/application/game/ui/shared_strings.cpp:31
+msgid "Casual"
+msgstr "Luźny"
+
+#: ../client/application/game/ui/shared_strings.cpp:35
+msgid "Failed to sign-in!"
+msgstr "Logowanie nie powiodło się"
+
+#: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
 msgstr "Pobieranie poziomu..."
 
-# screen_specify_server_ip.cpp
-msgid "Connect"
-msgstr "Połącz"
-
-# screen_specify_server_ip.cpp
-msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Połącz się do innego pokoju przez internet #ff0000ff(experimental)"
-
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:23
 msgid "Connect to server"
 msgstr "Połącz się do serwera"
 
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:55
 msgid "IP:"
 msgstr "IP:"
 
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:63
 msgid "Port:"
 msgstr "Port:"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Połącz się do innego pokoju przez internet #ff0000ff(experimental)"
+
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
+msgid "Connect"
+msgstr "Połącz"
+
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:29
 msgid "Enter password"
 msgstr "Wprowadź hasło"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:32
 msgid "Join"
 msgstr "Dołącz"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:45
 msgid "Password:"
 msgstr "Hasło:"
 
-# screen_configure_touch_joystick.cpp
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:83
 msgid "Configure joysticks"
 msgstr "Konfiguruj drążki sterujące"
 
-# screen_configure_touch_joystick.cpp
-msgid "Reset"
-msgstr "Resetuj"
-
-# screen_configure_touch_joystick.cpp
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Swap"
 msgstr "Zamień"
 
-# screen_select_multiplayer_type.cpp
-msgid "LAN multiplayer"
-msgstr "Lokalna gra wieloosobowa"
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:103
+msgid "Reset"
+msgstr "Resetuj"
 
-# screen_select_multiplayer_type.cpp
-msgid "Online multiplayer"
-msgstr "Gra Online wieloosobowa"
-
-# screen_select_multiplayer_type.cpp
-msgid "Play with people around the world!"
-msgstr "Graj z osobami z całego świata!"
-
-# screen_select_multiplayer_type.cpp
-msgid "Play with people on the same network!"
-msgstr "Graj z osobami w tej samej sieci!"
-
-# screen_select_multiplayer_type.cpp
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:23
 msgid "Select multiplayer type"
 msgstr "Wybierz typ gry wieloosobowej"
 
-# screen_lan_create_or_join.cpp
-msgid "(Incompatible version)"
-msgstr "(niekompatybilna wersja)"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:27
+msgid "Online multiplayer"
+msgstr "Gra Online wieloosobowa"
 
-# screen_lan_create_or_join.cpp
-msgid "Close room"
-msgstr "Zamknij pokój"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
+msgid "Play with people around the world!"
+msgstr "Graj z osobami z całego świata!"
 
-# screen_lan_create_or_join.cpp
-msgid "Connecting to a phone's hotspot should work!"
-msgstr "Łączenie do hotspotu telefonu powinno działać!"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
+msgid "LAN multiplayer"
+msgstr "Lokalna gra wieloosobowa"
 
-# screen_lan_create_or_join.cpp
-msgid "Create room"
-msgstr "Stwórz pokój"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:64
+msgid "Play with people on the same network!"
+msgstr "Graj z osobami w tej samej sieci!"
 
-# screen_lan_create_or_join.cpp
-msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Każdy gracz musi osobno wysłać powtórkę żeby obaj pojawili się w tablicy wyników online"
-
-# screen_lan_create_or_join.cpp
-msgid "Help"
-msgstr "Pomoc"
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
 msgstr "Lokalny gra wieloosobowa"
 
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:55
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
 msgstr "Lokalna gra wieloosobowa wspiera do 2 graczy podłączonych do jednej sieci wifi"
 
-# screen_lan_create_or_join.cpp
-msgid "Multiplayer help"
-msgstr "Pomoc do gry Wieloosobowej"
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:56
 msgid "One player must create a room, which the other player joins."
 msgstr "Jeden gracz musi stworzyć pokój, do którego inny gracz dołączy"
 
-# screen_lan_create_or_join.cpp
-msgid "Searching for rooms..."
-msgstr "Szukanie nowego pokoju..."
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
 msgstr "Sieć wifi nie musi być podłączona do internetu"
 
-# screen_configure_ship.cpp
-msgid "Bullets"
-msgstr "Pociski"
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:58
+msgid "Connecting to a phone's hotspot should work!"
+msgstr "Łączenie do hotspotu telefonu powinno działać!"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:59
+msgid "Each player need to upload the replay separately to both appear in the online leader board."
+msgstr "Każdy gracz musi osobno wysłać powtórkę żeby obaj pojawili się w tablicy wyników online"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:74
+msgid "Multiplayer help"
+msgstr "Pomoc do gry Wieloosobowej"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:124
+msgid "Searching for rooms..."
+msgstr "Szukanie nowego pokoju..."
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:185
+msgid "(Incompatible version)"
+msgstr "(niekompatybilna wersja)"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:206
+msgid "Create room"
+msgstr "Stwórz pokój"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:208
+msgid "Close room"
+msgstr "Zamknij pokój"
+
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
 msgstr "Konfiguruj Statek"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
 msgstr "Model"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
 msgstr "Ślad"
 
-# screen_upload_scores.cpp
-msgid "Failed to upload replays."
-msgstr "Nie udało się przesłać powtórek"
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+msgid "Bullets"
+msgstr "Pociski"
 
-# screen_upload_scores.cpp
-msgid "Nothing to upload!"
-msgstr "Nie ma nic do przesłania!"
-
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:22
 msgid "Upload scores"
 msgstr "Prześlij wyniki"
 
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
+msgid "Nothing to upload!"
+msgstr "Nie ma nic do przesłania!"
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
+msgid "Failed to upload replays."
+msgstr "Nie udało się przesłać powtórek"
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
 msgstr "Przesłanie powiodło się"
 
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
 msgstr "Przesyłanie powtórki dla %s."
 
-# screen_career.cpp
+#: ../client/application/game/ui/screens/screen_career.cpp:39
 msgid "Statistics"
 msgstr "Statystyki"
 
-# screen_select_level_of_author.cpp
+#: ../client/application/game/ui/screens/screen_select_level_of_author.cpp:42
 msgid "Levels by %s"
 msgstr "Poziomy stworzone przez %s"
 
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
 msgid "Configure keyboard"
 msgstr "Konfiguruj klawiaturę"
 
-# screen_configure_keyboard.cpp
-msgid "Mouse aim %s"
-msgstr "Celowanie myszką %s"
-
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
 msgid "Move"
 msgstr "Ruszaj"
 
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
 msgstr "Strzelaj"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Authenticating..."
-msgstr "Uwierzytelnianie..."
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
+msgid "Mouse aim %s"
+msgstr "Celowanie myszką %s"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Nie można grać w trybie wieloosobowym z symetrycznym NAT."
-
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:71
 msgid "Checking network..."
 msgstr "Sprawdzanie sieci..."
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Error :("
-msgstr "Błąd :("
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
+msgid "Can't play in multiplayer with a symmetric NAT."
+msgstr "Nie można grać w trybie wieloosobowym z symetrycznym NAT."
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Failed to authenticate"
-msgstr "Uwierzytelnianie nie powiodło się"
-
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
 msgstr "Nie udało się połączyć z serwerami STUN."
 
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
+msgid "Authenticating..."
+msgstr "Uwierzytelnianie..."
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:112
 msgid "Need the latest version of the game."
 msgstr "Potrzebna najnowsza wersja gry."
 
-# screen_online_list_rooms.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:121
+msgid "Failed to authenticate"
+msgstr "Uwierzytelnianie nie powiodło się"
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
+msgid "Error :("
+msgstr "Błąd :("
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
+msgid "Are you sure you want to report this comment?"
+msgstr ""
+
+#. Shown in a notification after successfully reporting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
+msgid "Successfully reported comment"
+msgstr ""
+
+#. Shown in a notification if a comment could not be reported.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:163
+msgid "Error reporting comment"
+msgstr ""
+
+#. The title of the screen where players delete comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:200
+msgid "Delete comment"
+msgstr ""
+
+#. Shown in a notification after successfully deleting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
+msgid "Successfully deleted comment"
+msgstr ""
+
+#. Shown in a notification if a comment could not be deleting.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:204
+msgid "Error deleting comment"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#. Used as a placeholder in the textfield where players write their comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
+msgid "<Add a comment here>"
+msgstr ""
+
+#. Displayed in a button. Pressing that button posts the comment that was
+#. written by the player.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:316
+msgid "Comment"
+msgstr ""
+
+#. Shown in a notification if the player tries to post a comment that is
+#. less than 3 character long.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
+msgid "Comment must be at least 3 characters long."
+msgstr ""
+
+#. Shown in the title of the screen where the player waits for the comment
+#. to be posted to the server.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
+msgid "Posting comment"
+msgstr ""
+
+#. Shown in a notification after a comment was succesfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:388
+msgid "Comment posted"
+msgstr ""
+
+#. Shown in a notification after a comment was succesfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
+msgid "Failed to post comment"
+msgstr ""
+
+#. The title of the screen where players report comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
+msgctxt "report_screen_title"
+msgid "Report comment"
+msgstr ""
+
+#. The title of the screen where players enter the comment they want to add.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
+msgctxt "add_comment_screen_title"
+msgid "Add comment"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking wether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
+msgctxt "menu_confirm_action"
+msgid "Yes"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking whether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:474
+msgctxt "menu_cancel_action"
+msgid "No"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:95
 msgid "Refresh"
 msgstr "Odśwież"
 
-# screen_settings_language.cpp
-msgid "Contributors"
-msgstr "współautorzy"
-
-# screen_settings_language.cpp
-msgid "Default language"
-msgstr "Domyślny język"
-
-# screen_settings_language.cpp
-msgid "Help out"
-msgstr "Pomoc"
-
-# screen_settings_language.cpp
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:22
 msgid "Language Settings"
 msgstr "Ustawienia języka"
 
-# screen_settings_language.cpp
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:26
 msgid "The translations are community provided!"
 msgstr "Tłumaczenia są tworzone przez społeczność!"
 
-# screen_view_high_scores.cpp
-msgid "1p"
-msgstr "1p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:35
+msgid "Default language"
+msgstr "Domyślny język"
 
-# screen_view_high_scores.cpp
-msgid "2p"
-msgstr "2p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:50
+msgid "Help out"
+msgstr "Pomoc"
 
-# screen_view_high_scores.cpp
-msgid "3p"
-msgstr "3p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:60
+msgid "Contributors"
+msgstr "współautorzy"
 
-# screen_view_high_scores.cpp
-msgid "4p"
-msgstr "4p"
-
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:25
 msgid "Africa"
 msgstr "Afryka"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:26
 msgid "Asia"
 msgstr "Azja"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
 msgid "Europe"
 msgstr "Europa"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:28
 msgid "North America"
 msgstr "Ameryka Północna"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:29
 msgid "Oceania"
 msgstr "Oceania"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:30
 msgid "South America"
 msgstr "Ameryka Połódniowa"
 
-# screen_view_high_scores.cpp
-msgid "continent"
-msgstr "Kontynent"
-
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "personal"
 msgstr "osobiste"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "region"
 msgstr "region"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "world"
 msgstr "Świat"
 
-# screen_benchmark.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:120
+msgid "continent"
+msgstr "Kontynent"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "1p"
+msgstr "1p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "2p"
+msgstr "2p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "3p"
+msgstr "3p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:154
+msgid "4p"
+msgstr "4p"
+
+#: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
 msgstr "Pomiń"
 
-# screen_main_menu.cpp
-msgid "Multiplayer"
-msgstr "Tryb Wieloosobowy"
-
-# screen_main_menu.cpp
-msgid "Play"
-msgstr "Zagraj"
-
-# screen_main_menu.cpp
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:42
 msgid "Single Player"
 msgstr "Tryb Jednoosobowy"
 
-# screen_online_create_or_join_room.cpp
-msgid "Creating room"
-msgstr "Tworzenie pokoju"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:45
+msgid "Play"
+msgstr "Zagraj"
 
-# screen_online_create_or_join_room.cpp
-msgid "Failed to join room"
-msgstr "Nie udało się dołączyć do pokoju"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:63
+msgid "Multiplayer"
+msgstr "Tryb Wieloosobowy"
 
-# screen_online_create_or_join_room.cpp
-msgid "Incorrect password"
-msgstr "Nieprawidłowe hasło"
-
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
 msgid "Joining room"
 msgstr "Dołączanie do pokoju"
 
-# screen_online_create_or_join_room.cpp
-msgid "Room is full"
-msgstr "Pokój jest pełny"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
+msgid "Creating room"
+msgstr "Tworzenie pokoju"
 
-# screen_online_create_or_join_room.cpp
-msgid "The room does not exist anymore"
-msgstr "Ten pokój już nie istnieje"
-
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:336
 msgid "The room expired"
 msgstr "Pokój wygasł"
 
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
 msgid "Unknown error"
 msgstr "Nieznany błąd"
 
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:365
+msgid "Failed to join room"
+msgstr "Nie udało się dołączyć do pokoju"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
+msgid "Incorrect password"
+msgstr "Nieprawidłowe hasło"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "You are already in the room!"
 msgstr "Już jesteś w pokoju"
 
-# screen_tutorial.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:385
+msgid "The room does not exist anymore"
+msgstr "Ten pokój już nie istnieje"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:388
+msgid "Room is full"
+msgstr "Pokój jest pełny"
+
+#: ../client/application/game/ui/screens/screen_tutorial.cpp:34
 msgid "Tutorial"
 msgstr "Samouczek"
 
-# screen_online_configure_room.cpp
-msgid "2 extra characters (optional):"
-msgstr "2 dodatkowe znaki (opcjonalne):"
-
-# screen_online_configure_room.cpp
-msgid "Any level"
-msgstr "Dowolny poziom"
-
-# screen_online_configure_room.cpp
-msgid "Password (optional):"
-msgstr "Hasło (opcjonalne):"
-
-# screen_online_configure_room.cpp
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:44
 msgid "Room configuration"
 msgstr "Konfiguracja pokoju"
 
-# screen_online_configure_room.cpp
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:70
+msgid "2 extra characters (optional):"
+msgstr "2 dodatkowe znaki (opcjonalne):"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:103
+msgid "Password (optional):"
+msgstr "Hasło (opcjonalne):"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:139
+msgid "Any level"
+msgstr "Dowolny poziom"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:187
 msgid "Room name: %s"
 msgstr "Nazwa pokoju %s"
 
-# screen_informations_music.cpp
+#: ../client/application/game/ui/screens/screen_informations_music.cpp:29
 msgid "Music"
 msgstr "Muzyka"
 
-# screen_server_connection_closed.cpp
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:18
 msgid "Connection error"
 msgstr "Błąd połączenia"
 
-# screen_server_connection_closed.cpp
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:22
 msgid "Lost connection to host"
 msgstr "Utracono połączenie z hostem"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:23
 msgid "Audio Settings"
 msgstr "Ustawienia Dźwięku"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:36
 msgid "Sound effects"
 msgstr "Efekty dźwiękowe"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:106
 msgid "Visualization"
 msgstr "Wizualizacja"
 
-# screen_watch_replay.cpp
-msgid "Failed to download replay."
-msgstr "Pobieranie powtórki nie powiodło się."
-
-# screen_watch_replay.cpp
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:50
 msgid "Failed to read replay."
 msgstr "Odczytywanie powtórki nie powiodło się."
 
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "poziomy #ffff00ffSpołeczności#ffffffff są tworzone przez CIEBIE, czyli społeczność."
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
+msgid "Failed to download replay."
+msgstr "Pobieranie powtórki nie powiodło się."
 
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "poziomy #ffff00ffEksperymentalne#ffffffff to poziomy które nie zostały wydane."
-
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "poziomy #ffff00ffOficialne#ffffffff są stworzone przeze mnie (JF), i pozwalają ci zdobywać medale."
-
-# screen_select_single_player_level.cpp
-msgid "About the levels"
-msgstr "O poziomach"
-
-# screen_select_single_player_level.cpp
-msgid "Community"
-msgstr "Społeczność"
-
-# screen_select_single_player_level.cpp
-msgid "Experimental"
-msgstr "Eksperymentalne"
-
-# screen_select_single_player_level.cpp
-msgid "Experimental levels"
-msgstr "Poziomy Eksperymentalne"
-
-# screen_select_single_player_level.cpp
-msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "Więcej informacji na github.com/jyaif/ppl-utils"
-
-# screen_select_single_player_level.cpp
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:39
 msgid "Official"
 msgstr "Oficjalne"
 
-# screen_view_level.cpp
-msgid "Error reading manifest"
-msgstr "Błąd wczytywania manifestu"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
+msgid "Community"
+msgstr "Społeczność"
 
-# screen_view_level.cpp
-msgid "Experimental level"
-msgstr "Poziom eksperymentalny"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:42
+msgid "Experimental"
+msgstr "Eksperymentalne"
 
-# screen_view_level.cpp
-msgid "Failed to download manifest"
-msgstr "Pobieranie manifestu nie powiodło się"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:84
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "poziomy #ffff00ffOficialne#ffffffff są stworzone przeze mnie (JF), i pozwalają ci zdobywać medale."
 
-# screen_view_level.cpp
-msgid "Loading..."
-msgstr "Ładowanie..."
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:85
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "poziomy #ffff00ffSpołeczności#ffffffff są tworzone przez CIEBIE, czyli społeczność."
 
-# screen_view_level.cpp
-msgid "Local best: %s"
-msgstr "Lokalny najlepszy: %s"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:86
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Więcej informacji na github.com/jyaif/ppl-utils"
 
-# screen_view_level.cpp
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:87
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "poziomy #ffff00ffEksperymentalne#ffffffff to poziomy które nie zostały wydane."
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:102
+msgid "About the levels"
+msgstr "O poziomach"
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:146
+msgid "Experimental levels"
+msgstr "Poziomy Eksperymentalne"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
 msgstr "Rekord światowy: %s"
 
-# screen_view_level.cpp
-msgid "average score: %s"
-msgstr "przeciętny wynik: %s"
+#: ../client/application/game/ui/screens/screen_view_level.cpp:36
+msgid "Local best: %s"
+msgstr "Lokalny najlepszy: %s"
 
-# screen_view_level.cpp
+#: ../client/application/game/ui/screens/screen_view_level.cpp:73
+msgid "Loading..."
+msgstr "Ładowanie..."
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:109
+msgid "Error reading manifest"
+msgstr "Błąd wczytywania manifestu"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:114
+msgid "Failed to download manifest"
+msgstr "Pobieranie manifestu nie powiodło się"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:138
 msgid "by %s"
 msgstr "by %s"
 
-# screen_settings_controls.cpp
+#: ../client/application/game/ui/screens/screen_view_level.cpp:237
+msgid "average score: %s"
+msgstr "przeciętny wynik: %s"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:364
+msgid "Experimental level"
+msgstr "Poziom eksperymentalny"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:20
 msgid "Controls Settings"
 msgstr "Ustawienia Sterowania "
 
-# screen_settings_controls.cpp
-msgid "Keyboard"
-msgstr "Klawiatura"
-
-# screen_settings_controls.cpp
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
 msgstr "Ekran dotykowy"
 
-# screen_informations.cpp
-msgid "Development videos"
-msgstr "Filmy rozwoju gry"
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:36
+msgid "Keyboard"
+msgstr "Klawiatura"
 
-# screen_informations.cpp
+#: ../client/application/game/ui/screens/screen_informations.cpp:37
 msgid "Directed by %s"
 msgstr "Zarządzane przez %s"
 
-# screen_informations.cpp
+#: ../client/application/game/ui/screens/screen_informations.cpp:63
+msgid "Development videos"
+msgstr "Filmy rozwoju gry"
+
+#: ../client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Discord server"
 msgstr "Serwer Discord"
 
-# screen_settings.cpp
-msgid "Audio"
-msgstr "Dźwięki"
-
-# screen_settings.cpp
-msgid "Controls"
-msgstr "Sterowanie"
-
-# screen_settings.cpp
-msgid "Developer mode"
-msgstr "Tryb dewelopera"
-
-# screen_settings.cpp
-msgid "Language"
-msgstr "Język"
-
-# screen_settings.cpp
-msgid "Launch intro"
-msgstr "Wystartuj wprowadzenie"
-
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:36
 msgid "Settings"
 msgstr "Ustawienia"
 
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:79
+msgid "Controls"
+msgstr "Sterowanie"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:88
+msgid "Audio"
+msgstr "Dźwięki"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:98
+msgid "Language"
+msgstr "Język"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:136
 msgid "Start tutorial"
 msgstr "Zacznij samouczek"
 
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:146
+msgid "Launch intro"
+msgstr "Wystartuj wprowadzenie"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:155
+msgid "Developer mode"
+msgstr "Tryb dewelopera"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:206
 msgid "Vibration %s"
 msgstr "Wibracje %s"
 
-# screen_multiplayer_lobby.cpp
-msgid "Cancel"
-msgstr "Anuluj"
-
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:205
 msgid "Local lobby"
 msgstr "Lobby lokalne"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:208
 msgid "Online lobby"
 msgstr "Lobby Online"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:215
 msgid "Ready"
 msgstr "Gotowy"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:224
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:367
 msgid "Waiting for other players..."
 msgstr "Czekanie na pozostałych graczy..."
 
-# screen_edit_nickname.cpp
-msgid "Change"
-msgstr "Zmień"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:25
 msgid "Change colors"
 msgstr "Zmień kolory"
 
-# screen_edit_nickname.cpp
-msgid "Failed to update username"
-msgstr "Nie udało się zaktualizować nazwy użytkownika"
-
-# screen_edit_nickname.cpp
-msgid "New username:"
-msgstr "Nowa nazwa użytkownika:"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:38
 msgid "Old username:"
 msgstr "Stara nazwa użytkownika"
 
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:41
+msgid "New username:"
+msgstr "Nowa nazwa użytkownika:"
+
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:55
+msgid "Change"
+msgstr "Zmień"
+
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:73
 msgid "Only change colors! %s"
 msgstr "Tylko zmień kolory! %s"
 
-# screen_edit_nickname.cpp
-msgid "Username change succesfull"
-msgstr "Zmiana nazwy użytkownika powiodła się"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:86
 msgid "Username color change"
 msgstr "Zmiana koloru nazwy użytkownika"
 
-# screen_signin.cpp
-msgid "Check your inbox!"
-msgstr "Sprawdź swoją skrzynkę odbiorczą!"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:94
+msgid "Username change succesfull"
+msgstr "Zmiana nazwy użytkownika powiodła się"
 
-# screen_signin.cpp
-msgid "Email"
-msgstr "E-mail"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:105
+msgid "Failed to update username"
+msgstr "Nie udało się zaktualizować nazwy użytkownika"
 
-# screen_signin.cpp
-msgid "Email not verified"
-msgstr "E-mail nie zweryfikowany"
-
-# screen_signin.cpp
-msgid "Failed to request password reset"
-msgstr "Nie udało się zażądać resetowania hasła"
-
-# screen_signin.cpp
-msgid "Failed to resend email"
-msgstr "Nie udało się ponownie wysłać e-maila"
-
-# screen_signin.cpp
-msgid "Password"
-msgstr "Hasło"
-
-# screen_signin.cpp
-msgid "Password reset email sent"
-msgstr "Wysłano wiadomość e-mail dotyczącą resetowania hasła"
-
-# screen_signin.cpp
-msgid "Re-send verification email"
-msgstr "Wysłano ponownie e-mail weryfikacyjny"
-
-# screen_signin.cpp
-msgid "Request password reset"
-msgstr "Poproś o resetowanie hasła"
-
-# screen_signin.cpp
-msgid "Requesting password reset"
-msgstr "Żądanie resetu hasła"
-
-# screen_signin.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:30
 msgid "Requesting verification email"
 msgstr "Żądanie weryfikacji e-maila"
 
-# screen_signin.cpp
-msgid "Reset password"
-msgstr "Zresetuj hasło"
-
-# screen_signin.cpp
-msgid "Sign in"
-msgstr "Zaloguj się"
-
-# screen_signin.cpp
-msgid "Signing in"
-msgstr "Logowanie..."
-
-# screen_signin.cpp
-msgid "Successfully signed in!"
-msgstr "Logowanie powiodło się"
-
-# screen_signin.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Verification email sent"
 msgstr "Wysłano e-mail weryfikacyjny"
 
-# screen_synchronize.cpp
-msgid "All your medals are here."
-msgstr "Tu znajdziesz wszystkie swoje medale."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:38
+msgid "Check your inbox!"
+msgstr "Sprawdź swoją skrzynkę odbiorczą!"
 
-# screen_synchronize.cpp
-msgid "Failed to download backup data"
-msgstr "Nie udało się pobrać danych kopii zapasowej"
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:42
+msgid "Failed to resend email"
+msgstr "Nie udało się ponownie wysłać e-maila"
 
-# screen_synchronize.cpp
-msgid "Failed to synchronize."
-msgstr "Błąd synchronizacji"
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:53
+msgid "Requesting password reset"
+msgstr "Żądanie resetu hasła"
 
-# screen_synchronize.cpp
-msgid "Synchronization completed."
-msgstr "Synchronizacja ukończona."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:59
+msgid "Password reset email sent"
+msgstr "Wysłano wiadomość e-mail dotyczącą resetowania hasła"
 
-# screen_synchronize.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:66
+msgid "Failed to request password reset"
+msgstr "Nie udało się zażądać resetowania hasła"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:86
+msgid "Sign in"
+msgstr "Zaloguj się"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
+msgid "Email"
+msgstr "E-mail"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
+msgid "Password"
+msgstr "Hasło"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:144
+msgid "Signing in"
+msgstr "Logowanie..."
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:159
+msgid "Successfully signed in!"
+msgstr "Logowanie powiodło się"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
+msgid "Email not verified"
+msgstr "E-mail nie zweryfikowany"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:173
+msgid "Re-send verification email"
+msgstr "Wysłano ponownie e-mail weryfikacyjny"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:191
+msgid "Request password reset"
+msgstr "Poproś o resetowanie hasła"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:217
+msgid "Reset password"
+msgstr "Zresetuj hasło"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:34
 msgid "Synchronizing"
 msgstr "Synchronizacja..."
 
-# screen_synchronize.cpp
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:83
+msgid "Failed to synchronize."
+msgstr "Błąd synchronizacji"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:109
 msgid "You've been signed out."
 msgstr "Zostałeś wylogowany."
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:143
+msgid "Failed to download backup data"
+msgstr "Nie udało się pobrać danych kopii zapasowej"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:192
+msgid "Synchronization completed."
+msgstr "Synchronizacja ukończona."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:193
+msgid "All your medals are here."
+msgstr "Tu znajdziesz wszystkie swoje medale."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Account"
 msgstr "Konto"
 
-# screen_signed_out.cpp
-msgid "Create an account to set your name and sync your data"
-msgstr "Utwórz konto żeby ustawić twoją nazwę i aby zsynchronizować twoje dane"
-
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:25
 msgid "Not signed in"
 msgstr "Nie zalogowano"
 
-# screen_signed_out.cpp
-msgid "Privacy Policy"
-msgstr "Polityka Prywatności"
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:29
+msgid "Create an account to set your name and sync your data"
+msgstr "Utwórz konto żeby ustawić twoją nazwę i aby zsynchronizować twoje dane"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:33
 msgid "Register"
 msgstr "Zarejestruj"
 
-# screen_signed_out.cpp
-msgid "You need to be signed-in to play online"
-msgstr "Aby grać online, musisz się zalogować"
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:58
+msgid "Privacy Policy"
+msgstr "Polityka Prywatności"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:100
 msgid "You need to be signed-in to upload scores"
 msgstr "Musisz być zalogowany by przesyłać wyniki"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:103
+msgid "You need to be signed-in to play online"
+msgstr "Aby grać online, musisz się zalogować"
+
+#. Error message shown if to the player when they are trying to view
+#. comments while not signed-in.
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
+msgid "You need to be signed-in to view comments"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
 msgstr "Twoje konto"
 
-# screen_register.cpp
-msgid "Confirm email"
-msgstr "Potwierdź e-mail"
-
-# screen_register.cpp
-msgid "Confirm email:"
-msgstr "Potwierdź e-mail:"
-
-# screen_register.cpp
-msgid "Confirm password"
-msgstr "Potwierdź hasło"
-
-# screen_register.cpp
-msgid "Confirm password:"
-msgstr "Potwierdź hasło:"
-
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:23
 msgid "Email is invalid!"
 msgstr "E-mail jest nieprawidłowy!"
 
-# screen_register.cpp
-msgid "Email:"
-msgstr "E-mail:"
-
-# screen_register.cpp
-msgid "Emails do not match!"
-msgstr "E-maile się nie zgadzają!"
-
-# screen_register.cpp
-msgid "Failed to register"
-msgstr "Nie udało się zarejestrować"
-
-# screen_register.cpp
-msgid "Passwords do not match!"
-msgstr "Hasła się nie zgadzają!"
-
-# screen_register.cpp
-msgid "Please check your emails!"
-msgstr "Sprawdź swoją skrzynkę odbiorczą!"
-
-# screen_register.cpp
-msgid "Register account"
-msgstr "Zarejestruj konto"
-
-# screen_register.cpp
-msgid "Registering"
-msgstr "Rejestrowanie"
-
-# screen_register.cpp
-msgid "Registration successful."
-msgstr "Rejestracja powiodła sie"
-
-# screen_register.cpp
-msgid "Too long. Maximum %s characters."
-msgstr "Zbyt długie. Maksymalnie %s znaków."
-
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:48
 msgid "Too short. Minimum %s characters."
 msgstr "Zbyt krótkie. Minimum %s znaków."
 
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:55
+msgid "Too long. Maximum %s characters."
+msgstr "Zbyt długie. Maksymalnie %s znaków."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:76
+msgid "Register account"
+msgstr "Zarejestruj konto"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
 msgid "Username"
 msgstr "Nazwa użytkownika"
 
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
+msgid "Confirm password"
+msgstr "Potwierdź hasło"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:89
+msgid "Confirm email"
+msgstr "Potwierdź e-mail"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
+msgid "Registering"
+msgstr "Rejestrowanie"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
+msgid "Registration successful."
+msgstr "Rejestracja powiodła sie"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:147
+msgid "Please check your emails!"
+msgstr "Sprawdź swoją skrzynkę odbiorczą!"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:151
+msgid "Failed to register"
+msgstr "Nie udało się zarejestrować"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:183
 msgid "Username (you can put colors in!):"
 msgstr "Nazwa użytkownika (możesz dodać kolory!):"
 
-# screen_signed_in.cpp
-msgid "Account deletion"
-msgstr "Usunięcie konta"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Confirm password:"
+msgstr "Potwierdź hasło:"
 
-# screen_signed_in.cpp
-msgid "Account deletion requested."
-msgstr "Poproszono o usunięcie konta."
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Email:"
+msgstr "E-mail:"
 
-# screen_signed_in.cpp
-msgid "An email asking for confirmation was sent."
-msgstr "Zostało wysłane potwierdzenie maila."
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Confirm email:"
+msgstr "Potwierdź e-mail:"
 
-# screen_signed_in.cpp
-msgid "Delete account"
-msgstr "Usuń konto"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:218
+msgid "Passwords do not match!"
+msgstr "Hasła się nie zgadzają!"
 
-# screen_signed_in.cpp
-msgid "Failed to request account deletion"
-msgstr "Nie udało się wysłać pytania o usunięcie konta"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:227
+msgid "Emails do not match!"
+msgstr "E-maile się nie zgadzają!"
 
-# screen_signed_in.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:42
 msgid "Online profile"
 msgstr "Profil online"
 
-# screen_signed_in.cpp
-msgid "Sign out"
-msgstr "Wyloguj się"
-
-# screen_signed_in.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:68
 msgid "Synchronize"
 msgstr "Synchronizuj"
 
-# top_notification_view.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:88
+msgid "Sign out"
+msgstr "Wyloguj się"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:100
+msgid "Delete account"
+msgstr "Usuń konto"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:115
+msgid "Account deletion"
+msgstr "Usunięcie konta"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:122
+msgid "Account deletion requested."
+msgstr "Poproszono o usunięcie konta."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:124
+msgid "An email asking for confirmation was sent."
+msgstr "Zostało wysłane potwierdzenie maila."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:129
+msgid "Failed to request account deletion"
+msgstr "Nie udało się wysłać pytania o usunięcie konta"
+
+#: ../client/application/game/ui/views/top_notification_view.cpp:55
 msgid "%sWaiting for other player%s"
 msgstr "%sCzekanie na innych graczy%s"
 
-# game_hud.cpp
+#: ../client/application/game/ui/views/game_hud.cpp:48
 msgid "Shield: %s"
 msgstr "Tarcze: %s"
 
-# community_level_selector.cpp
+#: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
 msgstr "W RECENZJI"
 
-# player_data_manager.cpp
+#: ../client/application/game/player_data/player_data_manager.cpp:248
 msgid "New personal best! %s ⇨ %s"
 msgstr "Nowy Lokalny najlepszy! %s ⇨ %s"
 
-# game_network_message_parser.cpp
+#: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
 msgstr "%s opuścił(a) grę"
 
-# game_state.cpp
-msgid "Accuracy: %s"
-msgstr "Celność: %s"
-
-# game_state.cpp
+#: ../client/application/game/state/game_state.cpp:445
 msgid "N/A"
 msgstr "N/A"
 
-# game_levels.cpp
-msgid "Choose your own difficulty"
-msgstr "Wybierz swój własny poziom trudności"
+#: ../client/application/game/state/game_state.cpp:456
+msgid "Accuracy: %s"
+msgstr "Celność: %s"
 
-# game_levels.cpp
+#: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
 msgstr "Unikaj wszystkiego i będzie OK"
 
-# game_levels.cpp
-msgid "Euclidean space is overrated"
-msgstr "Euclidean space jest zbyt doceniany"
-
-# game_levels.cpp
-msgid "Green good. Red bad."
-msgstr "Zielony dobry. Czerwony zły."
-
-# game_levels.cpp
-msgid "Just 32 seconds of skills"
-msgstr "Po prostu 32 sekundy umiejętności"
-
-# game_levels.cpp
-msgid "My favorite mode"
-msgstr "Mój ulubiony tryb"
-
-# game_levels.cpp
-msgid "Never trust a six-sided polygon"
-msgstr "Nigdy nie ufaj sześciobocznemu wielokątowi"
-
-# game_levels.cpp
-msgid "Previously known as Assault"
-msgstr "Poprzednio znany jako Assault"
-
-# game_levels.cpp
-msgid "RIP GW3:Dimensions"
-msgstr "RIP GW3:Dimensions"
-
-# game_levels.cpp
-msgid "Survive 32 seconds with this simple trick"
-msgstr "Przetrwaj 32 sekundy za pomocą tej prostej sztuczki"
-
-# game_levels.cpp
-msgid "Unrelated to \"Super Hexagon\""
-msgstr "Niezwiązane z \"Super Hexagon\""
-
-# game_levels.cpp
-msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Ten poziom to żart, tak?\" - testujący"
-
-# game_levels.cpp
+#: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
 msgstr "aka Dodge This"
 
-# medals.cpp
+#: ../client/application/game/levels/game_levels.cpp:84
+msgid "Green good. Red bad."
+msgstr "Zielony dobry. Czerwony zły."
+
+#: ../client/application/game/levels/game_levels.cpp:95
+msgid "Never trust a six-sided polygon"
+msgstr "Nigdy nie ufaj sześciobocznemu wielokątowi"
+
+#: ../client/application/game/levels/game_levels.cpp:96
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "Niezwiązane z \"Super Hexagon\""
+
+#: ../client/application/game/levels/game_levels.cpp:97
+msgid "Choose your own difficulty"
+msgstr "Wybierz swój własny poziom trudności"
+
+#: ../client/application/game/levels/game_levels.cpp:107
+msgid "Euclidean space is overrated"
+msgstr "Euclidean space jest zbyt doceniany"
+
+#: ../client/application/game/levels/game_levels.cpp:118
+msgid "Just 32 seconds of skills"
+msgstr "Po prostu 32 sekundy umiejętności"
+
+#: ../client/application/game/levels/game_levels.cpp:118
+msgid "My favorite mode"
+msgstr "Mój ulubiony tryb"
+
+#: ../client/application/game/levels/game_levels.cpp:119
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Przetrwaj 32 sekundy za pomocą tej prostej sztuczki"
+
+#: ../client/application/game/levels/game_levels.cpp:120
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\"Ten poziom to żart, tak?\" - testujący"
+
+#: ../client/application/game/levels/game_levels.cpp:131
+msgid "RIP GW3:Dimensions"
+msgstr "RIP GW3:Dimensions"
+
+#: ../client/application/game/levels/game_levels.cpp:131
+msgid "Previously known as Assault"
+msgstr "Poprzednio znany jako Assault"
+
+#: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
 msgstr "Nowy brązowy medal"
 
-# medals.cpp
-msgid "New gold medal"
-msgstr "Nowy złoty medal"
-
-# medals.cpp
+#: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
 msgstr "Nowy srebrny medal"
 
-# renderer_types.cpp
-msgid "Compression friendly"
-msgstr "Przyjazny dla kompresji"
+#: ../client/application/game/levels/medals.cpp:10
+msgid "New gold medal"
+msgstr "Nowy złoty medal"
 
-# renderer_types.cpp
-msgid "High"
-msgstr "Wysokie"
-
-# renderer_types.cpp
-msgid "High (Dark)"
-msgstr "Wysoki (Ciemny)"
-
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:8
 msgid "Minimal"
 msgstr "Minimalny"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "Minimal (Dark)"
 msgstr "Minimalny (Ciemny)"
 
-# renderer_types.cpp
-msgid "Ultra low 16x"
-msgstr "Ultra niskie 16x"
+#: ../client/application/graphics/renderers/renderer_types.cpp:12
+msgid "High"
+msgstr "Wysokie"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:14
+msgid "High (Dark)"
+msgstr "Wysoki (Ciemny)"
+
+#: ../client/application/graphics/renderers/renderer_types.cpp:16
+msgid "Compression friendly"
+msgstr "Przyjazny dla kompresji"
+
+#: ../client/application/graphics/renderers/renderer_types.cpp:17
 msgid "Ultra low 2x"
 msgstr "Ultra niski 2x"
 
-# renderer_types.cpp
-msgid "Ultra low 32x"
-msgstr "Ultra niskie 32x"
-
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:19
 msgid "Ultra low 4x"
 msgstr "Ultra niskie 4x"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:21
 msgid "Ultra low 8x"
 msgstr "Ultra niskie 8x"
 
-# The following translations are not in use anymore!
-# They are kept in case they are needed again later.
+#: ../client/application/graphics/renderers/renderer_types.cpp:23
+msgid "Ultra low 16x"
+msgstr "Ultra niskie 16x"
 
-# Currently unused! This string may never be used again!
-msgid "2 extra characters:"
-msgstr "2 dodatkowe litery:"
-
-# Currently unused! This string may never be used again!
-msgid "Career"
-msgstr "Kariera"
-
-# Currently unused! This string may never be used again!
-msgid "Connect to..."
-msgstr "Połącz do..."
-
-# Currently unused! This string may never be used again!
-msgid "Creator"
-msgstr "Twórca"
-
-# Currently unused! This string may never be used again!
-msgid "Custom levels"
-msgstr "Własne poziomy"
-
-# Currently unused! This string may never be used again!
-msgid "Custom levels?!"
-msgstr "Własne poziomy?!"
-
-# Currently unused! This string may never be used again!
-msgid "Dark High"
-msgstr "Ciemny Wysoki"
-
-# Currently unused! This string may never be used again!
-msgid "Failed to parse server response"
-msgstr "Nie udało się przeanalizować odpowiedzi serwera"
-
-# Currently unused! This string may never be used again!
-msgid "Game is full"
-msgstr "Gra jest pełna"
-
-# Currently unused! This string may never be used again!
-msgid "Level name"
-msgstr "Nazwa poziomu"
-
-# Currently unused! This string may never be used again!
-msgid "Loading level..."
-msgstr "Ładowanie poziomu"
-
-# Currently unused! This string may never be used again!
-msgid "Local Multiplayer"
-msgstr "Tryb Lokalnej gry Wieloosobowej"
-
-# Currently unused! This string may never be used again!
-msgid "Lost connection to server"
-msgstr "Utracono połączenie z serwerem"
-
-# Currently unused! This string may never be used again!
-msgid "Low"
-msgstr "Niskie"
-
-# Currently unused! This string may never be used again!
-msgid "Medals: %s"
-msgstr "Medale: %s"
-
-# Currently unused! This string may never be used again!
-msgid "Medium"
-msgstr "Średnie"
-
-# Currently unused! This string may never be used again!
-msgid "Missing information. This should not happen!"
-msgstr "Brakuje informacji. To nie powinno się zdarzyć!"
-
-# Currently unused! This string may never be used again!
-msgid "More information"
-msgstr "Więcej informacji"
-
-# Currently unused! This string may never be used again!
-msgid "Renderer: %s"
-msgstr "Renderowanie: %s"
-
-# Currently unused! This string may never be used again!
-msgid "Select level"
-msgstr "Wybierz poziom"
-
-# Currently unused! This string may never be used again!
-msgid "Sign-in"
-msgstr "Zaloguj się"
-
-# Currently unused! This string may never be used again!
-msgid "Sign-in confirmation"
-msgstr "Potwierdzanie logowania"
-
-# Currently unused! This string may never be used again!
-msgid "Sign-in with \"%s\"?"
-msgstr "Zaloguj się za pomocą \"%s\"?"
-
-# Currently unused! This string may never be used again!
-msgid "The background is expensive to compute"
-msgstr "Renderowanie tego tła jest wymagające"
-
-# Currently unused! This string may never be used again!
-msgid "Translations"
-msgstr "Tłumaczenia"
-
-# Currently unused! This string may never be used again!
-msgid "Waiting for the server..."
-msgstr "Czekanie na serwer"
-
-# Currently unused! This string may never be used again!
-msgid "Yes!"
-msgstr "Tak!"
-
-# Currently unused! This string may never be used again!
-msgid "You are already in the game!"
-msgstr "Jesteś już w grze!"
-
-# Currently unused! This string may never be used again!
-msgid "You can finally code your own levels!"
-msgstr "Wreszcie możesz kodować swoje własne poziomy!"
+#: ../client/application/graphics/renderers/renderer_types.cpp:25
+msgid "Ultra low 32x"
+msgstr "Ultra niskie 32x"
 

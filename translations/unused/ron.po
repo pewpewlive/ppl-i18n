@@ -1,0 +1,36 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "Career"
+msgstr "Carieră"
+
+msgid "Dark High"
+msgstr "Mare Întunecat"
+
+msgid "Failed to parse server response"
+msgstr "Nu s-a putut folosi răspunsul serverului"
+
+msgid "Local Multiplayer"
+msgstr "Multiplayer local"
+
+msgid "Lost connection to server"
+msgstr "S-a pierdut conexiunea la server"
+
+msgid "Low"
+msgstr "Mic"
+
+msgid "Medals: %s"
+msgstr "Medalii: %s"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Missing information. This should not happen!"
+msgstr "Informație lipsă. Nu ar trebui să se întâmple asta!"
+
+msgid "Renderer: %s"
+msgstr "Renderer: %s"
+
+msgid "The background is expensive to compute"
+msgstr "Fundalul este scump de arătat"
+

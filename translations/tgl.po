@@ -1,1079 +1,1100 @@
-# ui_helpers.cpp
-msgid "off"
-msgstr "patayin"
-
-# ui_helpers.cpp
+#: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
 msgstr "buksan"
 
-# keyboard_view.cpp
+#: ../client/application/ui/ui_helpers.cpp:64
+msgid "off"
+msgstr "patayin"
+
+#: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
 msgstr "ok"
 
-# game.cpp
+#: ../client/application/game/game.cpp:160
 msgid "Quick pause"
 msgstr "Binitawan"
 
-# game.cpp
+#: ../client/application/game/game.cpp:166
 msgid "Quick pause %s"
 msgstr "Hinto pagbitaw %s"
 
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
 msgstr "Ituloy"
 
-# pause_ui.cpp
-msgid "Exit"
-msgstr "Umalis"
-
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
 msgstr "Nakahinto"
 
-# pause_ui.cpp
+#: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
 msgstr "Ulitin"
 
-# game_over_ui.cpp
-msgid "Game Over"
-msgstr "Natapos na"
+#: ../client/application/game/ui/pause_ui.cpp:72
+msgid "Exit"
+msgstr "Umalis"
 
-# game_over_ui.cpp
+#: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
 msgstr "Maglaro muli"
 
-# shared_strings.cpp
-msgid "Casual"
-msgstr "Pampalipas-oras"
+#: ../client/application/game/ui/game_over_ui.cpp:34
+msgid "Game Over"
+msgstr "Natapos na"
 
-# shared_strings.cpp
-msgid "Community levels"
-msgstr "Mga level ng komunidad"
-
-# shared_strings.cpp
-msgid "Failed to contact server"
-msgstr "Hindi makaabot sa server"
-
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
 msgstr "Hindi makuha ang tugon"
 
-# shared_strings.cpp
-msgid "Failed to sign-in!"
-msgstr "Hindi makapag-log in!"
+#: ../client/application/game/ui/shared_strings.cpp:11
+msgid "Failed to contact server"
+msgstr "Hindi makaabot sa server"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
 msgstr "Mga opisyal na level"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:19
+msgid "Community levels"
+msgstr "Mga level ng komunidad"
+
+#: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
 msgstr "Ilang beses nilaro?: %s"
 
-# shared_strings.cpp
+#: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
 msgstr "Ga'no katagal nilaro?: %s"
 
-# screen_download_level.cpp
+#: ../client/application/game/ui/shared_strings.cpp:31
+msgid "Casual"
+msgstr "Pampalipas-oras"
+
+#: ../client/application/game/ui/shared_strings.cpp:35
+msgid "Failed to sign-in!"
+msgstr "Hindi makapag-log in!"
+
+#: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
 msgstr "Nagda-download..."
 
-# screen_specify_server_ip.cpp
-msgid "Connect"
-msgstr "Kumonekta"
-
-# screen_specify_server_ip.cpp
-msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Kumonekta sa room gamit ang internet #ff0000ff(experimental)"
-
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:23
 msgid "Connect to server"
 msgstr "Kumonekta sa server"
 
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:55
 msgid "IP:"
 msgstr "IP:"
 
-# screen_specify_server_ip.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:63
 msgid "Port:"
 msgstr "Port:"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Kumonekta sa room gamit ang internet #ff0000ff(experimental)"
+
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
+msgid "Connect"
+msgstr "Kumonekta"
+
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:29
 msgid "Enter password"
 msgstr "Ilagay ang password"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:32
 msgid "Join"
 msgstr "Sumali"
 
-# screen_online_enter_password.cpp
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:45
 msgid "Password:"
 msgstr "Password:"
 
-# screen_configure_touch_joystick.cpp
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:83
 msgid "Configure joysticks"
 msgstr "Ayos ng joysticks"
 
-# screen_configure_touch_joystick.cpp
-msgid "Reset"
-msgstr "Ibalik"
-
-# screen_configure_touch_joystick.cpp
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Swap"
 msgstr "Palit"
 
-# screen_select_multiplayer_type.cpp
-msgid "LAN multiplayer"
-msgstr "Gamit LAN"
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:103
+msgid "Reset"
+msgstr "Ibalik"
 
-# screen_select_multiplayer_type.cpp
-msgid "Online multiplayer"
-msgstr "Gamit online network"
-
-# screen_select_multiplayer_type.cpp
-msgid "Play with people around the world!"
-msgstr "Makipaglaro sa mga manlalaro sa loob at labas ng bansa!"
-
-# screen_select_multiplayer_type.cpp
-msgid "Play with people on the same network!"
-msgstr "Makipaglaro sa mga manlalaro sa kaparehong network!"
-
-# screen_select_multiplayer_type.cpp
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:23
 msgid "Select multiplayer type"
 msgstr "Maglaro ng may kasama"
 
-# screen_lan_create_or_join.cpp
-msgid "(Incompatible version)"
-msgstr "(Hindi tugma ang bersiyon)"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:27
+msgid "Online multiplayer"
+msgstr "Gamit online network"
 
-# screen_lan_create_or_join.cpp
-msgid "Close room"
-msgstr "Isarado ang room"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
+msgid "Play with people around the world!"
+msgstr "Makipaglaro sa mga manlalaro sa loob at labas ng bansa!"
 
-# screen_lan_create_or_join.cpp
-msgid "Connecting to a phone's hotspot should work!"
-msgstr "Sapat na ang pagkonekta sa hotspot ng phone!"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
+msgid "LAN multiplayer"
+msgstr "Gamit LAN"
 
-# screen_lan_create_or_join.cpp
-msgid "Create room"
-msgstr "Gumawa ng room"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:64
+msgid "Play with people on the same network!"
+msgstr "Makipaglaro sa mga manlalaro sa kaparehong network!"
 
-# screen_lan_create_or_join.cpp
-msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Para parehong lumabas ang pangalan ng bawat manlalaro sa online leaderboard, kailangan nilang i-upload ng magkahiwalay ang replay."
-
-# screen_lan_create_or_join.cpp
-msgid "Help"
-msgstr "Tulong"
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
 msgstr "Makipaglaro gamit ang LAN"
 
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
+msgid "Help"
+msgstr "Tulong"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:55
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
 msgstr "Ang dalawang manlalaro ay kailangang nakakonekta sa magkaparehong wifi network."
 
-# screen_lan_create_or_join.cpp
-msgid "Multiplayer help"
-msgstr "Paglalaro gamit LAN"
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:56
 msgid "One player must create a room, which the other player joins."
 msgstr "Kailangan muna gumawa ng room ang isang manlalaro bago sumali ang iba."
 
-# screen_lan_create_or_join.cpp
-msgid "Searching for rooms..."
-msgstr "Naghahanap ng rooms..."
-
-# screen_lan_create_or_join.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
 msgstr "Hindi kinakailangang nakakonekta sa internet ang wifi network."
 
-# screen_configure_ship.cpp
-msgid "Bullets"
-msgstr "Bala"
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:58
+msgid "Connecting to a phone's hotspot should work!"
+msgstr "Sapat na ang pagkonekta sa hotspot ng phone!"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:59
+msgid "Each player need to upload the replay separately to both appear in the online leader board."
+msgstr "Para parehong lumabas ang pangalan ng bawat manlalaro sa online leaderboard, kailangan nilang i-upload ng magkahiwalay ang replay."
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:74
+msgid "Multiplayer help"
+msgstr "Paglalaro gamit LAN"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:124
+msgid "Searching for rooms..."
+msgstr "Naghahanap ng rooms..."
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:185
+msgid "(Incompatible version)"
+msgstr "(Hindi tugma ang bersiyon)"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:206
+msgid "Create room"
+msgstr "Gumawa ng room"
+
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:208
+msgid "Close room"
+msgstr "Isarado ang room"
+
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
 msgstr "Ayos ng Ship"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
 msgstr "Modelo"
 
-# screen_configure_ship.cpp
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
 msgstr "Buntot"
 
-# screen_upload_scores.cpp
-msgid "Failed to upload replays."
-msgstr "Hindi ma-upload ang replay."
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+msgid "Bullets"
+msgstr "Bala"
 
-# screen_upload_scores.cpp
-msgid "Nothing to upload!"
-msgstr "Walang ma-upload!"
-
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:22
 msgid "Upload scores"
 msgstr "I-upload ang record"
 
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
+msgid "Nothing to upload!"
+msgstr "Walang ma-upload!"
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
+msgid "Failed to upload replays."
+msgstr "Hindi ma-upload ang replay."
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
 msgstr "Na-upload na."
 
-# screen_upload_scores.cpp
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
 msgstr "Ina-upload ang replay para sa %s."
 
-# screen_career.cpp
+#: ../client/application/game/ui/screens/screen_career.cpp:39
 msgid "Statistics"
 msgstr "Iyong Nakamit"
 
-# screen_select_level_of_author.cpp
+#: ../client/application/game/ui/screens/screen_select_level_of_author.cpp:42
 msgid "Levels by %s"
 msgstr "Mga level ni %s"
 
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
 msgid "Configure keyboard"
 msgstr "Ayos ng keyboard"
 
-# screen_configure_keyboard.cpp
-msgid "Mouse aim %s"
-msgstr "Pag-aim ng mouse %s"
-
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
 msgid "Move"
 msgstr "Paggalaw"
 
-# screen_configure_keyboard.cpp
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
 msgstr "Pagtira"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Authenticating..."
-msgstr "Ino-authenticate..."
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
+msgid "Mouse aim %s"
+msgstr "Pag-aim ng mouse %s"
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Hindi makakonekta sa multiplayer gamit ang symmetric NAT."
-
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:71
 msgid "Checking network..."
 msgstr "Sinusuri ang network..."
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Error :("
-msgstr "May mali :("
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
+msgid "Can't play in multiplayer with a symmetric NAT."
+msgstr "Hindi makakonekta sa multiplayer gamit ang symmetric NAT."
 
-# screen_online_authenticate_and_check_nat.cpp
-msgid "Failed to authenticate"
-msgstr "Hindi ma-authenticate"
-
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
 msgstr "Hindi makakonekta sa mga server ng STUN."
 
-# screen_online_authenticate_and_check_nat.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
+msgid "Authenticating..."
+msgstr "Ino-authenticate..."
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:112
 msgid "Need the latest version of the game."
 msgstr "Kailangan ang pinakabagong bersiyon ng laro."
 
-# screen_online_list_rooms.cpp
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:121
+msgid "Failed to authenticate"
+msgstr "Hindi ma-authenticate"
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
+msgid "Error :("
+msgstr "May mali :("
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
+msgid "Are you sure you want to report this comment?"
+msgstr ""
+
+#. Shown in a notification after successfully reporting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
+msgid "Successfully reported comment"
+msgstr ""
+
+#. Shown in a notification if a comment could not be reported.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:163
+msgid "Error reporting comment"
+msgstr ""
+
+#. The title of the screen where players delete comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:200
+msgid "Delete comment"
+msgstr ""
+
+#. Shown in a notification after successfully deleting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
+msgid "Successfully deleted comment"
+msgstr ""
+
+#. Shown in a notification if a comment could not be deleting.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:204
+msgid "Error deleting comment"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#. Used as a placeholder in the textfield where players write their comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
+msgid "<Add a comment here>"
+msgstr ""
+
+#. Displayed in a button. Pressing that button posts the comment that was
+#. written by the player.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:316
+msgid "Comment"
+msgstr ""
+
+#. Shown in a notification if the player tries to post a comment that is
+#. less than 3 character long.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
+msgid "Comment must be at least 3 characters long."
+msgstr ""
+
+#. Shown in the title of the screen where the player waits for the comment
+#. to be posted to the server.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
+msgid "Posting comment"
+msgstr ""
+
+#. Shown in a notification after a comment was succesfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:388
+msgid "Comment posted"
+msgstr ""
+
+#. Shown in a notification after a comment was succesfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
+msgid "Failed to post comment"
+msgstr ""
+
+#. The title of the screen where players report comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
+msgctxt "report_screen_title"
+msgid "Report comment"
+msgstr ""
+
+#. The title of the screen where players enter the comment they want to add.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
+msgctxt "add_comment_screen_title"
+msgid "Add comment"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking wether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
+msgctxt "menu_confirm_action"
+msgid "Yes"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking whether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:474
+msgctxt "menu_cancel_action"
+msgid "No"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:95
 msgid "Refresh"
 msgstr "I-load ulit"
 
-# screen_settings_language.cpp
-msgid "Contributors"
-msgstr "Mga nag-ambag"
-
-# screen_settings_language.cpp
-msgid "Default language"
-msgstr "Pangunahing wika"
-
-# screen_settings_language.cpp
-msgid "Help out"
-msgstr "Tumulong"
-
-# screen_settings_language.cpp
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:22
 msgid "Language Settings"
 msgstr "Mga Pagpipiliang Wika"
 
-# screen_settings_language.cpp
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:26
 msgid "The translations are community provided!"
 msgstr "Ginawa ng komunidad ang mga pagsasalin!"
 
-# screen_view_high_scores.cpp
-msgid "1p"
-msgstr "1p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:35
+msgid "Default language"
+msgstr "Pangunahing wika"
 
-# screen_view_high_scores.cpp
-msgid "2p"
-msgstr "2p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:50
+msgid "Help out"
+msgstr "Tumulong"
 
-# screen_view_high_scores.cpp
-msgid "3p"
-msgstr "3p"
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:60
+msgid "Contributors"
+msgstr "Mga nag-ambag"
 
-# screen_view_high_scores.cpp
-msgid "4p"
-msgstr "4p"
-
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:25
 msgid "Africa"
 msgstr "Africa"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:26
 msgid "Asia"
 msgstr "Asya"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
 msgid "Europe"
 msgstr "Europa"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:28
 msgid "North America"
 msgstr "Hilagang Amerika"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:29
 msgid "Oceania"
 msgstr "Oceania"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:30
 msgid "South America"
 msgstr "Timog Amerika"
 
-# screen_view_high_scores.cpp
-msgid "continent"
-msgstr "kontinente"
-
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "personal"
 msgstr "pansarili"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "region"
 msgstr "rehiyon"
 
-# screen_view_high_scores.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "world"
 msgstr "daigdig"
 
-# screen_benchmark.cpp
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:120
+msgid "continent"
+msgstr "kontinente"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "1p"
+msgstr "1p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "2p"
+msgstr "2p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
+msgid "3p"
+msgstr "3p"
+
+#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:154
+msgid "4p"
+msgstr "4p"
+
+#: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
 msgstr "Laktawan"
 
-# screen_main_menu.cpp
-msgid "Multiplayer"
-msgstr "May Kasama"
-
-# screen_main_menu.cpp
-msgid "Play"
-msgstr "Maglaro"
-
-# screen_main_menu.cpp
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:42
 msgid "Single Player"
 msgstr "Pang-isahan"
 
-# screen_online_create_or_join_room.cpp
-msgid "Creating room"
-msgstr "Naghahanap ng kalaro"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:45
+msgid "Play"
+msgstr "Maglaro"
 
-# screen_online_create_or_join_room.cpp
-msgid "Failed to join room"
-msgstr "Hindi makasali sa room"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:63
+msgid "Multiplayer"
+msgstr "May Kasama"
 
-# screen_online_create_or_join_room.cpp
-msgid "Incorrect password"
-msgstr "Mali ang password"
-
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
 msgid "Joining room"
 msgstr "Sumasali sa room"
 
-# screen_online_create_or_join_room.cpp
-msgid "Room is full"
-msgstr "Puno na ang room"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
+msgid "Creating room"
+msgstr "Naghahanap ng kalaro"
 
-# screen_online_create_or_join_room.cpp
-msgid "The room does not exist anymore"
-msgstr "Hindi na mahanap ang room"
-
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:336
 msgid "The room expired"
 msgstr "Hindi na mahanap ang room"
 
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
 msgid "Unknown error"
 msgstr "Hindi matukoy ang mali"
 
-# screen_online_create_or_join_room.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:365
+msgid "Failed to join room"
+msgstr "Hindi makasali sa room"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
+msgid "Incorrect password"
+msgstr "Mali ang password"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "You are already in the room!"
 msgstr "Nasa room ka na!"
 
-# screen_tutorial.cpp
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:385
+msgid "The room does not exist anymore"
+msgstr "Hindi na mahanap ang room"
+
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:388
+msgid "Room is full"
+msgstr "Puno na ang room"
+
+#: ../client/application/game/ui/screens/screen_tutorial.cpp:34
 msgid "Tutorial"
 msgstr "Mga turo"
 
-# screen_online_configure_room.cpp
-msgid "2 extra characters (optional):"
-msgstr "(pwedeng laktawan) 2 dagdag na character:"
-
-# screen_online_configure_room.cpp
-msgid "Any level"
-msgstr "Kahit ano"
-
-# screen_online_configure_room.cpp
-msgid "Password (optional):"
-msgstr "(pwedeng laktawan) Password:"
-
-# screen_online_configure_room.cpp
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:44
 msgid "Room configuration"
 msgstr "Ayos ng room"
 
-# screen_online_configure_room.cpp
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:70
+msgid "2 extra characters (optional):"
+msgstr "(pwedeng laktawan) 2 dagdag na character:"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:103
+msgid "Password (optional):"
+msgstr "(pwedeng laktawan) Password:"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:139
+msgid "Any level"
+msgstr "Kahit ano"
+
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:187
 msgid "Room name: %s"
 msgstr "Pangalan ng room: %s"
 
-# screen_informations_music.cpp
+#: ../client/application/game/ui/screens/screen_informations_music.cpp:29
 msgid "Music"
 msgstr "Musika"
 
-# screen_server_connection_closed.cpp
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:18
 msgid "Connection error"
 msgstr "Hindi makakonekta"
 
-# screen_server_connection_closed.cpp
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:22
 msgid "Lost connection to host"
 msgstr "Nawalan ng koneksyon sa host"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:23
 msgid "Audio Settings"
 msgstr "Ayos ng Audio"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:36
 msgid "Sound effects"
 msgstr "Tunog"
 
-# screen_settings_audio.cpp
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:106
 msgid "Visualization"
 msgstr "Pag-visualize"
 
-# screen_watch_replay.cpp
-msgid "Failed to download replay."
-msgstr "Hindi ma-download ang replay."
-
-# screen_watch_replay.cpp
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:50
 msgid "Failed to read replay."
 msgstr "Hindi mabasa ang replay."
 
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "Malalaro ang mga level na ginawa ng komunidad sa #ffff00ff\"pangkomunidad\"#ffffffff."
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
+msgid "Failed to download replay."
+msgstr "Hindi ma-download ang replay."
 
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "Kung ikaw ay interesado sa mga level na kasalukuyang ginagawa ng komunidad, pwede mong bisitahin ang #ffff00ff\"experimental\"#ffffffff."
-
-# screen_select_single_player_level.cpp
-msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "Makikita sa #ffff00ff\"opisyal\"#ffffffff ang mga level na ginawa ng developer (ni JF), kung saan ka maaaring makakamit ng mga medalya."
-
-# screen_select_single_player_level.cpp
-msgid "About the levels"
-msgstr "Tungkol sa mga level"
-
-# screen_select_single_player_level.cpp
-msgid "Community"
-msgstr "Pangkomunidad"
-
-# screen_select_single_player_level.cpp
-msgid "Experimental"
-msgstr "Experimental"
-
-# screen_select_single_player_level.cpp
-msgid "Experimental levels"
-msgstr "Mga level na experimental"
-
-# screen_select_single_player_level.cpp
-msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "Iba pang impormasyon sa github.com/jyaif/ppl-utils"
-
-# screen_select_single_player_level.cpp
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:39
 msgid "Official"
 msgstr "Opisyal"
 
-# screen_view_level.cpp
-msgid "Error reading manifest"
-msgstr "Hindi mabasa ang manifest"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
+msgid "Community"
+msgstr "Pangkomunidad"
 
-# screen_view_level.cpp
-msgid "Experimental level"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:42
+msgid "Experimental"
 msgstr "Experimental"
 
-# screen_view_level.cpp
-msgid "Failed to download manifest"
-msgstr "Hindi ma-download ang manifest"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:84
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "Makikita sa #ffff00ff\"opisyal\"#ffffffff ang mga level na ginawa ng developer (ni JF), kung saan ka maaaring makakamit ng mga medalya."
 
-# screen_view_level.cpp
-msgid "Loading..."
-msgstr "Maghintay..."
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:85
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "Malalaro ang mga level na ginawa ng komunidad sa #ffff00ff\"pangkomunidad\"#ffffffff."
 
-# screen_view_level.cpp
-msgid "Local best: %s"
-msgstr "Record pansarili: %s"
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:86
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Iba pang impormasyon sa github.com/jyaif/ppl-utils"
 
-# screen_view_level.cpp
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:87
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "Kung ikaw ay interesado sa mga level na kasalukuyang ginagawa ng komunidad, pwede mong bisitahin ang #ffff00ff\"experimental\"#ffffffff."
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:102
+msgid "About the levels"
+msgstr "Tungkol sa mga level"
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:146
+msgid "Experimental levels"
+msgstr "Mga level na experimental"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
 msgstr "Record pandaigdig: %s"
 
-# screen_view_level.cpp
-msgid "average score: %s"
-msgstr "Karaniwang record: %s"
+#: ../client/application/game/ui/screens/screen_view_level.cpp:36
+msgid "Local best: %s"
+msgstr "Record pansarili: %s"
 
-# screen_view_level.cpp
+#: ../client/application/game/ui/screens/screen_view_level.cpp:73
+msgid "Loading..."
+msgstr "Maghintay..."
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:109
+msgid "Error reading manifest"
+msgstr "Hindi mabasa ang manifest"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:114
+msgid "Failed to download manifest"
+msgstr "Hindi ma-download ang manifest"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:138
 msgid "by %s"
 msgstr "ni %s"
 
-# screen_settings_controls.cpp
+#: ../client/application/game/ui/screens/screen_view_level.cpp:237
+msgid "average score: %s"
+msgstr "Karaniwang record: %s"
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:364
+msgid "Experimental level"
+msgstr "Experimental"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:20
 msgid "Controls Settings"
 msgstr "Ayos ng Controller"
 
-# screen_settings_controls.cpp
-msgid "Keyboard"
-msgstr "Gamit keyboard"
-
-# screen_settings_controls.cpp
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
 msgstr "Gamit touchscreen"
 
-# screen_informations.cpp
-msgid "Development videos"
-msgstr "Mga video ng paggawa"
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:36
+msgid "Keyboard"
+msgstr "Gamit keyboard"
 
-# screen_informations.cpp
+#: ../client/application/game/ui/screens/screen_informations.cpp:37
 msgid "Directed by %s"
 msgstr ""
 
-# screen_informations.cpp
+#: ../client/application/game/ui/screens/screen_informations.cpp:63
+msgid "Development videos"
+msgstr "Mga video ng paggawa"
+
+#: ../client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Discord server"
 msgstr "Server ng discord"
 
-# screen_settings.cpp
-msgid "Audio"
-msgstr "Audio"
-
-# screen_settings.cpp
-msgid "Controls"
-msgstr "Controller"
-
-# screen_settings.cpp
-msgid "Developer mode"
-msgstr "Pang-developer"
-
-# screen_settings.cpp
-msgid "Language"
-msgstr "Wika"
-
-# screen_settings.cpp
-msgid "Launch intro"
-msgstr "Panoorin ang intro"
-
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:36
 msgid "Settings"
 msgstr "Pagkaayos"
 
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:79
+msgid "Controls"
+msgstr "Controller"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:88
+msgid "Audio"
+msgstr "Audio"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:98
+msgid "Language"
+msgstr "Wika"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:136
 msgid "Start tutorial"
 msgstr "Magpaturo"
 
-# screen_settings.cpp
+#: ../client/application/game/ui/screens/screen_settings.cpp:146
+msgid "Launch intro"
+msgstr "Panoorin ang intro"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:155
+msgid "Developer mode"
+msgstr "Pang-developer"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:206
 msgid "Vibration %s"
 msgstr "Pag-alog %s"
 
-# screen_multiplayer_lobby.cpp
-msgid "Cancel"
-msgstr "Ikansela"
-
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:205
 msgid "Local lobby"
 msgstr "Local lobby"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:208
 msgid "Online lobby"
 msgstr "Online lobby"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:215
 msgid "Ready"
 msgstr "Handa na!"
 
-# screen_multiplayer_lobby.cpp
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:224
+msgid "Cancel"
+msgstr "Ikansela"
+
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:367
 msgid "Waiting for other players..."
 msgstr "Naghihintay ng ibang manlalaro..."
 
-# screen_edit_nickname.cpp
-msgid "Change"
-msgstr "Palitan"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:25
 msgid "Change colors"
 msgstr "Magpalit ng kulay"
 
-# screen_edit_nickname.cpp
-msgid "Failed to update username"
-msgstr "Hindi mapalitan ang username"
-
-# screen_edit_nickname.cpp
-msgid "New username:"
-msgstr "Bagong username:"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:38
 msgid "Old username:"
 msgstr "Kasalukuyang username:"
 
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:41
+msgid "New username:"
+msgstr "Bagong username:"
+
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:55
+msgid "Change"
+msgstr "Palitan"
+
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:73
 msgid "Only change colors! %s"
 msgstr "Kulay lamang ang maaaring palitan! %s"
 
-# screen_edit_nickname.cpp
-msgid "Username change succesfull"
-msgstr "Napalitan na ang kulay ng iyong username!"
-
-# screen_edit_nickname.cpp
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:86
 msgid "Username color change"
 msgstr "Pagpalit ng kulay ng username"
 
-# screen_signin.cpp
-msgid "Check your inbox!"
-msgstr "Tingnan ang mensaheng dumating sayo!"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:94
+msgid "Username change succesfull"
+msgstr "Napalitan na ang kulay ng iyong username!"
 
-# screen_signin.cpp
-msgid "Email"
-msgstr "Email"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:105
+msgid "Failed to update username"
+msgstr "Hindi mapalitan ang username"
 
-# screen_signin.cpp
-msgid "Email not verified"
-msgstr "Hindi makumpirma ang email"
-
-# screen_signin.cpp
-msgid "Failed to request password reset"
-msgstr "Hindi makahingi ng permiso sa pagpalit ng password"
-
-# screen_signin.cpp
-msgid "Failed to resend email"
-msgstr "Hindi makapadala sa email"
-
-# screen_signin.cpp
-msgid "Password"
-msgstr "Password"
-
-# screen_signin.cpp
-msgid "Password reset email sent"
-msgstr "Nakuha na ang permiso sa pagpalit ng password"
-
-# screen_signin.cpp
-msgid "Re-send verification email"
-msgstr "Muling padalhan ng verification ang email"
-
-# screen_signin.cpp
-msgid "Request password reset"
-msgstr "Humingi ng permiso sa pagpalit ng password"
-
-# screen_signin.cpp
-msgid "Requesting password reset"
-msgstr "Humihingi ng permiso sa pagpalit ng password"
-
-# screen_signin.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:30
 msgid "Requesting verification email"
 msgstr "Pinapadalhan ng verification ang email"
 
-# screen_signin.cpp
-msgid "Reset password"
-msgstr "Ibalik ang password"
-
-# screen_signin.cpp
-msgid "Sign in"
-msgstr "Mag log in"
-
-# screen_signin.cpp
-msgid "Signing in"
-msgstr "Nagla-log in"
-
-# screen_signin.cpp
-msgid "Successfully signed in!"
-msgstr "Nakapag-log in na!"
-
-# screen_signin.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Verification email sent"
 msgstr "Napadalhan na ng verification ang email"
 
-# screen_synchronize.cpp
-msgid "All your medals are here."
-msgstr "Nandito na ang lahat ng iyong medalya."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:38
+msgid "Check your inbox!"
+msgstr "Tingnan ang mensaheng dumating sayo!"
 
-# screen_synchronize.cpp
-msgid "Failed to download backup data"
-msgstr "Hindi makagawa ng backup para sa data"
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:42
+msgid "Failed to resend email"
+msgstr "Hindi makapadala sa email"
 
-# screen_synchronize.cpp
-msgid "Failed to synchronize."
-msgstr "Hindi ma-synchronize."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:53
+msgid "Requesting password reset"
+msgstr "Humihingi ng permiso sa pagpalit ng password"
 
-# screen_synchronize.cpp
-msgid "Synchronization completed."
-msgstr "Na-synchronize na."
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:59
+msgid "Password reset email sent"
+msgstr "Nakuha na ang permiso sa pagpalit ng password"
 
-# screen_synchronize.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:66
+msgid "Failed to request password reset"
+msgstr "Hindi makahingi ng permiso sa pagpalit ng password"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:86
+msgid "Sign in"
+msgstr "Mag log in"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
+msgid "Email"
+msgstr "Email"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
+msgid "Password"
+msgstr "Password"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:144
+msgid "Signing in"
+msgstr "Nagla-log in"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:159
+msgid "Successfully signed in!"
+msgstr "Nakapag-log in na!"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
+msgid "Email not verified"
+msgstr "Hindi makumpirma ang email"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:173
+msgid "Re-send verification email"
+msgstr "Muling padalhan ng verification ang email"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:191
+msgid "Request password reset"
+msgstr "Humingi ng permiso sa pagpalit ng password"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:217
+msgid "Reset password"
+msgstr "Ibalik ang password"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:34
 msgid "Synchronizing"
 msgstr "Sini-synchronize"
 
-# screen_synchronize.cpp
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:83
+msgid "Failed to synchronize."
+msgstr "Hindi ma-synchronize."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:109
 msgid "You've been signed out."
 msgstr "Nakapag-log out ka na."
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:143
+msgid "Failed to download backup data"
+msgstr "Hindi makagawa ng backup para sa data"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:192
+msgid "Synchronization completed."
+msgstr "Na-synchronize na."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:193
+msgid "All your medals are here."
+msgstr "Nandito na ang lahat ng iyong medalya."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Account"
 msgstr "Account"
 
-# screen_signed_out.cpp
-msgid "Create an account to set your name and sync your data"
-msgstr "Gumawa ng account para makapaglagay ng pangalan at ma-sync ang iyong data"
-
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:25
 msgid "Not signed in"
 msgstr "Hindi pa naka-log in"
 
-# screen_signed_out.cpp
-msgid "Privacy Policy"
-msgstr "Patakaran ukol sa Privacy"
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:29
+msgid "Create an account to set your name and sync your data"
+msgstr "Gumawa ng account para makapaglagay ng pangalan at ma-sync ang iyong data"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:33
 msgid "Register"
 msgstr "Mag-register"
 
-# screen_signed_out.cpp
-msgid "You need to be signed-in to play online"
-msgstr "Kailangan munang mag-log in bago makipaglaro online"
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:58
+msgid "Privacy Policy"
+msgstr "Patakaran ukol sa Privacy"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:100
 msgid "You need to be signed-in to upload scores"
 msgstr "Kailangan munang mag-log in bago ma-upload ang mga record"
 
-# screen_signed_out.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:103
+msgid "You need to be signed-in to play online"
+msgstr "Kailangan munang mag-log in bago makipaglaro online"
+
+#. Error message shown if to the player when they are trying to view
+#. comments while not signed-in.
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
+msgid "You need to be signed-in to view comments"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
 msgstr "Iyong account"
 
-# screen_register.cpp
-msgid "Confirm email"
-msgstr "Kumpirmahin ang email"
-
-# screen_register.cpp
-msgid "Confirm email:"
-msgstr "Kumpirmahin ang email:"
-
-# screen_register.cpp
-msgid "Confirm password"
-msgstr "Kumpirmahin ang password"
-
-# screen_register.cpp
-msgid "Confirm password:"
-msgstr "Kumpirmahin ang password:"
-
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:23
 msgid "Email is invalid!"
 msgstr "Hindi wasto ang email!"
 
-# screen_register.cpp
-msgid "Email:"
-msgstr "Email:"
-
-# screen_register.cpp
-msgid "Emails do not match!"
-msgstr "Hindi nagtugma ang mga email!"
-
-# screen_register.cpp
-msgid "Failed to register"
-msgstr "Hindi ma-register"
-
-# screen_register.cpp
-msgid "Passwords do not match!"
-msgstr "Hindi nagtugma ang mga password!"
-
-# screen_register.cpp
-msgid "Please check your emails!"
-msgstr "Mangyaring buksan ang iyong email!"
-
-# screen_register.cpp
-msgid "Register account"
-msgstr "Pag-register ng account"
-
-# screen_register.cpp
-msgid "Registering"
-msgstr "Nire-register"
-
-# screen_register.cpp
-msgid "Registration successful."
-msgstr "Nakapag-register na!"
-
-# screen_register.cpp
-msgid "Too long. Maximum %s characters."
-msgstr "Mahaba na. Hanggang %s na character."
-
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:48
 msgid "Too short. Minimum %s characters."
 msgstr "Maikli. Mula %s na character."
 
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:55
+msgid "Too long. Maximum %s characters."
+msgstr "Mahaba na. Hanggang %s na character."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:76
+msgid "Register account"
+msgstr "Pag-register ng account"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
 msgid "Username"
 msgstr "Pangalan"
 
-# screen_register.cpp
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
+msgid "Confirm password"
+msgstr "Kumpirmahin ang password"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:89
+msgid "Confirm email"
+msgstr "Kumpirmahin ang email"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
+msgid "Registering"
+msgstr "Nire-register"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
+msgid "Registration successful."
+msgstr "Nakapag-register na!"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:147
+msgid "Please check your emails!"
+msgstr "Mangyaring buksan ang iyong email!"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:151
+msgid "Failed to register"
+msgstr "Hindi ma-register"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:183
 msgid "Username (you can put colors in!):"
 msgstr "Pangalan (pwede mong lagyan ng mga kulay!):"
 
-# screen_signed_in.cpp
-msgid "Account deletion"
-msgstr "Pagbura ng account"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Confirm password:"
+msgstr "Kumpirmahin ang password:"
 
-# screen_signed_in.cpp
-msgid "Account deletion requested."
-msgstr "Nakahingi na ng permiso sa pagbura ng account."
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Email:"
+msgstr "Email:"
 
-# screen_signed_in.cpp
-msgid "An email asking for confirmation was sent."
-msgstr "Ikaw ay makakatanggap ng email para sa pagkumpirma ng pagbubura ng iyong account."
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
+msgid "Confirm email:"
+msgstr "Kumpirmahin ang email:"
 
-# screen_signed_in.cpp
-msgid "Delete account"
-msgstr "Burahin ang account"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:218
+msgid "Passwords do not match!"
+msgstr "Hindi nagtugma ang mga password!"
 
-# screen_signed_in.cpp
-msgid "Failed to request account deletion"
-msgstr "Hindi makahingi ng permiso sa pagbura ng account"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:227
+msgid "Emails do not match!"
+msgstr "Hindi nagtugma ang mga email!"
 
-# screen_signed_in.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:42
 msgid "Online profile"
 msgstr "Iyong profile"
 
-# screen_signed_in.cpp
-msgid "Sign out"
-msgstr "Mag-log out"
-
-# screen_signed_in.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:68
 msgid "Synchronize"
 msgstr "Synchronize"
 
-# top_notification_view.cpp
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:88
+msgid "Sign out"
+msgstr "Mag-log out"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:100
+msgid "Delete account"
+msgstr "Burahin ang account"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:115
+msgid "Account deletion"
+msgstr "Pagbura ng account"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:122
+msgid "Account deletion requested."
+msgstr "Nakahingi na ng permiso sa pagbura ng account."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:124
+msgid "An email asking for confirmation was sent."
+msgstr "Ikaw ay makakatanggap ng email para sa pagkumpirma ng pagbubura ng iyong account."
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:129
+msgid "Failed to request account deletion"
+msgstr "Hindi makahingi ng permiso sa pagbura ng account"
+
+#: ../client/application/game/ui/views/top_notification_view.cpp:55
 msgid "%sWaiting for other player%s"
 msgstr "%sNaghihintay ng makakalaro%s"
 
-# game_hud.cpp
+#: ../client/application/game/ui/views/game_hud.cpp:48
 msgid "Shield: %s"
 msgstr "Proteksyon: %s"
 
-# community_level_selector.cpp
+#: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
 msgstr "SUSURIIN"
 
-# player_data_manager.cpp
+#: ../client/application/game/player_data/player_data_manager.cpp:248
 msgid "New personal best! %s ⇨ %s"
 msgstr "Bagong record! %s ⇨ %s"
 
-# game_network_message_parser.cpp
+#: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
 msgstr "Umalis sa laro si %s"
 
-# game_state.cpp
-msgid "Accuracy: %s"
-msgstr "Ga'no kasakto?: %s"
-
-# game_state.cpp
+#: ../client/application/game/state/game_state.cpp:445
 msgid "N/A"
 msgstr "Wala"
 
-# game_levels.cpp
-msgid "Choose your own difficulty"
-msgstr "Gusto mo pahirapan sarili mo? Ikaw bahala."
+#: ../client/application/game/state/game_state.cpp:456
+msgid "Accuracy: %s"
+msgstr "Ga'no kasakto?: %s"
 
-# game_levels.cpp
+#: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
 msgstr "Galingan mo ang pag-ilag at hindi ka mapapakamak"
 
-# game_levels.cpp
-msgid "Euclidean space is overrated"
-msgstr "Euclidean space? Hmmm..."
-
-# game_levels.cpp
-msgid "Green good. Red bad."
-msgstr "Lapitan ang berde. Layuan ang pula."
-
-# game_levels.cpp
-msgid "Just 32 seconds of skills"
-msgstr "32 seconds lang sapat na :)"
-
-# game_levels.cpp
-msgid "My favorite mode"
-msgstr "Kaya mong tapusin 'to?"
-
-# game_levels.cpp
-msgid "Never trust a six-sided polygon"
-msgstr "Huwag magtiwala sa hugis na may anim na gilid"
-
-# game_levels.cpp
-msgid "Previously known as Assault"
-msgstr "Unang nakilala bilang \"Assault\""
-
-# game_levels.cpp
-msgid "RIP GW3:Dimensions"
-msgstr "RIP GW3:Dimensions"
-
-# game_levels.cpp
-msgid "Survive 32 seconds with this simple trick"
-msgstr "Manatiling buhay sa loob ng 32 segundo"
-
-# game_levels.cpp
-msgid "Unrelated to \"Super Hexagon\""
-msgstr "Walang koneksyon sa \"Super Hexagon\""
-
-# game_levels.cpp
-msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Totoo ba to?\" - tester"
-
-# game_levels.cpp
+#: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
 msgstr "Kilala rin sa tawag na \"Dodge This\""
 
-# medals.cpp
+#: ../client/application/game/levels/game_levels.cpp:84
+msgid "Green good. Red bad."
+msgstr "Lapitan ang berde. Layuan ang pula."
+
+#: ../client/application/game/levels/game_levels.cpp:95
+msgid "Never trust a six-sided polygon"
+msgstr "Huwag magtiwala sa hugis na may anim na gilid"
+
+#: ../client/application/game/levels/game_levels.cpp:96
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "Walang koneksyon sa \"Super Hexagon\""
+
+#: ../client/application/game/levels/game_levels.cpp:97
+msgid "Choose your own difficulty"
+msgstr "Gusto mo pahirapan sarili mo? Ikaw bahala."
+
+#: ../client/application/game/levels/game_levels.cpp:107
+msgid "Euclidean space is overrated"
+msgstr "Euclidean space? Hmmm..."
+
+#: ../client/application/game/levels/game_levels.cpp:118
+msgid "Just 32 seconds of skills"
+msgstr "32 seconds lang sapat na :)"
+
+#: ../client/application/game/levels/game_levels.cpp:118
+msgid "My favorite mode"
+msgstr "Kaya mong tapusin 'to?"
+
+#: ../client/application/game/levels/game_levels.cpp:119
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Manatiling buhay sa loob ng 32 segundo"
+
+#: ../client/application/game/levels/game_levels.cpp:120
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\"Totoo ba to?\" - tester"
+
+#: ../client/application/game/levels/game_levels.cpp:131
+msgid "RIP GW3:Dimensions"
+msgstr "RIP GW3:Dimensions"
+
+#: ../client/application/game/levels/game_levels.cpp:131
+msgid "Previously known as Assault"
+msgstr "Unang nakilala bilang \"Assault\""
+
+#: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
 msgstr "Nadagdagan ng tansong medalya"
 
-# medals.cpp
-msgid "New gold medal"
-msgstr "Nadagdagan ng gintong medalya"
-
-# medals.cpp
+#: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
 msgstr "Nadagdagan ng pilak na medalya"
 
-# renderer_types.cpp
-msgid "Compression friendly"
-msgstr "Para sa video compression"
+#: ../client/application/game/levels/medals.cpp:10
+msgid "New gold medal"
+msgstr "Nadagdagan ng gintong medalya"
 
-# renderer_types.cpp
-msgid "High"
-msgstr "Malinaw"
-
-# renderer_types.cpp
-msgid "High (Dark)"
-msgstr "Maaliwalas"
-
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:8
 msgid "Minimal"
 msgstr "Simple"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "Minimal (Dark)"
 msgstr "Madilim"
 
-# renderer_types.cpp
-msgid "Ultra low 16x"
-msgstr "Pinalabo ng 16x"
+#: ../client/application/graphics/renderers/renderer_types.cpp:12
+msgid "High"
+msgstr "Malinaw"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:14
+msgid "High (Dark)"
+msgstr "Maaliwalas"
+
+#: ../client/application/graphics/renderers/renderer_types.cpp:16
+msgid "Compression friendly"
+msgstr "Para sa video compression"
+
+#: ../client/application/graphics/renderers/renderer_types.cpp:17
 msgid "Ultra low 2x"
 msgstr "Pinalabo ng 2x"
 
-# renderer_types.cpp
-msgid "Ultra low 32x"
-msgstr "Pinalabo ng 32x"
-
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:19
 msgid "Ultra low 4x"
 msgstr "Pinalabo ng 4x"
 
-# renderer_types.cpp
+#: ../client/application/graphics/renderers/renderer_types.cpp:21
 msgid "Ultra low 8x"
 msgstr "Pinalabo ng 8x"
 
-# The following translations are not in use anymore!
-# They are kept in case they are needed again later.
+#: ../client/application/graphics/renderers/renderer_types.cpp:23
+msgid "Ultra low 16x"
+msgstr "Pinalabo ng 16x"
 
-# Currently unused! This string may never be used again!
-msgid "2 extra characters:"
-msgstr "2 dagdag na character:"
-
-# Currently unused! This string may never be used again!
-msgid "Career"
-msgstr "Mga Nakamit"
-
-# Currently unused! This string may never be used again!
-msgid "Creator"
-msgstr "May gawa"
-
-# Currently unused! This string may never be used again!
-msgid "Custom levels"
-msgstr "Mga level na ginawa"
-
-# Currently unused! This string may never be used again!
-msgid "Custom levels?!"
-msgstr "Pwede gumawa ng level?"
-
-# Currently unused! This string may never be used again!
-msgid "Dark High"
-msgstr "Maaliwalas"
-
-# Currently unused! This string may never be used again!
-msgid "Failed to parse server response"
-msgstr "Hindi makuha ang tugon ng server"
-
-# Currently unused! This string may never be used again!
-msgid "Level name"
-msgstr "Pangalan ng level"
-
-# Currently unused! This string may never be used again!
-msgid "Local Multiplayer"
-msgstr "Lokal na Multiplayer"
-
-# Currently unused! This string may never be used again!
-msgid "Lost connection to server"
-msgstr "Nawalan ng koneksyon sa server"
-
-# Currently unused! This string may never be used again!
-msgid "Low"
-msgstr "Malabo"
-
-# Currently unused! This string may never be used again!
-msgid "Medals: %s"
-msgstr "Mga medalya: %s"
-
-# Currently unused! This string may never be used again!
-msgid "Medium"
-msgstr "Katamtaman"
-
-# Currently unused! This string may never be used again!
-msgid "Missing information. This should not happen!"
-msgstr "May nawawala. Hindi pwedeng mangyari 'to!"
-
-# Currently unused! This string may never be used again!
-msgid "More information"
-msgstr "Iba pang impormasyon"
-
-# Currently unused! This string may never be used again!
-msgid "Renderer: %s"
-msgstr "Itsura: %s"
-
-# Currently unused! This string may never be used again!
-msgid "Select level"
-msgstr "Pumili ng level"
-
-# Currently unused! This string may never be used again!
-msgid "The background is expensive to compute"
-msgstr "Ang ganda ng background :O"
-
-# Currently unused! This string may never be used again!
-msgid "Yes!"
-msgstr "Syempre!"
-
-# Currently unused! This string may never be used again!
-msgid "You can finally code your own levels!"
-msgstr "Pwede ka na mag-code ng sarili mong level!"
+#: ../client/application/graphics/renderers/renderer_types.cpp:25
+msgid "Ultra low 32x"
+msgstr "Pinalabo ng 32x"
 

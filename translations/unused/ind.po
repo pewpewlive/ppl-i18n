@@ -1,0 +1,66 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "2 extra characters:"
+msgstr "2 karakter tambahan"
+
+msgid "Career"
+msgstr "Karir"
+
+msgid "Creator"
+msgstr "Pencipta"
+
+msgid "Custom levels"
+msgstr "Level kustom"
+
+msgid "Custom levels?!"
+msgstr "Level kustom?!"
+
+msgid "Failed to parse server response"
+msgstr "Gagal mengurai respons server"
+
+msgid "Game is full"
+msgstr "Game penuh"
+
+msgid "Level name"
+msgstr "Nama level"
+
+msgid "Local Multiplayer"
+msgstr "Multiplayer lokal"
+
+msgid "Lost connection to server"
+msgstr "Hilang hubungan pada server"
+
+msgid "Low"
+msgstr "Rendah"
+
+msgid "Medals: %s"
+msgstr "Medali: %s"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Missing information. This should not happen!"
+msgstr "Informasi hilang. ini seharusnya tidak terjadi!"
+
+msgid "More information"
+msgstr "Lebih banyak info"
+
+msgid "Renderer: %s"
+msgstr "Perenderan: %s"
+
+msgid "Select level"
+msgstr "Pilih level"
+
+msgid "The background is expensive to compute"
+msgstr "Latar belakang lama untuk dihitung"
+
+msgid "Yes!"
+msgstr "Ya!"
+
+msgid "You are already in the game!"
+msgstr "Kau sudah berada di dalam game!"
+
+msgid "You can finally code your own levels!"
+msgstr "Kamu akhirnya bisa mengkode level mu sendiri!"
+

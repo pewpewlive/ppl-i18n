@@ -1,0 +1,63 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "2 extra characters:"
+msgstr "2 dagdag na character:"
+
+msgid "Career"
+msgstr "Mga Nakamit"
+
+msgid "Creator"
+msgstr "May gawa"
+
+msgid "Custom levels"
+msgstr "Mga level na ginawa"
+
+msgid "Custom levels?!"
+msgstr "Pwede gumawa ng level?"
+
+msgid "Dark High"
+msgstr "Maaliwalas"
+
+msgid "Failed to parse server response"
+msgstr "Hindi makuha ang tugon ng server"
+
+msgid "Level name"
+msgstr "Pangalan ng level"
+
+msgid "Local Multiplayer"
+msgstr "Lokal na Multiplayer"
+
+msgid "Lost connection to server"
+msgstr "Nawalan ng koneksyon sa server"
+
+msgid "Low"
+msgstr "Malabo"
+
+msgid "Medals: %s"
+msgstr "Mga medalya: %s"
+
+msgid "Medium"
+msgstr "Katamtaman"
+
+msgid "Missing information. This should not happen!"
+msgstr "May nawawala. Hindi pwedeng mangyari 'to!"
+
+msgid "More information"
+msgstr "Iba pang impormasyon"
+
+msgid "Renderer: %s"
+msgstr "Itsura: %s"
+
+msgid "Select level"
+msgstr "Pumili ng level"
+
+msgid "The background is expensive to compute"
+msgstr "Ang ganda ng background :O"
+
+msgid "Yes!"
+msgstr "Syempre!"
+
+msgid "You can finally code your own levels!"
+msgstr "Pwede ka na mag-code ng sarili mong level!"
+

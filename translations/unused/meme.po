@@ -1,0 +1,90 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "2 extra characters:"
+msgstr "2-long gamer tag:"
+
+msgid "Career"
+msgstr "Skill-o-meter"
+
+msgid "Connect to..."
+msgstr "Mooch from..."
+
+msgid "Creator"
+msgstr "To blame"
+
+msgid "Custom levels"
+msgstr "yeah, the other levels too"
+
+msgid "Custom levels?!"
+msgstr "Self-made shenanigans?!"
+
+msgid "Dark High"
+msgstr "High but cooler"
+
+msgid "Failed to parse server response"
+msgstr "Server illegible"
+
+msgid "Game is full"
+msgstr "No room sry"
+
+msgid "Level name"
+msgstr "battleground"
+
+msgid "Loading level..."
+msgstr "Wasting internet..."
+
+msgid "Local Multiplayer"
+msgstr "With the local bois"
+
+msgid "Lost connection to server"
+msgstr "we'll get'em next time"
+
+msgid "Low"
+msgstr "JPEG"
+
+msgid "Medals: %s"
+msgstr "Shiny bois: %s"
+
+msgid "Medium"
+msgstr "Casual"
+
+msgid "Missing information. This should not happen!"
+msgstr "Ayo where's the info"
+
+msgid "More information"
+msgstr "Learn me some"
+
+msgid "Renderer: %s"
+msgstr "JPEG level: %s"
+
+msgid "Select level"
+msgstr "The Main Squeezes"
+
+msgid "Sign-in"
+msgstr "log in plz"
+
+msgid "Sign-in confirmation"
+msgstr "Confirm your Sign-in lifeline"
+
+msgid "Sign-in with \"%s\"?"
+msgstr "Enter the dungeon using \"%s\"?"
+
+msgid "The background is expensive to compute"
+msgstr "90% of budget is in the background"
+
+msgid "Translations"
+msgstr "Lingo Transfers"
+
+msgid "Waiting for the server..."
+msgstr "Flipping light switches, hol up."
+
+msgid "Yes!"
+msgstr "ye"
+
+msgid "You are already in the game!"
+msgstr "Bruh you're already here"
+
+msgid "You can finally code your own levels!"
+msgstr "You can now make... some other levels"
+

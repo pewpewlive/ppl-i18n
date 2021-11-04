@@ -1,0 +1,90 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "2 extra characters:"
+msgstr "2 dodatne znamenke:"
+
+msgid "Career"
+msgstr "Karijera"
+
+msgid "Connect to..."
+msgstr "Spoji se na..."
+
+msgid "Creator"
+msgstr "Kreator"
+
+msgid "Custom levels"
+msgstr "Prilagođeni leveli"
+
+msgid "Custom levels?!"
+msgstr "Prilagođeni leveli?!"
+
+msgid "Dark High"
+msgstr "Tamno Visoko"
+
+msgid "Failed to parse server response"
+msgstr "Neuspješna rasčlaniranje odgovora servera."
+
+msgid "Game is full"
+msgstr "Igra je puna"
+
+msgid "Level name"
+msgstr "Ime levela"
+
+msgid "Loading level..."
+msgstr "čitavanje levela..."
+
+msgid "Local Multiplayer"
+msgstr "Lokalno više igrača"
+
+msgid "Lost connection to server"
+msgstr "Izgubljena veza sa serverom"
+
+msgid "Low"
+msgstr "Nisko"
+
+msgid "Medals: %s"
+msgstr "Medalje: %s"
+
+msgid "Medium"
+msgstr "Srednje"
+
+msgid "Missing information. This should not happen!"
+msgstr "Nedostaje informacija. Ovo se ne bih trebalo dogoditi!"
+
+msgid "More information"
+msgstr "Više informacija"
+
+msgid "Renderer: %s"
+msgstr "Renderer: %s"
+
+msgid "Select level"
+msgstr "Odaberi level"
+
+msgid "Sign-in"
+msgstr "Prijava"
+
+msgid "Sign-in confirmation"
+msgstr "Potvrda prijave"
+
+msgid "Sign-in with \"%s\"?"
+msgstr "Prijavi se sa \"%s\"?"
+
+msgid "The background is expensive to compute"
+msgstr "Pozadina je skupa za izračunavanje"
+
+msgid "Translations"
+msgstr "Prijevodi"
+
+msgid "Waiting for the server..."
+msgstr "Čekanje na server..."
+
+msgid "Yes!"
+msgstr "Da!"
+
+msgid "You are already in the game!"
+msgstr "Već si u igri!"
+
+msgid "You can finally code your own levels!"
+msgstr "Napokon možete kodirati svoje levele!"
+

@@ -1,0 +1,90 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "2 extra characters:"
+msgstr "2 karakter daha:"
+
+msgid "Career"
+msgstr "Kariyer"
+
+msgid "Connect to..."
+msgstr "...'ya bağlan"
+
+msgid "Creator"
+msgstr "Kurucu"
+
+msgid "Custom levels"
+msgstr "Özel haritalar"
+
+msgid "Custom levels?!"
+msgstr "Özel haritalar mı?!"
+
+msgid "Dark High"
+msgstr "Karanlık Yüksek"
+
+msgid "Failed to parse server response"
+msgstr "Sunucu bağlantısında hata oluşmuş"
+
+msgid "Game is full"
+msgstr "Oyun dolu"
+
+msgid "Level name"
+msgstr "Harita adı"
+
+msgid "Loading level..."
+msgstr "Harita yükleniyor..."
+
+msgid "Local Multiplayer"
+msgstr "Yerel çok oyunculu"
+
+msgid "Lost connection to server"
+msgstr "Sunucuya bağlantı kesildi"
+
+msgid "Low"
+msgstr "Düşük"
+
+msgid "Medals: %s"
+msgstr "Madelyalar: %s"
+
+msgid "Medium"
+msgstr "Orta"
+
+msgid "Missing information. This should not happen!"
+msgstr "Bilgi eksikliği. Bu durum gerçekleşmemeli!"
+
+msgid "More information"
+msgstr "Daha fazla bilgi"
+
+msgid "Renderer: %s"
+msgstr "Gözletim şekli: %s"
+
+msgid "Select level"
+msgstr "Harita seç"
+
+msgid "Sign-in"
+msgstr "Giriş yap"
+
+msgid "Sign-in confirmation"
+msgstr "Giriş yapım onayı"
+
+msgid "Sign-in with \"%s\"?"
+msgstr "ile giriş yap \"%s\"?"
+
+msgid "The background is expensive to compute"
+msgstr "Bu arka plan çok pahalı bir şeydir"
+
+msgid "Translations"
+msgstr "Çeviriler"
+
+msgid "Waiting for the server..."
+msgstr "Sunucu bekleniyor..."
+
+msgid "Yes!"
+msgstr "Evet!"
+
+msgid "You are already in the game!"
+msgstr "Siz zaten oyundasınız!"
+
+msgid "You can finally code your own levels!"
+msgstr "Kendi haritanızı siz de oluşturabilirsiniz!"
+

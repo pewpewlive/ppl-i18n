@@ -1,0 +1,90 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "2 extra characters:"
+msgstr "2 zusätzliche Buchstaben:"
+
+msgid "Career"
+msgstr "Karrier"
+
+msgid "Connect to..."
+msgstr "Verbindung zu..."
+
+msgid "Creator"
+msgstr "Ersteller"
+
+msgid "Custom levels"
+msgstr "Personalisierte Levels"
+
+msgid "Custom levels?!"
+msgstr "Personalisierte Levels?! Echt?"
+
+msgid "Dark High"
+msgstr "Dunkel"
+
+msgid "Failed to parse server response"
+msgstr "Das Parsen hat nicht funktioniert"
+
+msgid "Game is full"
+msgstr "Partie is voll"
+
+msgid "Level name"
+msgstr "Name des Levels"
+
+msgid "Loading level..."
+msgstr "Laden des Levels..."
+
+msgid "Local Multiplayer"
+msgstr "Local Multiplayer"
+
+msgid "Lost connection to server"
+msgstr "Verbindung zum Server unterbrochen"
+
+msgid "Low"
+msgstr "Niedrig"
+
+msgid "Medals: %s"
+msgstr "Medaillen: %s"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Missing information. This should not happen!"
+msgstr "Es fehlt Informationen. Es sollte nicht passieren!"
+
+msgid "More information"
+msgstr "Mehr Informationen"
+
+msgid "Renderer: %s"
+msgstr "Qualität: %s"
+
+msgid "Select level"
+msgstr "Level wählen"
+
+msgid "Sign-in"
+msgstr "Sich einloggen"
+
+msgid "Sign-in confirmation"
+msgstr "Anmeldung bestätigt"
+
+msgid "Sign-in with \"%s\"?"
+msgstr "Sich mit \"%s\" anmelden"
+
+msgid "The background is expensive to compute"
+msgstr "Dreiecke überall!"
+
+msgid "Translations"
+msgstr "Übersetzungen"
+
+msgid "Waiting for the server..."
+msgstr "Ein Moment bitte..."
+
+msgid "Yes!"
+msgstr "Ja!"
+
+msgid "You are already in the game!"
+msgstr "Sie sind schon in der Partie!"
+
+msgid "You can finally code your own levels!"
+msgstr "Du kannst endlich deine eigene Levels programmieren!"
+

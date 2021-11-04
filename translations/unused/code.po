@@ -1,0 +1,6 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "Lost connection to server"
+msgstr "MultiServer.LostConn = true"
+
