@@ -348,13 +348,13 @@ msgstr "Nu s-a putut posta comentariul"
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr "Raportează comentariul
+msgstr "Raportează comentariul"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr "Adaugă comentariul
+msgstr "Adaugă comentariul"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -860,7 +860,7 @@ msgstr "Trebuie să fi conectat ca să te joci online"
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to view comments"
-msgstr ""
+msgstr "Trebuie să fi conectat ca să vezi comentarii"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
