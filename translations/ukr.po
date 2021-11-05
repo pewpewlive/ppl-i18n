@@ -1068,11 +1068,11 @@ msgstr "Мінімальне (Темне)"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:12
 msgid "High"
-msgstr "Високе"
+msgstr "Висока"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:14
 msgid "High (Dark)"
-msgstr "Високе (Темне)"
+msgstr "Висока (Темне)"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Compression friendly"
