@@ -144,7 +144,7 @@ msgstr "Jogue com pessoas na mesma rede!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
-msgstr " Multiplayer local"
+msgstr "Multiplayer local"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Help"
@@ -256,7 +256,7 @@ msgstr "Checando rede"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Não é possível jogar multijogador com NAT simétrico "
+msgstr "Não é possível jogar multijogador com NAT simétrico"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
@@ -280,7 +280,7 @@ msgstr "Erro :("
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Are you sure you want to report this comment?"
-msgstr "Você tem certeza que deseja reportar esse comentário?
+msgstr "Você tem certeza que deseja reportar esse comentário?"
 
 #. Shown in a notification after successfully reporting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
@@ -309,7 +309,7 @@ msgstr "Erro ao deletar comentário"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
 msgid "Are you sure you want to delete this comment?"
-msgstr "Você tem certeza que deseja deletar esse comentário?
+msgstr "Você tem certeza que deseja deletar esse comentário?"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
@@ -582,7 +582,7 @@ msgstr "#ffff00ffOfficial#ffffffff Níveis que são feitos por mim (JF), e lhe p
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:85
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffComunidade#ffffffff os níveis são construídos por VOCÊ, a comunidade. "
+msgstr "#ffff00ffComunidade#ffffffff os níveis são construídos por VOCÊ, a comunidade."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:86
 msgid "More info on github.com/jyaif/ppl-utils"
@@ -718,7 +718,7 @@ msgstr "Nick antigo"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:41
 msgid "New username:"
-msgstr "Novo nick
+msgstr "Novo nick"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:55
 msgid "Change"
