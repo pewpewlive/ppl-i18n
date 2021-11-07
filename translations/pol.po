@@ -280,81 +280,81 @@ msgstr "Błąd :("
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Are you sure you want to report this comment?"
-msgstr ""
+msgstr "Jesteś pewny że chcesz zgłosić ten komentarz?"
 
 #. Shown in a notification after successfully reporting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
 msgid "Successfully reported comment"
-msgstr ""
+msgstr "Pomyślnie zgłoszono komentarz"
 
 #. Shown in a notification if a comment could not be reported.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:163
 msgid "Error reporting comment"
-msgstr ""
+msgstr "Błąd podczas zgłaszania komentarza"
 
 #. The title of the screen where players delete comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:200
 msgid "Delete comment"
-msgstr ""
+msgstr "Usuń komentarz"
 
 #. Shown in a notification after successfully deleting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
 msgid "Successfully deleted comment"
-msgstr ""
+msgstr "Pomyślnie usunięto komentarz"
 
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:204
 msgid "Error deleting comment"
-msgstr ""
+msgstr "Błąd podczas usuwania komentarza"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
 msgid "Are you sure you want to delete this comment?"
-msgstr ""
+msgstr "Jesteś pewny że chcesz usunąć ten komentarz?"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
 msgid "<Add a comment here>"
-msgstr ""
+msgstr "<Dodaj komentarz tutaj>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:316
 msgid "Comment"
-msgstr ""
+msgstr "Komentarz"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
 msgid "Comment must be at least 3 characters long."
-msgstr ""
+msgstr "Komentarz musi mieć długość przynajmniej 3 znaków "
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
 msgid "Posting comment"
-msgstr ""
+msgstr "Publikowanie komentarza"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:388
 msgid "Comment posted"
-msgstr ""
+msgstr "komentarz opublikowany"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
 msgid "Failed to post comment"
-msgstr ""
+msgstr "Publikowanie komentarza nie powiodło się"
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr ""
+msgstr "Zgłoś komentarz"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr ""
+msgstr "Dodaj komentarz"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -364,7 +364,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
 msgctxt "menu_confirm_action"
 msgid "Yes"
-msgstr ""
+msgstr "Tak"
 
 #. Displayed in a button. The button is used in menus asking whether to
 #. confirm an action.
@@ -374,7 +374,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:474
 msgctxt "menu_cancel_action"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:95
 msgid "Refresh"
@@ -434,11 +434,11 @@ msgstr "region"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "world"
-msgstr "Świat"
+msgstr "świat"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:120
 msgid "continent"
-msgstr "Kontynent"
+msgstr "kontynent"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
 msgid "1p"
@@ -860,7 +860,7 @@ msgstr "Aby grać online, musisz się zalogować"
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to view comments"
-msgstr ""
+msgstr "Aby wyświetlić komentarze, musisz się zalogować"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
