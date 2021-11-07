@@ -326,7 +326,7 @@ msgstr "PostComment();"
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
 msgid "Comment must be at least 3 characters long."
-msgstr "if (sizeof(Level.Comment) >= 3) { CommentAccess = true; }"
+msgstr "if (sizeof(Comment.Text) >= 3) { CommentPostAccess = true; }"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -342,7 +342,7 @@ msgstr "PostComment() returned: success"
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
 msgid "Failed to post comment"
-msgstr "Game.Error = \"Failed posting comment\""
+msgstr "Game.Error = \"Failed to post comment\""
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
