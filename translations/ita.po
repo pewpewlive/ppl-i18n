@@ -56,7 +56,7 @@ msgstr "Livelli Ufficiali"
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
-msgstr "Livelli Cdella Community"
+msgstr "Livelli della Community"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
