@@ -860,7 +860,7 @@ msgstr "Debes iniciar sesión para jugar en línea"
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to view comments"
-msgstr ""
+msgstr "Debes iniciar sesión para ver los comentarios"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
