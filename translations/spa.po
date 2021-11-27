@@ -256,11 +256,11 @@ msgstr "Comprobando red..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "No se puede jugar en multijugador con un NAT simétrico."
+msgstr "No es posible jugar en multijugador con un NAT simétrico."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
-msgstr "No se pudo conectar a los servidores STUN"
+msgstr "No se pudo conectar a los servidores STUN."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
 msgid "Authenticating..."
@@ -542,7 +542,7 @@ msgstr "Error de conexión"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:22
 msgid "Lost connection to host"
-msgstr "Conexión perdida con el host"
+msgstr "Se ha perdido la conexión con el host"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:23
 msgid "Audio Settings"
@@ -710,7 +710,7 @@ msgstr "Esperando otros jugadores..."
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:25
 msgid "Change colors"
-msgstr "Cambiar Colores"
+msgstr "Cambiar colores"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:38
 msgid "Old username:"
@@ -722,7 +722,7 @@ msgstr "Nuevo nombre de usuario:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:55
 msgid "Change"
-msgstr "Cambio"
+msgstr "Cambiar"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:73
 msgid "Only change colors! %s"
@@ -730,11 +730,11 @@ msgstr "¡Solo puedes cambiar los colores! %s"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:86
 msgid "Username color change"
-msgstr "Cambio de color del nombre de usuario"
+msgstr "Cambiar color de nombre de usuario"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:94
 msgid "Username change succesfull"
-msgstr "Cambio de nombre usuario exitoso"
+msgstr "Se ha cambiado tu nombre de usuario"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:105
 msgid "Failed to update username"
@@ -912,7 +912,7 @@ msgstr "No se pudo registrar"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:183
 msgid "Username (you can put colors in!):"
-msgstr "Usuario (¡puedes usar colores!)"
+msgstr "Usuario (¡puedes usar colores!):"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
 msgid "Confirm password:"
@@ -948,11 +948,11 @@ msgstr "Cerrar sesión"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:100
 msgid "Delete account"
-msgstr "Borrar Cuenta"
+msgstr "Borrar cuenta"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:115
 msgid "Account deletion"
-msgstr "Eliminacion de la Cuenta"
+msgstr "Eliminación de cuenta"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:122
 msgid "Account deletion requested."
