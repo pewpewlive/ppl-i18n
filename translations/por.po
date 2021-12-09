@@ -24,7 +24,7 @@ msgstr "Continuar"
 
 #: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
-msgstr "Pausa"
+msgstr "Pausar"
 
 #: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
