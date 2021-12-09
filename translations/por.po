@@ -104,7 +104,7 @@ msgstr "Digite a senha"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:32
 msgid "Join"
-msgstr "Entre"
+msgstr "Entrar"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:45
 msgid "Password:"
@@ -116,7 +116,7 @@ msgstr "Configurar controles"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Swap"
-msgstr "Troca"
+msgstr "Trocar"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:103
 msgid "Reset"
@@ -184,11 +184,11 @@ msgstr "(Versão incompatível)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:206
 msgid "Create room"
-msgstr "Criar quarto"
+msgstr "Criar sala"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:208
 msgid "Close room"
-msgstr "Quarto fechado"
+msgstr "Fechar sala"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
@@ -200,11 +200,11 @@ msgstr "Modelo"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
-msgstr "Cauda"
+msgstr "Trilha"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Bullets"
-msgstr "Tiros"
+msgstr "Balas"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:22
 msgid "Upload scores"
@@ -314,7 +314,7 @@ msgstr "Você tem certeza que deseja deletar esse comentário?"
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
 msgid "<Add a comment here>"
-msgstr "<adicione um comentário aqui>"
+msgstr "<Adicione um comentário aqui>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
@@ -1072,7 +1072,7 @@ msgstr "Alto"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:14
 msgid "High (Dark)"
-msgstr "Alto (Dark)"
+msgstr "Alto (Escuro)"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Compression friendly"
