@@ -36,7 +36,7 @@ msgstr "Sair"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr "Jogue de novo"
+msgstr "Jogar de novo"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
