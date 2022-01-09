@@ -40,11 +40,11 @@ msgstr "Грати знову"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr "Кінець гри"
+msgstr "Смерт :/"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
-msgstr "Не вдалося проаналізувати відповідь"
+msgstr "Не вдалося зчитати відповідь"
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
@@ -60,7 +60,7 @@ msgstr "Рівні спільноти"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr "кількість ігор %s"
+msgstr "ігор зіграно %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
@@ -72,7 +72,7 @@ msgstr "Звичайний"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr "Не вдалося зареєструватися!"
+msgstr "Не вдалося ввійти!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
@@ -132,7 +132,7 @@ msgstr "Онлайн мультиплеєр"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
 msgid "Play with people around the world!"
-msgstr "Грати з людьми навколо світу!"
+msgstr "Грати з людьми по всьому світу!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
 msgid "LAN multiplayer"
@@ -140,7 +140,7 @@ msgstr "мультиплеєр по мережі"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:64
 msgid "Play with people on the same network!"
-msgstr "Грати з людьми по одній мережі!"
+msgstr "Грати з людьми підключенними до однієї wifi мережі!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
@@ -152,19 +152,19 @@ msgstr "Допомога"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:55
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Локальний мультиплеєр підтримує 2 гравця, які підключені до однієї мережі."
+msgstr "Локальний мультиплеєр підтримує 2 гравця, які підключені до однієї wifi мережі."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:56
 msgid "One player must create a room, which the other player joins."
-msgstr "Один гравець має створити кімнату, у яку інший має зайти."
+msgstr "Один гравець має створити кімнату, до якої інший має зайти."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
-msgstr "Мережа не має бути підключена до мережі."
+msgstr "Wifi мережа не обов'язково має бути підключена до інтернету."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:58
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "Підключення до точки доступу телефону має працювати!"
+msgstr "Підключення до вбудованої точки доступу телефону має спрацювати!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:59
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
@@ -200,7 +200,7 @@ msgstr "Модель"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
-msgstr "Хвіст"
+msgstr "Хвостик"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Bullets"
@@ -244,7 +244,7 @@ msgstr "Рух"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
-msgstr "Постріл"
+msgstr "Стріляти"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
 msgid "Mouse aim %s"
@@ -268,7 +268,7 @@ msgstr "Аутентифікація ..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:112
 msgid "Need the latest version of the game."
-msgstr "Потрібна остання версія гри."
+msgstr "Ваша версія гри застаріла."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:121
 msgid "Failed to authenticate"
@@ -276,7 +276,7 @@ msgstr "Не вдалося аутентифікаціювати"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
 msgid "Error :("
-msgstr "Помилка :("
+msgstr "Помилка :/"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Are you sure you want to report this comment?"
@@ -314,7 +314,7 @@ msgstr "Ви впевнені що хочете видалити цей коме
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
 msgid "<Add a comment here>"
-msgstr "<Пишіть коментар тут>"
+msgstr "<Впишіть коментар>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
@@ -326,13 +326,13 @@ msgstr "Коментувати"
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
 msgid "Comment must be at least 3 characters long."
-msgstr "Коментар має мати хоча-б 3 символа"
+msgstr "Коментар має містити щонайменше 3 символа"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
 msgid "Posting comment"
-msgstr "Опублікування коментаря"
+msgstr "Коментар публікується"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:388
@@ -342,7 +342,7 @@ msgstr "Коментар опубліковано"
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
 msgid "Failed to post comment"
-msgstr "Не вдалося опубліковати коментар"
+msgstr "Не вдалося опубліковати коментар :/"
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
@@ -364,7 +364,7 @@ msgstr "Додати коментар"
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
 msgctxt "menu_confirm_action"
 msgid "Yes"
-msgstr "Так"
+msgstr "Ок"
 
 #. Displayed in a button. The button is used in menus asking whether to
 #. confirm an action.
@@ -386,7 +386,7 @@ msgstr "Налаштування Мови"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:26
 msgid "The translations are community provided!"
-msgstr "Переклади надані спільнотою!"
+msgstr "Переклади надані спільнотою! <3"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:35
 msgid "Default language"
@@ -418,7 +418,7 @@ msgstr "Північна Америка"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:29
 msgid "Oceania"
-msgstr "Океанія"
+msgstr "Австралія"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:30
 msgid "South America"
@@ -478,7 +478,7 @@ msgstr "Приєднання до кімнати"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
 msgid "Creating room"
-msgstr "Створення кімнати"
+msgstr "Створюється кімната"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:336
 msgid "The room expired"
@@ -558,7 +558,7 @@ msgstr "Візуалізація"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:50
 msgid "Failed to read replay."
-msgstr "Не вдалося прочитати повтор."
+msgstr "Не вдалося зчитати повтор."
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
 msgid "Failed to download replay."
@@ -578,11 +578,11 @@ msgstr "Експерементальні"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:84
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffОфіційні#ffffffff рівні ті що збудовані мною (JF), і дозволяє здобувати медалі."
+msgstr "#ffff00ffОфіційні#ffffffff рівні збудовані мною (JF), і тут можна здобувати медалі."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:85
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "Рівні #ffff00ffСпільноти#ffffffff збудовані ТОБОЮ, та іншими."
+msgstr "Рівні #ffff00ffСпільноти#ffffffff збудовані ВАМИ - нашою спільнотою."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:86
 msgid "More info on github.com/jyaif/ppl-utils"
@@ -590,7 +590,7 @@ msgstr "Більше інформації на github.com/jyaif/ppl-utils"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:87
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffЕкспереметальні#ffffffff рівні ті що ще не готові"
+msgstr "#ffff00ffЕкспереметальні#ffffffff рівні ще не готові і ще не були випущені"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:102
 msgid "About the levels"
@@ -606,7 +606,7 @@ msgstr "Світовий рекорд: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "Local best: %s"
-msgstr "Локальний найкращий рекорд: %s"
+msgstr "Локальний рекорд: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:73
 msgid "Loading..."
@@ -626,7 +626,7 @@ msgstr "Від %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:237
 msgid "average score: %s"
-msgstr "середій рекорд: %s"
+msgstr "середній рекорд: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:364
 msgid "Experimental level"
@@ -654,7 +654,7 @@ msgstr "Відео розробки"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Discord server"
-msgstr "Сервер Discord"
+msgstr "Discord Сервер"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:36
 msgid "Settings"
@@ -786,15 +786,15 @@ msgstr "Вхід"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:159
 msgid "Successfully signed in!"
-msgstr "Успішно ввійшли!"
+msgstr "Вхід пройшов успішно!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
 msgid "Email not verified"
-msgstr "Пошта не звірена"
+msgstr "Пошта не підтверджена"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:173
 msgid "Re-send verification email"
-msgstr "Перенадіслати перевірку пошти"
+msgstr "Переслати лист для перевірки"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:191
 msgid "Request password reset"
@@ -814,7 +814,7 @@ msgstr "Не вдалося синхронізувати."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:109
 msgid "You've been signed out."
-msgstr "Ви вийшли."
+msgstr "Ви вийшли (Ну і нашо?)."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:143
 msgid "Failed to download backup data"
@@ -826,7 +826,7 @@ msgstr "Синхронізування завершенно."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:193
 msgid "All your medals are here."
-msgstr "Усі твої медалі тут."
+msgstr "Усі твої медалі тут. Любуйся."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Account"
@@ -872,11 +872,11 @@ msgstr "Пошта недійсна!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:48
 msgid "Too short. Minimum %s characters."
-msgstr "Дуже коротко. Мінімум %s символів"
+msgstr "Занадто коротко. Мінімум %s символів"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:55
 msgid "Too long. Maximum %s characters."
-msgstr "Дуже довго. Максимум %s символів."
+msgstr "Занадто довго. Максимум %s символів."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:76
 msgid "Register account"
@@ -904,15 +904,15 @@ msgstr "Реєстрація вдала."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:147
 msgid "Please check your emails!"
-msgstr "Будь ласка перевірте вашу електронну пошту!"
+msgstr "Будь ласка, перевірте вашу електронну пошту!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:151
 msgid "Failed to register"
-msgstr "Не вдала реєстрація"
+msgstr "Не вдалося зареєструватися"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:183
 msgid "Username (you can put colors in!):"
-msgstr "Нікнейм (Ви можете вставити кольори в нього!):"
+msgstr "Нікнейм (Ви можете розфарбувати його!):"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
 msgid "Confirm password:"
@@ -964,7 +964,7 @@ msgstr "У пошту прийшов запит про підтвердженн�
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:129
 msgid "Failed to request account deletion"
-msgstr "Не вдалося відправити запит з видалення акаунту"
+msgstr "Не вдалося відправити запит на видалення акаунту"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:55
 msgid "%sWaiting for other player%s"
@@ -984,7 +984,7 @@ msgstr "Новий персональний рекорд! %s ⇨ %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
-msgstr "%s покинув гру"
+msgstr "%s покинув гру :("
 
 #: ../client/application/game/state/game_state.cpp:445
 msgid "N/A"
@@ -996,7 +996,7 @@ msgstr "Точність: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
-msgstr "Ухиляйтесь від усього, і ви будете в порядку"
+msgstr "Ухиляйтесь від усього, і все буде добре"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
@@ -1004,19 +1004,19 @@ msgstr "він же Dodge This"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Green good. Red bad."
-msgstr "Зелений добре. Червоний погано"
+msgstr "Зелений - бери. Червоний - біжи"
 
 #: ../client/application/game/levels/game_levels.cpp:95
 msgid "Never trust a six-sided polygon"
-msgstr "Ніколи не довіряй шестикутнику"
+msgstr "Всі шестикутники - зло"
 
 #: ../client/application/game/levels/game_levels.cpp:96
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Не пов'язано з \"Super Hexagon\""
+msgstr "\"Super Hexagon\" тут не причому"
 
 #: ../client/application/game/levels/game_levels.cpp:97
 msgid "Choose your own difficulty"
-msgstr "Виберіть свою складність"
+msgstr "Виберіть вашу складність"
 
 #: ../client/application/game/levels/game_levels.cpp:107
 msgid "Euclidean space is overrated"
@@ -1024,7 +1024,7 @@ msgstr "Евклідовий простір переоцінений"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "Just 32 seconds of skills"
-msgstr "Просто 32 секунди вправності"
+msgstr "Просто 32 секунди вправності... і болю"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "My favorite mode"
@@ -1036,11 +1036,11 @@ msgstr "Виживи 32 секунди з цим простим трюком"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Цей рівень жарт, так?\" - тестер"
+msgstr "\"Цей рівень жарт, так?\" - бідний тестер"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
-msgstr "ВЗМ GW3:Dimensions"
+msgstr "Спочивай з миром GW3:Dimension"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "Previously known as Assault"
