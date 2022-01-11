@@ -123,6 +123,10 @@
     "lang":"por",
     "translators":[
       {
+        "name":"MIDNIGHT",
+        "color":"0xe8c02aff"
+      },
+      {
         "name":"MaxXP",
         "color":"0xffffffff"
       }
