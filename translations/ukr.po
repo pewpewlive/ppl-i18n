@@ -68,7 +68,7 @@ msgstr "часу зіграно: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
-msgstr "Звичайний"
+msgstr "Не змагальний"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
@@ -562,7 +562,7 @@ msgstr "Не вдалося зчитати повтор."
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
 msgid "Failed to download replay."
-msgstr "Не вдалося завантажити повтор. "
+msgstr "Не вдалося завантажити повтор."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:39
 msgid "Official"
