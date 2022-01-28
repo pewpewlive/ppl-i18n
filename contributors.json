@@ -18,6 +18,15 @@
     ]
   },
   {
+    "lang":"gre",
+    "translators":[
+      {
+        "name":"MutoX",
+        "color":"0x000090ff"
+      }
+    ]
+  },
+  {
     "lang":"eng",
     "translators":[
       {
