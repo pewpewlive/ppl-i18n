@@ -1,130 +1,130 @@
 #: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
-msgstr ""
+msgstr "ναι"
 
 #: ../client/application/ui/ui_helpers.cpp:64
 msgid "off"
-msgstr ""
+msgstr "όχι"
 
 #: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
-msgstr ""
+msgstr "εντάξει"
 
 #: ../client/application/game/game.cpp:160
 msgid "Quick pause"
-msgstr ""
+msgstr "Γρήγορη Παύση"
 
 #: ../client/application/game/game.cpp:166
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Γρήγορη Παύση %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
-msgstr ""
+msgstr "Συνέχισε"
 
 #: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
-msgstr ""
+msgstr "Παύση"
 
 #: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
-msgstr ""
+msgstr "Επανάληψη"
 
 #: ../client/application/game/ui/pause_ui.cpp:72
 msgid "Exit"
-msgstr ""
+msgstr "Έξοδος"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr ""
+msgstr "Παίξε ξανά"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr ""
+msgstr "Τέλος Παιχνιδιού"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Αποτυχία να αναλυθεί η απάντηση"
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Αποτυχία επαφής του σέρβερ"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
-msgstr ""
+msgstr "Επίσημα επίπεδα"
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
-msgstr ""
+msgstr "Επίπεδα κοινότητας"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr ""
+msgstr "μέτρηση παιχνιδιών: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr ""
+msgstr "χρόνος παιχνιδιού: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
-msgstr ""
+msgstr "Χαλαρό"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "Αποτυχία εγγραφής!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
-msgstr ""
+msgstr "Κατεβαίνει το επίπεδο"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:23
 msgid "Connect to server"
-msgstr ""
+msgstr "Σύνδεθείτε σε σερβερ"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:55
 msgid "IP:"
-msgstr ""
+msgstr "IP:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:63
 msgid "Port:"
-msgstr ""
+msgstr "Πορτ:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "Συνδεθείτε σε ένα άλλο δωμάτιο μέσω το Ιντερνετ #ff0000ff(πειραματικό)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
 msgid "Connect"
-msgstr ""
+msgstr "Συνδεθείτε"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:29
 msgid "Enter password"
-msgstr ""
+msgstr "Εισέρχετε κωδικό"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:32
 msgid "Join"
-msgstr ""
+msgstr "Μπείτε"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:45
 msgid "Password:"
-msgstr ""
+msgstr "Κωδικός:"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:83
 msgid "Configure joysticks"
-msgstr ""
+msgstr "Ρυθμίστε τις λεβιές"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Swap"
-msgstr ""
+msgstr "Ανταλλαγή"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:103
 msgid "Reset"
-msgstr ""
+msgstr "Επαναρύθμιση"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:23
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Επιλέξτε τύπο multiplayer"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:27
 msgid "Online multiplayer"
