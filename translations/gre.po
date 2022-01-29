@@ -4,7 +4,7 @@ msgstr "ναι"
 
 #: ../client/application/ui/ui_helpers.cpp:64
 msgid "off"
-msgstr "όχι"
+msgstr "οχι"
 
 #: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
@@ -20,7 +20,7 @@ msgstr "Γρήγορη Παύση %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
-msgstr "Συνέχισε"
+msgstr "Συνεχίστε"
 
 #: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
@@ -92,7 +92,7 @@ msgstr "Πορτ:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Συνδεθείτε σε ένα άλλο δωμάτιο μέσω το Ιντερνετ #ff0000ff(πειραματικό)"
+msgstr "Συνδεθείτε σε ένα άλλο δωμάτιο μέσω το Διαδίκτυο #ff0000ff(πειραματικό)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
 msgid "Connect"
@@ -128,233 +128,233 @@ msgstr "Επιλέξτε τύπο multiplayer"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:27
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Διαδικτυακό Multiplayer"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Παίξε με ανθρώπους από όλο τον κοσμο!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "LAN multiplayer"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:64
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Παίξε με ανθρώπους στο ίδιο δίκτυο!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
-msgstr ""
+msgstr "Local multiplayer"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Help"
-msgstr ""
+msgstr "Βοήθεια"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:55
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "Το Local multiplayer υποστηρίζει 2 παίκτες συνδεδεμένει στο ίδιο wifi δίκτυο."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:56
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "Ένας παίκτης πρέπει να φτιάξει ενα δωμάτιο, όπου ο άλλος παίκτης μπαίνει."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "Το wifi δίκτυο δεν χρειάζεται να είναι συνδεδεμέννο στο Διαδίκτυο."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:58
 msgid "Connecting to a phone's hotspot should work!"
-msgstr ""
+msgstr "Μπορείς και να συνδεθείς σε ένα hotspot!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:59
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "Κάθε παίκτης πρέπει να ανεβάσει το replay τους ξεχωριστά για να εμφανιστούν και οι δύο στο διαδικτυακο leader board."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:74
 msgid "Multiplayer help"
-msgstr ""
+msgstr "Βοήθεια Multiplayer"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:124
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Ψάχνοντας για δωμάτια..."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:185
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(Ασύμβατη έκδοση)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:206
 msgid "Create room"
-msgstr ""
+msgstr "Δημιουργήστε δωμάτιο"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:208
 msgid "Close room"
-msgstr ""
+msgstr "Κλείστε το δωμάτιο"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
-msgstr ""
+msgstr "Ρύθμιση Παίκτη"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
-msgstr ""
+msgstr "Μοντέλο"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
-msgstr ""
+msgstr "Ουρά"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Bullets"
-msgstr ""
+msgstr "Σφαίρες"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:22
 msgid "Upload scores"
-msgstr ""
+msgstr "Ανεβάστε σκορ"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "Τίποτα για να ανεβεί!"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "Αποτυχία το ανέβασμα των replays."
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
-msgstr ""
+msgstr "Ανέβασμα επιτυχία"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "Ανέβασμα replay για %s."
 
 #: ../client/application/game/ui/screens/screen_career.cpp:39
 msgid "Statistics"
-msgstr ""
+msgstr "Στατιστικά"
 
 #: ../client/application/game/ui/screens/screen_select_level_of_author.cpp:42
 msgid "Levels by %s"
-msgstr ""
+msgstr "Επίπεδα απο %s"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
 msgid "Configure keyboard"
-msgstr ""
+msgstr "Ρύθμιση πληκτρολογίου"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
 msgid "Move"
-msgstr ""
+msgstr "Κινήσου"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
-msgstr ""
+msgstr "Πυροβόλησε"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "Στόχος ποντικιού %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:71
 msgid "Checking network..."
-msgstr ""
+msgstr "Τσεκάρετε δικτύο..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Αδύνατο να παίξετε multiplayer με συμμετρικό NAT."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Αποτυχία η σύνδεση στα STUN σερβερ."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
 msgid "Authenticating..."
-msgstr ""
+msgstr "Πιστοποίηση..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:112
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "Χρειάζεστε την πιο πρόσφατη έκδοση του παιχνιδιού."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:121
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Αποτυχία πιστοποίησης"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
 msgid "Error :("
-msgstr ""
+msgstr "Σφάλμα :("
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Are you sure you want to report this comment?"
-msgstr ""
+msgstr "Είστε σίγουρος πώς θέλετε να αναφέρετε αυτό το σχόλιο;"
 
 #. Shown in a notification after successfully reporting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
 msgid "Successfully reported comment"
-msgstr ""
+msgstr "Επιτυχία η αναφορά του σχόλιου"
 
 #. Shown in a notification if a comment could not be reported.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:163
 msgid "Error reporting comment"
-msgstr ""
+msgstr "Σφάλμα αναφοράς σχόλιου"
 
 #. The title of the screen where players delete comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:200
 msgid "Delete comment"
-msgstr ""
+msgstr "Διαγραφή σχόλιου"
 
 #. Shown in a notification after successfully deleting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
 msgid "Successfully deleted comment"
-msgstr ""
+msgstr "Επιτυχία διαγραφής σχόλιου"
 
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:204
 msgid "Error deleting comment"
-msgstr ""
+msgstr "Σφάλμα διαγραφής σχόλιου"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
 msgid "Are you sure you want to delete this comment?"
-msgstr ""
+msgstr "Είστε σίγουρος πώς θέλετε να διαγράψετε αυτό το σχόλιο;"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
 msgid "<Add a comment here>"
-msgstr ""
+msgstr "<Προσθέστε ένα σχόλιο εδώ>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:316
 msgid "Comment"
-msgstr ""
+msgstr "Σχολιάστε"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
 msgid "Comment must be at least 3 characters long."
-msgstr ""
+msgstr "Το σχόλιο πρέπει να είναι τουλάχιστον 3 χαρακτήρες μακρύ."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
 msgid "Posting comment"
-msgstr ""
+msgstr "Δημοσιεύετε το σχόλιο"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:388
 msgid "Comment posted"
-msgstr ""
+msgstr "Σχόλιο δημοσιεύτηκε"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
 msgid "Failed to post comment"
-msgstr ""
+msgstr "Αποτυχία δημοσίευσης σχόλιου"
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr ""
+msgstr "Αναφορά σχόλιου"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr ""
+msgstr "Προσθέστε σχόλιο"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -364,7 +364,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
 msgctxt "menu_confirm_action"
 msgid "Yes"
-msgstr ""
+msgstr "Ναι"
 
 #. Displayed in a button. The button is used in menus asking whether to
 #. confirm an action.
@@ -374,91 +374,91 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:474
 msgctxt "menu_cancel_action"
 msgid "No"
-msgstr ""
+msgstr "Οχι"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:95
 msgid "Refresh"
-msgstr ""
+msgstr "Φρεσκάρετε"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:22
 msgid "Language Settings"
-msgstr ""
+msgstr "Ρυθμίσεις Γλώσσας"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:26
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "Οι μεταφράσεις έχουν δοθεί απο την κοινότητα!"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:35
 msgid "Default language"
-msgstr ""
+msgstr "Προεπιλεγμένη γλώσσα"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:50
 msgid "Help out"
-msgstr ""
+msgstr "Βοηθήστε"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:60
 msgid "Contributors"
-msgstr ""
+msgstr "Συνεισφέροντες"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:25
 msgid "Africa"
-msgstr ""
+msgstr "Αφρική"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:26
 msgid "Asia"
-msgstr ""
+msgstr "Ασία"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
 msgid "Europe"
-msgstr ""
+msgstr "Ευρώπη"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:28
 msgid "North America"
-msgstr ""
+msgstr "Βόρεια Αμερική"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:29
 msgid "Oceania"
-msgstr ""
+msgstr "Ωκεάνια"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:30
 msgid "South America"
-msgstr ""
+msgstr "Νότια Αμερική"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "personal"
-msgstr ""
+msgstr "προσωπικό"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "region"
-msgstr ""
+msgstr "τοπικό"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "world"
-msgstr ""
+msgstr "κοσμικό"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:120
 msgid "continent"
-msgstr ""
+msgstr "ήπειρος"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
 msgid "1p"
-msgstr ""
+msgstr "1π"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
 msgid "2p"
-msgstr ""
+msgstr "2π"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
 msgid "3p"
-msgstr ""
+msgstr "3π"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:154
 msgid "4p"
-msgstr ""
+msgstr "3π"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
-msgstr ""
+msgstr "Παραλείψτε"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:42
 msgid "Single Player"
