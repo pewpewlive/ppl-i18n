@@ -434,7 +434,7 @@ msgstr "τοπικό"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "world"
-msgstr "κοσμικό"
+msgstr "παγκόσμιο"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:120
 msgid "continent"
@@ -462,639 +462,639 @@ msgstr "Παραλείψτε"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:42
 msgid "Single Player"
-msgstr ""
+msgstr "Single Player"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:45
 msgid "Play"
-msgstr ""
+msgstr "Παίξτε"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:63
 msgid "Multiplayer"
-msgstr ""
+msgstr "Multiplayer"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
 msgid "Joining room"
-msgstr ""
+msgstr "Μπαίνετε στο δωμάτιο"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
 msgid "Creating room"
-msgstr ""
+msgstr "Φτιάχνεται δωμάτιο"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:336
 msgid "The room expired"
-msgstr ""
+msgstr "Το δωμάτιο έληξε"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
 msgid "Unknown error"
-msgstr ""
+msgstr "Άγνωστο σφάλμα"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:365
 msgid "Failed to join room"
-msgstr ""
+msgstr "Απέτυχε να μπεί στο δωμάτιο"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
 msgid "Incorrect password"
-msgstr ""
+msgstr "Λάθος κωδικός"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Είστε ήδη μέσα στο δωμάτιο!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:385
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "Το δωμάτιο δεν υπάρχει πια"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:388
 msgid "Room is full"
-msgstr ""
+msgstr "Το δωμάτιο είναι γεμάτο"
 
 #: ../client/application/game/ui/screens/screen_tutorial.cpp:34
 msgid "Tutorial"
-msgstr ""
+msgstr "Βοήθημα"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:44
 msgid "Room configuration"
-msgstr ""
+msgstr "Ρύθμιση δωματίου"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:70
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 επιπλέον χαρακτήρες (προαιρετικό)"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:103
 msgid "Password (optional):"
-msgstr ""
+msgstr "Κωδικός (προαιρετικό)"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:139
 msgid "Any level"
-msgstr ""
+msgstr "Καθένα επίπεδο"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:187
 msgid "Room name: %s"
-msgstr ""
+msgstr "Όνομα δωματίου: %s"
 
 #: ../client/application/game/ui/screens/screen_informations_music.cpp:29
 msgid "Music"
-msgstr ""
+msgstr "Μουσική"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:18
 msgid "Connection error"
-msgstr ""
+msgstr "Σφάλμα σύνδεσης"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:22
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Χάθηκε η σύνδεση του εξυπηρετητή"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:23
 msgid "Audio Settings"
-msgstr ""
+msgstr "Ρυθμίσεις Ήχου"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:36
 msgid "Sound effects"
-msgstr ""
+msgstr "Ηχητικά εφέ"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:106
 msgid "Visualization"
-msgstr ""
+msgstr "Οραματισμός"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:50
 msgid "Failed to read replay."
-msgstr ""
+msgstr "Απέτυχε να διαβαστεί το replay."
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
 msgid "Failed to download replay."
-msgstr ""
+msgstr "Απέτυχε το κατέβασμα του replay."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:39
 msgid "Official"
-msgstr ""
+msgstr "Επίσημα"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
 msgid "Community"
-msgstr ""
+msgstr "Κοινότητας"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:42
 msgid "Experimental"
-msgstr ""
+msgstr "Πειραματικά"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:84
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "#ffff00ffΕπίσημα#ffffffff επίπεδα είναι φτιαγμένα από εμένα (JF), και σου δίνουν μετάλλια."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:85
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "Τα επίπεδα της #ffff00ffΚοινότητας#ffffffff είναι φτιαγμένα από ΕΣΈΝΑ, την κοινότητα. "
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:86
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "Περισσότερες πληροφορίες στο github.com/jyaif/ppl-utils"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:87
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "#ffff00ffΠειραματικά#ffffffff επίπεδα είναι επίπεδα που δεν έχουν δημοσιευτεί ακόμα."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:102
 msgid "About the levels"
-msgstr ""
+msgstr "Σχετικά με τα επίπεδα"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:146
 msgid "Experimental levels"
-msgstr ""
+msgstr "Πειραματικά επίπεδα"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
-msgstr ""
+msgstr "Παγκόσμιο ρεκόρ: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "Local best: %s"
-msgstr ""
+msgstr "Τοπικό ρεκόρ: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:73
 msgid "Loading..."
-msgstr ""
+msgstr "Φόρτωση..."
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:109
 msgid "Error reading manifest"
-msgstr ""
+msgstr "Απέτυχε το διάβασμα του δηλωτικού"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:114
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "Απέτυχε το κατέβασμα του δηλωτικού"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:138
 msgid "by %s"
-msgstr ""
+msgstr "από τον %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:237
 msgid "average score: %s"
-msgstr ""
+msgstr "μέσος όρος: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:364
 msgid "Experimental level"
-msgstr ""
+msgstr "Πειραματικό Επίπεδο"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:20
 msgid "Controls Settings"
-msgstr ""
+msgstr "Ρυθμίσεις Κοντρόλ"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
-msgstr ""
+msgstr "Οθόνη αφής"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:36
 msgid "Keyboard"
-msgstr ""
+msgstr "ΠΛηκτρολόγιο"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:37
 msgid "Directed by %s"
-msgstr ""
+msgstr "Φτιαγμένο απο τον %s"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:63
 msgid "Development videos"
-msgstr ""
+msgstr "Βίντεα ανάπτυξης"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Discord server"
-msgstr ""
+msgstr "Discord σέρβερ"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:36
 msgid "Settings"
-msgstr ""
+msgstr "Ρυθμίσεις"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:79
 msgid "Controls"
-msgstr ""
+msgstr "Κοντρόλ"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:88
 msgid "Audio"
-msgstr ""
+msgstr "Ήχος"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:98
 msgid "Language"
-msgstr ""
+msgstr "Γλώσσα"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:136
 msgid "Start tutorial"
-msgstr ""
+msgstr "Ξεκινήστε βοήθημα"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:146
 msgid "Launch intro"
-msgstr ""
+msgstr "Αρχίστε intro"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Developer mode"
-msgstr ""
+msgstr "Λειτουργία προγραμματισμού"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:206
 msgid "Vibration %s"
-msgstr ""
+msgstr "Δόνηση %s"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:205
 msgid "Local lobby"
-msgstr ""
+msgstr "Τοπικό lobby"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:208
 msgid "Online lobby"
-msgstr ""
+msgstr "Διαδικτυακό lobby"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:215
 msgid "Ready"
-msgstr ""
+msgstr "Έτοιμος"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:224
 msgid "Cancel"
-msgstr ""
+msgstr "Ακύρωση"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:367
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "Περιμένετε για παίκτες..."
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:25
 msgid "Change colors"
-msgstr ""
+msgstr "Αλλάξτε χρώματα"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:38
 msgid "Old username:"
-msgstr ""
+msgstr "Παλιό όνομα username:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:41
 msgid "New username:"
-msgstr ""
+msgstr "Καινούριο username:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:55
 msgid "Change"
-msgstr ""
+msgstr "Αλλάξτε"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:73
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Αλλάξτε μόνο χρώματα! %s"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:86
 msgid "Username color change"
-msgstr ""
+msgstr "Αλλαγή χρώματος του username"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:94
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Αλλαγή username επιτυχής"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:105
 msgid "Failed to update username"
-msgstr ""
+msgstr "Απέτυχε η αλλαγή του username"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:30
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Στέλνεται email επιβεβαίωσης"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Verification email sent"
-msgstr ""
+msgstr "Email επιβεβαίωσης στάλθηκε"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:38
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Τσεκάρετε τα εισερχόμενα σας!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:42
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Απέτυχε να ξανασταλθεί το email"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:53
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Στέλνεται αίτηση επαναφοράς κωδικού"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:59
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Στάλθηκε email επαναφοράς κωδικού"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:66
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Αποτυχία να σταλθεί αίτηση επαναφοράς κωδικού"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:86
 msgid "Sign in"
-msgstr ""
+msgstr "Συνδεθείτε"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
 msgid "Password"
-msgstr ""
+msgstr "Κωδικός"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:144
 msgid "Signing in"
-msgstr ""
+msgstr "Συνδέεστε"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:159
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Επιτυχία σύνδεσης!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
 msgid "Email not verified"
-msgstr ""
+msgstr "Email δεν έχει επιβεβαιωθεί"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:173
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Ξαναστείλτε email επιβεβαίωσης"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:191
 msgid "Request password reset"
-msgstr ""
+msgstr "Ζητείστε επαναφορά κωδικού"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:217
 msgid "Reset password"
-msgstr ""
+msgstr "Επαναφορά κωδικού"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:34
 msgid "Synchronizing"
-msgstr ""
+msgstr "Συγχρονίζεται"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:83
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Αποτυχία συγχρονισμού."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:109
 msgid "You've been signed out."
-msgstr ""
+msgstr "Έχεις αποσυνδεθεί."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:143
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "Απέτυχε να κατεβεί αντίγραφο δεδομένων"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:192
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Συγχρονισμός ολοκληρώθηκε."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:193
 msgid "All your medals are here."
-msgstr ""
+msgstr "Όλα τα μετάλλια σου είναι εδώ."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Account"
-msgstr ""
+msgstr "Λογαριασμός"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:25
 msgid "Not signed in"
-msgstr ""
+msgstr "Δεν είστε εγγεγραμμένος"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:29
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Δημιουργείστε λογαριασμό για να φτιάξετε ονομα και συγχρονίσετε τα δεδομένα σας."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:33
 msgid "Register"
-msgstr ""
+msgstr "Εγγραφείτε"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:58
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Πολιτική Απορρήτου"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:100
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Πρέπει να είστε εγγεγραμένει για να ανεβάσετε σκορ"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:103
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Πρέπει να είστε συνδεδεμένει για να παίξετε online"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to view comments"
-msgstr ""
+msgstr "Πρέπει να είστε συνδεδεμένει για να δείτε τα σχόλια"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
-msgstr ""
+msgstr "Ο λογαριασμός σας"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:23
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Email είναι λάθος!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:48
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Πολύ μικρό. Τουλάχιστον %S χαρακτήρες."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:55
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Πολυ μεγάλο. Μέγιστο %s χαρακτήρες."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:76
 msgid "Register account"
-msgstr ""
+msgstr "Εγγραφή λογαριασμού"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
 msgid "Username"
-msgstr ""
+msgstr "Όνομα χρήστη"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
 msgid "Confirm password"
-msgstr ""
+msgstr "Επιβεβαιώστε κωδικό"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:89
 msgid "Confirm email"
-msgstr ""
+msgstr "Επιβεβαιώστε email"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Registering"
-msgstr ""
+msgstr "Γίνετε εγγραφή"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
 msgid "Registration successful."
-msgstr ""
+msgstr "Επιτυχία εγγραφής."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:147
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Παρακαλώ τσεκάρετε τα emails σας!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:151
 msgid "Failed to register"
-msgstr ""
+msgstr "Αποτυχία εγγραφής"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:183
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Όνομα χρήστη (μπορείτε να βάλετε και χρώματα!):"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
 msgid "Confirm password:"
-msgstr ""
+msgstr "Επιβεβαιώστε κωδικό:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
 msgid "Confirm email:"
-msgstr ""
+msgstr "Επιβεβαιώστε email:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:218
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Κωδικοί δεν ταιριάζουν!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:227
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Τα emails δεν ταιριάζουν!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:42
 msgid "Online profile"
-msgstr ""
+msgstr "Online προφίλ"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:68
 msgid "Synchronize"
-msgstr ""
+msgstr "Συγχρονίστε"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:88
 msgid "Sign out"
-msgstr ""
+msgstr "Αποσυνδεθείτε"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:100
 msgid "Delete account"
-msgstr ""
+msgstr "Διαγράψτε λογαριασμό"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:115
 msgid "Account deletion"
-msgstr ""
+msgstr "Διαγραφή λογαριασμού"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:122
 msgid "Account deletion requested."
-msgstr ""
+msgstr "Αίτηση διαγραφή λογαριασμού στάλθηκε."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:124
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "Ένα email που ζητάει για επιβεβαίωση στάλθηκε."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:129
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Αποτυχία αίτησης διαγραφή λογαριασμού"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:55
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "$sΠεριμένετε για παίκτες%s"
 
 #: ../client/application/game/ui/views/game_hud.cpp:48
 msgid "Shield: %s"
-msgstr ""
+msgstr "Ασπίδες: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
-msgstr ""
+msgstr "ΣΕ ΈΛΕΓΧΟ"
 
 #: ../client/application/game/player_data/player_data_manager.cpp:248
 msgid "New personal best! %s ⇨ %s"
-msgstr ""
+msgstr "Νεο περοσωπικό ρεκόρ! %s ⇨ %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
-msgstr ""
+msgstr "%s βγήκε από το παιχνίδι"
 
 #: ../client/application/game/state/game_state.cpp:445
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #: ../client/application/game/state/game_state.cpp:456
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "Ακρίβεια: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "Απέφυγε τα πάντα και θα είσαι μια χαρά"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
-msgstr ""
+msgstr "Γνωστό και ως Dodge This"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "Πράσινο καλό. Κόκκινο κακό."
 
 #: ../client/application/game/levels/game_levels.cpp:95
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "Ποτέ μην εμπιστευτεις ένα εξίπλευρο πολύγωνο"
 
 #: ../client/application/game/levels/game_levels.cpp:96
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "Άσχετο με το \"Super Hexagon\""
 
 #: ../client/application/game/levels/game_levels.cpp:97
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "Διάλεξε μόνος σου την δυσκολία"
 
 #: ../client/application/game/levels/game_levels.cpp:107
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "Ευκλείδιος χώρος είναι υπερεκτιμημένος"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "Απλά 32 δευτερόλεπτα δεξιότητας"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "My favorite mode"
-msgstr ""
+msgstr "Το αγαπημένο μου επίπεδο"
 
 #: ../client/application/game/levels/game_levels.cpp:119
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "Επιβίωσε για 32 δευτερόλεπτα με αυτό το κόλπο"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\"Αυτό το επίπεδο είναι μια φάρσα σωστά;\" - ένας δοκιμαστής"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "RIP GW3:Dimensions"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "Προηγουμένος γνωστό ως Assault"
 
 #: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
-msgstr ""
+msgstr "Νέο χάλκινο μέταλλο"
 
 #: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
-msgstr ""
+msgstr "Νέο ασημένιο μέταλλο"
 
 #: ../client/application/game/levels/medals.cpp:10
 msgid "New gold medal"
-msgstr ""
+msgstr "Νέο χρυσό μέταλλο"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:8
 msgid "Minimal"
-msgstr ""
+msgstr "Ελάχιστο"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "Ελάχιστο (Σκοτεινό)"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:12
 msgid "High"
-msgstr ""
+msgstr "Υψηλά"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:14
 msgid "High (Dark)"
-msgstr ""
+msgstr "Υψηλά (Σκοτεινό)"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Compression friendly"
-msgstr ""
+msgstr "Φιλικό σε Συμπίεση"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:17
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Υπερ χαμηλό 2x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:19
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "Υπέρ χαμηλό 4x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:21
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "Υπέρ χαμηλό 8x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:23
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "Υπέρ χαμηλό 16x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:25
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "Υπέρ χαμηλό 32x"
 
