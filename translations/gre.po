@@ -714,7 +714,7 @@ msgstr "Αλλάξτε χρώματα"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:38
 msgid "Old username:"
-msgstr "Παλιό όνομα username:"
+msgstr "Παλιό username:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:41
 msgid "New username:"
