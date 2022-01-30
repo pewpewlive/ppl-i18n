@@ -838,7 +838,7 @@ msgstr "Δεν είστε εγγεγραμμένος"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:29
 msgid "Create an account to set your name and sync your data"
-msgstr "Δημιουργείστε λογαριασμό για να φτιάξετε ονομα και συγχρονίσετε τα δεδομένα σας."
+msgstr "Φτιάξτε λογαριασμό για να έχετε όνομα και συγχρονίσετε τα δεδομένα σας."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:33
 msgid "Register"
@@ -948,7 +948,7 @@ msgstr "Αποσυνδεθείτε"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:100
 msgid "Delete account"
-msgstr "Διαγράψτε λογαριασμό"
+msgstr "Διαγράψτε account"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:115
 msgid "Account deletion"
@@ -1020,7 +1020,7 @@ msgstr "Διάλεξε μόνος σου την δυσκολία"
 
 #: ../client/application/game/levels/game_levels.cpp:107
 msgid "Euclidean space is overrated"
-msgstr "Ευκλείδιος χώρος είναι υπερεκτιμημένος"
+msgstr "Ο ευκλείδειος χώρος είναι υπερεκτιμημένος"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "Just 32 seconds of skills"
@@ -1032,7 +1032,7 @@ msgstr "Το αγαπημένο μου επίπεδο"
 
 #: ../client/application/game/levels/game_levels.cpp:119
 msgid "Survive 32 seconds with this simple trick"
-msgstr "Επιβίωσε για 32 δευτερόλεπτα με αυτό το κόλπο"
+msgstr "Επιβίωσε για 32 δευτερόλεπτα με αυτό το απλό κόλπο"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
