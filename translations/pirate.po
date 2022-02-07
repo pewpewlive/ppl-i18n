@@ -72,7 +72,7 @@ msgstr "DrunkenParrot"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "We aren't doing it"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
@@ -208,11 +208,11 @@ msgstr "Chasing gun"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:22
 msgid "Upload scores"
-msgstr "Buried treasure"
+msgstr "Bury treasure"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
 msgid "Nothing to upload!"
-msgstr "Non to buried!"
+msgstr "Non to bury!"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
 msgid "Failed to upload replays."
@@ -252,11 +252,11 @@ msgstr "Clicky thing aim %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:71
 msgid "Checking network..."
-msgstr ""
+msgstr "Look out for it"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Aghh, have no permission to sail"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
@@ -314,47 +314,47 @@ msgstr "Ye want this comment to be on the sea floor?"
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
 msgid "<Add a comment here>"
-msgstr "<Lodge Comment here>"
+msgstr "<Lodge Telly here>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:316
 msgid "Comment"
-msgstr ""
+msgstr "Telly"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
 msgid "Comment must be at least 3 characters long."
-msgstr ""
+msgstr "Telly must have 3 letters"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
 msgid "Posting comment"
-msgstr "Lodging comment"
+msgstr "Lodging Telly"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:388
 msgid "Comment posted"
-msgstr "Lodged is comment"
+msgstr "Lodged is telly"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
 msgid "Failed to post comment"
-msgstr "Agghh comment stucked"
+msgstr "Agghh telly stucked"
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr ""
+msgstr "tell thi telly"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr "Tell them a comment"
+msgstr "Tell them a telly"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -402,7 +402,7 @@ msgstr "Scallywags"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:25
 msgid "Africa"
-msgstr ""
+msgstr "Africa"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:26
 msgid "Asia"
@@ -542,7 +542,7 @@ msgstr "Gankplank broke"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:22
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Galleys lost on sea"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:23
 msgid "Audio Settings"
@@ -710,35 +710,35 @@ msgstr "What should we do with the drunken sailor?"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:25
 msgid "Change colors"
-msgstr ""
+msgstr "Don't like yer colours?"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:38
 msgid "Old username:"
-msgstr ""
+msgstr "Olde name:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:41
 msgid "New username:"
-msgstr ""
+msgstr "New name:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:55
 msgid "Change"
-msgstr ""
+msgstr "Change"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:73
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Colours only! %s"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:86
 msgid "Username color change"
-msgstr ""
+msgstr "Changed colour of name"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:94
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Yar, name changed"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:105
 msgid "Failed to update username"
-msgstr ""
+msgstr "We got caught trying to change name"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:30
 msgid "Requesting verification email"
@@ -1076,7 +1076,7 @@ msgstr "Dark vision"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Compression friendly"
-msgstr ""
+msgstr "Baby vision"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:17
 msgid "Ultra low 2x"
