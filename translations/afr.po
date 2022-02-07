@@ -60,11 +60,11 @@ msgstr "Gemeenskapsvlakke"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr "spel telling %s"
+msgstr "spel telling: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr "tyd gespeel %s"
+msgstr "tyd gespeel: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
