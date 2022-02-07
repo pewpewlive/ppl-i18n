@@ -13,7 +13,8 @@ os.chdir(dname)
 # language code are in ISO 639-2
 # https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 lang_files_dir = "translations/"
-langs = [{"code": "code", "name": "Code"},
+langs = [{"code": "afr", "name": "Afrikaans"},
+         {"code": "code", "name": "Code"},
          {"code": "deu", "name": "German"},
          {"code": "gre", "name": "Greek"},
          {"code": "fra", "name": "French"},
@@ -40,6 +41,7 @@ lang_stats = {}
 
 # Generate the stats
 for lang in langs:
+    print("parsing " + lang["name"])
     lang_code = lang["code"]
     lang_file = lang_files_dir + lang_code + ".po"
     message_count = 0.0
