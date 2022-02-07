@@ -1,126 +1,126 @@
 #: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
-msgstr ""
+msgstr "aan"
 
 #: ../client/application/ui/ui_helpers.cpp:64
 msgid "off"
-msgstr ""
+msgstr "af"
 
 #: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
-msgstr ""
+msgstr "okay"
 
 #: ../client/application/game/game.cpp:160
 msgid "Quick pause"
-msgstr ""
+msgstr "Finnige pouse"
 
 #: ../client/application/game/game.cpp:166
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Finnige pouse %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
-msgstr ""
+msgstr "Gaan VoortWag"
 
 #: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
-msgstr ""
+msgstr "Wag"
 
 #: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
-msgstr ""
+msgstr "Herlaai"
 
 #: ../client/application/game/ui/pause_ui.cpp:72
 msgid "Exit"
-msgstr ""
+msgstr "Uitgang"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr ""
+msgstr "Speel weer"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr ""
+msgstr "Speletjie Verby"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Kon nie reaksie ontleed nie"
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Misluk om bediener te konta"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
-msgstr ""
+msgstr "Amptelike vlakke"
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
-msgstr ""
+msgstr "Gemeenskapsvlakke"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr ""
+msgstr "spel telling %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr ""
+msgstr "tyd gespeel %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
-msgstr ""
+msgstr "Gamaklik"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "Inteken onsuksesvol!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
-msgstr ""
+msgstr "Aflaaivlak..."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:23
 msgid "Connect to server"
-msgstr ""
+msgstr "Koppel aan bediener"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:55
 msgid "IP:"
-msgstr ""
+msgstr "IP:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:63
 msgid "Port:"
-msgstr ""
+msgstr "Poort"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "Sluit aan by 'n ander kamer oor die internet #ff0000ff(eksperimenteel)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
 msgid "Connect"
-msgstr ""
+msgstr "Skakel"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:29
 msgid "Enter password"
-msgstr ""
+msgstr "Tik wagwoord"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:32
 msgid "Join"
-msgstr ""
+msgstr "Sluit aan"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:45
 msgid "Password:"
-msgstr ""
+msgstr "Wagwoord"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:83
 msgid "Configure joysticks"
-msgstr ""
+msgstr "Stel joysticks op"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Swap"
-msgstr ""
+msgstr "Ruil om"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:103
 msgid "Reset"
-msgstr ""
+msgstr "Stel terug"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:23
 msgid "Select multiplayer type"
