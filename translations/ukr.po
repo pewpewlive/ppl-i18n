@@ -40,7 +40,7 @@ msgstr "Грати знову"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr "Смерт :/"
+msgstr "Ви Померли"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -132,7 +132,7 @@ msgstr "Онлайн мультиплеєр"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
 msgid "Play with people around the world!"
-msgstr "Грати з людьми по всьому світу!"
+msgstr "Грати з людьми навколо світу!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
 msgid "LAN multiplayer"
@@ -276,7 +276,7 @@ msgstr "Не вдалося аутентифікаціювати"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
 msgid "Error :("
-msgstr "Помилка :/"
+msgstr "Помилка :("
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Are you sure you want to report this comment?"
@@ -342,7 +342,7 @@ msgstr "Коментар опубліковано"
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
 msgid "Failed to post comment"
-msgstr "Не вдалося опубліковати коментар :/"
+msgstr "Не вдалося опубліковати коментар :("
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
@@ -814,7 +814,7 @@ msgstr "Не вдалося синхронізувати."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:109
 msgid "You've been signed out."
-msgstr "Ви вийшли (Ну і нашо?)."
+msgstr "Ви вийшли."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:143
 msgid "Failed to download backup data"
@@ -1040,7 +1040,7 @@ msgstr "\"Цей рівень жарт, так?\" - бідний тестер"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
-msgstr "Спочивай з миром GW3:Dimension"
+msgstr "Спочивай з миром GW3:Dimensions"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "Previously known as Assault"
