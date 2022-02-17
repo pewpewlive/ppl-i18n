@@ -196,11 +196,11 @@ msgstr "Ρύθμιση Παίκτη"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
-msgstr "Μοντέλο"
+msgstr "Μοντέλα"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
-msgstr "Ουρά"
+msgstr "Ουρές"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Bullets"
