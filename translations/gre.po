@@ -76,7 +76,7 @@ msgstr "Αποτυχία εγγραφής!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
-msgstr "Κατεβαίνει το επίπεδο"
+msgstr "Κατεβαίνει το επίπεδο..."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:23
 msgid "Connect to server"
@@ -132,7 +132,7 @@ msgstr "Διαδικτυακό Multiplayer"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
 msgid "Play with people around the world!"
-msgstr "Παίξε με ανθρώπους από όλο τον κοσμο!"
+msgstr "Παίξτε με ανθρώπους από όλο τον κοσμο!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
 msgid "LAN multiplayer"
@@ -140,7 +140,7 @@ msgstr "LAN multiplayer"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:64
 msgid "Play with people on the same network!"
-msgstr "Παίξε με ανθρώπους στο ίδιο δίκτυο!"
+msgstr "Παίξτε με ανθρώπους στο ίδιο δίκτυο!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
@@ -156,7 +156,7 @@ msgstr "Το Local multiplayer υποστηρίζει 2 παίκτες συνδ�
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:56
 msgid "One player must create a room, which the other player joins."
-msgstr "Ένας παίκτης πρέπει να φτιάξει ενα δωμάτιο, όπου ο άλλος παίκτης μπαίνει."
+msgstr "Ένας παίκτης φτιάχνει ένα δωμάτιο, το οποίο ο άλλος παίκτης μπαίνει."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
@@ -168,7 +168,7 @@ msgstr "Μπορείς και να συνδεθείς σε ένα hotspot!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:59
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Κάθε παίκτης πρέπει να ανεβάσει το replay τους ξεχωριστά για να εμφανιστούν και οι δύο στο διαδικτυακο leader board."
+msgstr "Κάθε παίκτης πρέπει να ανεβάσει το replay τους για να εμφανιστούν στο διαδικτυακό leader board."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:74
 msgid "Multiplayer help"
@@ -184,11 +184,11 @@ msgstr "(Ασύμβατη έκδοση)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:206
 msgid "Create room"
-msgstr "Δημιουργήστε δωμάτιο"
+msgstr "Φτιάξτε δωμάτιο"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:208
 msgid "Close room"
-msgstr "Κλείστε το δωμάτιο"
+msgstr "Κλείστε δωμάτιο"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
