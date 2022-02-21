@@ -336,6 +336,10 @@ msgstr "Comentar"
 msgid "Comment must be at least 3 characters long."
 msgstr "El comentario debe tener al menos 3 caracteres"
 
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:314
+msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
+msgstr ""
+
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:338
