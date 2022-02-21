@@ -22,8 +22,14 @@ msgstr "Falha ao analisar a resposta do servidor"
 msgid "Game is full"
 msgstr "O jogo está lotado"
 
+msgid "High (Dark)"
+msgstr "Alto (Escuro)"
+
 msgid "Level name"
 msgstr "Nome do nível"
+
+msgid "Levels by %s"
+msgstr "Níveis por %s"
 
 msgid "Loading level..."
 msgstr "Carregando nível"
@@ -40,11 +46,17 @@ msgstr "Baixo"
 msgid "Medium"
 msgstr "Médio"
 
+msgid "Minimal (Dark)"
+msgstr "Mínimo (escuro)"
+
 msgid "Missing information. This should not happen!"
 msgstr "Informação perdida. Isso não deveria acontecer!"
 
 msgid "More information"
 msgstr "Mais informações"
+
+msgid "Online profile"
+msgstr "Perfil online"
 
 msgid "Renderer: %s"
 msgstr "Gráficos: %s"
@@ -78,4 +90,7 @@ msgstr "Você já está no jogo!"
 
 msgid "You can finally code your own levels!"
 msgstr "Finalmente você pode codificar seus próprios níveis!"
+
+msgid "by %s"
+msgstr "por %s"
 

@@ -10,8 +10,14 @@ msgstr "カスタムレベル"
 msgid "Custom levels?!"
 msgstr "カスタムレベル！？"
 
+msgid "High (Dark)"
+msgstr "キレイ (ダーク)"
+
 msgid "Level name"
 msgstr "レベルネーム"
+
+msgid "Levels by %s"
+msgstr "サクセイシャ: %s"
 
 msgid "Local Multiplayer"
 msgstr "ローカル マルチプレイ"
@@ -25,8 +31,14 @@ msgstr "ヒクイ"
 msgid "Medium"
 msgstr "マアマア"
 
+msgid "Minimal (Dark)"
+msgstr "ミニマル (ダーク)"
+
 msgid "More information"
 msgstr "モット ヨム"
+
+msgid "Online profile"
+msgstr "オンライン プロフィール"
 
 msgid "Renderer: %s"
 msgstr "レンダラー: %s"
@@ -39,4 +51,7 @@ msgstr "YES!"
 
 msgid "You can finally code your own levels!"
 msgstr "ツイニ レベル デキタ！"
+
+msgid "by %s"
+msgstr "by %s"
 

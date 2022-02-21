@@ -10,6 +10,12 @@ msgstr "Mare Întunecat"
 msgid "Failed to parse server response"
 msgstr "Nu s-a putut folosi răspunsul serverului"
 
+msgid "High (Dark)"
+msgstr "Mare (Întunecat)"
+
+msgid "Levels by %s"
+msgstr "Nivele de %s"
+
 msgid "Local Multiplayer"
 msgstr "Multiplayer local"
 
@@ -25,12 +31,21 @@ msgstr "Medalii: %s"
 msgid "Medium"
 msgstr "Medium"
 
+msgid "Minimal (Dark)"
+msgstr "Minimal (Întunecat)"
+
 msgid "Missing information. This should not happen!"
 msgstr "Informație lipsă. Nu ar trebui să se întâmple asta!"
+
+msgid "Online profile"
+msgstr "Profilul online"
 
 msgid "Renderer: %s"
 msgstr "Renderer: %s"
 
 msgid "The background is expensive to compute"
 msgstr "Fundalul este scump de arătat"
+
+msgid "by %s"
+msgstr "de %s"
 

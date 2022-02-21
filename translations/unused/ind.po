@@ -22,8 +22,14 @@ msgstr "Gagal mengurai respons server"
 msgid "Game is full"
 msgstr "Game penuh"
 
+msgid "High (Dark)"
+msgstr "Tinggi (Gelap)"
+
 msgid "Level name"
 msgstr "Nama level"
+
+msgid "Levels by %s"
+msgstr "Level oleh %s"
 
 msgid "Local Multiplayer"
 msgstr "Multiplayer lokal"
@@ -40,11 +46,17 @@ msgstr "Medali: %s"
 msgid "Medium"
 msgstr "Medium"
 
+msgid "Minimal (Dark)"
+msgstr "Minimal (Gelap)"
+
 msgid "Missing information. This should not happen!"
 msgstr "Informasi hilang. ini seharusnya tidak terjadi!"
 
 msgid "More information"
 msgstr "Lebih banyak info"
+
+msgid "Online profile"
+msgstr "Profil online"
 
 msgid "Renderer: %s"
 msgstr "Perenderan: %s"
@@ -63,4 +75,7 @@ msgstr "Kau sudah berada di dalam game!"
 
 msgid "You can finally code your own levels!"
 msgstr "Kamu akhirnya bisa mengkode level mu sendiri!"
+
+msgid "by %s"
+msgstr "Oleh %s"
 

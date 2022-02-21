@@ -25,8 +25,14 @@ msgstr "Не вдалося проаналізувати відповідь се
 msgid "Game is full"
 msgstr "Гра завантажена на повну"
 
+msgid "High (Dark)"
+msgstr "Висока (Темне)"
+
 msgid "Level name"
 msgstr "Назва рівня"
+
+msgid "Levels by %s"
+msgstr "Рівні від %s"
 
 msgid "Local Multiplayer"
 msgstr "Локальний Мультиплеєр"
@@ -43,11 +49,17 @@ msgstr "Медалі: %s"
 msgid "Medium"
 msgstr "Середня"
 
+msgid "Minimal (Dark)"
+msgstr "Мінімальне (Темне)"
+
 msgid "Missing information. This should not happen!"
 msgstr "Відсутня інформація. Цього не мало статися!"
 
 msgid "More information"
 msgstr "Більше інформації"
+
+msgid "Online profile"
+msgstr "Онлайн профіль"
 
 msgid "Renderer: %s"
 msgstr "Візуалізатор: %s"
@@ -66,4 +78,7 @@ msgstr "Ти вже у грі!"
 
 msgid "You can finally code your own levels!"
 msgstr "Ви нарешті можете кодувати власні рівні!"
+
+msgid "by %s"
+msgstr "Від %s"
 

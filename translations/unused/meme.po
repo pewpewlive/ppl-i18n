@@ -28,8 +28,14 @@ msgstr "Server illegible"
 msgid "Game is full"
 msgstr "No room sry"
 
+msgid "High (Dark)"
+msgstr "Dank elite"
+
 msgid "Level name"
 msgstr "battleground"
+
+msgid "Levels by %s"
+msgstr "Not made by %s"
 
 msgid "Loading level..."
 msgstr "Wasting internet..."
@@ -49,11 +55,17 @@ msgstr "Shiny bois: %s"
 msgid "Medium"
 msgstr "Casual"
 
+msgid "Minimal (Dark)"
+msgstr "Minimal, But darker"
+
 msgid "Missing information. This should not happen!"
 msgstr "Ayo where's the info"
 
 msgid "More information"
 msgstr "Learn me some"
+
+msgid "Online profile"
+msgstr "Gamer info"
 
 msgid "Renderer: %s"
 msgstr "JPEG level: %s"
@@ -87,4 +99,7 @@ msgstr "Bruh you're already here"
 
 msgid "You can finally code your own levels!"
 msgstr "You can now make... some other levels"
+
+msgid "by %s"
+msgstr "brought to you by %s"
 

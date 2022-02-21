@@ -1,0 +1,18 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "High (Dark)"
+msgstr "Υψηλό (Σκοτεινό)"
+
+msgid "Levels by %s"
+msgstr "Επίπεδα απο %s"
+
+msgid "Minimal (Dark)"
+msgstr "Ελάχιστο (Σκοτεινό)"
+
+msgid "Online profile"
+msgstr "Online προφίλ"
+
+msgid "by %s"
+msgstr "από %s"
+

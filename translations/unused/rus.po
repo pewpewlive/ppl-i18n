@@ -28,8 +28,14 @@ msgstr "Не удалось получить ответ от сервера"
 msgid "Game is full"
 msgstr "Нет свободных мест."
 
+msgid "High (Dark)"
+msgstr "Высокий Тёмный"
+
 msgid "Level name"
 msgstr "Уровень"
+
+msgid "Levels by %s"
+msgstr "Уровни от %s"
 
 msgid "Loading level..."
 msgstr "Загрузка уровня..."
@@ -49,11 +55,17 @@ msgstr "Медали: %s"
 msgid "Medium"
 msgstr "Средний"
 
+msgid "Minimal (Dark)"
+msgstr "Низкий Тёмный"
+
 msgid "Missing information. This should not happen!"
 msgstr "Отсутствует информация. Так не должно быть!"
 
 msgid "More information"
 msgstr "Подробная информация"
+
+msgid "Online profile"
+msgstr "Профиль"
 
 msgid "Renderer: %s"
 msgstr "Рендер: %s"
@@ -87,4 +99,7 @@ msgstr "Вы уже находитесь в игре!"
 
 msgid "You can finally code your own levels!"
 msgstr "Теперь уровни можно программировать!"
+
+msgid "by %s"
+msgstr "от %s"
 

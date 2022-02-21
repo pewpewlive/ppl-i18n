@@ -28,8 +28,14 @@ msgstr "Sunucu bağlantısında hata oluşmuş"
 msgid "Game is full"
 msgstr "Oyun dolu"
 
+msgid "High (Dark)"
+msgstr "Yüksek (Koyu)"
+
 msgid "Level name"
 msgstr "Harita adı"
+
+msgid "Levels by %s"
+msgstr "Bu haritalar %s tarafından yapılmıştır"
 
 msgid "Loading level..."
 msgstr "Harita yükleniyor..."
@@ -49,11 +55,17 @@ msgstr "Madelyalar: %s"
 msgid "Medium"
 msgstr "Orta"
 
+msgid "Minimal (Dark)"
+msgstr "Minimal (Koyu)"
+
 msgid "Missing information. This should not happen!"
 msgstr "Bilgi eksikliği. Bu durum gerçekleşmemeli!"
 
 msgid "More information"
 msgstr "Daha fazla bilgi"
+
+msgid "Online profile"
+msgstr "Online profil"
 
 msgid "Renderer: %s"
 msgstr "Gözletim şekli: %s"
@@ -87,4 +99,7 @@ msgstr "Siz zaten oyundasınız!"
 
 msgid "You can finally code your own levels!"
 msgstr "Kendi haritanızı siz de oluşturabilirsiniz!"
+
+msgid "by %s"
+msgstr "kurucu %s tarafından yapılmıştır"
 

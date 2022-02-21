@@ -28,8 +28,14 @@ msgstr "Nepavyko išanalizuoti serverio atsakymo"
 msgid "Game is full"
 msgstr "Žaidimas pilnas"
 
+msgid "High (Dark)"
+msgstr "Aukšta (Tamsi)"
+
 msgid "Level name"
 msgstr "Lygio pavadinimas"
+
+msgid "Levels by %s"
+msgstr "Lygius sukūrė %s"
 
 msgid "Loading level..."
 msgstr "Įkeliamas lygis..."
@@ -49,11 +55,17 @@ msgstr "Medaliai: %s"
 msgid "Medium"
 msgstr "Vidutinė"
 
+msgid "Minimal (Dark)"
+msgstr "Minimali (Tamsi)"
+
 msgid "Missing information. This should not happen!"
 msgstr "Trūksta informacijos. Tai neturėtų atsitikti!"
 
 msgid "More information"
 msgstr "Daugiau informacijos"
+
+msgid "Online profile"
+msgstr "Internetinis profilis"
 
 msgid "Renderer: %s"
 msgstr "Kokybė: %s"
@@ -87,4 +99,7 @@ msgstr "Jūs jau esate žaidime!"
 
 msgid "You can finally code your own levels!"
 msgstr "Pagaliau galite kurti savo lygius!"
+
+msgid "by %s"
+msgstr "sukūrė: %s"
 

@@ -28,8 +28,14 @@ msgstr "Echec du parsing de la reponse du serveur"
 msgid "Game is full"
 msgstr "Partie déjà complète"
 
+msgid "High (Dark)"
+msgstr "Haute (Nuit)"
+
 msgid "Level name"
 msgstr "Nom du niveau"
+
+msgid "Levels by %s"
+msgstr "Niveaux par %s"
 
 msgid "Loading level..."
 msgstr "Niveau en cours de chargement..."
@@ -49,11 +55,17 @@ msgstr "Médailles: %s"
 msgid "Medium"
 msgstr "Moyenne"
 
+msgid "Minimal (Dark)"
+msgstr "Minimale (Nuit)"
+
 msgid "Missing information. This should not happen!"
 msgstr "Manque d'informations. Ça ne devrait pas arriver!"
 
 msgid "More information"
 msgstr "Plus d'info !"
+
+msgid "Online profile"
+msgstr "Profil web"
 
 msgid "Renderer: %s"
 msgstr "Qualité : %s"
@@ -87,4 +99,7 @@ msgstr "Tu es déjà dans la partie !"
 
 msgid "You can finally code your own levels!"
 msgstr "Tu peux ENFIN coder tes propres niveaux !"
+
+msgid "by %s"
+msgstr "par %s"
 

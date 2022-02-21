@@ -28,8 +28,14 @@ msgstr "Neuspješna rasčlaniranje odgovora servera."
 msgid "Game is full"
 msgstr "Igra je puna"
 
+msgid "High (Dark)"
+msgstr "Visoko (Tamno)"
+
 msgid "Level name"
 msgstr "Ime levela"
+
+msgid "Levels by %s"
+msgstr "Leveli od %s"
 
 msgid "Loading level..."
 msgstr "čitavanje levela..."
@@ -49,11 +55,17 @@ msgstr "Medalje: %s"
 msgid "Medium"
 msgstr "Srednje"
 
+msgid "Minimal (Dark)"
+msgstr "Minimalno (Tamno)"
+
 msgid "Missing information. This should not happen!"
 msgstr "Nedostaje informacija. Ovo se ne bih trebalo dogoditi!"
 
 msgid "More information"
 msgstr "Više informacija"
+
+msgid "Online profile"
+msgstr "Online profil"
 
 msgid "Renderer: %s"
 msgstr "Renderer: %s"
@@ -87,4 +99,7 @@ msgstr "Već si u igri!"
 
 msgid "You can finally code your own levels!"
 msgstr "Napokon možete kodirati svoje levele!"
+
+msgid "by %s"
+msgstr "od %s"
 

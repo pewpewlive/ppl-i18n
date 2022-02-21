@@ -7,6 +7,12 @@ msgstr "Life in the sea"
 msgid "Dark High"
 msgstr "Eye of an owl"
 
+msgid "High (Dark)"
+msgstr "Dark vision"
+
+msgid "Levels by %s"
+msgstr "Build 'er %s"
+
 msgid "Lost connection to server"
 msgstr "cant reach thi pier"
 
@@ -19,9 +25,15 @@ msgstr "Doubloons: %s"
 msgid "Medium"
 msgstr "Ye had a normal eye"
 
+msgid "Minimal (Dark)"
+msgstr "Dark Simpleton"
+
 msgid "Missing information. This should not happen!"
 msgstr "Someone touched me booty! what Dirt' sailor!"
 
 msgid "Renderer: %s"
 msgstr "Vision: %s"
+
+msgid "by %s"
+msgstr "Hang %s"
 

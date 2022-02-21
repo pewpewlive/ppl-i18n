@@ -22,8 +22,14 @@ msgstr "Maaliwalas"
 msgid "Failed to parse server response"
 msgstr "Hindi makuha ang tugon ng server"
 
+msgid "High (Dark)"
+msgstr "Maaliwalas"
+
 msgid "Level name"
 msgstr "Pangalan ng level"
+
+msgid "Levels by %s"
+msgstr "Mga level ni %s"
 
 msgid "Local Multiplayer"
 msgstr "Lokal na Multiplayer"
@@ -40,11 +46,17 @@ msgstr "Mga medalya: %s"
 msgid "Medium"
 msgstr "Katamtaman"
 
+msgid "Minimal (Dark)"
+msgstr "Madilim"
+
 msgid "Missing information. This should not happen!"
 msgstr "May nawawala. Hindi pwedeng mangyari 'to!"
 
 msgid "More information"
 msgstr "Iba pang impormasyon"
+
+msgid "Online profile"
+msgstr "Iyong profile"
 
 msgid "Renderer: %s"
 msgstr "Itsura: %s"
@@ -60,4 +72,7 @@ msgstr "Syempre!"
 
 msgid "You can finally code your own levels!"
 msgstr "Pwede ka na mag-code ng sarili mong level!"
+
+msgid "by %s"
+msgstr "ni %s"
 

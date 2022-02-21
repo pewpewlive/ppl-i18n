@@ -28,8 +28,14 @@ msgstr "Nie udało się przeanalizować odpowiedzi serwera"
 msgid "Game is full"
 msgstr "Gra jest pełna"
 
+msgid "High (Dark)"
+msgstr "Wysoki (Ciemny)"
+
 msgid "Level name"
 msgstr "Nazwa poziomu"
+
+msgid "Levels by %s"
+msgstr "Poziomy stworzone przez %s"
 
 msgid "Loading level..."
 msgstr "Ładowanie poziomu"
@@ -49,11 +55,17 @@ msgstr "Medale: %s"
 msgid "Medium"
 msgstr "Średnie"
 
+msgid "Minimal (Dark)"
+msgstr "Minimalny (Ciemny)"
+
 msgid "Missing information. This should not happen!"
 msgstr "Brakuje informacji. To nie powinno się zdarzyć!"
 
 msgid "More information"
 msgstr "Więcej informacji"
+
+msgid "Online profile"
+msgstr "Profil online"
 
 msgid "Renderer: %s"
 msgstr "Renderowanie: %s"
@@ -87,4 +99,7 @@ msgstr "Jesteś już w grze!"
 
 msgid "You can finally code your own levels!"
 msgstr "Wreszcie możesz kodować swoje własne poziomy!"
+
+msgid "by %s"
+msgstr "by %s"
 
