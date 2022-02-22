@@ -16,7 +16,7 @@ msgstr "ок"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Доступно обновление: %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -240,7 +240,7 @@ msgstr "Статистика"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
-msgstr ""
+msgstr "Глобальные рекорды"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:100
 msgid "Configure keyboard"
@@ -338,7 +338,7 @@ msgstr "Минимум 3 символа."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:314
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "Пожалуйста, будьте вежливы. Спам, мат и оскорбления запрещены. Мы оставляем за нами право удалять комментарии, не соответствующие правилам, и блокировать аккаунты, с которых эти комментарии были отправлены."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -470,11 +470,11 @@ msgstr "мировые"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:196
 msgid "High Scores"
-msgstr ""
+msgstr "Рекорды"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:197
 msgid "Speed Runs"
-msgstr ""
+msgstr "Спидраны"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
@@ -586,7 +586,7 @@ msgstr "Не удалось скачать реплей."
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:204
 msgid "Failed to download level."
-msgstr ""
+msgstr "Не удалось скачать уровень."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "Official"
@@ -987,14 +987,14 @@ msgstr "Щиты: %s"
 #: ../client/application/game/ui/views/account_view.cpp:66
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "Уровни"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:69
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "Рекорды"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1002,7 +1002,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:73
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "Главная"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1010,7 +1010,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:265
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "Зарегистрирован: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
