@@ -1,5 +1,14 @@
 [
   {
+    "lang":"afr",
+    "translators":[
+      {
+        "name":"Sadrath",
+        "color":"0x05b627bf"
+      }
+    ]
+  },
+  {
     "lang":"code",
     "translators":[
       {
