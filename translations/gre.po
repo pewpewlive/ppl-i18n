@@ -16,7 +16,7 @@ msgstr "εντάξει"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr "Αναβάθμιση διαθέσιμο %s"
+msgstr "Αναβάθμιση διαθέσιμη %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -474,7 +474,7 @@ msgstr "Yψηλά Σκόρ"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:197
 msgid "Speed Runs"
-msgstr "Γρήγορα ρεκορ"
+msgstr "Γρήγορα ρεκόρ"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
@@ -846,7 +846,7 @@ msgstr "Λογαριασμός"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
 msgid "Not signed in"
-msgstr "Δεν είστε εγγεγραμμένος"
+msgstr "Δεν είστε συνδεδεμένος"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
