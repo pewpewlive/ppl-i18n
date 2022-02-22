@@ -16,7 +16,7 @@ msgstr "Ok();"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Game.IsUpdateAvailable() returned: true %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -240,7 +240,7 @@ msgstr "GameStats.UI"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
-msgstr ""
+msgstr "GameStats.GlobalLdrBrds"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:100
 msgid "Configure keyboard"
@@ -338,7 +338,7 @@ msgstr "if (sizeof(Comment.Text) >= 3) { CommentPostAccess = true; }"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:314
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "if (Comment.Text.find(InfringingWords.list) != std::string::npos) { Comment.Delete(); Comment.Author.Ban(); }"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -470,11 +470,11 @@ msgstr "world"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:196
 msgid "High Scores"
-msgstr ""
+msgstr "HighScores"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:197
 msgid "Speed Runs"
-msgstr ""
+msgstr "SpeedRuns"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
@@ -586,7 +586,7 @@ msgstr "Game.Error = \"Failed replay download\""
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:204
 msgid "Failed to download level."
-msgstr ""
+msgstr "Game.Error = \"Failed level download\""
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "Official"
@@ -987,14 +987,14 @@ msgstr "Data.Shlds = %s"
 #: ../client/application/game/ui/views/account_view.cpp:66
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "GameAcc.Levels"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:69
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "GameAcc.Scores"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1002,7 +1002,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:73
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "GameAcc.General"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1010,7 +1010,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:265
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "GameAcc.JoinDate = %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
