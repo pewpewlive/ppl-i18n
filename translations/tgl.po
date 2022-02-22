@@ -16,7 +16,7 @@ msgstr "ok"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "May bagong update %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -338,7 +338,7 @@ msgstr "Hindi pwedeng maikli sa 3 letra ang komento"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:314
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "Mag-ingat sa sasabihin. Walang pang-iinsulto, pagmumura, at pag-spam. Buburahin namin ang mga komento na nalabag ang nasabing patakaran, at maaari ring ma-ban ang may gawa ng partikular na komento."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -474,7 +474,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:197
 msgid "Speed Runs"
-msgstr ""
+msgstr "Mga Speed Run"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
@@ -586,7 +586,7 @@ msgstr "Hindi ma-download ang replay."
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:204
 msgid "Failed to download level."
-msgstr ""
+msgstr "Hindi ma-download ang level."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "Official"
@@ -987,14 +987,14 @@ msgstr "Proteksyon: %s"
 #: ../client/application/game/ui/views/account_view.cpp:66
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "Mga Level"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:69
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "Mga Record"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1002,7 +1002,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:73
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "Kabuuan"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1010,7 +1010,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:265
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "Araw ng pagsali: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
