@@ -190,6 +190,10 @@
     "lang":"ukr",
     "translators":[
       {
+        "name":"MnHs",
+        "color":"0x0080ffff"
+      },
+      {
         "name":"Quarlify",
         "color":"0x8a2be2ff"
       },
