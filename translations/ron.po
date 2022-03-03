@@ -16,7 +16,7 @@ msgstr "ok"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Versiune nouă valabilă %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -582,11 +582,11 @@ msgstr "Nu s-a putut citi reluarea"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:81
 msgid "Failed to download replay."
-msgstr "Nu s-a putut descărca reluarea"
+msgstr "Nu s-a putut descărca reluarea."
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:204
 msgid "Failed to download level."
-msgstr ""
+msgstr "Nu s-a putut descărca nivelul."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "Official"
@@ -987,14 +987,14 @@ msgstr "Scuturi: %s"
 #: ../client/application/game/ui/views/account_view.cpp:66
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "Nivele"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:69
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "Scoruri"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1002,7 +1002,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:73
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1010,7 +1010,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:265
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "Data creării: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
