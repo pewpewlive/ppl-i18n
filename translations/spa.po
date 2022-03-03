@@ -16,7 +16,7 @@ msgstr "OK"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Actualización disponible %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -144,7 +144,7 @@ msgstr "¡Juega con gente de todo el mundo!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:51
 msgid "LAN multiplayer"
-msgstr "Multijugador en LAN"
+msgstr "Multijugador local"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:62
 msgid "Play with people on the same network!"
@@ -160,11 +160,11 @@ msgstr "Ayuda"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "El Multijugador local permite que 2 jugadores luchen juntos si están conectados a la misma red WIFI."
+msgstr "El multijugador local permite a 2 usuarios jugar juntos en la misma red WIFI."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "One player must create a room, which the other player joins."
-msgstr "Un jugador debe crear una partida, a la que el otro jugador debe unirse."
+msgstr "Un jugador debe crear una partida, a la que el otro jugador puede unirse."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "The wifi network does not have to be connected to the internet."
@@ -176,7 +176,7 @@ msgstr "¡Conectarse a la zona WIFI de un móvil también debería funcionar!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:50
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Cada jugador debe subir la repetición de la partida para que ambos aparezcan en la clasificación en línea."
+msgstr "Cada jugador debe subir la repetición de la partida por separado para que ambos aparezcan en la clasificación en línea."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:65
 msgid "Multiplayer help"
@@ -220,7 +220,7 @@ msgstr "Subir puntuaciones"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:51
 msgid "Nothing to upload!"
-msgstr "¡Nada para subir!"
+msgstr "¡No se puede subir nada!"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:69
 msgid "Failed to upload replays."
@@ -240,7 +240,7 @@ msgstr "Estadísticas"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
-msgstr ""
+msgstr "Clasificación mundial"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:100
 msgid "Configure keyboard"
@@ -293,7 +293,7 @@ msgstr "¿Quieres reportar este comentario?"
 #. Shown in a notification after successfully reporting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
 msgid "Successfully reported comment"
-msgstr "Se ha reportado el comentario"
+msgstr "El comentario ha sido reportado"
 
 #. Shown in a notification if a comment could not be reported.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:160
@@ -334,11 +334,11 @@ msgstr "Comentar"
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:298
 msgid "Comment must be at least 3 characters long."
-msgstr "El comentario debe tener al menos 3 caracteres"
+msgstr "El comentario debe tener al menos 3 caracteres."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:314
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "Por favor, cuida tu lenguaje. Se eliminará cualquier publicación que contenga insultos, lenguaje ofensivo o spam y su autor puede ser vetado."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -402,7 +402,7 @@ msgstr "¡Las traducciones son aportadas por la comunidad!"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
-msgstr "Por defecto"
+msgstr "Idioma por defecto"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
@@ -446,11 +446,11 @@ msgstr "América del Norte"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:35
 msgid "Oceania"
-msgstr "Oceania"
+msgstr "Oceanía"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:36
 msgid "South America"
-msgstr "Sudamerica"
+msgstr "Sudamérica"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:108
 msgid "personal"
@@ -470,11 +470,11 @@ msgstr "Mundial"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:196
 msgid "High Scores"
-msgstr ""
+msgstr "Mejores puntuaciones"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:197
 msgid "Speed Runs"
-msgstr ""
+msgstr "Los más veloces"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
@@ -522,7 +522,7 @@ msgstr "¡Ya estás en la partida!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
 msgid "The room does not exist anymore"
-msgstr "Esta partida ya no existe"
+msgstr "Esa partida ya no existe"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "Room is full"
@@ -534,7 +534,7 @@ msgstr "Tutorial"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:39
 msgid "Room configuration"
-msgstr "Configurar partida"
+msgstr "Configuración de la partida"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
 msgid "2 extra characters (optional):"
@@ -586,7 +586,7 @@ msgstr "No se pudo descargar la partida."
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:204
 msgid "Failed to download level."
-msgstr ""
+msgstr "No se pudo descargar la partida."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "Official"
@@ -980,21 +980,21 @@ msgstr "%sEsperando a otro jugador%s"
 
 #: ../client/application/game/ui/views/game_hud.cpp:48
 msgid "Shield: %s"
-msgstr "Escudos: %s"
+msgstr "Escudo: %s"
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
 #: ../client/application/game/ui/views/account_view.cpp:66
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "Niveles"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:69
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "Puntuaciones"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1002,7 +1002,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:73
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1010,7 +1010,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:265
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "Se unió en %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
