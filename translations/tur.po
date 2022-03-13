@@ -1026,7 +1026,7 @@ msgstr "Yedek verileri yüklemek başarısız"
 
 #: ../client/application/game/player_data/player_data_manager.cpp:266
 msgid "New personal best! %s ⇨ %s"
-msgstr "Yenş kişisel rekor! %s ⇨ %s"
+msgstr "Yeni kişisel rekor! %s ⇨ %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
