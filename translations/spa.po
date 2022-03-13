@@ -338,7 +338,7 @@ msgstr "El comentario debe tener al menos 3 caracteres."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:314
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Por favor, cuida tu lenguaje. Se eliminará cualquier publicación que contenga insultos, lenguaje ofensivo o spam y su autor puede ser vetado."
+msgstr "Por favor, cuide su idioma. Sin insultos, sin palabrotas, sin spam. Podemos eliminar cualquier comentario que infrinja esta regla y bloquear a los infractores."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -1010,7 +1010,7 @@ msgstr "General"
 #: ../client/application/game/ui/views/account_view.cpp:265
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr "Se unió en %s"
+msgstr "Fecha de Ingreso %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
