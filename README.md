@@ -20,14 +20,14 @@ If you want to add support for a new language, create a GitHub Issue so that we 
 the feasibility.
 ## Status
 * [Afrikaans](/translations/afr.po) (11% complete; 236 remaining)
-* [Code](/translations/code.po) (96% complete; 10 remaining)
+* [Code](/translations/code.po) (100% complete! 🎉)
 * [German](/translations/deu.po) (89% complete; 28 remaining)
 * [Greek](/translations/gre.po) (100% complete! 🎉)
 * [French](/translations/fra.po) (96% complete; 10 remaining)
 * [Croatian](/translations/hrv.po) (100% complete! 🎉)
 * [Hungarian](/translations/hun.po) (0% complete; 272 remaining)
 * [Indonesian](/translations/ind.po) (96% complete; 10 remaining)
-* [Italian](/translations/ita.po) (96% complete; 10 remaining)
+* [Italian](/translations/ita.po) (100% complete! 🎉)
 * [Japanese](/translations/jpn.po) (81% complete; 49 remaining)
 * [Korean](/translations/kor.po) (0% complete; 272 remaining)
 * [Lithuanian](/translations/lit.po) (100% complete! 🎉)
@@ -37,12 +37,12 @@ the feasibility.
 * [Pirate Speak](/translations/pirate.po) (79% complete; 57 remaining)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (96% complete; 10 remaining)
-* [Romanian](/translations/ron.po) (96% complete; 10 remaining)
+* [Romanian](/translations/ron.po) (98% complete; 4 remaining)
 * [Russian](/translations/rus.po) (100% complete! 🎉)
-* [Spanish](/translations/spa.po) (96% complete; 10 remaining)
-* [Tagalog](/translations/tgl.po) (96% complete; 10 remaining)
+* [Spanish](/translations/spa.po) (100% complete! 🎉)
+* [Tagalog](/translations/tgl.po) (99% complete; 2 remaining)
 * [Thai](/translations/tha.po) (0% complete; 272 remaining)
 * [Traditional Chinese](/translations/cht.po) (12% complete; 237 remaining)
 * [Turkish](/translations/tur.po) (82% complete; 47 remaining)
 * [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
-> Report generated on Feb 22 2022 08:57:41 UTC
+> Report generated on Apr 01 2022 22:33:44 UTC
