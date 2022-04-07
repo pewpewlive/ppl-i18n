@@ -240,7 +240,7 @@ msgstr "Iyong Nakamit"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
-msgstr ""
+msgstr "Pangkalahatang leaderboard"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:100
 msgid "Configure keyboard"
@@ -470,7 +470,7 @@ msgstr "daigdig"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:196
 msgid "High Scores"
-msgstr ""
+msgstr "Mga High Score"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:197
 msgid "Speed Runs"
