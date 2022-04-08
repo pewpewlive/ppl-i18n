@@ -240,7 +240,7 @@ msgstr "Statistici"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
-msgstr ""
+msgstr "Clasamente globale"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:100
 msgid "Configure keyboard"
@@ -474,7 +474,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:197
 msgid "Speed Runs"
-msgstr ""
+msgstr "Speedrun-uri"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
