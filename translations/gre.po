@@ -200,7 +200,7 @@ msgstr "Κλείστε δωμάτιο"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:47
 msgid "Configure Ship"
-msgstr "Ρύθμιση Παίκτη"
+msgstr "Ρυθμίσεις Παίκτη"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:65
 msgid "Model"
