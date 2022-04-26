@@ -1038,7 +1038,7 @@ msgstr "Н/Д"
 
 #: ../client/application/game/state/game_state.cpp:459
 msgid "Accuracy: %s"
-msgstr "точность: %s"
+msgstr "Точность: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
