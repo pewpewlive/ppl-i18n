@@ -37,12 +37,12 @@ the feasibility.
 * [Pirate Speak](/translations/pirate.po) (79% complete; 57 remaining)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (96% complete; 10 remaining)
-* [Romanian](/translations/ron.po) (98% complete; 4 remaining)
+* [Romanian](/translations/ron.po) (99% complete; 2 remaining)
 * [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (100% complete! 🎉)
-* [Tagalog](/translations/tgl.po) (99% complete; 2 remaining)
+* [Tagalog](/translations/tgl.po) (100% complete! 🎉)
 * [Thai](/translations/tha.po) (0% complete; 272 remaining)
 * [Traditional Chinese](/translations/cht.po) (12% complete; 237 remaining)
 * [Turkish](/translations/tur.po) (82% complete; 47 remaining)
 * [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
-> Report generated on Apr 01 2022 22:33:44 UTC
+> Report generated on Apr 27 2022 12:51:24 UTC
