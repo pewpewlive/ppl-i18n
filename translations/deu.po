@@ -1,10 +1,10 @@
 #: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
-msgstr "on"
+msgstr "an"
 
 #: ../client/application/ui/ui_helpers.cpp:64
 msgid "off"
-msgstr "off"
+msgstr "aus"
 
 #: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
@@ -16,7 +16,7 @@ msgstr "ok"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Update verfügbar %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -36,7 +36,7 @@ msgstr "Pause"
 
 #: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
-msgstr "Wieder anfangen"
+msgstr "Neustarten"
 
 #: ../client/application/game/ui/pause_ui.cpp:72
 msgid "Exit"
@@ -44,7 +44,7 @@ msgstr "Exit"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr "Wieder spielen"
+msgstr "Nochmal Spielen"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
@@ -84,7 +84,7 @@ msgstr "Anmeldung fehlgeschlagen!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
-msgstr "Lagen des Levels..."
+msgstr "Level Werden Heruntergeladen..."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
