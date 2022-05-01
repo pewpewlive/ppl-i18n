@@ -20,11 +20,11 @@ msgstr "更新はあります %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
-msgstr "イチジテイシ"
+msgstr "一時停止"
 
 #: ../client/application/game/game.cpp:169
 msgid "Quick pause %s"
-msgstr "イチジテイシ %s"
+msgstr "一時停止 %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
@@ -32,7 +32,7 @@ msgstr "続ける"
 
 #: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
-msgstr "イチジテイシ"
+msgstr "一時停止"
 
 #: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
@@ -40,11 +40,11 @@ msgstr "やり直す"
 
 #: ../client/application/game/ui/pause_ui.cpp:72
 msgid "Exit"
-msgstr "ヤメル"
+msgstr "終了"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr "モウイチド"
+msgstr "もう一度"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
@@ -88,7 +88,7 @@ msgstr "レベル ダウンロードチュウ"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
-msgstr "サーバーニ セツゾク"
+msgstr "サーバーに接続"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
 msgid "IP:"
@@ -104,7 +104,7 @@ msgstr "インターネットヲ ツカイ ルームニ ハイリマス #ff0000f
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
-msgstr "セツゾク"
+msgstr "接続"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
 msgid "Enter password"
@@ -112,7 +112,7 @@ msgstr "パスワード ニュウリョク"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
 msgid "Join"
-msgstr "入る"
+msgstr "参加"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:40
 msgid "Password:"
@@ -140,7 +140,7 @@ msgstr "オンライン マルチプレイ"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:36
 msgid "Play with people around the world!"
-msgstr "セカイジュウノ ヒトト プレイ！"
+msgstr "世界中の人とプレイ！"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:51
 msgid "LAN multiplayer"
@@ -212,7 +212,7 @@ msgstr "シッポ"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:65
 msgid "Bullets"
-msgstr "ダンガン"
+msgstr "弾丸"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:20
 msgid "Upload scores"
@@ -317,12 +317,12 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:196
 msgid "Are you sure you want to delete this comment?"
-msgstr "コメントを削除しますか?"
+msgstr "本当にコメントを削除しますか?"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:277
 msgid "<Add a comment here>"
-msgstr ""
+msgstr "「コメント入力」"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
@@ -366,7 +366,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:270
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr ""
+msgstr "コメントを追加"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -390,7 +390,7 @@ msgstr "いいえ"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
 msgid "Refresh"
-msgstr "コウシン"
+msgstr "更新"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
@@ -402,7 +402,7 @@ msgstr "ホンヤクハ コミュニティカラ サクセイサレマシタ！"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
-msgstr "デフォルト ゲンゴ"
+msgstr "デフォルト言語"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
@@ -410,7 +410,7 @@ msgstr "キョウリョクスル"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:53
 msgid "Contributors"
-msgstr "サンカシャ"
+msgstr "参加者"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
 msgid "1p"
@@ -442,7 +442,7 @@ msgstr "ヨーロッパ"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:34
 msgid "North America"
-msgstr "キタ アメリカ"
+msgstr "北アメリカ"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:35
 msgid "Oceania"
@@ -450,7 +450,7 @@ msgstr "オセアニア"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:36
 msgid "South America"
-msgstr "ミナミ アメリカ"
+msgstr "南アメリカ"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:108
 msgid "personal"
@@ -514,7 +514,7 @@ msgstr "ルーム サンカ シッパイ"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:373
 msgid "Incorrect password"
-msgstr "パスワード ガ チガイマス"
+msgstr "パスワードが違います"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:376
 msgid "You are already in the room!"
@@ -522,7 +522,7 @@ msgstr "ルームニ ハイッテイマス"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
 msgid "The room does not exist anymore"
-msgstr "ルームガ アリマセン"
+msgstr "ルームがありません"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "Room is full"
@@ -558,7 +558,7 @@ msgstr "音楽"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
-msgstr "セツゾク エラー"
+msgstr "接続エラー"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
 msgid "Lost connection to host"
@@ -634,7 +634,7 @@ msgstr "ローカル ベスト: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:49
 msgid "Loading..."
-msgstr "ヨミコミチュウ..."
+msgstr "読み込み中..."
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:84
 msgid "Error reading manifest"
@@ -654,7 +654,7 @@ msgstr "ジッケンテキ レベル"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
-msgstr "ソウサ セッテイ"
+msgstr "コントロール設定"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:25
 msgid "Touchscreen"
@@ -694,7 +694,7 @@ msgstr "言語"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:134
 msgid "Start tutorial"
-msgstr "チュートリアル カイシ"
+msgstr "チュートリアル開始"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:144
 msgid "Launch intro"
@@ -718,7 +718,7 @@ msgstr "オンライン ロビー"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:198
 msgid "Ready"
-msgstr "ジュンビカンリョウ"
+msgstr "準備完了"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:207
 msgid "Cancel"
@@ -726,11 +726,11 @@ msgstr "キャンセル"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:350
 msgid "Waiting for other players..."
-msgstr "ホカノ プレイヤーヲ マッテイマス..."
+msgstr "ほかのプレイヤーを待っています..."
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
 msgid "Change colors"
-msgstr ""
+msgstr "色を変更する"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
 msgid "Old username:"
@@ -742,7 +742,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
 msgid "Change"
-msgstr ""
+msgstr "変更"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
 msgid "Only change colors! %s"
@@ -802,11 +802,11 @@ msgstr "パスワード"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
 msgid "Signing in"
-msgstr "サインイン ナウ"
+msgstr "サインイン中"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
-msgstr "サインイン セイコウ!"
+msgstr "サインインしました!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
 msgid "Email not verified"
@@ -858,15 +858,15 @@ msgstr "トウロク"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
 msgid "Privacy Policy"
-msgstr "プライバシー ポリシー"
+msgstr "プライバシーポリシー"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
 msgid "You need to be signed-in to upload scores"
-msgstr "スコア アップロード ニハ サインインガ ヒツヨウデス"
+msgstr "スコアをアップロードにはサインインが必要です"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to play online"
-msgstr "オンライン プレイ ニハ サインインガ ヒツヨウデス"
+msgstr "オンラインプレイにはサインインが必要です"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
@@ -880,15 +880,15 @@ msgstr "あなたのアカウント"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:22
 msgid "Email is invalid!"
-msgstr "Email ガ ムコウデス"
+msgstr "Emailが無効です"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:47
 msgid "Too short. Minimum %s characters."
-msgstr "ミジカイ。%s モジ イジョウ"
+msgstr "短すぎる。%s文字以上"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:54
 msgid "Too long. Maximum %s characters."
-msgstr "ナガスギル。サイダイ %s モジ マデ"
+msgstr "長すぎる。最大は%s文字です"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:71
 msgid "Register account"
@@ -900,11 +900,11 @@ msgstr "ユーザーネーム"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
 msgid "Confirm password"
-msgstr "パスワード サイニュウリョク"
+msgstr "パスワード再入力"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:83
 msgid "Confirm email"
-msgstr "Email サイニュウリョク"
+msgstr "Email再入力"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:132
 msgid "Registering"
@@ -928,7 +928,7 @@ msgstr "ユーザーネーム (イロガ ツケラレル!)"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
 msgid "Confirm password:"
-msgstr "パスワード サイニュウリョク:"
+msgstr "パスワード再入力:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
 msgid "Email:"
@@ -936,7 +936,7 @@ msgstr "Email:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
 msgid "Confirm email:"
-msgstr "Email サイニュウリョク:"
+msgstr "Email再入力:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:212
 msgid "Passwords do not match!"
@@ -1014,11 +1014,11 @@ msgstr ""
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
-msgstr "レビューチュウ"
+msgstr "レビュー中"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:135
 msgid "You've been signed out."
-msgstr "サインアウト シマシタ"
+msgstr "サインアウトしました"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:175
 msgid "Failed to download backup data"
