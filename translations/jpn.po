@@ -16,7 +16,7 @@ msgstr "OK"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "更新はあります %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -28,7 +28,7 @@ msgstr "イチジテイシ %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
-msgstr "ツヅケル"
+msgstr "続ける"
 
 #: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
@@ -36,7 +36,7 @@ msgstr "イチジテイシ"
 
 #: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
-msgstr "ヤリナオス"
+msgstr "やり直す"
 
 #: ../client/application/game/ui/pause_ui.cpp:72
 msgid "Exit"
@@ -72,7 +72,7 @@ msgstr "プレイ シタ"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr "プレイ ジカン"
+msgstr "プレイ時間: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
@@ -112,7 +112,7 @@ msgstr "パスワード ニュウリョク"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
 msgid "Join"
-msgstr "ハイル"
+msgstr "入る"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:40
 msgid "Password:"
@@ -148,7 +148,7 @@ msgstr "LAN マルチプレイ"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:62
 msgid "Play with people on the same network!"
-msgstr "オナジ ネットワークノ ヒトト プレイ！"
+msgstr "同じネットワークの人とプレイ！"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
@@ -192,15 +192,15 @@ msgstr "(ゴカンセイ ナシ バージョン)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:195
 msgid "Create room"
-msgstr "ルーム サクセイ"
+msgstr "ルームを作る"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:197
 msgid "Close room"
-msgstr "ルームヲ トジル"
+msgstr "ルームを閉じる"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:47
 msgid "Configure Ship"
-msgstr "シップ セッテイ"
+msgstr "シップ設定"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:65
 msgid "Model"
@@ -220,7 +220,7 @@ msgstr "スコア アップロード"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:51
 msgid "Nothing to upload!"
-msgstr "アップロード スルモノ ナシ"
+msgstr "アップロードする物はありません"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:69
 msgid "Failed to upload replays."
@@ -244,7 +244,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:100
 msgid "Configure keyboard"
-msgstr "キーボード セッテイ"
+msgstr "キーボード設定"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
 msgid "Move"
@@ -260,7 +260,7 @@ msgstr "マウス エイム %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:65
 msgid "Checking network..."
-msgstr ""
+msgstr "ネットワークをチェックしています"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:82
 msgid "Can't play in multiplayer with a symmetric NAT."
@@ -276,7 +276,7 @@ msgstr "ニンショウチュウ"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "Need the latest version of the game."
-msgstr "ゲームヲ コウシン シテクダサイ"
+msgstr "ゲームを更新してください"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:115
 msgid "Failed to authenticate"
@@ -303,12 +303,12 @@ msgstr ""
 #. The title of the screen where players delete comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:189
 msgid "Delete comment"
-msgstr ""
+msgstr "コメントを削除"
 
 #. Shown in a notification after successfully deleting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:191
 msgid "Successfully deleted comment"
-msgstr ""
+msgstr "コメントを削除しました"
 
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:193
@@ -317,7 +317,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:196
 msgid "Are you sure you want to delete this comment?"
-msgstr ""
+msgstr "コメントを削除しますか?"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:277
@@ -328,7 +328,7 @@ msgstr ""
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:292
 msgid "Comment"
-msgstr ""
+msgstr "コメント"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
@@ -376,7 +376,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:426
 msgctxt "menu_confirm_action"
 msgid "Yes"
-msgstr ""
+msgstr "はい"
 
 #. Displayed in a button. The button is used in menus asking whether to
 #. confirm an action.
@@ -386,7 +386,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:439
 msgctxt "menu_cancel_action"
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
 msgid "Refresh"
@@ -394,7 +394,7 @@ msgstr "コウシン"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
-msgstr "ゲンゴ セッテイ"
+msgstr "言語設定"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:20
 msgid "The translations are community provided!"
@@ -470,11 +470,11 @@ msgstr "グローバル"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:196
 msgid "High Scores"
-msgstr ""
+msgstr "高得点"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:197
 msgid "Speed Runs"
-msgstr ""
+msgstr "スピードラン"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
@@ -526,7 +526,7 @@ msgstr "ルームガ アリマセン"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "Room is full"
-msgstr "ルームガ イッパイデス"
+msgstr "ルームがいっぱいです"
 
 #: ../client/application/game/ui/screens/screen_tutorial.cpp:31
 msgid "Tutorial"
@@ -534,11 +534,11 @@ msgstr "チュートリアル"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:39
 msgid "Room configuration"
-msgstr "ルーム セッテイ"
+msgstr "ルーム設定"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
 msgid "2 extra characters (optional):"
-msgstr "2モジ ツケタス (オプション)"
+msgstr "2文字 ツケタス (オプション)"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
 msgid "Password (optional):"
@@ -546,7 +546,7 @@ msgstr "パスワード (オプション)"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
 msgid "Any level"
-msgstr "スベテノ レベル"
+msgstr "すべてのレベル"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:180
 msgid "Room name: %s"
@@ -554,7 +554,7 @@ msgstr "ルームネーム: %s"
 
 #: ../client/application/game/ui/screens/screen_informations_music.cpp:23
 msgid "Music"
-msgstr "オンガク"
+msgstr "音楽"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -566,11 +566,11 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:18
 msgid "Audio Settings"
-msgstr "オーディオ セッテイ"
+msgstr "オーディオ設定"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:30
 msgid "Sound effects"
-msgstr "コウカオン"
+msgstr "サウンドエフェクト"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:109
 msgid "Visualization"
@@ -618,7 +618,7 @@ msgstr "#ffff00ffジッケンテキ#ffffffff レベル... マダ リリース �
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:95
 msgid "About the levels"
-msgstr "レベル ニ ツイテ"
+msgstr "レベルについて"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:138
 msgid "Experimental levels"
@@ -678,7 +678,7 @@ msgstr "Discord サーバー"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:34
 msgid "Settings"
-msgstr "セッテイ"
+msgstr "設定"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:77
 msgid "Controls"
@@ -690,7 +690,7 @@ msgstr "オーディオ"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:96
 msgid "Language"
-msgstr "ゲンゴ"
+msgstr "言語"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:134
 msgid "Start tutorial"
@@ -876,7 +876,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
-msgstr "アナタノ アカウント"
+msgstr "あなたのアカウント"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:22
 msgid "Email is invalid!"
@@ -916,7 +916,7 @@ msgstr "トウロク セイコウ"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:141
 msgid "Please check your emails!"
-msgstr "Emailヲ チェック シテクダサイ!"
+msgstr "Emailをチェックしてください!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
 msgid "Failed to register"
@@ -956,7 +956,7 @@ msgstr "サインアウト"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:61
 msgid "Delete account"
-msgstr ""
+msgstr "アカウントを削除"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:76
 msgid "Account deletion"
