@@ -16,7 +16,7 @@ msgstr "OK"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr "更新はあります %s"
+msgstr "更新があります %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
