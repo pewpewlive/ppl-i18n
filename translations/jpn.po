@@ -60,7 +60,7 @@ msgstr "サーバー セツゾク シッパイ"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
-msgstr "オフィシャル"
+msgstr "オフィシャル レベル"
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
@@ -112,7 +112,7 @@ msgstr "パスワード ニュウリョク"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
 msgid "Join"
-msgstr "参加"
+msgstr "入る"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:40
 msgid "Password:"
@@ -132,7 +132,7 @@ msgstr "リセット"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:21
 msgid "Select multiplayer type"
-msgstr "マルチプレイ タイプ センタク"
+msgstr "マルチプレイ タイプ 選択"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:25
 msgid "Online multiplayer"
@@ -184,7 +184,7 @@ msgstr "マルチプレイ ヘルプ"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:114
 msgid "Searching for rooms..."
-msgstr "ルーム ケンサクチュウ"
+msgstr "ルーム検索中..."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:175
 msgid "(Incompatible version)"
@@ -192,7 +192,7 @@ msgstr "(ゴカンセイ ナシ バージョン)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:195
 msgid "Create room"
-msgstr "ルームを作る"
+msgstr "ルームを作成"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:197
 msgid "Close room"
@@ -248,11 +248,11 @@ msgstr "キーボード設定"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
 msgid "Move"
-msgstr "イドウ"
+msgstr "移動"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:113
 msgid "Shoot"
-msgstr "シャゲキ"
+msgstr "射撃"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:174
 msgid "Mouse aim %s"
@@ -272,7 +272,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:93
 msgid "Authenticating..."
-msgstr "ニンショウチュウ"
+msgstr "認証中..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "Need the latest version of the game."
@@ -280,7 +280,7 @@ msgstr "ゲームを更新してください"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:115
 msgid "Failed to authenticate"
-msgstr "ニンショウ シッパイ"
+msgstr "認証失敗"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:137
 msgid "Error :("
@@ -360,7 +360,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:155
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr ""
+msgstr "コメントを通報"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:270
@@ -398,7 +398,7 @@ msgstr "言語設定"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:20
 msgid "The translations are community provided!"
-msgstr "ホンヤクハ コミュニティカラ サクセイサレマシタ！"
+msgstr "翻訳はコミュニティから作成されました！"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
@@ -406,7 +406,7 @@ msgstr "デフォルト言語"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
-msgstr "キョウリョクスル"
+msgstr "協力する"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:53
 msgid "Contributors"
@@ -454,7 +454,7 @@ msgstr "南アメリカ"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:108
 msgid "personal"
-msgstr "コジン"
+msgstr "個人"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:108
 msgid "region"
@@ -494,7 +494,7 @@ msgstr "マルチプレイ"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:291
 msgid "Joining room"
-msgstr "ルーム サンカチュウ"
+msgstr "ルーム参加中"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:291
 msgid "Creating room"
@@ -502,15 +502,15 @@ msgstr "ルーム サクセイ"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:330
 msgid "The room expired"
-msgstr "ルーム キゲンギレ"
+msgstr "ルームが失効でした"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:344
 msgid "Unknown error"
-msgstr "ナゾノ エラー"
+msgstr "謎のエラー"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:359
 msgid "Failed to join room"
-msgstr "ルーム サンカ シッパイ"
+msgstr "ルーム参加失敗"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:373
 msgid "Incorrect password"
@@ -518,7 +518,7 @@ msgstr "パスワードが違います"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:376
 msgid "You are already in the room!"
-msgstr "ルームニ ハイッテイマス"
+msgstr "もうルームに入っています!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
 msgid "The room does not exist anymore"
@@ -538,11 +538,11 @@ msgstr "ルーム設定"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
 msgid "2 extra characters (optional):"
-msgstr "2文字 ツケタス (オプション)"
+msgstr "2文字 ツケタス (オプション):"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
 msgid "Password (optional):"
-msgstr "パスワード (オプション)"
+msgstr "パスワード (オプション):"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
 msgid "Any level"
@@ -598,11 +598,11 @@ msgstr "コミュニティ"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
 msgid "Experimental"
-msgstr "ジッケンテキ"
+msgstr "実験的"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:77
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffオフィシャル#ffffffff レベルハ ワタシ (JF) ガ ツクッタ。 メダルヲ カクトク デキル"
+msgstr "#ffff00ffオフィシャル#ffffffff レベルは私 (JF) が作った。 メダルを獲得できる"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
@@ -610,7 +610,7 @@ msgstr "#ffff00ffコミュニティ#ffffffff , ツマリ キミタチガ ツク�
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "クワシクハ コチラ github.com/jyaif/ppl-utils"
+msgstr "もっと詳しい情報がこちら github.com/jyaif/ppl-utils"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:80
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
@@ -622,7 +622,7 @@ msgstr "レベルについて"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:138
 msgid "Experimental levels"
-msgstr "ジッケンテキ レベル"
+msgstr "実験的なレベル"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:31
 msgid "World record: %s"
@@ -638,19 +638,19 @@ msgstr "読み込み中..."
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:84
 msgid "Error reading manifest"
-msgstr "マニフェスト ヨミコミ シッパイ"
+msgstr "マニフェスト読み込み失敗"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:89
 msgid "Failed to download manifest"
-msgstr "マニフェスト ダウンロード シッパイ"
+msgstr "マニフェスト ダウンロード 失敗"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:203
 msgid "average score: %s"
-msgstr "ヘイキン スコア"
+msgstr "平均スコア: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:324
 msgid "Experimental level"
-msgstr "ジッケンテキ レベル"
+msgstr "実験的なレベル"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
@@ -670,7 +670,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:62
 msgid "Development videos"
-msgstr "カイハツ エイゾウ"
+msgstr "開発動画"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:104
 msgid "Discord server"
@@ -698,15 +698,15 @@ msgstr "チュートリアル開始"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:144
 msgid "Launch intro"
-msgstr "イントロ キドウ"
+msgstr "イントロ起動"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:152
 msgid "Developer mode"
-msgstr "カイハツシャ モード"
+msgstr "開発者モード"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:203
 msgid "Vibration %s"
-msgstr "シンドウ %s"
+msgstr "バイブ %s"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:189
 msgid "Local lobby"
@@ -734,11 +734,11 @@ msgstr "色を変更する"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
 msgid "Old username:"
-msgstr ""
+msgstr "古ユーザーネーム:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
 msgid "New username:"
-msgstr ""
+msgstr "新ユーザーネーム:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
 msgid "Change"
@@ -746,15 +746,15 @@ msgstr "変更"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "色だけを変更してください! %s"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
 msgid "Username color change"
-msgstr ""
+msgstr "ユーザーネームの色を変更する"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
-msgstr ""
+msgstr "ユーザーネームを変更しました"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
 msgid "Failed to update username"
