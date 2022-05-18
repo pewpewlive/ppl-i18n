@@ -28,7 +28,7 @@ the feasibility.
 * [Hungarian](/translations/hun.po) (0% complete; 272 remaining)
 * [Indonesian](/translations/ind.po) (96% complete; 10 remaining)
 * [Italian](/translations/ita.po) (100% complete! 🎉)
-* [Japanese](/translations/jpn.po) (87% complete; 34 remaining)
+* [Japanese](/translations/jpn.po) (89% complete; 28 remaining)
 * [Korean](/translations/kor.po) (0% complete; 272 remaining)
 * [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * [Meme-nglish](/translations/meme.po) (100% complete! 🎉)
@@ -45,4 +45,4 @@ the feasibility.
 * [Traditional Chinese](/translations/cht.po) (12% complete; 237 remaining)
 * [Turkish](/translations/tur.po) (82% complete; 47 remaining)
 * [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
-> Report generated on May 02 2022 14:54:03 UTC
+> Report generated on May 18 2022 16:24:05 UTC
