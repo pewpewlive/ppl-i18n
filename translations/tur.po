@@ -16,7 +16,7 @@ msgstr "tamam"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Güncelleme hazır"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -44,7 +44,7 @@ msgstr "Çık"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr "Yeniden oyna"
+msgstr "Tekrar oyna"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
@@ -72,7 +72,7 @@ msgstr "oynama sayısı %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr "oynama zamanı %s"
+msgstr "oynanan zamanı %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
@@ -80,7 +80,7 @@ msgstr "Sıralamasız"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr "Giriş yapımı gerçekleşmemiş!"
+msgstr "Giriş başarısız"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
@@ -100,7 +100,7 @@ msgstr "Port:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "İnternet vasıtasıyla başka bşr odaya bağlan #ff0000ff(deneysel)"
+msgstr "İnternet aracılığıyla başka bir odaya bağlan #ff0000ff(deneysel)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
@@ -140,7 +140,7 @@ msgstr "Online çok oyunculu"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:36
 msgid "Play with people around the world!"
-msgstr "Dünya çapından kişilerle birlikte oyna!"
+msgstr "Dünya çapında kişilerle birlikte oyna!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:51
 msgid "LAN multiplayer"
@@ -164,7 +164,7 @@ msgstr "Yerel çok oyunculu oyunlar aynı wifi ağına bağlanan iki oyuncu aras
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "One player must create a room, which the other player joins."
-msgstr "Bir oyuncu odayı kurur, diğer oyuncu ise bu odaya katılır."
+msgstr "Bir oyuncu odayı kurar, diğer oyuncu ise bu odaya katılır."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "The wifi network does not have to be connected to the internet."
@@ -172,11 +172,11 @@ msgstr "Wifi ağı internete bağlanmak zorunda değil."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "Telefon erişim noktasına bağlanmak da çalışabilir!"
+msgstr "Telefon erişim noktasına da bağlanabilir!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:50
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Puan tablosunda iki oyuncunun da gözükmesi için her oyuncu ayrı bir şekilde tekrarlamayı yüklemeleri lazım."
+msgstr "Puan tablosunda iki oyuncunun da görünmesi için her oyuncu ayrı bir şekilde tekrarlamayı yüklemeleri lazım."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:65
 msgid "Multiplayer help"
@@ -192,7 +192,7 @@ msgstr "(Uyumsuz sürüm)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:195
 msgid "Create room"
-msgstr "Oday kur"
+msgstr "Oda kur"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:197
 msgid "Close room"
@@ -212,11 +212,11 @@ msgstr "Kuyruk"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:65
 msgid "Bullets"
-msgstr "Mermi"
+msgstr "Mermiler"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:20
 msgid "Upload scores"
-msgstr "Tekrarlamaları yükle"
+msgstr "Skorunu yükle"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:51
 msgid "Nothing to upload!"
@@ -240,7 +240,7 @@ msgstr "İstatistikler"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
-msgstr ""
+msgstr "Dünya çapında en iyiler"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:100
 msgid "Configure keyboard"
@@ -260,15 +260,15 @@ msgstr "Fare ile hedefleme %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:65
 msgid "Checking network..."
-msgstr ""
+msgstr "Bağlantı kontrol ediliyor"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:82
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Çok oyuncu symmetric NAT ile oynayamaz"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:86
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "STUN serverlerine bağlantı başarısız"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:93
 msgid "Authenticating..."
@@ -288,85 +288,85 @@ msgstr "Hata :("
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:156
 msgid "Are you sure you want to report this comment?"
-msgstr ""
+msgstr "Bu yorumu bildirmek istediğinize emin misiniz?"
 
 #. Shown in a notification after successfully reporting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
 msgid "Successfully reported comment"
-msgstr ""
+msgstr "Yorum başarıyla iletildi"
 
 #. Shown in a notification if a comment could not be reported.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:160
 msgid "Error reporting comment"
-msgstr ""
+msgstr "Yorum iletiminde hata"
 
 #. The title of the screen where players delete comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:189
 msgid "Delete comment"
-msgstr ""
+msgstr "Yorumu sil"
 
 #. Shown in a notification after successfully deleting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:191
 msgid "Successfully deleted comment"
-msgstr ""
+msgstr "Yorum başarıyla silindi"
 
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:193
 msgid "Error deleting comment"
-msgstr ""
+msgstr "Yorum siliminde hata"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:196
 msgid "Are you sure you want to delete this comment?"
-msgstr ""
+msgstr "Bu yorumu silmek istediğinize emin misiniz"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:277
 msgid "<Add a comment here>"
-msgstr ""
+msgstr "<Yorumu buraya ekleyiniz>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:292
 msgid "Comment"
-msgstr ""
+msgstr "Yorum"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:298
 msgid "Comment must be at least 3 characters long."
-msgstr ""
+msgstr "Yorum en az üç karakter içermelidir"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:314
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "Lütfen söylemlerinize dikkat ediniz. Hakaret, küfür, ve spam kullanmayınızç Bu tarz söylemlerı içeren yorumlar silinecek ve oyuncular oyundan atılacaktır"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:338
 msgid "Posting comment"
-msgstr ""
+msgstr "Yorum yükleniyor"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:359
 msgid "Comment posted"
-msgstr ""
+msgstr "Yorum yüklendi"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:363
 msgid "Failed to post comment"
-msgstr ""
+msgstr "Yorum yüklenemedi"
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:155
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr ""
+msgstr "Yorumu bildir"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:270
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr ""
+msgstr "Yorum ekle"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -376,7 +376,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:426
 msgctxt "menu_confirm_action"
 msgid "Yes"
-msgstr ""
+msgstr "Evet"
 
 #. Displayed in a button. The button is used in menus asking whether to
 #. confirm an action.
@@ -386,7 +386,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:439
 msgctxt "menu_cancel_action"
 msgid "No"
-msgstr ""
+msgstr "Hayır"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
 msgid "Refresh"
@@ -406,7 +406,7 @@ msgstr "Varsayılan dil"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
-msgstr "Yardım ver"
+msgstr "Yardım et"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:53
 msgid "Contributors"
@@ -470,7 +470,7 @@ msgstr "dünya"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:196
 msgid "High Scores"
-msgstr ""
+msgstr "Yüksek skorlar"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:197
 msgid "Speed Runs"
@@ -510,7 +510,7 @@ msgstr "Bilinmeyen bir hata oluştu"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:359
 msgid "Failed to join room"
-msgstr "Odaya katılmak başarısız"
+msgstr "Odaya katılma başarısız"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:373
 msgid "Incorrect password"
@@ -522,7 +522,7 @@ msgstr "Siz zaten odadasınız!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
 msgid "The room does not exist anymore"
-msgstr "Oda artık yok"
+msgstr "Bu oda artık yok"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "Room is full"
@@ -562,7 +562,7 @@ msgstr "Bağlanma hatası"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Bağlantı başarısız"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:18
 msgid "Audio Settings"
@@ -578,15 +578,15 @@ msgstr "Görselleştirme"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:54
 msgid "Failed to read replay."
-msgstr "Tekrarlama okuması başarısız."
+msgstr "Tekrar oynama yüklenemedi."
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:81
 msgid "Failed to download replay."
-msgstr "Tekrarlama yüklemesi başarısız."
+msgstr "Tekrar oynama indirilemedi"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:204
 msgid "Failed to download level."
-msgstr ""
+msgstr "Seviye indirilemedi"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "Official"
@@ -662,11 +662,11 @@ msgstr "Dokunmatik ekran"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Keyboard"
-msgstr "Klaviye"
+msgstr "Klavye"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:36
 msgid "Directed by %s"
-msgstr ""
+msgstr "%s tarafından üretilmiştir"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:62
 msgid "Development videos"
@@ -730,35 +730,35 @@ msgstr "Diğer oyuncular bekleniyor..."
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
 msgid "Change colors"
-msgstr ""
+msgstr "Renkleri değiştir"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
 msgid "Old username:"
-msgstr ""
+msgstr "Eski kullanıcı adı"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
 msgid "New username:"
-msgstr ""
+msgstr "Yeni kullanıcı adı"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
 msgid "Change"
-msgstr ""
+msgstr "Değiştir"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Sadece %s renklerini değiştir"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
 msgid "Username color change"
-msgstr ""
+msgstr "Kullanıcı adı renklerini değiştir"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Kullanıcı adı değişikliği başarılı"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
 msgid "Failed to update username"
-msgstr ""
+msgstr "Kullanıcı adı değişikliği başarısız"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:29
 msgid "Requesting verification email"
@@ -872,7 +872,7 @@ msgstr "Online oynamak için giriş yapmış olmalısınız"
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
 msgid "You need to be signed-in to view comments"
-msgstr ""
+msgstr "Yorumları görmek için hesabınıza giriş yapınız"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
@@ -956,27 +956,27 @@ msgstr "Çıkış yap"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:61
 msgid "Delete account"
-msgstr ""
+msgstr "Hesabı sil"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:76
 msgid "Account deletion"
-msgstr ""
+msgstr "Hesap silimi"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:83
 msgid "Account deletion requested."
-msgstr ""
+msgstr "Hesap silim talebi"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:85
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "Onay emaili gönderilmiştir"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:90
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Hesap silim isteği başarısız"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:55
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sDiğer oyuncular bekleniyor%s"
 
 #: ../client/application/game/ui/views/game_hud.cpp:48
 msgid "Shield: %s"
@@ -987,14 +987,14 @@ msgstr "Kalkan: %s"
 #: ../client/application/game/ui/views/account_view.cpp:66
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "Seviyeler"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:69
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "Skorlar"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1002,7 +1002,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:73
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "Genel"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1010,7 +1010,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:265
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "Katılma tarihi: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
@@ -1042,11 +1042,11 @@ msgstr "Doğruluk oranı: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
-msgstr "Her şeyden uzaklaş ve SAĞ olursun"
+msgstr "Kazanmak için her şeyden kaç "
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
-msgstr "kısaca Bundan Uzaklaş"
+msgstr "kısaca Bundan kaç"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Green good. Red bad."
@@ -1066,7 +1066,7 @@ msgstr "Kendi zorluk seviyesini seç"
 
 #: ../client/application/game/levels/game_levels.cpp:107
 msgid "Euclidean space is overrated"
-msgstr "Normal yer anlayışı sıkıcı"
+msgstr "Normal yer anlayışı abartılı"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "Just 32 seconds of skills"
@@ -1086,7 +1086,7 @@ msgstr "\"Bu harita bir şaka değil mi?\" - bir oyuncu"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
-msgstr "GW3:Dimensions'a geri dönüşler"
+msgstr "GW3:Dimensions'a Allah rahmet eylesin"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "Previously known as Assault"
@@ -1135,4 +1135,3 @@ msgstr "Aşırı düşük x16"
 #: ../client/application/graphics/renderers/renderer_types.cpp:25
 msgid "Ultra low 32x"
 msgstr "Aşırı düşük x32"
-
