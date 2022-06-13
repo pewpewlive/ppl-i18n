@@ -180,7 +180,7 @@ msgstr "Чтобы появиться на доске лидеров, обоим
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:65
 msgid "Multiplayer help"
-msgstr "Помощь по игре в мультиплеере"
+msgstr "Помощь по мультиплееру"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:114
 msgid "Searching for rooms..."
@@ -298,7 +298,7 @@ msgstr "Жалоба успешно отправлена"
 #. Shown in a notification if a comment could not be reported.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:160
 msgid "Error reporting comment"
-msgstr "Ошибка отправки жалобы"
+msgstr "Ошибка отправки жалобы."
 
 #. The title of the screen where players delete comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:189
@@ -313,7 +313,7 @@ msgstr "Комментарий успешно удалён"
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:193
 msgid "Error deleting comment"
-msgstr "Ошибка удаления комментария"
+msgstr "Ошибка удаления комментария."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:196
 msgid "Are you sure you want to delete this comment?"
@@ -322,7 +322,7 @@ msgstr "Вы действительно желаете удалить комме
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:277
 msgid "<Add a comment here>"
-msgstr "<Добавить комментарий>"
+msgstr "<Напишите комментарий здесь>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
@@ -338,7 +338,7 @@ msgstr "Минимум 3 символа."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:314
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Пожалуйста, будьте вежливы. Спам, мат и оскорбления запрещены. Мы оставляем за нами право удалять комментарии, не соответствующие правилам, и блокировать аккаунты, с которых эти комментарии были отправлены."
+msgstr "Пожалуйста, будьте вежливы. Спам, мат и оскорбления запрещены. Мы оставляем за собой право удалять комментарии, не соответствующие правилам, и блокировать аккаунты, с которых эти комментарии были отправлены."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -354,7 +354,7 @@ msgstr "Комментарий отправлен"
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:363
 msgid "Failed to post comment"
-msgstr "Не удалось отправить комментарий"
+msgstr "Не удалось отправить комментарий."
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:155
@@ -366,7 +366,7 @@ msgstr "Жалоба на комментарий"
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:270
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr "Добавить комментарий"
+msgstr "Добавление комментария"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -610,7 +610,7 @@ msgstr "#ffff00ffУровни сообщества#ffffffff создаются �
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "Подробнее на github.com/jyaif/ppl-utils"
+msgstr "Подробнее на #0080ffffgithub.com/jyaif/ppl-utils#ffffffff"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:80
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
@@ -810,7 +810,7 @@ msgstr "Вход успешен."
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
 msgid "Email not verified"
-msgstr "Email не подтверждён"
+msgstr "Email не подтверждён."
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
 msgid "Re-send verification email"
