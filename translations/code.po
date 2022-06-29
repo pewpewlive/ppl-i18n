@@ -429,7 +429,7 @@ msgstr "Game.ShowScores"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:122
 msgid "Quick Pause"
-msgstr "Game."
+msgstr "Game.QuickPause"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"

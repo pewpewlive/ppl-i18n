@@ -425,7 +425,7 @@ msgstr "Vartotojo sąsajos nustatymai"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:106
 msgid "Show in-game score"
-msgstr "Rodyti žaidimo rezultatus"
+msgstr "Rodyti žaidimo taškus"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:122
 msgid "Quick Pause"
