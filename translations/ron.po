@@ -132,19 +132,19 @@ msgstr "Reset"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "Configură Gamepad"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "Deadzone"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
-msgstr ""
+msgstr "Saturație"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "Curbă"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
@@ -232,7 +232,7 @@ msgstr "Gloanțe"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:312
 msgid "Joysticks"
-msgstr ""
+msgstr "Joystick-uri"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
@@ -291,11 +291,11 @@ msgstr "Nu se poate juca multiplayer cu un NAT simetric."
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Learn more"
-msgstr ""
+msgstr "Află mai multe"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:97
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "Eroare de NAT simetric"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:119
 msgid "Failed to connect to the STUN servers."
@@ -369,7 +369,7 @@ msgstr "Comentariul trebuie să aibă cel puțin 3 caractere."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:313
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "Fără insulte, înjurături sau spam. Vom șterge comentariile care încalcă această regula, și vom bloca sau bana infractorii"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -421,21 +421,21 @@ msgstr "Nu"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:96
 msgid "UI Settings"
-msgstr ""
+msgstr "Setări Interfață"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:106
 msgid "Show in-game score"
-msgstr ""
+msgstr "Arată scorul în joc"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:122
 msgid "Quick Pause"
-msgstr ""
+msgstr "Pauză Rapidă"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:160
 msgid "UI Scale: %s"
-msgstr ""
+msgstr "Mărimea Interfeței: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
 msgid "Refresh"
@@ -469,7 +469,7 @@ msgstr "Omite"
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "Stilul joystick-urilor"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
@@ -625,7 +625,7 @@ msgstr "lume"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
 msgid "High Scores"
-msgstr ""
+msgstr "Scoruri Mari"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:199
 msgid "Speed Runs"
@@ -721,7 +721,7 @@ msgstr "Tastatură"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:38
 msgid "Directed by %s"
@@ -753,7 +753,7 @@ msgstr "Limbă"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:106
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:131
 msgid "Start tutorial"
@@ -1097,13 +1097,13 @@ msgstr "Un nou record personal! %s ⇨ %s"
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:40
 msgid "Improved speed run! %s ⇨ %s"
-msgstr ""
+msgstr "Speedrun îmunătațit! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:614
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "Realizare Deblocată: %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -1119,11 +1119,11 @@ msgstr "Acuratețe: %s"
 
 #: ../client/application/game/state/game_state.cpp:497
 msgid "Score: %s"
-msgstr ""
+msgstr "Scor: %s"
 
 #: ../client/application/game/state/game_state.cpp:502
 msgid "Duration: %s"
-msgstr ""
+msgstr "Durație: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
