@@ -1119,7 +1119,7 @@ msgstr "Preciznost: %s"
 
 #: ../client/application/game/state/game_state.cpp:497
 msgid "Score: %s"
-msgstr "Rezultat"
+msgstr "Rezultat: %s"
 
 #: ../client/application/game/state/game_state.cpp:502
 msgid "Duration: %s"
