@@ -1097,7 +1097,7 @@ msgstr "Νεο προσωπικό ρεκόρ! %s ⇨ %s"
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:40
 msgid "Improved speed run! %s ⇨ %s"
-msgstr "Βελτιώσατε το speed run! $s ⇨ %s"
+msgstr "Βελτιώσατε το speed run! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
