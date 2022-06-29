@@ -136,7 +136,7 @@ msgstr "Konfiguruj Kontroler"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr "Granica"
+msgstr "Czułość"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
