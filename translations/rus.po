@@ -1,8 +1,8 @@
-#: ../client/application/ui/ui_helpers.cpp:63
+#: ../client/application/ui/ui_helpers.cpp:65
 msgid "on"
 msgstr "вкл"
 
-#: ../client/application/ui/ui_helpers.cpp:64
+#: ../client/application/ui/ui_helpers.cpp:66
 msgid "off"
 msgstr "выкл"
 
@@ -18,11 +18,11 @@ msgstr "ок"
 msgid "Update available %s"
 msgstr "Доступно обновление: %s"
 
-#: ../client/application/game/game.cpp:163
+#: ../client/application/game/game.cpp:172
 msgid "Quick pause"
 msgstr "Минипауза"
 
-#: ../client/application/game/game.cpp:169
+#: ../client/application/game/game.cpp:178
 msgid "Quick pause %s"
 msgstr "Минипауза %s"
 
@@ -118,127 +118,147 @@ msgstr "Присоединиться"
 msgid "Password:"
 msgstr "Пароль:"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:92
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
 msgstr "Настройка джойстиков"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:106
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
 msgid "Swap"
 msgstr "Смена"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:111
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:117
 msgid "Reset"
 msgstr "Сброс"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:21
+#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
+msgid "Configure Gamepad"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
+msgid "Deadzone"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
+msgid "Saturation"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
+msgid "Curve"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
 msgstr "Выбор типа мультилеера"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:25
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:22
 msgid "Online multiplayer"
 msgstr "Онлайн мультиплеер"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:36
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
 msgid "Play with people around the world!"
 msgstr "Играть с людьми по всему миру!"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:51
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
 msgid "LAN multiplayer"
 msgstr "LAN мультиплеер"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:62
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
 msgid "Play with people on the same network!"
 msgstr "Играть с людьми на одной сети!"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
 msgstr "LAN мультиплеер"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:39
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:38
 msgid "Help"
 msgstr "Помощь"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
 msgstr "LAN мультиплеер поддерживает игру с 2 игроками, подключённых к одной сети Wi-Fi."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
 msgstr "Один игрок должен создать комнату, к которой подключается другой игрок."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "The wifi network does not have to be connected to the internet."
 msgstr "Сети Wi-Fi необязателен доступ к интернету."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "Connecting to a phone's hotspot should work!"
 msgstr "Достаточно подключиться к точке доступа телефона!"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:50
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
 msgstr "Чтобы появиться на доске лидеров, обоим игрокам нужно отправить свои результаты."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:65
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:64
 msgid "Multiplayer help"
 msgstr "Помощь по мультиплееру"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:114
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:113
 msgid "Searching for rooms..."
 msgstr "Поиск комнат..."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:175
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:172
 msgid "(Incompatible version)"
 msgstr "(Несовместимая версия)"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:195
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
 msgid "Create room"
 msgstr "Создать комнату"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:197
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:194
 msgid "Close room"
 msgstr "Закрыть комнату"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:47
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
 msgstr "Настройка корабля"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:65
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
 msgid "Model"
 msgstr "Модель"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:65
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
 msgid "Trail"
 msgstr "След"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:65
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
 msgid "Bullets"
 msgstr "Пули"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:20
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:312
+msgid "Joysticks"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
 msgstr "Отправить результаты"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:51
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
 msgid "Nothing to upload!"
 msgstr "Нет новых результатов."
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:69
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
 msgid "Failed to upload replays."
 msgstr "Не удалось отправить результаты."
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:71
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
 msgstr "Результаты отправлены."
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:91
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
 msgstr "Загрузка результатов от %s."
 
-#: ../client/application/game/ui/screens/screen_career.cpp:36
+#: ../client/application/game/ui/screens/screen_career.cpp:28
 msgid "Statistics"
 msgstr "Статистика"
 
-#: ../client/application/game/ui/screens/screen_career.cpp:64
+#: ../client/application/game/ui/screens/screen_career.cpp:55
 msgid "Global leaderboards"
 msgstr "Глобальные рекорды"
 
@@ -258,112 +278,123 @@ msgstr "Стрельба"
 msgid "Mouse aim %s"
 msgstr "Прицел мышью %s"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:65
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:66
 msgid "Checking network..."
 msgstr "Проверка сети..."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:82
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:84
 msgid "Can't play in multiplayer with a symmetric NAT."
 msgstr "Игра в мультиплеере при симметричном NAT невозможна."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:86
+#. String shown in a button.
+#. Pressing the button navigates to a screen showing additional
+#. information, or opens a webpage.
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
+msgid "Learn more"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:97
+msgid "Symmetric NAT error"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:119
 msgid "Failed to connect to the STUN servers."
 msgstr "Не удалось подключиться к серверам STUN."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:93
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
 msgid "Authenticating..."
 msgstr "Аутентификация..."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:156
 msgid "Need the latest version of the game."
 msgstr "Необходима новейшая версия игры."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:115
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:165
 msgid "Failed to authenticate"
 msgstr "Аутентификация не удалась."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:137
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:187
 msgid "Error :("
 msgstr "Ошибка :("
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:156
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:155
 msgid "Are you sure you want to report this comment?"
 msgstr "Вы действительно желаете пожаловаться на комментарий?"
 
 #. Shown in a notification after successfully reporting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:157
 msgid "Successfully reported comment"
 msgstr "Жалоба успешно отправлена"
 
 #. Shown in a notification if a comment could not be reported.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:160
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Error reporting comment"
 msgstr "Ошибка отправки жалобы."
 
 #. The title of the screen where players delete comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:189
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:188
 msgid "Delete comment"
 msgstr "Удалить комментарий"
 
 #. Shown in a notification after successfully deleting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:191
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:190
 msgid "Successfully deleted comment"
 msgstr "Комментарий успешно удалён"
 
 #. Shown in a notification if a comment could not be deleting.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:193
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:192
 msgid "Error deleting comment"
 msgstr "Ошибка удаления комментария."
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:196
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:195
 msgid "Are you sure you want to delete this comment?"
 msgstr "Вы действительно желаете удалить комментарий?"
 
 #. Used as a placeholder in the textfield where players write their comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:277
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:276
 msgid "<Add a comment here>"
 msgstr "<Напишите комментарий здесь>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:292
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:291
 msgid "Comment"
 msgstr "Отправить"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:298
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:297
 msgid "Comment must be at least 3 characters long."
 msgstr "Минимум 3 символа."
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:314
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:313
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
 msgstr "Пожалуйста, будьте вежливы. Спам, мат и оскорбления запрещены. Мы оставляем за собой право удалять комментарии, не соответствующие правилам, и блокировать аккаунты, с которых эти комментарии были отправлены."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:338
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:337
 msgid "Posting comment"
 msgstr "Отправка комментария"
 
 #. Shown in a notification after a comment was succesfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:359
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:358
 msgid "Comment posted"
 msgstr "Комментарий отправлен"
 
 #. Shown in a notification after a comment was succesfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:363
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:362
 msgid "Failed to post comment"
 msgstr "Не удалось отправить комментарий."
 
 #. The title of the screen where players report comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:155
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:154
 msgctxt "report_screen_title"
 msgid "Report comment"
 msgstr "Жалоба на комментарий"
 
 #. The title of the screen where players enter the comment they want to add.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:270
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
 msgstr "Добавление комментария"
@@ -373,7 +404,7 @@ msgstr "Добавление комментария"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:426
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:425
 msgctxt "menu_confirm_action"
 msgid "Yes"
 msgstr "Да"
@@ -383,10 +414,28 @@ msgstr "Да"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:439
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:438
 msgctxt "menu_cancel_action"
 msgid "No"
 msgstr "Нет"
+
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:96
+msgid "UI Settings"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:106
+msgid "Show in-game score"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:122
+msgid "Quick Pause"
+msgstr ""
+
+#. Shown in a label in the settings. The %s is replaced by a percentage, for
+#. example: "UI Scale: 90%"
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:160
+msgid "UI Scale: %s"
+msgstr ""
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
 msgid "Refresh"
@@ -412,119 +461,61 @@ msgstr "Сделать перевод"
 msgid "Contributors"
 msgstr "Переводчики"
 
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
-msgid "1p"
-msgstr "1и"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
-msgid "2p"
-msgstr "2и"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
-msgid "3p"
-msgstr "3и"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
-msgid "4p"
-msgstr "4и"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:31
-msgid "Africa"
-msgstr "Африка"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:32
-msgid "Asia"
-msgstr "Азия"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:33
-msgid "Europe"
-msgstr "Европа"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:34
-msgid "North America"
-msgstr "Северная Америка"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:35
-msgid "Oceania"
-msgstr "Океания"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:36
-msgid "South America"
-msgstr "Южная Америка"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:108
-msgid "personal"
-msgstr "личные"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:108
-msgid "region"
-msgstr "страна"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:109
-msgid "continent"
-msgstr "континент"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:109
-msgid "world"
-msgstr "мировые"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:196
-msgid "High Scores"
-msgstr "Рекорды"
-
-#: ../client/application/game/ui/screens/screen_view_high_scores.cpp:197
-msgid "Speed Runs"
-msgstr "Спидраны"
-
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
 msgstr "Пропустить"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:43
+#. The title of the screen that allows selecting the graphical appearance of
+#. the touch joysticks.
+#: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
+msgid "Joysticks style"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
 msgstr "Одиночная игра"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:46
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:47
 msgid "Play"
 msgstr "Играть"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:74
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:75
 msgid "Multiplayer"
 msgstr "Мультиплеер"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:291
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
 msgid "Joining room"
 msgstr "Вход в комнату..."
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:291
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
 msgid "Creating room"
 msgstr "Ожидание игроков"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:330
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:338
 msgid "The room expired"
 msgstr "Комната истекла."
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:344
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:352
 msgid "Unknown error"
 msgstr "Неизвестная ошибка."
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:359
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:367
 msgid "Failed to join room"
 msgstr "Не удалось подключиться к комнате."
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:373
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:381
 msgid "Incorrect password"
 msgstr "Неправильный пароль."
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:376
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:384
 msgid "You are already in the room!"
 msgstr "Вы уже находитесь в комнате."
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:387
 msgid "The room does not exist anymore"
 msgstr "Такой комнаты не существует."
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:390
 msgid "Room is full"
 msgstr "В комнате нет свободных мест."
 
@@ -552,7 +543,7 @@ msgstr "Любой уровень"
 msgid "Room name: %s"
 msgstr "Название: %s"
 
-#: ../client/application/game/ui/screens/screen_informations_music.cpp:23
+#: ../client/application/game/ui/screens/screen_informations_music.cpp:22
 msgid "Music"
 msgstr "Музыка"
 
@@ -564,63 +555,127 @@ msgstr "Ошибка подключения."
 msgid "Lost connection to host"
 msgstr "Подключение потеряно."
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:18
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:19
 msgid "Audio Settings"
 msgstr "Настройки звука"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:30
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:28
 msgid "Sound effects"
 msgstr "Звуковые эффекты"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:109
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:122
 msgid "Visualization"
 msgstr "Визуализация"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:54
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+msgid "1p"
+msgstr "1и"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+msgid "2p"
+msgstr "2и"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+msgid "3p"
+msgstr "3и"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+msgid "4p"
+msgstr "4и"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:31
+msgid "Africa"
+msgstr "Африка"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:32
+msgid "Asia"
+msgstr "Азия"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
+msgid "Europe"
+msgstr "Европа"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:34
+msgid "North America"
+msgstr "Северная Америка"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:35
+msgid "Oceania"
+msgstr "Океания"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
+msgid "South America"
+msgstr "Южная Америка"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:108
+msgid "personal"
+msgstr "личные"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:108
+msgid "region"
+msgstr "страна"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
+msgid "continent"
+msgstr "континент"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
+msgid "world"
+msgstr "мировые"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
+msgid "High Scores"
+msgstr "Рекорды"
+
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:199
+msgid "Speed Runs"
+msgstr "Спидраны"
+
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:55
 msgid "Failed to read replay."
 msgstr "Не удалось прочитать реплей."
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:81
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:82
 msgid "Failed to download replay."
 msgstr "Не удалось скачать реплей."
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:204
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:213
 msgid "Failed to download level."
 msgstr "Не удалось скачать уровень."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:37
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:33
 msgid "Official"
 msgstr "Официальные"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:34
 msgid "Community"
 msgstr "Сообщество"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
 msgid "Experimental"
 msgstr "Экспериментальные"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:77
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:73
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffОфициальные#ffffffff уровни созданы мной (#0080ffffJF#ffffffff) и дают зарабатывать медали."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:74
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "#ffff00ffУровни сообщества#ffffffff создаются такими же людьми, как и ВЫ."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:75
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "Подробнее на #0080ffffgithub.com/jyaif/ppl-utils#ffffffff"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:80
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
 msgstr "#ffff00ffЭкспериментальные#ffffffff уровни - незавершённые уровни от сообщества."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:95
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:91
 msgid "About the levels"
 msgstr "Об уровнях"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:138
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:135
 msgid "Experimental levels"
 msgstr "Экспериментальные уровни"
 
@@ -656,31 +711,35 @@ msgstr "Экспериментальный уровень"
 msgid "Controls Settings"
 msgstr "Настройки управления"
 
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:25
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
 msgstr "Касание"
 
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:38
 msgid "Keyboard"
 msgstr "Клавиатура"
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:36
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
+msgid "Gamepad"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_informations.cpp:38
 msgid "Directed by %s"
 msgstr "Под руководством %s"
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:62
+#: ../client/application/game/ui/screens/screen_informations.cpp:65
 msgid "Development videos"
 msgstr "YouTube"
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:104
+#: ../client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Discord server"
 msgstr "Сервер Discord"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:34
+#: ../client/application/game/ui/screens/screen_settings.cpp:31
 msgid "Settings"
 msgstr "Настройки"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:77
+#: ../client/application/game/ui/screens/screen_settings.cpp:76
 msgid "Controls"
 msgstr "Управление"
 
@@ -692,39 +751,43 @@ msgstr "Звук"
 msgid "Language"
 msgstr "Язык"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:134
+#: ../client/application/game/ui/screens/screen_settings.cpp:106
+msgid "UI"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:131
 msgid "Start tutorial"
 msgstr "Запустить обучение"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:144
+#: ../client/application/game/ui/screens/screen_settings.cpp:141
 msgid "Launch intro"
 msgstr "Запустить интро"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:152
+#: ../client/application/game/ui/screens/screen_settings.cpp:150
 msgid "Developer mode"
 msgstr "Режим разработчика"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:203
+#: ../client/application/game/ui/screens/screen_settings.cpp:202
 msgid "Vibration %s"
 msgstr "Вибрация %s"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:189
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:188
 msgid "Local lobby"
 msgstr "Локальное лобби"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:192
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:191
 msgid "Online lobby"
 msgstr "Онлайн лобби"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:198
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:197
 msgid "Ready"
 msgstr "Готов"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:207
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:206
 msgid "Cancel"
 msgstr "Отмена"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:350
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:349
 msgid "Waiting for other players..."
 msgstr "Ожидание игроков..."
 
@@ -800,27 +863,27 @@ msgstr "Email"
 msgid "Password"
 msgstr "Пароль"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:139
 msgid "Signing in"
 msgstr "Вход"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:154
 msgid "Successfully signed in!"
 msgstr "Вход успешен."
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:167
 msgid "Email not verified"
 msgstr "Email не подтверждён."
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
 msgid "Re-send verification email"
 msgstr "Отправить письмо-подтверждение заново"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:187
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:188
 msgid "Request password reset"
 msgstr "Запросить сброс пароля"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:213
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:214
 msgid "Reset password"
 msgstr "Сбросить пароль"
 
@@ -974,11 +1037,11 @@ msgstr "Письмо-подтверждение отправлено."
 msgid "Failed to request account deletion"
 msgstr "Не удалось запросить удаление аккаунта."
 
-#: ../client/application/game/ui/views/top_notification_view.cpp:55
+#: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
 msgstr "%sОжидание игроков%s"
 
-#: ../client/application/game/ui/views/game_hud.cpp:48
+#: ../client/application/game/ui/views/game_hud.cpp:59
 msgid "Shield: %s"
 msgstr "Щиты: %s"
 
@@ -1024,21 +1087,43 @@ msgstr "Вы вышли из аккаунта."
 msgid "Failed to download backup data"
 msgstr "Не удалось загрузить резервные данные."
 
-#: ../client/application/game/player_data/player_data_manager.cpp:266
+#. Shown in a notification when you improve your best score in a given level.
+#. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
+#: ../client/application/game/player_data/player_data_manager.cpp:37
 msgid "New personal best! %s ⇨ %s"
 msgstr "Новый рекорд! %s ⇨ %s"
+
+#. Shown in a notification when you improve your best speed run in a given
+#. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
+#: ../client/application/game/player_data/player_data_manager.cpp:40
+msgid "Improved speed run! %s ⇨ %s"
+msgstr ""
+
+#. String shown in a notification when an achievement was unlocked.
+#. %s is replaced with the name of the achievement.
+#: ../client/application/game/player_data/player_data_manager.cpp:614
+msgid "Achievement Unlocked: %s"
+msgstr ""
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
 msgstr "%s покинул игру"
 
-#: ../client/application/game/state/game_state.cpp:448
+#: ../client/application/game/state/game_state.cpp:480
 msgid "N/A"
 msgstr "Н/Д"
 
-#: ../client/application/game/state/game_state.cpp:459
+#: ../client/application/game/state/game_state.cpp:492
 msgid "Accuracy: %s"
 msgstr "Точность: %s"
+
+#: ../client/application/game/state/game_state.cpp:497
+msgid "Score: %s"
+msgstr ""
+
+#: ../client/application/game/state/game_state.cpp:502
+msgid "Duration: %s"
+msgstr ""
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"

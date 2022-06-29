@@ -37,6 +37,8 @@ langs = [{"code": "afr", "name": "Afrikaans"},
          {"code": "spa", "name": "Spanish"},
          {"code": "tgl", "name": "Tagalog"},
          {"code": "tha", "name": "Thai"},
+         # There is no code for the chinese variants
+         {"code": "chs", "name": "Simplified Chinese"},
          {"code": "cht", "name": "Traditional Chinese"},
          {"code": "tur", "name": "Turkish"},
          {"code": "ukr", "name": "Ukrainian"}]
