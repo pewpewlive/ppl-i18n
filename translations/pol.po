@@ -435,7 +435,7 @@ msgstr "Szybka Pauza"
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:160
 msgid "UI Scale: %s"
-msgstr "Skala UI %s"
+msgstr "Skala UI: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
 msgid "Refresh"
@@ -1103,7 +1103,7 @@ msgstr "Poprawiony speedrun! %s ⇨ %s"
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:614
 msgid "Achievement Unlocked: %s"
-msgstr "Odblokowano Osiągnięcie %s"
+msgstr "Odblokowano Osiągnięcie: %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -1119,11 +1119,11 @@ msgstr "Celność: %s"
 
 #: ../client/application/game/state/game_state.cpp:497
 msgid "Score: %s"
-msgstr "Wynik %s"
+msgstr "Wynik: %s"
 
 #: ../client/application/game/state/game_state.cpp:502
 msgid "Duration: %s"
-msgstr "Czas trwania %s"
+msgstr "Czas trwania: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
