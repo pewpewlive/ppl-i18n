@@ -132,11 +132,11 @@ msgstr "Επαναφορά"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr "Ρυθμίστε το Gamepad"
+msgstr "Ρυθμίστε το Χειριστήριο"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr "Deadzone"
+msgstr "Ευαισθησία"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
@@ -721,7 +721,7 @@ msgstr "ΠΛηκτρολόγιο"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr "Gamepad"
+msgstr "Χειριστήριο"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:38
 msgid "Directed by %s"
