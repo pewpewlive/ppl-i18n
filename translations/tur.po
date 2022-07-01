@@ -132,19 +132,19 @@ msgstr "Yenile"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "Oyun Kolunu Ayarla"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "Tehlikeli Alan"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
-msgstr ""
+msgstr "Canlılık"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "Eğim"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
@@ -232,7 +232,7 @@ msgstr "Mermiler"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:312
 msgid "Joysticks"
-msgstr ""
+msgstr "Joyistikler"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
@@ -264,7 +264,7 @@ msgstr "Dünya çapında en iyiler"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:100
 msgid "Configure keyboard"
-msgstr "Klaviyeyi düzenle"
+msgstr "Klavyeyi düzenle"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
 msgid "Move"
@@ -291,7 +291,7 @@ msgstr "Çok oyuncu symmetric NAT ile oynayamaz"
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Learn more"
-msgstr ""
+msgstr "Daha Fazla Bilgi"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:97
 msgid "Symmetric NAT error"
@@ -421,21 +421,21 @@ msgstr "Hayır"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:96
 msgid "UI Settings"
-msgstr ""
+msgstr "UI Ayarları"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:106
 msgid "Show in-game score"
-msgstr ""
+msgstr "Oyun-içi skoru göster"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:122
 msgid "Quick Pause"
-msgstr ""
+msgstr "Hızlı duraklatma"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:160
 msgid "UI Scale: %s"
-msgstr ""
+msgstr "UI Boyutu &s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
 msgid "Refresh"
@@ -469,7 +469,7 @@ msgstr "Geç"
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "Joyistik stili"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
@@ -629,7 +629,7 @@ msgstr "Yüksek skorlar"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:199
 msgid "Speed Runs"
-msgstr ""
+msgstr "Speed Runlar"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:55
 msgid "Failed to read replay."
@@ -721,7 +721,7 @@ msgstr "Klavye"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "Oyun Kolu"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:38
 msgid "Directed by %s"
@@ -753,7 +753,7 @@ msgstr "Dil"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:106
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:131
 msgid "Start tutorial"
@@ -1023,11 +1023,11 @@ msgstr "Hesabı sil"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:76
 msgid "Account deletion"
-msgstr "Hesap silimi"
+msgstr "Hesap silme"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:83
 msgid "Account deletion requested."
-msgstr "Hesap silim talebi"
+msgstr "Hesap silme talebi"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:85
 msgid "An email asking for confirmation was sent."
@@ -1035,7 +1035,7 @@ msgstr "Onay emaili gönderilmiştir"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:90
 msgid "Failed to request account deletion"
-msgstr "Hesap silim isteği başarısız"
+msgstr "Hesap silme isteği başarısız"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
@@ -1119,11 +1119,11 @@ msgstr "Doğruluk oranı: %s"
 
 #: ../client/application/game/state/game_state.cpp:497
 msgid "Score: %s"
-msgstr ""
+msgstr "Skor: %s"
 
 #: ../client/application/game/state/game_state.cpp:502
 msgid "Duration: %s"
-msgstr ""
+msgstr "Zaman: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
