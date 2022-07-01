@@ -23,6 +23,14 @@
       {
         "name":"Lithium",
         "color":"0x00ff00ff"
+      },
+      {
+        "name":"AMPW",
+        "color":"0xff0da7ff"
+      },
+      {
+        "name":"Random Doggo",
+        "color":"0xffff00ff"
       }
     ]
   },
@@ -196,6 +204,10 @@
       {
         "name":"kajxqeirscl",
         "color":"0xffffffff"
+      },
+      {
+        "name":"quanka",
+        "color":"0xff0000ff"
       }
     ]
   },
