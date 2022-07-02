@@ -132,19 +132,19 @@ msgstr "Restablecer"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "Configurar mando"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "Punto muerto"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
-msgstr ""
+msgstr "Saturación"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "Curvatura"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
@@ -232,7 +232,7 @@ msgstr "Balas"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:312
 msgid "Joysticks"
-msgstr ""
+msgstr "Palancas"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
@@ -291,11 +291,11 @@ msgstr "No es posible jugar en multijugador con un NAT simétrico."
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Learn more"
-msgstr ""
+msgstr "Más información"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:97
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "Error de NAT simétrica"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:119
 msgid "Failed to connect to the STUN servers."
@@ -421,21 +421,21 @@ msgstr "No"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:96
 msgid "UI Settings"
-msgstr ""
+msgstr "Ajustar interfaz"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:106
 msgid "Show in-game score"
-msgstr ""
+msgstr "Puntuación en partida"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:122
 msgid "Quick Pause"
-msgstr ""
+msgstr "Pausa rápida"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:160
 msgid "UI Scale: %s"
-msgstr ""
+msgstr "Escala de interfaz: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
 msgid "Refresh"
@@ -469,7 +469,7 @@ msgstr "Omitir"
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "Estilo de palancas"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
@@ -721,7 +721,7 @@ msgstr "Teclado"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "Mando"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:38
 msgid "Directed by %s"
@@ -753,7 +753,7 @@ msgstr "Idioma"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:106
 msgid "UI"
-msgstr ""
+msgstr "Interfaz"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:131
 msgid "Start tutorial"
@@ -1097,13 +1097,13 @@ msgstr "¡Nuevo récord personal! %s ⇨ %s"
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:40
 msgid "Improved speed run! %s ⇨ %s"
-msgstr ""
+msgstr "¡Superaste tu récord de velocidad! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:614
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "Logro desbloqueado: %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -1119,11 +1119,11 @@ msgstr "Precisión: %s"
 
 #: ../client/application/game/state/game_state.cpp:497
 msgid "Score: %s"
-msgstr ""
+msgstr "Puntuación: %s"
 
 #: ../client/application/game/state/game_state.cpp:502
 msgid "Duration: %s"
-msgstr ""
+msgstr "Duración: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
