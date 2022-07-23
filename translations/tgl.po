@@ -713,11 +713,11 @@ msgstr "Ayos ng Controller"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
-msgstr "Gamit touchscreen"
+msgstr "Touchscreen"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:38
 msgid "Keyboard"
-msgstr "Gamit keyboard"
+msgstr "Keyboard"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
