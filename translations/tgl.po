@@ -48,7 +48,7 @@ msgstr "Maglaro muli"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr "Natapos na"
+msgstr "Natapos na ang Laro"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -68,11 +68,11 @@ msgstr "Mga level ng komunidad"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr "Ilang beses nilaro?: %s"
+msgstr "Ilang beses naglaro?: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr "Ga'no katagal nilaro?: %s"
+msgstr "Ga'no katagal naglaro?: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
@@ -132,7 +132,7 @@ msgstr "Ibalik"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "Ayos ng Gamepad"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
@@ -152,7 +152,7 @@ msgstr "Maglaro ng may kasama"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:22
 msgid "Online multiplayer"
-msgstr "Gamit online network"
+msgstr "Gamit ang online network"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
 msgid "Play with people around the world!"
@@ -160,7 +160,7 @@ msgstr "Makipaglaro sa mga manlalaro sa loob at labas ng bansa!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
 msgid "LAN multiplayer"
-msgstr "Gamit LAN"
+msgstr "Gamit ang LAN"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
 msgid "Play with people on the same network!"
@@ -168,7 +168,7 @@ msgstr "Makipaglaro sa mga manlalaro sa kaparehong network!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
-msgstr "Makipaglaro gamit ang LAN"
+msgstr "Gamit ang LAN"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:38
 msgid "Help"
@@ -176,15 +176,15 @@ msgstr "Tulong"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Ang dalawang manlalaro ay kailangang nakakonekta sa magkaparehong wifi network."
+msgstr "Sa LAN (local) multiplayer, kailangang nakakonekta sa magkaparehong Wi-Fi network ang 2 manlalaro."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
-msgstr "Kailangan muna gumawa ng room ang isang manlalaro bago sumali ang iba."
+msgstr "Isa sa inyo ang gagawa ng room, at sumali ang wala pa sa room kapag nakagawa na."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "The wifi network does not have to be connected to the internet."
-msgstr "Hindi kinakailangang nakakonekta sa internet ang wifi network."
+msgstr "Hindi na kailangang nakakonekta sa internet ang wifi network."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "Connecting to a phone's hotspot should work!"
@@ -192,7 +192,7 @@ msgstr "Sapat na ang pagkonekta sa hotspot ng phone!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Para parehong lumabas ang pangalan ng bawat manlalaro sa online leaderboard, kailangan nilang i-upload ng magkahiwalay ang replay."
+msgstr "Kapag natapos na ang inyong laro at nais niyong ibahagi sa mundo ang inyong replay sa leaderboard, i-upload ng hiwalay ang inyong record para parehas na lumabas ang inyong pangalan doon."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:64
 msgid "Multiplayer help"
@@ -276,7 +276,7 @@ msgstr "Pagtira"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:174
 msgid "Mouse aim %s"
-msgstr "Pag-aim ng mouse %s"
+msgstr "Pagtutok ng mouse %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:66
 msgid "Checking network..."
@@ -291,11 +291,11 @@ msgstr "Hindi makakonekta sa multiplayer gamit ang symmetric NAT."
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Learn more"
-msgstr ""
+msgstr "Matuto pa"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:97
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "May mali sa symmetric NAT"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:119
 msgid "Failed to connect to the STUN servers."
@@ -380,7 +380,7 @@ msgstr "Nilalagay ang komento"
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:358
 msgid "Comment posted"
-msgstr "Nailagay na ang komento"
+msgstr "Nakalagay na ang komento"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:362
@@ -421,21 +421,21 @@ msgstr "Hindi"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:96
 msgid "UI Settings"
-msgstr ""
+msgstr "Ayos ng UI"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:106
 msgid "Show in-game score"
-msgstr ""
+msgstr "Ipakita ang score sa laro"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:122
 msgid "Quick Pause"
-msgstr ""
+msgstr "Ipakita ang text ng paghinto"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:160
 msgid "UI Scale: %s"
-msgstr ""
+msgstr "Laki ng UI: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
 msgid "Refresh"
@@ -451,7 +451,7 @@ msgstr "Ginawa ng komunidad ang mga pagsasalin!"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
-msgstr "Pangunahing wika"
+msgstr "Pangkaraniwang wika"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
@@ -469,7 +469,7 @@ msgstr "Laktawan"
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "Estilo ng joystick"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
@@ -493,7 +493,7 @@ msgstr "Naghahanap ng kalaro"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:338
 msgid "The room expired"
-msgstr "Hindi na mahanap ang room"
+msgstr "Nawala na ang room"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:352
 msgid "Unknown error"
@@ -513,7 +513,7 @@ msgstr "Nasa room ka na!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:387
 msgid "The room does not exist anymore"
-msgstr "Hindi na mahanap ang room"
+msgstr "Nawala na ang room"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:390
 msgid "Room is full"
@@ -529,15 +529,15 @@ msgstr "Ayos ng room"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
 msgid "2 extra characters (optional):"
-msgstr "(pwedeng laktawan) 2 dagdag na character:"
+msgstr "2 dagdag na character (kahit 'di na lagyan):"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
 msgid "Password (optional):"
-msgstr "(pwedeng laktawan) Password:"
+msgstr "Password (kahit 'di na lagyan):"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
 msgid "Any level"
-msgstr "Kahit ano"
+msgstr "Kahit anong level"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:180
 msgid "Room name: %s"
@@ -565,7 +565,7 @@ msgstr "Tunog"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:122
 msgid "Visualization"
-msgstr "Pag-visualize"
+msgstr "Pagsasalarawan"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
 msgid "1p"
@@ -585,7 +585,7 @@ msgstr "4p"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:31
 msgid "Africa"
-msgstr "Africa"
+msgstr "Aprika"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:32
 msgid "Asia"
@@ -917,7 +917,7 @@ msgstr "Gumawa ng account para makapaglagay ng pangalan at ma-sync ang iyong dat
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
 msgid "Register"
-msgstr "Mag-register"
+msgstr "Magrehistro"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
 msgid "Privacy Policy"
@@ -1103,7 +1103,7 @@ msgstr ""
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:614
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "May Nakuhang Karangalan: %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -1123,7 +1123,7 @@ msgstr ""
 
 #: ../client/application/game/state/game_state.cpp:502
 msgid "Duration: %s"
-msgstr ""
+msgstr "Tagal: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
@@ -1131,7 +1131,7 @@ msgstr "Galingan mo ang pag-ilag at hindi ka mapapakamak"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
-msgstr "Kilala rin sa tawag na \"Dodge This\""
+msgstr "Ilag!"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Green good. Red bad."
@@ -1167,7 +1167,7 @@ msgstr "Manatiling buhay sa loob ng 32 segundo"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Totoo ba to?\" - tester"
+msgstr "\"Totoo ba 'to?\" - kawawang tester :("
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
@@ -1179,15 +1179,15 @@ msgstr "Unang nakilala bilang \"Assault\""
 
 #: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
-msgstr "Nadagdagan ng tansong medalya"
+msgstr "Nakakuha ka ng tansong medalya!"
 
 #: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
-msgstr "Nadagdagan ng pilak na medalya"
+msgstr "Nakakuha ka ng pilak na medalya!"
 
 #: ../client/application/game/levels/medals.cpp:10
 msgid "New gold medal"
-msgstr "Nadagdagan ng gintong medalya"
+msgstr "Nakakuha ka ng gintong medalya!"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:8
 msgid "Minimal"
