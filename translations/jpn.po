@@ -421,7 +421,7 @@ msgstr "いいえ"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:96
 msgid "UI Settings"
-msgstr ""
+msgstr "UI設定"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:106
 msgid "Show in-game score"
@@ -825,15 +825,15 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:29
 msgid "Requesting verification email"
-msgstr "ニンショウ メール リクエスト チュウ"
+msgstr "認証メール リクエスト チュウ"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:35
 msgid "Verification email sent"
-msgstr "ニンショウ メールガ ソウシン サレマシタ"
+msgstr "認証メールガ ソウシン サレマシタ"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:37
 msgid "Check your inbox!"
-msgstr "メール ヲ カクニン シテネ!"
+msgstr "メールを確認してね!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:41
 msgid "Failed to resend email"
@@ -857,7 +857,7 @@ msgstr "サインイン"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:82
 msgid "Email"
-msgstr "Email"
+msgstr "メール"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:82
 msgid "Password"
@@ -943,7 +943,7 @@ msgstr "あなたのアカウント"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:22
 msgid "Email is invalid!"
-msgstr "Emailが無効です"
+msgstr "メールが無効です"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:47
 msgid "Too short. Minimum %s characters."
@@ -967,7 +967,7 @@ msgstr "パスワード再入力"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:83
 msgid "Confirm email"
-msgstr "Email再入力"
+msgstr "メール再入力"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:132
 msgid "Registering"
@@ -979,7 +979,7 @@ msgstr "トウロク セイコウ"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:141
 msgid "Please check your emails!"
-msgstr "Emailをチェックしてください!"
+msgstr "メールをチェックしてください!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
 msgid "Failed to register"
@@ -995,11 +995,11 @@ msgstr "パスワード再入力:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
 msgid "Email:"
-msgstr "Email:"
+msgstr "メール:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
 msgid "Confirm email:"
-msgstr "Email再入力:"
+msgstr "メール再入力:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:212
 msgid "Passwords do not match!"
@@ -1065,7 +1065,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:73
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "一般"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1107,7 +1107,7 @@ msgstr ""
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
-msgstr ""
+msgstr "%s ゲームを出かけました"
 
 #: ../client/application/game/state/game_state.cpp:480
 msgid "N/A"
@@ -1119,7 +1119,7 @@ msgstr "メイチュウリツ: %s"
 
 #: ../client/application/game/state/game_state.cpp:497
 msgid "Score: %s"
-msgstr ""
+msgstr "スコア: %s"
 
 #: ../client/application/game/state/game_state.cpp:502
 msgid "Duration: %s"
@@ -1135,7 +1135,7 @@ msgstr "\"ヨケロ\" トモ イワレル"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Green good. Red bad."
-msgstr "ミドリ ヨシ。 アカ ダメ。"
+msgstr "緑よし。赤だめ。"
 
 #: ../client/application/game/levels/game_levels.cpp:95
 msgid "Never trust a six-sided polygon"
@@ -1147,7 +1147,7 @@ msgstr "\"Super Hexagon\" トハ カンケイアリマセン"
 
 #: ../client/application/game/levels/game_levels.cpp:97
 msgid "Choose your own difficulty"
-msgstr "ムズカシサハ キミガ エラベ"
+msgstr "難しさは君が選べ"
 
 #: ../client/application/game/levels/game_levels.cpp:107
 msgid "Euclidean space is overrated"
@@ -1167,7 +1167,7 @@ msgstr "シンプルニ 32ビョウ イキテミヨウ"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"コレ ジョウダン デショ？\" - テスター"
+msgstr "\"これ冗談でしょ？\" - テスター"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
