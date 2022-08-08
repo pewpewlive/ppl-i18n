@@ -435,7 +435,7 @@ msgstr "Швидка Пауза"
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:160
 msgid "UI Scale: %s"
-msgstr "Розмір інтерфейсу"
+msgstr "Розмір інтерфейсу: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
 msgid "Refresh"
