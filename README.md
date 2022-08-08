@@ -45,5 +45,5 @@ the feasibility.
 * [Simplified Chinese](/translations/chs.po) (92% complete; 22 remaining)
 * [Traditional Chinese](/translations/cht.po) (12% complete; 255 remaining)
 * [Turkish](/translations/tur.po) (98% complete; 3 remaining)
-* [Ukrainian](/translations/ukr.po) (93% complete; 18 remaining)
-> Report generated on Aug 08 2022 11:22:59 UTC
+* [Ukrainian](/translations/ukr.po) (99% complete; 1 remaining)
+> Report generated on Aug 08 2022 15:02:47 UTC
