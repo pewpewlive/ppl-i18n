@@ -1,0 +1,83 @@
+name: Mistake Checker
+
+on:
+  pull_request:
+    branches: [ master ]
+    paths:
+      - "translations/**"
+
+jobs:
+  getfiles:
+    name: Check changed files for mistakes
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Get changed files
+        id: files
+        run: |
+          echo "::set-output name=changedfiles::$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep .po$ | xargs)"
+      
+      - name: Check changed files for mistakes
+        id: mistakes
+        run: |
+          echo "::set-output name=mistakesfound::$(python ${{ github.workspace }}/.github/workflows/mistake_check.py "${{ steps.files.outputs.changedfiles }}")"
+
+      - name: Output detected mistakes if any
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const mistakes = `${{ steps.mistakes.outputs.mistakesfound }}`.split(" /// ");
+            const filename = "${{ steps.files.outputs.changedfiles }}";
+
+            let message = "";
+
+            if (mistakes[0] !== "0") {
+              message += "Thank you for contributing!\n\n";
+              message += "To keep translations error-free, we check them for mistakes. The files you changed seem to contain some, no worries though, they can be fixed! ";
+              message += `See helpful info below:\n\`\`\`diff\nFile: ${filename}\n`;
+              message += "===================================================================\n";
+              for (mistake of mistakes) {
+                mistake_info = mistake.split(" // ");
+                if (mistake_info[0] === "0")
+                  break;
+
+                message += `@@ Line: ${mistake_info[2]} @@\n`;
+
+                switch (mistake_info[0]) {
+                  case "e":
+                    message += "--- Non-Matching use of %s\n";
+                    message += `+ msgid "${mistake_info[3]}"\n`;
+                    message += `- msgstr "${mistake_info[4]}"\n`;
+                    break;
+                  case "w":
+                    message += "!!! Possible misuse of colors\n";
+                    message += `+ msgid "${mistake_info[3]}"\n`;
+                    message += `- msgstr "${mistake_info[4]}"\n`;
+                    break;
+                }
+
+                if (mistakes.indexOf(mistake) !== mistakes.length - 2) { message += "***************\n"; }
+              }
+
+              message += "===================================================================";
+            }
+
+            if (message !== "") {
+              github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: message
+              });
+
+              core.setFailed("Mistakes found! Check comment for more details");
+            }
