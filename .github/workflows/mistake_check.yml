@@ -79,5 +79,6 @@ jobs:
                 body: message
               });
 
-              core.setFailed("Mistakes found! Check comment for more details");
+              if (mistakes.map(mistake => mistake.split(" // ")[0]).includes("e"))
+                core.setFailed("Mistakes found! Check comment for more details");
             }
