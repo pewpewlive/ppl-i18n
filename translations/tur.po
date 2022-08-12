@@ -16,7 +16,7 @@ msgstr "tamam"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr "Güncelleme hazır"
+msgstr "Güncelleme hazır %s"
 
 #: ../client/application/game/game.cpp:172
 msgid "Quick pause"

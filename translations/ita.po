@@ -100,7 +100,7 @@ msgstr "Porta:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Connettiti a un'altra stanza su internet"
+msgstr "Connettiti a un'altra stanza su internet #ff0000ff(sperimentale)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"

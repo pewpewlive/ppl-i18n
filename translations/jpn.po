@@ -68,7 +68,7 @@ msgstr "コミュニティ レベル"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr "プレイ シタ"
+msgstr "プレイ シタ: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"

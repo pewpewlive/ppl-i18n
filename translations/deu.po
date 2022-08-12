@@ -809,7 +809,7 @@ msgstr "Ändern"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
 msgid "Only change colors! %s"
-msgstr "Nur Farben ändern!"
+msgstr "Nur Farben ändern! %s"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
 msgid "Username color change"

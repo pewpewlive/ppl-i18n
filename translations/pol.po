@@ -1073,7 +1073,7 @@ msgstr "Ogólne"
 #: ../client/application/game/ui/views/account_view.cpp:265
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr "Data Dołączenia"
+msgstr "Data Dołączenia: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
