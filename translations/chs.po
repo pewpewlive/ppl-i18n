@@ -8,7 +8,7 @@ msgstr "关闭"
 
 #: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
-msgstr ""
+msgstr "好的"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -84,7 +84,7 @@ msgstr "登录失败"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
-msgstr "下载关卡..."
+msgstr "正在下载关卡..."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
@@ -100,7 +100,7 @@ msgstr "端口"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "通过互联网连接到另一个房间 #ff0000ff(实验性)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
@@ -136,15 +136,15 @@ msgstr "手柄设置"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "死区"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
-msgstr ""
+msgstr "最小阈值"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "加速曲线"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
@@ -156,7 +156,7 @@ msgstr "线上多人游戏"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
 msgid "Play with people around the world!"
-msgstr "与世界各地玩家一起玩"
+msgstr "与世界各地玩家一起玩！"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
 msgid "LAN multiplayer"
@@ -164,7 +164,7 @@ msgstr "局域网多人游戏"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
 msgid "Play with people on the same network!"
-msgstr "与相同网络的玩家一起玩"
+msgstr "与相同网络的玩家一起玩！"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
@@ -204,7 +204,7 @@ msgstr "搜索房间中..."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:172
 msgid "(Incompatible version)"
-msgstr "版本不兼容"
+msgstr "(版本不兼容)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
 msgid "Create room"
@@ -216,11 +216,11 @@ msgstr "关闭房间"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
-msgstr "配置飞船"
+msgstr "配置战机"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
 msgid "Model"
-msgstr "飞船"
+msgstr "战机"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
 msgid "Trail"
@@ -284,7 +284,7 @@ msgstr "检查网络..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:84
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "无法在对称型网络下游玩"
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
@@ -295,11 +295,11 @@ msgstr "了解更多"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:97
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "对称型网络出错"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:119
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "连接至STUN服务器失败"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
 msgid "Authenticating..."
@@ -329,7 +329,7 @@ msgstr "评论举报成功"
 #. Shown in a notification if a comment could not be reported.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Error reporting comment"
-msgstr ""
+msgstr "评论举报失败"
 
 #. The title of the screen where players delete comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:188
@@ -344,7 +344,7 @@ msgstr "评论删除成功"
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:192
 msgid "Error deleting comment"
-msgstr ""
+msgstr "评论删除失败"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:195
 msgid "Are you sure you want to delete this comment?"
@@ -359,7 +359,7 @@ msgstr "<在此输入评论>"
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:291
 msgid "Comment"
-msgstr "评论"
+msgstr "发布评论"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
@@ -369,7 +369,7 @@ msgstr "评论长度至少为3个字符"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:313
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "请注意您的措辞。禁止在评论区辱骂他人、发布垃圾广告。违规内容会被删除，并将封禁违规者。"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -447,7 +447,7 @@ msgstr "语言设置"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:20
 msgid "The translations are community provided!"
-msgstr "翻译为玩家社区提供"
+msgstr "翻译由玩家社区提供"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
@@ -469,7 +469,7 @@ msgstr "跳过"
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "虚拟摇杆样式"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
@@ -493,7 +493,7 @@ msgstr "正在创建房间"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:338
 msgid "The room expired"
-msgstr "房间已过期"
+msgstr "房间已失效"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:352
 msgid "Unknown error"
@@ -549,7 +549,7 @@ msgstr "音乐"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
-msgstr "连接错误"
+msgstr "连接出错"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
 msgid "Lost connection to host"
@@ -629,7 +629,7 @@ msgstr "最高分"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:199
 msgid "Speed Runs"
-msgstr "速通"
+msgstr "竞速"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:55
 msgid "Failed to read replay."
@@ -653,7 +653,7 @@ msgstr "社区"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
 msgid "Experimental"
-msgstr "测试"
+msgstr "实验室"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:73
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
@@ -693,11 +693,11 @@ msgstr "加载中..."
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:84
 msgid "Error reading manifest"
-msgstr ""
+msgstr "读取清单出错"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:89
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "下载清单出错"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:203
 msgid "average score: %s"
@@ -729,7 +729,7 @@ msgstr "制作者：%s"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:65
 msgid "Development videos"
-msgstr "开发视频"
+msgstr "开发者视频"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Discord server"
@@ -769,7 +769,7 @@ msgstr "开发者模式"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:202
 msgid "Vibration %s"
-msgstr "震动 %s"
+msgstr "震动幅度 %s"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:188
 msgid "Local lobby"
@@ -825,7 +825,7 @@ msgstr "更新用户名失败"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:29
 msgid "Requesting verification email"
-msgstr "请求验证邮件"
+msgstr "发送验证邮件"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:35
 msgid "Verification email sent"
@@ -1191,33 +1191,33 @@ msgstr "新的金牌"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:8
 msgid "Minimal"
-msgstr ""
+msgstr "最低"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:12
 msgid "High"
-msgstr ""
+msgstr "高"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Compression friendly"
-msgstr ""
+msgstr "压缩友好"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:17
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "极低x2"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:19
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "极低x4"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:21
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "极低x8"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:23
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "极低x16"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:25
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "极低x32"
 
