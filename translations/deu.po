@@ -637,7 +637,7 @@ msgstr "Fehler beim Lesen des Replays"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:82
 msgid "Failed to download replay."
-msgstr "Fehler beim Laden des Replay"
+msgstr "Fehler beim Laden des Replays"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:213
 msgid "Failed to download level."
