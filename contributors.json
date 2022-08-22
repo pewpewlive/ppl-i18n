@@ -3,8 +3,7 @@
     "lang":"afr",
     "translators":[
       {
-        "name":"Sadrath",
-        "color":"0x05b627bf"
+        "name":"#05b627bfSadrath"
       }
     ]
   },
@@ -12,8 +11,7 @@
     "lang":"code",
     "translators":[
       {
-        "name":"HTTP 418",
-        "color":"0xaaffaaff"
+        "name":"#aaffaaffHTTP 418"
       }
     ]
   },
@@ -21,16 +19,13 @@
     "lang":"deu",
     "translators":[
       {
-        "name":"Lithium",
-        "color":"0x00ff00ff"
+        "name":"#00ff00ffLithium"
       },
       {
-        "name":"AMPW",
-        "color":"0xff0da7ff"
+        "name":"#ff0da7ffAMPW"
       },
       {
-        "name":"Random Doggo",
-        "color":"0xffff00ff"
+        "name":"#ffff00ffRandom Doggo"
       }
     ]
   },
@@ -38,8 +33,7 @@
     "lang":"gre",
     "translators":[
       {
-        "name":"MutoX",
-        "color":"0x000090ff"
+        "name":"#000090ffMutoX"
       }
     ]
   },
@@ -47,8 +41,7 @@
     "lang":"eng",
     "translators":[
       {
-        "name":"JF",
-        "color":"0x0080ffff"
+        "name":"#0080ffffJF"
       }
     ]
   },
@@ -56,12 +49,10 @@
     "lang":"fra",
     "translators":[
       {
-        "name":"Lithium",
-        "color":"0x00ff00ff"
+        "name":"#00ff00ffLithium"
       },
       {
-        "name":"JF",
-        "color":"0x0080ffff"
+        "name":"#0080ffffJF"
       }
     ]
   },
@@ -69,8 +60,7 @@
     "lang":"hrv",
     "translators":[
       {
-        "name":"BlankEra",
-        "color":"0x800000ff"
+        "name":"#800000ffBlankEra"
       }
     ]
   },
@@ -78,8 +68,7 @@
     "lang":"ind",
     "translators":[
       {
-        "name":"StellarIP",
-        "color":"0xff7700ff"
+        "name":"#ff7700ffStellarIP"
       }
     ]
   },
@@ -87,8 +76,7 @@
     "lang":"ita",
     "translators":[
       {
-        "name":"Simoubuntu",
-        "color":"0xffffffff"
+        "name":"Simoubuntu"
       }
     ]
   },
@@ -96,12 +84,10 @@
     "lang":"jpn",
     "translators":[
       {
-        "name":"AMPHASHx2109",
-        "color":"0x7636c6ff"
+        "name":"#7636c6ffAMPHASHx2109"
       },
       {
-        "name":"Ravener",
-        "color":"0x1100e5ff"
+        "name":"#1100e5ffRavener"
       }
     ]
   },
@@ -109,12 +95,10 @@
     "lang":"lit",
     "translators":[
       {
-        "name":"SKPG-Tech",
-        "color":"0x0000ffff"
+        "name":"#0000ffffSKPG-Tech"
       },
       {
-        "name":"Tasty Kiwi",
-        "color":"0x00fb00ff"
+        "name":"#00fb00ffTasty Kiwi"
       }
     ]
   },
@@ -122,12 +106,10 @@
     "lang":"meme",
     "translators":[
       {
-        "name":"Flavour",
-        "color":"0x00ff00ff"
+        "name":"#00ff00ffFlavour"
       },
       {
-        "name":"BlankEra",
-        "color":"0x800000ff"
+        "name":"#800000ffBlankEra"
       }
     ]
   },
@@ -135,8 +117,7 @@
     "lang":"pirate",
     "translators":[
       {
-        "name":"StellarIP",
-        "color":"0xffffff80"
+        "name":"#ffffff80StellarIP"
       }
     ]
   },
@@ -144,8 +125,7 @@
     "lang":"pol",
     "translators":[
       {
-        "name":"Fracix",
-        "color":"0x0300faff"
+        "name":"#0300faffFracix"
       }
     ]
   },
@@ -153,12 +133,10 @@
     "lang":"por",
     "translators":[
       {
-        "name":"MIDNIGHT",
-        "color":"0xe8c02aff"
+        "name":"#e8c02affMIDNIGHT"
       },
       {
-        "name":"MaxXP",
-        "color":"0xffffffff"
+        "name":"MaxXP"
       }
     ]
   },
@@ -166,8 +144,7 @@
     "lang":"ron",
     "translators":[
       {
-        "name":"tavitu",
-        "color":"0x0000ffff"
+        "name":"#0000fffftavitu"
       }
     ]
   },
@@ -175,8 +152,7 @@
     "lang":"rus",
     "translators":[
       {
-        "name":"neoncube",
-        "color":"0xCD0000ff"
+        "name":"#cd0000ffneoncube"
       }
     ]
   },
@@ -184,8 +160,7 @@
     "lang":"spa",
     "translators":[
       {
-        "name":"Angel-24",
-        "color":"0xff9900ff"
+        "name":"#ff9900ffAngel-24"
       }
     ]
   },
@@ -193,8 +168,7 @@
     "lang":"tgl",
     "translators":[
       {
-        "name":"noobie213",
-        "color":"0x7f0061ff"
+        "name":"#7f0061ffnoobie213"
       }
     ]
   },
@@ -202,8 +176,7 @@
     "lang":"chs",
     "translators":[
       {
-        "name":"lkw1125",
-        "color":"0x00ffffff"
+        "name":"#00fffffflkw1125"
       }
     ]
   },
@@ -211,12 +184,10 @@
     "lang":"tur",
     "translators":[
       {
-        "name":"kajxqeirscl",
-        "color":"0xffffffff"
+        "name":"kajxqeirscl"
       },
       {
-        "name":"quanka",
-        "color":"0xff0000ff"
+        "name":"#ff0000ffquanka"
       }
     ]
   },
@@ -224,16 +195,13 @@
     "lang":"ukr",
     "translators":[
       {
-        "name":"MnHs",
-        "color":"0x0080ffff"
+        "name":"#0080ffffMnHs"
       },
       {
-        "name":"Quarlify",
-        "color":"0x8a2be2ff"
+        "name":"#8a2be2ffQuarlify"
       },
       {
-        "name":"Foch",
-        "color":"0x7cf113ff"
+        "name":"#7cf113ffFoch"
       }
     ]
   }
