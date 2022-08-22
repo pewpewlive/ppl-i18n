@@ -21,9 +21,9 @@ the feasibility.
 ## Status
 * [Afrikaans](/translations/afr.po) (11% complete; 236 remaining)
 * [Code](/translations/code.po) (100% complete! 🎉)
-* [German](/translations/deu.po) (93% complete; 19 remaining)
+* [German](/translations/deu.po) (100% complete! 🎉)
 * [Greek](/translations/gre.po) (100% complete! 🎉)
-* [French](/translations/fra.po) (93% complete; 18 remaining)
+* [French](/translations/fra.po) (100% complete! 🎉)
 * [Croatian](/translations/hrv.po) (100% complete! 🎉)
 * [Hungarian](/translations/hun.po) (0% complete; 290 remaining)
 * [Indonesian](/translations/ind.po) (90% complete; 28 remaining)
@@ -42,8 +42,8 @@ the feasibility.
 * [Spanish](/translations/spa.po) (100% complete! 🎉)
 * [Tagalog](/translations/tgl.po) (97% complete; 8 remaining)
 * [Thai](/translations/tha.po) (0% complete; 290 remaining)
-* [Simplified Chinese](/translations/chs.po) (92% complete; 22 remaining)
+* [Simplified Chinese](/translations/chs.po) (100% complete! 🎉)
 * [Traditional Chinese](/translations/cht.po) (12% complete; 255 remaining)
 * [Turkish](/translations/tur.po) (98% complete; 3 remaining)
 * [Ukrainian](/translations/ukr.po) (99% complete; 1 remaining)
-> Report generated on Aug 15 2022 02:19:23 UTC
+> Report generated on Aug 22 2022 02:12:17 UTC
