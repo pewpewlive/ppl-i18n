@@ -295,7 +295,7 @@ msgstr "Daha Fazla Bilgi"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:97
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "Simetrik NAT hatası"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:119
 msgid "Failed to connect to the STUN servers."
@@ -1097,13 +1097,13 @@ msgstr "Yeni kişisel rekor! %s ⇨ %s"
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:40
 msgid "Improved speed run! %s ⇨ %s"
-msgstr ""
+msgstr "Speed run geliştirildi! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:614
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "Başarımın kilidi açıldı: %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
