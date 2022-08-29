@@ -44,6 +44,6 @@ the feasibility.
 * [Thai](/translations/tha.po) (0% complete; 290 remaining)
 * [Simplified Chinese](/translations/chs.po) (100% complete! 🎉)
 * [Traditional Chinese](/translations/cht.po) (12% complete; 255 remaining)
-* [Turkish](/translations/tur.po) (98% complete; 3 remaining)
+* [Turkish](/translations/tur.po) (100% complete! 🎉)
 * [Ukrainian](/translations/ukr.po) (99% complete; 1 remaining)
-> Report generated on Aug 22 2022 02:12:17 UTC
+> Report generated on Aug 29 2022 02:31:04 UTC
