@@ -38,21 +38,13 @@
     ]
   },
   {
-    "lang":"eng",
-    "translators":[
-      {
-        "name":"#0080ffffJF"
-      }
-    ]
-  },
-  {
     "lang":"fra",
     "translators":[
       {
         "name":"#00ff00ffLithium"
       },
       {
-        "name":"#0080ffffJF"
+        "name":"#0080ffffJ#ffff00ffF"
       }
     ]
   },
