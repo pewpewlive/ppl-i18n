@@ -108,7 +108,7 @@ msgstr "接続"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
 msgid "Enter password"
-msgstr "パスワード ニュウリョク"
+msgstr "パスワード入力"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
 msgid "Join"
@@ -120,7 +120,7 @@ msgstr "パスワード:"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
-msgstr "ジョイスティック セッテイ"
+msgstr "ジョイスティック設定"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
 msgid "Swap"
@@ -144,7 +144,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "カーブ"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
@@ -661,7 +661,7 @@ msgstr "#ffff00ffオフィシャル#ffffffff レベルは私 (JF) が作った�
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:74
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffコミュニティ#ffffffff , ツマリ キミタチガ ツクッタ レベル"
+msgstr "#ffff00ffコミュニティ#ffffffff , つまり君たちが作ったレベル"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:75
 msgid "More info on github.com/jyaif/ppl-utils"
@@ -669,7 +669,7 @@ msgstr "もっと詳しい情報がこちら github.com/jyaif/ppl-utils"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffジッケンテキ#ffffffff レベル... マダ リリース サレテイナイ モノ"
+msgstr "#ffff00ffジッケンテキ#ffffffff レベル... まだリリースされていないもの"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:91
 msgid "About the levels"
@@ -825,7 +825,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:29
 msgid "Requesting verification email"
-msgstr "認証メール リクエスト チュウ"
+msgstr "認証メール リクエスト中"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:35
 msgid "Verification email sent"
@@ -881,7 +881,7 @@ msgstr "ニンショウ メール サイソウシン"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:188
 msgid "Request password reset"
-msgstr "パスワード リセットヲ リクエスト"
+msgstr "パスワード リセットを リクエスト"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:214
 msgid "Reset password"
@@ -1050,14 +1050,14 @@ msgstr "シールド: %s"
 #: ../client/application/game/ui/views/account_view.cpp:66
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "レベル"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:69
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "スコア"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links

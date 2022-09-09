@@ -25,7 +25,7 @@
         "name":"#ff0da7ffAMPW"
       },
       {
-        "name":"#ffff00ffRandom Doggo"
+        "name":"#ff8800ffRandom #ffff00ffDoggo"
       }
     ]
   },
@@ -38,21 +38,13 @@
     ]
   },
   {
-    "lang":"eng",
-    "translators":[
-      {
-        "name":"#0080ffffJF"
-      }
-    ]
-  },
-  {
     "lang":"fra",
     "translators":[
       {
         "name":"#00ff00ffLithium"
       },
       {
-        "name":"#0080ffffJF"
+        "name":"#0080ffffJ#ffff00ffF"
       }
     ]
   },
@@ -87,7 +79,7 @@
         "name":"#7636c6ffAMPHASHx2109"
       },
       {
-        "name":"#1100e5ffRavener"
+        "name":"#a827ccffRavener"
       }
     ]
   },
@@ -144,7 +136,7 @@
     "lang":"ron",
     "translators":[
       {
-        "name":"#0000fffftavitu"
+        "name":"#ffff00fftav#ffff80ffitu"
       }
     ]
   },
@@ -168,7 +160,7 @@
     "lang":"tgl",
     "translators":[
       {
-        "name":"#7f0061ffnoobie213"
+        "name":"#8000ffffnoobie#800000ff213"
       }
     ]
   },
