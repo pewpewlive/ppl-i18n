@@ -339,7 +339,7 @@ msgstr "コメントを削除"
 #. Shown in a notification after successfully deleting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:190
 msgid "Successfully deleted comment"
-msgstr "コメントを削除しました"
+msgstr "コメントを削除されました"
 
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:192
@@ -817,7 +817,7 @@ msgstr "ユーザーネームの色を変更する"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
-msgstr "ユーザーネームを変更しました"
+msgstr "ユーザーネームを変更されました"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
 msgid "Failed to update username"
@@ -869,7 +869,7 @@ msgstr "サインイン中"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:154
 msgid "Successfully signed in!"
-msgstr "サインインしました!"
+msgstr "サインインされました!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:167
 msgid "Email not verified"
@@ -1081,7 +1081,7 @@ msgstr "レビュー中"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:135
 msgid "You've been signed out."
-msgstr "サインアウトしました"
+msgstr "サインアウトされました"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:175
 msgid "Failed to download backup data"
