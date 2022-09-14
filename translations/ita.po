@@ -52,7 +52,7 @@ msgstr "Game Over"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
-msgstr "Elaborazione delle risposta fallita"
+msgstr "Elaborazione della risposta fallita"
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
@@ -176,7 +176,7 @@ msgstr "Aiuto"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Il multiplayer locale supporta 2 giocatori connessi alla stessa rete wifi"
+msgstr "Il multiplayer locale supporta 2 giocatori connessi alla stessa rete wifi."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
@@ -184,7 +184,7 @@ msgstr "Un giocatore deve creare la stanza a cui poi si unirà l'altro"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "The wifi network does not have to be connected to the internet."
-msgstr "La rete wifi non deve necessariamente essere connessa a internet"
+msgstr "La rete wifi non deve necessariamente essere connessa a internet."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "Connecting to a phone's hotspot should work!"
@@ -192,7 +192,7 @@ msgstr "Connettersi all'hotspot di un telefono dovrebbe funzionare!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Ogni giocatore deve caricare il replay separatamente per apparire nella classifica online"
+msgstr "Ogni giocatore deve caricare il replay separatamente per entrare nella classifica online."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:64
 msgid "Multiplayer help"
@@ -473,7 +473,7 @@ msgstr "Stile dei joystick"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
-msgstr "Single player"
+msgstr "Single Player"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:47
 msgid "Play"
@@ -1179,7 +1179,7 @@ msgstr "Precedentemente noto come Assalto"
 
 #: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
-msgstr "Nuova medagli di bronzo"
+msgstr "Nuova medaglia di bronzo"
 
 #: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
