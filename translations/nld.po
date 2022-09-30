@@ -669,7 +669,7 @@ msgstr "Meer informatie op github.com/jyaif/ppl-utils"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffExperimentele#ffffffff" levels zijn levels die nog niet zijn uitgekomen.
+msgstr "#ffff00ffExperimentele#ffffffff" levels zijn levels die nog niet zijn uitgekomen."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:91
 msgid "About the levels"
