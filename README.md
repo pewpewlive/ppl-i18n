@@ -21,7 +21,16 @@ the feasibility.
 ## Status
 * [Afrikaans](/translations/afr.po) (11% complete; 236 remaining)
 * [Code](/translations/code.po) (100% complete! 🎉)
+<<<<<<< HEAD
 * [German](/translations/deu.po) (100% complete! 🎉)
+=======
+<<<<<<< HEAD
+* [German](/translations/deu.po) (93% complete; 19 remaining)
+=======
+* [Dutch](/translations/nld.po) (66% complete; 98 remaining)
+* [German](/translations/deu.po) (100% complete! 🎉)
+>>>>>>> 5ff4def (Rework contributors.json into metadata.json. It is now the source of truth for the name and localized names of the languages.)
+>>>>>>> c46a2e7 (Rework contributors.json into metadata.json. It is now the source of truth for the name and localized names of the languages.)
 * [Greek](/translations/gre.po) (100% complete! 🎉)
 * [French](/translations/fra.po) (100% complete! 🎉)
 * [Croatian](/translations/hrv.po) (100% complete! 🎉)
@@ -32,19 +41,42 @@ the feasibility.
 * [Georgian](/translations/kat.po) (100% complete! 🎉)
 * [Korean](/translations/kor.po) (0% complete; 290 remaining)
 * [Lithuanian](/translations/lit.po) (100% complete! 🎉)
-* [Meme-nglish](/translations/meme.po) (93% complete; 18 remaining)
 * [Malay](/translations/msa.po) (0% complete; 290 remaining)
+<<<<<<< HEAD
 * [Dutch](/translations/nld.po) (66% complete; 98 remaining)
+=======
+<<<<<<< HEAD
+* [Dutch](/translations/nld.po) (0% complete; 290 remaining)
+=======
+* [Meme-nglish](/translations/meme.po) (93% complete; 18 remaining)
+>>>>>>> 5ff4def (Rework contributors.json into metadata.json. It is now the source of truth for the name and localized names of the languages.)
+>>>>>>> c46a2e7 (Rework contributors.json into metadata.json. It is now the source of truth for the name and localized names of the languages.)
 * [Pirate Speak](/translations/pirate.po) (74% complete; 75 remaining)
 * [Polish](/translations/pol.po) (100% complete! 🎉)
 * [Portuguese](/translations/por.po) (90% complete; 28 remaining)
 * [Romanian](/translations/ron.po) (100% complete! 🎉)
 * [Russian](/translations/rus.po) (100% complete! 🎉)
+* [Simplified Chinese](/translations/chs.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (100% complete! 🎉)
 * [Tagalog](/translations/tgl.po) (97% complete; 8 remaining)
 * [Thai](/translations/tha.po) (0% complete; 290 remaining)
+<<<<<<< HEAD
 * [Simplified Chinese](/translations/chs.po) (100% complete! 🎉)
+=======
+<<<<<<< HEAD
+* [Simplified Chinese](/translations/chs.po) (92% complete; 22 remaining)
+=======
+>>>>>>> 5ff4def (Rework contributors.json into metadata.json. It is now the source of truth for the name and localized names of the languages.)
+>>>>>>> c46a2e7 (Rework contributors.json into metadata.json. It is now the source of truth for the name and localized names of the languages.)
 * [Traditional Chinese](/translations/cht.po) (12% complete; 255 remaining)
 * [Turkish](/translations/tur.po) (100% complete! 🎉)
 * [Ukrainian](/translations/ukr.po) (99% complete; 1 remaining)
+<<<<<<< HEAD
 > Report generated on Oct 10 2022 02:31:05 UTC
+=======
+<<<<<<< HEAD
+> Report generated on Aug 08 2022 15:02:47 UTC
+=======
+> Report generated on Oct 13 2022 20:26:56 UTC
+>>>>>>> 5ff4def (Rework contributors.json into metadata.json. It is now the source of truth for the name and localized names of the languages.)
+>>>>>>> c46a2e7 (Rework contributors.json into metadata.json. It is now the source of truth for the name and localized names of the languages.)

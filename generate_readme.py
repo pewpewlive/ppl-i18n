@@ -3,6 +3,7 @@
 
 import os
 import datetime
+import json
 import sys
 
 # Change CWD to the script's own director.
@@ -10,9 +11,18 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 
-# language code are in ISO 639-2
-# https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+# Notes about metadata.json (can't put comments in json!):
+#  * language code are in ISO 639-2
+#    https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+#  * There is no code for the chinese variants
+#  * TODO: rename "gre" into "ell", as per wikipedia
+metadata_source_file_path = "metadata.json"
+
+with open(metadata_source_file_path, 'r', encoding='utf8') as f:
+    langs = json.load(f)
+
 lang_files_dir = "translations/"
+<<<<<<< HEAD
 langs = [{"code": "afr", "name": "Afrikaans"},
          {"code": "code", "name": "Code"},
          {"code": "deu", "name": "German"},
@@ -43,11 +53,13 @@ langs = [{"code": "afr", "name": "Afrikaans"},
          {"code": "cht", "name": "Traditional Chinese"},
          {"code": "tur", "name": "Turkish"},
          {"code": "ukr", "name": "Ukrainian"}]
+=======
+>>>>>>> 5ff4def (Rework contributors.json into metadata.json. It is now the source of truth for the name and localized names of the languages.)
 lang_stats = {}
 
 # Generate the stats
 for lang in langs:
-    print("parsing " + lang["name"])
+    print("parsing " + lang["english_name"])
     lang_code = lang["code"]
     lang_file = lang_files_dir + lang_code + ".po"
     message_count = 0.0
@@ -89,7 +101,7 @@ with open(readme_file, 'w', encoding="utf8", newline='\n') as f:
     f.write("## Status\n")
     for lang in langs:
         lang_code = lang["code"]
-        lang_name = lang["name"]
+        lang_name = lang["english_name"]
         stats = lang_stats[lang_code]
         percentage = stats["missing"] / stats["total"]
         percentage = int(100 - percentage * 100)

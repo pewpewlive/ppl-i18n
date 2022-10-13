@@ -1,0 +1,288 @@
+[
+  {
+    "english_name": "Afrikaans",
+    "code": "afr",
+    "localized_name": "Afrikaans",
+    "translators": [
+      {
+        "name": "#05b627bfSadrath"
+      }
+    ]
+  },
+  {
+    "english_name": "Code",
+    "code": "code",
+    "localized_name": "#80ff80ffCode",
+    "translators": [
+      {
+        "name": "#aaffaaffHTTP 418"
+      }
+    ]
+  },
+  {
+    "english_name": "Dutch",
+    "code": "nld",
+    "localized_name": "Dutch",
+    "translators": []
+  },
+  {
+    "english_name": "German",
+    "code": "deu",
+    "localized_name": "Deutsch",
+    "translators": [
+      {
+        "name": "#00ff00ffLithium"
+      },
+      {
+        "name": "#ff0da7ffAMPW"
+      },
+      {
+        "name": "#ff8800ffRandom #ffff00ffDoggo"
+      }
+    ]
+  },
+  {
+    "english_name": "Greek",
+    "code": "gre",
+    "localized_name": "Ελληνικά",
+    "translators": [
+      {
+        "name": "#000090ffMutoX"
+      }
+    ]
+  },
+  {
+    "english_name": "French",
+    "code": "fra",
+    "localized_name": "Français",
+    "translators": [
+      {
+        "name": "#00ff00ffLithium"
+      },
+      {
+        "name": "#0080ffffJ#ffff00ffF"
+      }
+    ]
+  },
+  {
+    "english_name": "Croatian",
+    "code": "hrv",
+    "localized_name": "Hrvatski",
+    "translators": [
+      {
+        "name": "#800000ffBlankEra"
+      }
+    ]
+  },
+  {
+    "english_name": "Hungarian",
+    "code": "hun",
+    "localized_name": "Hungarian",
+    "translators": []
+  },
+  {
+    "english_name": "Indonesian",
+    "code": "ind",
+    "localized_name": "Indonesia",
+    "translators": [
+      {
+        "name": "#ff7700ffStellarIP"
+      }
+    ]
+  },
+  {
+    "english_name": "Italian",
+    "code": "ita",
+    "localized_name": "Italiano",
+    "translators": [
+      {
+        "name": "Simoubuntu"
+      }
+    ]
+  },
+  {
+    "english_name": "Japanese",
+    "code": "jpn",
+    "localized_name": "日本語",
+    "translators": [
+      {
+        "name": "#7636c6ffAMPHASHx2109"
+      },
+      {
+        "name": "#a827ccffRavener"
+      }
+    ]
+  },
+  {
+    "english_name": "Georgian",
+    "code": "kat",
+    "localized_name": "ქართველი",
+    "translators": [
+      {
+        "name": "#800000ffqartveli geo"
+      }
+    ]
+  },
+  {
+    "english_name": "Korean",
+    "code": "kor",
+    "localized_name": "Korean",
+    "translators": []
+  },
+  {
+    "english_name": "Lithuanian",
+    "code": "lit",
+    "localized_name": "Lietuviškai",
+    "translators": [
+      {
+        "name": "#ff0000ffSKPG#ffffffff-#0000ffffTech"
+      },
+      {
+        "name": "#008000ffTasty Kiwi"
+      }
+    ]
+  },
+  {
+    "english_name": "Malay",
+    "code": "msa",
+    "localized_name": "Malay",
+    "translators": []
+  },
+  {
+    "english_name": "Meme-nglish",
+    "code": "meme",
+    "localized_name": "#ff80aaffMeme-nglish",
+    "translators": [
+      {
+        "name": "#00ff00ffFlavour"
+      },
+      {
+        "name": "#800000ffBlankEra"
+      }
+    ]
+  },
+  {
+    "english_name": "Pirate Speak",
+    "code": "pirate",
+    "localized_name": "#ffff88ffPirate Speak",
+    "translators": [
+      {
+        "name": "#ffffff80StellarIP"
+      }
+    ]
+  },
+  {
+    "english_name": "Polish",
+    "code": "pol",
+    "localized_name": "Polski",
+    "translators": [
+      {
+        "name": "#0300faffFracix"
+      }
+    ]
+  },
+  {
+    "english_name": "Portuguese",
+    "code": "por",
+    "localized_name": "Português",
+    "translators": [
+      {
+        "name": "#e8c02affMIDNIGHT"
+      },
+      {
+        "name": "MaxXP"
+      }
+    ]
+  },
+  {
+    "english_name": "Romanian",
+    "code": "ron",
+    "localized_name": "Română",
+    "translators": [
+      {
+        "name": "#ffff00fftav#ffff80ffitu"
+      }
+    ]
+  },
+  {
+    "english_name": "Russian",
+    "code": "rus",
+    "localized_name": "Русский",
+    "translators": [
+      {
+        "name": "#8000ffffneon#ff2f00ffcube"
+      }
+    ]
+  },
+  {
+    "english_name": "Simplified Chinese",
+    "code": "chs",
+    "localized_name": "中文 (简体)",
+    "translators": [
+      {
+        "name": "#00fffffflkw1125"
+      }
+    ]
+  },
+  {
+    "english_name": "Spanish",
+    "code": "spa",
+    "localized_name": "Español",
+    "translators": [
+      {
+        "name": "#ff9900ffAngel-24"
+      }
+    ]
+  },
+  {
+    "english_name": "Tagalog",
+    "code": "tgl",
+    "localized_name": "Tagalog",
+    "translators": [
+      {
+        "name": "#8000ffffnoobie#800000ff213"
+      }
+    ]
+  },
+  {
+    "english_name": "Thai",
+    "code": "tha",
+    "localized_name": "Thai",
+    "translators": []
+  },
+  {
+    "english_name": "Traditional Chinese",
+    "code": "cht",
+    "localized_name": "Traditional Chinese",
+    "translators": []
+  },
+  {
+    "english_name": "Turkish",
+    "code": "tur",
+    "localized_name": "Türkçe",
+    "translators": [
+      {
+        "name": "kajxqeirscl"
+      },
+      {
+        "name": "#800000ffq#ff0000ffua#ff0080ffnka"
+      }
+    ]
+  },
+  {
+    "english_name": "Ukrainian",
+    "code": "ukr",
+    "localized_name": "Українська",
+    "translators": [
+      {
+        "name": "#0080ffffMnHs"
+      },
+      {
+        "name": "#8a2be2ffQuarlify"
+      },
+      {
+        "name": "#7cf113ffFoch"
+      }
+    ]
+  }
+]
