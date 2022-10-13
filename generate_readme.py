@@ -22,39 +22,6 @@ with open(metadata_source_file_path, 'r', encoding='utf8') as f:
     langs = json.load(f)
 
 lang_files_dir = "translations/"
-<<<<<<< HEAD
-langs = [{"code": "afr", "name": "Afrikaans"},
-         {"code": "code", "name": "Code"},
-         {"code": "deu", "name": "German"},
-         # TODO: rename "gre" into "ell", as per wikipedia
-         {"code": "gre", "name": "Greek"},
-         {"code": "fra", "name": "French"},
-         {"code": "hrv", "name": "Croatian"},
-         {"code": "hun", "name": "Hungarian"},
-         {"code": "ind", "name": "Indonesian"},
-         {"code": "ita", "name": "Italian"},
-         {"code": "jpn", "name": "Japanese"},
-         {"code": "kat", "name": "Georgian"},
-         {"code": "kor", "name": "Korean"},
-         {"code": "lit", "name": "Lithuanian"},
-         {"code": "meme", "name": "Meme-nglish"},
-         {"code": "msa", "name": "Malay"},
-         {"code": "nld", "name": "Dutch"},
-         {"code": "pirate", "name": "Pirate Speak"},
-         {"code": "pol", "name": "Polish"},
-         {"code": "por", "name": "Portuguese"},
-         {"code": "ron", "name": "Romanian"},
-         {"code": "rus", "name": "Russian"},
-         {"code": "spa", "name": "Spanish"},
-         {"code": "tgl", "name": "Tagalog"},
-         {"code": "tha", "name": "Thai"},
-         # There is no code for the chinese variants
-         {"code": "chs", "name": "Simplified Chinese"},
-         {"code": "cht", "name": "Traditional Chinese"},
-         {"code": "tur", "name": "Turkish"},
-         {"code": "ukr", "name": "Ukrainian"}]
-=======
->>>>>>> 5ff4def (Rework contributors.json into metadata.json. It is now the source of truth for the name and localized names of the languages.)
 lang_stats = {}
 
 # Generate the stats
