@@ -12,7 +12,11 @@ dname = os.path.dirname(abspath)
 os.chdir(dname)
 
 # Notes about metadata.json (can't put comments in json!):
-#  * language code are in ISO 639-2
+#  * the order in which the languages are is:
+#    - sort-of latin-based languages first, in alphabetical order
+#    - followed by the other real languages, in alphabetical order
+#    - the fun languages, in alphabetical order
+#  * language code are (when possible) in ISO 639-2
 #    https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 #  * There is no code for the chinese variants
 #  * TODO: rename "gre" into "ell", as per wikipedia

@@ -10,16 +10,6 @@
     ]
   },
   {
-    "english_name": "Code",
-    "code": "code",
-    "localized_name": "#80ff80ffCode",
-    "translators": [
-      {
-        "name": "#aaffaaffHTTP 418"
-      }
-    ]
-  },
-  {
     "english_name": "Dutch",
     "code": "nld",
     "localized_name": "Dutch",
@@ -101,29 +91,6 @@
     ]
   },
   {
-    "english_name": "Japanese",
-    "code": "jpn",
-    "localized_name": "日本語",
-    "translators": [
-      {
-        "name": "#7636c6ffAMPHASHx2109"
-      },
-      {
-        "name": "#a827ccffRavener"
-      }
-    ]
-  },
-  {
-    "english_name": "Georgian",
-    "code": "kat",
-    "localized_name": "ქართველი",
-    "translators": [
-      {
-        "name": "#800000ffqartveli geo"
-      }
-    ]
-  },
-  {
     "english_name": "Korean",
     "code": "kor",
     "localized_name": "Korean",
@@ -147,29 +114,6 @@
     "code": "msa",
     "localized_name": "Malay",
     "translators": []
-  },
-  {
-    "english_name": "Meme-nglish",
-    "code": "meme",
-    "localized_name": "#ff80aaffMeme-nglish",
-    "translators": [
-      {
-        "name": "#00ff00ffFlavour"
-      },
-      {
-        "name": "#800000ffBlankEra"
-      }
-    ]
-  },
-  {
-    "english_name": "Pirate Speak",
-    "code": "pirate",
-    "localized_name": "#ffff88ffPirate Speak",
-    "translators": [
-      {
-        "name": "#ffffff80StellarIP"
-      }
-    ]
   },
   {
     "english_name": "Polish",
@@ -215,16 +159,6 @@
     ]
   },
   {
-    "english_name": "Simplified Chinese",
-    "code": "chs",
-    "localized_name": "中文 (简体)",
-    "translators": [
-      {
-        "name": "#00fffffflkw1125"
-      }
-    ]
-  },
-  {
     "english_name": "Spanish",
     "code": "spa",
     "localized_name": "Español",
@@ -248,12 +182,6 @@
     "english_name": "Thai",
     "code": "tha",
     "localized_name": "Thai",
-    "translators": []
-  },
-  {
-    "english_name": "Traditional Chinese",
-    "code": "cht",
-    "localized_name": "Traditional Chinese",
     "translators": []
   },
   {
@@ -282,6 +210,78 @@
       },
       {
         "name": "#7cf113ffFoch"
+      }
+    ]
+  },
+  {
+    "english_name": "Georgian",
+    "code": "kat",
+    "localized_name": "ქართველი",
+    "translators": [
+      {
+        "name": "#800000ffqartveli geo"
+      }
+    ]
+  },
+  {
+    "english_name": "Japanese",
+    "code": "jpn",
+    "localized_name": "日本語",
+    "translators": [
+      {
+        "name": "#7636c6ffAMPHASHx2109"
+      },
+      {
+        "name": "#a827ccffRavener"
+      }
+    ]
+  },
+  {
+    "english_name": "Simplified Chinese",
+    "code": "chs",
+    "localized_name": "中文 (简体)",
+    "translators": [
+      {
+        "name": "#00fffffflkw1125"
+      }
+    ]
+  },
+  {
+    "english_name": "Traditional Chinese",
+    "code": "cht",
+    "localized_name": "Traditional Chinese",
+    "translators": []
+  },
+  {
+    "english_name": "Code",
+    "code": "code",
+    "localized_name": "#80ff80ffCode",
+    "translators": [
+      {
+        "name": "#aaffaaffHTTP 418"
+      }
+    ]
+  },
+  {
+    "english_name": "Meme-nglish",
+    "code": "meme",
+    "localized_name": "#ff80aaffMeme-nglish",
+    "translators": [
+      {
+        "name": "#00ff00ffFlavour"
+      },
+      {
+        "name": "#800000ffBlankEra"
+      }
+    ]
+  },
+  {
+    "english_name": "Pirate Speak",
+    "code": "pirate",
+    "localized_name": "#ffff88ffPirate Speak",
+    "translators": [
+      {
+        "name": "#ffffff80StellarIP"
       }
     ]
   }
