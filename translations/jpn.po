@@ -6,9 +6,59 @@ msgstr "オン"
 msgid "off"
 msgstr "オフ"
 
-#: ../client/application/ui/keyboard_view.cpp:106
+#: ../client/application/ui/keyboard_view.cpp:107
 msgid "ok"
 msgstr "OK"
+
+#. The color "red"
+#: ../client/application/ui/ui_skin.cpp:54
+msgid "Red"
+msgstr ""
+
+#. The color "cyan"
+#: ../client/application/ui/ui_skin.cpp:56
+msgid "Cyan"
+msgstr ""
+
+#. The color "lime"
+#: ../client/application/ui/ui_skin.cpp:58
+msgid "Lime"
+msgstr ""
+
+#. The color "lime green"
+#: ../client/application/ui/ui_skin.cpp:60
+msgid "Lime Green"
+msgstr ""
+
+#. The color "purple"
+#: ../client/application/ui/ui_skin.cpp:62
+msgid "Purple"
+msgstr ""
+
+#. The color "pink"
+#: ../client/application/ui/ui_skin.cpp:64
+msgid "Pink"
+msgstr ""
+
+#. The color "orange"
+#: ../client/application/ui/ui_skin.cpp:66
+msgid "Orange"
+msgstr ""
+
+#. The color "white"
+#: ../client/application/ui/ui_skin.cpp:68
+msgid "White"
+msgstr ""
+
+#. The color "gray"
+#: ../client/application/ui/ui_skin.cpp:70
+msgid "Gray"
+msgstr ""
+
+#. The color "dark blue"
+#: ../client/application/ui/ui_skin.cpp:72
+msgid "Dark Blue"
+msgstr ""
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -18,27 +68,27 @@ msgstr "OK"
 msgid "Update available %s"
 msgstr "更新があります %s"
 
-#: ../client/application/game/game.cpp:172
+#: ../client/application/game/game.cpp:168
 msgid "Quick pause"
 msgstr "一時停止"
 
-#: ../client/application/game/game.cpp:178
+#: ../client/application/game/game.cpp:174
 msgid "Quick pause %s"
 msgstr "一時停止 %s"
 
-#: ../client/application/game/ui/pause_ui.cpp:26
+#: ../client/application/game/ui/pause_ui.cpp:27
 msgid "Continue"
 msgstr "続ける"
 
-#: ../client/application/game/ui/pause_ui.cpp:38
+#: ../client/application/game/ui/pause_ui.cpp:39
 msgid "Pause"
 msgstr "一時停止"
 
-#: ../client/application/game/ui/pause_ui.cpp:54
+#: ../client/application/game/ui/pause_ui.cpp:55
 msgid "Restart"
 msgstr "やり直す"
 
-#: ../client/application/game/ui/pause_ui.cpp:72
+#: ../client/application/game/ui/pause_ui.cpp:73
 msgid "Exit"
 msgstr "終了"
 
@@ -86,6 +136,10 @@ msgstr "サインイン シッパイ"
 msgid "Downloading level..."
 msgstr "レベル ダウンロードチュウ"
 
+#: ../client/application/game/ui/screens/screen_download_level.cpp:60
+msgid "Failed to download level."
+msgstr ""
+
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
 msgstr "サーバーに接続"
@@ -114,7 +168,7 @@ msgstr "パスワード入力"
 msgid "Join"
 msgstr "入る"
 
-#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:40
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:42
 msgid "Password:"
 msgstr "パスワード:"
 
@@ -194,44 +248,50 @@ msgstr "ホットスポット ヘノ セツゾクガ イイデショウ"
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
 msgstr "ミンナデ リーダーボードニ ノルニハ コベツノ リプレイ アップロードガ ヒツヨウデス"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:64
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
 msgstr "マルチプレイ ヘルプ"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:113
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
 msgid "Searching for rooms..."
 msgstr "ルーム検索中..."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:172
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:170
 msgid "(Incompatible version)"
 msgstr "(ゴカンセイ ナシ バージョン)"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:190
 msgid "Create room"
 msgstr "ルームを作成"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:194
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
 msgid "Close room"
 msgstr "ルームを閉じる"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:50
 msgid "Configure Ship"
 msgstr "シップ設定"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
 msgstr "モデル"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
 msgstr "シッポ"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Bullets"
 msgstr "弾丸"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:312
+#. Shown in a button used to configurethe style of joysticks
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:314
 msgid "Joysticks"
+msgstr ""
+
+#. Shown in a button used to configure the color the UI.
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
+msgid "UI colors"
 msgstr ""
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
@@ -262,58 +322,66 @@ msgstr "キロク"
 msgid "Global leaderboards"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:100
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:106
 msgid "Configure keyboard"
 msgstr "キーボード設定"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
 msgid "Move"
 msgstr "移動"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:113
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
 msgstr "射撃"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:174
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
 msgid "Mouse aim %s"
 msgstr "マウス エイム %s"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:66
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
 msgstr "ネットワークをチェックしています"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:84
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Can't play in multiplayer with a symmetric NAT."
 msgstr ""
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
 #. information, or opens a webpage.
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
 msgid "Learn more"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:97
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
 msgid "Symmetric NAT error"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:119
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
+msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
+msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:144
 msgid "Authenticating..."
 msgstr "認証中..."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:156
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:157
 msgid "Need the latest version of the game."
 msgstr "ゲームを更新してください"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:165
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
 msgid "Failed to authenticate"
 msgstr "認証失敗"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:187
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:188
 msgid "Error :("
 msgstr "エラー :("
 
@@ -419,25 +487,41 @@ msgctxt "menu_cancel_action"
 msgid "No"
 msgstr "いいえ"
 
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:96
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
 msgstr "UI設定"
 
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:106
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:131
 msgid "Show in-game score"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:122
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
+msgstr ""
+
+#. Shown in the settings UI, next to an "on/off" switch, when the game is
+#. launched from Steam.
+#. This settings allows you to choose whether you want to enable the game to
+#. update your "Steam status" or not.
+#. The "Steam status" is the status that is shown next to your name in Steam.
+#. example of a status: "Pablo Picasso -- playing Eskiv".
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
+msgid "Steam status"
 msgstr ""
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:160
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:240
 msgid "UI Scale: %s"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
+#. Shown in a label in the settings. The %s is replaced by a percentage, for
+#. example: "UI Inset: 4%"
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
+msgid "UI Inset: %s"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
 msgid "Refresh"
 msgstr "更新"
 
@@ -483,39 +567,39 @@ msgstr "プレイ"
 msgid "Multiplayer"
 msgstr "マルチプレイ"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
 msgid "Joining room"
 msgstr "ルーム参加中"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
 msgid "Creating room"
 msgstr "ルーム サクセイ"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:338
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:337
 msgid "The room expired"
 msgstr "ルームが失効でした"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:352
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:351
 msgid "Unknown error"
 msgstr "謎のエラー"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:367
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:366
 msgid "Failed to join room"
 msgstr "ルーム参加失敗"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:381
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:380
 msgid "Incorrect password"
 msgstr "パスワードが違います"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:384
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:383
 msgid "You are already in the room!"
 msgstr "もうルームに入っています!"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:387
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:386
 msgid "The room does not exist anymore"
 msgstr "ルームがありません"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:390
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:389
 msgid "Room is full"
 msgstr "ルームがいっぱいです"
 
@@ -543,7 +627,7 @@ msgstr "すべてのレベル"
 msgid "Room name: %s"
 msgstr "ルームネーム: %s"
 
-#: ../client/application/game/ui/screens/screen_informations_music.cpp:22
+#: ../client/application/game/ui/screens/screen_informations_music.cpp:23
 msgid "Music"
 msgstr "音楽"
 
@@ -607,105 +691,107 @@ msgstr "オセアニア"
 msgid "South America"
 msgstr "南アメリカ"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:108
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
 msgid "personal"
 msgstr "個人"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:108
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
 msgid "region"
 msgstr "チイキベツ"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
 msgid "continent"
 msgstr "タイリク"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
 msgid "world"
 msgstr "グローバル"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
 msgid "High Scores"
 msgstr "高得点"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:199
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
 msgid "Speed Runs"
 msgstr "スピードラン"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:55
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:44
 msgid "Failed to read replay."
 msgstr "リプレイ ヨミコミ シッパイ"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:82
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:71
 msgid "Failed to download replay."
 msgstr "リプレイ ダウンロード シッパイ"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:213
-msgid "Failed to download level."
-msgstr ""
-
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:33
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:35
 msgid "Official"
 msgstr "オフィシャル"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:34
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
 msgid "Community"
 msgstr "コミュニティ"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
 msgid "Experimental"
 msgstr "実験的"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:73
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffオフィシャル#ffffffff レベルは私 (JF) が作った。 メダルを獲得できる"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:74
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:77
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "#ffff00ffコミュニティ#ffffffff , つまり君たちが作ったレベル"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:75
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "もっと詳しい情報がこちら github.com/jyaif/ppl-utils"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
 msgstr "#ffff00ffジッケンテキ#ffffffff レベル... まだリリースされていないもの"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:91
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:83
 msgid "About the levels"
 msgstr "レベルについて"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:135
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:133
 msgid "Experimental levels"
 msgstr "実験的なレベル"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:31
+#: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
 msgstr "ワールド レコード: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:35
+#: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "Local best: %s"
 msgstr "ローカル ベスト: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:49
+#: ../client/application/game/ui/screens/screen_view_level.cpp:50
 msgid "Loading..."
 msgstr "読み込み中..."
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:84
+#: ../client/application/game/ui/screens/screen_view_level.cpp:85
 msgid "Error reading manifest"
 msgstr "マニフェスト読み込み失敗"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:89
+#: ../client/application/game/ui/screens/screen_view_level.cpp:90
 msgid "Failed to download manifest"
 msgstr "マニフェスト ダウンロード 失敗"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:203
+#: ../client/application/game/ui/screens/screen_view_level.cpp:207
 msgid "average score: %s"
 msgstr "平均スコア: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:324
+#: ../client/application/game/ui/screens/screen_view_level.cpp:328
 msgid "Experimental level"
 msgstr "実験的なレベル"
+
+#. The title of the screen that shows information. Any kind of
+#. information.
+#: ../client/application/game/ui/screens/screen_view_level.cpp:369
+msgid "Information"
+msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
@@ -723,51 +809,67 @@ msgstr "キーボード"
 msgid "Gamepad"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:38
+#: ../client/application/game/ui/screens/screen_informations.cpp:40
 msgid "Directed by %s"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:65
+#: ../client/application/game/ui/screens/screen_informations.cpp:67
 msgid "Development videos"
 msgstr "開発動画"
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:107
+#: ../client/application/game/ui/screens/screen_informations.cpp:109
 msgid "Discord server"
 msgstr "Discord サーバー"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:31
+#. Shown in a button. This buttons lets you see a list of people that
+#. contributed to the game.
+#: ../client/application/game/ui/screens/screen_informations.cpp:171
+msgid "Credits"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
 msgstr "設定"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:76
+#. Name of the setting for when the game is shown in a window.
+#: ../client/application/game/ui/screens/screen_settings.cpp:42
+msgid "Windowed"
+msgstr ""
+
+#. Name of the setting for when the game is shown in fullscreen.
+#: ../client/application/game/ui/screens/screen_settings.cpp:44
+msgid "Fullscreen"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"
 msgstr "コントロール"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:86
+#: ../client/application/game/ui/screens/screen_settings.cpp:107
 msgid "Audio"
 msgstr "オーディオ"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:96
+#: ../client/application/game/ui/screens/screen_settings.cpp:118
 msgid "Language"
 msgstr "言語"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:106
+#: ../client/application/game/ui/screens/screen_settings.cpp:129
 msgid "UI"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:131
+#: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Start tutorial"
 msgstr "チュートリアル開始"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:141
+#: ../client/application/game/ui/screens/screen_settings.cpp:167
 msgid "Launch intro"
 msgstr "イントロ起動"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:150
+#: ../client/application/game/ui/screens/screen_settings.cpp:178
 msgid "Developer mode"
 msgstr "開発者モード"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:202
+#: ../client/application/game/ui/screens/screen_settings.cpp:231
 msgid "Vibration %s"
 msgstr "バイブ %s"
 
@@ -823,67 +925,67 @@ msgstr "ユーザーネームを変更されました"
 msgid "Failed to update username"
 msgstr ""
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:29
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
 msgstr "認証メール リクエスト中"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:35
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
 msgstr "認証メールガ ソウシン サレマシタ"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:37
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
 msgstr "メールを確認してね!"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:41
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
 msgstr "Email サイソウシン シッパイ"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:52
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
 msgstr "パスワード リセット リクエスト チュウ"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:58
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:57
 msgid "Password reset email sent"
 msgstr "パスワード リセット メールガ ソウシン サレマシタ"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:65
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:64
 msgid "Failed to request password reset"
 msgstr "パスワード リセット リクエスト シッパイ"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:80
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:79
 msgid "Sign in"
 msgstr "サインイン"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:82
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
 msgid "Email"
 msgstr "メール"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:82
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
 msgid "Password"
 msgstr "パスワード"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:139
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
 msgid "Signing in"
 msgstr "サインイン中"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:154
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
 msgstr "サインインされました!"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:167
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
 msgid "Email not verified"
 msgstr "Email ニンショウ サレテイマセン"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
 msgid "Re-send verification email"
 msgstr "ニンショウ メール サイソウシン"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:188
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:187
 msgid "Request password reset"
 msgstr "パスワード リセットを リクエスト"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:214
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:213
 msgid "Reset password"
 msgstr "パスワード リセット"
 
@@ -941,71 +1043,71 @@ msgstr ""
 msgid "Your account"
 msgstr "あなたのアカウント"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:22
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
 msgstr "メールが無効です"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:47
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
 msgid "Too short. Minimum %s characters."
 msgstr "短すぎる。%s文字以上"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:54
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:53
 msgid "Too long. Maximum %s characters."
 msgstr "長すぎる。最大は%s文字です"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:71
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
 msgid "Register account"
 msgstr "アカウント トウロク"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Username"
 msgstr "ユーザーネーム"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
 msgstr "パスワード再入力"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:83
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
 msgid "Confirm email"
 msgstr "メール再入力"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:132
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
 msgid "Registering"
 msgstr "トウロクチュウ"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:139
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Registration successful."
 msgstr "トウロク セイコウ"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:141
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
 msgid "Please check your emails!"
 msgstr "メールをチェックしてください!"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
 msgstr "トウロク シッパイ"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Username (you can put colors in!):"
 msgstr "ユーザーネーム (イロガ ツケラレル!)"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm password:"
 msgstr "パスワード再入力:"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Email:"
 msgstr "メール:"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm email:"
 msgstr "メール再入力:"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:212
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
 msgid "Passwords do not match!"
 msgstr "パスワード イッチ シマセン"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:221
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
 msgid "Emails do not match!"
 msgstr "Email イッチ シマセン"
 
@@ -1079,11 +1181,11 @@ msgstr ""
 msgid "IN REVIEW"
 msgstr "レビュー中"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:135
+#: ../client/application/game/player_data/data_synchronizer.cpp:139
 msgid "You've been signed out."
 msgstr "サインアウトされました"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:175
+#: ../client/application/game/player_data/data_synchronizer.cpp:179
 msgid "Failed to download backup data"
 msgstr "バックアップ データ ダウンロード シッパイ"
 
@@ -1101,7 +1203,7 @@ msgstr ""
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: ../client/application/game/player_data/player_data_manager.cpp:614
+#: ../client/application/game/player_data/player_data_manager.cpp:617
 msgid "Achievement Unlocked: %s"
 msgstr ""
 
@@ -1109,19 +1211,19 @@ msgstr ""
 msgid "%s left the game"
 msgstr "%s ゲームを出かけました"
 
-#: ../client/application/game/state/game_state.cpp:480
+#: ../client/application/game/state/game_state.cpp:482
 msgid "N/A"
 msgstr "N/A"
 
-#: ../client/application/game/state/game_state.cpp:492
+#: ../client/application/game/state/game_state.cpp:494
 msgid "Accuracy: %s"
 msgstr "メイチュウリツ: %s"
 
-#: ../client/application/game/state/game_state.cpp:497
+#: ../client/application/game/state/game_state.cpp:499
 msgid "Score: %s"
 msgstr "スコア: %s"
 
-#: ../client/application/game/state/game_state.cpp:502
+#: ../client/application/game/state/game_state.cpp:504
 msgid "Duration: %s"
 msgstr ""
 
@@ -1189,35 +1291,35 @@ msgstr "シルバー メダル カクトク"
 msgid "New gold medal"
 msgstr "ゴールド メダル カクトク"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:8
+#: ../client/application/graphics/renderers/renderer_types.cpp:9
 msgid "Minimal"
 msgstr "ミニマル"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:12
+#: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "High"
 msgstr "キレイ"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:16
+#: ../client/application/graphics/renderers/renderer_types.cpp:12
 msgid "Compression friendly"
 msgstr "コンパクト"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:17
+#: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Ultra low 2x"
 msgstr "レトロ 2x"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:19
+#: ../client/application/graphics/renderers/renderer_types.cpp:18
 msgid "Ultra low 4x"
 msgstr "レトロ 4x"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:21
+#: ../client/application/graphics/renderers/renderer_types.cpp:20
 msgid "Ultra low 8x"
 msgstr "レトロ 8x"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:23
+#: ../client/application/graphics/renderers/renderer_types.cpp:22
 msgid "Ultra low 16x"
 msgstr "レトロ 16x"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:25
+#: ../client/application/graphics/renderers/renderer_types.cpp:24
 msgid "Ultra low 32x"
 msgstr "レトロ 32x"
 
