@@ -1141,7 +1141,7 @@ msgstr "ანგარიშის წაშლის მოთხოვნა 
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
-msgstr "%ველოდები სხვა მოთამაშეს%s"
+msgstr "%sველოდები სხვა მოთამაშეს%s"
 
 #: ../client/application/game/ui/views/game_hud.cpp:59
 msgid "Shield: %s"
