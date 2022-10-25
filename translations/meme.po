@@ -65,8 +65,8 @@ msgstr ""
 #. The %s is replaced with a version number, for example:
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
-msgid "Update available %s"
-msgstr "Ship software update needed %s"
+msgid "Update available"
+msgstr "Ship software update "
 
 #: ../client/application/game/game.cpp:168
 msgid "Quick pause"
@@ -74,7 +74,7 @@ msgstr "Weakling Break"
 
 #: ../client/application/game/game.cpp:174
 msgid "Quick pause %s"
-msgstr "Weakling Break %s"
+msgstr "Weakling Break"
 
 #: ../client/application/game/ui/pause_ui.cpp:27
 msgid "Continue"
