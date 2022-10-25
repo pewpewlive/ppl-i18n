@@ -6,9 +6,59 @@ msgstr "开启"
 msgid "off"
 msgstr "关闭"
 
-#: ../client/application/ui/keyboard_view.cpp:106
+#: ../client/application/ui/keyboard_view.cpp:107
 msgid "ok"
 msgstr "好的"
+
+#. The color "red"
+#: ../client/application/ui/ui_skin.cpp:54
+msgid "Red"
+msgstr ""
+
+#. The color "cyan"
+#: ../client/application/ui/ui_skin.cpp:56
+msgid "Cyan"
+msgstr ""
+
+#. The color "lime"
+#: ../client/application/ui/ui_skin.cpp:58
+msgid "Lime"
+msgstr ""
+
+#. The color "lime green"
+#: ../client/application/ui/ui_skin.cpp:60
+msgid "Lime Green"
+msgstr ""
+
+#. The color "purple"
+#: ../client/application/ui/ui_skin.cpp:62
+msgid "Purple"
+msgstr ""
+
+#. The color "pink"
+#: ../client/application/ui/ui_skin.cpp:64
+msgid "Pink"
+msgstr ""
+
+#. The color "orange"
+#: ../client/application/ui/ui_skin.cpp:66
+msgid "Orange"
+msgstr ""
+
+#. The color "white"
+#: ../client/application/ui/ui_skin.cpp:68
+msgid "White"
+msgstr ""
+
+#. The color "gray"
+#: ../client/application/ui/ui_skin.cpp:70
+msgid "Gray"
+msgstr ""
+
+#. The color "dark blue"
+#: ../client/application/ui/ui_skin.cpp:72
+msgid "Dark Blue"
+msgstr ""
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -18,27 +68,27 @@ msgstr "好的"
 msgid "Update available %s"
 msgstr "更新可用 %s"
 
-#: ../client/application/game/game.cpp:172
+#: ../client/application/game/game.cpp:168
 msgid "Quick pause"
 msgstr "快速暂停"
 
-#: ../client/application/game/game.cpp:178
+#: ../client/application/game/game.cpp:174
 msgid "Quick pause %s"
 msgstr "快速暂停 %s"
 
-#: ../client/application/game/ui/pause_ui.cpp:26
+#: ../client/application/game/ui/pause_ui.cpp:27
 msgid "Continue"
 msgstr "继续"
 
-#: ../client/application/game/ui/pause_ui.cpp:38
+#: ../client/application/game/ui/pause_ui.cpp:39
 msgid "Pause"
 msgstr "暂停"
 
-#: ../client/application/game/ui/pause_ui.cpp:54
+#: ../client/application/game/ui/pause_ui.cpp:55
 msgid "Restart"
 msgstr "重新开始"
 
-#: ../client/application/game/ui/pause_ui.cpp:72
+#: ../client/application/game/ui/pause_ui.cpp:73
 msgid "Exit"
 msgstr "退出"
 
@@ -86,6 +136,10 @@ msgstr "登录失败"
 msgid "Downloading level..."
 msgstr "正在下载关卡..."
 
+#: ../client/application/game/ui/screens/screen_download_level.cpp:60
+msgid "Failed to download level."
+msgstr "下载关卡失败"
+
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
 msgstr "连接至服务器"
@@ -114,7 +168,7 @@ msgstr "输入密码"
 msgid "Join"
 msgstr "加入"
 
-#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:40
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:42
 msgid "Password:"
 msgstr "密码："
 
@@ -194,45 +248,51 @@ msgstr "连接到同一个手机的wifi热点同样可以进行游戏。"
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
 msgstr "为了使两个玩家的名字都出现在在线排行榜上，两个玩家需要分别上传游戏录像。"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:64
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
 msgstr "多人游戏帮助"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:113
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
 msgid "Searching for rooms..."
 msgstr "搜索房间中..."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:172
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:170
 msgid "(Incompatible version)"
 msgstr "(版本不兼容)"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:190
 msgid "Create room"
 msgstr "创建房间"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:194
+#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
 msgid "Close room"
 msgstr "关闭房间"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:50
 msgid "Configure Ship"
 msgstr "配置战机"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
 msgstr "战机"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
 msgstr "尾迹"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:66
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Bullets"
 msgstr "子弹"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:312
+#. Shown in a button used to configurethe style of joysticks
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:314
 msgid "Joysticks"
 msgstr "摇杆"
+
+#. Shown in a button used to configure the color the UI.
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
+msgid "UI colors"
+msgstr ""
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
@@ -262,58 +322,66 @@ msgstr "统计"
 msgid "Global leaderboards"
 msgstr "全球排行榜"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:100
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:106
 msgid "Configure keyboard"
 msgstr "键盘设置"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
 msgid "Move"
 msgstr "移动"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:113
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
 msgstr "射击"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:174
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
 msgid "Mouse aim %s"
 msgstr "鼠标瞄准 %s"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:66
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
 msgstr "检查网络..."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:84
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Can't play in multiplayer with a symmetric NAT."
 msgstr "无法在对称型网络下游玩"
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
 #. information, or opens a webpage.
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
 msgid "Learn more"
 msgstr "了解更多"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:97
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
 msgid "Symmetric NAT error"
 msgstr "对称型网络出错"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:119
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
+msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
+msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
 msgstr "连接至STUN服务器失败"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:144
 msgid "Authenticating..."
 msgstr "验证中..."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:156
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:157
 msgid "Need the latest version of the game."
 msgstr "需要游戏最新版本"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:165
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
 msgid "Failed to authenticate"
 msgstr "验证失败"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:187
+#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:188
 msgid "Error :("
 msgstr "错误"
 
@@ -419,25 +487,41 @@ msgctxt "menu_cancel_action"
 msgid "No"
 msgstr "否"
 
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:96
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
 msgstr "UI设置"
 
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:106
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:131
 msgid "Show in-game score"
 msgstr "游戏内分数显示"
 
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:122
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
 msgstr "快速暂停"
 
+#. Shown in the settings UI, next to an "on/off" switch, when the game is
+#. launched from Steam.
+#. This settings allows you to choose whether you want to enable the game to
+#. update your "Steam status" or not.
+#. The "Steam status" is the status that is shown next to your name in Steam.
+#. example of a status: "Pablo Picasso -- playing Eskiv".
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
+msgid "Steam status"
+msgstr ""
+
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:160
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:240
 msgid "UI Scale: %s"
 msgstr "UI尺寸: %s"
 
-#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:89
+#. Shown in a label in the settings. The %s is replaced by a percentage, for
+#. example: "UI Inset: 4%"
+#: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
+msgid "UI Inset: %s"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
 msgid "Refresh"
 msgstr "刷新"
 
@@ -483,39 +567,39 @@ msgstr "开始游戏"
 msgid "Multiplayer"
 msgstr "多人游戏"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
 msgid "Joining room"
 msgstr "正在加入房间"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
 msgid "Creating room"
 msgstr "正在创建房间"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:338
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:337
 msgid "The room expired"
 msgstr "房间已失效"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:352
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:351
 msgid "Unknown error"
 msgstr "未知错误"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:367
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:366
 msgid "Failed to join room"
 msgstr "加入房间失败"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:381
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:380
 msgid "Incorrect password"
 msgstr "密码错误"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:384
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:383
 msgid "You are already in the room!"
 msgstr "你已经进入了房间"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:387
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:386
 msgid "The room does not exist anymore"
 msgstr "房间不存在"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:390
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:389
 msgid "Room is full"
 msgstr "房间已满"
 
@@ -543,7 +627,7 @@ msgstr "任意关卡"
 msgid "Room name: %s"
 msgstr "房间名称：%s"
 
-#: ../client/application/game/ui/screens/screen_informations_music.cpp:22
+#: ../client/application/game/ui/screens/screen_informations_music.cpp:23
 msgid "Music"
 msgstr "音乐"
 
@@ -607,105 +691,107 @@ msgstr "大洋洲"
 msgid "South America"
 msgstr "南美洲"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:108
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
 msgid "personal"
 msgstr "个人"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:108
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
 msgid "region"
 msgstr "地区"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
 msgid "continent"
 msgstr "大洲"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
 msgid "world"
 msgstr "世界"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
 msgid "High Scores"
 msgstr "最高分"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:199
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
 msgid "Speed Runs"
 msgstr "竞速"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:55
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:44
 msgid "Failed to read replay."
 msgstr "读取录像失败"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:82
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:71
 msgid "Failed to download replay."
 msgstr "下载录像失败"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:213
-msgid "Failed to download level."
-msgstr "下载关卡失败"
-
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:33
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:35
 msgid "Official"
 msgstr "官方"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:34
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
 msgid "Community"
 msgstr "社区"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
 msgid "Experimental"
 msgstr "实验室"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:73
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ff官方#ffffffff 关卡由我 (JF) 设计 , 可以获得奖牌。"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:74
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:77
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "#ffff00ff社区#ffffffff 社区关卡由玩家自制。"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:75
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "更多信息在 github.com/jyaif/ppl-utils"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
 msgstr "#ffff00ff测试#ffffffff 关卡是尚未发布的关卡。"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:91
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:83
 msgid "About the levels"
 msgstr "关于关卡"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:135
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:133
 msgid "Experimental levels"
 msgstr "测试关卡"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:31
+#: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
 msgstr "世界纪录：%s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:35
+#: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "Local best: %s"
 msgstr "本地最高分：%s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:49
+#: ../client/application/game/ui/screens/screen_view_level.cpp:50
 msgid "Loading..."
 msgstr "加载中..."
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:84
+#: ../client/application/game/ui/screens/screen_view_level.cpp:85
 msgid "Error reading manifest"
 msgstr "读取清单出错"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:89
+#: ../client/application/game/ui/screens/screen_view_level.cpp:90
 msgid "Failed to download manifest"
 msgstr "下载清单出错"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:203
+#: ../client/application/game/ui/screens/screen_view_level.cpp:207
 msgid "average score: %s"
 msgstr "平均分：%s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:324
+#: ../client/application/game/ui/screens/screen_view_level.cpp:328
 msgid "Experimental level"
 msgstr "测试关卡"
+
+#. The title of the screen that shows information. Any kind of
+#. information.
+#: ../client/application/game/ui/screens/screen_view_level.cpp:369
+msgid "Information"
+msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
@@ -723,51 +809,67 @@ msgstr "键盘"
 msgid "Gamepad"
 msgstr "手柄"
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:38
+#: ../client/application/game/ui/screens/screen_informations.cpp:40
 msgid "Directed by %s"
 msgstr "制作者：%s"
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:65
+#: ../client/application/game/ui/screens/screen_informations.cpp:67
 msgid "Development videos"
 msgstr "开发者视频"
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:107
+#: ../client/application/game/ui/screens/screen_informations.cpp:109
 msgid "Discord server"
 msgstr "Discord服务器"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:31
+#. Shown in a button. This buttons lets you see a list of people that
+#. contributed to the game.
+#: ../client/application/game/ui/screens/screen_informations.cpp:171
+msgid "Credits"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
 msgstr "设置"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:76
+#. Name of the setting for when the game is shown in a window.
+#: ../client/application/game/ui/screens/screen_settings.cpp:42
+msgid "Windowed"
+msgstr ""
+
+#. Name of the setting for when the game is shown in fullscreen.
+#: ../client/application/game/ui/screens/screen_settings.cpp:44
+msgid "Fullscreen"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"
 msgstr "控制"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:86
+#: ../client/application/game/ui/screens/screen_settings.cpp:107
 msgid "Audio"
 msgstr "音频"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:96
+#: ../client/application/game/ui/screens/screen_settings.cpp:118
 msgid "Language"
 msgstr "语言"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:106
+#: ../client/application/game/ui/screens/screen_settings.cpp:129
 msgid "UI"
 msgstr "UI"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:131
+#: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Start tutorial"
 msgstr "开始教程"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:141
+#: ../client/application/game/ui/screens/screen_settings.cpp:167
 msgid "Launch intro"
 msgstr "播放开场动画"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:150
+#: ../client/application/game/ui/screens/screen_settings.cpp:178
 msgid "Developer mode"
 msgstr "开发者模式"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:202
+#: ../client/application/game/ui/screens/screen_settings.cpp:231
 msgid "Vibration %s"
 msgstr "震动幅度 %s"
 
@@ -823,67 +925,67 @@ msgstr "用户名修改成功"
 msgid "Failed to update username"
 msgstr "更新用户名失败"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:29
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
 msgstr "发送验证邮件"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:35
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
 msgstr "验证邮件已发送"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:37
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
 msgstr "查看你的收件箱"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:41
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
 msgstr "重新发送邮件失败"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:52
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
 msgstr "请求重置密码"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:58
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:57
 msgid "Password reset email sent"
 msgstr "重置密码邮件已发送"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:65
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:64
 msgid "Failed to request password reset"
 msgstr "重置密码请求失败"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:80
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:79
 msgid "Sign in"
 msgstr "登录"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:82
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
 msgid "Email"
 msgstr "邮箱"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:82
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
 msgid "Password"
 msgstr "密码"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:139
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
 msgid "Signing in"
 msgstr "登录中"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:154
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
 msgstr "登陆成功"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:167
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
 msgid "Email not verified"
 msgstr "邮箱未验证"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
 msgid "Re-send verification email"
 msgstr "重新发送验证邮件"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:188
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:187
 msgid "Request password reset"
 msgstr "请求重置密码"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:214
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:213
 msgid "Reset password"
 msgstr "重置密码"
 
@@ -941,71 +1043,71 @@ msgstr "你需要登录才能查看评论"
 msgid "Your account"
 msgstr "你的账户"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:22
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
 msgstr "邮箱不可用"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:47
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
 msgid "Too short. Minimum %s characters."
 msgstr "长度过短，需要至少 %s 个字符"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:54
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:53
 msgid "Too long. Maximum %s characters."
 msgstr "长度过长，最多输入 %s 个字符"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:71
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
 msgid "Register account"
 msgstr "注册账号"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Username"
 msgstr "用户名"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
 msgstr "确认密码"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:83
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
 msgid "Confirm email"
 msgstr "确认邮箱"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:132
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
 msgid "Registering"
 msgstr "注册中"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:139
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Registration successful."
 msgstr "注册成功"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:141
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
 msgid "Please check your emails!"
 msgstr "请查看你的邮箱"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
 msgstr "注册失败"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Username (you can put colors in!):"
 msgstr "用户名（你可以改变颜色）："
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm password:"
 msgstr "确认密码："
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Email:"
 msgstr "邮箱："
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:178
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm email:"
 msgstr "确认邮箱："
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:212
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
 msgid "Passwords do not match!"
 msgstr "密码不匹配"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:221
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
 msgid "Emails do not match!"
 msgstr "邮箱不匹配"
 
@@ -1079,11 +1181,11 @@ msgstr "账号创建日期：%s"
 msgid "IN REVIEW"
 msgstr "检查中"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:135
+#: ../client/application/game/player_data/data_synchronizer.cpp:139
 msgid "You've been signed out."
 msgstr "你已登出"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:175
+#: ../client/application/game/player_data/data_synchronizer.cpp:179
 msgid "Failed to download backup data"
 msgstr "下载备份数据失败"
 
@@ -1101,7 +1203,7 @@ msgstr "新的速通记录！%s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: ../client/application/game/player_data/player_data_manager.cpp:614
+#: ../client/application/game/player_data/player_data_manager.cpp:617
 msgid "Achievement Unlocked: %s"
 msgstr "成就解锁：%s"
 
@@ -1109,19 +1211,19 @@ msgstr "成就解锁：%s"
 msgid "%s left the game"
 msgstr "%s 离开了游戏"
 
-#: ../client/application/game/state/game_state.cpp:480
+#: ../client/application/game/state/game_state.cpp:482
 msgid "N/A"
 msgstr "N/A"
 
-#: ../client/application/game/state/game_state.cpp:492
+#: ../client/application/game/state/game_state.cpp:494
 msgid "Accuracy: %s"
 msgstr "命中率：%s"
 
-#: ../client/application/game/state/game_state.cpp:497
+#: ../client/application/game/state/game_state.cpp:499
 msgid "Score: %s"
 msgstr "分数：%s"
 
-#: ../client/application/game/state/game_state.cpp:502
+#: ../client/application/game/state/game_state.cpp:504
 msgid "Duration: %s"
 msgstr "用时：%s"
 
@@ -1189,35 +1291,35 @@ msgstr "新的银牌"
 msgid "New gold medal"
 msgstr "新的金牌"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:8
+#: ../client/application/graphics/renderers/renderer_types.cpp:9
 msgid "Minimal"
 msgstr "最低"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:12
+#: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "High"
 msgstr "高"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:16
+#: ../client/application/graphics/renderers/renderer_types.cpp:12
 msgid "Compression friendly"
 msgstr "压缩友好"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:17
+#: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Ultra low 2x"
 msgstr "极低x2"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:19
+#: ../client/application/graphics/renderers/renderer_types.cpp:18
 msgid "Ultra low 4x"
 msgstr "极低x4"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:21
+#: ../client/application/graphics/renderers/renderer_types.cpp:20
 msgid "Ultra low 8x"
 msgstr "极低x8"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:23
+#: ../client/application/graphics/renderers/renderer_types.cpp:22
 msgid "Ultra low 16x"
 msgstr "极低x16"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:25
+#: ../client/application/graphics/renderers/renderer_types.cpp:24
 msgid "Ultra low 32x"
 msgstr "极低x32"
 

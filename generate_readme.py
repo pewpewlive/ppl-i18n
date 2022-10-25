@@ -3,6 +3,7 @@
 
 import os
 import datetime
+import json
 import sys
 
 # Change CWD to the script's own director.
@@ -10,43 +11,26 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 
-# language code are in ISO 639-2
-# https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+# Notes about metadata.json (can't put comments in json!):
+#  * the order in which the languages are is:
+#    - sort-of latin-based languages first, in alphabetical order
+#    - followed by the other real languages, in alphabetical order
+#    - the fun languages, in alphabetical order
+#  * language code are (when possible) in ISO 639-2
+#    https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+#  * There is no code for the chinese variants
+#  * TODO: rename "gre" into "ell", as per wikipedia
+metadata_source_file_path = "metadata.json"
+
+with open(metadata_source_file_path, 'r', encoding='utf8') as f:
+    langs = json.load(f)
+
 lang_files_dir = "translations/"
-langs = [{"code": "afr", "name": "Afrikaans"},
-         {"code": "code", "name": "Code"},
-         {"code": "deu", "name": "German"},
-         # TODO: rename "gre" into "ell", as per wikipedia
-         {"code": "gre", "name": "Greek"},
-         {"code": "fra", "name": "French"},
-         {"code": "hrv", "name": "Croatian"},
-         {"code": "hun", "name": "Hungarian"},
-         {"code": "ind", "name": "Indonesian"},
-         {"code": "ita", "name": "Italian"},
-         {"code": "jpn", "name": "Japanese"},
-         {"code": "kor", "name": "Korean"},
-         {"code": "lit", "name": "Lithuanian"},
-         {"code": "meme", "name": "Meme-nglish"},
-         {"code": "msa", "name": "Malay"},
-         {"code": "nld", "name": "Dutch"},
-         {"code": "pirate", "name": "Pirate Speak"},
-         {"code": "pol", "name": "Polish"},
-         {"code": "por", "name": "Portuguese"},
-         {"code": "ron", "name": "Romanian"},
-         {"code": "rus", "name": "Russian"},
-         {"code": "spa", "name": "Spanish"},
-         {"code": "tgl", "name": "Tagalog"},
-         {"code": "tha", "name": "Thai"},
-         # There is no code for the chinese variants
-         {"code": "chs", "name": "Simplified Chinese"},
-         {"code": "cht", "name": "Traditional Chinese"},
-         {"code": "tur", "name": "Turkish"},
-         {"code": "ukr", "name": "Ukrainian"}]
 lang_stats = {}
 
 # Generate the stats
 for lang in langs:
-    print("parsing " + lang["name"])
+    print("parsing " + lang["english_name"])
     lang_code = lang["code"]
     lang_file = lang_files_dir + lang_code + ".po"
     message_count = 0.0
@@ -88,7 +72,7 @@ with open(readme_file, 'w', encoding="utf8", newline='\n') as f:
     f.write("## Status\n")
     for lang in langs:
         lang_code = lang["code"]
-        lang_name = lang["name"]
+        lang_name = lang["english_name"]
         stats = lang_stats[lang_code]
         percentage = stats["missing"] / stats["total"]
         percentage = int(100 - percentage * 100)

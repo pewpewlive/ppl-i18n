@@ -10,6 +10,10 @@ jobs:
   getfiles:
     name: Check changed files for mistakes
     runs-on: ubuntu-latest
+    
+    permissions:
+      pull-requests: write
+      issues: write
 
     steps:
       - uses: actions/checkout@v3

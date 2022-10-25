@@ -1,64 +1,64 @@
 #: ../client/application/ui/ui_helpers.cpp:65
 msgid "on"
-msgstr "hidup"
+msgstr "ჩართვა"
 
 #: ../client/application/ui/ui_helpers.cpp:66
 msgid "off"
-msgstr "mati"
+msgstr "გამორთვა"
 
 #: ../client/application/ui/keyboard_view.cpp:107
 msgid "ok"
-msgstr "ok"
+msgstr "კაი"
 
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "წითელი"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Cyan"
-msgstr ""
+msgstr "ნაცრიცფერი"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
 msgid "Lime"
-msgstr ""
+msgstr "ღია მწვანე"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:60
 msgid "Lime Green"
-msgstr ""
+msgstr "მწვანე"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "იასამისფერი"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "ვარდისფერი"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "სტაფილოსფერი"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "თეთრი"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "ციცფერი"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "მუქი ლურჯი"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -66,83 +66,83 @@ msgstr ""
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Განახლება შესაძლებელია %s"
 
 #: ../client/application/game/game.cpp:168
 msgid "Quick pause"
-msgstr "Jeda cepat"
+msgstr "წრაფი პაუზა"
 
 #: ../client/application/game/game.cpp:174
 msgid "Quick pause %s"
-msgstr "Jeda cepat %s"
+msgstr "წრაფი პაუზა %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:27
 msgid "Continue"
-msgstr "Lanjutkan"
+msgstr "გააგრძელე"
 
 #: ../client/application/game/ui/pause_ui.cpp:39
 msgid "Pause"
-msgstr "Jeda"
+msgstr "პაუზა"
 
 #: ../client/application/game/ui/pause_ui.cpp:55
 msgid "Restart"
-msgstr "Mulai ulang"
+msgstr "გადატვირთვა"
 
 #: ../client/application/game/ui/pause_ui.cpp:73
 msgid "Exit"
-msgstr "Keluar"
+msgstr "გამოსვლა"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr "Main lagi"
+msgstr "ხელახლა თამაში"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr "Game berakhir"
+msgstr "წააგე"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
-msgstr "Gagal untuk mengurai tanggapan"
+msgstr "პასუხის გაანალიზება ვერ მოხერხდა"
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
-msgstr "Gagal untuk menghubungi server"
+msgstr "სერვერთან დაკავშირება ვერ მოხერხდა"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
-msgstr "Level resmi"
+msgstr "ოფიციალური ლეველები"
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
-msgstr "Level dari komunitas"
+msgstr "საზოგადოების ლეველები"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr "bermain %s kali"
+msgstr "თამაშის რაოდენობა: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr "bermain selama: %s"
+msgstr "თამაშის დრო: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
-msgstr "Santai"
+msgstr "შემთხვევითი"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr "Gagal untuk masuk!"
+msgstr "შესვლა ვერ მოხერხდა!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
-msgstr "Mengunduh level..."
+msgstr "ჩამოტვირთვა ლეველი..."
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:60
 msgid "Failed to download level."
-msgstr ""
+msgstr "ჩამოტვირთვის ლეველი ვერ მოხერხდა."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
-msgstr "Menghubungi ke server"
+msgstr "სერვერთან დაკავშირება"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
 msgid "IP:"
@@ -150,144 +150,144 @@ msgstr "IP:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
 msgid "Port:"
-msgstr "Port:"
+msgstr "პორტი:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Terhubung dengan ruang lain melalui internet #ff0000ff(experimental)"
+msgstr "დაუკავშირდით სხვა ოთახს ინტერნეტით #ff0000ff(experimental)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
-msgstr "Hubung"
+msgstr "დაკავშირება"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
 msgid "Enter password"
-msgstr "Masukan kata sandi"
+msgstr "შეიყვანეთ პაროლი"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
 msgid "Join"
-msgstr "Gabung"
+msgstr "შეუერთდი"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:42
 msgid "Password:"
-msgstr "Kata sandi"
+msgstr "პაროლი:"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
-msgstr "Atur pengendali"
+msgstr "ჯოისტიკების კონფიგურაცია"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
 msgid "Swap"
-msgstr "Tukar"
+msgstr "შეცვლა"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:117
 msgid "Reset"
-msgstr "Setel ulang"
+msgstr ""
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "Gamepad-ის კონფიგურაცია"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "მკდარი ზონა"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
-msgstr ""
+msgstr "გაჯერება"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "მურდი"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
-msgstr "Pilih tipe multiplayer"
+msgstr "აირჩიეთ მრავალმოთამაშის ტიპი"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:22
 msgid "Online multiplayer"
-msgstr "Multiplayer online"
+msgstr "ონლაინ მულტიპლეერი"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
 msgid "Play with people around the world!"
-msgstr "Bermain dengan orang di seluruh dunia!"
+msgstr "ითამაშეთ ხალხთან მთელს მსოფლიოში!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
 msgid "LAN multiplayer"
-msgstr "Multiplayer LAN"
+msgstr "LAN მულტიპლეერი"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
 msgid "Play with people on the same network!"
-msgstr "Bermain dengan orang di jaringan yang sama!"
+msgstr "ითამაშეთ ხალხთან იმავე ქსელში!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
-msgstr "Multiplayer lokal"
+msgstr "ლოკალური მულტიპლეერი"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:38
 msgid "Help"
-msgstr "Tolong"
+msgstr "დახმარება"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Multiplayer lokal mendukung 2 pemain terhubung di jaringan wifi yang sama."
+msgstr "ლოკალური მულტიპლეერი მხარს უჭერს 2 მოთამაშეს, რომლებიც დაკავშირებულია იმავე wifi ქსელთან."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
-msgstr "Satu pemain harus membuat ruang, yang pemain lain akan gabung"
+msgstr "ერთმა მოთამაშემ უნდა შექმნას ოთახი, რომელსაც მეორე მოთამაშე უერთდება."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "The wifi network does not have to be connected to the internet."
-msgstr "Jaringan wifi tidak harus terhubung dengan internet."
+msgstr "Wi-Fi ქსელი არ უნდა იყოს დაკავშირებული ინტერნეტთან."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "Menghubungkan ke hotspot ponsel seharusnya berhasil!"
+msgstr "ტელეფონის ცხელ წერტილთან დაკავშირება უნდა იმუშაოს!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Setiap pemain butuh mengunggah replaynya sendiri agar terlihat di papan skor online"
+msgstr "თითოეულმა მოთამაშემ ცალკე უნდა ატვირთოს გამეორება, რომ ორივე გამოჩნდეს ონლაინ ლიდერთა დაფაზე."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
-msgstr "Tolong multiplayer"
+msgstr "მულტიპლეერის დახმარება"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
 msgid "Searching for rooms..."
-msgstr "Mencari ruang..."
+msgstr "ოთახების ძებნა..."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:170
 msgid "(Incompatible version)"
-msgstr "(Versi tak mendukung)"
+msgstr "(შეუთავსებელი ვერსია)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:190
 msgid "Create room"
-msgstr "Buat ruang"
+msgstr "შექმენით ოთახი"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
 msgid "Close room"
-msgstr "Tutup ruang"
+msgstr "ოთახის დახურვა"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:50
 msgid "Configure Ship"
-msgstr "Atur Kapal"
+msgstr "გემის კონფიგურაცია"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
-msgstr "Model"
+msgstr "მოდელი"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
-msgstr "Jejak"
+msgstr "ბილიკი"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Bullets"
-msgstr "Peluru"
+msgstr "ტყვიები"
 
 #. Shown in a button used to configurethe style of joysticks
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:314
 msgid "Joysticks"
-msgstr ""
+msgstr "ჯოისტიკები"
 
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
@@ -296,66 +296,66 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
-msgstr "Unggah skor"
+msgstr "ატვირთეთ ქულები"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
 msgid "Nothing to upload!"
-msgstr "Tidak ada yang untuk di unggah!"
+msgstr "ატვირთვა არაფერია!"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
 msgid "Failed to upload replays."
-msgstr "Gagal untuk mengunggah replay."
+msgstr "გამეორებების ატვირთვა ვერ მოხერხდა."
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
-msgstr "Sukses mengunggah"
+msgstr "ატვირთვა წარმატებით დასრულდა"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
-msgstr "Mengunggah replay untuk %s."
+msgstr "განმეორებითი დაკვრის ატვირთვა ამისთვის %s."
 
 #: ../client/application/game/ui/screens/screen_career.cpp:28
 msgid "Statistics"
-msgstr "Statistik"
+msgstr "სტატისტიკა"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:55
 msgid "Global leaderboards"
-msgstr ""
+msgstr "გლობალური ლიდერბორდები"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:106
 msgid "Configure keyboard"
-msgstr "Atur keyboard"
+msgstr "კლავიატურის კონფიგურაცია"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
 msgid "Move"
-msgstr "Bergerak"
+msgstr "გადაადგილება"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
-msgstr "Tembak"
+msgstr "ესროლე"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
 msgid "Mouse aim %s"
-msgstr "Pembidik mouse %s"
+msgstr "მაუსის მიზანი %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
-msgstr "Mengecek jaringan..."
+msgstr "ქსელის შემოწმება..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Tidak bisa bermain multiplayer dengan simetrik NAT."
+msgstr "არ შეიძლება მულტიპლეიერში თამაში სიმეტრიული NAT-ით."
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
 msgid "Learn more"
-msgstr ""
+msgstr "Გაიგე მეტი"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "სიმეტრიული NAT შეცდომა"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
@@ -367,105 +367,105 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
-msgstr "Gagal untuk mengkoneksikan ke server STUN."
+msgstr "STUN სერვერებთან დაკავშირება ვერ მოხერხდა."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:144
 msgid "Authenticating..."
-msgstr "Mengautentikasikan..."
+msgstr "ავთენტიფიკაცია..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:157
 msgid "Need the latest version of the game."
-msgstr "Butuh versi terbaru dari game."
+msgstr "გვჭირდება თამაშის უახლესი ვერსია."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
 msgid "Failed to authenticate"
-msgstr "Gagal untuk Mengautentikasi"
+msgstr "ავთენტიფიკაცია ვერ მოხერხდა"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:188
 msgid "Error :("
-msgstr "Ada kesalahan =["
+msgstr "შეცდომა :("
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:155
 msgid "Are you sure you want to report this comment?"
-msgstr "Apakah kamu ingin melaporkan komentar ini?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ კომენტარის შეტყობინება?"
 
 #. Shown in a notification after successfully reporting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:157
 msgid "Successfully reported comment"
-msgstr "Berhasil melaporkan komentar"
+msgstr "კომენტარი წარმატებით იქნა მოხსენებული"
 
 #. Shown in a notification if a comment could not be reported.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Error reporting comment"
-msgstr "Error saat melaporkan"
+msgstr "შეცდომა კომენტარის მოხსენებისას"
 
 #. The title of the screen where players delete comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:188
 msgid "Delete comment"
-msgstr "Hapus Komentar"
+msgstr "კომენტარის წაშლა"
 
 #. Shown in a notification after successfully deleting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:190
 msgid "Successfully deleted comment"
-msgstr "Berhasil menghapus komentar"
+msgstr "კომენტარი წარმატებით წაიშალა"
 
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:192
 msgid "Error deleting comment"
-msgstr "Error saat menghapus komentar"
+msgstr "შეცდომა კომენტარის წაშლისას"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:195
 msgid "Are you sure you want to delete this comment?"
-msgstr "Apakah kamu yakin mengapung komentar ini?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ კომენტარის წაშლა?"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:276
 msgid "<Add a comment here>"
-msgstr "<Tambah komentar disini>"
+msgstr "<დაამატეთ კომენტარი აქ>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:291
 msgid "Comment"
-msgstr "Komentar"
+msgstr "კომენტარი"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:297
 msgid "Comment must be at least 3 characters long."
-msgstr "Komentar setidaknya memiliki lebih dari 3 huruf."
+msgstr "კომენტარი უნდა იყოს მინიმუმ 3 სიმბოლო."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:313
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "გთხოვთ უყუროთ თქვენს ენას. არანაირი შეურაცხყოფა, გინება, სპამი. ჩვენ შეიძლება წავშალოთ ნებისმიერი პოსტი, რომელიც არღვევს ამ წესს, და დავბლოკოთ ან ავკრძალოთ დამნაშავეები."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:337
 msgid "Posting comment"
-msgstr "Unggah komentar"
+msgstr "კომენტარის გამოქვეყნება"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:358
 msgid "Comment posted"
-msgstr "Komentar terunggah"
+msgstr "გამოქვეყნებულია კომენტარი"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:362
 msgid "Failed to post comment"
-msgstr "Gagal mengunggah komentar"
+msgstr "კომენტარის გამოქვეყნება ვერ მოხერხდა"
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:154
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr "Laporkan komentar"
+msgstr "კომენტარის შესახებ შეტყობინება"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr "Tambah komentar"
+msgstr "Დაამატე კომენტარი"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -475,7 +475,7 @@ msgstr "Tambah komentar"
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:425
 msgctxt "menu_confirm_action"
 msgid "Yes"
-msgstr "Iya"
+msgstr "კი"
 
 #. Displayed in a button. The button is used in menus asking whether to
 #. confirm an action.
@@ -485,15 +485,15 @@ msgstr "Iya"
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:438
 msgctxt "menu_cancel_action"
 msgid "No"
-msgstr "Tidak"
+msgstr "არა"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
-msgstr ""
+msgstr "UI პარამეტრები"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:131
 msgid "Show in-game score"
-msgstr ""
+msgstr "აჩვენე თამაშში არსებული ქულები"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
@@ -513,7 +513,7 @@ msgstr ""
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:240
 msgid "UI Scale: %s"
-msgstr ""
+msgstr "UI მასშტაბი: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
@@ -523,133 +523,133 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
 msgid "Refresh"
-msgstr "Segarkan"
+msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
-msgstr "Pengaturan bahasa"
+msgstr "Ენის პარამეტრები"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:20
 msgid "The translations are community provided!"
-msgstr "Penerjemahan disediakan oleh komunitas!"
+msgstr "თარგმანები უზრუნველყოფილია საზოგადოებისთვის!"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
-msgstr "Bahasa default"
+msgstr "ნაგულისხმევი ენა"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
-msgstr "Tolonglah"
+msgstr "Დახმარება"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:53
 msgid "Contributors"
-msgstr "Kontributor"
+msgstr "კონტრიბუტორები"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
-msgstr "Lengkahi"
+msgstr "გამოტოვება"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "ჯოისტიკის სტილი"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
-msgstr "Satu pemain"
+msgstr "Ერთი მოთამაშე"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:47
 msgid "Play"
-msgstr "Main"
+msgstr "თამაშის დაწყება"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:75
 msgid "Multiplayer"
-msgstr "Multiplayer"
+msgstr "მულტიპლეერი"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
 msgid "Joining room"
-msgstr "Bergabung ke ruang"
+msgstr "შეერთება ოთახი"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
 msgid "Creating room"
-msgstr "Buat ruang"
+msgstr "ოთახის შექმნა"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:337
 msgid "The room expired"
-msgstr "Ruangan kadaluarsa"
+msgstr "ოთახს ვადა გაუვიდა"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:351
 msgid "Unknown error"
-msgstr "Kesalahan tidak diketahui"
+msgstr "Უცნობი შეცდომა"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:366
 msgid "Failed to join room"
-msgstr "Gagal untuk gabung ruang"
+msgstr "ოთახთან შეერთება ვერ მოხერხდა"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:380
 msgid "Incorrect password"
-msgstr "Kata sandi salah"
+msgstr "არასწორი პაროლი"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:383
 msgid "You are already in the room!"
-msgstr "Kau sudah ada didalam ruang!"
+msgstr "შენ უკვე ოთახში ხარ!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:386
 msgid "The room does not exist anymore"
-msgstr "Ruangnya tidak ada lagi"
+msgstr "ოთახი აღარ არსებობს"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:389
 msgid "Room is full"
-msgstr "Ruang penuh"
+msgstr "ოთახი სავსეა"
 
 #: ../client/application/game/ui/screens/screen_tutorial.cpp:31
 msgid "Tutorial"
-msgstr "Tutorial"
+msgstr "სახელმძღვანელო"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:39
 msgid "Room configuration"
-msgstr "Pengaturan ruang"
+msgstr "ოთახის კონფიგურაცია"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
 msgid "2 extra characters (optional):"
-msgstr "2 ekstar huruf (Tidak harus):"
+msgstr "2 დამატებითი სიმბოლო (optional):"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
 msgid "Password (optional):"
-msgstr "Kata sandi (tidak harus):"
+msgstr "პაროლი (optional):"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
 msgid "Any level"
-msgstr "Level apapun"
+msgstr "ნებისმიერი ლეველი"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:180
 msgid "Room name: %s"
-msgstr "Nama ruang: %s"
+msgstr "ოთახის სახელი: %s"
 
 #: ../client/application/game/ui/screens/screen_informations_music.cpp:23
 msgid "Music"
-msgstr "Musik"
+msgstr "მუსიკა"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
-msgstr "Koneksi error"
+msgstr "Კავშირის შეცდომა"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
 msgid "Lost connection to host"
-msgstr "Hilang koneksi dengan host"
+msgstr "დაკარგა კავშირი მასპინძელთან"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:19
 msgid "Audio Settings"
-msgstr "Pengaturan suara"
+msgstr "აუდიო პარამეტრები"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:28
 msgid "Sound effects"
-msgstr "Suara efek"
+msgstr "Ხმის ეფექტები"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:122
 msgid "Visualization"
-msgstr "Visualisasi"
+msgstr "ვიზუალიზაცია"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
 msgid "1p"
@@ -669,123 +669,123 @@ msgstr "4p"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:31
 msgid "Africa"
-msgstr "Afrika"
+msgstr "აფრიკა"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:32
 msgid "Asia"
-msgstr "Asia"
+msgstr "აზია"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Europe"
-msgstr "Eropa"
+msgstr "ევროპა"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:34
 msgid "North America"
-msgstr "Amerika utara"
+msgstr "ჩრდილოეთ ამერიკა"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:35
 msgid "Oceania"
-msgstr "Osenia"
+msgstr "ოკეანია"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
 msgid "South America"
-msgstr "Amerika selatan"
+msgstr "სამხრეთ ამერიკა"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
 msgid "personal"
-msgstr "pribadi"
+msgstr "პირადი"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
 msgid "region"
-msgstr "negara"
+msgstr "რეგიონი"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
 msgid "continent"
-msgstr "Benua"
+msgstr "კონტინენტი"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
 msgid "world"
-msgstr "dunia"
+msgstr "მსოფლიო"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
 msgid "High Scores"
-msgstr ""
+msgstr "მაღალი ქულები"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
 msgid "Speed Runs"
-msgstr ""
+msgstr "სიჩქარის გაშვება"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:44
 msgid "Failed to read replay."
-msgstr "Gagal untuk membaca replay."
+msgstr "განმეორებითი დაკვრის წაკითხვა ვერ მოხერხდა."
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:71
 msgid "Failed to download replay."
-msgstr "Gagal untuk mengunduh replay."
+msgstr "განმეორებითი დაკვრის ჩამოტვირთვა ვერ მოხერხდა."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:35
 msgid "Official"
-msgstr "Resmi"
+msgstr "ოფიციალური"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
 msgid "Community"
-msgstr "Komunitas"
+msgstr "საზოგადოება"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
 msgid "Experimental"
-msgstr "Percobaan"
+msgstr "ექსპერიმენტული"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffOfficial#ffffffff level yang dibuat oleh ku (JF), dan bisa mendapatkan medali."
+msgstr "#ffff00ffOfficial#ffffffff ლეველეები შექმნილია ჩემს მიერ (JF) და გაძლევთ საშუალებას მიიღოთ მედლები."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:77
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffCommunity#ffffffff level yang dibuat oleh KAU, Komunitasnya."
+msgstr "#ffff00ffCommunity#ffffffff ლეველები აშენებულია თქვენ მიერ, საზოგადოების მიერ."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "Lebih banyak info di github.com/jyaif/ppl-utils"
+msgstr "მეტი ინფორმაცია github.com/jyaif/ppl-utils"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffExperimental#ffffffff level yang belum di rilis."
+msgstr "#ffff00ffExperimental#ffffffff ლეველები არის ლეველები, რომლებიც ჯერ არ გამოქვეყნებულა."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:83
 msgid "About the levels"
-msgstr "Tentang level ini"
+msgstr "ლეველები შესახებ"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:133
 msgid "Experimental levels"
-msgstr "Level Percobaan"
+msgstr "ექსპერიმენტული ლეველები"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
-msgstr "Rekor dunia: %s"
+msgstr "Მსოფლიო რეკორდი: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "Local best: %s"
-msgstr "Terbaik lokal: %s"
+msgstr "ადგილობრივი საუკეთესო: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:50
 msgid "Loading..."
-msgstr "Memuat..."
+msgstr "Ჩატვირთვა..."
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:85
 msgid "Error reading manifest"
-msgstr "Kesalahan membaca manifes"
+msgstr "შეცდომა მანიფესტის წაკითხვისას"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:90
 msgid "Failed to download manifest"
-msgstr "Gagal untuk mengunduh manifes"
+msgstr "მანიფესტის ჩამოტვირთვა ვერ მოხერხდა"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:207
 msgid "average score: %s"
-msgstr "Skor rata-rata: %s"
+msgstr "საშუალო ქულა: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:328
 msgid "Experimental level"
-msgstr "Level percobaan"
+msgstr "ექსპერიმენტული ლეველი"
 
 #. The title of the screen that shows information. Any kind of
 #. information.
@@ -795,31 +795,31 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
-msgstr "Pengaturan kontrol"
+msgstr "კონტროლის პარამეტრები"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
-msgstr "Layar sentuh"
+msgstr "Შეეხე ეკრანს"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:38
 msgid "Keyboard"
-msgstr "Keyboard"
+msgstr "კლავიატურა"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:40
 msgid "Directed by %s"
-msgstr "Dipimpin oleh %s"
+msgstr "Რეჟისორია %s"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:67
 msgid "Development videos"
-msgstr "Video pengembangan"
+msgstr "განვითარების ვიდეოები"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:109
 msgid "Discord server"
-msgstr "Server discord"
+msgstr "Discord server"
 
 #. Shown in a button. This buttons lets you see a list of people that
 #. contributed to the game.
@@ -829,7 +829,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
-msgstr "Pengaturan"
+msgstr "პარამეტრები"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_settings.cpp:42
@@ -843,323 +843,323 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"
-msgstr "Kontrol"
+msgstr "კონტროლი"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:107
 msgid "Audio"
-msgstr "Suara"
+msgstr "რადიო"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:118
 msgid "Language"
-msgstr "Bahasa"
+msgstr "ენა"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:129
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Start tutorial"
-msgstr "Mulai tutorial"
+msgstr "გაკვეთილის დაწყება"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:167
 msgid "Launch intro"
-msgstr "Putar intro"
+msgstr "გაშვება შესავალი"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:178
 msgid "Developer mode"
-msgstr "Mode pengembangan"
+msgstr "დეველოპერის რეჟიმი"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:231
 msgid "Vibration %s"
-msgstr "Getaran %s"
+msgstr "ვიბრაცია %s"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:188
 msgid "Local lobby"
-msgstr "Lobi lokal"
+msgstr "ადგილობრივი ლობი"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:191
 msgid "Online lobby"
-msgstr "Lobi online"
+msgstr "ონლაინ ლობი"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:197
 msgid "Ready"
-msgstr "Siap"
+msgstr "მზადაა"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:206
 msgid "Cancel"
-msgstr "Batal"
+msgstr "გაუქმება"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:349
 msgid "Waiting for other players..."
-msgstr "Menunggu pemain lain..."
+msgstr "ველოდები სხვა მოთამაშეებს..."
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
 msgid "Change colors"
-msgstr "Ubah warna"
+msgstr "ფერების შეცვლა"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
 msgid "Old username:"
-msgstr "Nama lama:"
+msgstr "ძველი მომხმარებლის სახელი:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
 msgid "New username:"
-msgstr "Nama baru:"
+msgstr "ახალი მომხმარებლის სახელი:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
 msgid "Change"
-msgstr "Ubah"
+msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
 msgid "Only change colors! %s"
-msgstr "Hanya mengubah warna! %s"
+msgstr "მხოლოდ ფერების შეცვლა! %s"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
 msgid "Username color change"
-msgstr "Mengubah warna nama"
+msgstr "მომხმარებლის სახელის ფერის შეცვლა"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
-msgstr "Nama sukses diubah"
+msgstr "მომხმარებლის სახელის შეცვლა წარმატებით დასრულდა"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
 msgid "Failed to update username"
-msgstr "Gagal untuk memperbarui nama"
+msgstr "მომხმარებლის სახელის განახლება ვერ მოხერხდა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
-msgstr "Meminta Verifikasi email"
+msgstr "ითხოვს დადასტურების ელფოსტას"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
-msgstr "Email verifikasi terkirim"
+msgstr "გადამოწმების ელფოსტა გაიგზავნა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr "Chek kotak surat mu!"
+msgstr "შეამოწმეთ თქვენი შემომავალი!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
-msgstr "Gagal mengirim ulang email"
+msgstr "ელფოსტის ხელახლა გაგზავნა ვერ მოხერხდა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
-msgstr "Meminta setel ulang kata sandi"
+msgstr "პაროლის გადაყენების მოთხოვნა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:57
 msgid "Password reset email sent"
-msgstr "Email penyetel ulang kata sandi terkirim"
+msgstr "პაროლის აღდგენის ელფოსტა გაიგზავნა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:64
 msgid "Failed to request password reset"
-msgstr "Gagal untuk meminta menyetel ulang kata sandi"
+msgstr "პაროლის გადაყენების მოთხოვნა ვერ მოხერხდა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:79
 msgid "Sign in"
-msgstr "Masuk"
+msgstr "Შებრძანდით"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
 msgid "Email"
-msgstr "Email"
+msgstr "ემაილი"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
 msgid "Password"
-msgstr "Kata sandi"
+msgstr "პაროლი"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
 msgid "Signing in"
-msgstr "Memasukan"
+msgstr "Ავტორიზაცია"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
-msgstr "Berhasil masuk!"
+msgstr "შესვლა წარმატებით დასრულდა!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
 msgid "Email not verified"
-msgstr "Email tidak terverifikasi"
+msgstr "ელფოსტა არ არის დადასტურებული"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
 msgid "Re-send verification email"
-msgstr "Mengirim ulang verifikasi email"
+msgstr "ხელახლა გაგზავნეთ დამადასტურებელი ელ.წერილი"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:187
 msgid "Request password reset"
-msgstr "Minta setel ulang kata sandi"
+msgstr "მოითხოვეთ პაროლის აღდგენა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:213
 msgid "Reset password"
-msgstr "Setel ulang kata sandi"
+msgstr "პაროლის გადატვირთვა"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
 msgid "Synchronizing"
-msgstr "Mensinkronisasikan"
+msgstr "სინქრონიზაცია"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:55
 msgid "Failed to synchronize."
-msgstr "Gagal untuk mensinkronisasi"
+msgstr "სინქრონიზაცია ვერ მოხერხდა."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:61
 msgid "Synchronization completed."
-msgstr "Sinkronisasi Selesai."
+msgstr "სინქრონიზაცია დასრულდა."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:62
 msgid "All your medals are here."
-msgstr "Semua medali mu disini."
+msgstr "ყველა თქვენი მედალი აქ არის."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
-msgstr "Akun"
+msgstr "ანგარიში"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
 msgid "Not signed in"
-msgstr "Tidak masuk"
+msgstr "შესული არ არის"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
-msgstr "Buat akun untuk menetapkan nama dan sinkronisasikan data mu"
+msgstr "შექმენით ანგარიში თქვენი სახელის დასაყენებლად და თქვენი მონაცემების სინქრონიზაციისთვის"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
 msgid "Register"
-msgstr "Daftar"
+msgstr "რეგისტრაცია"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
 msgid "Privacy Policy"
-msgstr "Kebijakan pribadi"
+msgstr "Კონფიდენციალურობის პოლიტიკა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
 msgid "You need to be signed-in to upload scores"
-msgstr "Kau harus masuk akun agar dapat mengunggah skor"
+msgstr "ქულების ასატვირთად სისტემაში უნდა იყოთ შესული"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to play online"
-msgstr "Kau harus masuk akun agar dapat bermain online"
+msgstr "თქვენ უნდა იყოთ შესული, რომ ითამაშოთ ონლაინ"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
 msgid "You need to be signed-in to view comments"
-msgstr "Kamu perlu masukan akun sebelum melihat komentar-komentar"
+msgstr "კომენტარების სანახავად სისტემაში უნდა იყოთ შესული"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
-msgstr "Akun mu"
+msgstr "Თქვენი ანგარიში"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
-msgstr "Email salah!"
+msgstr "ელფოსტა არასწორია!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
 msgid "Too short. Minimum %s characters."
-msgstr "Terlalu pendek. Minimum %s huruf"
+msgstr "Ძალიან მოკლე. Მინიმალური %s პერსონაჟები."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:53
 msgid "Too long. Maximum %s characters."
-msgstr "Terlalu panjang. Maksimum %s huruf"
+msgstr "Ძალიან გრძელი. მაქსიმუმ %s სიმბოლო."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
 msgid "Register account"
-msgstr "Daftar akun"
+msgstr "ანგარიშის რეგისტრაცია"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Username"
-msgstr "Nama pengguna"
+msgstr "მომხმარებლის სახელი"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
-msgstr "Konfirmasi kata sandi"
+msgstr "Პაროლის დადასტურება"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
 msgid "Confirm email"
-msgstr "Konfirmasi email"
+msgstr "Დაადასტურეთ ელ - ფოსტა"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
 msgid "Registering"
-msgstr "Mendaftarkan"
+msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Registration successful."
-msgstr "Pendaftaran berhasil."
+msgstr "წარმატებული რეგისტრაცია."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
 msgid "Please check your emails!"
-msgstr "Tolong periksa email mu!"
+msgstr "გთხოვთ, შეამოწმოთ თქვენი ელ.წერილი!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
-msgstr "Gagal untuk mendaftar"
+msgstr "რეგისტრაცია ვერ მოხერხდა"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Username (you can put colors in!):"
-msgstr "Nama pengguna (kamu bisa memakai warna disini!):"
+msgstr "მომხმარებლის სახელი (შეგიძლიათ ჩადოთ ფერები!):"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm password:"
-msgstr "Konfirmasi kata sandi:"
+msgstr "Პაროლის დადასტურება:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Email:"
-msgstr "Email:"
+msgstr "ემაილი:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm email:"
-msgstr "Konfirmasi email:"
+msgstr "Დაადასტურეთ ელ - ფოსტა:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
 msgid "Passwords do not match!"
-msgstr "Kata sandi tidak cocok"
+msgstr "პაროლები არ ემთხვევა!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
 msgid "Emails do not match!"
-msgstr "Email tidak cocok!"
+msgstr "ელფოსტა არ ემთხვევა!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:40
 msgid "Synchronize"
-msgstr "Sinkronisasi"
+msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:50
 msgid "Sign out"
-msgstr "Keluar"
+msgstr "Სისტემიდან გამოსვლა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:61
 msgid "Delete account"
-msgstr "Hapus akun"
+msgstr "Ანგარიშის წაშლა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:76
 msgid "Account deletion"
-msgstr "Penghapusan akun"
+msgstr "ანგარიშის წაშლა"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:83
 msgid "Account deletion requested."
-msgstr "Meminta penghapusan akun."
+msgstr "მოითხოვა ანგარიშის წაშლა."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:85
 msgid "An email asking for confirmation was sent."
-msgstr "Sebuah email meminta konfirmasi telah dikirim."
+msgstr "გაიგზავნა ელ.წერილი დადასტურების მოთხოვნით."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:90
 msgid "Failed to request account deletion"
-msgstr "Gagal untuk meminta penghapusan akun"
+msgstr "ანგარიშის წაშლის მოთხოვნა ვერ მოხერხდა"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
-msgstr "%sMenunggu pemain lain%s"
+msgstr "%sველოდები სხვა მოთამაშეს%s"
 
 #: ../client/application/game/ui/views/game_hud.cpp:59
 msgid "Shield: %s"
-msgstr "Pelindung: %s"
+msgstr "Იცავს: %s"
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
 #: ../client/application/game/ui/views/account_view.cpp:66
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "ლეველები"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:69
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "ქულები"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1167,7 +1167,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:73
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "გენერალი"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1175,151 +1175,151 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:265
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "შეერთების თარიღი: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
-msgstr "DALAM PENILAIAN"
+msgstr "ᲒᲐᲜᲮᲘᲚᲕᲐᲨᲘᲐ"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:139
 msgid "You've been signed out."
-msgstr "Kau telah keluar."
+msgstr "თქვენ გასული ხართ."
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:179
 msgid "Failed to download backup data"
-msgstr "Gagal untuk mengunduh data cadangan"
+msgstr "სარეზერვო მონაცემების ჩამოტვირთვა ვერ მოხერხდა"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
 #: ../client/application/game/player_data/player_data_manager.cpp:37
 msgid "New personal best! %s ⇨ %s"
-msgstr "Rekor pribadi baru! %s ⇨ %s"
+msgstr "ახალი პირადი საუკეთესო! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:40
 msgid "Improved speed run! %s ⇨ %s"
-msgstr ""
+msgstr "გაუმჯობესებული სიჩქარის გაშვება! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:617
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "მიღწევა განბლოკილია: %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
-msgstr "%s meninggalkan permainan"
+msgstr "%s დატოვა თამაში"
 
 #: ../client/application/game/state/game_state.cpp:482
 msgid "N/A"
-msgstr "T/A"
+msgstr "N/A"
 
 #: ../client/application/game/state/game_state.cpp:494
 msgid "Accuracy: %s"
-msgstr "Akurasi: %s"
+msgstr "სიზუსტე: %s"
 
 #: ../client/application/game/state/game_state.cpp:499
 msgid "Score: %s"
-msgstr ""
+msgstr "ქულა: %s"
 
 #: ../client/application/game/state/game_state.cpp:504
 msgid "Duration: %s"
-msgstr ""
+msgstr "ხანგრძლივობა: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
-msgstr "Hindari semuanya dan kau akan baik baik saja"
+msgstr "მოერიდე ყველაფერს და კარგად იქნები"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
-msgstr "Alias Hindari ini"
+msgstr "ბიჭო მოერიდე ეს"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Green good. Red bad."
-msgstr "Hijau baik. Merah buruk"
+msgstr "მწვანე კაი. წითელი ცუდი ."
 
 #: ../client/application/game/levels/game_levels.cpp:95
 msgid "Never trust a six-sided polygon"
-msgstr "Jangan pernah mempercayai sebuah poligon bersisi enam"
+msgstr "არასოდეს ენდოთ ექვსმხრივ მრავალკუთხედს"
 
 #: ../client/application/game/levels/game_levels.cpp:96
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Tak berhubungan dengan \"Super Hexagon\""
+msgstr "არ არის დაკავშირებული \"სუპერ ექვსკუთხედთან\""
 
 #: ../client/application/game/levels/game_levels.cpp:97
 msgid "Choose your own difficulty"
-msgstr "Pilih kesulitan kamu sendiri"
+msgstr "აირჩიე საკუთარი სირთულე"
 
 #: ../client/application/game/levels/game_levels.cpp:107
 msgid "Euclidean space is overrated"
-msgstr "Ruang euclidean itu dilebih-lebihkan"
+msgstr "ევკლიდური სივრცე გადაჭარბებულია"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "Just 32 seconds of skills"
-msgstr "Hanya 32 detik dari keterampilan"
+msgstr "მხოლოდ 32 წამი უნარები"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "My favorite mode"
-msgstr "Mode Favorit ku"
+msgstr "ჩემი საყვარელი რეჟიმი"
 
 #: ../client/application/game/levels/game_levels.cpp:119
 msgid "Survive 32 seconds with this simple trick"
-msgstr "Bertahan 32 detik dengan trik yang sederhana"
+msgstr "გადარჩით 32 წამში ამ მარტივი ხრიკით"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Level ini hanya lelucon kan?\" - Seorang tester"
+msgstr "\"ეს დონე ხუმრობაა, არა?\" - ტესტერი"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
-msgstr "RIP GW3: Dimensi"
+msgstr "RIP GW3: ზომები"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "Previously known as Assault"
-msgstr "Sebelumnya dikenal sebagai Assault"
+msgstr "ადრე ცნობილი როგორც Assault"
 
 #: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
-msgstr "Medali perunggu baru"
+msgstr "ახალი ბრინჯაოს მედალი"
 
 #: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
-msgstr "Medali perak baru"
+msgstr "ახალი ვერცხლის მედალი"
 
 #: ../client/application/game/levels/medals.cpp:10
 msgid "New gold medal"
-msgstr "Medali emas baru"
+msgstr "ახალი ოქროს მედალი"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:9
 msgid "Minimal"
-msgstr "Minimal"
+msgstr "მინიმალური"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "High"
-msgstr "Tinggi"
+msgstr "მაღალი"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:12
 msgid "Compression friendly"
-msgstr "Kompresi Ramah"
+msgstr "შეკუმშვის მეგობრული"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Ultra low 2x"
-msgstr "Ultra rendah 2x"
+msgstr "ულტრა დაბალი 2x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:18
 msgid "Ultra low 4x"
-msgstr "Ultra rendah 4x"
+msgstr "ულტრა დაბალი 4x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:20
 msgid "Ultra low 8x"
-msgstr "Ultra rendah 8x"
+msgstr "ულტრა დაბალი 8x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:22
 msgid "Ultra low 16x"
-msgstr "Ultra rendah 16x"
+msgstr "ულტრა დაბალი 16x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:24
 msgid "Ultra low 32x"
-msgstr "Ultra rendah 32x"
+msgstr "ულტრა დაბალი 32x"
 
