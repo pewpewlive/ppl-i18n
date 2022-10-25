@@ -519,7 +519,7 @@ msgstr "UI Κλίμακα: %s"
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr "UI ένθετος: %&s"
+msgstr "UI ένθετος: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
 msgid "Refresh"
