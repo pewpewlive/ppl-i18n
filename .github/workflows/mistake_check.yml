@@ -15,9 +15,6 @@ jobs:
     
     env:
       ChangedFiles: "$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep .po$ | xargs)"
-      
-    env:
-      MistakesFound: "$(python ${{ github.workspace }}/.github/workflows/mistake_check.py '${{ env.ChangedFiles }}')"
     
     permissions:
       pull-requests: write
@@ -34,6 +31,8 @@ jobs:
 
       - name: Output detected mistakes if any
         uses: actions/github-script@v6
+        env:
+          MistakesFound: "$(python ${{ github.workspace }}/.github/workflows/mistake_check.py '${{ env.ChangedFiles }}')"
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
