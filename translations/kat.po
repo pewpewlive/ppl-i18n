@@ -519,10 +519,10 @@ msgstr "UI მასშტაბი: %s"
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr "UI ჩასმა"
+msgstr "UI ჩასმა: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
-msgid "refresh"
+msgid "Refresh"
 msgstr "გაანახლეთ"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:17
