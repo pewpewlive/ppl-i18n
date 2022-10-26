@@ -1,7 +1,7 @@
 name: Mistake Checker
 
 on:
-  pull_request:
+  pull_request_target:
     branches: [ master ]
     paths:
       - "translations/**"
@@ -25,22 +25,20 @@ jobs:
           python-version: '3.10'
 
       - name: Get changed files
-        id: files
-        run: |
-          echo "::set-output name=changedfiles::$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep .po$ | xargs)"
+        env:
+          ChangedFiles: "$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep .po$ | xargs)"
       
       - name: Check changed files for mistakes
-        id: mistakes
-        run: |
-          echo "::set-output name=mistakesfound::$(python ${{ github.workspace }}/.github/workflows/mistake_check.py "${{ steps.files.outputs.changedfiles }}")"
+        env:
+          MistakesFound: "$(python ${{ github.workspace }}/.github/workflows/mistake_check.py '${{ env.ChangedFiles }}')"
 
       - name: Output detected mistakes if any
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const mistakes = `${{ steps.mistakes.outputs.mistakesfound }}`.split(" /// ");
-            const filename = "${{ steps.files.outputs.changedfiles }}";
+            const mistakes = `${{ env.MistakesFound }}`.split(" /// ");
+            const filename = "${{ env.ChangedFiles }}";
 
             let message = "";
 
