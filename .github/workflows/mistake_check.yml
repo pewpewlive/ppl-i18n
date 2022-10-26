@@ -1,9 +1,7 @@
 name: Mistake Checker
 
 on:
-  pull_request_target:
-    types:
-      - opened
+  pull_request:
     branches: [ master ]
     paths:
       - "translations/**"
