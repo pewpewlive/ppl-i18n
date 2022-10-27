@@ -359,7 +359,7 @@ msgstr "Помилка з симетричним NAT"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr "Це означає, що ваше інтернет-з'єднання надмірно обмежене і не дозволяє мультиплеєр по p2p."
+msgstr "Це означає, що ваше інтернет з'єднання надмірно обмежене і не дозволяє грати в мультиплеєр по p2p."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
