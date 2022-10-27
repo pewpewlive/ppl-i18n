@@ -27,7 +27,7 @@ jobs:
       - name: Check changed files for mistakes
         id: mistakes
         run: |
-          echo "mistakesfound=$(python ${{ github.workspace }}/.github/workflows/mistake_check.py ${{ github.event.issue.number }})" >> $GITHUB_ENV
+          echo "mistakesfound=$(python ${{ github.workspace }}/.github/workflows/mistake_check.py ${{ github.event.pull_request.number }})" >> $GITHUB_ENV
 
       - name: Output detected mistakes if any
         uses: actions/github-script@v6
