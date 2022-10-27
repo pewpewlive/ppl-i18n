@@ -33,7 +33,7 @@ jobs:
       - name: Check changed files for mistakes
         id: mistakes
         run: |
-          echo "mistakesfound=$(python ${{ github.workspace }}/.github/workflows/mistake_check.py '${{ env.GIT_DIF }}')" >> $GITHUB_ENV
+          echo "mistakesfound=$(python ${{ github.workspace }}/.github/workflows/mistake_check.py '${{ github.event.issue.number }}')" >> $GITHUB_ENV
 
       - name: Output detected mistakes if any
         uses: actions/github-script@v6
@@ -41,14 +41,13 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const mistakes = `${{ env.mistakesfound }}`.split(" /// ");
-            const filename = "${{ env.changedfiles }}";
 
             let message = "";
 
             if (mistakes[0] !== "0") {
               message += "Thank you for contributing!\n\n";
               message += "To keep translations error-free, we check them for mistakes. The files you changed seem to contain some, no worries though, they can be fixed! ";
-              message += `See helpful info below:\n\`\`\`diff\nFile: ${filename}\n`;
+              message += `See helpful info below:\n\`\`\`diff\n`;
               message += "===================================================================\n";
               for (mistake of mistakes) {
                 mistake_info = mistake.split(" // ");
