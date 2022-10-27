@@ -312,7 +312,7 @@ msgstr "Успішно завантажено"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
-msgstr "Завантаження повтору ."
+msgstr "Завантаження повтору %s."
 
 #: ../client/application/game/ui/screens/screen_career.cpp:28
 msgid "Statistics"
@@ -507,7 +507,7 @@ msgstr "Швидка Пауза"
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr "Статус у Steam"
+msgstr "Статус Steam"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
