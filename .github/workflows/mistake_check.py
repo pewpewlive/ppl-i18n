@@ -1,7 +1,10 @@
 import re
 import sys
+import urllib.request as r
 
-filename = sys.argv[1]
+number = sys.argv[1]
+page = r.urlopen(f'https://github.com/pewpewlive/ppl-i18n/pull/{number}.diff').read().decode('utf8')
+filename = page.split(" ")[2][2:]
 
 def parse(filename):
   parsed_strings = {}
