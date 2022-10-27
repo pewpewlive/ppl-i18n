@@ -74,7 +74,7 @@ msgstr "Γρήγορη Παύση"
 
 #: ../client/application/game/game.cpp:174
 msgid "Quick pause %s"
-msgstr "Γρήγορη Παύση %s"
+msgstr "Γρήγορη Παύση #s"
 
 #: ../client/application/game/ui/pause_ui.cpp:27
 msgid "Continue"
