@@ -40,11 +40,11 @@ the feasibility.
 * [Thai](/translations/tha.po) (0% complete; 309 remaining)
 * [Turkish](/translations/tur.po) (99% complete; 1 remaining)
 * [Ukrainian](/translations/ukr.po) (99% complete; 1 remaining)
-* [Georgian](/translations/kat.po) (98% complete; 4 remaining)
+* [Georgian](/translations/kat.po) (100% complete! 🎉)
 * [Japanese](/translations/jpn.po) (81% complete; 58 remaining)
 * [Simplified Chinese](/translations/chs.po) (93% complete; 19 remaining)
 * [Traditional Chinese](/translations/cht.po) (11% complete; 274 remaining)
-* [Code](/translations/code.po) (93% complete; 19 remaining)
+* [Code](/translations/code.po) (100% complete! 🎉)
 * [Meme-nglish](/translations/meme.po) (88% complete; 37 remaining)
 * [Pirate Speak](/translations/pirate.po) (69% complete; 94 remaining)
-> Report generated on Oct 27 2022 18:52:17 UTC
+> Report generated on Oct 30 2022 22:16:28 UTC
