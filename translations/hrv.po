@@ -359,7 +359,7 @@ msgstr "Greška simetričnog NAT-a"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr "To značo da je vaša internetska veza preograničena i ne dopušta p2p više igrača."
+msgstr "To znači da je vaša internetska veza preograničena i ne dopušta p2p više igrača."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
