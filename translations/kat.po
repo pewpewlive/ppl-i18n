@@ -497,7 +497,7 @@ msgstr "აჩვენე თამაშში არსებული ქუ
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
-msgstr ""
+msgstr "წრაფი პაუზი"
 
 #. Shown in the settings UI, next to an "on/off" switch, when the game is
 #. launched from Steam.
@@ -791,7 +791,7 @@ msgstr "ექსპერიმენტული ლეველი"
 #. information.
 #: ../client/application/game/ui/screens/screen_view_level.cpp:369
 msgid "Information"
-msgstr ""
+msgstr "ინფორმაცია"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
@@ -807,7 +807,7 @@ msgstr "კლავიატურა"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr "Gamepad"
+msgstr "გეიმპადი"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:40
 msgid "Directed by %s"
@@ -819,13 +819,13 @@ msgstr "განვითარების ვიდეოები"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:109
 msgid "Discord server"
-msgstr "Discord server"
+msgstr "დისქორდის server"
 
 #. Shown in a button. This buttons lets you see a list of people that
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:171
 msgid "Credits"
-msgstr ""
+msgstr "კრედიტები"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
@@ -1073,7 +1073,7 @@ msgstr "Დაადასტურეთ ელ - ფოსტა"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
 msgid "Registering"
-msgstr ""
+msgstr "რეგისტრაცია"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Registration successful."
