@@ -427,7 +427,7 @@ msgstr "<Insert comment here>"
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:291
 msgid "Comment"
-msgstr "Say sumthin'"
+msgstr "Trash Talk'"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
@@ -459,7 +459,7 @@ msgstr "Comment rejected, not cool enough"
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:154
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr "Report to the comment police"
+msgstr "Report to the bois"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
@@ -497,7 +497,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
-msgstr ""
+msgstr "pee break"
 
 #. Shown in the settings UI, next to an "on/off" switch, when the game is
 #. launched from Steam.
@@ -543,7 +543,7 @@ msgstr "be useful"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:53
 msgid "Contributors"
-msgstr "The real ones"
+msgstr "gigachads"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
@@ -553,7 +553,7 @@ msgstr "Pass"
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "fake jordans"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
@@ -629,7 +629,7 @@ msgstr "Gaming hideout alias: %s"
 
 #: ../client/application/game/ui/screens/screen_informations_music.cpp:23
 msgid "Music"
-msgstr "Tunes"
+msgstr "iTunes"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -641,11 +641,11 @@ msgstr "Sorry bro, we lost it."
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:19
 msgid "Audio Settings"
-msgstr "Change the Tunes"
+msgstr "Change iTunes"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:28
 msgid "Sound effects"
-msgstr "Tune effects"
+msgstr "iTune effects"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:122
 msgid "Visualization"
@@ -689,7 +689,7 @@ msgstr "Some islands"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
 msgid "South America"
-msgstr "America but south"
+msgstr "Sequel to North America"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
 msgid "personal"
@@ -709,7 +709,7 @@ msgstr "@everyone"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
 msgid "High Scores"
-msgstr "Biggest numbers"
+msgstr "Big numbers"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
 msgid "Speed Runs"
@@ -825,7 +825,7 @@ msgstr "The Gamer Heaven"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:171
 msgid "Credits"
-msgstr ""
+msgstr "peeps who made game"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
@@ -1269,11 +1269,11 @@ msgstr "The secret to 32 seconds is-"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"What is this supposed to be\" - a concerned yoshi"
+msgstr "\"What is this supposed to be\" - a concerned yawshi"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
-msgstr "where GW3:Dimensions go"
+msgstr "GW3:Dimensions=ur dad"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "Previously known as Assault"
@@ -1309,17 +1309,17 @@ msgstr "JPEG low 2x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:18
 msgid "Ultra low 4x"
-msgstr "JPEG 4x"
+msgstr "Apple Phones"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:20
 msgid "Ultra low 8x"
-msgstr "JPEG 8x"
+msgstr ".png"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:22
 msgid "Ultra low 16x"
-msgstr "JPEG 16x"
+msgstr "android phone"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:24
 msgid "Ultra low 32x"
-msgstr "Scale up, scale down"
+msgstr "No turing back"
 
