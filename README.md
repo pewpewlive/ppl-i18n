@@ -45,6 +45,6 @@ the feasibility.
 * [Simplified Chinese](/translations/chs.po) (93% complete; 19 remaining)
 * [Traditional Chinese](/translations/cht.po) (11% complete; 274 remaining)
 * [Code](/translations/code.po) (100% complete! 🎉)
-* [Meme-nglish](/translations/meme.po) (88% complete; 37 remaining)
+* [Meme-nglish](/translations/meme.po) (88% complete; 34 remaining)
 * [Pirate Speak](/translations/pirate.po) (69% complete; 94 remaining)
-> Report generated on Oct 31 2022 02:26:31 UTC
+> Report generated on Nov 07 2022 02:00:09 UTC
