@@ -13,12 +13,12 @@ msgstr "ok"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "Merah"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Cyan"
-msgstr ""
+msgstr "Sian"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
@@ -33,32 +33,32 @@ msgstr ""
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "Ungu"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "Pink"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "Oranye"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "Putih"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "Kelabu"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "Biru Tua"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -66,7 +66,7 @@ msgstr ""
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Pembaruan tersedia%s"
 
 #: ../client/application/game/game.cpp:168
 msgid "Quick pause"
@@ -138,7 +138,7 @@ msgstr "Mengunduh level..."
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:60
 msgid "Failed to download level."
-msgstr ""
+msgstr "Gagal untuk mengunduh level."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
@@ -194,7 +194,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
-msgstr ""
+msgstr "Saturasi"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
@@ -287,12 +287,12 @@ msgstr "Peluru"
 #. Shown in a button used to configurethe style of joysticks
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:314
 msgid "Joysticks"
-msgstr ""
+msgstr "Pengendali"
 
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
 msgid "UI colors"
-msgstr ""
+msgstr "Warna UI"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
@@ -320,7 +320,7 @@ msgstr "Statistik"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:55
 msgid "Global leaderboards"
-msgstr ""
+msgstr "Papan peringkat dunia"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:106
 msgid "Configure keyboard"
@@ -351,19 +351,19 @@ msgstr "Tidak bisa bermain multiplayer dengan simetrik NAT."
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
 msgid "Learn more"
-msgstr ""
+msgstr "Pelajari selengkapnya"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "Kesalahan simetrik NAT"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr ""
+msgstr "Ini artinya koneksi internet anda sangat dibatasi dan tidak mengijinkan multiplayer p2p."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr ""
+msgstr "Jika anda menggunakan koneksi internet seluler, coba menonaktifkannya. Jika anda menggunakan Wi-Fi, coba gunakan jaringan Wi-Fi yang berbeda. "
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
@@ -416,7 +416,7 @@ msgstr "Error saat menghapus komentar"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:195
 msgid "Are you sure you want to delete this comment?"
-msgstr "Apakah kamu yakin mengapung komentar ini?"
+msgstr "Apakah kamu yakin ingin menghapus komentar ini?"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:276
@@ -437,7 +437,7 @@ msgstr "Komentar setidaknya memiliki lebih dari 3 huruf."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:313
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "Tolong jaga bahasa anda. Tidak ada penghinaan, tidak ada mengumpat, tidak ada spam. Kami akan menghapus postingan apapun yang melanggar aturan ini, dan memblokir atau ban pelanggar"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -489,15 +489,15 @@ msgstr "Tidak"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
-msgstr ""
+msgstr "Pengaturan UI"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:131
 msgid "Show in-game score"
-msgstr ""
+msgstr "Tampilkan skor dalam permainan"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
-msgstr ""
+msgstr "Jeda Cepat"
 
 #. Shown in the settings UI, next to an "on/off" switch, when the game is
 #. launched from Steam.
@@ -507,19 +507,19 @@ msgstr ""
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr ""
+msgstr "Status Steam"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:240
 msgid "UI Scale: %s"
-msgstr ""
+msgstr "Skala UI: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "Jarak UI: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
 msgid "Refresh"
@@ -553,7 +553,7 @@ msgstr "Lengkahi"
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "Gaya pengendali"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
@@ -593,7 +593,7 @@ msgstr "Kata sandi salah"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:383
 msgid "You are already in the room!"
-msgstr "Kau sudah ada didalam ruang!"
+msgstr "Anda sudah ada didalam ruang!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:386
 msgid "The room does not exist anymore"
@@ -709,7 +709,7 @@ msgstr "dunia"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
 msgid "High Scores"
-msgstr ""
+msgstr "Nilai tertinggi"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
 msgid "Speed Runs"
@@ -791,7 +791,7 @@ msgstr "Level percobaan"
 #. information.
 #: ../client/application/game/ui/screens/screen_view_level.cpp:369
 msgid "Information"
-msgstr ""
+msgstr "Informasi"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
@@ -825,7 +825,7 @@ msgstr "Server discord"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:171
 msgid "Credits"
-msgstr ""
+msgstr "Kredit"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
@@ -834,12 +834,12 @@ msgstr "Pengaturan"
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_settings.cpp:42
 msgid "Windowed"
-msgstr ""
+msgstr "Jendela"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Fullscreen"
-msgstr ""
+msgstr "Layar penuh"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"
@@ -855,7 +855,7 @@ msgstr "Bahasa"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:129
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Start tutorial"
@@ -1041,7 +1041,7 @@ msgstr "Kamu perlu masukan akun sebelum melihat komentar-komentar"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
-msgstr "Akun mu"
+msgstr "Akunmu"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
@@ -1152,14 +1152,14 @@ msgstr "Pelindung: %s"
 #: ../client/application/game/ui/views/account_view.cpp:66
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "Level"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:69
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "Skor"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1167,7 +1167,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:73
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "Umum"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1175,7 +1175,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:265
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "Tanggal bergabung: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
@@ -1205,7 +1205,7 @@ msgstr ""
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:617
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "Pencapaian Terbuka: %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -1221,11 +1221,11 @@ msgstr "Akurasi: %s"
 
 #: ../client/application/game/state/game_state.cpp:499
 msgid "Score: %s"
-msgstr ""
+msgstr "Skor: %s"
 
 #: ../client/application/game/state/game_state.cpp:504
 msgid "Duration: %s"
-msgstr ""
+msgstr "Durasi: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
