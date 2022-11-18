@@ -23,12 +23,12 @@ msgstr "Sian"
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
 msgid "Lime"
-msgstr ""
+msgstr "Limau"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:60
 msgid "Lime Green"
-msgstr ""
+msgstr "Hijau Limau"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
@@ -186,7 +186,7 @@ msgstr "Setel ulang"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "Atur Gamepad"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
@@ -198,15 +198,15 @@ msgstr "Saturasi"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "Kurva"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
-msgstr "Pilih tipe multiplayer"
+msgstr "Pilih tipe multipemain"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:22
 msgid "Online multiplayer"
-msgstr "Multiplayer online"
+msgstr "Multipemain online"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
 msgid "Play with people around the world!"
@@ -214,7 +214,7 @@ msgstr "Bermain dengan orang di seluruh dunia!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
 msgid "LAN multiplayer"
-msgstr "Multiplayer LAN"
+msgstr "Multipemain LAN"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
 msgid "Play with people on the same network!"
@@ -222,7 +222,7 @@ msgstr "Bermain dengan orang di jaringan yang sama!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
-msgstr "Multiplayer lokal"
+msgstr "Multipemain lokal"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:38
 msgid "Help"
@@ -230,7 +230,7 @@ msgstr "Tolong"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Multiplayer lokal mendukung 2 pemain terhubung di jaringan wifi yang sama."
+msgstr "Multipemain lokal mendukung 2 pemain terhubung di jaringan wifi yang sama."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
@@ -250,7 +250,7 @@ msgstr "Setiap pemain butuh mengunggah replaynya sendiri agar terlihat di papan 
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
-msgstr "Tolong multiplayer"
+msgstr "Tolong multipemain"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
 msgid "Searching for rooms..."
@@ -344,7 +344,7 @@ msgstr "Mengecek jaringan..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Tidak bisa bermain multiplayer dengan simetrik NAT."
+msgstr "Tidak bisa bermain multipemain dengan simetrik NAT."
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
@@ -359,7 +359,7 @@ msgstr "Kesalahan simetrik NAT"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr "Ini artinya koneksi internet anda sangat dibatasi dan tidak mengijinkan multiplayer p2p."
+msgstr "Ini artinya koneksi internet anda sangat dibatasi dan tidak mengijinkan multipemain p2p."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
@@ -387,7 +387,7 @@ msgstr "Ada kesalahan =["
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:155
 msgid "Are you sure you want to report this comment?"
-msgstr "Apakah kamu ingin melaporkan komentar ini?"
+msgstr "Apakah anda yakin ingin melaporkan komentar ini?"
 
 #. Shown in a notification after successfully reporting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:157
@@ -416,7 +416,7 @@ msgstr "Error saat menghapus komentar"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:195
 msgid "Are you sure you want to delete this comment?"
-msgstr "Apakah kamu yakin ingin menghapus komentar ini?"
+msgstr "Apakah anda yakin ingin menghapus komentar ini?"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:276
@@ -565,7 +565,7 @@ msgstr "Main"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:75
 msgid "Multiplayer"
-msgstr "Multiplayer"
+msgstr "Multipemain"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
 msgid "Joining room"
@@ -685,7 +685,7 @@ msgstr "Amerika utara"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:35
 msgid "Oceania"
-msgstr "Osenia"
+msgstr "Oseania"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
 msgid "South America"
@@ -737,11 +737,11 @@ msgstr "Percobaan"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr "#ffff00ffOfficial#ffffffff level yang dibuat oleh ku (JF), dan bisa mendapatkan medali."
+msgstr "#ffff00ffOfficial#ffffffff level yang dibuat oleh saya (JF), dan bisa mendapatkan medali."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:77
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffCommunity#ffffffff level yang dibuat oleh KAU, Komunitasnya."
+msgstr "#ffff00ffCommunity#ffffffff level yang dibuat oleh ANDA, Komunitasnya."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
 msgid "More info on github.com/jyaif/ppl-utils"
@@ -935,7 +935,7 @@ msgstr "Email verifikasi terkirim"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr "Chek kotak surat mu!"
+msgstr "Chek kotak surat anda!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
@@ -1015,7 +1015,7 @@ msgstr "Tidak masuk"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
-msgstr "Buat akun untuk menetapkan nama dan sinkronisasikan data mu"
+msgstr "Buat akun untuk menetapkan nama dan sinkronisasikan data anda"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
 msgid "Register"
@@ -1027,21 +1027,21 @@ msgstr "Kebijakan pribadi"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
 msgid "You need to be signed-in to upload scores"
-msgstr "Kau harus masuk akun agar dapat mengunggah skor"
+msgstr "Anda harus masuk akun agar dapat mengunggah skor"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to play online"
-msgstr "Kau harus masuk akun agar dapat bermain online"
+msgstr "Anda harus masuk akun agar dapat bermain online"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
 msgid "You need to be signed-in to view comments"
-msgstr "Kamu perlu masukan akun sebelum melihat komentar-komentar"
+msgstr "Anda perlu masukan akun sebelum melihat komentar-komentar"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
-msgstr "Akunmu"
+msgstr "Akun anda"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
@@ -1081,7 +1081,7 @@ msgstr "Pendaftaran berhasil."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
 msgid "Please check your emails!"
-msgstr "Tolong periksa email mu!"
+msgstr "Tolong periksa email anda!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
@@ -1183,7 +1183,7 @@ msgstr "DALAM PENILAIAN"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:139
 msgid "You've been signed out."
-msgstr "Kau telah keluar."
+msgstr "Anda telah keluar."
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:179
 msgid "Failed to download backup data"
@@ -1233,7 +1233,7 @@ msgstr "Hindari semuanya dan kau akan baik baik saja"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
-msgstr "Alias Hindari ini"
+msgstr "alias Hindari Ini"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Green good. Red bad."
@@ -1265,7 +1265,7 @@ msgstr "Mode Favorit ku"
 
 #: ../client/application/game/levels/game_levels.cpp:119
 msgid "Survive 32 seconds with this simple trick"
-msgstr "Bertahan 32 detik dengan trik yang sederhana"
+msgstr "Bertahan 32 detik dengan trik yang sederhana ini"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
