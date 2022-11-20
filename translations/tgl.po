@@ -13,52 +13,52 @@ msgstr "ok"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "Pula"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Cyan"
-msgstr ""
+msgstr "Siyano"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
 msgid "Lime"
-msgstr ""
+msgstr "Dayap"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:60
 msgid "Lime Green"
-msgstr ""
+msgstr "Dayap-luntian"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "Lila"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "Rosas"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "Kahel"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "Puti"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "Kulay-abo"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "Bughaw"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -246,7 +246,7 @@ msgstr "Sapat na ang pagkonekta sa hotspot ng phone!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Kapag natapos na ang inyong laro at nais niyong ibahagi sa mundo ang inyong replay sa leaderboard, i-upload ng hiwalay ang inyong record para parehas na lumabas ang inyong pangalan doon."
+msgstr "Kapag natapos na ang inyong laro at nais niyong ibahagi sa mundo ang inyong replay sa leaderboard, i-upload ng hiwalay ang inyong record para parehas na lumabas ang inyong pangalan."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
@@ -292,7 +292,7 @@ msgstr ""
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
 msgid "UI colors"
-msgstr ""
+msgstr "Kulay ng UI"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
@@ -359,15 +359,15 @@ msgstr "May mali sa symmetric NAT"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr ""
+msgstr "Maraming hadlang sa koneksyon ng internet kaya hindi makapasok sa multiplayer."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr ""
+msgstr "Kapag internet galing sa sim card ang gamit mo, patayin mo tapos buksan mo ulit. Kung Wi-Fi ang gamit mo, subukan mong kumonekta sa ibang Wi-Fi network."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
-msgstr "Hindi makakonekta sa mga server ng STUN."
+msgstr "Hindi makakonekta sa mga STUN server."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:144
 msgid "Authenticating..."
@@ -437,7 +437,7 @@ msgstr "Hindi pwedeng maikli sa 3 letra ang komento"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:313
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Mag-ingat sa sasabihin. Walang pang-iinsulto, pagmumura, at pag-spam. Buburahin namin ang mga komento na nalabag ang nasabing patakaran, at maaari ring ma-ban ang may gawa ng partikular na komento."
+msgstr "Mag-ingat sa sasabihin. Huwag mang-insulto, magmura, at magkalat. Buburahin namin ang mga komentong labag sa isa sa mga nasabing patakaran, at maaari ring ma-ban ang may gawa ng partikular na komento."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -507,7 +507,7 @@ msgstr "Ipakita ang text ng paghinto"
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr ""
+msgstr "Status sa Steam"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -519,11 +519,11 @@ msgstr "Laki ng UI: %s"
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "Espasyo ng UI: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
 msgid "Refresh"
-msgstr "I-load ulit"
+msgstr "I-load muli"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
@@ -745,7 +745,7 @@ msgstr "Malalaro ang mga level na ginawa ng komunidad sa #ffff00ff\"pangkomunida
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "Iba pang impormasyon sa github.com/jyaif/ppl-utils"
+msgstr "(Iba pang impormasyon sa #ffff00ffgithub.com/jyaif/ppl-utils#ffffffff)"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
@@ -791,7 +791,7 @@ msgstr "Experimental"
 #. information.
 #: ../client/application/game/ui/screens/screen_view_level.cpp:369
 msgid "Information"
-msgstr ""
+msgstr "Impormasyon"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
@@ -807,7 +807,7 @@ msgstr "Keyboard"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:40
 msgid "Directed by %s"
@@ -825,7 +825,7 @@ msgstr "Server ng discord"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:171
 msgid "Credits"
-msgstr ""
+msgstr "Mga Nag-ambag"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
@@ -834,12 +834,12 @@ msgstr "Pagkaayos"
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_settings.cpp:42
 msgid "Windowed"
-msgstr ""
+msgstr "Naka-window"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Fullscreen"
-msgstr ""
+msgstr "Buong screen"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"
@@ -855,7 +855,7 @@ msgstr "Wika"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:129
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Start tutorial"
@@ -871,7 +871,7 @@ msgstr "Pang-developer"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:231
 msgid "Vibration %s"
-msgstr "Pag-alog %s"
+msgstr "Pag-vibrate %s"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:188
 msgid "Local lobby"
@@ -927,7 +927,7 @@ msgstr "Hindi mapalitan ang username"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
-msgstr "Pinapadalhan ng verification ang email"
+msgstr "Nagpapadala ng verification sa email"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
@@ -939,7 +939,7 @@ msgstr "Tingnan ang mensaheng dumating sayo!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
-msgstr "Hindi makapadala sa email"
+msgstr "Hindi naipadala sa email"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
@@ -1015,7 +1015,7 @@ msgstr "Hindi pa naka-log in"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
-msgstr "Gumawa ng account para makapaglagay ng pangalan at ma-sync ang iyong data"
+msgstr "Gumawa ng account para makapaglagay ng pangalan sa laro at ma-sync ang iyong data"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
 msgid "Register"
@@ -1199,7 +1199,7 @@ msgstr "Bagong record! %s ⇨ %s"
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:40
 msgid "Improved speed run! %s ⇨ %s"
-msgstr ""
+msgstr "Bagong record sa speed run! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
@@ -1213,15 +1213,15 @@ msgstr "Umalis sa laro si %s"
 
 #: ../client/application/game/state/game_state.cpp:482
 msgid "N/A"
-msgstr "Wala"
+msgstr "---"
 
 #: ../client/application/game/state/game_state.cpp:494
 msgid "Accuracy: %s"
-msgstr "Ga'no kasakto?: %s"
+msgstr "Sakto ng tira: %s"
 
 #: ../client/application/game/state/game_state.cpp:499
 msgid "Score: %s"
-msgstr ""
+msgstr "Score: %s"
 
 #: ../client/application/game/state/game_state.cpp:504
 msgid "Duration: %s"
@@ -1229,7 +1229,7 @@ msgstr "Tagal: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
-msgstr "Galingan mo ang pag-ilag at hindi ka mapapakamak"
+msgstr "Galingan ang pag-ilag nang hindi mapahamak"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
@@ -1245,7 +1245,7 @@ msgstr "Huwag magtiwala sa hugis na may anim na gilid"
 
 #: ../client/application/game/levels/game_levels.cpp:96
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Walang koneksyon sa \"Super Hexagon\""
+msgstr "Kung ako sa'yo, laro ka rin \"Super Hexagon\""
 
 #: ../client/application/game/levels/game_levels.cpp:97
 msgid "Choose your own difficulty"
@@ -1253,7 +1253,7 @@ msgstr "Gusto mo pahirapan sarili mo? Ikaw bahala."
 
 #: ../client/application/game/levels/game_levels.cpp:107
 msgid "Euclidean space is overrated"
-msgstr "Euclidean space? Hmmm..."
+msgstr "Andaming bulalakaw!"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "Just 32 seconds of skills"
@@ -1269,11 +1269,11 @@ msgstr "Manatiling buhay sa loob ng 32 segundo"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Totoo ba 'to?\" - kawawang tester :("
+msgstr "\"ofivefive, how to be u po?\" - noobie213"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
-msgstr "RIP GW3:Dimensions"
+msgstr "Hindi ka namin makakalimutan GW3:Dimensions"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "Previously known as Assault"
