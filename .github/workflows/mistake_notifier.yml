@@ -1,0 +1,78 @@
+name: Mistake Notifier
+
+on:
+  workflow_run:
+    workflows: [Mistake Checker]
+    types:
+      - completed
+      
+jobs:
+  notify:
+    name: Notify of mistakes
+    runs-on: ubuntu-latest
+    
+    permissions:
+      pull-requests: write
+      issues: write
+    
+    steps:
+      - name: Download mistake checker results
+        uses: actions/download-artifact@v3
+
+        with:
+          name: mistakes
+          
+      - name: Get results
+        shell: bash
+        run: |
+          echo "mistakesfound=`cat mistakes.txt`" >> $GITHUB_ENV
+          echo "number=`cat number.txt`" >> $GITHUB_ENV
+      
+      - name: Output detected mistakes if any
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const mistakes = `${{ env.mistakesfound }}`.split(" /// ");
+
+            let message = "";
+
+            if (mistakes[0] !== "0") {
+              message += "Thank you for contributing!\n\n";
+              message += "To keep translations error-free, we check them for mistakes. The files you changed seem to contain some, no worries though, they can be fixed! ";
+              message += `See helpful info below:\n\`\`\`diff\n`;
+              message += "===================================================================\n";
+              for (mistake of mistakes) {
+                mistake_info = mistake.split(" // ");
+                if (mistake_info[0] === "0")
+                  break;
+
+                message += `@@ Line: ${mistake_info[2]} @@\n`;
+
+                switch (mistake_info[0]) {
+                  case "e":
+                    message += "--- Non-Matching use of %s\n";
+                    message += `+ msgid "${mistake_info[3]}"\n`;
+                    message += `- msgstr "${mistake_info[4]}"\n`;
+                    break;
+                  case "w":
+                    message += "!!! Possible misuse of colors\n";
+                    message += `+ msgid "${mistake_info[3]}"\n`;
+                    message += `- msgstr "${mistake_info[4]}"\n`;
+                    break;
+                }
+
+                if (mistakes.indexOf(mistake) !== mistakes.length - 2) { message += "***************\n"; }
+              }
+
+              message += "===================================================================";
+            }
+
+            if (message !== "") {
+              github.rest.issues.createComment({
+                issue_number: ${{ env.number }},
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: message
+              });
+            }
