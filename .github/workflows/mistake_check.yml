@@ -29,9 +29,12 @@ jobs:
         shell: bash
         run: |
           echo $(python ${{ github.workspace }}/.github/workflows/mistake_check.py ${{ github.event.pull_request.number }}) > mistakes.txt
+          echo ${{ github.event.pull_request.number }} > number.txt
           
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3.1.1
         with:
           name: mistakes
-          path: mistakes.txt
+          path: |
+            mistakes.txt
+            number.txt
