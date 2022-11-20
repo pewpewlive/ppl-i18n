@@ -134,7 +134,7 @@ msgstr "Nepavyko prisijungti!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
-msgstr "Atsisiunčiamas lygis ..."
+msgstr "Atsisiunčiamas lygis..."
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:60
 msgid "Failed to download level."
@@ -312,7 +312,7 @@ msgstr "Įkėlimas sėkmingas"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
-msgstr "Įkeliamas pakartojimas %s lygiui."
+msgstr "Įkeliamas pakartojimas % s lygiui."
 
 #: ../client/application/game/ui/screens/screen_career.cpp:28
 msgid "Statistics"
