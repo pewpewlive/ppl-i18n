@@ -311,7 +311,7 @@ msgid "Upload successful"
 msgstr "Įkėlimas sėkmingas"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
-msgid "Uploading replay for %s."
+msgid "Uploading replay for %s. #ff00ff00"
 msgstr "Įkeliamas pakartojimas % s lygiui."
 
 #: ../client/application/game/ui/screens/screen_career.cpp:28
