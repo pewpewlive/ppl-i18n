@@ -745,7 +745,7 @@ msgstr "Malalaro ang mga level na ginawa ng komunidad sa #ffff00ff\"pangkomunida
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "(Iba pang impormasyon sa #ffff00ffgithub.com/jyaif/ppl-utils#ffffffff)"
+msgstr "(Iba pang impormasyon sa #0080ffffgithub.com/jyaif/ppl-utils#ffffffff)"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
@@ -1269,7 +1269,7 @@ msgstr "Manatiling buhay sa loob ng 32 segundo"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"ofivefive, how to be u po?\" - noobie213"
+msgstr "\"Totoo ba 'to?\" - kawawang tester :("
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
