@@ -154,7 +154,7 @@ msgstr "Port:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Prisijunkite prie kito kambario per internetą #ff0f00ff(eksperimentinis)"
+msgstr "Prisijunkite prie kito kambario per internetą #ff0000ff(eksperimentinis)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
@@ -311,8 +311,8 @@ msgid "Upload successful"
 msgstr "Įkėlimas sėkmingas"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
-msgid "Uploading replay for %s. #ff00ff00"
-msgstr "Įkeliamas pakartojimas % s lygiui."
+msgid "Uploading replay for %s."
+msgstr "Įkeliamas pakartojimas % s lygiui. #ff00ff00"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:28
 msgid "Statistics"
