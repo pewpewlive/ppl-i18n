@@ -45,7 +45,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             let fs = require('fs');
-            const mistakes = fs.readFileSync('./mistakes.txt').split(" /// ");
+            const mistakes = fs.readFileSync('./mistakes.txt').toString().split(" /// ");
 
             if (mistakes[0] !== "0")
               if (mistakes.map(mistake => mistake.split(" // ")[0]).includes("e"))

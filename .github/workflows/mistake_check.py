@@ -3,37 +3,48 @@ import sys
 import urllib.request as r
 
 number = sys.argv[1]
-page = r.urlopen(f'https://github.com/pewpewlive/ppl-i18n/pull/{number}.diff').read().decode('utf8')
-filename = page.split(" ")[2][2:]
+page = r.urlopen(f'https://github.com/pewpewlive/ppl-i18n/pull/{number}.diff').read().decode("utf8").split('\n')
+filename = page[0].split(' ')[2][2:]
+page = page[4:]
 
-def parse(filename):
+def parse(page):
+  id_text = ""
+  current_line_number = 0
   parsed_strings = {}
-  with open(filename, 'r', encoding="utf8") as file:
-    lines = file.readlines()
-    for line in lines:
-      if line.startswith("msgid"):
-        id_text = line.rstrip()[7:-1]
-        str_text = lines[lines.index(line) + 1].rstrip()[8:-1]
+  for line in page:
+    if line.startswith("@@"):
+      current_line_number = int(line.split(' ')[1][1:].split(',')[0]) - 1
+      continue
 
-        if str_text == '':
-          continue
+    current_line_number += 1
+    
+    if line.startswith(" msgid"):
+      id_text = line.rstrip()[8:-1]
+    elif line.startswith("-msgstr"):
+      current_line_number -= 1
+    elif line.startswith("+msgstr"):
+      str_text = line.rstrip()[9:-1]
+  
+      if str_text == '':
+        continue
+  
+      id_color_count = len(re.findall(
+        r'(?:#(?:[0-9a-fA-F]{2}){4})', id_text))
+      str_color_count = len(re.findall(
+        r'(?:#(?:[0-9a-fA-F]{2}){4})', str_text))
+      id_s_count = id_text.count("%s")
+      str_s_count = str_text.count("%s")
 
-        id_color_count = len(re.findall(
-          r'(?:#(?:[0-9a-fA-F]{2}){4})', id_text))
-        str_color_count = len(re.findall(
-          r'(?:#(?:[0-9a-fA-F]{2}){4})', str_text))
-        id_s_count = id_text.count("%s")
-        str_s_count = str_text.count("%s")
+      parsed_strings[id_text] = {"condition": "colors_invalid" if id_color_count != str_color_count else 
+                                              "s_invalid" if id_s_count != str_s_count else "0",
+                                 "line": current_line_number,
+                                 "id": id_text,
+                                 "str": str_text}
 
-        parsed_strings[id_text] = {"condition": "colors_invalid" if id_color_count != str_color_count else 
-                                                "s_invalid" if id_s_count != str_s_count else "0",
-                                   "line": lines.index(line) + 1,
-                                   "id": id_text,
-                                   "str": str_text}
+      
+  return parsed_strings
 
-    return parsed_strings
-
-strings = parse(filename)
+strings = parse(page)
 final_output = ""
 
 for key in strings:

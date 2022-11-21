@@ -26,14 +26,14 @@ jobs:
                run_id: ${{ github.event.workflow_run.id }},
             });
             
-            var matchArtifact = artifacts.data.artifacts.filter((artifact) => {
+            var artifact = artifacts.data.artifacts.filter((artifact) => {
               return artifact.name == "pr"
             })[0];
             
             var download = await github.actions.downloadArtifact({
                owner: context.repo.owner,
                repo: context.repo.repo,
-               artifact_id: matchArtifact.id,
+               artifact_id: artifact.id,
                archive_format: 'zip',
             });
             
@@ -49,7 +49,7 @@ jobs:
           script: |
             let fs = require('fs');
             const pr_number = Number(fs.readFileSync('./number.txt'));
-            const mistakes = fs.readFileSync('./mistakes.txt').split(" /// ");
+            const mistakes = fs.readFileSync('./mistakes.txt').toString().split(" /// ");
 
             let message = "";
 
