@@ -78,7 +78,7 @@ jobs:
                     break;
                 }
 
-                if (mistakes.indexOf(mistake) !== mistakes.length - 2) { message += "***************\n"; }
+                if (mistakes.indexOf(mistake) !== mistakes.length - 1) { message += "***************\n"; }
               }
 
               message += "===================================================================";
