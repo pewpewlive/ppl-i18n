@@ -53,7 +53,7 @@ jobs:
 
             let message = '';
 
-            if (mistakes[0] !== '0') {
+            if (mistakes[0] !== '0' && mistakes[0] !== '0\n') {
               message += 'Thank you for contributing!\n\n';
               message += 'To keep translations error-free, we check them for mistakes. The files you changed seem to contain some, no worries though, they can be fixed! ';
               message += `See helpful info below:\n\`\`\`diff\n`;
