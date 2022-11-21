@@ -17,23 +17,39 @@ jobs:
     
     steps:
       - name: Download mistake checker results
-        uses: actions/download-artifact@v3
-
+        uses: actions/github-script@v3.1.0
         with:
-          name: mistakes
-          
-      - name: Get results
-        shell: bash
-        run: |
-          echo "mistakesfound=`cat mistakes.txt`" >> $GITHUB_ENV
-          echo "number=`cat number.txt`" >> $GITHUB_ENV
-      
+          script: |
+            var artifacts = await github.actions.listWorkflowRunArtifacts({
+               owner: context.repo.owner,
+               repo: context.repo.repo,
+               run_id: ${{ github.event.workflow_run.id }},
+            });
+            
+            var matchArtifact = artifacts.data.artifacts.filter((artifact) => {
+              return artifact.name == "pr"
+            })[0];
+            
+            var download = await github.actions.downloadArtifact({
+               owner: context.repo.owner,
+               repo: context.repo.repo,
+               artifact_id: matchArtifact.id,
+               archive_format: 'zip',
+            });
+            
+            var fs = require('fs');
+            fs.writeFileSync('${{ github.workspace }}/pr.zip', Buffer.from(download.data));
+            
+      - run: unzip pr.zip
+
       - name: Output detected mistakes if any
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const mistakes = `${{ env.mistakesfound }}`.split(" /// ");
+            let fs = require('fs');
+            const pr_number = Number(fs.readFileSync('./number.txt'));
+            const mistakes = fs.readFileSync('./mistakes.txt').split(" /// ");
 
             let message = "";
 
@@ -70,7 +86,7 @@ jobs:
 
             if (message !== "") {
               github.rest.issues.createComment({
-                issue_number: ${{ env.number }},
+                issue_number: pr_number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 body: message
