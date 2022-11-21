@@ -122,7 +122,7 @@ msgstr "žaista kartų: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr "žaista laiko: %s"
+msgstr "žaista laiko: "
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
@@ -134,7 +134,7 @@ msgstr "Nepavyko prisijungti!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
-msgstr "Atsisiunčiamas lygis ..."
+msgstr "Atsisiunčiamas lygis..."
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:60
 msgid "Failed to download level."
@@ -154,7 +154,7 @@ msgstr "Port:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Prisijunkite prie kito kambario per internetą #ff0000ff(eksperimentinis)"
+msgstr "Prisijunkite prie kito kambario per internetą (eksperimentinis)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
