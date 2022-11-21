@@ -13,7 +13,7 @@ msgstr "gerai"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr "Raudona"
+msgstr "Raudona" 
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
