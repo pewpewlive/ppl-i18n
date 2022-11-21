@@ -1322,4 +1322,3 @@ msgstr "Labai žema 16x"
 #: ../client/application/graphics/renderers/renderer_types.cpp:24
 msgid "Ultra low 32x"
 msgstr "Labai žema 32x"
-
