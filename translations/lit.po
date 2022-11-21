@@ -66,7 +66,7 @@ msgstr "Tamsiai mėlyna"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr "Galima nauja versija %s"
+msgstr "Galima nauja versija %d"
 
 #: ../client/application/game/game.cpp:168
 msgid "Quick pause"
