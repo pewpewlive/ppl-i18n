@@ -66,7 +66,7 @@ msgstr "Biru Tua"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr "Pembaruan tersedia%s"
+msgstr "Pembaruan tersedia %s"
 
 #: ../client/application/game/game.cpp:168
 msgid "Quick pause"
@@ -98,7 +98,7 @@ msgstr "Main lagi"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr "Game berakhir"
+msgstr "Game Berakhir"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -190,7 +190,7 @@ msgstr "Atur Gamepad"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "Deadzone"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
@@ -230,11 +230,11 @@ msgstr "Tolong"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Multipemain lokal mendukung 2 pemain terhubung di jaringan wifi yang sama."
+msgstr "Multipemain lokal mendukung 2 pemain yang terhubung di jaringan wifi yang sama."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
-msgstr "Satu pemain harus membuat ruang, yang pemain lain akan gabung"
+msgstr "Satu pemain harus membuat ruang, yang pemain lain akan bergabung"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "The wifi network does not have to be connected to the internet."
@@ -246,7 +246,7 @@ msgstr "Menghubungkan ke hotspot ponsel seharusnya berhasil!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Setiap pemain butuh mengunggah replaynya sendiri agar terlihat di papan skor online"
+msgstr "Setiap pemain butuh mengunggah replaynya sendiri agar terlihat di papan peringkat online"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
@@ -258,7 +258,7 @@ msgstr "Mencari ruang..."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:170
 msgid "(Incompatible version)"
-msgstr "(Versi tak mendukung)"
+msgstr "(Versi tidak mendukung)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:190
 msgid "Create room"
@@ -308,7 +308,7 @@ msgstr "Gagal untuk mengunggah replay."
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
-msgstr "Sukses mengunggah"
+msgstr "Berhasil mengunggah"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
@@ -383,7 +383,7 @@ msgstr "Gagal untuk Mengautentikasi"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:188
 msgid "Error :("
-msgstr "Ada kesalahan =["
+msgstr "Ada kesalahan :("
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:155
 msgid "Are you sure you want to report this comment?"
@@ -402,7 +402,7 @@ msgstr "Error saat melaporkan"
 #. The title of the screen where players delete comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:188
 msgid "Delete comment"
-msgstr "Hapus Komentar"
+msgstr "Hapus komentar"
 
 #. Shown in a notification after successfully deleting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:190
@@ -416,7 +416,7 @@ msgstr "Error saat menghapus komentar"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:195
 msgid "Are you sure you want to delete this comment?"
-msgstr "Apakah anda yakin ingin menghapus komentar ini?"
+msgstr "Apakah Anda yakin ingin menghapus komentar ini?"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:276
@@ -443,7 +443,7 @@ msgstr "Tolong jaga bahasa anda. Tidak ada penghinaan, tidak ada mengumpat, tida
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:337
 msgid "Posting comment"
-msgstr "Unggah komentar"
+msgstr "Mengunggah komentar"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:358
@@ -527,7 +527,7 @@ msgstr "Segarkan"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
-msgstr "Pengaturan bahasa"
+msgstr "Pengaturan Bahasa"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:20
 msgid "The translations are community provided!"
@@ -547,7 +547,7 @@ msgstr "Kontributor"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
-msgstr "Lengkahi"
+msgstr "Langkahi"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -557,7 +557,7 @@ msgstr "Gaya pengendali"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:44
 msgid "Single Player"
-msgstr "Satu pemain"
+msgstr "Satu Pemain"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:47
 msgid "Play"
@@ -593,7 +593,7 @@ msgstr "Kata sandi salah"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:383
 msgid "You are already in the room!"
-msgstr "Anda sudah ada didalam ruang!"
+msgstr "Anda sudah ada di dalam ruang!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:386
 msgid "The room does not exist anymore"
@@ -613,7 +613,7 @@ msgstr "Pengaturan ruang"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
 msgid "2 extra characters (optional):"
-msgstr "2 ekstar huruf (Tidak harus):"
+msgstr "2 ekstra huruf (Tidak harus):"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
 msgid "Password (optional):"
@@ -641,7 +641,7 @@ msgstr "Hilang koneksi dengan host"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:19
 msgid "Audio Settings"
-msgstr "Pengaturan suara"
+msgstr "Pengaturan Suara"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:28
 msgid "Sound effects"
@@ -709,11 +709,11 @@ msgstr "dunia"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
 msgid "High Scores"
-msgstr "Nilai tertinggi"
+msgstr "Nilai Tertinggi"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
 msgid "Speed Runs"
-msgstr ""
+msgstr "Speed Run"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:44
 msgid "Failed to read replay."
@@ -741,7 +741,7 @@ msgstr "#ffff00ffOfficial#ffffffff level yang dibuat oleh saya (JF), dan bisa me
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:77
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr "#ffff00ffCommunity#ffffffff level yang dibuat oleh ANDA, Komunitasnya."
+msgstr "#ffff00ffCommunity#ffffffff level yang dibuat oleh ANDA, komunitasnya."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
 msgid "More info on github.com/jyaif/ppl-utils"
@@ -795,7 +795,7 @@ msgstr "Informasi"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
-msgstr "Pengaturan kontrol"
+msgstr "Pengaturan Kontrol"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
@@ -807,7 +807,7 @@ msgstr "Keyboard"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:40
 msgid "Directed by %s"
@@ -819,7 +819,7 @@ msgstr "Video pengembangan"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:109
 msgid "Discord server"
-msgstr "Server discord"
+msgstr "Server Discord"
 
 #. Shown in a button. This buttons lets you see a list of people that
 #. contributed to the game.
@@ -919,7 +919,7 @@ msgstr "Mengubah warna nama"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
-msgstr "Nama sukses diubah"
+msgstr "Nama berhasil diubah"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
 msgid "Failed to update username"
@@ -927,7 +927,7 @@ msgstr "Gagal untuk memperbarui nama"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
-msgstr "Meminta Verifikasi email"
+msgstr "Meminta verifikasi email"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
@@ -935,7 +935,7 @@ msgstr "Email verifikasi terkirim"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr "Chek kotak surat anda!"
+msgstr "Cek kotak surat anda!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
@@ -999,11 +999,11 @@ msgstr "Gagal untuk mensinkronisasi"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:61
 msgid "Synchronization completed."
-msgstr "Sinkronisasi Selesai."
+msgstr "Sinkronisasi selesai."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:62
 msgid "All your medals are here."
-msgstr "Semua medali mu disini."
+msgstr "Semua medali Anda disini."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
@@ -1015,7 +1015,7 @@ msgstr "Tidak masuk"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
-msgstr "Buat akun untuk menetapkan nama dan sinkronisasikan data anda"
+msgstr "Buat akun untuk menetapkan nama dan sinkronisasikan data Anda"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
 msgid "Register"
@@ -1041,7 +1041,7 @@ msgstr "Anda perlu masukan akun sebelum melihat komentar-komentar"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
-msgstr "Akun anda"
+msgstr "Akun Anda"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
@@ -1081,7 +1081,7 @@ msgstr "Pendaftaran berhasil."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
 msgid "Please check your emails!"
-msgstr "Tolong periksa email anda!"
+msgstr "Tolong periksa email Anda!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
@@ -1089,7 +1089,7 @@ msgstr "Gagal untuk mendaftar"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Username (you can put colors in!):"
-msgstr "Nama pengguna (kamu bisa memakai warna disini!):"
+msgstr "Nama pengguna (Anda bisa memakai warna di sini!):"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm password:"
@@ -1199,7 +1199,7 @@ msgstr "Rekor pribadi baru! %s ⇨ %s"
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:40
 msgid "Improved speed run! %s ⇨ %s"
-msgstr ""
+msgstr "Speed run tertingkatkan! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
@@ -1229,7 +1229,7 @@ msgstr "Durasi: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
-msgstr "Hindari semuanya dan kau akan baik baik saja"
+msgstr "Hindari semuanya dan Anda akan baik baik saja"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
@@ -1273,7 +1273,7 @@ msgstr "\"Level ini hanya lelucon kan?\" - Seorang tester"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
-msgstr "RIP GW3: Dimensi"
+msgstr "Istirahat yang tenang GW3: Dimensi"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "Previously known as Assault"
