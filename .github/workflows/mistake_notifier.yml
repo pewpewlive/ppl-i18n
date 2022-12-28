@@ -1,0 +1,95 @@
+name: Mistake Notifier
+
+on:
+  workflow_run:
+    workflows: [Mistake Checker]
+    types:
+      - completed
+      
+jobs:
+  notify:
+    name: Notify of mistakes
+    runs-on: ubuntu-latest
+    
+    permissions:
+      pull-requests: write
+      issues: write
+    
+    steps:
+      - name: Download mistake checker results
+        uses: actions/github-script@v3.1.0
+        with:
+          script: |
+            let allArtifacts = await github.actions.listWorkflowRunArtifacts({
+               owner: context.repo.owner,
+               repo: context.repo.repo,
+               run_id: ${{ github.event.workflow_run.id }},
+            });
+            
+            let matchArtifact = allArtifacts.data.artifacts.filter((artifact) => {
+              return artifact.name == "mistakes"
+            })[0];
+            
+            let download = await github.actions.downloadArtifact({
+               owner: context.repo.owner,
+               repo: context.repo.repo,
+               artifact_id: matchArtifact.id,
+               archive_format: 'zip',
+            });
+            
+            let fs = require('fs');
+            fs.writeFileSync('${{ github.workspace }}/pr.zip', Buffer.from(download.data));
+            
+      - run: unzip pr.zip
+
+      - name: Output detected mistakes if any
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            let fs = require('fs');
+            const pr_number = Number(fs.readFileSync('./number.txt'));
+            const mistakes = fs.readFileSync('./mistakes.txt').toString().split(" /// ");
+
+            let message = '';
+
+            if (mistakes[0] !== '0' && mistakes[0] !== '0\n') {
+              message += 'Thank you for contributing!\n\n';
+              message += 'To keep translations error-free, we check them for mistakes. The files you changed seem to contain some, no worries though, they can be fixed! ';
+              message += `See helpful info below:\n\`\`\`diff\n`;
+              message += '===================================================================\n';
+              for (mistake of mistakes) {
+                mistake_info = mistake.split(' // ');
+                if (mistake_info[0] === '0' || mistake_info[0] === '\n0') break;
+
+                message += `@@ Line: ${mistake_info[2]} @@\n`;
+
+                switch (mistake_info[0]) {
+                  case 'e':
+                    message += '--- Non-Matching use of %s\n';
+                    message += `+ msgid "${mistake_info[3]}"\n`;
+                    message += `- msgstr "${mistake_info[4]}"\n`;
+                    break;
+                  case 'w':
+                    message += '!!! Possible misuse of colors\n';
+                    message += `+ msgid "${mistake_info[3]}"\n`;
+                    message += `- msgstr "${mistake_info[4]}"\n`;
+                    break;
+                }
+                
+                if (mistakes.indexOf(mistake) !== mistakes.length - 2) {
+                  message += '***************\n';
+                }
+              }
+
+              message += '===================================================================';
+            }
+
+            if (message !== "") {
+              github.rest.issues.createComment({
+                issue_number: pr_number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: message
+              });
+            }

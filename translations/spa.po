@@ -437,7 +437,7 @@ msgstr "El comentario debe tener al menos 3 caracteres."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:313
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Por favor, cuide su idioma. Sin insultos, sin palabrotas, sin spam. Podemos eliminar cualquier comentario que infrinja esta regla y bloquear a los infractores."
+msgstr "Por favor, cuide su lenguaje. Sin insultos, sin palabrotas, sin spam. Podemos eliminar cualquier comentario que infrinja esta regla y bloquear a los infractores."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -1233,7 +1233,7 @@ msgstr "Esquiva todo y estarás bien"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
-msgstr "aka: Dodge This"
+msgstr "alias: Dodge This"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Green good. Red bad."

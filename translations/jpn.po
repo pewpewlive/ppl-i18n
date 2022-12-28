@@ -13,7 +13,7 @@ msgstr "OK"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "赤"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
@@ -43,7 +43,7 @@ msgstr ""
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "オレンジ"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
@@ -745,7 +745,7 @@ msgstr "#ffff00ffコミュニティ#ffffffff , つまり君たちが作ったレ
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "もっと詳しい情報がこちら github.com/jyaif/ppl-utils"
+msgstr "詳しくはこちら github.com/jyaif/ppl-utils"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
@@ -825,7 +825,7 @@ msgstr "Discord サーバー"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:171
 msgid "Credits"
-msgstr ""
+msgstr "クレジット"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
@@ -839,7 +839,7 @@ msgstr ""
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Fullscreen"
-msgstr ""
+msgstr "フルスクリーン"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"

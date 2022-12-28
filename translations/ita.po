@@ -13,52 +13,52 @@ msgstr "ok"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "Rosso"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Cyan"
-msgstr ""
+msgstr "Ciano"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
 msgid "Lime"
-msgstr ""
+msgstr "Lime"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:60
 msgid "Lime Green"
-msgstr ""
+msgstr "Verde lime"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "Viola"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "Rosa"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "Arancione"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "Bianco"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "Grigio"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "Blu scuro"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -292,7 +292,7 @@ msgstr "Joystick"
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
 msgid "UI colors"
-msgstr ""
+msgstr "Colori UI"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
@@ -359,11 +359,11 @@ msgstr "Errore con il NAT simmetrico"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr ""
+msgstr "Questo significa che la tua connessione internet è molto restrittiva e non permette il multiplayer p2p."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr ""
+msgstr "Se stai usando la connessione cellulare, prova a disabilitarla. Se sei in Wi-Fi, prova una rete Wi-Fi diversa."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
@@ -507,7 +507,7 @@ msgstr "Pausa rapida"
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr ""
+msgstr "Stato su Steam"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -519,7 +519,7 @@ msgstr "Scala UI: %s"
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "UI Inset: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
 msgid "Refresh"
@@ -791,7 +791,7 @@ msgstr "Livello sperimentale"
 #. information.
 #: ../client/application/game/ui/screens/screen_view_level.cpp:369
 msgid "Information"
-msgstr ""
+msgstr "Informazioni"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
@@ -825,7 +825,7 @@ msgstr "Server Discord"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:171
 msgid "Credits"
-msgstr ""
+msgstr "Crediti"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
@@ -834,12 +834,12 @@ msgstr "Impostazioni"
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_settings.cpp:42
 msgid "Windowed"
-msgstr ""
+msgstr "In finestra"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Fullscreen"
-msgstr ""
+msgstr "Schermo intero"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"

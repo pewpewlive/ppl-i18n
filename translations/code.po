@@ -13,52 +13,52 @@ msgstr "Ok();"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "Colors.Red"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Cyan"
-msgstr ""
+msgstr "Colors.Cyan"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
 msgid "Lime"
-msgstr ""
+msgstr "Colors.Lime"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:60
 msgid "Lime Green"
-msgstr ""
+msgstr "Colors.LimeGreen"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "Colors.Purple"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "Colors.Pink"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "Colors.Orange"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "Colors.White"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "Colors.Gray"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "Colors.DarkBlue"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -292,7 +292,7 @@ msgstr "ship.joysticks"
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
 msgid "UI colors"
-msgstr ""
+msgstr "Game.UI.Colors"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
@@ -359,11 +359,11 @@ msgstr "Game.Error = \"Symmetric NAT error\""
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr ""
+msgstr "if (Game.InternetConnection.GetRestrictionStatus() == RestrictionStatus::OverlyRestricted) { PermitP2P(false); }"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr ""
+msgstr "if (Game.InternetConnection.GetType() == ConnectionType::MobileData) { SwitchToWiFi(); } else { TryDifferentWiFiNetwork(); }"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
@@ -507,7 +507,7 @@ msgstr "Game.QuickPause"
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr ""
+msgstr "Game.ShowSteamStatus"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -519,7 +519,7 @@ msgstr "Game.UIScale: %s"
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "Game.UIInset: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
 msgid "Refresh"
@@ -791,7 +791,7 @@ msgstr "Level.Experimental"
 #. information.
 #: ../client/application/game/ui/screens/screen_view_level.cpp:369
 msgid "Information"
-msgstr ""
+msgstr "Level.Info.UI"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
@@ -825,7 +825,7 @@ msgstr "DiscordServer();"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:171
 msgid "Credits"
-msgstr ""
+msgstr "GameCredits.UI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
@@ -834,12 +834,12 @@ msgstr "GameSettings.UI"
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_settings.cpp:42
 msgid "Windowed"
-msgstr ""
+msgstr "ScreenState::Windowed"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Fullscreen"
-msgstr ""
+msgstr "ScreenState::Fullscreen"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"

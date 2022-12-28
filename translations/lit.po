@@ -134,7 +134,7 @@ msgstr "Nepavyko prisijungti!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
-msgstr "Atsisiunčiamas lygis ..."
+msgstr "Atsisiunčiamas lygis..."
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:60
 msgid "Failed to download level."
@@ -1322,4 +1322,3 @@ msgstr "Labai žema 16x"
 #: ../client/application/graphics/renderers/renderer_types.cpp:24
 msgid "Ultra low 32x"
 msgstr "Labai žema 32x"
-
