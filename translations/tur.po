@@ -292,7 +292,7 @@ msgstr "Joyistikler"
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
 msgid "UI colors"
-msgstr ""
+msgstr "Uİ renkleri"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
