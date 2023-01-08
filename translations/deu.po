@@ -13,7 +13,7 @@ msgstr "ok"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "Rot"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
@@ -33,7 +33,7 @@ msgstr ""
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "Lila"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
@@ -48,17 +48,17 @@ msgstr ""
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "Weiß"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "Grau"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "Dunkel Blau"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -74,7 +74,7 @@ msgstr "Kurze Pause"
 
 #: ../client/application/game/game.cpp:174
 msgid "Quick pause %s"
-msgstr "Kurze Pause %s"
+msgstr "Schnell Pause %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:27
 msgid "Continue"
@@ -497,7 +497,7 @@ msgstr "In-game score anzeigen"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
-msgstr "Kurze Pause"
+msgstr "Schnell Pause"
 
 #. Shown in the settings UI, next to an "on/off" switch, when the game is
 #. launched from Steam.
@@ -507,7 +507,7 @@ msgstr "Kurze Pause"
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr ""
+msgstr "Steam status"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
