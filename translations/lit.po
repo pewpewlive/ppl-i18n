@@ -733,7 +733,7 @@ msgstr "Bendruomenė"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
 msgid "Experimental"
-msgstr "Ekspermentiniai"
+msgstr "Eksperimentiniai"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
@@ -749,7 +749,7 @@ msgstr "Daugiau informacijos rasite čia: github.com/jyaif/ppl-utils"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "Lygiai #ffff00ffEkspermentiniai#ffffffff skiltyje yra lygiai kurie dar nėra patvirtinti ar pabaigti."
+msgstr "Lygiai #ffff00ffEksperimentiniai#ffffffff skiltyje yra lygiai kurie dar nėra patvirtinti ar pabaigti."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:83
 msgid "About the levels"
@@ -757,7 +757,7 @@ msgstr "Apie Lygius"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:133
 msgid "Experimental levels"
-msgstr "Ekspermentiniai Lygiai"
+msgstr "Eksperimentiniai Lygiai"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
@@ -785,7 +785,7 @@ msgstr "vidutinis taškų skaičius: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:328
 msgid "Experimental level"
-msgstr "Ekspermentinis lygis"
+msgstr "Eksperimentinis lygis"
 
 #. The title of the screen that shows information. Any kind of
 #. information.
