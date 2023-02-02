@@ -106,7 +106,7 @@ msgstr ""
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
-msgstr "サーバー セツゾク シッパイ"
+msgstr "サーバーへの接続に失敗されました"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
@@ -130,15 +130,15 @@ msgstr "カジュアル"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr "サインイン シッパイ"
+msgstr "サインイン 失敗されました"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
-msgstr "レベル ダウンロードチュウ"
+msgstr "レベル ダウンロード中"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:60
 msgid "Failed to download level."
-msgstr ""
+msgstr "レベルをダウンロードに失敗されました"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
@@ -178,7 +178,7 @@ msgstr "ジョイスティック設定"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
 msgid "Swap"
-msgstr "イレカエ"
+msgstr "入れ替え"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:117
 msgid "Reset"
@@ -186,7 +186,7 @@ msgstr "リセット"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "ゲームパッド設定"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
@@ -242,7 +242,7 @@ msgstr "Wifi セツゾクハ インターネットニ ツナゲル ヒツヨウ 
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "ホットスポット ヘノ セツゾクガ イイデショウ"
+msgstr "ホットスポットヘの接続がいいでしょう"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
@@ -287,12 +287,12 @@ msgstr "弾丸"
 #. Shown in a button used to configurethe style of joysticks
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:314
 msgid "Joysticks"
-msgstr ""
+msgstr "ジョイスティック"
 
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
 msgid "UI colors"
-msgstr ""
+msgstr "UI色"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
 msgid "Upload scores"
@@ -304,7 +304,7 @@ msgstr "アップロードする物はありません"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
 msgid "Failed to upload replays."
-msgstr "リプレイ アップロード シッパイ"
+msgstr "リプレイをアップロードに失敗されました"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
@@ -344,18 +344,18 @@ msgstr "ネットワークをチェックしています"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "シンメトリックNATとマルチプレイができません"
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
 msgid "Learn more"
-msgstr ""
+msgstr "詳しくはこちら"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "シンメトリックNATエラー"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
@@ -367,7 +367,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "STUNサーバーへの接続に失敗されました"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:144
 msgid "Authenticating..."
@@ -701,7 +701,7 @@ msgstr "チイキベツ"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
 msgid "continent"
-msgstr "タイリク"
+msgstr "大陸"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
 msgid "world"
@@ -749,7 +749,7 @@ msgstr "詳しくはこちら github.com/jyaif/ppl-utils"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr "#ffff00ffジッケンテキ#ffffffff レベル... まだリリースされていないもの"
+msgstr "#ffff00ff実験的#ffffffff レベル... まだリリースされていないもの"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:83
 msgid "About the levels"
@@ -807,7 +807,7 @@ msgstr "キーボード"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "ゲームパッド"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:40
 msgid "Directed by %s"
@@ -1193,7 +1193,7 @@ msgstr "バックアップ データ ダウンロード シッパイ"
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
 #: ../client/application/game/player_data/player_data_manager.cpp:37
 msgid "New personal best! %s ⇨ %s"
-msgstr "シンキロク! %s ⇨ %s"
+msgstr "新記録! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
@@ -1229,11 +1229,11 @@ msgstr ""
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
-msgstr "スベテ ヨケレバイイ"
+msgstr "すべて避ければいい"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
-msgstr "\"ヨケロ\" トモ イワレル"
+msgstr "「避けろ」とも言われる"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Green good. Red bad."
@@ -1241,11 +1241,11 @@ msgstr "緑よし。赤だめ。"
 
 #: ../client/application/game/levels/game_levels.cpp:95
 msgid "Never trust a six-sided polygon"
-msgstr "ロクメン ポリゴンヲ シンジルナ"
+msgstr "六角のポリゴンを絶対に信用しないで"
 
 #: ../client/application/game/levels/game_levels.cpp:96
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "\"Super Hexagon\" トハ カンケイアリマセン"
+msgstr "「Super Hexagon」とは関係ありません"
 
 #: ../client/application/game/levels/game_levels.cpp:97
 msgid "Choose your own difficulty"
@@ -1257,11 +1257,11 @@ msgstr "ユークリッド クウカンハ ヒョウカサレスギダ"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "Just 32 seconds of skills"
-msgstr "32ビョウカンノ ギジュツ"
+msgstr "ただ32秒の技術"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "My favorite mode"
-msgstr "ワタシノ オキニイリ"
+msgstr "私のお気に入り"
 
 #: ../client/application/game/levels/game_levels.cpp:119
 msgid "Survive 32 seconds with this simple trick"
@@ -1297,7 +1297,7 @@ msgstr "ミニマル"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "High"
-msgstr "キレイ"
+msgstr "きれい"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:12
 msgid "Compression friendly"
