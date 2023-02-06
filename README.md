@@ -41,10 +41,10 @@ the feasibility.
 * [Turkish](/translations/tur.po) (100% complete! 🎉)
 * [Ukrainian](/translations/ukr.po) (99% complete; 1 remaining)
 * [Georgian](/translations/kat.po) (100% complete! 🎉)
-* [Japanese](/translations/jpn.po) (82% complete; 54 remaining)
+* [Japanese](/translations/jpn.po) (85% complete; 45 remaining)
 * [Simplified Chinese](/translations/chs.po) (93% complete; 19 remaining)
 * [Traditional Chinese](/translations/cht.po) (11% complete; 274 remaining)
 * [Code](/translations/code.po) (100% complete! 🎉)
 * [Meme-nglish](/translations/meme.po) (88% complete; 34 remaining)
 * [Pirate Speak](/translations/pirate.po) (69% complete; 94 remaining)
-> Report generated on Jan 30 2023 01:33:16 UTC
+> Report generated on Feb 06 2023 01:35:21 UTC
