@@ -1003,7 +1003,7 @@ msgstr "Синхронизация успешна."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:62
 msgid "All your medals are here."
-msgstr "Все медали сохранены."
+msgstr "Все медали зачислены."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
