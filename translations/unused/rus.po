@@ -4,6 +4,9 @@
 msgid "2 extra characters:"
 msgstr "2 дополнительных символа:"
 
+msgid "All your medals are here."
+msgstr "Все медали зачислены."
+
 msgid "Career"
 msgstr "Карьера"
 
@@ -21,6 +24,12 @@ msgstr "Собственные уровни?!"
 
 msgid "Dark High"
 msgstr "Тёмный Высокий"
+
+msgid "Directed by %s"
+msgstr "Под руководством %s"
+
+msgid "Error reading manifest"
+msgstr "Ошибка чтения манифеста."
 
 msgid "Failed to parse server response"
 msgstr "Не удалось получить ответ от сервера"
@@ -69,6 +78,9 @@ msgstr "Профиль"
 
 msgid "Renderer: %s"
 msgstr "Рендер: %s"
+
+msgid "Score: %s"
+msgstr "Результат: %s"
 
 msgid "Select level"
 msgstr "Выбор уровня"

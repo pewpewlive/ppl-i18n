@@ -1,6 +1,15 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "All your medals are here."
+msgstr "Sync() returned: \"All your medals are here.\""
+
+msgid "Directed by %s"
+msgstr "Game.Director = %s"
+
+msgid "Error reading manifest"
+msgstr "Game.Error = \"Failed reading manifest\""
+
 msgid "High (Dark)"
 msgstr "DarkTheme(INT_MAX);"
 
@@ -15,6 +24,9 @@ msgstr "DarkTheme(INT_MIN);"
 
 msgid "Online profile"
 msgstr "OnlineProfile();"
+
+msgid "Score: %s"
+msgstr "levelTry.Score = %s"
 
 msgid "by %s"
 msgstr "level.author = %s"

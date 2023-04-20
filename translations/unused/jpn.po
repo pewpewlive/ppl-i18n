@@ -1,6 +1,9 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "All your medals are here."
+msgstr "メダル ジョウホウガ ホゾン サレマシタ"
+
 msgid "Creator"
 msgstr "サクシャ"
 
@@ -9,6 +12,9 @@ msgstr "カスタムレベル"
 
 msgid "Custom levels?!"
 msgstr "カスタムレベル！？"
+
+msgid "Error reading manifest"
+msgstr "マニフェスト読み込み失敗"
 
 msgid "High (Dark)"
 msgstr "キレイ (ダーク)"
@@ -42,6 +48,9 @@ msgstr "オンライン プロフィール"
 
 msgid "Renderer: %s"
 msgstr "レンダラー: %s"
+
+msgid "Score: %s"
+msgstr "スコア: %s"
 
 msgid "Select level"
 msgstr "レベル センタク"

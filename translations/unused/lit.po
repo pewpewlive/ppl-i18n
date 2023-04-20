@@ -4,6 +4,9 @@
 msgid "2 extra characters:"
 msgstr "Dvi papildomos raidės:"
 
+msgid "All your medals are here."
+msgstr "Visi jūsų medaliai yra čia."
+
 msgid "Career"
 msgstr "Karjera"
 
@@ -21,6 +24,12 @@ msgstr "Kitų žmonių lygiai?!"
 
 msgid "Dark High"
 msgstr "Tamsiai Aukšta"
+
+msgid "Directed by %s"
+msgstr "Sukūrė: %s"
+
+msgid "Error reading manifest"
+msgstr "Klaida skaitant aprašą"
 
 msgid "Failed to parse server response"
 msgstr "Nepavyko išanalizuoti serverio atsakymo"
@@ -69,6 +78,9 @@ msgstr "Internetinis profilis"
 
 msgid "Renderer: %s"
 msgstr "Kokybė: %s"
+
+msgid "Score: %s"
+msgstr "Taškai: %s"
 
 msgid "Select level"
 msgstr "Pasirinkite lygį"

@@ -1,8 +1,8 @@
-#: ../client/application/ui/ui_helpers.cpp:65
+#: ../client/application/ui/ui_helpers.cpp:67
 msgid "on"
 msgstr "Įj."
 
-#: ../client/application/ui/ui_helpers.cpp:66
+#: ../client/application/ui/ui_helpers.cpp:68
 msgid "off"
 msgstr "Išj."
 
@@ -68,11 +68,11 @@ msgstr "Tamsiai mėlyna"
 msgid "Update available %s"
 msgstr "Galima nauja versija %s"
 
-#: ../client/application/game/game.cpp:168
+#: ../client/application/game/game.cpp:176
 msgid "Quick pause"
 msgstr "Greita pauzė"
 
-#: ../client/application/game/game.cpp:174
+#: ../client/application/game/game.cpp:182
 msgid "Quick pause %s"
 msgstr "Greitoji pauzė %s"
 
@@ -92,13 +92,33 @@ msgstr "Iš naujo"
 msgid "Exit"
 msgstr "Išeiti"
 
-#: ../client/application/game/ui/game_over_ui.cpp:15
+#: ../client/application/game/ui/game_over_ui.cpp:19
 msgid "Play again"
 msgstr "Žaisti vėl"
 
-#: ../client/application/game/ui/game_over_ui.cpp:34
+#: ../client/application/game/ui/game_over_ui.cpp:54
 msgid "Game Over"
 msgstr "Žaidimas baigtas"
+
+#. April 1st replacement for "Game Over". Does not need an exact translation.
+#: ../client/application/game/ui/game_over_ui.cpp:61
+msgid "You died. Again."
+msgstr ""
+
+#. April 1st replacement for "Game Over". Feel free to be creative.
+#: ../client/application/game/ui/game_over_ui.cpp:63
+msgid "Insert coin to continue"
+msgstr ""
+
+#. April 1st replacement for "Game Over". Feel free to be creative.
+#: ../client/application/game/ui/game_over_ui.cpp:65
+msgid "You tried"
+msgstr ""
+
+#. April 1st replacement for "Game Over". Feel free to be creative.
+#: ../client/application/game/ui/game_over_ui.cpp:67
+msgid "It's okay, you were never going to win anyway."
+msgstr ""
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -136,7 +156,7 @@ msgstr "Nepavyko prisijungti!"
 msgid "Downloading level..."
 msgstr "Atsisiunčiamas lygis..."
 
-#: ../client/application/game/ui/screens/screen_download_level.cpp:60
+#: ../client/application/game/ui/screens/screen_download_level.cpp:59
 msgid "Failed to download level."
 msgstr "Nepavyko atsisiųsti lygio."
 
@@ -268,49 +288,49 @@ msgstr "Sukurti kambarį"
 msgid "Close room"
 msgstr "Uždaryti kambarį"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:50
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:51
 msgid "Configure Ship"
 msgstr "Konfigūruoti laivą"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
 msgid "Model"
 msgstr "Modeliai"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
 msgid "Trail"
 msgstr "Pėdsakas"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
 msgid "Bullets"
 msgstr "Kulkos"
 
 #. Shown in a button used to configurethe style of joysticks
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:314
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:299
 msgid "Joysticks"
 msgstr "Vairasvirtės"
 
 #. Shown in a button used to configure the color the UI.
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:307
 msgid "UI colors"
 msgstr "Vartotojo sąsajos spalva"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
 msgstr "Įkelti taškus"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:80
 msgid "Nothing to upload!"
 msgstr "Nėra nieko įkelti!"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:98
 msgid "Failed to upload replays."
 msgstr "Nepavyko įkelti pakartojimų."
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:100
 msgid "Upload successful"
 msgstr "Įkėlimas sėkmingas"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:120
 msgid "Uploading replay for %s."
 msgstr "Įkeliamas pakartojimas %s lygiui."
 
@@ -322,19 +342,21 @@ msgstr "Statistika"
 msgid "Global leaderboards"
 msgstr "Pasaulinės rekordų lentelės"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:106
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Configure keyboard"
 msgstr "Konfigūruoti klaviatūrą"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:124
 msgid "Move"
 msgstr "Judėti"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:132
 msgid "Shoot"
 msgstr "Šauti"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
+#. Used in the settings. The %s is replaced with "on" or "off", for example:
+#. "Mouse aim off".
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:233
 msgid "Mouse aim %s"
 msgstr "Pelės taikiklis %s"
 
@@ -385,84 +407,84 @@ msgstr "Nepavyko autentifikuoti"
 msgid "Error :("
 msgstr "Klaida :("
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:155
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:157
 msgid "Are you sure you want to report this comment?"
 msgstr "Ar esate tikri, kad norite pranešti apie šį komentarą?"
 
 #. Shown in a notification after successfully reporting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:157
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Successfully reported comment"
 msgstr "Apie komentarą sėkmingai pranešta"
 
 #. Shown in a notification if a comment could not be reported.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
 msgid "Error reporting comment"
 msgstr "Nepavyko pranešti apie komentarą"
 
 #. The title of the screen where players delete comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:188
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:190
 msgid "Delete comment"
 msgstr "Ištrinti komentarą"
 
 #. Shown in a notification after successfully deleting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:190
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:192
 msgid "Successfully deleted comment"
 msgstr "Komentaras sėkmingai ištrintas"
 
 #. Shown in a notification if a comment could not be deleting.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:192
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:194
 msgid "Error deleting comment"
 msgstr "Nepavyko ištrinti komentaro"
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:195
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:197
 msgid "Are you sure you want to delete this comment?"
 msgstr "Ar esate tikri, kad norite ištrinti šį komentarą?"
 
 #. Used as a placeholder in the textfield where players write their comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:276
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:278
 msgid "<Add a comment here>"
 msgstr "<Pridėkite komentarą čia>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:291
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
 msgid "Comment"
 msgstr "Komentuoti"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:297
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:299
 msgid "Comment must be at least 3 characters long."
 msgstr "Komentaras turi būti bent 3 simbolių ilgio."
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:313
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:315
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
 msgstr "Prašome stebėti savo kalbą. Jokių įžeidinėjimų, jokių keiksmų, jokio šlamšto. Galime ištrinti bet kokius komentarus, kurie pažeidžia šią taisyklę, ir blokuoti arba uždrausti pažeidėjus."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:337
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:339
 msgid "Posting comment"
 msgstr "Skelbiamas komentaras"
 
 #. Shown in a notification after a comment was succesfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:358
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:360
 msgid "Comment posted"
 msgstr "Komentaras paskelbtas"
 
 #. Shown in a notification after a comment was succesfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:362
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:364
 msgid "Failed to post comment"
 msgstr "Nepavyko paskelbti komentaro"
 
 #. The title of the screen where players report comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:154
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:156
 msgctxt "report_screen_title"
 msgid "Report comment"
 msgstr "Pranešti apie komentarą"
 
 #. The title of the screen where players enter the comment they want to add.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:271
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
 msgstr "Pridėti komentarą"
@@ -472,7 +494,7 @@ msgstr "Pridėti komentarą"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:425
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:427
 msgctxt "menu_confirm_action"
 msgid "Yes"
 msgstr "Taip"
@@ -482,7 +504,7 @@ msgstr "Taip"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:438
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:440
 msgctxt "menu_cancel_action"
 msgid "No"
 msgstr "Ne"
@@ -521,7 +543,7 @@ msgstr "Vartotojo sąsajos dydis: %s"
 msgid "UI Inset: %s"
 msgstr "Vartotojo sąsajos tarpas: %s"
 
-#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:110
 msgid "Refresh"
 msgstr "Atnaujinti"
 
@@ -545,9 +567,13 @@ msgstr "Padėti"
 msgid "Contributors"
 msgstr "Prisidėję"
 
-#: ../client/application/game/ui/screens/screen_benchmark.cpp:27
+#: ../client/application/game/ui/screens/screen_benchmark.cpp:29
 msgid "Skip"
 msgstr "Praleisti"
+
+#: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
+msgid "Encyclopedia"
+msgstr ""
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -555,51 +581,51 @@ msgstr "Praleisti"
 msgid "Joysticks style"
 msgstr "Vairasvirtės stilius"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:44
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:46
 msgid "Single Player"
 msgstr "Vienas Žaidėjas"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:47
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:49
 msgid "Play"
 msgstr "Žaisti"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:75
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:77
 msgid "Multiplayer"
 msgstr "Kelių žaidėjų režimas"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
 msgid "Joining room"
 msgstr "Prisijungiama prie kambario"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
 msgid "Creating room"
 msgstr "Kuriamas kambarys"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:337
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:338
 msgid "The room expired"
 msgstr "Kambarys nebegalioja"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:351
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:352
 msgid "Unknown error"
 msgstr "Nežinoma klaida"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:366
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:367
 msgid "Failed to join room"
 msgstr "Nepavyko prisijungti prie kambario"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:380
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:381
 msgid "Incorrect password"
 msgstr "Neteisingas slaptažodis"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:383
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:384
 msgid "You are already in the room!"
 msgstr "Jūs jau esate kambaryje!"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:386
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:387
 msgid "The room does not exist anymore"
 msgstr "Kambarys nutrauktas"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:389
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:390
 msgid "Room is full"
 msgstr "Kambarys yra pilnas"
 
@@ -651,79 +677,83 @@ msgstr "Garso efektai"
 msgid "Visualization"
 msgstr "Vizualizacija"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "1p"
 msgstr "1 ž."
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "2p"
 msgstr "2 ž."
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "3p"
 msgstr "3 ž."
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "4p"
 msgstr "4 ž."
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:31
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Africa"
 msgstr "Afrika"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:32
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:34
 msgid "Asia"
 msgstr "Azija"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:35
 msgid "Europe"
 msgstr "Europa"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:34
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
 msgid "North America"
 msgstr "Šiaurės Amerika"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:35
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:37
 msgid "Oceania"
 msgstr "Okeanija"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:38
 msgid "South America"
 msgstr "Pietų Amerika"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:116
 msgid "personal"
 msgstr "asmeninis"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:116
 msgid "region"
 msgstr "regionas"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:117
 msgid "continent"
 msgstr "žemynas"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:117
 msgid "world"
 msgstr "pasaulis"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:196
 msgid "High Scores"
 msgstr "Rekordai"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
 msgid "Speed Runs"
 msgstr "Speedrun'ai"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:44
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:473
+msgid "Unknown level"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:53
 msgid "Failed to read replay."
 msgstr "Nepavyko perskaityti pakartojimo."
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:71
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:82
 msgid "Failed to download replay."
 msgstr "Nepavyko atsisiųsti pakartojimo."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:35
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
 msgid "Official"
 msgstr "Oficialūs"
 
@@ -731,65 +761,61 @@ msgstr "Oficialūs"
 msgid "Community"
 msgstr "Bendruomenė"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "Experimental"
 msgstr "Eksperimentiniai"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:59
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "Lygiai #ffff00ffOficialūs#ffffffff skiltyje yra lygiai kuriuos sukūrė šio žaidimo kūrėjas (JF), ir jie leidžia jums gauti medalius."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:77
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:60
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "Lygiai #ffff00ffBendruomenės#ffffffff skiltyje yra lygiai kuriuos sukūrėte JŪS, „PewPew“ bendruomenė."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:61
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "Daugiau informacijos rasite čia: github.com/jyaif/ppl-utils"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:62
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
 msgstr "Lygiai #ffff00ffEksperimentiniai#ffffffff skiltyje yra lygiai kurie dar nėra patvirtinti ar pabaigti."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:83
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:66
 msgid "About the levels"
 msgstr "Apie Lygius"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:133
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:113
 msgid "Experimental levels"
 msgstr "Eksperimentiniai Lygiai"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:32
+#: ../client/application/game/ui/screens/screen_view_level.cpp:33
 msgid "World record: %s"
 msgstr "Pasaulinis rekordas: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:36
+#: ../client/application/game/ui/screens/screen_view_level.cpp:37
 msgid "Local best: %s"
 msgstr "Vietinis rekordas: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:50
+#: ../client/application/game/ui/screens/screen_view_level.cpp:49
 msgid "Loading..."
 msgstr "Kraunama..."
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:85
-msgid "Error reading manifest"
-msgstr "Klaida skaitant aprašą"
-
-#: ../client/application/game/ui/screens/screen_view_level.cpp:90
+#: ../client/application/game/ui/screens/screen_view_level.cpp:59
 msgid "Failed to download manifest"
 msgstr "Nepavyko atsisiųsti aprašo"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:207
+#: ../client/application/game/ui/screens/screen_view_level.cpp:170
 msgid "average score: %s"
 msgstr "vidutinis taškų skaičius: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:328
+#: ../client/application/game/ui/screens/screen_view_level.cpp:290
 msgid "Experimental level"
 msgstr "Eksperimentinis lygis"
 
 #. The title of the screen that shows information. Any kind of
 #. information.
-#: ../client/application/game/ui/screens/screen_view_level.cpp:369
+#: ../client/application/game/ui/screens/screen_view_level.cpp:326
 msgid "Information"
 msgstr "Informacija"
 
@@ -809,21 +835,17 @@ msgstr "Klaviatūra"
 msgid "Gamepad"
 msgstr "Žaidimų pultas"
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:40
-msgid "Directed by %s"
-msgstr "Sukūrė: %s"
-
-#: ../client/application/game/ui/screens/screen_informations.cpp:67
-msgid "Development videos"
-msgstr "Kurimo vaizdo įrašai"
-
-#: ../client/application/game/ui/screens/screen_informations.cpp:109
+#: ../client/application/game/ui/screens/screen_informations.cpp:18
 msgid "Discord server"
 msgstr "„Discord“ serveris"
 
+#: ../client/application/game/ui/screens/screen_informations.cpp:24
+msgid "Development videos"
+msgstr "Kurimo vaizdo įrašai"
+
 #. Shown in a button. This buttons lets you see a list of people that
 #. contributed to the game.
-#: ../client/application/game/ui/screens/screen_informations.cpp:171
+#: ../client/application/game/ui/screens/screen_informations.cpp:135
 msgid "Credits"
 msgstr "Kreditai"
 
@@ -869,27 +891,27 @@ msgstr "Paleisti įvadą"
 msgid "Developer mode"
 msgstr "Kurėjo režimas"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:231
+#: ../client/application/game/ui/screens/screen_settings.cpp:232
 msgid "Vibration %s"
 msgstr "Vibracija %s"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:188
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:183
 msgid "Local lobby"
 msgstr "Vietinė fojė"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:191
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:186
 msgid "Online lobby"
 msgstr "Internetinė fojė"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:197
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:192
 msgid "Ready"
 msgstr "Pasiruošęs"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:206
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:201
 msgid "Cancel"
 msgstr "Atšaukti"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:349
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:344
 msgid "Waiting for other players..."
 msgstr "Laukiama kitų žaidėjų..."
 
@@ -1001,45 +1023,45 @@ msgstr "Nepavyko sinchronizuoti."
 msgid "Synchronization completed."
 msgstr "Sinchronizavimas pabaigtas."
 
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:62
-msgid "All your medals are here."
-msgstr "Visi jūsų medaliai yra čia."
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
+msgid "Your verified medals have been downloaded."
+msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
 msgstr "Paskyra"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Not signed in"
 msgstr "Neprisijungęs"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:26
 msgid "Create an account to set your name and sync your data"
 msgstr "Sukurkite paskyrą, kad pasirinktumėte vardą ir sinchronizuotumėte savo duomenis"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:31
 msgid "Register"
 msgstr "Registruotis"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:54
 msgid "Privacy Policy"
 msgstr "Privatumo politika"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to upload scores"
 msgstr "Norėdami įkelti taškus, turite prisijungti"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:99
 msgid "You need to be signed-in to play online"
 msgstr "Jūs turite būti prisijungę, kad žaisti internete"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:104
 msgid "You need to be signed-in to view comments"
 msgstr "Jūs turite būti prisijungę norint peržiūrėti komentarus"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:116
 msgid "Your account"
 msgstr "Jūsų paskyra"
 
@@ -1111,31 +1133,37 @@ msgstr "Slaptažodžiai nesutampa!"
 msgid "Emails do not match!"
 msgstr "El-paštai nesutampa!"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:40
+#. Shown in a header, in the screen that allows you to manage your PewPew Live account.
+#. In this screen you can for example change the colors of your nickname, or delete your account.
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:20
+msgid "Manage Account"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:41
 msgid "Synchronize"
 msgstr "Sinchronizuoti"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:50
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:50
 msgid "Sign out"
 msgstr "Atsijungti"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:61
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:60
 msgid "Delete account"
 msgstr "Pašalinti paskyrą"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:76
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:72
 msgid "Account deletion"
 msgstr "Paskyros pašalinimas"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:83
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:79
 msgid "Account deletion requested."
 msgstr "Paskyros pašalinimo prašymas išsiųstas."
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:85
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
 msgid "An email asking for confirmation was sent."
 msgstr "Pašalinimo patvirtinimo laiškas išsiųstas"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:90
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:86
 msgid "Failed to request account deletion"
 msgstr "Nepavyko išsiųsti paskyros pašalinimo prašymo"
 
@@ -1143,20 +1171,20 @@ msgstr "Nepavyko išsiųsti paskyros pašalinimo prašymo"
 msgid "%sWaiting for other player%s"
 msgstr "%sLaukiama kitų žaidėjų%s"
 
-#: ../client/application/game/ui/views/game_hud.cpp:59
+#: ../client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
 msgstr "Skydai: %s"
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
-#: ../client/application/game/ui/views/account_view.cpp:66
+#: ../client/application/game/ui/views/account_view.cpp:67
 msgctxt "account_view"
 msgid "Levels"
 msgstr "Lygiai"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
-#: ../client/application/game/ui/views/account_view.cpp:69
+#: ../client/application/game/ui/views/account_view.cpp:70
 msgctxt "account_view"
 msgid "Scores"
 msgstr "Taškai"
@@ -1164,7 +1192,7 @@ msgstr "Taškai"
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
 #. to their youtube channel, etc...
-#: ../client/application/game/ui/views/account_view.cpp:73
+#: ../client/application/game/ui/views/account_view.cpp:74
 msgctxt "account_view"
 msgid "General"
 msgstr "Bendra informacija"
@@ -1172,38 +1200,46 @@ msgstr "Bendra informacija"
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
 #. "Join date: 2021-08-25"
-#: ../client/application/game/ui/views/account_view.cpp:265
+#: ../client/application/game/ui/views/account_view.cpp:251
 msgctxt "account_view"
 msgid "Join date: %s"
 msgstr "Prisijungimo data: %s"
 
-#: ../client/application/game/ui/views/community_level_selector.cpp:154
+#: ../client/application/game/ui/views/community_level_selector.cpp:156
 msgid "IN REVIEW"
 msgstr "PERŽIŪROJE"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:139
+#: ../client/application/game/player_data/data_synchronizer.cpp:143
 msgid "You've been signed out."
 msgstr "Jūs esate atjungtas."
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:179
+#: ../client/application/game/player_data/data_synchronizer.cpp:183
 msgid "Failed to download backup data"
 msgstr "Nepavyko atsisiųsti atsarginės kopijos."
 
+#: ../client/application/game/player_data/data_synchronizer.cpp:267
+msgid "Failed to download achievements"
+msgstr ""
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:308
+msgid "Failed to upload achievements"
+msgstr ""
+
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
-#: ../client/application/game/player_data/player_data_manager.cpp:37
+#: ../client/application/game/player_data/player_data_manager.cpp:43
 msgid "New personal best! %s ⇨ %s"
 msgstr "Naujas vietinis rekordas! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
-#: ../client/application/game/player_data/player_data_manager.cpp:40
+#: ../client/application/game/player_data/player_data_manager.cpp:46
 msgid "Improved speed run! %s ⇨ %s"
 msgstr "Pagerintas speedrun'as! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: ../client/application/game/player_data/player_data_manager.cpp:617
+#: ../client/application/game/player_data/player_data_manager.cpp:632
 msgid "Achievement Unlocked: %s"
 msgstr "Pasiekimas atrakintas: %s"
 
@@ -1211,31 +1247,43 @@ msgstr "Pasiekimas atrakintas: %s"
 msgid "%s left the game"
 msgstr "%s paliko žaidimą"
 
-#: ../client/application/game/state/game_state.cpp:482
+#: ../client/application/game/state/game_state.cpp:430
 msgid "N/A"
 msgstr "Nėra"
 
-#: ../client/application/game/state/game_state.cpp:494
+#. Shown when the game is displaying stats. Concerns the player's shooting accuracy.
+#. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
+#: ../client/application/game/state/game_state.cpp:443
 msgid "Accuracy: %s"
 msgstr "Tikslumas: %s"
 
-#: ../client/application/game/state/game_state.cpp:499
-msgid "Score: %s"
-msgstr "Taškai: %s"
+#. Shown when the game is displaying stats. The %s is replaced with a number,
+#. for example "Total score: 43423"
+#: ../client/application/game/state/game_state.cpp:446
+msgid "Total score: %s"
+msgstr ""
 
-#: ../client/application/game/state/game_state.cpp:504
+#. Shown when the game is displaying stats. The %s is replaced with a number,
+#. for example "Pointonium: 34444"
+#: ../client/application/game/state/game_state.cpp:450
+msgid "Pointonium: %s"
+msgstr ""
+
+#. Shown when the game is displaying stats. The %s is replaced with a duration,
+#. for example: "Duration: 1m43s"
+#: ../client/application/game/state/game_state.cpp:454
 msgid "Duration: %s"
 msgstr "Trukmė: %s"
 
-#: ../client/application/game/levels/game_levels.cpp:83
+#: ../client/application/game/levels/game_levels.cpp:84
 msgid "Dodge everything and you'll be OK"
 msgstr "Venkite visko ir viskas bus gerai"
 
-#: ../client/application/game/levels/game_levels.cpp:83
+#: ../client/application/game/levels/game_levels.cpp:84
 msgid "aka Dodge This"
 msgstr "Dar žinomas kaip „Dodge This“"
 
-#: ../client/application/game/levels/game_levels.cpp:84
+#: ../client/application/game/levels/game_levels.cpp:85
 msgid "Green good. Red bad."
 msgstr "Žalia - gerai. Raudona - blogai."
 
@@ -1251,31 +1299,31 @@ msgstr "Nesusijęs su „Super Hexagon”"
 msgid "Choose your own difficulty"
 msgstr "Pasirinkite sunkumą"
 
-#: ../client/application/game/levels/game_levels.cpp:107
+#: ../client/application/game/levels/game_levels.cpp:106
 msgid "Euclidean space is overrated"
 msgstr "Euklidinė erdvė yra pervertinta"
 
-#: ../client/application/game/levels/game_levels.cpp:118
+#: ../client/application/game/levels/game_levels.cpp:116
 msgid "Just 32 seconds of skills"
 msgstr "Tik 32 sekundės įgūdžių"
 
-#: ../client/application/game/levels/game_levels.cpp:118
+#: ../client/application/game/levels/game_levels.cpp:116
 msgid "My favorite mode"
 msgstr "Mano mėgstamiausias režimas"
 
-#: ../client/application/game/levels/game_levels.cpp:119
+#: ../client/application/game/levels/game_levels.cpp:117
 msgid "Survive 32 seconds with this simple trick"
 msgstr "Išgyvenkite 32 sekundes su šiuo paprastu triuku"
 
-#: ../client/application/game/levels/game_levels.cpp:120
+#: ../client/application/game/levels/game_levels.cpp:118
 msgid "\"This level is a joke right?\" - a tester"
 msgstr "„Šis lygis yra pokštas, tiesa?” - testuotojas"
 
-#: ../client/application/game/levels/game_levels.cpp:131
+#: ../client/application/game/levels/game_levels.cpp:128
 msgid "RIP GW3:Dimensions"
 msgstr "„RIP GW3:Dimensions“"
 
-#: ../client/application/game/levels/game_levels.cpp:131
+#: ../client/application/game/levels/game_levels.cpp:128
 msgid "Previously known as Assault"
 msgstr "Anksčiau žinomas kaip „Assault“"
 
@@ -1322,3 +1370,4 @@ msgstr "Labai žema 16x"
 #: ../client/application/graphics/renderers/renderer_types.cpp:24
 msgid "Ultra low 32x"
 msgstr "Labai žema 32x"
+

@@ -4,6 +4,9 @@
 msgid "2 extra characters:"
 msgstr "2 karakter tambahan"
 
+msgid "All your medals are here."
+msgstr "Semua medali Anda disini."
+
 msgid "Career"
 msgstr "Karir"
 
@@ -15,6 +18,12 @@ msgstr "Level kustom"
 
 msgid "Custom levels?!"
 msgstr "Level kustom?!"
+
+msgid "Directed by %s"
+msgstr "Dipimpin oleh %s"
+
+msgid "Error reading manifest"
+msgstr "Kesalahan membaca manifes"
 
 msgid "Failed to parse server response"
 msgstr "Gagal mengurai respons server"
@@ -60,6 +69,9 @@ msgstr "Profil online"
 
 msgid "Renderer: %s"
 msgstr "Perenderan: %s"
+
+msgid "Score: %s"
+msgstr "Skor: %s"
 
 msgid "Select level"
 msgstr "Pilih level"

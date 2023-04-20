@@ -1,11 +1,17 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "All your medals are here."
+msgstr "Ye're bootys here!"
+
 msgid "Career"
 msgstr "Life in the sea"
 
 msgid "Dark High"
 msgstr "Eye of an owl"
+
+msgid "Error reading manifest"
+msgstr "Something isn't right.."
 
 msgid "High (Dark)"
 msgstr "Dark vision"

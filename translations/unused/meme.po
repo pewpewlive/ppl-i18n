@@ -4,6 +4,9 @@
 msgid "2 extra characters:"
 msgstr "2-long gamer tag:"
 
+msgid "All your medals are here."
+msgstr "Shinies all accounted for"
+
 msgid "Career"
 msgstr "Skill-o-meter"
 
@@ -21,6 +24,12 @@ msgstr "Self-made shenanigans?!"
 
 msgid "Dark High"
 msgstr "High but cooler"
+
+msgid "Directed by %s"
+msgstr "Meme CEO is %s"
+
+msgid "Error reading manifest"
+msgstr "man how is it even possible to mess up the manifest"
 
 msgid "Failed to parse server response"
 msgstr "Server illegible"

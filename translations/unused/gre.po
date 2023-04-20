@@ -1,6 +1,15 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "All your medals are here."
+msgstr "Όλα τα μετάλλια σου είναι εδώ."
+
+msgid "Directed by %s"
+msgstr "Φτιαγμένο απο τον %s"
+
+msgid "Error reading manifest"
+msgstr "Απέτυχε το διάβασμα του δηλωτικού"
+
 msgid "High (Dark)"
 msgstr "Υψηλό (Σκοτεινό)"
 
@@ -12,6 +21,9 @@ msgstr "Ελάχιστο (Σκοτεινό)"
 
 msgid "Online profile"
 msgstr "Online προφίλ"
+
+msgid "Score: %s"
+msgstr "Σκόρ: %s"
 
 msgid "by %s"
 msgstr "από %s"

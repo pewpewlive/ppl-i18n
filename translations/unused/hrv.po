@@ -4,6 +4,9 @@
 msgid "2 extra characters:"
 msgstr "2 dodatne znamenke:"
 
+msgid "All your medals are here."
+msgstr "Sve vaše medalje su ovdje."
+
 msgid "Career"
 msgstr "Karijera"
 
@@ -21,6 +24,12 @@ msgstr "Prilagođeni leveli?!"
 
 msgid "Dark High"
 msgstr "Tamno Visoko"
+
+msgid "Directed by %s"
+msgstr "Režirao %s"
+
+msgid "Error reading manifest"
+msgstr "Greška čitanja manifesta"
 
 msgid "Failed to parse server response"
 msgstr "Neuspješna rasčlaniranje odgovora servera."
@@ -69,6 +78,9 @@ msgstr "Online profil"
 
 msgid "Renderer: %s"
 msgstr "Renderer: %s"
+
+msgid "Score: %s"
+msgstr "Rezultat: %s"
 
 msgid "Select level"
 msgstr "Odaberi level"

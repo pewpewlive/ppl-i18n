@@ -1,8 +1,8 @@
-#: ../client/application/ui/ui_helpers.cpp:65
+#: ../client/application/ui/ui_helpers.cpp:67
 msgid "on"
 msgstr "Aye!"
 
-#: ../client/application/ui/ui_helpers.cpp:66
+#: ../client/application/ui/ui_helpers.cpp:68
 msgid "off"
 msgstr "Arr!"
 
@@ -68,11 +68,11 @@ msgstr ""
 msgid "Update available %s"
 msgstr ""
 
-#: ../client/application/game/game.cpp:168
+#: ../client/application/game/game.cpp:176
 msgid "Quick pause"
 msgstr "Dirt' coward"
 
-#: ../client/application/game/game.cpp:174
+#: ../client/application/game/game.cpp:182
 msgid "Quick pause %s"
 msgstr "Dirt' coward %s"
 
@@ -92,13 +92,33 @@ msgstr "Try again?"
 msgid "Exit"
 msgstr "Offboard"
 
-#: ../client/application/game/ui/game_over_ui.cpp:15
+#: ../client/application/game/ui/game_over_ui.cpp:19
 msgid "Play again"
 msgstr "Ye want a rematch?"
 
-#: ../client/application/game/ui/game_over_ui.cpp:34
+#: ../client/application/game/ui/game_over_ui.cpp:54
 msgid "Game Over"
 msgstr "Ship sinked!"
+
+#. April 1st replacement for "Game Over". Does not need an exact translation.
+#: ../client/application/game/ui/game_over_ui.cpp:61
+msgid "You died. Again."
+msgstr ""
+
+#. April 1st replacement for "Game Over". Feel free to be creative.
+#: ../client/application/game/ui/game_over_ui.cpp:63
+msgid "Insert coin to continue"
+msgstr ""
+
+#. April 1st replacement for "Game Over". Feel free to be creative.
+#: ../client/application/game/ui/game_over_ui.cpp:65
+msgid "You tried"
+msgstr ""
+
+#. April 1st replacement for "Game Over". Feel free to be creative.
+#: ../client/application/game/ui/game_over_ui.cpp:67
+msgid "It's okay, you were never going to win anyway."
+msgstr ""
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -136,7 +156,7 @@ msgstr "We aren't doing it"
 msgid "Downloading level..."
 msgstr "Pirating ship..."
 
-#: ../client/application/game/ui/screens/screen_download_level.cpp:60
+#: ../client/application/game/ui/screens/screen_download_level.cpp:59
 msgid "Failed to download level."
 msgstr ""
 
@@ -268,49 +288,49 @@ msgstr "Make a crew"
 msgid "Close room"
 msgstr "Get to thi land"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:50
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:51
 msgid "Configure Ship"
 msgstr "Get ye're Boat"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
 msgid "Model"
 msgstr "Cog"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
 msgid "Trail"
 msgstr "Clipper"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
 msgid "Bullets"
 msgstr "Chasing gun"
 
 #. Shown in a button used to configurethe style of joysticks
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:314
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:299
 msgid "Joysticks"
 msgstr ""
 
 #. Shown in a button used to configure the color the UI.
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:322
+#: ../client/application/game/ui/screens/screen_configure_ship.cpp:307
 msgid "UI colors"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:19
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
 msgstr "Bury treasure"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:80
 msgid "Nothing to upload!"
 msgstr "Non to bury!"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:98
 msgid "Failed to upload replays."
 msgstr "Hmm.. i smell witch in here.."
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:100
 msgid "Upload successful"
 msgstr "Treasure buried"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:120
 msgid "Uploading replay for %s."
 msgstr "Keeping your sailtime in %s."
 
@@ -322,19 +342,21 @@ msgstr "Numbers?!"
 msgid "Global leaderboards"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:106
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Configure keyboard"
 msgstr "Get this fancy ship thi ol' way!"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:124
 msgid "Move"
 msgstr "Spring"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:132
 msgid "Shoot"
 msgstr "Fire!"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
+#. Used in the settings. The %s is replaced with "on" or "off", for example:
+#. "Mouse aim off".
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:233
 msgid "Mouse aim %s"
 msgstr "Clicky thing aim %s"
 
@@ -385,84 +407,84 @@ msgstr "Ye're look like a landlubber"
 msgid "Error :("
 msgstr "Ship Damaged! }:("
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:155
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:157
 msgid "Are you sure you want to report this comment?"
 msgstr "Ahh Arr ye want this comment to get reported?"
 
 #. Shown in a notification after successfully reporting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:157
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Successfully reported comment"
 msgstr "Comment is reported"
 
 #. Shown in a notification if a comment could not be reported.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
 msgid "Error reporting comment"
 msgstr "Can't report?? Black Magic!!"
 
 #. The title of the screen where players delete comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:188
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:190
 msgid "Delete comment"
 msgstr "Drown the comment"
 
 #. Shown in a notification after successfully deleting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:190
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:192
 msgid "Successfully deleted comment"
 msgstr "Comment drowned. o7"
 
 #. Shown in a notification if a comment could not be deleting.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:192
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:194
 msgid "Error deleting comment"
 msgstr "Cannot drowned comment"
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:195
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:197
 msgid "Are you sure you want to delete this comment?"
 msgstr "Ye want this comment to be on the sea floor?"
 
 #. Used as a placeholder in the textfield where players write their comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:276
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:278
 msgid "<Add a comment here>"
 msgstr "<Lodge Telly here>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:291
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
 msgid "Comment"
 msgstr "Telly"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:297
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:299
 msgid "Comment must be at least 3 characters long."
 msgstr "Telly must have 3 letters"
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:313
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:315
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
 msgstr ""
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:337
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:339
 msgid "Posting comment"
 msgstr "Lodging Telly"
 
 #. Shown in a notification after a comment was succesfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:358
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:360
 msgid "Comment posted"
 msgstr "Lodged is telly"
 
 #. Shown in a notification after a comment was succesfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:362
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:364
 msgid "Failed to post comment"
 msgstr "Agghh telly stucked"
 
 #. The title of the screen where players report comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:154
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:156
 msgctxt "report_screen_title"
 msgid "Report comment"
 msgstr "tell thi telly"
 
 #. The title of the screen where players enter the comment they want to add.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:271
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
 msgstr "Tell them a telly"
@@ -472,7 +494,7 @@ msgstr "Tell them a telly"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:425
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:427
 msgctxt "menu_confirm_action"
 msgid "Yes"
 msgstr "Arr"
@@ -482,7 +504,7 @@ msgstr "Arr"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:438
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:440
 msgctxt "menu_cancel_action"
 msgid "No"
 msgstr "Argh"
@@ -521,7 +543,7 @@ msgstr ""
 msgid "UI Inset: %s"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:105
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:110
 msgid "Refresh"
 msgstr "Look again"
 
@@ -545,9 +567,13 @@ msgstr "Give us a favour here!"
 msgid "Contributors"
 msgstr "Scallywags"
 
-#: ../client/application/game/ui/screens/screen_benchmark.cpp:27
+#: ../client/application/game/ui/screens/screen_benchmark.cpp:29
 msgid "Skip"
 msgstr "Heave to!"
+
+#: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
+msgid "Encyclopedia"
+msgstr ""
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -555,51 +581,51 @@ msgstr "Heave to!"
 msgid "Joysticks style"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:44
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:46
 msgid "Single Player"
 msgstr "Sailor man"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:47
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:49
 msgid "Play"
 msgstr "Hands hoy!"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:75
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:77
 msgid "Multiplayer"
 msgstr "Wit' Sailors"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
 msgid "Joining room"
 msgstr "Plundering"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:298
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
 msgid "Creating room"
 msgstr "Making crew"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:337
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:338
 msgid "The room expired"
 msgstr "Ship's been abandon"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:351
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:352
 msgid "Unknown error"
 msgstr "Galley Do!"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:366
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:367
 msgid "Failed to join room"
 msgstr "Failed to plunder"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:380
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:381
 msgid "Incorrect password"
 msgstr "That's not the magic word"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:383
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:384
 msgid "You are already in the room!"
 msgstr "Ye're here, stop drinking!"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:386
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:387
 msgid "The room does not exist anymore"
 msgstr "Dutchman sunkin' ship"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:389
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:390
 msgid "Room is full"
 msgstr "Ye're late"
 
@@ -651,79 +677,83 @@ msgstr "Wind of the sea"
 msgid "Visualization"
 msgstr "Looking eye"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "1p"
 msgstr "Solo"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "2p"
 msgstr "Duel"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "3p"
 msgstr "3 way"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:27
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "4p"
 msgstr "Crew"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:31
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Africa"
 msgstr "Africa"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:32
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:34
 msgid "Asia"
 msgstr "Asia"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:35
 msgid "Europe"
 msgstr "Europe"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:34
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
 msgid "North America"
 msgstr "North America"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:35
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:37
 msgid "Oceania"
 msgstr "Oceania"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:38
 msgid "South America"
 msgstr "South America"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:116
 msgid "personal"
 msgstr "Deck"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:109
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:116
 msgid "region"
 msgstr "Sea"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:117
 msgid "continent"
 msgstr "Sum big land"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:110
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:117
 msgid "world"
 msgstr "7 Seas"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:196
 msgid "High Scores"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:198
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
 msgid "Speed Runs"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:44
+#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:473
+msgid "Unknown level"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:53
 msgid "Failed to read replay."
 msgstr "hm, what is this replay?."
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:71
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:82
 msgid "Failed to download replay."
 msgstr "Failed to rob thi replay."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:35
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
 msgid "Official"
 msgstr "Naval fleet"
 
@@ -731,65 +761,61 @@ msgstr "Naval fleet"
 msgid "Community"
 msgstr "Pirates"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "Experimental"
 msgstr "Testing by the monkey"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:76
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:59
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffOfficial#ffffffff Challenge send by the greatest, Pirate JF, ye can steal some gold."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:77
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:60
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "#ffff00ffCommunity#ffffffff Challenge by ye, Thi pirate"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:78
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:61
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "Learn to make one github.com/jyaif/ppl-utils"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:79
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:62
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
 msgstr "#ffff00ffExperimental#ffffffff Challenge is still in testing, just wait."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:83
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:66
 msgid "About the levels"
 msgstr "What is this ship?"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:133
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:113
 msgid "Experimental levels"
 msgstr "Ship tested by monkey"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:32
+#: ../client/application/game/ui/screens/screen_view_level.cpp:33
 msgid "World record: %s"
 msgstr "The Bravefull: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:36
+#: ../client/application/game/ui/screens/screen_view_level.cpp:37
 msgid "Local best: %s"
 msgstr "Man stand alone: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:50
+#: ../client/application/game/ui/screens/screen_view_level.cpp:49
 msgid "Loading..."
 msgstr "Hmmm..."
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:85
-msgid "Error reading manifest"
-msgstr "Something isn't right.."
-
-#: ../client/application/game/ui/screens/screen_view_level.cpp:90
+#: ../client/application/game/ui/screens/screen_view_level.cpp:59
 msgid "Failed to download manifest"
 msgstr "Something fishy is 'here"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:207
+#: ../client/application/game/ui/screens/screen_view_level.cpp:170
 msgid "average score: %s"
 msgstr "Most points pirates got: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:328
+#: ../client/application/game/ui/screens/screen_view_level.cpp:290
 msgid "Experimental level"
 msgstr "Monkey tester"
 
 #. The title of the screen that shows information. Any kind of
 #. information.
-#: ../client/application/game/ui/screens/screen_view_level.cpp:369
+#: ../client/application/game/ui/screens/screen_view_level.cpp:326
 msgid "Information"
 msgstr ""
 
@@ -809,21 +835,17 @@ msgstr "Steering board"
 msgid "Gamepad"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:40
-msgid "Directed by %s"
-msgstr ""
-
-#: ../client/application/game/ui/screens/screen_informations.cpp:67
-msgid "Development videos"
-msgstr ""
-
-#: ../client/application/game/ui/screens/screen_informations.cpp:109
+#: ../client/application/game/ui/screens/screen_informations.cpp:18
 msgid "Discord server"
 msgstr "The crew"
 
+#: ../client/application/game/ui/screens/screen_informations.cpp:24
+msgid "Development videos"
+msgstr ""
+
 #. Shown in a button. This buttons lets you see a list of people that
 #. contributed to the game.
-#: ../client/application/game/ui/screens/screen_informations.cpp:171
+#: ../client/application/game/ui/screens/screen_informations.cpp:135
 msgid "Credits"
 msgstr ""
 
@@ -869,27 +891,27 @@ msgstr "Heave ho!"
 msgid "Developer mode"
 msgstr "Davy jones apprentice"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:231
+#: ../client/application/game/ui/screens/screen_settings.cpp:232
 msgid "Vibration %s"
 msgstr "Waves %s"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:188
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:183
 msgid "Local lobby"
 msgstr "Local battle"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:191
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:186
 msgid "Online lobby"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:197
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:192
 msgid "Ready"
 msgstr "Shall we?"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:206
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:201
 msgid "Cancel"
 msgstr "Man's decision"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:349
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:344
 msgid "Waiting for other players..."
 msgstr "What should we do with the drunken sailor?"
 
@@ -1001,45 +1023,45 @@ msgstr ""
 msgid "Synchronization completed."
 msgstr ""
 
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:62
-msgid "All your medals are here."
-msgstr "Ye're bootys here!"
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
+msgid "Your verified medals have been downloaded."
+msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
 msgstr "Identity"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Not signed in"
 msgstr "Ye're not a pirate"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:26
 msgid "Create an account to set your name and sync your data"
 msgstr ""
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:31
 msgid "Register"
 msgstr "Go on account"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:54
 msgid "Privacy Policy"
 msgstr "The Navy rules"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to upload scores"
 msgstr "Ye're not a pirate? you cant buried yer treasure then"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:99
 msgid "You need to be signed-in to play online"
 msgstr "Only Pirate can go sailed to the 7 sea"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:104
 msgid "You need to be signed-in to view comments"
 msgstr ""
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:116
 msgid "Your account"
 msgstr "Ye're identity"
 
@@ -1111,31 +1133,37 @@ msgstr ""
 msgid "Emails do not match!"
 msgstr ""
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:40
+#. Shown in a header, in the screen that allows you to manage your PewPew Live account.
+#. In this screen you can for example change the colors of your nickname, or delete your account.
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:20
+msgid "Manage Account"
+msgstr ""
+
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:41
 msgid "Synchronize"
 msgstr ""
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:50
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:50
 msgid "Sign out"
 msgstr "Jolly be off"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:61
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:60
 msgid "Delete account"
 msgstr ""
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:76
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:72
 msgid "Account deletion"
 msgstr ""
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:83
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:79
 msgid "Account deletion requested."
 msgstr ""
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:85
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
 msgid "An email asking for confirmation was sent."
 msgstr ""
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:90
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:86
 msgid "Failed to request account deletion"
 msgstr ""
 
@@ -1143,20 +1171,20 @@ msgstr ""
 msgid "%sWaiting for other player%s"
 msgstr ""
 
-#: ../client/application/game/ui/views/game_hud.cpp:59
+#: ../client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
 msgstr "Scuttle: %s"
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
-#: ../client/application/game/ui/views/account_view.cpp:66
+#: ../client/application/game/ui/views/account_view.cpp:67
 msgctxt "account_view"
 msgid "Levels"
 msgstr ""
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
-#: ../client/application/game/ui/views/account_view.cpp:69
+#: ../client/application/game/ui/views/account_view.cpp:70
 msgctxt "account_view"
 msgid "Scores"
 msgstr ""
@@ -1164,7 +1192,7 @@ msgstr ""
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
 #. to their youtube channel, etc...
-#: ../client/application/game/ui/views/account_view.cpp:73
+#: ../client/application/game/ui/views/account_view.cpp:74
 msgctxt "account_view"
 msgid "General"
 msgstr ""
@@ -1172,38 +1200,46 @@ msgstr ""
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
 #. "Join date: 2021-08-25"
-#: ../client/application/game/ui/views/account_view.cpp:265
+#: ../client/application/game/ui/views/account_view.cpp:251
 msgctxt "account_view"
 msgid "Join date: %s"
 msgstr ""
 
-#: ../client/application/game/ui/views/community_level_selector.cpp:154
+#: ../client/application/game/ui/views/community_level_selector.cpp:156
 msgid "IN REVIEW"
 msgstr "Let see..."
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:139
+#: ../client/application/game/player_data/data_synchronizer.cpp:143
 msgid "You've been signed out."
 msgstr "Man in disguise"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:179
+#: ../client/application/game/player_data/data_synchronizer.cpp:183
 msgid "Failed to download backup data"
+msgstr ""
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:267
+msgid "Failed to download achievements"
+msgstr ""
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:308
+msgid "Failed to upload achievements"
 msgstr ""
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
-#: ../client/application/game/player_data/player_data_manager.cpp:37
+#: ../client/application/game/player_data/player_data_manager.cpp:43
 msgid "New personal best! %s ⇨ %s"
 msgstr ""
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
-#: ../client/application/game/player_data/player_data_manager.cpp:40
+#: ../client/application/game/player_data/player_data_manager.cpp:46
 msgid "Improved speed run! %s ⇨ %s"
 msgstr ""
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: ../client/application/game/player_data/player_data_manager.cpp:617
+#: ../client/application/game/player_data/player_data_manager.cpp:632
 msgid "Achievement Unlocked: %s"
 msgstr ""
 
@@ -1211,31 +1247,43 @@ msgstr ""
 msgid "%s left the game"
 msgstr "%s abandoning ship"
 
-#: ../client/application/game/state/game_state.cpp:482
+#: ../client/application/game/state/game_state.cpp:430
 msgid "N/A"
 msgstr "Non"
 
-#: ../client/application/game/state/game_state.cpp:494
+#. Shown when the game is displaying stats. Concerns the player's shooting accuracy.
+#. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
+#: ../client/application/game/state/game_state.cpp:443
 msgid "Accuracy: %s"
 msgstr "Ye're aim: %s"
 
-#: ../client/application/game/state/game_state.cpp:499
-msgid "Score: %s"
+#. Shown when the game is displaying stats. The %s is replaced with a number,
+#. for example "Total score: 43423"
+#: ../client/application/game/state/game_state.cpp:446
+msgid "Total score: %s"
 msgstr ""
 
-#: ../client/application/game/state/game_state.cpp:504
+#. Shown when the game is displaying stats. The %s is replaced with a number,
+#. for example "Pointonium: 34444"
+#: ../client/application/game/state/game_state.cpp:450
+msgid "Pointonium: %s"
+msgstr ""
+
+#. Shown when the game is displaying stats. The %s is replaced with a duration,
+#. for example: "Duration: 1m43s"
+#: ../client/application/game/state/game_state.cpp:454
 msgid "Duration: %s"
 msgstr ""
 
-#: ../client/application/game/levels/game_levels.cpp:83
+#: ../client/application/game/levels/game_levels.cpp:84
 msgid "Dodge everything and you'll be OK"
 msgstr "Hands off!"
 
-#: ../client/application/game/levels/game_levels.cpp:83
+#: ../client/application/game/levels/game_levels.cpp:84
 msgid "aka Dodge This"
 msgstr "Alias Dodge this"
 
-#: ../client/application/game/levels/game_levels.cpp:84
+#: ../client/application/game/levels/game_levels.cpp:85
 msgid "Green good. Red bad."
 msgstr "Believe green, no dont go to red ye..."
 
@@ -1251,31 +1299,31 @@ msgstr ""
 msgid "Choose your own difficulty"
 msgstr ""
 
-#: ../client/application/game/levels/game_levels.cpp:107
+#: ../client/application/game/levels/game_levels.cpp:106
 msgid "Euclidean space is overrated"
 msgstr "Davy Jones's locker"
 
-#: ../client/application/game/levels/game_levels.cpp:118
+#: ../client/application/game/levels/game_levels.cpp:116
 msgid "Just 32 seconds of skills"
 msgstr "Half time pure skills"
 
-#: ../client/application/game/levels/game_levels.cpp:118
+#: ../client/application/game/levels/game_levels.cpp:116
 msgid "My favorite mode"
 msgstr "ahg, me favorite!"
 
-#: ../client/application/game/levels/game_levels.cpp:119
+#: ../client/application/game/levels/game_levels.cpp:117
 msgid "Survive 32 seconds with this simple trick"
 msgstr "Stay alive for a half minute, that's it"
 
-#: ../client/application/game/levels/game_levels.cpp:120
+#: ../client/application/game/levels/game_levels.cpp:118
 msgid "\"This level is a joke right?\" - a tester"
 msgstr ""
 
-#: ../client/application/game/levels/game_levels.cpp:131
+#: ../client/application/game/levels/game_levels.cpp:128
 msgid "RIP GW3:Dimensions"
 msgstr ""
 
-#: ../client/application/game/levels/game_levels.cpp:131
+#: ../client/application/game/levels/game_levels.cpp:128
 msgid "Previously known as Assault"
 msgstr "Formerly call as assault"
 

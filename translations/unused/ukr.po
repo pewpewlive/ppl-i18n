@@ -4,6 +4,9 @@
 msgid "2 extra characters:"
 msgstr "2 додаткових героїв"
 
+msgid "All your medals are here."
+msgstr "Усі твої медалі тут. Любуйся."
+
 msgid "Career"
 msgstr "Кар'єра"
 
@@ -18,6 +21,12 @@ msgstr "Кастомні рівні?!"
 
 msgid "Dark High"
 msgstr "Темне Високе"
+
+msgid "Directed by %s"
+msgstr "Направлено за %s"
+
+msgid "Error reading manifest"
+msgstr "Помилка читання маніфесту"
 
 msgid "Failed to parse server response"
 msgstr "Не вдалося проаналізувати відповідь сервера"
@@ -63,6 +72,9 @@ msgstr "Онлайн профіль"
 
 msgid "Renderer: %s"
 msgstr "Візуалізатор: %s"
+
+msgid "Score: %s"
+msgstr "Рекорд: %s"
 
 msgid "Select level"
 msgstr "Вибір рівню"

@@ -1,11 +1,20 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "All your medals are here."
+msgstr "Toate medaliile tale sunt aici."
+
 msgid "Career"
 msgstr "Carieră"
 
 msgid "Dark High"
 msgstr "Mare Întunecat"
+
+msgid "Directed by %s"
+msgstr "Creat de %s"
+
+msgid "Error reading manifest"
+msgstr "Eroare citind manifest-ul"
 
 msgid "Failed to parse server response"
 msgstr "Nu s-a putut folosi răspunsul serverului"
@@ -42,6 +51,9 @@ msgstr "Profilul online"
 
 msgid "Renderer: %s"
 msgstr "Renderer: %s"
+
+msgid "Score: %s"
+msgstr "Scor: %s"
 
 msgid "The background is expensive to compute"
 msgstr "Fundalul este scump de arătat"

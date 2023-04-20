@@ -1,3 +1,15 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "All your medals are here."
+msgstr "ყველა თქვენი მედალი აქ არის."
+
+msgid "Directed by %s"
+msgstr "Რეჟისორია %s"
+
+msgid "Error reading manifest"
+msgstr "შეცდომა მანიფესტის წაკითხვისას"
+
+msgid "Score: %s"
+msgstr "ქულა: %s"
+

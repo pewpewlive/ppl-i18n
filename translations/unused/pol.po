@@ -4,6 +4,9 @@
 msgid "2 extra characters:"
 msgstr "2 dodatkowe litery:"
 
+msgid "All your medals are here."
+msgstr "Tu znajdziesz wszystkie swoje medale."
+
 msgid "Career"
 msgstr "Kariera"
 
@@ -21,6 +24,12 @@ msgstr "Własne poziomy?!"
 
 msgid "Dark High"
 msgstr "Ciemny Wysoki"
+
+msgid "Directed by %s"
+msgstr "Zarządzane przez %s"
+
+msgid "Error reading manifest"
+msgstr "Błąd wczytywania manifestu"
 
 msgid "Failed to parse server response"
 msgstr "Nie udało się przeanalizować odpowiedzi serwera"
@@ -69,6 +78,9 @@ msgstr "Profil online"
 
 msgid "Renderer: %s"
 msgstr "Renderowanie: %s"
+
+msgid "Score: %s"
+msgstr "Wynik: %s"
 
 msgid "Select level"
 msgstr "Wybierz poziom"

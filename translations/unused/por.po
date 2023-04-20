@@ -4,6 +4,9 @@
 msgid "2 extra characters:"
 msgstr "2 caracteres extras:"
 
+msgid "All your medals are here."
+msgstr "Todas as suas medalhas estão aqui."
+
 msgid "Connect to..."
 msgstr "Conectar a..."
 
@@ -15,6 +18,12 @@ msgstr "Níveis customizados"
 
 msgid "Custom levels?!"
 msgstr "Níveis customizados?!"
+
+msgid "Directed by %s"
+msgstr "Dirigido por %s"
+
+msgid "Error reading manifest"
+msgstr "Erro ao ler o manifesto"
 
 msgid "Failed to parse server response"
 msgstr "Falha ao analisar a resposta do servidor"

@@ -4,6 +4,9 @@
 msgid "2 extra characters:"
 msgstr "2 dagdag na character:"
 
+msgid "All your medals are here."
+msgstr "Nandito na ang lahat ng iyong medalya."
+
 msgid "Career"
 msgstr "Mga Nakamit"
 
@@ -18,6 +21,12 @@ msgstr "Pwede gumawa ng level?"
 
 msgid "Dark High"
 msgstr "Maaliwalas"
+
+msgid "Directed by %s"
+msgstr "Sa pangunguna ni %s"
+
+msgid "Error reading manifest"
+msgstr "Hindi mabasa ang manifest"
 
 msgid "Failed to parse server response"
 msgstr "Hindi makuha ang tugon ng server"
@@ -60,6 +69,9 @@ msgstr "Iyong profile"
 
 msgid "Renderer: %s"
 msgstr "Itsura: %s"
+
+msgid "Score: %s"
+msgstr "Score: %s"
 
 msgid "Select level"
 msgstr "Pumili ng level"

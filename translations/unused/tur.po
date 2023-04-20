@@ -4,6 +4,9 @@
 msgid "2 extra characters:"
 msgstr "2 karakter daha:"
 
+msgid "All your medals are here."
+msgstr "Tüm madelyaların burada."
+
 msgid "Career"
 msgstr "Kariyer"
 
@@ -21,6 +24,12 @@ msgstr "Özel haritalar mı?!"
 
 msgid "Dark High"
 msgstr "Karanlık Yüksek"
+
+msgid "Directed by %s"
+msgstr "%s tarafından üretilmiştir"
+
+msgid "Error reading manifest"
+msgstr "Manifest okuma hatası"
 
 msgid "Failed to parse server response"
 msgstr "Sunucu bağlantısında hata oluşmuş"
@@ -69,6 +78,9 @@ msgstr "Online profil"
 
 msgid "Renderer: %s"
 msgstr "Gözletim şekli: %s"
+
+msgid "Score: %s"
+msgstr "Skor: %s"
 
 msgid "Select level"
 msgstr "Harita seç"
