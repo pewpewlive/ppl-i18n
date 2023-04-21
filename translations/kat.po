@@ -881,7 +881,7 @@ msgstr "UI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Start tutorial"
-msgs   "ტუტორიალის დაწყება"
+msgstr "ტუტორიალის დაწყება"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:167
 msgid "Launch intro"
@@ -1261,13 +1261,13 @@ msgstr "სიზუსტე: %s"
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:446
 msgid "Total score: %s"
-msgstr "ჯამში ქულები" %s"
+msgstr "ჯამში ქულები: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:450
 msgid "Pointonium: %s"
-msgstr "pointonium" %s"
+msgstr "pointonium: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a duration,
 #. for example: "Duration: 1m43s"
