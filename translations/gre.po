@@ -1261,13 +1261,13 @@ msgstr "Ακρίβεια: %s"
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:446
 msgid "Total score: %s"
-msgstr ""
+msgstr "Τελικό σκορ: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:450
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Ποντοκρύσταλλοι: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a duration,
 #. for example: "Duration: 1m43s"
