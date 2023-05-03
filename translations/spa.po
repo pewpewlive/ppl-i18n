@@ -1203,7 +1203,7 @@ msgstr "General"
 #: ../client/application/game/ui/views/account_view.cpp:251
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr "Cuenta creada desde: %s"
+msgstr "Creada desde: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:156
 msgid "IN REVIEW"
@@ -1267,7 +1267,7 @@ msgstr "Puntuación total: %s"
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:450
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Puntuonium: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a duration,
 #. for example: "Duration: 1m43s"
