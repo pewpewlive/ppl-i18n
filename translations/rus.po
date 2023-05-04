@@ -103,12 +103,12 @@ msgstr "Игра окончена"
 #. April 1st replacement for "Game Over". Does not need an exact translation.
 #: ../client/application/game/ui/game_over_ui.cpp:61
 msgid "You died. Again."
-msgstr "Помер. Снова."
+msgstr "ПОМЕР"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:63
 msgid "Insert coin to continue"
-msgstr "Вставьте монету чтобы продолжить"
+msgstr "Со смертью этого персонажа нить вашей судьбы обрывается."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:65
@@ -381,7 +381,7 @@ msgstr "Ошибка симметричного NAT."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr "Это значит, что ваше интернет соединение ограниченно и не позволяет играть в мультиплеер по системе p2p."
+msgstr "Это значит, что ваше интернет соединение ограниченно и не позволяет играть в мультиплеер по системе P2P."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
@@ -429,7 +429,7 @@ msgstr "Удалить комментарий"
 #. Shown in a notification after successfully deleting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:192
 msgid "Successfully deleted comment"
-msgstr "Комментарий успешно удалён"
+msgstr "Комментарий успешно удалён."
 
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:194
@@ -470,7 +470,7 @@ msgstr "Отправка комментария"
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:360
 msgid "Comment posted"
-msgstr "Комментарий отправлен"
+msgstr "Комментарий отправлен."
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:364
@@ -775,7 +775,7 @@ msgstr "#ffff00ffУровни сообщества#ffffffff создаются �
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:61
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr "Подробнее на #0080ffffgithub.com/jyaif/ppl-utils#ffffffff"
+msgstr "Подробнее на #0080ffffgithub.com/jyaif/ppl-utils#ffffffff."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:62
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
@@ -957,7 +957,7 @@ msgstr "Письмо-подтверждение отправлено."
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr "Проверьте почту."
+msgstr "Проверьте почту!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
@@ -993,7 +993,7 @@ msgstr "Вход"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
-msgstr "Вход успешен."
+msgstr "Вход успешен!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
 msgid "Email not verified"
@@ -1017,7 +1017,7 @@ msgstr "Синхронизация"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:55
 msgid "Failed to synchronize."
-msgstr "Не удалось синхронизировать."
+msgstr "Ошибка синхронизации."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:61
 msgid "Synchronization completed."
@@ -1033,7 +1033,7 @@ msgstr "Аккаунт"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Not signed in"
-msgstr "Вход не совершён"
+msgstr "Вход не совершён."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:26
 msgid "Create an account to set your name and sync your data"
@@ -1049,17 +1049,17 @@ msgstr "Политика конфиденциальности"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to upload scores"
-msgstr "Необходимо войти в аккаунт, чтобы отправлять результаты"
+msgstr "Необходимо войти в аккаунт, чтобы отправлять результаты."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:99
 msgid "You need to be signed-in to play online"
-msgstr "Необходимо войти в аккаунт, чтобы играть онлайн"
+msgstr "Необходимо войти в аккаунт, чтобы играть онлайн."
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:104
 msgid "You need to be signed-in to view comments"
-msgstr "Необходимо войти в аккаунт, чтобы просматривать комментарии"
+msgstr "Необходимо войти в аккаунт, чтобы просматривать комментарии."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:116
 msgid "Your account"
