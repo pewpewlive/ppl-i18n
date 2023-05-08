@@ -13,52 +13,52 @@ msgstr "好的"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "红色"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Cyan"
-msgstr ""
+msgstr "青色"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
 msgid "Lime"
-msgstr ""
+msgstr "石灰色"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:60
 msgid "Lime Green"
-msgstr ""
+msgstr "淡绿色"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "紫色"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "粉色"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "橙色"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "白色"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "灰色"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "深蓝色"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -103,22 +103,22 @@ msgstr "游戏结束"
 #. April 1st replacement for "Game Over". Does not need an exact translation.
 #: ../client/application/game/ui/game_over_ui.cpp:61
 msgid "You died. Again."
-msgstr ""
+msgstr "你嗝屁了，再逝下？"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:63
 msgid "Insert coin to continue"
-msgstr ""
+msgstr "给爷投币，爷让你继续.jpg"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:65
 msgid "You tried"
-msgstr ""
+msgstr "你蔡死了"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:67
 msgid "It's okay, you were never going to win anyway."
-msgstr ""
+msgstr "太弱小了，没有力量！"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -312,7 +312,7 @@ msgstr "摇杆"
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:307
 msgid "UI colors"
-msgstr ""
+msgstr "UI颜色"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
@@ -381,11 +381,11 @@ msgstr "对称型网络出错"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr ""
+msgstr "意思就是你的网络有限制，不允许多人游戏"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr ""
+msgstr "如果你用的是流量，试下关了重开；如果你用的是Wi-Fi，连别的Wi-Fi试试。"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
@@ -397,7 +397,7 @@ msgstr "验证中..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:157
 msgid "Need the latest version of the game."
-msgstr "需要游戏最新版本"
+msgstr "游戏需要更新"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
 msgid "Failed to authenticate"
@@ -529,7 +529,7 @@ msgstr "快速暂停"
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr ""
+msgstr "Steam状态"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -541,7 +541,7 @@ msgstr "UI尺寸: %s"
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "UI边距: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:110
 msgid "Refresh"
@@ -573,7 +573,7 @@ msgstr "跳过"
 
 #: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
-msgstr ""
+msgstr "百科"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -743,7 +743,7 @@ msgstr "竞速"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:473
 msgid "Unknown level"
-msgstr ""
+msgstr "未知关卡"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:53
 msgid "Failed to read replay."
@@ -817,7 +817,7 @@ msgstr "测试关卡"
 #. information.
 #: ../client/application/game/ui/screens/screen_view_level.cpp:326
 msgid "Information"
-msgstr ""
+msgstr "信息"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
@@ -847,7 +847,7 @@ msgstr "开发者视频"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:135
 msgid "Credits"
-msgstr ""
+msgstr "贡献者名单"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
@@ -856,12 +856,12 @@ msgstr "设置"
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_settings.cpp:42
 msgid "Windowed"
-msgstr ""
+msgstr "窗口化"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Fullscreen"
-msgstr ""
+msgstr "全屏"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"
@@ -1025,7 +1025,7 @@ msgstr "同步成功"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
 msgid "Your verified medals have been downloaded."
-msgstr ""
+msgstr "获取过的奖牌已下载"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
@@ -1137,7 +1137,7 @@ msgstr "邮箱不匹配"
 #. In this screen you can for example change the colors of your nickname, or delete your account.
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:20
 msgid "Manage Account"
-msgstr ""
+msgstr "管理账号"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:41
 msgid "Synchronize"
@@ -1219,11 +1219,11 @@ msgstr "下载备份数据失败"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:267
 msgid "Failed to download achievements"
-msgstr ""
+msgstr "下载成就失败"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:308
 msgid "Failed to upload achievements"
-msgstr ""
+msgstr "上传成就失败"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -1261,7 +1261,7 @@ msgstr "命中率：%s"
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:446
 msgid "Total score: %s"
-msgstr ""
+msgstr "总分：%s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
