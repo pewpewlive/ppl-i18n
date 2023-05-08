@@ -103,22 +103,22 @@ msgstr "Game Over"
 #. April 1st replacement for "Game Over". Does not need an exact translation.
 #: ../client/application/game/ui/game_over_ui.cpp:61
 msgid "You died. Again."
-msgstr ""
+msgstr "Tu as perdu. Encore."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:63
 msgid "Insert coin to continue"
-msgstr ""
+msgstr "Insérez une pièce pour continuer"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:65
 msgid "You tried"
-msgstr ""
+msgstr "Bien essayé"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:67
 msgid "It's okay, you were never going to win anyway."
-msgstr ""
+msgstr "Tu n'allais jamais gagner de toute façon."
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -573,7 +573,7 @@ msgstr "Passer"
 
 #: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Encyclopédie"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -743,7 +743,7 @@ msgstr "Speed Runs"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:473
 msgid "Unknown level"
-msgstr ""
+msgstr "Niveau inconnu"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:53
 msgid "Failed to read replay."
@@ -1025,7 +1025,7 @@ msgstr "Synchronisation terminée."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
 msgid "Your verified medals have been downloaded."
-msgstr ""
+msgstr "Les médailles vérifiées ont été téléchargées."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
@@ -1137,7 +1137,7 @@ msgstr "Les emails ne correspondent pas !"
 #. In this screen you can for example change the colors of your nickname, or delete your account.
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:20
 msgid "Manage Account"
-msgstr ""
+msgstr "Gérer son compte"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:41
 msgid "Synchronize"
@@ -1219,11 +1219,11 @@ msgstr "Echec du téléchargement de la sauvegarde"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:267
 msgid "Failed to download achievements"
-msgstr ""
+msgstr "Échec du téléchargement des succès"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:308
 msgid "Failed to upload achievements"
-msgstr ""
+msgstr "Échec de l'upload des succès"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -1261,13 +1261,13 @@ msgstr "Précision : %s"
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:446
 msgid "Total score: %s"
-msgstr ""
+msgstr "Score total: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:450
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Pointonium: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a duration,
 #. for example: "Duration: 1m43s"
