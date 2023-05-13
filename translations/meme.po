@@ -13,52 +13,52 @@ msgstr "good"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "Dark Pink"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Cyan"
-msgstr ""
+msgstr "Lighter Blue"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
 msgid "Lime"
-msgstr ""
+msgstr "Light Green"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:60
 msgid "Lime Green"
-msgstr ""
+msgstr "Slightly lighter Green"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "Red mixed with Blue"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "Light Red"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "Red mixed with Yellow"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "Anti-Black"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "White-Black"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "Anti-Cyan"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -206,19 +206,19 @@ msgstr "Fix mistakes"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "set up flight stick"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "Not alive area"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
-msgstr ""
+msgstr "Hue"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "Straight"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
@@ -307,12 +307,12 @@ msgstr "Powpows"
 #. Shown in a button used to configurethe style of joysticks
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:299
 msgid "Joysticks"
-msgstr ""
+msgstr "Flight sticks"
 
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:307
 msgid "UI colors"
-msgstr ""
+msgstr "button tinge"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
@@ -373,19 +373,19 @@ msgstr "Ah sorry mate, can't play multiplayer in Shmmetry NAT.. idk"
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
 msgid "Learn more"
-msgstr ""
+msgstr "ELI5 here"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "How dare you have an asymmetric NAT (whatever it means), amigo?"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr ""
+msgstr "You should ask your parents/supervisors/isp/whatever to mess with this network to try and allow p2p multiplayer."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr ""
+msgstr "If you're on a mobile network, rip and tear your sim card out and try to find a Wi-fi that we deem good enough for p2p."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
@@ -511,11 +511,11 @@ msgstr "Nah, im good"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
-msgstr ""
+msgstr "tweaks of interface"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:131
 msgid "Show in-game score"
-msgstr ""
+msgstr "Do not not show score"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
@@ -529,19 +529,19 @@ msgstr "pee break"
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr ""
+msgstr "Show your home address in Steam (/s)"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:240
 msgid "UI Scale: %s"
-msgstr ""
+msgstr "Thiccness: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "Claustrophobia: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:110
 msgid "Refresh"
@@ -573,7 +573,7 @@ msgstr "Pass"
 
 #: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Pro gamer librarby"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -743,7 +743,7 @@ msgstr "Runs (Haste II)"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:473
 msgid "Unknown level"
-msgstr ""
+msgstr "missingno level"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:53
 msgid "Failed to read replay."
@@ -817,7 +817,7 @@ msgstr "not done level"
 #. information.
 #: ../client/application/game/ui/screens/screen_view_level.cpp:326
 msgid "Information"
-msgstr ""
+msgstr "kool info"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
@@ -833,7 +833,7 @@ msgstr "Clickclick buttons"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "A2600 analog stick"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:18
 msgid "Discord server"
@@ -856,12 +856,12 @@ msgstr "Person prefs"
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_settings.cpp:42
 msgid "Windowed"
-msgstr ""
+msgstr "Constant reality presence"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Fullscreen"
-msgstr ""
+msgstr "Absolute immersion"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"
@@ -877,7 +877,7 @@ msgstr "Lingo"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:129
 msgid "UI"
-msgstr ""
+msgstr "Not quite CLI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Start tutorial"
@@ -1025,7 +1025,7 @@ msgstr "Synchronize: yea"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
 msgid "Your verified medals have been downloaded."
-msgstr ""
+msgstr "Your medals were greatly successfully yoinked!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
@@ -1137,7 +1137,7 @@ msgstr "Emails swiped left"
 #. In this screen you can for example change the colors of your nickname, or delete your account.
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:20
 msgid "Manage Account"
-msgstr ""
+msgstr "Account mess-with area"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:41
 msgid "Synchronize"
@@ -1219,11 +1219,11 @@ msgstr "Wait, you don't have backup data!"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:267
 msgid "Failed to download achievements"
-msgstr ""
+msgstr "Aw, fiddlesticks, achievement download failed."
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:308
 msgid "Failed to upload achievements"
-msgstr ""
+msgstr "Woah, slow down, I couldn't upload your achievements."
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -1235,13 +1235,13 @@ msgstr "New PB eh? %s ⇨ %s"
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:46
 msgid "Improved speed run! %s ⇨ %s"
-msgstr ""
+msgstr "L33t time save! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:632
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "Advancement Made: %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -1261,19 +1261,19 @@ msgstr "Gamer Percent : %s"
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:446
 msgid "Total score: %s"
-msgstr ""
+msgstr "Final result: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:450
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "gamer juice: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a duration,
 #. for example: "Duration: 1m43s"
 #: ../client/application/game/state/game_state.cpp:454
 msgid "Duration: %s"
-msgstr ""
+msgstr "Lifetime wasted: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Dodge everything and you'll be OK"
