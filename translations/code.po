@@ -222,11 +222,11 @@ msgstr "Gamepad.Curve"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
-msgstr "case GameMulti.Type:"
+msgstr "switch (GameMulti.Type)"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:22
 msgid "Online multiplayer"
-msgstr "GameMulti.Online"
+msgstr "case Online:"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
 msgid "Play with people around the world!"
@@ -234,7 +234,7 @@ msgstr "PlayWith(GameMulti.Online.People);"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
 msgid "LAN multiplayer"
-msgstr "GameMulti.LAN"
+msgstr "case LAN:"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
 msgid "Play with people on the same network!"
@@ -278,7 +278,7 @@ msgstr "GameMulti.Searching = true"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:170
 msgid "(Incompatible version)"
-msgstr "(lan_game1.version != lan_game2.version)"
+msgstr "(game1.version != game2.version)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:190
 msgid "Create room"
