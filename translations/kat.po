@@ -1,10 +1,10 @@
 #: ../client/application/ui/ui_helpers.cpp:67
 msgid "on"
-msgstr "ჩართვა"
+msgstr "ჩართ."
 
 #: ../client/application/ui/ui_helpers.cpp:68
 msgid "off"
-msgstr "გამორთვა"
+msgstr "გამორთ."
 
 #: ../client/application/ui/keyboard_view.cpp:107
 msgid "ok"
@@ -170,7 +170,7 @@ msgstr "IP:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
 msgid "Port:"
-msgstr "Port:"
+msgstr "პორტი:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
@@ -206,7 +206,7 @@ msgstr "გადატვირთვა"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr "Gamepad-ის კონფიგურაცია"
+msgstr "გეიმპადი-ის კონფიგურაცია"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
@@ -631,7 +631,7 @@ msgstr "ოთახი სავსეა"
 
 #: ../client/application/game/ui/screens/screen_tutorial.cpp:31
 msgid "Tutorial"
-msgstr "სახელმძღვანელო"
+msgstr "ტუტორიალი"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:39
 msgid "Room configuration"
@@ -783,7 +783,7 @@ msgstr "#ffff00ffExperimental#ffffffff ლეველები არის ლ
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:66
 msgid "About the levels"
-msgstr "ლეველები შესახებ"
+msgstr "ლეველების შესახებ"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:113
 msgid "Experimental levels"
@@ -799,7 +799,7 @@ msgstr "ადგილობრივი საუკეთესო: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:49
 msgid "Loading..."
-msgstr "Ჩატვირთვა..."
+msgstr "დაელოდეთ..."
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:59
 msgid "Failed to download manifest"
@@ -825,7 +825,7 @@ msgstr "კონტროლის პარამეტრები"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
-msgstr "ეკრანი"
+msgstr "შეხების ეკრანი"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:38
 msgid "Keyboard"
@@ -833,11 +833,11 @@ msgstr "კლავიატურა"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr "gamepad"
+msgstr "გეიმპადი"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:18
 msgid "Discord server"
-msgstr "Discord server"
+msgstr "Discord სერვერი"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:24
 msgid "Development videos"
@@ -847,7 +847,7 @@ msgstr "განვითარების ვიდეოები"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:135
 msgid "Credits"
-msgstr "Credits"
+msgstr "გამკეთებლები"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
@@ -881,11 +881,11 @@ msgstr "UI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Start tutorial"
-msgstr "tutorial დაწყება"
+msgstr "ტუტორიალის დაწყება"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:167
 msgid "Launch intro"
-msgstr "გაშვება intro"
+msgstr "გაშვება ინტრო"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:178
 msgid "Developer mode"
@@ -897,11 +897,11 @@ msgstr "ვიბრაცია %s"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:183
 msgid "Local lobby"
-msgstr "ადგილობრივი ლობი"
+msgstr "ადგილობრივი ოთახი"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:186
 msgid "Online lobby"
-msgstr "ონლაინ lobby"
+msgstr "ონლაინ ოთახი"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:192
 msgid "Ready"
@@ -921,11 +921,11 @@ msgstr "ფერების შეცვლა"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
 msgid "Old username:"
-msgstr "ძველი მომხმარებლის სახელი:"
+msgstr "ძველი სახელი:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
 msgid "New username:"
-msgstr "ახალი მომხმარებლის სახელი:"
+msgstr "ახალი სახელი:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
 msgid "Change"
@@ -1127,7 +1127,7 @@ msgstr "Დაადასტურეთ ელ - ფოსტა:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
 msgid "Passwords do not match!"
-msgstr "პაროლები არ ემთხვევა!"
+msgstr "პაროლი არ ემთხვევა!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
 msgid "Emails do not match!"
@@ -1267,7 +1267,7 @@ msgstr "ჯამში ქულები"
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:450
 msgid "Pointonium: %s"
-msgstr "pointonium"
+msgstr "პოიტონიუმი"
 
 #. Shown when the game is displaying stats. The %s is replaced with a duration,
 #. for example: "Duration: 1m43s"
