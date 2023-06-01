@@ -113,7 +113,7 @@ msgstr "ჩააგდე ფული გაგრძელებად"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:65
 msgid "You tried"
-msgstr "შენ ცადე"
+msgstr "შენ ცადეთ"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:67
