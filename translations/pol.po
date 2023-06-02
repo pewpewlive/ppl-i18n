@@ -13,52 +13,52 @@ msgstr "okej"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "Czerwony"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Cyan"
-msgstr ""
+msgstr "Blady niebieski"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
 msgid "Lime"
-msgstr ""
+msgstr "Limonkowy"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:60
 msgid "Lime Green"
-msgstr ""
+msgstr "Limonkowa Zieleń"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "Fioletowy"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "Różowy"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "Pomaranczowy"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "Biały"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "Szary"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "Granatowy"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -103,22 +103,22 @@ msgstr "Koniec gry"
 #. April 1st replacement for "Game Over". Does not need an exact translation.
 #: ../client/application/game/ui/game_over_ui.cpp:61
 msgid "You died. Again."
-msgstr ""
+msgstr "Zmarłeś. Ponownie."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:63
 msgid "Insert coin to continue"
-msgstr ""
+msgstr "Wrzuć monetę, aby kontynuować"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:65
 msgid "You tried"
-msgstr ""
+msgstr "Próbowałeś"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:67
 msgid "It's okay, you were never going to win anyway."
-msgstr ""
+msgstr "W porządku, i tak nigdy nie zamierzałeś wygrać."
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -312,7 +312,7 @@ msgstr "Joysticki"
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:307
 msgid "UI colors"
-msgstr ""
+msgstr "Kolory interfejsu"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
@@ -381,11 +381,11 @@ msgstr "Symetryczny błąd NAT"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr ""
+msgstr "Oznacza to, że twoje połączenie internetowe jest zbyt ograniczone i nie pozwala na grę wieloosobową p2p."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr ""
+msgstr "Jeśli korzystasz z mobilnego połączenia internetowego, spróbuj je wyłączyć. Jeśli korzystasz z Wi-Fi, spróbuj użyć innej sieci Wi-Fi."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
@@ -507,7 +507,7 @@ msgstr "Tak"
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:440
 msgctxt "menu_cancel_action"
 msgid "No"
-msgstr "No"
+msgstr "Nie"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
@@ -541,7 +541,7 @@ msgstr "Skala UI: %s"
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "Rozstaw interfejsu: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:110
 msgid "Refresh"
@@ -573,7 +573,7 @@ msgstr "Pomiń"
 
 #: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Encyklopedia"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -743,7 +743,7 @@ msgstr "Speedruny"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:473
 msgid "Unknown level"
-msgstr ""
+msgstr "Nieznany poziom"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:53
 msgid "Failed to read replay."
@@ -817,11 +817,11 @@ msgstr "Poziom eksperymentalny"
 #. information.
 #: ../client/application/game/ui/screens/screen_view_level.cpp:326
 msgid "Information"
-msgstr ""
+msgstr "Informacja"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
-msgstr "Ustawienia Sterowania "
+msgstr "Ustawienia Sterowania"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
@@ -847,7 +847,7 @@ msgstr "Filmy rozwoju gry"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:135
 msgid "Credits"
-msgstr ""
+msgstr "Napisy końcowe"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
@@ -856,12 +856,12 @@ msgstr "Ustawienia"
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_settings.cpp:42
 msgid "Windowed"
-msgstr ""
+msgstr "Okno"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Fullscreen"
-msgstr ""
+msgstr "Pełny ekran"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"
@@ -1025,7 +1025,7 @@ msgstr "Synchronizacja ukończona."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
 msgid "Your verified medals have been downloaded."
-msgstr ""
+msgstr "Twoje zweryfikowane medale zostały pobrane."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
@@ -1137,7 +1137,7 @@ msgstr "E-maile się nie zgadzają!"
 #. In this screen you can for example change the colors of your nickname, or delete your account.
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:20
 msgid "Manage Account"
-msgstr ""
+msgstr "Zarządzać kontem"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:41
 msgid "Synchronize"
@@ -1219,11 +1219,11 @@ msgstr "Nie udało się pobrać danych kopii zapasowej"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:267
 msgid "Failed to download achievements"
-msgstr ""
+msgstr "Nie udało się pobrać osiągnięć"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:308
 msgid "Failed to upload achievements"
-msgstr ""
+msgstr "Nie udało się dosłać osiągnięć"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -1261,7 +1261,7 @@ msgstr "Celność: %s"
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:446
 msgid "Total score: %s"
-msgstr ""
+msgstr "Ilość punktów: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
