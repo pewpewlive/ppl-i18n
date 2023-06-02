@@ -138,11 +138,11 @@ msgstr "Poziomy społeczności"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr "Liczba zagrań %s"
+msgstr "Liczba zagrań: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr "Czas grania %s"
+msgstr "Czas grania: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
@@ -529,7 +529,7 @@ msgstr "Szybka Pauza"
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr ""
+msgstr "Status Steam"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -565,7 +565,7 @@ msgstr "Pomoc"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:53
 msgid "Contributors"
-msgstr "współautorzy"
+msgstr "Współautorzy"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:29
 msgid "Skip"
@@ -619,7 +619,7 @@ msgstr "Nieprawidłowe hasło"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:384
 msgid "You are already in the room!"
-msgstr "Już jesteś w pokoju"
+msgstr "Już jesteś w pokoju!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:387
 msgid "The room does not exist anymore"
@@ -651,7 +651,7 @@ msgstr "Dowolny poziom"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:180
 msgid "Room name: %s"
-msgstr "Nazwa pokoju %s"
+msgstr "Nazwa pokoju: %s"
 
 #: ../client/application/game/ui/screens/screen_informations_music.cpp:23
 msgid "Music"
@@ -921,7 +921,7 @@ msgstr "Zmień kolory"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
 msgid "Old username:"
-msgstr "Stara nazwa użytkownika"
+msgstr "Stara nazwa użytkownika:"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
 msgid "New username:"
@@ -993,7 +993,7 @@ msgstr "Logowanie..."
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
-msgstr "Logowanie powiodło się"
+msgstr "Logowanie powiodło się!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
 msgid "Email not verified"
