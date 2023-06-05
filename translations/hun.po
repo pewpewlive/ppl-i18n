@@ -481,13 +481,13 @@ msgstr "Hiba a megjegyzés közlésekor"
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:156
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr ""
+msgstr "Megjegyzés jelentése"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:271
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr ""
+msgstr "Hozzászólás írása"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -497,7 +497,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:427
 msgctxt "menu_confirm_action"
 msgid "Yes"
-msgstr ""
+msgstr "Igen"
 
 #. Displayed in a button. The button is used in menus asking whether to
 #. confirm an action.
@@ -507,19 +507,19 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:440
 msgctxt "menu_cancel_action"
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
-msgstr ""
+msgstr "UI Beállítások"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:131
 msgid "Show in-game score"
-msgstr ""
+msgstr "Játék közbeni pontszámok megjelenítése"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
-msgstr ""
+msgstr "Gyors szünet"
 
 #. Shown in the settings UI, next to an "on/off" switch, when the game is
 #. launched from Steam.
@@ -529,23 +529,23 @@ msgstr ""
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr ""
+msgstr "Steam státusz"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:240
 msgid "UI Scale: %s"
-msgstr ""
+msgstr "UI skála %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "UI betét"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:110
 msgid "Refresh"
-msgstr ""
+msgstr "frissítés"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
@@ -553,33 +553,33 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:20
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "A fordításokat a közösség biztosítja!"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
-msgstr ""
+msgstr "Alapértelmezett nyelv"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
-msgstr ""
+msgstr "Segítség"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:53
 msgid "Contributors"
-msgstr ""
+msgstr "Közreműködők"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:29
 msgid "Skip"
-msgstr ""
+msgstr "Ugrás"
 
 #: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Enciklopédia"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "Joystickok stilusa"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:46
 msgid "Single Player"
@@ -587,107 +587,107 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:49
 msgid "Play"
-msgstr ""
+msgstr "Játssz"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:77
 msgid "Multiplayer"
-msgstr ""
+msgstr "Többjátékos mód"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
 msgid "Joining room"
-msgstr ""
+msgstr "Csatlakozó szoba"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:299
 msgid "Creating room"
-msgstr ""
+msgstr "Szoba készítése"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:338
 msgid "The room expired"
-msgstr ""
+msgstr "A szoba lejárt"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:352
 msgid "Unknown error"
-msgstr ""
+msgstr "Ismeretlen hiba"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:367
 msgid "Failed to join room"
-msgstr ""
+msgstr "Nem sikerült csatlakozni a szobához"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:381
 msgid "Incorrect password"
-msgstr ""
+msgstr "Helytelen jelszó"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:384
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Már a szobában vagy!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:387
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "A szoba már nem létezik"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:390
 msgid "Room is full"
-msgstr ""
+msgstr "A szoba megtelt!"
 
 #: ../client/application/game/ui/screens/screen_tutorial.cpp:31
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:39
 msgid "Room configuration"
-msgstr ""
+msgstr "Szoba konfigurálása"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2 további karakter (opcionális)"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
 msgid "Password (optional):"
-msgstr ""
+msgstr "Jelszó (nem kötelező"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
 msgid "Any level"
-msgstr ""
+msgstr "Bármelyik szint"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:180
 msgid "Room name: %s"
-msgstr ""
+msgstr "Szoba neve: %s"
 
 #: ../client/application/game/ui/screens/screen_informations_music.cpp:23
 msgid "Music"
-msgstr ""
+msgstr "Zene"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
-msgstr ""
+msgstr "Csatlakozási hiba"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Elveszett kapcsolat a fogadóval"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:19
 msgid "Audio Settings"
-msgstr ""
+msgstr "Hang Beállítások"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:28
 msgid "Sound effects"
-msgstr ""
+msgstr "Hang effektek"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:122
 msgid "Visualization"
-msgstr ""
+msgstr "Vizualizálás"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "1p"
-msgstr ""
+msgstr "1p"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "2p"
-msgstr ""
+msgstr "2p"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "3p"
-msgstr ""
+msgstr "3p"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "4p"
