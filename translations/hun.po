@@ -541,7 +541,7 @@ msgstr "UI skála %s"
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:247
 msgid "UI Inset: %s"
-msgstr "UI betét"
+msgstr "UI betét: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:110
 msgid "Refresh"
@@ -795,7 +795,7 @@ msgstr "Világrekord: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:37
 msgid "Local best: %s"
-msgstr "Helyi legjobb"
+msgstr "Helyi legjobb: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:49
 msgid "Loading..."
@@ -893,7 +893,7 @@ msgstr "Fejlesztői mód"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:232
 msgid "Vibration %s"
-msgstr "Rezgés"
+msgstr "Rezgés %s"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:183
 msgid "Local lobby"
