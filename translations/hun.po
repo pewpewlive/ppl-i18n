@@ -1,64 +1,64 @@
 #: ../client/application/ui/ui_helpers.cpp:67
 msgid "on"
-msgstr ""
+msgstr "be"
 
 #: ../client/application/ui/ui_helpers.cpp:68
 msgid "off"
-msgstr ""
+msgstr "ki"
 
 #: ../client/application/ui/keyboard_view.cpp:107
 msgid "ok"
-msgstr ""
+msgstr "ok"
 
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr ""
+msgstr "Piros"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Cyan"
-msgstr ""
+msgstr "Cián"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
 msgid "Lime"
-msgstr ""
+msgstr "Lime"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:60
 msgid "Lime Green"
-msgstr ""
+msgstr "Lime Zöld"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "Lila"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "Pink"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "Narancssárga"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "Fehér"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "Szürke"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "Sötéték"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -66,325 +66,325 @@ msgstr ""
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Frissítés elérhető %s"
 
 #: ../client/application/game/game.cpp:176
 msgid "Quick pause"
-msgstr ""
+msgstr "Rövid szünet"
 
 #: ../client/application/game/game.cpp:182
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Rövid szünet %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:27
 msgid "Continue"
-msgstr ""
+msgstr "Folytatás"
 
 #: ../client/application/game/ui/pause_ui.cpp:39
 msgid "Pause"
-msgstr ""
+msgstr "Szünet"
 
 #: ../client/application/game/ui/pause_ui.cpp:55
 msgid "Restart"
-msgstr ""
+msgstr "Újraindítás"
 
 #: ../client/application/game/ui/pause_ui.cpp:73
 msgid "Exit"
-msgstr ""
+msgstr "Kilépés"
 
 #: ../client/application/game/ui/game_over_ui.cpp:19
 msgid "Play again"
-msgstr ""
+msgstr "Játssz újra"
 
 #: ../client/application/game/ui/game_over_ui.cpp:54
 msgid "Game Over"
-msgstr ""
+msgstr "Játék Vége"
 
 #. April 1st replacement for "Game Over". Does not need an exact translation.
 #: ../client/application/game/ui/game_over_ui.cpp:61
 msgid "You died. Again."
-msgstr ""
+msgstr "Meghaltál. Megint."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:63
 msgid "Insert coin to continue"
-msgstr ""
+msgstr "A folytatáshoz helyezd be az érmét"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:65
 msgid "You tried"
-msgstr ""
+msgstr "Megpróbáltad"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:67
 msgid "It's okay, you were never going to win anyway."
-msgstr ""
+msgstr "Semmi baj, sosem fogsz nyerni"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
-msgstr ""
+msgstr "A válasz elemzése sikertelen"
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Nem sikerült kapcsolatba lépni a szerverrel"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
-msgstr ""
+msgstr "Hivatalos szintek"
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
-msgstr ""
+msgstr "Közösségi szintek"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr ""
+msgstr "Játék számlálás %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr ""
+msgstr "Játszott idő %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
-msgstr ""
+msgstr "Alkalmi"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "Nem sikerült bejelentkezni!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
-msgstr ""
+msgstr "Szint betöltése..."
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:59
 msgid "Failed to download level."
-msgstr ""
+msgstr "Szint betöltése sikertelen"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
-msgstr ""
+msgstr "Csatlakozás a szerverhez"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
 msgid "IP:"
-msgstr ""
+msgstr "IP:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
 msgid "Port:"
-msgstr ""
+msgstr "Port:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "Csatlakozás egy másik szobához az interneten keresztül #ff0000ff(kísérleti)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
-msgstr ""
+msgstr "Csatlakozás"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
 msgid "Enter password"
-msgstr ""
+msgstr "Jelszó megadása"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
 msgid "Join"
-msgstr ""
+msgstr "Csatlakozz"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:42
 msgid "Password:"
-msgstr ""
+msgstr "Jelszó:"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
-msgstr ""
+msgstr "Joystickok konfigurálása"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
 msgid "Swap"
-msgstr ""
+msgstr "Csere"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:117
 msgid "Reset"
-msgstr ""
+msgstr "Visszaállítás"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "Gamepad konfigurálása"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "Halálzóna"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
-msgstr ""
+msgstr "Szaturáció"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "Görbe"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "Többjátékos típus kiválasztása"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:22
 msgid "Online multiplayer"
-msgstr ""
+msgstr "Online többjátékos mód"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "Játssz a világ minden táján élő emberekkel!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "LAN többjátékos mód"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "Játtsz az azonos hálózaton lévő emberekkel"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
-msgstr ""
+msgstr "Lokális többjátékos mód"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:38
 msgid "Help"
-msgstr ""
+msgstr "Súgó"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "A lokális többjátékos mód támogtaja 2 játékos csatlakozását ugyanahhoz a wifi-hálózathoz."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "Az egyik játékosnak létre kell hoznia egy szobát, amelyhez a másik játékos csatlakozik."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "A wifi hálózatnak nem kell kapcsolódnia az internethez."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "Connecting to a phone's hotspot should work!"
-msgstr ""
+msgstr "A telefon hotspotjához való csatlakozásnak működnie kell!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "Mindkét játékosnak külön-külön kell feltöltenie a visszajátszást, hogy mindketten megjelenjenek az online ranglistán."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
-msgstr ""
+msgstr "Segítség a többjátékos módban"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "Szobák keresése..."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:170
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(Nem kompatiblis verzió)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:190
 msgid "Create room"
-msgstr ""
+msgstr "Szoba létrehozása"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
 msgid "Close room"
-msgstr ""
+msgstr "Szoba bezárása"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:51
 msgid "Configure Ship"
-msgstr ""
+msgstr "Hajó Konfigurálása"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
 msgid "Model"
-msgstr ""
+msgstr "Modell"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
 msgid "Trail"
-msgstr ""
+msgstr "Nyomvonal"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
 msgid "Bullets"
-msgstr ""
+msgstr "Lövedékek"
 
 #. Shown in a button used to configurethe style of joysticks
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:299
 msgid "Joysticks"
-msgstr ""
+msgstr "Joystickok"
 
 #. Shown in a button used to configure the color the UI.
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:307
 msgid "UI colors"
-msgstr ""
+msgstr "UI színek"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
-msgstr ""
+msgstr "Pontszámok feltöltése"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:80
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "Nincs mit feltölteni!"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:98
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "Nem sikerült feltölteni a visszajátszásokat."
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:100
 msgid "Upload successful"
-msgstr ""
+msgstr "Sikeres feltöltés"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:120
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "Visszajátszás feltöltése %s."
 
 #: ../client/application/game/ui/screens/screen_career.cpp:28
 msgid "Statistics"
-msgstr ""
+msgstr "Statisztikák"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:55
 msgid "Global leaderboards"
-msgstr ""
+msgstr "Globális ranglisták"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Configure keyboard"
-msgstr ""
+msgstr "Billentyűzet konfigurálása"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:124
 msgid "Move"
-msgstr ""
+msgstr "Mozgás"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:132
 msgid "Shoot"
-msgstr ""
+msgstr "Lövés"
 
 #. Used in the settings. The %s is replaced with "on" or "off", for example:
 #. "Mouse aim off".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:233
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "Egér célzása %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
-msgstr ""
+msgstr "Hálózat ellenőrzése"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Nem lehet többjátékos módban játszani szimmetrikus NAT-tal"
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
 msgid "Learn more"
-msgstr ""
+msgstr "Tudj meg többet"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "Szimmetrikus NAT hiba"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr ""
+msgstr "Ez azt jelenti, hogy az internetkapcsolatod túlságosan korlátozott, és nem teszi lehetővé a p2p multiplayer játékot."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
-msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
+msgid "."
 msgstr ""
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
