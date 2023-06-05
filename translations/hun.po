@@ -8,7 +8,7 @@ msgstr "ki"
 
 #: ../client/application/ui/keyboard_view.cpp:107
 msgid "ok"
-msgstr "ok"
+msgstr "oké"
 
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
@@ -138,11 +138,11 @@ msgstr "Közösségi szintek"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr "Játék számlálás %s"
+msgstr "Játék számlálás: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr "Játszott idő %s"
+msgstr "Játszott idő: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
@@ -362,7 +362,7 @@ msgstr "Egér célzása %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
-msgstr "Hálózat ellenőrzése"
+msgstr "Hálózat ellenőrzése..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Can't play in multiplayer with a symmetric NAT."
@@ -459,7 +459,7 @@ msgstr "A megjegyzésnek legalább 3 karakter hosszúnak kell lennie."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:315
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Légyszives, vigyázz a nyelvedre. Nincs sértegetés, nincs káromkodás, nincs spam. Az ezt a szabályt sértő hozzászólásokat törölhetjük, és a szabálysértőket letilthatjuk vagy kitilthatjuk."
+msgstr "Kérlek, vigyázz a stílusodra. Nincs sértegetés, nincs káromkodás, nincs spam. Az ezt a szabályt sértő hozzászólásokat törölhetjük, és a szabálysértőket letilthatjuk vagy kitilthatjuk."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -545,11 +545,11 @@ msgstr "UI betét"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:110
 msgid "Refresh"
-msgstr "frissítés"
+msgstr "Frissítés"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
-msgstr ""
+msgstr "Nyelv beállítások"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:20
 msgid "The translations are community provided!"
@@ -583,7 +583,7 @@ msgstr "Joystickok stilusa"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:46
 msgid "Single Player"
-msgstr ""
+msgstr "Egyjátékos mód"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:49
 msgid "Play"
@@ -739,7 +739,7 @@ msgstr "Magas Pontszámok"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
 msgid "Speed Runs"
-msgstr ""
+msgstr "Speed Runok"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:473
 msgid "Unknown level"
@@ -747,7 +747,7 @@ msgstr "Ismeretlen szint"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:53
 msgid "Failed to read replay."
-msgstr ""
+msgstr "Nem sikerült beolvasni a visszajátszást."
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:82
 msgid "Failed to download replay."
@@ -889,7 +889,7 @@ msgstr "Intro lejátszása"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:178
 msgid "Developer mode"
-msgstr ""
+msgstr "Fejlesztői mód"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:232
 msgid "Vibration %s"
@@ -1053,13 +1053,13 @@ msgstr "A pontszámok feltöltéséhez be kell jelentkeznie."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:99
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Az online játékhoz be kell jelentkezned"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:104
 msgid "You need to be signed-in to view comments"
-msgstr ""
+msgstr "A hozzászólások megtekintéséhez be kell jelentkeznie"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:116
 msgid "Your account"
@@ -1273,101 +1273,101 @@ msgstr "Pointónium: %s"
 #. for example: "Duration: 1m43s"
 #: ../client/application/game/state/game_state.cpp:454
 msgid "Duration: %s"
-msgstr ""
+msgstr "Időtartam: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:84
-msgid "pointónium"
-msgstr ""
+msgid "Dodge everything and you'll be OK"
+msgstr "Kerülj ki mindent, és minden rendben lesz"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "aka Dodge This"
-msgstr ""
+msgstr "avagy Kerüld Ki ezt"
 
 #: ../client/application/game/levels/game_levels.cpp:85
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "A Zöld jó. A Piros rossz."
 
 #: ../client/application/game/levels/game_levels.cpp:95
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "Soha ne bízz egy hatoldalú sokszögben"
 
 #: ../client/application/game/levels/game_levels.cpp:96
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "Nem kapcsolódik a \"Super Hexagon\""
 
 #: ../client/application/game/levels/game_levels.cpp:97
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "Válassza ki saját nehézségét"
 
 #: ../client/application/game/levels/game_levels.cpp:106
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "Az euklideszi tér túlértékelt"
 
 #: ../client/application/game/levels/game_levels.cpp:116
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "Csak 32 másodpercnyi skill"
 
 #: ../client/application/game/levels/game_levels.cpp:116
 msgid "My favorite mode"
-msgstr ""
+msgstr "A kedvenc módom"
 
 #: ../client/application/game/levels/game_levels.cpp:117
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "Élj túl 32 másodpercet ezzel az egyszerű trükkel"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\"Ez a szint egy vicc, jó?\" - egy tesztelő"
 
 #: ../client/application/game/levels/game_levels.cpp:128
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "RIP GW3:Dimensions"
 
 #: ../client/application/game/levels/game_levels.cpp:128
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "Korábban Assault néven volt ismert"
 
 #: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
-msgstr ""
+msgstr "Új bronz medál"
 
 #: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
-msgstr ""
+msgstr "Új ezüst medál"
 
 #: ../client/application/game/levels/medals.cpp:10
 msgid "New gold medal"
-msgstr ""
+msgstr "Új arany medál"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:9
 msgid "Minimal"
-msgstr ""
+msgstr "Minimális"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "High"
-msgstr ""
+msgstr "Magas"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:12
 msgid "Compression friendly"
-msgstr ""
+msgstr "Kompresszióbarát"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "Ultra alacsony 2x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:18
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "Ultra alacsony 4x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:20
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "Ultra alacsony 8x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:22
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "Ultra alacsony 16x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:24
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "Ultra alacsony 32x"
 
