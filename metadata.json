@@ -68,7 +68,11 @@
     "english_name": "Hungarian",
     "code": "hun",
     "localized_name": "Hungarian",
-    "translators": []
+    "translators": [
+      {
+        "name": "#ff0000ffRA#ffffffffTT#00ff00ffLE#0000ffffR#ffff00ffP#ff0080ffL#00ffffffA#8080ffffY#808080ffE"
+      }
+    ]
   },
   {
     "english_name": "Indonesian",
