@@ -691,51 +691,51 @@ msgstr "3p"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "4p"
-msgstr ""
+msgstr "4p"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Africa"
-msgstr ""
+msgstr "Afrika"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:34
 msgid "Asia"
-msgstr ""
+msgstr "Ázsia"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:35
 msgid "Europe"
-msgstr ""
+msgstr "Európa"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
 msgid "North America"
-msgstr ""
+msgstr "Észak-Amerika"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:37
 msgid "Oceania"
-msgstr ""
+msgstr "Óceánia"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:38
 msgid "South America"
-msgstr ""
+msgstr "Dél-Amerika"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:116
 msgid "personal"
-msgstr ""
+msgstr "személyes"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:116
 msgid "region"
-msgstr ""
+msgstr "régió"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:117
 msgid "continent"
-msgstr ""
+msgstr "kontinens"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:117
 msgid "world"
-msgstr ""
+msgstr "világ"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:196
 msgid "High Scores"
-msgstr ""
+msgstr "Magas Pontszámok"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:197
 msgid "Speed Runs"
@@ -743,7 +743,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:473
 msgid "Unknown level"
-msgstr ""
+msgstr "Ismeretlen szint"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:53
 msgid "Failed to read replay."
@@ -751,141 +751,141 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:82
 msgid "Failed to download replay."
-msgstr ""
+msgstr "Nem sikerült feltölteni a visszajátszást"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
 msgid "Official"
-msgstr ""
+msgstr "Hivatalos"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:36
 msgid "Community"
-msgstr ""
+msgstr "Közösség"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "Experimental"
-msgstr ""
+msgstr "Kísérleti"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:59
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "#ffffff00Hivatalos#ffffffffffffffffff szinteket én (JF) építettem, és lehetővé teszem az érmek megszerzését."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:60
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "#ffffff00ffKözösségi#ffffffffffffffff A szinteket TE, a közösség építi."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:61
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "Több információ: github.com/jyaif/ppl-utils"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:62
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "#ffffff00ffKísérleti#ffffffffffffff szintek olyan szintek, amelyeket még nem adtak ki."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:66
 msgid "About the levels"
-msgstr ""
+msgstr "A szintekről"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:113
 msgid "Experimental levels"
-msgstr ""
+msgstr "Kísérleti szintek"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:33
 msgid "World record: %s"
-msgstr ""
+msgstr "Világrekord: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:37
 msgid "Local best: %s"
-msgstr ""
+msgstr "Helyi legjobb"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:49
 msgid "Loading..."
-msgstr ""
+msgstr "Betöltés..."
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:59
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "A manifeszt letöltése sikertelen"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:170
 msgid "average score: %s"
-msgstr ""
+msgstr "átlagos pontszám: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:290
 msgid "Experimental level"
-msgstr ""
+msgstr "Kísérleti szint"
 
 #. The title of the screen that shows information. Any kind of
 #. information.
 #: ../client/application/game/ui/screens/screen_view_level.cpp:326
 msgid "Information"
-msgstr ""
+msgstr "Információ"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
-msgstr ""
+msgstr "Vezérlési beállítások"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
-msgstr ""
+msgstr "Érintőképernyő"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:38
 msgid "Keyboard"
-msgstr ""
+msgstr "Billentyűzet"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:18
 msgid "Discord server"
-msgstr ""
+msgstr "Discord szerver"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:24
 msgid "Development videos"
-msgstr ""
+msgstr "Fejlesztői videók"
 
 #. Shown in a button. This buttons lets you see a list of people that
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:135
 msgid "Credits"
-msgstr ""
+msgstr "Kreditek"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:32
 msgid "Settings"
-msgstr ""
+msgstr "Beállítások"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_settings.cpp:42
 msgid "Windowed"
-msgstr ""
+msgstr "Ablakos"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Fullscreen"
-msgstr ""
+msgstr "Teljes képernyő"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:97
 msgid "Controls"
-msgstr ""
+msgstr "Vezérlők"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:107
 msgid "Audio"
-msgstr ""
+msgstr "Hang"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:118
 msgid "Language"
-msgstr ""
+msgstr "Nyelv"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:129
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Start tutorial"
-msgstr ""
+msgstr "Tutorial indítása"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:167
 msgid "Launch intro"
-msgstr ""
+msgstr "Intro lejátszása"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:178
 msgid "Developer mode"
@@ -893,163 +893,163 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:232
 msgid "Vibration %s"
-msgstr ""
+msgstr "Rezgés"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:183
 msgid "Local lobby"
-msgstr ""
+msgstr "Lokális lobby"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:186
 msgid "Online lobby"
-msgstr ""
+msgstr "Online lobby"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:192
 msgid "Ready"
-msgstr ""
+msgstr "Kész"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:201
 msgid "Cancel"
-msgstr ""
+msgstr "Mégsem"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:344
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "Várakoás a többi játékosra..."
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
 msgid "Change colors"
-msgstr ""
+msgstr "Színek megváltoztatása"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
 msgid "Old username:"
-msgstr ""
+msgstr "Régi felhasználónév"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
 msgid "New username:"
-msgstr ""
+msgstr "Új felhasználónév"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
 msgid "Change"
-msgstr ""
+msgstr "Megváltoztatás"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Csak a színeket változtasd meg! %s"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
 msgid "Username color change"
-msgstr ""
+msgstr "Felhasználónév színének megváltoztatása"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
-msgstr ""
+msgstr "A felhasználónév váltása sikeres"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
 msgid "Failed to update username"
-msgstr ""
+msgstr "A felhasználónév frissítése nem sikerült"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Nem sikerült frissíteni a felhasználónevet"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
-msgstr ""
+msgstr "Ellenőrző email elküldve"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Ellenőrizd a postaládádat!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Nem sikerült újraküldeni az e-mailt"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Jelszó visszaállítás kérése"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:57
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Jelszó-visszaállítási e-mail elküldve"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:64
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "A jelszó visszaállításának kérése sikertelen"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:79
 msgid "Sign in"
-msgstr ""
+msgstr "Bejelentkezés"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
 msgid "Password"
-msgstr ""
+msgstr "Jelszó"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
 msgid "Signing in"
-msgstr ""
+msgstr "Belépés"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Sikeresen bejelentkeztél!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
 msgid "Email not verified"
-msgstr ""
+msgstr "Nem ellenőrzött email"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Ellenőrző email újraküldése"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:187
 msgid "Request password reset"
-msgstr ""
+msgstr "Jelszó visszaállítás kérése"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:213
 msgid "Reset password"
-msgstr ""
+msgstr "Jelszó visszaállítása"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
 msgid "Synchronizing"
-msgstr ""
+msgstr "Szinkronizáció"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:55
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "A szinkronizálás sikertelen."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:61
 msgid "Synchronization completed."
-msgstr ""
+msgstr "A szinkronizálás befejeződött."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
 msgid "Your verified medals have been downloaded."
-msgstr ""
+msgstr "Az ellenőrzött medáljaidat letöltöttük."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
-msgstr ""
+msgstr "Fiók"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Not signed in"
-msgstr ""
+msgstr "Nincs bejelentkezve"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:26
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Hozz létre egy fiókot a név beállításához és az adatok szinkronizálásához"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:31
 msgid "Register"
-msgstr ""
+msgstr "Regisztráció"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:54
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Adatvédelmi irányelvek"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "A pontszámok feltöltéséhez be kell jelentkeznie."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:99
 msgid "You need to be signed-in to play online"
@@ -1063,131 +1063,131 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:116
 msgid "Your account"
-msgstr ""
+msgstr "A fiókod"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Az email érvénytelen!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Túl rövid. Minimum %s karakter."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:53
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Túl hosszú. Maximum %s karakter."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
 msgid "Register account"
-msgstr ""
+msgstr "Fiók regisztrálása"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Username"
-msgstr ""
+msgstr "Felhasnálónév"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
-msgstr ""
+msgstr "Jelszó megerősítése"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
 msgid "Confirm email"
-msgstr ""
+msgstr "Email megerősítése"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
 msgid "Registering"
-msgstr ""
+msgstr "Regisztrálás"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Registration successful."
-msgstr ""
+msgstr "A regisztrálás sikeres."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Kérjük, ellenőrizze e-mailjeit!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
-msgstr ""
+msgstr "A regisztrálás nem sikerült"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Felhasználónév (színeket is használhatsz!)"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm password:"
-msgstr ""
+msgstr "Jelszó megerősítése"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm email:"
-msgstr ""
+msgstr "Email megerősítése"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "A jelszó nem egyezik"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Az email nem egyezik"
 
 #. Shown in a header, in the screen that allows you to manage your PewPew Live account.
 #. In this screen you can for example change the colors of your nickname, or delete your account.
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:20
 msgid "Manage Account"
-msgstr ""
+msgstr "Fiók kezelése"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:41
 msgid "Synchronize"
-msgstr ""
+msgstr "Szinkronizálás"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:50
 msgid "Sign out"
-msgstr ""
+msgstr "Kijelentkezés"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:60
 msgid "Delete account"
-msgstr ""
+msgstr "Fiók törlése"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:72
 msgid "Account deletion"
-msgstr ""
+msgstr "Fiók törlése folyamatban"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:79
 msgid "Account deletion requested."
-msgstr ""
+msgstr "A fiók törlését kérte."
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "Küldtünk egy megerősítő emailt."
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:86
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "A fiók törlésének kérése sikertelen"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sVárjuk a másik játékost%s"
 
 #: ../client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
-msgstr ""
+msgstr "Pajzs: %s"
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
 #: ../client/application/game/ui/views/account_view.cpp:67
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "Szintek"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:70
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "Pontszámok"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1195,7 +1195,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:74
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "Általános"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1203,71 +1203,71 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:251
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "Csatlakozás dátuma: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:156
 msgid "IN REVIEW"
-msgstr ""
+msgstr "FELÜGYELETBEN"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:143
 msgid "You've been signed out."
-msgstr ""
+msgstr "Kijelentkeztél."
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:183
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "A biztonsági mentési adatok letöltése sikertelen"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:267
 msgid "Failed to download achievements"
-msgstr ""
+msgstr "Nem sikerült letölteni az achievementeket"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:308
 msgid "Failed to upload achievements"
-msgstr ""
+msgstr "Nem sikerült feltölteni az achievementeket"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
 #: ../client/application/game/player_data/player_data_manager.cpp:43
 msgid "New personal best! %s ⇨ %s"
-msgstr ""
+msgstr "Új egyéni rekord! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:46
 msgid "Improved speed run! %s ⇨ %s"
-msgstr ""
+msgstr "Jobb speedrun! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:632
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "Achievement feloldva: %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
-msgstr ""
+msgstr "%s kilépett a játékból"
 
 #: ../client/application/game/state/game_state.cpp:430
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #. Shown when the game is displaying stats. Concerns the player's shooting accuracy.
 #. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
 #: ../client/application/game/state/game_state.cpp:443
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "Pontosság: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:446
 msgid "Total score: %s"
-msgstr ""
+msgstr "Összes pontszám: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:450
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Pointónium: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a duration,
 #. for example: "Duration: 1m43s"
@@ -1276,7 +1276,7 @@ msgid "Duration: %s"
 msgstr ""
 
 #: ../client/application/game/levels/game_levels.cpp:84
-msgid "Dodge everything and you'll be OK"
+msgid "pointónium"
 msgstr ""
 
 #: ../client/application/game/levels/game_levels.cpp:84
