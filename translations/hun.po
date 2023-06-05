@@ -384,98 +384,98 @@ msgid "This means that your internet connection is overly restricted and does no
 msgstr "Ez azt jelenti, hogy az internetkapcsolatod túlságosan korlátozott, és nem teszi lehetővé a p2p multiplayer játékot."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
-msgid "."
-msgstr ""
+msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
+msgstr "Ha mobil internetkapcsolatot használsz, próbáld meg letiltani azt. Ha Wi-Fi-t használsz, próbálj meg másik Wi-Fi hálózatot használni."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Nem sikerült csatlakozni a STUN-szerverekhez."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:144
 msgid "Authenticating..."
-msgstr ""
+msgstr "Hitelesítés..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:157
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "A játék legújabb verziójára van szükséged."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Nem sikerült a hitelesítés"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:188
 msgid "Error :("
-msgstr ""
+msgstr "Hiba :("
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:157
 msgid "Are you sure you want to report this comment?"
-msgstr ""
+msgstr "Biztos vagy benne, hogy jelenteni akarod ezt a megjegyzést?"
 
 #. Shown in a notification after successfully reporting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Successfully reported comment"
-msgstr ""
+msgstr "Sikeresen jelentett megjegyzés"
 
 #. Shown in a notification if a comment could not be reported.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
 msgid "Error reporting comment"
-msgstr ""
+msgstr "Hiba a hozzászólás jelentésekor"
 
 #. The title of the screen where players delete comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:190
 msgid "Delete comment"
-msgstr ""
+msgstr "Megjegyzés törlése"
 
 #. Shown in a notification after successfully deleting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:192
 msgid "Successfully deleted comment"
-msgstr ""
+msgstr "Sikeresen törölt megjegyzés"
 
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:194
 msgid "Error deleting comment"
-msgstr ""
+msgstr "Hiba a megjegyzés törlésekor"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:197
 msgid "Are you sure you want to delete this comment?"
-msgstr ""
+msgstr "Biztos, hogy törölni akarod ezt a megjegyzést?"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:278
 msgid "<Add a comment here>"
-msgstr ""
+msgstr "<Adj hozzá egy megjegyzést>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
 msgid "Comment"
-msgstr ""
+msgstr "Hozzászólás"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:299
 msgid "Comment must be at least 3 characters long."
-msgstr ""
+msgstr "A megjegyzésnek legalább 3 karakter hosszúnak kell lennie."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:315
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "Légyszives, vigyázz a nyelvedre. Nincs sértegetés, nincs káromkodás, nincs spam. Az ezt a szabályt sértő hozzászólásokat törölhetjük, és a szabálysértőket letilthatjuk vagy kitilthatjuk."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:339
 msgid "Posting comment"
-msgstr ""
+msgstr "Megjegyzés küldése"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:360
 msgid "Comment posted"
-msgstr ""
+msgstr "Megjegyzés közölve"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:364
 msgid "Failed to post comment"
-msgstr ""
+msgstr "Hiba a megjegyzés közlésekor"
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:156
