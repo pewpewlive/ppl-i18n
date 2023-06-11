@@ -43,7 +43,7 @@ msgstr "Рожевий"
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr "Пуморанчевий"
+msgstr "Помаранчевий"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
@@ -250,7 +250,7 @@ msgstr "Допомога"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Локальний мультиплеєр підтримує 2 гравця, які під'єднані до однієї wifi мережі."
+msgstr "Локальний мультиплеєр підтримує 2-х гравців, під'єднаних до однієї WIFI-мережі."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
@@ -332,7 +332,7 @@ msgstr "Успішно завантажено"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:120
 msgid "Uploading replay for %s."
-msgstr "Завантаження повтору %s."
+msgstr "Завантаження повтору для %s."
 
 #: ../client/application/game/ui/screens/screen_career.cpp:28
 msgid "Statistics"
@@ -459,7 +459,7 @@ msgstr "Коментар має містити щонайменше 3 симво
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:315
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Слідкуй за тим, що кажеш. Без образ, без лайок, без спаму. Ми можемо видалити будь-який коментар який порушить ці правила, і заморозити або заблокувати правопорушників."
+msgstr "Слідкуй за тим, що кажеш. Без образ, без лайок, без спаму. Ми можемо видалити будь-який коментар який порушить ці правила, заморозити або заблокувати правопорушників."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -573,7 +573,7 @@ msgstr "Пропустити"
 
 #: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Енциклопедія"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -711,7 +711,7 @@ msgstr "Північна Америка"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:37
 msgid "Oceania"
-msgstr "Австралія"
+msgstr "Океанія"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:38
 msgid "South America"
@@ -743,7 +743,7 @@ msgstr "Швидкісні Забіги"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:473
 msgid "Unknown level"
-msgstr ""
+msgstr "Невідомий рівень"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:53
 msgid "Failed to read replay."
@@ -1025,7 +1025,7 @@ msgstr "Синхронізування завершенно."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
 msgid "Your verified medals have been downloaded."
-msgstr ""
+msgstr "Ваші перевірені медалі були завантажені."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
@@ -1045,21 +1045,21 @@ msgstr "Реєстрація"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:54
 msgid "Privacy Policy"
-msgstr "Політика конфіденційності"
+msgstr "Політика Конфіденційності"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to upload scores"
-msgstr "Ви маєте ввійти щоб завантажувати рекорди"
+msgstr "Ви маєте ввійти, щоб завантажувати рекорди"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:99
 msgid "You need to be signed-in to play online"
-msgstr "Ви маєте ввійти щоб грати онлайн"
+msgstr "Ви маєте ввійти, щоб грати онлайн"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:104
 msgid "You need to be signed-in to view comments"
-msgstr "Ви маєте ввійти щоб переглянути коментарі"
+msgstr "Ви маєте ввійти, щоб переглянути коментарі"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:116
 msgid "Your account"
@@ -1127,7 +1127,7 @@ msgstr "Перевірити пошту:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
 msgid "Passwords do not match!"
-msgstr "Паролі не співпадають"
+msgstr "Паролі не співпадають!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
 msgid "Emails do not match!"
@@ -1137,7 +1137,7 @@ msgstr "Пошти не співпадають!"
 #. In this screen you can for example change the colors of your nickname, or delete your account.
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:20
 msgid "Manage Account"
-msgstr ""
+msgstr "Управляти аккаунтом"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:41
 msgid "Synchronize"
@@ -1161,7 +1161,7 @@ msgstr "Запит на видалення акаунту відправлено
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
 msgid "An email asking for confirmation was sent."
-msgstr "У пошту прийшов запит про підтвердження."
+msgstr "На пошту прийшов запит про підтвердження."
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:86
 msgid "Failed to request account deletion"
@@ -1219,11 +1219,11 @@ msgstr "Не вдалося завантажити резервні дані"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:267
 msgid "Failed to download achievements"
-msgstr ""
+msgstr "Не вдалося завантажити досягнення"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:308
 msgid "Failed to upload achievements"
-msgstr ""
+msgstr "Не вдалося завантажити досягнення"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -1261,13 +1261,13 @@ msgstr "Точність: %s"
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:446
 msgid "Total score: %s"
-msgstr ""
+msgstr "Загальні бали: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:450
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Поінтоніум: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a duration,
 #. for example: "Duration: 1m43s"
@@ -1293,7 +1293,7 @@ msgstr "Усі шестикутники - зло"
 
 #: ../client/application/game/levels/game_levels.cpp:96
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "\"Super Hexagon\" тут не нідочого"
+msgstr "\"Super Hexagon\" тут нідочого"
 
 #: ../client/application/game/levels/game_levels.cpp:97
 msgid "Choose your own difficulty"
