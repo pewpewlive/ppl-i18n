@@ -103,22 +103,22 @@ msgstr "Žaidimas baigtas"
 #. April 1st replacement for "Game Over". Does not need an exact translation.
 #: ../client/application/game/ui/game_over_ui.cpp:61
 msgid "You died. Again."
-msgstr "Jūs vėl mirėte"
+msgstr "Jūs mirėte. Vėl."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:63
 msgid "Insert coin to continue"
-msgstr "Norėdami tęsti, įdėkite monetą"
+msgstr "Įmeskite monetą, jei norite tęsti"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:65
 msgid "You tried"
-msgstr "Jūs bandėte"
+msgstr "Kartais verta pabandyti."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:67
 msgid "It's okay, you were never going to win anyway."
-msgstr "Viskas gerai, jūs niekada nebūtumėte laimėję."
+msgstr "Susitaikykite su tuo, kad niekada nelaimėsite."
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
