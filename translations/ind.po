@@ -103,30 +103,30 @@ msgstr "Game Berakhir"
 #. April 1st replacement for "Game Over". Does not need an exact translation.
 #: ../client/application/game/ui/game_over_ui.cpp:61
 msgid "You died. Again."
-msgstr "Kamu mati. Lagi."
+msgstr "Mati lagi ya?"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:63
 msgid "Insert coin to continue"
-msgstr "Masukan koin untuk melanjutkan"
+msgstr "Masukkan gocap untuk melanjutkan"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:65
 msgid "You tried"
-msgstr "Kamu telah mencoba"
+msgstr "Turut berduka cita"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:67
 msgid "It's okay, you were never going to win anyway."
-msgstr "Tidak apa-apa, tidak pernah menang memang takdirmu"
+msgstr "Menyerahlah, toh kamu nggak bakal bisa menang"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
-msgstr "Gagal untuk mengurai tanggapan"
+msgstr "Gagal mengurai tanggapan"
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
-msgstr "Gagal untuk menghubungi server"
+msgstr "Gagal menghubungi server"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
@@ -150,7 +150,7 @@ msgstr "Santai"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr "Gagal untuk masuk!"
+msgstr "Gagal masuk!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
@@ -158,11 +158,11 @@ msgstr "Mengunduh level..."
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:59
 msgid "Failed to download level."
-msgstr "Gagal untuk mengunduh level."
+msgstr "Gagal mengunduh level."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
-msgstr "Menghubungi ke server"
+msgstr "Hubungkan ke server"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
 msgid "IP:"
@@ -174,15 +174,15 @@ msgstr "Port:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Terhubung dengan ruang lain melalui internet #ff0000ff(experimental)"
+msgstr "Hubungkan ke ruang lain melalui internet #ff0000ff(experimental)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
-msgstr "Hubung"
+msgstr "Hubungkan"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
 msgid "Enter password"
-msgstr "Masukan kata sandi"
+msgstr "Masukkan kata sandi"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
 msgid "Join"
@@ -230,7 +230,7 @@ msgstr "Multipemain online"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
 msgid "Play with people around the world!"
-msgstr "Bermain dengan orang di seluruh dunia!"
+msgstr "Bermain dengan orang-orang di seluruh dunia!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
 msgid "LAN multiplayer"
@@ -238,7 +238,7 @@ msgstr "Multipemain LAN"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
 msgid "Play with people on the same network!"
-msgstr "Bermain dengan orang di jaringan yang sama!"
+msgstr "Bermain dengan orang-orang di jaringan yang sama!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
@@ -246,7 +246,7 @@ msgstr "Multipemain lokal"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:38
 msgid "Help"
-msgstr "Tolong"
+msgstr "Bantuan"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
@@ -254,7 +254,7 @@ msgstr "Multipemain lokal mendukung 2 pemain yang terhubung di jaringan wifi yan
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
-msgstr "Satu pemain harus membuat ruang, yang pemain lain akan bergabung"
+msgstr "Satu pemain harus membuat ruang, yang lain akan bergabung"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "The wifi network does not have to be connected to the internet."
@@ -270,7 +270,7 @@ msgstr "Setiap pemain butuh mengunggah replaynya sendiri agar terlihat di papan 
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
-msgstr "Tolong multipemain"
+msgstr "Bantuan multipemain"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
 msgid "Searching for rooms..."
@@ -401,7 +401,7 @@ msgstr "Butuh versi terbaru dari game."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
 msgid "Failed to authenticate"
-msgstr "Gagal untuk Mengautentikasi"
+msgstr "Gagal Mengautentikasi"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:188
 msgid "Error :("
@@ -611,7 +611,7 @@ msgstr "Kesalahan tidak diketahui"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:367
 msgid "Failed to join room"
-msgstr "Gagal untuk gabung ruang"
+msgstr "Gagal bergabung dengan ruang"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:381
 msgid "Incorrect password"
@@ -627,7 +627,7 @@ msgstr "Ruangnya sudah tidak ada lagi"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:390
 msgid "Room is full"
-msgstr "Ruang penuh"
+msgstr "Ruangan sudah penuh"
 
 #: ../client/application/game/ui/screens/screen_tutorial.cpp:31
 msgid "Tutorial"
@@ -889,7 +889,7 @@ msgstr "Putar intro"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:178
 msgid "Developer mode"
-msgstr "Mode pengembangan"
+msgstr "Mode pengembang"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:232
 msgid "Vibration %s"
@@ -1049,17 +1049,17 @@ msgstr "Kebijakan pribadi"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to upload scores"
-msgstr "Kamu harus masuk akun agar dapat mengunggah skor"
+msgstr "Kamu harus memasukkan akun agar dapat mengunggah skor"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:99
 msgid "You need to be signed-in to play online"
-msgstr "Kamu harus masuk akun agar dapat bermain secara online"
+msgstr "Kamu harus memasukkan akun agar dapat bermain secara online"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:104
 msgid "You need to be signed-in to view comments"
-msgstr "Kamu perlu masukan akun sebelum melihat komentar-komentar"
+msgstr "Kamu harus memasukkan akun sebelum melihat komentar-komentar"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:116
 msgid "Your account"
@@ -1103,11 +1103,11 @@ msgstr "Pendaftaran berhasil."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
 msgid "Please check your emails!"
-msgstr "Tolong periksa email Anda!"
+msgstr "Tolong periksa email kamu!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
-msgstr "Gagal untuk mendaftar"
+msgstr "Gagal mendaftarkan"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Username (you can put colors in!):"
@@ -1281,7 +1281,7 @@ msgstr "Hindari semuanya dan kamu akan baik baik saja"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "aka Dodge This"
-msgstr "alias Hindari Ini"
+msgstr "alias Dodge This"
 
 #: ../client/application/game/levels/game_levels.cpp:85
 msgid "Green good. Red bad."
@@ -1293,7 +1293,7 @@ msgstr "Jangan pernah mempercayai sebuah poligon bersisi enam"
 
 #: ../client/application/game/levels/game_levels.cpp:96
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Tak berhubungan dengan \"Super Hexagon\""
+msgstr "Tidak berhubungan dengan \"Super Hexagon\""
 
 #: ../client/application/game/levels/game_levels.cpp:97
 msgid "Choose your own difficulty"
@@ -1349,7 +1349,7 @@ msgstr "Tinggi"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:12
 msgid "Compression friendly"
-msgstr "Kompresi Ramah"
+msgstr "Kompresi ramah"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Ultra low 2x"
