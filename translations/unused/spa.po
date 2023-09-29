@@ -1,8 +1,20 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "Los niveles #ffff00ffde la Comunidad#ffffffff son creados por jugadores, como tú."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "Los niveles #ffff00ffExperimentales#ffffffff no están completamente desarrollados aún."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "Los niveles #ffff00ffOficiales#ffffffff han sido creados por mí (JF). En ellos puedes obtener medallas."
+
 msgid "2 extra characters:"
 msgstr "Nombre:"
+
+msgid "About the levels"
+msgstr "¿Alguna duda?"
 
 msgid "All your medals are here."
 msgstr "Aquí están todas tus medallas."
@@ -12,6 +24,9 @@ msgstr "Trayectoria"
 
 msgid "Connect to..."
 msgstr "Conectar a..."
+
+msgid "Creating room"
+msgstr "Creando partida"
 
 msgid "Creator"
 msgstr "Creador"
@@ -31,6 +46,12 @@ msgstr "Dirigido por %s"
 msgid "Error reading manifest"
 msgstr "Hubo un error al leer \"manifest\""
 
+msgid "Experimental"
+msgstr "Experimental"
+
+msgid "Experimental levels"
+msgstr "Niveles experimentales"
+
 msgid "Failed to parse server response"
 msgstr "Fallo al analizar respuesta del servidor"
 
@@ -39,6 +60,9 @@ msgstr "La partida está llena"
 
 msgid "High (Dark)"
 msgstr "Alto (Oscuro)"
+
+msgid "Information"
+msgstr "Información"
 
 msgid "Level name"
 msgstr "Nombre del nivel"
@@ -70,6 +94,9 @@ msgstr "Mínimo (Oscuro)"
 msgid "Missing information. This should not happen!"
 msgstr "Falta información. ¡Esto no debería ocurrir!"
 
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Más información en github.com/jyaif/ppl-utils"
+
 msgid "More information"
 msgstr "Más información"
 
@@ -99,6 +126,9 @@ msgstr "El fondo es difícil de computar"
 
 msgid "Translations"
 msgstr "Traducciones"
+
+msgid "Unknown level"
+msgstr "Nivel desconocido"
 
 msgid "Waiting for the server..."
 msgstr "Esperando al servidor..."

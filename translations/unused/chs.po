@@ -1,8 +1,23 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ff社区#ffffffff 社区关卡由玩家自制。"
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ff测试#ffffffff 关卡是尚未发布的关卡。"
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ff官方#ffffffff 关卡由我 (JF) 设计 , 可以获得奖牌。"
+
+msgid "About the levels"
+msgstr "关于关卡"
+
 msgid "All your medals are here."
 msgstr "你的奖牌已同步"
+
+msgid "Creating room"
+msgstr "正在创建房间"
 
 msgid "Directed by %s"
 msgstr "制作者：%s"
@@ -10,6 +25,21 @@ msgstr "制作者：%s"
 msgid "Error reading manifest"
 msgstr "读取清单出错"
 
+msgid "Experimental"
+msgstr "实验室"
+
+msgid "Experimental levels"
+msgstr "测试关卡"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "更多信息在 github.com/jyaif/ppl-utils"
+
 msgid "Score: %s"
 msgstr "分数：%s"
+
+msgid "Unknown level"
+msgstr "未知关卡"
 

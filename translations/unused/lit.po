@@ -1,8 +1,20 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "Lygiai #ffff00ffBendruomenės#ffffffff skiltyje yra lygiai kuriuos sukūrėte JŪS, „PewPew“ bendruomenė."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "Lygiai #ffff00ffEksperimentiniai#ffffffff skiltyje yra lygiai kurie dar nėra patvirtinti ar pabaigti."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "Lygiai #ffff00ffOficialūs#ffffffff skiltyje yra lygiai kuriuos sukūrė šio žaidimo kūrėjas (JF), ir jie leidžia jums gauti medalius."
+
 msgid "2 extra characters:"
 msgstr "Dvi papildomos raidės:"
+
+msgid "About the levels"
+msgstr "Apie Lygius"
 
 msgid "All your medals are here."
 msgstr "Visi jūsų medaliai yra čia."
@@ -12,6 +24,9 @@ msgstr "Karjera"
 
 msgid "Connect to..."
 msgstr "Prisijungti prie..."
+
+msgid "Creating room"
+msgstr "Kuriamas kambarys"
 
 msgid "Creator"
 msgstr "Kūrėjas"
@@ -31,6 +46,12 @@ msgstr "Sukūrė: %s"
 msgid "Error reading manifest"
 msgstr "Klaida skaitant aprašą"
 
+msgid "Experimental"
+msgstr "Eksperimentiniai"
+
+msgid "Experimental levels"
+msgstr "Eksperimentiniai Lygiai"
+
 msgid "Failed to parse server response"
 msgstr "Nepavyko išanalizuoti serverio atsakymo"
 
@@ -39,6 +60,9 @@ msgstr "Žaidimas pilnas"
 
 msgid "High (Dark)"
 msgstr "Aukšta (Tamsi)"
+
+msgid "Information"
+msgstr "Informacija"
 
 msgid "Level name"
 msgstr "Lygio pavadinimas"
@@ -70,6 +94,9 @@ msgstr "Minimali (Tamsi)"
 msgid "Missing information. This should not happen!"
 msgstr "Trūksta informacijos. Tai neturėtų atsitikti!"
 
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Daugiau informacijos rasite čia: github.com/jyaif/ppl-utils"
+
 msgid "More information"
 msgstr "Daugiau informacijos"
 
@@ -99,6 +126,9 @@ msgstr "Foną apskaičiuoti brangu"
 
 msgid "Translations"
 msgstr "Vertimai"
+
+msgid "Unknown level"
+msgstr "Nežinomas lygis"
 
 msgid "Waiting for the server..."
 msgstr "Laukiama serverio..."

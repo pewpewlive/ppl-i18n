@@ -1,8 +1,20 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "poziomy #ffff00ffSpołeczności#ffffffff są tworzone przez CIEBIE, czyli społeczność."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "poziomy #ffff00ffEksperymentalne#ffffffff to poziomy które nie zostały wydane."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "poziomy #ffff00ffOficialne#ffffffff są stworzone przeze mnie (JF), i pozwalają ci zdobywać medale."
+
 msgid "2 extra characters:"
 msgstr "2 dodatkowe litery:"
+
+msgid "About the levels"
+msgstr "O poziomach"
 
 msgid "All your medals are here."
 msgstr "Tu znajdziesz wszystkie swoje medale."
@@ -12,6 +24,9 @@ msgstr "Kariera"
 
 msgid "Connect to..."
 msgstr "Połącz do..."
+
+msgid "Creating room"
+msgstr "Tworzenie pokoju"
 
 msgid "Creator"
 msgstr "Twórca"
@@ -31,6 +46,12 @@ msgstr "Zarządzane przez %s"
 msgid "Error reading manifest"
 msgstr "Błąd wczytywania manifestu"
 
+msgid "Experimental"
+msgstr "Eksperymentalne"
+
+msgid "Experimental levels"
+msgstr "Poziomy Eksperymentalne"
+
 msgid "Failed to parse server response"
 msgstr "Nie udało się przeanalizować odpowiedzi serwera"
 
@@ -39,6 +60,9 @@ msgstr "Gra jest pełna"
 
 msgid "High (Dark)"
 msgstr "Wysoki (Ciemny)"
+
+msgid "Information"
+msgstr "Informacja"
 
 msgid "Level name"
 msgstr "Nazwa poziomu"
@@ -70,6 +94,9 @@ msgstr "Minimalny (Ciemny)"
 msgid "Missing information. This should not happen!"
 msgstr "Brakuje informacji. To nie powinno się zdarzyć!"
 
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Więcej informacji na github.com/jyaif/ppl-utils"
+
 msgid "More information"
 msgstr "Więcej informacji"
 
@@ -99,6 +126,9 @@ msgstr "Renderowanie tego tła jest wymagające"
 
 msgid "Translations"
 msgstr "Tłumaczenia"
+
+msgid "Unknown level"
+msgstr "Nieznany poziom"
 
 msgid "Waiting for the server..."
 msgstr "Czekanie na serwer"

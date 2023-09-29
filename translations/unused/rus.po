@@ -1,8 +1,20 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffУровни сообщества#ffffffff создаются такими же людьми, как и ВЫ."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffЭкспериментальные#ffffffff уровни - незавершённые уровни от сообщества."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffОфициальные#ffffffff уровни созданы мной (#0080ffffJF#ffffffff) и дают зарабатывать медали."
+
 msgid "2 extra characters:"
 msgstr "2 дополнительных символа:"
+
+msgid "About the levels"
+msgstr "Об уровнях"
 
 msgid "All your medals are here."
 msgstr "Все медали зачислены."
@@ -12,6 +24,9 @@ msgstr "Карьера"
 
 msgid "Connect to..."
 msgstr "Подключиться к..."
+
+msgid "Creating room"
+msgstr "Ожидание игроков"
 
 msgid "Creator"
 msgstr "Автор"
@@ -31,6 +46,12 @@ msgstr "Под руководством %s"
 msgid "Error reading manifest"
 msgstr "Ошибка чтения манифеста."
 
+msgid "Experimental"
+msgstr "Экспериментальные"
+
+msgid "Experimental levels"
+msgstr "Экспериментальные уровни"
+
 msgid "Failed to parse server response"
 msgstr "Не удалось получить ответ от сервера"
 
@@ -39,6 +60,9 @@ msgstr "Нет свободных мест."
 
 msgid "High (Dark)"
 msgstr "Высокий Тёмный"
+
+msgid "Information"
+msgstr "Информация"
 
 msgid "Level name"
 msgstr "Уровень"
@@ -70,6 +94,9 @@ msgstr "Низкий Тёмный"
 msgid "Missing information. This should not happen!"
 msgstr "Отсутствует информация. Так не должно быть!"
 
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Подробнее на #0080ffffgithub.com/jyaif/ppl-utils#ffffffff."
+
 msgid "More information"
 msgstr "Подробная информация"
 
@@ -99,6 +126,9 @@ msgstr "Обработка фона - это сложно"
 
 msgid "Translations"
 msgstr "Переводчики"
+
+msgid "Unknown level"
+msgstr "Неизвестный уровень"
 
 msgid "Waiting for the server..."
 msgstr "Ожидание сервера..."

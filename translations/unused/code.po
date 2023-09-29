@@ -1,8 +1,23 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffGame.Community#ffffffff.levels.authors = World.Community"
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffGame.Experimental#ffffffff.levels.released = false"
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffGame.Official#ffffffff.levels.author = Game.Dev(\"JF\") && AllowMedals = true"
+
+msgid "About the levels"
+msgstr "AbtLevels.UI"
+
 msgid "All your medals are here."
 msgstr "Sync() returned: \"All your medals are here.\""
+
+msgid "Creating room"
+msgstr "Room.Creating = true"
 
 msgid "Directed by %s"
 msgstr "Game.Director = %s"
@@ -10,8 +25,17 @@ msgstr "Game.Director = %s"
 msgid "Error reading manifest"
 msgstr "Game.Error = \"Failed reading manifest\""
 
+msgid "Experimental"
+msgstr "Game.Experimental"
+
+msgid "Experimental levels"
+msgstr "Game.Experimental.levels"
+
 msgid "High (Dark)"
 msgstr "DarkTheme(INT_MAX);"
+
+msgid "Information"
+msgstr "Level.Info.UI"
 
 msgid "Levels by %s"
 msgstr "Levels[].author == %s"
@@ -22,11 +46,17 @@ msgstr "MultiServer.LostConn = true"
 msgid "Minimal (Dark)"
 msgstr "DarkTheme(INT_MIN);"
 
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "MoreInfo = \"github.com/jyaif/ppl-utils\""
+
 msgid "Online profile"
 msgstr "OnlineProfile();"
 
 msgid "Score: %s"
 msgstr "levelTry.Score = %s"
+
+msgid "Unknown level"
+msgstr "UnknownLevel"
 
 msgid "by %s"
 msgstr "level.author = %s"

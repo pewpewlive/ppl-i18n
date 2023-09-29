@@ -1,14 +1,29 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffComunidade#ffffffff os níveis são construídos por VOCÊ, a comunidade."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffExperimental#ffffffff são níveis que ainda não foram lançados."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffOfficial#ffffffff Níveis que são feitos por mim (JF), e lhe permite ganhar medalhas."
+
 msgid "2 extra characters:"
 msgstr "2 caracteres extras:"
+
+msgid "About the levels"
+msgstr "Sobre os níveis"
 
 msgid "All your medals are here."
 msgstr "Todas as suas medalhas estão aqui."
 
 msgid "Connect to..."
 msgstr "Conectar a..."
+
+msgid "Creating room"
+msgstr "Criando sala"
 
 msgid "Creator"
 msgstr "Criador"
@@ -24,6 +39,12 @@ msgstr "Dirigido por %s"
 
 msgid "Error reading manifest"
 msgstr "Erro ao ler o manifesto"
+
+msgid "Experimental"
+msgstr "Experimental"
+
+msgid "Experimental levels"
+msgstr "Níveis experimentais"
 
 msgid "Failed to parse server response"
 msgstr "Falha ao analisar a resposta do servidor"
@@ -60,6 +81,9 @@ msgstr "Mínimo (escuro)"
 
 msgid "Missing information. This should not happen!"
 msgstr "Informação perdida. Isso não deveria acontecer!"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Mais informações em github.com/jyaif/ppl-utils"
 
 msgid "More information"
 msgstr "Mais informações"

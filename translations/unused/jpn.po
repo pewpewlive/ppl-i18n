@@ -1,8 +1,23 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffコミュニティ#ffffffff , つまり君たちが作ったレベル"
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ff実験的#ffffffff レベル... まだリリースされていないもの"
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffオフィシャル#ffffffff レベルは私 (JF) が作った。 メダルを獲得できる"
+
+msgid "About the levels"
+msgstr "レベルについて"
+
 msgid "All your medals are here."
 msgstr "メダル ジョウホウガ ホゾン サレマシタ"
+
+msgid "Creating room"
+msgstr "ルーム サクセイ"
 
 msgid "Creator"
 msgstr "サクシャ"
@@ -15,6 +30,12 @@ msgstr "カスタムレベル！？"
 
 msgid "Error reading manifest"
 msgstr "マニフェスト読み込み失敗"
+
+msgid "Experimental"
+msgstr "実験的"
+
+msgid "Experimental levels"
+msgstr "実験的なレベル"
 
 msgid "High (Dark)"
 msgstr "キレイ (ダーク)"
@@ -39,6 +60,9 @@ msgstr "マアマア"
 
 msgid "Minimal (Dark)"
 msgstr "ミニマル (ダーク)"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "詳しくはこちら github.com/jyaif/ppl-utils"
 
 msgid "More information"
 msgstr "モット ヨム"

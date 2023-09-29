@@ -1,3 +1,33 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffffff00ffKözösségi#ffffffffffffffff A szinteket TE, a közösség építi."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffffff00ffKísérleti#ffffffffffffff szintek olyan szintek, amelyeket még nem adtak ki."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffffff00Hivatalos#ffffffffffffffffff szinteket én (JF) építettem, és lehetővé teszem az érmek megszerzését."
+
+msgid "About the levels"
+msgstr "A szintekről"
+
+msgid "Creating room"
+msgstr "Szoba készítése"
+
+msgid "Experimental"
+msgstr "Kísérleti"
+
+msgid "Experimental levels"
+msgstr "Kísérleti szintek"
+
+msgid "Information"
+msgstr "Információ"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Több információ: github.com/jyaif/ppl-utils"
+
+msgid "Unknown level"
+msgstr "Ismeretlen szint"
+

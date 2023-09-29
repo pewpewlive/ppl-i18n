@@ -1,17 +1,38 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffCommunity#ffffffff Challenge by ye, Thi pirate"
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffExperimental#ffffffff Challenge is still in testing, just wait."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffOfficial#ffffffff Challenge send by the greatest, Pirate JF, ye can steal some gold."
+
+msgid "About the levels"
+msgstr "What is this ship?"
+
 msgid "All your medals are here."
 msgstr "Ye're bootys here!"
 
 msgid "Career"
 msgstr "Life in the sea"
 
+msgid "Creating room"
+msgstr "Making crew"
+
 msgid "Dark High"
 msgstr "Eye of an owl"
 
 msgid "Error reading manifest"
 msgstr "Something isn't right.."
+
+msgid "Experimental"
+msgstr "Testing by the monkey"
+
+msgid "Experimental levels"
+msgstr "Ship tested by monkey"
 
 msgid "High (Dark)"
 msgstr "Dark vision"
@@ -36,6 +57,9 @@ msgstr "Dark Simpleton"
 
 msgid "Missing information. This should not happen!"
 msgstr "Someone touched me booty! what Dirt' sailor!"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Learn to make one github.com/jyaif/ppl-utils"
 
 msgid "Renderer: %s"
 msgstr "Vision: %s"

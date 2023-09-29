@@ -1,8 +1,20 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffHome-baked#ffffffff levels are cooked up by YOU, the people."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffHalf-baked#ffffffff levels are still in the oven, give it time!"
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffMain-Squeezel#ffffffff levels pumped out by your's truly (JF). P.S. earn ya bling here"
+
 msgid "2 extra characters:"
 msgstr "2-long gamer tag:"
+
+msgid "About the levels"
+msgstr "Level fax"
 
 msgid "All your medals are here."
 msgstr "Shinies all accounted for"
@@ -12,6 +24,9 @@ msgstr "Skill-o-meter"
 
 msgid "Connect to..."
 msgstr "Mooch from..."
+
+msgid "Creating room"
+msgstr "Making gaming hideout"
 
 msgid "Creator"
 msgstr "To blame"
@@ -31,6 +46,12 @@ msgstr "Meme CEO is %s"
 msgid "Error reading manifest"
 msgstr "man how is it even possible to mess up the manifest"
 
+msgid "Experimental"
+msgstr "Half-baked"
+
+msgid "Experimental levels"
+msgstr "Half-baked levels"
+
 msgid "Failed to parse server response"
 msgstr "Server illegible"
 
@@ -39,6 +60,9 @@ msgstr "No room sry"
 
 msgid "High (Dark)"
 msgstr "Dank elite"
+
+msgid "Information"
+msgstr "kool info"
 
 msgid "Level name"
 msgstr "battleground"
@@ -70,6 +94,9 @@ msgstr "Minimal, But darker"
 msgid "Missing information. This should not happen!"
 msgstr "Ayo where's the info"
 
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Learn ya some on github.com/jyaif/ppl-utils"
+
 msgid "More information"
 msgstr "Learn me some"
 
@@ -96,6 +123,9 @@ msgstr "90% of budget is in the background"
 
 msgid "Translations"
 msgstr "Lingo Transfers"
+
+msgid "Unknown level"
+msgstr "missingno level"
 
 msgid "Waiting for the server..."
 msgstr "Flipping light switches, hol up."

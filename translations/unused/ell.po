@@ -1,8 +1,23 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "Eπίπεδα της #ffff00ffΚοινότητας#ffffffff είναι φτιαγμένα από ΕΣΈΝΑ, την κοινότητα."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffΠειραματικά#ffffffff επίπεδα είναι αυτά που δεν έχουν δημοσιευτεί ακόμα."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffΕπίσημα#ffffffff επίπεδα είναι φτιαγμένα από εμένα (JF), και σου δίνουν μετάλλια."
+
+msgid "About the levels"
+msgstr "Σχετικά με τα επίπεδα"
+
 msgid "All your medals are here."
 msgstr "Όλα τα μετάλλια σου είναι εδώ."
+
+msgid "Creating room"
+msgstr "Φτιάχνεται δωμάτιο"
 
 msgid "Directed by %s"
 msgstr "Φτιαγμένο απο τον %s"
@@ -10,8 +25,17 @@ msgstr "Φτιαγμένο απο τον %s"
 msgid "Error reading manifest"
 msgstr "Απέτυχε το διάβασμα του δηλωτικού"
 
+msgid "Experimental"
+msgstr "Πειραματικά"
+
+msgid "Experimental levels"
+msgstr "Πειραματικά επίπεδα"
+
 msgid "High (Dark)"
 msgstr "Υψηλό (Σκοτεινό)"
+
+msgid "Information"
+msgstr "Πληροφορίες"
 
 msgid "Levels by %s"
 msgstr "Επίπεδα απο %s"
@@ -19,11 +43,17 @@ msgstr "Επίπεδα απο %s"
 msgid "Minimal (Dark)"
 msgstr "Ελάχιστο (Σκοτεινό)"
 
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Περισσότερες πληροφορίες στο github.com/jyaif/ppl-utils"
+
 msgid "Online profile"
 msgstr "Online προφίλ"
 
 msgid "Score: %s"
 msgstr "Σκόρ: %s"
+
+msgid "Unknown level"
+msgstr "Άγνωστο επίπεδο"
 
 msgid "by %s"
 msgstr "από %s"

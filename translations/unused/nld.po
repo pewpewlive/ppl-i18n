@@ -1,9 +1,33 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffGemeemschappelijke#ffffffff levels zijn gemaakt door JOU, de gemeenschap."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffExperimentele#ffffffff" levels zijn levels die nog niet zijn uitgekomen."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffOfficiele#ffffffff levels zijn door mij (JF) gemaakt, en staan je toe om mediales te verdienen."
+
+msgid "About the levels"
+msgstr "Over de levels"
+
+msgid "Creating room"
+msgstr "Ruimte aan het creeëren"
+
 msgid "Directed by %s"
 msgstr "Gereggiseerd door %s"
 
 msgid "Error reading manifest"
 msgstr "Gefaald om manifest te lezen"
+
+msgid "Experimental"
+msgstr "Experimenteel"
+
+msgid "Experimental levels"
+msgstr "Experimentele levels"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Meer informatie op github.com/jyaif/ppl-utils"
 

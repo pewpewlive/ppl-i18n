@@ -1,8 +1,20 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffTopluluk#ffffffff haritaları SİZİN toplumun tarafından inşa edilmiştir."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffDeneysel#ffffffff haritalar daha yayınlanmamış haritalardır."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffResmi#ffffffff haritalar benim (JF) tarafından yapılmış olup, sizin madalya kazanmanızı sağlar."
+
 msgid "2 extra characters:"
 msgstr "2 karakter daha:"
+
+msgid "About the levels"
+msgstr "Haritalar hakkında"
 
 msgid "All your medals are here."
 msgstr "Tüm madelyaların burada."
@@ -12,6 +24,9 @@ msgstr "Kariyer"
 
 msgid "Connect to..."
 msgstr "...'ya bağlan"
+
+msgid "Creating room"
+msgstr "Oda kuruluyor"
 
 msgid "Creator"
 msgstr "Kurucu"
@@ -31,6 +46,12 @@ msgstr "%s tarafından üretilmiştir"
 msgid "Error reading manifest"
 msgstr "Manifest okuma hatası"
 
+msgid "Experimental"
+msgstr "Deneysel"
+
+msgid "Experimental levels"
+msgstr "Deneysel haritalar"
+
 msgid "Failed to parse server response"
 msgstr "Sunucu bağlantısında hata oluşmuş"
 
@@ -39,6 +60,9 @@ msgstr "Oyun dolu"
 
 msgid "High (Dark)"
 msgstr "Yüksek (Koyu)"
+
+msgid "Information"
+msgstr "Bilgi"
 
 msgid "Level name"
 msgstr "Harita adı"
@@ -70,6 +94,9 @@ msgstr "Minimal (Koyu)"
 msgid "Missing information. This should not happen!"
 msgstr "Bilgi eksikliği. Bu durum gerçekleşmemeli!"
 
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Daha fazla bilgi için github.com/jyaif/ppl-utils"
+
 msgid "More information"
 msgstr "Daha fazla bilgi"
 
@@ -99,6 +126,9 @@ msgstr "Bu arka plan çok pahalı bir şeydir"
 
 msgid "Translations"
 msgstr "Çeviriler"
+
+msgid "Unknown level"
+msgstr "Bilinmeyen level"
 
 msgid "Waiting for the server..."
 msgstr "Sunucu bekleniyor..."

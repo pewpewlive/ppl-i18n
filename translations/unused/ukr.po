@@ -1,14 +1,29 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "Рівні #ffff00ffСпільноти#ffffffff збудовані ВАМИ - спільнотою."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffЕкспериментальні#ffffffff, рівні що ще не готові і ще не випущені."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffОфіційні#ffffffff рівні збудовані мною (JF), у них можна здобувати медалі."
+
 msgid "2 extra characters:"
 msgstr "2 додаткових героїв"
+
+msgid "About the levels"
+msgstr "Про рівні"
 
 msgid "All your medals are here."
 msgstr "Усі твої медалі тут. Любуйся."
 
 msgid "Career"
 msgstr "Кар'єра"
+
+msgid "Creating room"
+msgstr "Створюється кімната"
 
 msgid "Creator"
 msgstr "Створювач"
@@ -28,6 +43,12 @@ msgstr "Направлено за %s"
 msgid "Error reading manifest"
 msgstr "Помилка читання маніфесту"
 
+msgid "Experimental"
+msgstr "Експериментальні"
+
+msgid "Experimental levels"
+msgstr "Експерементальні рівні"
+
 msgid "Failed to parse server response"
 msgstr "Не вдалося проаналізувати відповідь сервера"
 
@@ -36,6 +57,9 @@ msgstr "Гра завантажена на повну"
 
 msgid "High (Dark)"
 msgstr "Висока (Темне)"
+
+msgid "Information"
+msgstr "Інформація"
 
 msgid "Level name"
 msgstr "Назва рівня"
@@ -64,6 +88,9 @@ msgstr "Мінімальне (Темне)"
 msgid "Missing information. This should not happen!"
 msgstr "Відсутня інформація. Цього не мало статися!"
 
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Більше інформації на github.com/jyaif/ppl-utils"
+
 msgid "More information"
 msgstr "Більше інформації"
 
@@ -81,6 +108,9 @@ msgstr "Вибір рівню"
 
 msgid "The background is expensive to compute"
 msgstr "Фон дорого обчислити"
+
+msgid "Unknown level"
+msgstr "Невідомий рівень"
 
 msgid "Yes!"
 msgstr "Так!"
