@@ -1179,7 +1179,7 @@ msgstr "Ანგარიშის წაშლა"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:74
 msgid "Account deletion"
-msgstr ანგარიშის წაშლა"
+msgstr "ანგარიშის წაშლა"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
 msgid "Account deletion requested."
