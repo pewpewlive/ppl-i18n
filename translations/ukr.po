@@ -124,12 +124,12 @@ msgstr "Грати знову"
 #. Shown when the player failed to achieve an objective
 #: ../client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
-msgstr ""
+msgstr "Провалено"
 
 #. Shown when the player succesfully achieved an objective
 #: ../client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
-msgstr ""
+msgstr "Успіх!"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -167,24 +167,24 @@ msgstr "Не вдалося ввійти!"
 #. version number. For example: "version 2"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
 msgid "version %s"
-msgstr ""
+msgstr "версія %s"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:21
 msgid "released %s"
-msgstr ""
+msgstr "випущено %s"
 
 #. Used if the level does not contain any information.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
 msgid "No information available"
-msgstr ""
+msgstr "Інформація недоступна"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
 msgid "Gold medals percentage: %s"
-msgstr ""
+msgstr "Процент золотих медалей: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:47
 msgid "N/A"
@@ -384,7 +384,7 @@ msgstr "Глобальні списки лідерів"
 #. stars and medals shown are *not* specific to an era.
 #: ../client/application/game/ui/screens/screen_career.cpp:82
 msgid "All time stars and medals"
-msgstr ""
+msgstr "Зірки та медалі за весь час"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Configure keyboard"
@@ -408,7 +408,7 @@ msgstr "Прицілювання мишою %s"
 #. example: "Quick restart: space".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:236
 msgid "Quick Restart: %s"
-msgstr ""
+msgstr "Швидкий Рестарт: %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
@@ -585,7 +585,7 @@ msgstr "Статус Steam"
 #. the floating text message in-game.
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:188
 msgid "Show optional floating text"
-msgstr ""
+msgstr "Показувати плаваючий текст"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -867,7 +867,7 @@ msgstr "Список Помічників"
 #. library that are used in the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:144
 msgid "Licenses"
-msgstr ""
+msgstr "Ліцензії"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:33
 msgid "Settings"
@@ -886,7 +886,7 @@ msgstr "Повноекранний"
 #. Shown in the button used for entering the screen to configure the graphics settings.
 #: ../client/application/game/ui/screens/screen_settings.cpp:100
 msgid "Graphics"
-msgstr ""
+msgstr "Графіка"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:111
 msgid "Controls"
@@ -1206,17 +1206,17 @@ msgstr "Щит: %s"
 #. "Era 2 medals and stars"
 #: ../client/application/game/ui/views/account_view.cpp:347
 msgid "Era %s medals and stars"
-msgstr ""
+msgstr "Медалі та зірки ери %s"
 
 #. Error shown when downloading some piece of data failed.
 #: ../client/application/game/ui/views/account_view.cpp:490
 msgid "Download error"
-msgstr ""
+msgstr "Помилка завантаження"
 
 #. Shown when the downloading of some piece of data is in progress.
 #: ../client/application/game/ui/views/account_view.cpp:492
 msgid "Downloading..."
-msgstr ""
+msgstr "Завантаження..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
@@ -1251,17 +1251,17 @@ msgstr "Дата реєстрації: %s"
 #. Shown in the button that allows users to sort by date
 #: ../client/application/game/ui/views/community_level_selector.cpp:145
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 #. Shown in the button that allows users to sort by stars
 #: ../client/application/game/ui/views/community_level_selector.cpp:149
 msgid "Stars"
-msgstr ""
+msgstr "Зірки"
 
 #. Shown in the button that allows users to sort by difficutly
 #: ../client/application/game/ui/views/community_level_selector.cpp:153
 msgid "Difficulty"
-msgstr ""
+msgstr "Складність"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:336
 msgid "IN REVIEW"
