@@ -66,7 +66,7 @@ msgstr "Tamsiai mėlyna"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr "Galima nauja versija %s"
+msgstr "Galima nauja versija %ks"
 
 #: ../client/application/game/game.cpp:178
 msgid "Quick pause"
@@ -74,7 +74,7 @@ msgstr "Greita pauzė"
 
 #: ../client/application/game/game.cpp:184
 msgid "Quick pause %s"
-msgstr "Greitoji pauzė %s"
+msgstr "Greitoji pauzė %s%S %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:27
 msgid "Continue"
@@ -212,7 +212,7 @@ msgstr "Port:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Prisijunkite prie kito kambario per internetą #ff0000ff(eksperimentinis)"
+msgstr "Prisijunkite prie kito kambario per internetą(eksperimentinis)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
