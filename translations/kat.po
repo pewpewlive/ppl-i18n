@@ -408,7 +408,7 @@ msgstr "მაუსის მიზანი %s"
 #. example: "Quick restart: space".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:236
 msgid "Quick Restart: %s"
-msgstr "წრაფი გადატვირთვა"
+msgstr "წრაფი გადატვირთვა %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
