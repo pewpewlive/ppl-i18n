@@ -24,7 +24,11 @@ jobs:
       - name: Generate new README.md
         run: python ${{ github.workspace }}/generate_readme.py
 
+      - name: Check if commit is needed
+        run: echo "COMMIT_NEEDED=$(python ${{ github.workspace }}/.github/workflows/readme_check.py ${{ github.workspace }})" >> $GITHUB_ENV
+
       - name: Commit changes
+        if: ${{ env.COMMIT_NEEDED == 'true' }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"

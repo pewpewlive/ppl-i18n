@@ -69,7 +69,7 @@ for lang in langs:
 
 # Write the README
 readme_file = "README.md"
-with open(readme_file, 'w', encoding="utf8", newline='\n') as f:
+with open(readme_file, 'w', encoding="utf8", newline='\r\n') as f:
     f.write(header)
 
     results = []
