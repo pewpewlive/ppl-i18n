@@ -2,6 +2,7 @@
   {
     "english_name": "Afrikaans",
     "code": "afr",
+    "emoji_flag": "🇿🇦",
     "localized_name": "Afrikaans",
     "translators": [
       {
@@ -12,12 +13,14 @@
   {
     "english_name": "Dutch",
     "code": "nld",
+    "emoji_flag": "🇳🇱",
     "localized_name": "Dutch",
     "translators": []
   },
   {
     "english_name": "German",
     "code": "deu",
+    "emoji_flag": "🇩🇪",
     "localized_name": "Deutsch",
     "translators": [
       {
@@ -34,6 +37,7 @@
   {
     "english_name": "Greek",
     "code": "ell",
+    "emoji_flag": "🇬🇷",
     "localized_name": "Ελληνικά",
     "translators": [
       {
@@ -44,6 +48,7 @@
   {
     "english_name": "French",
     "code": "fra",
+    "emoji_flag": "🇫🇷",
     "localized_name": "Français",
     "translators": [
       {
@@ -57,6 +62,7 @@
   {
     "english_name": "Croatian",
     "code": "hrv",
+    "emoji_flag": "🇭🇷",
     "localized_name": "Hrvatski",
     "translators": [
       {
@@ -67,6 +73,7 @@
   {
     "english_name": "Hungarian",
     "code": "hun",
+    "emoji_flag": "🇭🇺",
     "localized_name": "Magyar",
     "translators": [
       {
@@ -77,6 +84,7 @@
   {
     "english_name": "Indonesian",
     "code": "ind",
+    "emoji_flag": "🇮🇩",
     "localized_name": "Indonesia",
     "translators": [
       {
@@ -93,6 +101,7 @@
   {
     "english_name": "Italian",
     "code": "ita",
+    "emoji_flag": "🇮🇹",
     "localized_name": "Italiano",
     "translators": [
       {
@@ -103,12 +112,14 @@
   {
     "english_name": "Korean",
     "code": "kor",
+    "emoji_flag": "🇰🇷",
     "localized_name": "Korean",
     "translators": []
   },
   {
     "english_name": "Lithuanian",
     "code": "lit",
+    "emoji_flag": "🇱🇹",
     "localized_name": "Lietuviškai",
     "translators": [
       {
@@ -122,12 +133,14 @@
   {
     "english_name": "Malay",
     "code": "msa",
+    "emoji_flag": "🇲🇾",
     "localized_name": "Malay",
     "translators": []
   },
   {
     "english_name": "Polish",
     "code": "pol",
+    "emoji_flag": "🇵🇱",
     "localized_name": "Polski",
     "translators": [
       {
@@ -141,6 +154,7 @@
   {
     "english_name": "Portuguese",
     "code": "por",
+    "emoji_flag": "🇧🇷",
     "localized_name": "Português",
     "translators": [
       {
@@ -154,6 +168,7 @@
   {
     "english_name": "Romanian",
     "code": "ron",
+    "emoji_flag": "🇷🇴",
     "localized_name": "Română",
     "translators": [
       {
@@ -164,6 +179,7 @@
   {
     "english_name": "Russian",
     "code": "rus",
+    "emoji_flag": "🇷🇺",
     "localized_name": "Русский",
     "translators": [
       {
@@ -174,6 +190,7 @@
   {
     "english_name": "Spanish",
     "code": "spa",
+    "emoji_flag": "🇪🇸",
     "localized_name": "Español",
     "translators": [
       {
@@ -184,6 +201,7 @@
   {
     "english_name": "Tagalog",
     "code": "tgl",
+    "emoji_flag": "🇵🇭",
     "localized_name": "Tagalog",
     "translators": [
       {
@@ -194,12 +212,14 @@
   {
     "english_name": "Thai",
     "code": "tha",
+    "emoji_flag": "🇹🇭",
     "localized_name": "Thai",
     "translators": []
   },
   {
     "english_name": "Turkish",
     "code": "tur",
+    "emoji_flag": "🇹🇷",
     "localized_name": "Türkçe",
     "translators": [
       {
@@ -213,6 +233,7 @@
   {
     "english_name": "Ukrainian",
     "code": "ukr",
+    "emoji_flag": "🇺🇦",
     "localized_name": "Українська",
     "translators": [
       {
@@ -232,6 +253,7 @@
   {
     "english_name": "Georgian",
     "code": "kat",
+    "emoji_flag": "🇬🇪",
     "localized_name": "ქართული",
     "translators": [
       {
@@ -242,6 +264,7 @@
   {
     "english_name": "Japanese",
     "code": "jpn",
+    "emoji_flag": "🇯🇵",
     "localized_name": "日本語",
     "translators": [
       {
@@ -255,6 +278,7 @@
   {
     "english_name": "Simplified Chinese",
     "code": "chs",
+    "emoji_flag": "🇨🇳",
     "localized_name": "中文 (简体)",
     "translators": [
       {
@@ -265,12 +289,14 @@
   {
     "english_name": "Traditional Chinese",
     "code": "cht",
+    "emoji_flag": "🇨🇳",
     "localized_name": "Traditional Chinese",
     "translators": []
   },
   {
     "english_name": "Code",
     "code": "code",
+    "emoji_flag": "💻",
     "localized_name": "#80ff80ffCode",
     "translators": [
       {
@@ -281,6 +307,7 @@
   {
     "english_name": "Meme-nglish",
     "code": "meme",
+    "emoji_flag": "🐸",
     "localized_name": "#ff80aaffMeme-nglish",
     "translators": [
       {
@@ -294,6 +321,7 @@
   {
     "english_name": "Pirate Speak",
     "code": "pirate",
+    "emoji_flag": "🏴‍☠️",
     "localized_name": "#ffff88ffPirate Speak",
     "translators": [
       {
