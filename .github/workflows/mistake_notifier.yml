@@ -67,7 +67,7 @@ jobs:
                     message += `+ msgid "${mistake.id}"\n`;
                     message += `- msgstr "${mistake.str}"\n`;
                     break;
-                  case 'invalid_color':
+                  case 'invalid_colors':
                     message += '!!! Possible misuse of colors\n';
                     message += `+ msgid "${mistake.id}"\n`;
                     message += `- msgstr "${mistake.str}"\n`;
