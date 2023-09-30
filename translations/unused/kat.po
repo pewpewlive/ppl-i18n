@@ -1,8 +1,23 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffCommunity#ffffffff ლეველები აშენებულია თქვენ მიერ, საზოგადოების მიერ."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffExperimental#ffffffff ლეველები არის ლეველები, რომლებიც ჯერ არ გამოქვეყნებულა."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffOfficial#ffffffff ლეველეები შექმნილია ჩემს მიერ (JF) და გაძლევთ საშუალებას მიიღოთ მედლები."
+
+msgid "About the levels"
+msgstr "ლეველების შესახებ"
+
 msgid "All your medals are here."
 msgstr "ყველა თქვენი მედალი აქ არის."
+
+msgid "Creating room"
+msgstr "ოთახის შექმნა"
 
 msgid "Directed by %s"
 msgstr "Რეჟისორია %s"
@@ -10,6 +25,21 @@ msgstr "Რეჟისორია %s"
 msgid "Error reading manifest"
 msgstr "შეცდომა მანიფესტის წაკითხვისას"
 
+msgid "Experimental"
+msgstr "ექსპერიმენტული"
+
+msgid "Experimental levels"
+msgstr "ექსპერიმენტული ლეველები"
+
+msgid "Information"
+msgstr "ინფორმაცია"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "მეტი ინფორმაცია github.com/jyaif/ppl-utils"
+
 msgid "Score: %s"
 msgstr "ქულა: %s"
+
+msgid "Unknown level"
+msgstr "უცნობი ლეველი"
 

@@ -1,14 +1,29 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffCommunity#ffffffff level yang dibuat oleh KAMU, komunitasnya."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffExperimental#ffffffff level yang belum dirilis."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffOfficial#ffffffff level yang dibuat oleh saya (JF), dan bisa mendapatkan medali."
+
 msgid "2 extra characters:"
 msgstr "2 karakter tambahan"
+
+msgid "About the levels"
+msgstr "Tentang level ini"
 
 msgid "All your medals are here."
 msgstr "Semua medali Anda disini."
 
 msgid "Career"
 msgstr "Karir"
+
+msgid "Creating room"
+msgstr "Buat ruang"
 
 msgid "Creator"
 msgstr "Pencipta"
@@ -25,6 +40,12 @@ msgstr "Dipimpin oleh %s"
 msgid "Error reading manifest"
 msgstr "Kesalahan membaca manifes"
 
+msgid "Experimental"
+msgstr "Percobaan"
+
+msgid "Experimental levels"
+msgstr "Level Percobaan"
+
 msgid "Failed to parse server response"
 msgstr "Gagal mengurai respons server"
 
@@ -33,6 +54,9 @@ msgstr "Game penuh"
 
 msgid "High (Dark)"
 msgstr "Tinggi (Gelap)"
+
+msgid "Information"
+msgstr "Informasi"
 
 msgid "Level name"
 msgstr "Nama level"
@@ -61,6 +85,9 @@ msgstr "Minimal (Gelap)"
 msgid "Missing information. This should not happen!"
 msgstr "Informasi hilang. ini seharusnya tidak terjadi!"
 
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Lebih banyak info di github.com/jyaif/ppl-utils"
+
 msgid "More information"
 msgstr "Lebih banyak info"
 
@@ -78,6 +105,9 @@ msgstr "Pilih level"
 
 msgid "The background is expensive to compute"
 msgstr "Latar belakang lama untuk dihitung"
+
+msgid "Unknown level"
+msgstr "Level tidak diketahui"
 
 msgid "Yes!"
 msgstr "Ya!"

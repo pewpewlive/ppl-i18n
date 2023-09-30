@@ -1,11 +1,26 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "Nivelele de #ffff00ffcomunitate#ffffffff sunt făcute de VOI, cominitatea"
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "Nivelele #ffff00ffexperimentale#ffffffff sunt nivele care nu au fost lansate încă"
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "Nivelele #ffff00ffofficiale#ffffffff sunt făcute de mine (JF), și te lasă să primești medalii"
+
+msgid "About the levels"
+msgstr "Despre nivele"
+
 msgid "All your medals are here."
 msgstr "Toate medaliile tale sunt aici."
 
 msgid "Career"
 msgstr "Carieră"
+
+msgid "Creating room"
+msgstr "Se crează camera"
 
 msgid "Dark High"
 msgstr "Mare Întunecat"
@@ -15,6 +30,12 @@ msgstr "Creat de %s"
 
 msgid "Error reading manifest"
 msgstr "Eroare citind manifest-ul"
+
+msgid "Experimental"
+msgstr "Experimental"
+
+msgid "Experimental levels"
+msgstr "Nivele experimentale"
 
 msgid "Failed to parse server response"
 msgstr "Nu s-a putut folosi răspunsul serverului"
@@ -45,6 +66,9 @@ msgstr "Minimal (Întunecat)"
 
 msgid "Missing information. This should not happen!"
 msgstr "Informație lipsă. Nu ar trebui să se întâmple asta!"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Mai multe informații la github.com/jyaif/ppl-utils"
 
 msgid "Online profile"
 msgstr "Profilul online"

@@ -1,14 +1,29 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "Malalaro ang mga level na ginawa ng komunidad sa #ffff00ff\"pangkomunidad\"#ffffffff."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "Kung ikaw ay interesado sa mga level na kasalukuyang ginagawa ng komunidad, pwede mong bisitahin ang #ffff00ff\"experimental\"#ffffffff."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "Makikita sa #ffff00ff\"opisyal\"#ffffffff ang mga level na ginawa ng developer (ni JF), kung saan ka maaaring makakamit ng mga medalya."
+
 msgid "2 extra characters:"
 msgstr "2 dagdag na character:"
+
+msgid "About the levels"
+msgstr "Tungkol sa mga level"
 
 msgid "All your medals are here."
 msgstr "Nandito na ang lahat ng iyong medalya."
 
 msgid "Career"
 msgstr "Mga Nakamit"
+
+msgid "Creating room"
+msgstr "Naghahanap ng kalaro"
 
 msgid "Creator"
 msgstr "May gawa"
@@ -28,11 +43,20 @@ msgstr "Sa pangunguna ni %s"
 msgid "Error reading manifest"
 msgstr "Hindi mabasa ang manifest"
 
+msgid "Experimental"
+msgstr "Experimental"
+
+msgid "Experimental levels"
+msgstr "Mga level na experimental"
+
 msgid "Failed to parse server response"
 msgstr "Hindi makuha ang tugon ng server"
 
 msgid "High (Dark)"
 msgstr "Maaliwalas"
+
+msgid "Information"
+msgstr "Impormasyon"
 
 msgid "Level name"
 msgstr "Pangalan ng level"
@@ -60,6 +84,9 @@ msgstr "Madilim"
 
 msgid "Missing information. This should not happen!"
 msgstr "May nawawala. Hindi pwedeng mangyari 'to!"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "(Iba pang impormasyon sa #0080ffffgithub.com/jyaif/ppl-utils#ffffffff)"
 
 msgid "More information"
 msgstr "Iba pang impormasyon"

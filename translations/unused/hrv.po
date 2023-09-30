@@ -1,8 +1,20 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "Levele #ffff00ffzajednice#ffffffff ste napravili VI, zajednica."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffEksperimentalni#ffffffff leveli su leveli koji još nisu pušteni u javnost."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffSlužbene#ffffffff levele sam napravio ja (JF), omogućuju vam osvajanje medalja."
+
 msgid "2 extra characters:"
 msgstr "2 dodatne znamenke:"
+
+msgid "About the levels"
+msgstr "O levelima"
 
 msgid "All your medals are here."
 msgstr "Sve vaše medalje su ovdje."
@@ -12,6 +24,9 @@ msgstr "Karijera"
 
 msgid "Connect to..."
 msgstr "Spoji se na..."
+
+msgid "Creating room"
+msgstr "Izrađivanje sobe"
 
 msgid "Creator"
 msgstr "Kreator"
@@ -31,6 +46,12 @@ msgstr "Režirao %s"
 msgid "Error reading manifest"
 msgstr "Greška čitanja manifesta"
 
+msgid "Experimental"
+msgstr "Eksperimentalno"
+
+msgid "Experimental levels"
+msgstr "Eksperimentalni leveli"
+
 msgid "Failed to parse server response"
 msgstr "Neuspješna rasčlaniranje odgovora servera."
 
@@ -39,6 +60,9 @@ msgstr "Igra je puna"
 
 msgid "High (Dark)"
 msgstr "Visoko (Tamno)"
+
+msgid "Information"
+msgstr "Informacije"
 
 msgid "Level name"
 msgstr "Ime levela"
@@ -69,6 +93,9 @@ msgstr "Minimalno (Tamno)"
 
 msgid "Missing information. This should not happen!"
 msgstr "Nedostaje informacija. Ovo se ne bih trebalo dogoditi!"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Više informacija na github.com/jyaif/ppl-utils"
 
 msgid "More information"
 msgstr "Više informacija"

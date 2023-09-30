@@ -1,8 +1,20 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr "#ffff00ffGemeinschaftslevels#ffffffff werden von euch, der Community erstellt."
+
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr "#ffff00ffExperimental-Levels#ffffffff sind Levels, die noch nicht veröffentlicht wurden."
+
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr "#ffff00ffOffizielle#ffffffff Levels werden von mir (JF) erstellt, und mit diesen Levels kannst du Medaillen gewinnen."
+
 msgid "2 extra characters:"
 msgstr "2 zusätzliche Buchstaben:"
+
+msgid "About the levels"
+msgstr "Über die Levels"
 
 msgid "All your medals are here."
 msgstr "Alle deine Medaillen findest du hier"
@@ -12,6 +24,9 @@ msgstr "Karrier"
 
 msgid "Connect to..."
 msgstr "Verbindung zu..."
+
+msgid "Creating room"
+msgstr "Partie wird erstellt..."
 
 msgid "Creator"
 msgstr "Ersteller"
@@ -30,6 +45,12 @@ msgstr "Von %s"
 
 msgid "Error reading manifest"
 msgstr "Fehler während des Lesens des Manifests"
+
+msgid "Experimental"
+msgstr "Experimental"
+
+msgid "Experimental levels"
+msgstr "Experimentale-Levels"
 
 msgid "Failed to parse server response"
 msgstr "Das Parsen hat nicht funktioniert"
@@ -69,6 +90,9 @@ msgstr "Minimal (Dunkel)"
 
 msgid "Missing information. This should not happen!"
 msgstr "Es fehlt Informationen. Es sollte nicht passieren!"
+
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "Mehr Info on github.com/jyaif/ppl-utils"
 
 msgid "More information"
 msgstr "Mehr Informationen"
