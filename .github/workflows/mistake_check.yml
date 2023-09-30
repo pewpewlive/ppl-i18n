@@ -45,8 +45,8 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             let fs = require('fs');
-            const mistakes = fs.readFileSync('./mistakes.txt').toString().split(" /// ");
+            const mistakes = JSON.parse(fs.readFileSync('./mistakes.txt').toString());
 
-            if (mistakes[0] !== "0")
-              if (mistakes.map(mistake => mistake.split(" // ")[0]).includes("e"))
+            if (mistakes.length !== 0)
+              if (mistakes.map(mistake => mistake.condition).includes("invalid_s"))
                   core.setFailed("Mistakes found! Check comment for more details");

@@ -49,40 +49,37 @@ jobs:
           script: |
             let fs = require('fs');
             const pr_number = Number(fs.readFileSync('./number.txt'));
-            const mistakes = fs.readFileSync('./mistakes.txt').toString().split(" /// ");
+            const mistakes = JSON.parse(fs.readFileSync('./mistakes.txt').toString());
 
             let message = '';
 
-            if (mistakes[0] !== '0' && mistakes[0] !== '0\n') {
+            if (mistakes.length !== 0) {
               message += 'Thank you for contributing!\n\n';
               message += 'To keep translations error-free, we check them for mistakes. The files you changed seem to contain some, no worries though, they can be fixed! ';
               message += `See helpful info below:\n\`\`\`diff\n`;
               message += '===================================================================\n';
               for (mistake of mistakes) {
-                mistake_info = mistake.split(' // ');
-                if (mistake_info[0] === '0' || mistake_info[0] === '\n0') break;
+                message += `@@ Line: ${mistake.line} @@\n`;
 
-                message += `@@ Line: ${mistake_info[2]} @@\n`;
-
-                switch (mistake_info[0]) {
-                  case 'e':
+                switch (mistake.condition) {
+                  case 'invalid_s':
                     message += '--- Non-Matching use of %s\n';
-                    message += `+ msgid "${mistake_info[3]}"\n`;
-                    message += `- msgstr "${mistake_info[4]}"\n`;
+                    message += `+ msgid "${mistake.id}"\n`;
+                    message += `- msgstr "${mistake.str}"\n`;
                     break;
-                  case 'w':
+                  case 'invalid_color':
                     message += '!!! Possible misuse of colors\n';
-                    message += `+ msgid "${mistake_info[3]}"\n`;
-                    message += `- msgstr "${mistake_info[4]}"\n`;
+                    message += `+ msgid "${mistake.id}"\n`;
+                    message += `- msgstr "${mistake.str}"\n`;
                     break;
                 }
                 
-                if (mistakes.indexOf(mistake) !== mistakes.length - 2) {
+                if (mistakes.indexOf(mistake) !== mistakes.length - 1) {
                   message += '***************\n';
                 }
               }
 
-              message += '===================================================================';
+              message += `===================================================================\n\`\`\``;
             }
 
             if (message !== "") {
