@@ -2,7 +2,7 @@
   {
     "english_name": "Afrikaans",
     "code": "afr",
-    "emodji_flag": "🇿🇦",
+    "emoji_flag": "🇿🇦",
     "localized_name": "Afrikaans",
     "translators": [
       {
@@ -13,14 +13,14 @@
   {
     "english_name": "Dutch",
     "code": "nld",
-    "emodji_flag": "🇳🇱",
+    "emoji_flag": "🇳🇱",
     "localized_name": "Dutch",
     "translators": []
   },
   {
     "english_name": "German",
     "code": "deu",
-    "emodji_flag": "🇩🇪",
+    "emoji_flag": "🇩🇪",
     "localized_name": "Deutsch",
     "translators": [
       {
@@ -37,7 +37,7 @@
   {
     "english_name": "Greek",
     "code": "ell",
-    "emodji_flag": "🇬🇷",
+    "emoji_flag": "🇬🇷",
     "localized_name": "Ελληνικά",
     "translators": [
       {
@@ -48,7 +48,7 @@
   {
     "english_name": "French",
     "code": "fra",
-    "emodji_flag": "🇫🇷",
+    "emoji_flag": "🇫🇷",
     "localized_name": "Français",
     "translators": [
       {
@@ -62,7 +62,7 @@
   {
     "english_name": "Croatian",
     "code": "hrv",
-    "emodji_flag": "🇭🇷",
+    "emoji_flag": "🇭🇷",
     "localized_name": "Hrvatski",
     "translators": [
       {
@@ -73,7 +73,7 @@
   {
     "english_name": "Hungarian",
     "code": "hun",
-    "emodji_flag": "🇭🇺",
+    "emoji_flag": "🇭🇺",
     "localized_name": "Magyar",
     "translators": [
       {
@@ -84,7 +84,7 @@
   {
     "english_name": "Indonesian",
     "code": "ind",
-    "emodji_flag": "🇮🇩",
+    "emoji_flag": "🇮🇩",
     "localized_name": "Indonesia",
     "translators": [
       {
@@ -101,7 +101,7 @@
   {
     "english_name": "Italian",
     "code": "ita",
-    "emodji_flag": "🇮🇹",
+    "emoji_flag": "🇮🇹",
     "localized_name": "Italiano",
     "translators": [
       {
@@ -112,14 +112,14 @@
   {
     "english_name": "Korean",
     "code": "kor",
-    "emodji_flag": "🇰🇷",
+    "emoji_flag": "🇰🇷",
     "localized_name": "Korean",
     "translators": []
   },
   {
     "english_name": "Lithuanian",
     "code": "lit",
-    "emodji_flag": "🇱🇹",
+    "emoji_flag": "🇱🇹",
     "localized_name": "Lietuviškai",
     "translators": [
       {
@@ -133,14 +133,14 @@
   {
     "english_name": "Malay",
     "code": "msa",
-    "emodji_flag": "🇲🇾",
+    "emoji_flag": "🇲🇾",
     "localized_name": "Malay",
     "translators": []
   },
   {
     "english_name": "Polish",
     "code": "pol",
-    "emodji_flag": "🇵🇱",
+    "emoji_flag": "🇵🇱",
     "localized_name": "Polski",
     "translators": [
       {
@@ -154,7 +154,7 @@
   {
     "english_name": "Portuguese",
     "code": "por",
-    "emodji_flag": "🇵🇱",
+    "emoji_flag": "🇧🇷",
     "localized_name": "Português",
     "translators": [
       {
@@ -168,7 +168,7 @@
   {
     "english_name": "Romanian",
     "code": "ron",
-    "emodji_flag": "🇷🇴",
+    "emoji_flag": "🇷🇴",
     "localized_name": "Română",
     "translators": [
       {
@@ -179,7 +179,7 @@
   {
     "english_name": "Russian",
     "code": "rus",
-    "emodji_flag": "🏳️",
+    "emoji_flag": "🇷🇺",
     "localized_name": "Русский",
     "translators": [
       {
@@ -190,7 +190,7 @@
   {
     "english_name": "Spanish",
     "code": "spa",
-    "emodji_flag": "🇪🇸",
+    "emoji_flag": "🇪🇸",
     "localized_name": "Español",
     "translators": [
       {
@@ -201,7 +201,7 @@
   {
     "english_name": "Tagalog",
     "code": "tgl",
-    "emodji_flag": "🇵🇭",
+    "emoji_flag": "🇵🇭",
     "localized_name": "Tagalog",
     "translators": [
       {
@@ -212,14 +212,14 @@
   {
     "english_name": "Thai",
     "code": "tha",
-    "emodji_flag": "🇹🇭",
+    "emoji_flag": "🇹🇭",
     "localized_name": "Thai",
     "translators": []
   },
   {
     "english_name": "Turkish",
     "code": "tur",
-    "emodji_flag": "🇹🇷",
+    "emoji_flag": "🇹🇷",
     "localized_name": "Türkçe",
     "translators": [
       {
@@ -233,7 +233,7 @@
   {
     "english_name": "Ukrainian",
     "code": "ukr",
-    "emodji_flag": "🇺🇦",
+    "emoji_flag": "🇺🇦",
     "localized_name": "Українська",
     "translators": [
       {
@@ -253,7 +253,7 @@
   {
     "english_name": "Georgian",
     "code": "kat",
-    "emodji_flag": "🇬🇪",
+    "emoji_flag": "🇬🇪",
     "localized_name": "ქართული",
     "translators": [
       {
@@ -264,7 +264,7 @@
   {
     "english_name": "Japanese",
     "code": "jpn",
-    "emodji_flag": "🇯🇵",
+    "emoji_flag": "🇯🇵",
     "localized_name": "日本語",
     "translators": [
       {
@@ -278,7 +278,7 @@
   {
     "english_name": "Simplified Chinese",
     "code": "chs",
-    "emodji_flag": "🇨🇳",
+    "emoji_flag": "🇨🇳",
     "localized_name": "中文 (简体)",
     "translators": [
       {
@@ -289,14 +289,14 @@
   {
     "english_name": "Traditional Chinese",
     "code": "cht",
-    "emodji_flag": "🇨🇳",
+    "emoji_flag": "🇨🇳",
     "localized_name": "Traditional Chinese",
     "translators": []
   },
   {
     "english_name": "Code",
     "code": "code",
-    "emodji_flag": "💻",
+    "emoji_flag": "💻",
     "localized_name": "#80ff80ffCode",
     "translators": [
       {
@@ -307,7 +307,7 @@
   {
     "english_name": "Meme-nglish",
     "code": "meme",
-    "emodji_flag": "🐸",
+    "emoji_flag": "🐸",
     "localized_name": "#ff80aaffMeme-nglish",
     "translators": [
       {
@@ -321,7 +321,7 @@
   {
     "english_name": "Pirate Speak",
     "code": "pirate",
-    "emodji_flag": "🏴‍☠️",
+    "emoji_flag": "🏴‍☠️",
     "localized_name": "#ffff88ffPirate Speak",
     "translators": [
       {
