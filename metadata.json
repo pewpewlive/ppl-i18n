@@ -251,6 +251,17 @@
     ]
   },
   {
+    "english_name": "Uzbek",
+    "code": "uzb",
+    "emoji_flag": "🇺🇿",
+    "localized_name": "O'zbek",
+    "translators": [
+      {
+        "name": "#0000ffffAli2008uzb"
+      }
+    ]
+  }
+  {
     "english_name": "Georgian",
     "code": "kat",
     "emoji_flag": "🇬🇪",
