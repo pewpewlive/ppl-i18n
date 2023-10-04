@@ -45,6 +45,7 @@ the feasibility.
 * 🇫🇷 [French](/translations/fra.po) (100% complete! 🎉)
 * 🇱🇹 [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * 🇷🇺 [Russian](/translations/rus.po) (100% complete! 🎉)
+* 🇺🇿 [Uzbek](/translations/uzb.po) (100% complete! 🎉)
 * 🇬🇪 [Georgian](/translations/kat.po) (100% complete! 🎉)
 * 💻 [Code](/translations/code.po) (100% complete! 🎉)
-> Report generated on Sep 30 2023 19:40:31 UTC
+> Report generated on Oct 04 2023 19:09:23 UTC
