@@ -124,12 +124,12 @@ msgstr "Zagraj ponownie"
 #. Shown when the player failed to achieve an objective
 #: ../client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
-msgstr ""
+msgstr "Nie udało się"
 
 #. Shown when the player succesfully achieved an objective
 #: ../client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
-msgstr ""
+msgstr "Powodzenie!"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -167,7 +167,7 @@ msgstr "Logowanie nie powiodło się"
 #. version number. For example: "version 2"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
 msgid "version %s"
-msgstr ""
+msgstr "wersja %s"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
@@ -178,7 +178,7 @@ msgstr ""
 #. Used if the level does not contain any information.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
 msgid "No information available"
-msgstr ""
+msgstr "Brak dostępnych informacji"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
@@ -585,7 +585,7 @@ msgstr "Status Steam"
 #. the floating text message in-game.
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:188
 msgid "Show optional floating text"
-msgstr ""
+msgstr "Pokaż opcjonalny tekst pływający"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -867,7 +867,7 @@ msgstr "Napisy końcowe"
 #. library that are used in the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:144
 msgid "Licenses"
-msgstr ""
+msgstr "Licencje"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:33
 msgid "Settings"
@@ -886,7 +886,7 @@ msgstr "Pełny ekran"
 #. Shown in the button used for entering the screen to configure the graphics settings.
 #: ../client/application/game/ui/screens/screen_settings.cpp:100
 msgid "Graphics"
-msgstr ""
+msgstr "Grafika"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:111
 msgid "Controls"
@@ -1206,17 +1206,17 @@ msgstr "Tarcze: %s"
 #. "Era 2 medals and stars"
 #: ../client/application/game/ui/views/account_view.cpp:347
 msgid "Era %s medals and stars"
-msgstr ""
+msgstr "Medale i gwiazdki z epoki %s"
 
 #. Error shown when downloading some piece of data failed.
 #: ../client/application/game/ui/views/account_view.cpp:490
 msgid "Download error"
-msgstr ""
+msgstr "Błąd pobierania"
 
 #. Shown when the downloading of some piece of data is in progress.
 #: ../client/application/game/ui/views/account_view.cpp:492
 msgid "Downloading..."
-msgstr ""
+msgstr "Pobieranie..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
@@ -1251,17 +1251,17 @@ msgstr "Data Dołączenia: %s"
 #. Shown in the button that allows users to sort by date
 #: ../client/application/game/ui/views/community_level_selector.cpp:145
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #. Shown in the button that allows users to sort by stars
 #: ../client/application/game/ui/views/community_level_selector.cpp:149
 msgid "Stars"
-msgstr ""
+msgstr "Gwiazdy"
 
 #. Shown in the button that allows users to sort by difficutly
 #: ../client/application/game/ui/views/community_level_selector.cpp:153
 msgid "Difficulty"
-msgstr ""
+msgstr "Trudność"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:336
 msgid "IN REVIEW"
@@ -1321,7 +1321,7 @@ msgstr "Ilość punktów: %s"
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:479
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Pointonium: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
@@ -1397,25 +1397,25 @@ msgstr "Nowy złoty medal"
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:307
 msgid "Ouch"
-msgstr ""
+msgstr "Ała!"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:310
 msgid "Yikes"
-msgstr ""
+msgstr "Piękne.."
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:313
 msgid "Ow"
-msgstr ""
+msgstr "Au!"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:316
 msgid "Ugh"
-msgstr ""
+msgstr "Uhh"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:9
 msgid "Minimal"
