@@ -173,7 +173,7 @@ msgstr "wersja %s"
 #. a date. For example: "released 01/02/03"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:21
 msgid "released %s"
-msgstr ""
+msgstr "wydany w %s"
 
 #. Used if the level does not contain any information.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
@@ -184,7 +184,7 @@ msgstr "Brak dostępnych informacji"
 #. for a given level.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
 msgid "Gold medals percentage: %s"
-msgstr ""
+msgstr "Procent złotych medali: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:47
 msgid "N/A"
@@ -384,7 +384,7 @@ msgstr "Światowe tabele wyników"
 #. stars and medals shown are *not* specific to an era.
 #: ../client/application/game/ui/screens/screen_career.cpp:82
 msgid "All time stars and medals"
-msgstr ""
+msgstr "Gwiazdy i medale wszechczasów"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Configure keyboard"
@@ -408,7 +408,7 @@ msgstr "Celowanie myszką %s"
 #. example: "Quick restart: space".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:236
 msgid "Quick Restart: %s"
-msgstr ""
+msgstr "Szybki restart: %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
