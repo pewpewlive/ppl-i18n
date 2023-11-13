@@ -38,12 +38,12 @@ msgstr "Lila"
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "Rosa"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
