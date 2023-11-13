@@ -39,13 +39,13 @@ the feasibility.
 * 🇹🇷 [Turkish](/translations/tur.po) (93% complete; 21 remaining)
 * 🇨🇳 [Simplified Chinese](/translations/chs.po) (93% complete; 22 remaining)
 * 🇺🇦 [Ukrainian](/translations/ukr.po) (97% complete; 9 remaining)
-* 🇵🇱 [Polish](/translations/pol.po) (98% complete; 4 remaining)
 * 🇬🇷 [Greek](/translations/ell.po) (100% complete! 🎉)
 * 🇫🇷 [French](/translations/fra.po) (100% complete! 🎉)
 * 🇮🇹 [Italian](/translations/ita.po) (100% complete! 🎉)
 * 🇱🇹 [Lithuanian](/translations/lit.po) (100% complete! 🎉)
+* 🇵🇱 [Polish](/translations/pol.po) (100% complete! 🎉)
 * 🇷🇺 [Russian](/translations/rus.po) (100% complete! 🎉)
 * 🇺🇿 [Uzbek](/translations/uzb.po) (100% complete! 🎉)
 * 🇬🇪 [Georgian](/translations/kat.po) (100% complete! 🎉)
 * 💻 [Code](/translations/code.po) (100% complete! 🎉)
-> Report generated on Oct 16 2023 01:13:14 UTC
+> Report generated on Nov 13 2023 01:15:01 UTC
