@@ -124,12 +124,12 @@ msgstr "Játssz újra"
 #. Shown when the player failed to achieve an objective
 #: ../client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
-msgstr ""
+msgstr "Sikertelen"
 
 #. Shown when the player succesfully achieved an objective
 #: ../client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
-msgstr ""
+msgstr "Siker!"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -167,24 +167,24 @@ msgstr "Nem sikerült bejelentkezni!"
 #. version number. For example: "version 2"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
 msgid "version %s"
-msgstr ""
+msgstr "verzió %s"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:21
 msgid "released %s"
-msgstr ""
+msgstr "megjelent %s"
 
 #. Used if the level does not contain any information.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
 msgid "No information available"
-msgstr ""
+msgstr "Nincs elérhető információ"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
 msgid "Gold medals percentage: %s"
-msgstr ""
+msgstr "Aranyérmek százalékos aránya: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:47
 msgid "N/A"
@@ -384,7 +384,7 @@ msgstr "Globális ranglisták"
 #. stars and medals shown are *not* specific to an era.
 #: ../client/application/game/ui/screens/screen_career.cpp:82
 msgid "All time stars and medals"
-msgstr ""
+msgstr "Az összes medál és csillag"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Configure keyboard"
@@ -408,7 +408,7 @@ msgstr "Egér célzása %s"
 #. example: "Quick restart: space".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:236
 msgid "Quick Restart: %s"
-msgstr ""
+msgstr "Gyors újraindítás"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
@@ -585,7 +585,7 @@ msgstr "Steam státusz"
 #. the floating text message in-game.
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:188
 msgid "Show optional floating text"
-msgstr ""
+msgstr "Opcionális lebegő szöveg megjelenítése"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -601,7 +601,7 @@ msgstr "UI betét: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:112
 msgid "Refresh"
-msgstr "Frissítés"
+msgstr "Lefrissítés"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
@@ -695,7 +695,7 @@ msgstr "2 további karakter (opcionális)"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
 msgid "Password (optional):"
-msgstr "Jelszó (nem kötelező"
+msgstr "Jelszó (nem kötelező)"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
 msgid "Any level"
@@ -731,19 +731,19 @@ msgstr "Vizualizálás"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "1p"
-msgstr "1p"
+msgstr "1j"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "2p"
-msgstr "2p"
+msgstr "2j"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "3p"
-msgstr "3p"
+msgstr "3j"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "4p"
-msgstr "4p"
+msgstr "4j"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Africa"
@@ -807,7 +807,7 @@ msgstr "Hivatalos"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
 msgid "Community"
-msgstr "Közösség"
+msgstr "Közösségi"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:34
 msgid "World record: %s"
@@ -815,7 +815,7 @@ msgstr "Világrekord: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:38
 msgid "Local best: %s"
-msgstr "Helyi legjobb: %s"
+msgstr "Saját legjobb: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:50
 msgid "Loading..."
@@ -867,7 +867,7 @@ msgstr "Kreditek"
 #. library that are used in the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:144
 msgid "Licenses"
-msgstr ""
+msgstr "Lincencek"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:33
 msgid "Settings"
@@ -886,7 +886,7 @@ msgstr "Teljes képernyő"
 #. Shown in the button used for entering the screen to configure the graphics settings.
 #: ../client/application/game/ui/screens/screen_settings.cpp:100
 msgid "Graphics"
-msgstr ""
+msgstr "Grafika"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:111
 msgid "Controls"
@@ -962,7 +962,7 @@ msgstr "Csak a színeket változtasd meg! %s"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
 msgid "Username color change"
-msgstr "Felhasználónév színének megváltoztatása"
+msgstr "A Felhasználónév színének megváltoztatása"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
@@ -1108,7 +1108,7 @@ msgstr "Fiók regisztrálása"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Username"
-msgstr "Felhasnálónév"
+msgstr "Felhasználónév"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
@@ -1206,17 +1206,17 @@ msgstr "Pajzs: %s"
 #. "Era 2 medals and stars"
 #: ../client/application/game/ui/views/account_view.cpp:347
 msgid "Era %s medals and stars"
-msgstr ""
+msgstr "A korszaki %s medáljaid és csillagaid"
 
 #. Error shown when downloading some piece of data failed.
 #: ../client/application/game/ui/views/account_view.cpp:490
 msgid "Download error"
-msgstr ""
+msgstr "A letöltés sikertelen"
 
 #. Shown when the downloading of some piece of data is in progress.
 #: ../client/application/game/ui/views/account_view.cpp:492
 msgid "Downloading..."
-msgstr ""
+msgstr "Letöltés..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
@@ -1251,17 +1251,17 @@ msgstr "Csatlakozás dátuma: %s"
 #. Shown in the button that allows users to sort by date
 #: ../client/application/game/ui/views/community_level_selector.cpp:145
 msgid "Date"
-msgstr ""
+msgstr "Dátum"
 
 #. Shown in the button that allows users to sort by stars
 #: ../client/application/game/ui/views/community_level_selector.cpp:149
 msgid "Stars"
-msgstr ""
+msgstr "Csillagok"
 
 #. Shown in the button that allows users to sort by difficutly
 #: ../client/application/game/ui/views/community_level_selector.cpp:153
 msgid "Difficulty"
-msgstr ""
+msgstr "Nehézség"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:336
 msgid "IN REVIEW"
@@ -1343,11 +1343,11 @@ msgstr "A Zöld jó. A Piros rossz."
 
 #: ../client/application/game/levels/game_levels.cpp:102
 msgid "Never trust a six-sided polygon"
-msgstr "Soha ne bízz egy hatoldalú sokszögben"
+msgstr "Soha ne bízz meg egy hatoldalú sokszögben"
 
 #: ../client/application/game/levels/game_levels.cpp:103
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Nem kapcsolódik a \"Super Hexagon\""
+msgstr "Nem kapcsolódik a \"Super Hexagonhoz\""
 
 #: ../client/application/game/levels/game_levels.cpp:104
 msgid "Choose your own difficulty"
@@ -1397,25 +1397,25 @@ msgstr "Új arany medál"
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:307
 msgid "Ouch"
-msgstr ""
+msgstr "Au"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:310
 msgid "Yikes"
-msgstr ""
+msgstr "jaj"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:313
 msgid "Ow"
-msgstr ""
+msgstr "oh"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:316
 msgid "Ugh"
-msgstr ""
+msgstr "Uh"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:9
 msgid "Minimal"
