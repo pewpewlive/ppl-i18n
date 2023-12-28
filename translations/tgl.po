@@ -167,7 +167,7 @@ msgstr "Hindi makapag-log in!"
 #. version number. For example: "version 2"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
 msgid "version %s"
-msgstr "ika &s (na) bersyon"
+msgstr "ika %s (na) bersyon"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
