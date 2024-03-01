@@ -13,32 +13,32 @@ msgstr "OK"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:54
 msgid "Red"
-msgstr "赤"
+msgstr "赤い"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Cyan"
-msgstr ""
+msgstr "シアン"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:58
 msgid "Lime"
-msgstr ""
+msgstr "ライム"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:60
 msgid "Lime Green"
-msgstr ""
+msgstr "ライムグリーン"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Purple"
-msgstr ""
+msgstr "パープル"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Pink"
-msgstr ""
+msgstr "ピンク"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
@@ -48,17 +48,17 @@ msgstr "オレンジ"
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "White"
-msgstr ""
+msgstr "白い"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Gray"
-msgstr ""
+msgstr "グレー"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:72
 msgid "Dark Blue"
-msgstr ""
+msgstr "濃紺"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -167,7 +167,7 @@ msgstr "サインイン 失敗されました"
 #. version number. For example: "version 2"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
 msgid "version %s"
-msgstr ""
+msgstr "バージョン %s"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
@@ -515,7 +515,7 @@ msgstr ""
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
 msgid "Posting comment"
-msgstr ""
+msgstr "コメントをポスト中"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:387
@@ -591,13 +591,13 @@ msgstr ""
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:262
 msgid "UI Scale: %s"
-msgstr ""
+msgstr "UIスケール: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:269
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "UIインセット: %s"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:112
 msgid "Refresh"
@@ -867,7 +867,7 @@ msgstr "クレジット"
 #. library that are used in the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:144
 msgid "Licenses"
-msgstr ""
+msgstr "ライセンス"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:33
 msgid "Settings"
@@ -886,7 +886,7 @@ msgstr "フルスクリーン"
 #. Shown in the button used for entering the screen to configure the graphics settings.
 #: ../client/application/game/ui/screens/screen_settings.cpp:100
 msgid "Graphics"
-msgstr ""
+msgstr "グラフィックス"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:111
 msgid "Controls"
@@ -902,7 +902,7 @@ msgstr "言語"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:143
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:169
 msgid "Start tutorial"
@@ -1163,7 +1163,7 @@ msgstr "Email イッチ シマセン"
 #. nickname, or delete your account.
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
 msgid "Manage Account"
-msgstr ""
+msgstr "アカウント設定"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
 msgid "Synchronize"
@@ -1216,7 +1216,7 @@ msgstr ""
 #. Shown when the downloading of some piece of data is in progress.
 #: ../client/application/game/ui/views/account_view.cpp:492
 msgid "Downloading..."
-msgstr ""
+msgstr "ダウンロード中..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
@@ -1261,7 +1261,7 @@ msgstr ""
 #. Shown in the button that allows users to sort by difficutly
 #: ../client/application/game/ui/views/community_level_selector.cpp:153
 msgid "Difficulty"
-msgstr ""
+msgstr "難しさ"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:336
 msgid "IN REVIEW"
@@ -1315,7 +1315,7 @@ msgstr "メイチュウリツ: %s"
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:475
 msgid "Total score: %s"
-msgstr ""
+msgstr "合計スコア: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
@@ -1397,25 +1397,25 @@ msgstr "ゴールド メダル カクトク"
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:307
 msgid "Ouch"
-msgstr ""
+msgstr "痛い"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:310
 msgid "Yikes"
-msgstr ""
+msgstr "キャー"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:313
 msgid "Ow"
-msgstr ""
+msgstr "痛っ"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:316
 msgid "Ugh"
-msgstr ""
+msgstr "ギャー"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:9
 msgid "Minimal"
