@@ -20,6 +20,7 @@ If you want to add support for a new language, create a GitHub Issue so that we 
 the feasibility.
 ## Status
 * 🇰🇷 [Korean](/translations/kor.po) (0% complete; 328 remaining)
+* 🇰🇿 [Kazakh](/translations/kaz.po) (0% complete; 328 remaining)
 * 🇲🇾 [Malay](/translations/msa.po) (0% complete; 328 remaining)
 * 🇹🇭 [Thai](/translations/tha.po) (0% complete; 328 remaining)
 * 🇨🇳 [Traditional Chinese](/translations/cht.po) (10% complete; 293 remaining)
@@ -48,4 +49,4 @@ the feasibility.
 * 🇺🇿 [Uzbek](/translations/uzb.po) (100% complete! 🎉)
 * 🇬🇪 [Georgian](/translations/kat.po) (100% complete! 🎉)
 * 💻 [Code](/translations/code.po) (100% complete! 🎉)
-> Report generated on Mar 04 2024 01:11:15 UTC
+> Report generated on Mar 12 2024 14:40:28 UTC
