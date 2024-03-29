@@ -120,8 +120,12 @@
     "english_name": "Kazakh",
     "code": "kaz",
     "emoji_flag": "🇰🇿",
-    "localized_name": "Kazakh",
-    "translators": []
+    "localized_name": "Қазақша",
+    "translators": [
+      {
+        "name": "#0000ffffAli#ffffffff2008#00ff00ffuzb"
+      }
+    ]
   },
   {
     "english_name": "Lithuanian",
