@@ -906,7 +906,7 @@ msgstr "Interfeys"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:169
 msgid "Start tutorial"
-msgstr "Boshlang'ich "dars"."
+msgstr "Boshlang'ich \"dars\"."
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:181
 msgid "Launch intro"
