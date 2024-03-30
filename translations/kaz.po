@@ -906,7 +906,7 @@ msgstr "Интерфейс"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:169
 msgid "Start tutorial"
-msgstr "Бастапқы "сабақ"."
+msgstr "Бастапқы \"сабақ\"."
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:181
 msgid "Launch intro"
