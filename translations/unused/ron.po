@@ -43,6 +43,9 @@ msgstr "Nu s-a putut folosi răspunsul serverului"
 msgid "High (Dark)"
 msgstr "Mare (Întunecat)"
 
+msgid "Joysticks"
+msgstr "Joystick-uri"
+
 msgid "Levels by %s"
 msgstr "Nivele de %s"
 
@@ -81,6 +84,21 @@ msgstr "Scor: %s"
 
 msgid "The background is expensive to compute"
 msgstr "Fundalul este scump de arătat"
+
+msgid "Ultra low 16x"
+msgstr "Foarte mic 16x"
+
+msgid "Ultra low 2x"
+msgstr "Foarte mic 2x"
+
+msgid "Ultra low 32x"
+msgstr "Foarte mic 32x"
+
+msgid "Ultra low 4x"
+msgstr "Foarte mic 4x"
+
+msgid "Ultra low 8x"
+msgstr "Foarte mic 8x"
 
 msgid "by %s"
 msgstr "de %s"

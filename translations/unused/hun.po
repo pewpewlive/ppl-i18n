@@ -25,8 +25,29 @@ msgstr "Kísérleti szintek"
 msgid "Information"
 msgstr "Információ"
 
+msgid "Joysticks"
+msgstr "Joystickok"
+
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "Több információ: github.com/jyaif/ppl-utils"
+
+msgid "UI colors"
+msgstr "UI színek"
+
+msgid "Ultra low 16x"
+msgstr "Ultra alacsony 16x"
+
+msgid "Ultra low 2x"
+msgstr "Ultra alacsony 2x"
+
+msgid "Ultra low 32x"
+msgstr "Ultra alacsony 32x"
+
+msgid "Ultra low 4x"
+msgstr "Ultra alacsony 4x"
+
+msgid "Ultra low 8x"
+msgstr "Ultra alacsony 8x"
 
 msgid "Unknown level"
 msgstr "Ismeretlen szint"

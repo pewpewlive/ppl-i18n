@@ -58,6 +58,9 @@ msgstr "Tinggi (Gelap)"
 msgid "Information"
 msgstr "Informasi"
 
+msgid "Joysticks"
+msgstr "Pengendali"
+
 msgid "Level name"
 msgstr "Nama level"
 
@@ -105,6 +108,24 @@ msgstr "Pilih level"
 
 msgid "The background is expensive to compute"
 msgstr "Latar belakang lama untuk dihitung"
+
+msgid "UI colors"
+msgstr "Warna UI"
+
+msgid "Ultra low 16x"
+msgstr "Ultra rendah 16x"
+
+msgid "Ultra low 2x"
+msgstr "Ultra rendah 2x"
+
+msgid "Ultra low 32x"
+msgstr "Ultra rendah 32x"
+
+msgid "Ultra low 4x"
+msgstr "Ultra rendah 4x"
+
+msgid "Ultra low 8x"
+msgstr "Ultra rendah 8x"
 
 msgid "Unknown level"
 msgstr "Level tidak diketahui"

@@ -37,6 +37,9 @@ msgstr "Υψηλό (Σκοτεινό)"
 msgid "Information"
 msgstr "Πληροφορίες"
 
+msgid "Joysticks"
+msgstr "Λεβιές"
+
 msgid "Levels by %s"
 msgstr "Επίπεδα απο %s"
 
@@ -51,6 +54,24 @@ msgstr "Online προφίλ"
 
 msgid "Score: %s"
 msgstr "Σκόρ: %s"
+
+msgid "UI colors"
+msgstr "UI χρώματα"
+
+msgid "Ultra low 16x"
+msgstr "Υπέρ χαμηλό 16x"
+
+msgid "Ultra low 2x"
+msgstr "Υπερ χαμηλό 2x"
+
+msgid "Ultra low 32x"
+msgstr "Υπέρ χαμηλό 32x"
+
+msgid "Ultra low 4x"
+msgstr "Υπέρ χαμηλό 4x"
+
+msgid "Ultra low 8x"
+msgstr "Υπέρ χαμηλό 8x"
 
 msgid "Unknown level"
 msgstr "Άγνωστο επίπεδο"

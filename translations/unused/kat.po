@@ -34,11 +34,32 @@ msgstr "ექსპერიმენტული ლეველები"
 msgid "Information"
 msgstr "ინფორმაცია"
 
+msgid "Joysticks"
+msgstr "ჯოისტიკები"
+
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "მეტი ინფორმაცია github.com/jyaif/ppl-utils"
 
 msgid "Score: %s"
 msgstr "ქულა: %s"
+
+msgid "UI colors"
+msgstr "UI ფერები"
+
+msgid "Ultra low 16x"
+msgstr "ულტრა დაბალი 16x"
+
+msgid "Ultra low 2x"
+msgstr "ულტრა დაბალი 2x"
+
+msgid "Ultra low 32x"
+msgstr "ულტრა დაბალი 32x"
+
+msgid "Ultra low 4x"
+msgstr "ულტრა დაბალი 4x"
+
+msgid "Ultra low 8x"
+msgstr "ულტრა დაბალი 8x"
 
 msgid "Unknown level"
 msgstr "უცნობი ლეველი"

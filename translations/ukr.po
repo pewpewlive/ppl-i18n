@@ -1,96 +1,293 @@
-#: ../client/application/ui/ui_helpers.cpp:67
-msgid "on"
-msgstr "вмикн."
+#. The template for the description of score-related achievements.
+#. `%1$s` will be replaced by the name of the level.
+#. `%2$s` will be replaced by the score to reach.
+#. For example:
+#. "In Eskiv, score 10000 or more"
+#: ../client/application/account/achievements_description.cpp:16
+msgid "In %1$s, score %2$s or more."
+msgstr ""
 
-#: ../client/application/ui/ui_helpers.cpp:68
-msgid "off"
-msgstr "вимкн."
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: ../client/application/game/entities/player/ship.cpp:329
+msgid "Ouch"
+msgstr ""
 
-#: ../client/application/ui/keyboard_view.cpp:107
-msgid "ok"
-msgstr "прийняти"
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: ../client/application/game/entities/player/ship.cpp:332
+msgid "Yikes"
+msgstr ""
 
-#. The color "red"
-#: ../client/application/ui/ui_skin.cpp:54
-msgid "Red"
-msgstr "Червоний"
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: ../client/application/game/entities/player/ship.cpp:335
+msgid "Ow"
+msgstr ""
 
-#. The color "cyan"
-#: ../client/application/ui/ui_skin.cpp:56
-msgid "Cyan"
-msgstr "Блакитний"
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: ../client/application/game/entities/player/ship.cpp:338
+msgid "Ugh"
+msgstr ""
 
-#. The color "lime"
-#: ../client/application/ui/ui_skin.cpp:58
-msgid "Lime"
-msgstr "Лаймовий"
-
-#. The color "lime green"
-#: ../client/application/ui/ui_skin.cpp:60
-msgid "Lime Green"
-msgstr "Зелений Лайм"
-
-#. The color "purple"
-#: ../client/application/ui/ui_skin.cpp:62
-msgid "Purple"
-msgstr "Фіолетовий"
-
-#. The color "pink"
-#: ../client/application/ui/ui_skin.cpp:64
-msgid "Pink"
-msgstr "Рожевий"
-
-#. The color "orange"
-#: ../client/application/ui/ui_skin.cpp:66
-msgid "Orange"
-msgstr "Помаранчевий"
-
-#. The color "white"
-#: ../client/application/ui/ui_skin.cpp:68
-msgid "White"
-msgstr "Білий"
-
-#. The color "gray"
-#: ../client/application/ui/ui_skin.cpp:70
-msgid "Gray"
-msgstr "Сірий"
-
-#. The color "dark blue"
-#: ../client/application/ui/ui_skin.cpp:72
-msgid "Dark Blue"
-msgstr "Темно Синій"
-
-#. Shown in a notification when a new version of the game is
-#. available.
-#. The %s is replaced with a version number, for example:
-#. "Update available (0.4.122)"
-#: ../client/application/utils/version.cpp:72
-msgid "Update available %s"
-msgstr "Доступна нова версія гри %s"
-
-#: ../client/application/game/game.cpp:178
+#: ../client/application/game/game.cpp:163
 msgid "Quick pause"
 msgstr "Швидка пауза"
 
-#: ../client/application/game/game.cpp:184
+#: ../client/application/game/game.cpp:169
 msgid "Quick pause %s"
 msgstr "Швидка пауза %s"
 
-#: ../client/application/game/ui/pause_ui.cpp:27
-msgid "Continue"
-msgstr "Продовжити"
+#. Short description of the "asteroids" game mode
+#: ../client/application/game/levels/game_levels.cpp:91
+msgid "Euclidean space is overrated"
+msgstr "Евклідовий простір переоцінений"
 
-#: ../client/application/game/ui/pause_ui.cpp:44
-msgid "Pause"
-msgstr "Пауза"
+#. Short description of the "hexagon" game mode
+#: ../client/application/game/levels/game_levels.cpp:109
+msgid "Never trust a six-sided polygon"
+msgstr "Усі шестикутники - зло"
 
-#: ../client/application/game/ui/pause_ui.cpp:61
-msgid "Restart"
-msgstr "Перезапуск"
+#. Short description of the "hexagon" game mode
+#: ../client/application/game/levels/game_levels.cpp:111
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "\"Super Hexagon\" тут нідочого"
 
-#: ../client/application/game/ui/pause_ui.cpp:79
-msgid "Exit"
-msgstr "Вийти"
+#. Short description of the "hexagon" game mode
+#: ../client/application/game/levels/game_levels.cpp:113
+msgid "Choose your own difficulty"
+msgstr "Виберіть власну складність"
+
+#. Short description of the "eskiv" game mode
+#: ../client/application/game/levels/game_levels.cpp:130
+msgid "Dodge everything and you'll be OK"
+msgstr "Ухиляйтесь від усього, і все буде добре"
+
+#. Short description of the "eskiv" game mode
+#: ../client/application/game/levels/game_levels.cpp:132
+msgid "aka Dodge This"
+msgstr "ніби Dodge This"
+
+#. Short description of the "eskiv" game mode
+#: ../client/application/game/levels/game_levels.cpp:134
+msgid "Green good. Red bad."
+msgstr "Зелені добрі. Червоні поганці"
+
+#. Short description of the "fury" game mode
+#: ../client/application/game/levels/game_levels.cpp:152
+msgid "Just 32 seconds of skills"
+msgstr "Просто 32 секунди вправності... і болю"
+
+#. Short description of the "fury" game mode
+#: ../client/application/game/levels/game_levels.cpp:154
+msgid "My favorite mode"
+msgstr "Мій улюблений режим"
+
+#. Short description of the "fury" game mode
+#: ../client/application/game/levels/game_levels.cpp:156
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Виживи 32 секунди з цим простим трюком"
+
+#. Short description of the "fury" game mode
+#: ../client/application/game/levels/game_levels.cpp:158
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\"Цей рівень жарт, так?\" - тестер"
+
+#. Short description of the "waves" game mode
+#: ../client/application/game/levels/game_levels.cpp:176
+msgid "RIP GW3:Dimensions"
+msgstr "Спочивай з миром GW3:Dimensions"
+
+#. Short description of the "waves" game mode
+#: ../client/application/game/levels/game_levels.cpp:178
+msgid "Previously known as Assault"
+msgstr "Раніше відомий як Assault"
+
+#. Short description of the "pandemonium" game mode
+#: ../client/application/game/levels/game_levels.cpp:214
+msgid "True bullet hell"
+msgstr ""
+
+#. Short description of the "pandemonium" game mode
+#: ../client/application/game/levels/game_levels.cpp:216
+msgid "With great firepower comes great dodging skills"
+msgstr ""
+
+#. Short description of the symbiosis game mode
+#: ../client/application/game/levels/game_levels.cpp:250
+msgid "2 brain hemispheres, 2 hands, 2 ships."
+msgstr ""
+
+#. Shown in a notification when a new score medal is earned.
+#: ../client/application/game/levels/medals.cpp:14
+msgid "New bronze medal"
+msgstr "Нова бронзова медаль"
+
+#. Shown in a notification when a new speedrun medal is earned.
+#: ../client/application/game/levels/medals.cpp:16
+msgid "New bronze speedrun medal"
+msgstr ""
+
+#. Shown in a notification when a new score medal is earned.
+#: ../client/application/game/levels/medals.cpp:19
+msgid "New silver medal"
+msgstr "Нова срібна медаль"
+
+#. Shown in a notification when a new speedrun medal is earned.
+#: ../client/application/game/levels/medals.cpp:21
+msgid "New silver speedrun medal"
+msgstr ""
+
+#. Shown in a notification when a new score medal is earned.
+#: ../client/application/game/levels/medals.cpp:24
+msgid "New gold medal"
+msgstr "Нова золота медаль"
+
+#. Shown in a notification when a new speedrun medal is earned.
+#: ../client/application/game/levels/medals.cpp:26
+msgid "New gold speedrun medal"
+msgstr ""
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:143
+msgid "You've been signed out."
+msgstr "Ви вийшли."
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:182
+msgid "Failed to download backup data"
+msgstr "Не вдалося завантажити резервні дані"
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:270
+msgid "Failed to download achievements"
+msgstr "Не вдалося завантажити досягнення"
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:314
+msgid "Failed to upload achievements"
+msgstr "Не вдалося завантажити досягнення"
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:343
+msgid "Failed to download unlocked items"
+msgstr ""
+
+#. Shown in a notification when you improve your best score in a given level.
+#. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
+#: ../client/application/game/player_data/player_data_manager.cpp:49
+msgid "New personal best! %s ⇨ %s"
+msgstr "Новий персональний рекорд! %s ⇨ %s"
+
+#. Shown in a notification when you improve your best speed run in a given
+#. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
+#: ../client/application/game/player_data/player_data_manager.cpp:52
+msgid "Improved speed run! %s ⇨ %s"
+msgstr "Покращено час! %s ⇨ %s"
+
+#. String shown in a notification when an achievement was unlocked.
+#. %s is replaced with the name of the achievement.
+#: ../client/application/game/player_data/player_data_manager.cpp:802
+msgid "Achievement Unlocked: %s"
+msgstr "Досягнення Розблоковано: %s"
+
+#. Describes the rarity level of items. Rarity level of 0.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:287
+msgid "Common"
+msgstr ""
+
+#. Describes the rarity level of items. Rarity level of 1.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:289
+msgid "Uncommon"
+msgstr ""
+
+#. Describes the rarity level of items.  Rarity level of 2.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:291
+msgid "Rare"
+msgstr ""
+
+#. Describes the rarity level of items.  Rarity level of 3.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:293
+msgid "Epic"
+msgstr ""
+
+#. Describes the rarity level of items.  Rarity level of 4.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:295
+msgid "Legendary"
+msgstr ""
+
+#. Describes the rarity level of items.  Rarity level of 5.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:297
+msgid "Mythical"
+msgstr ""
+
+#. Describes the rarity level of items.  Rarity level of 6.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:299
+msgid "Transcendent"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:26
+msgid "Ship"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:28
+msgid "Trail"
+msgstr "Хвостик"
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:30
+msgid "Bullet"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:32
+msgid "Mace"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:34
+msgid "Laser"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:36
+msgid "Joystick"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:38
+msgid "UI Color"
+msgstr ""
+
+#: ../client/application/game/state/game_network_message_parser.cpp:57
+msgid "%s left the game"
+msgstr "%s покинув гру :("
+
+#: ../client/application/game/state/game_state.cpp:489
+msgid "N/A"
+msgstr "Н/З"
+
+#. Shown when the game is displaying stats. Concerns the player's shooting
+#. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
+#: ../client/application/game/state/game_state.cpp:502
+msgid "Accuracy: %s"
+msgstr "Точність: %s"
+
+#. Shown when the game is displaying stats. The %s is replaced with a number,
+#. for example "Total score: 43423"
+#: ../client/application/game/state/game_state.cpp:505
+msgid "Total score: %s"
+msgstr "Загальні бали: %s"
+
+#. Shown when the game is displaying stats. The %s is replaced with a number,
+#. for example "Pointonium: 34444"
+#: ../client/application/game/state/game_state.cpp:509
+msgid "Pointonium: %s"
+msgstr "Поінтоніум: %s"
+
+#. Shown when the game is displaying stats. The %s is replaced with a
+#. duration, for example: "Duration: 1m43s"
+#: ../client/application/game/state/game_state.cpp:513
+msgid "Duration: %s"
+msgstr "Тривалість: %s"
 
 #: ../client/application/game/ui/game_over_ui.cpp:10
 msgid "Game Over"
@@ -121,6 +318,10 @@ msgstr ""
 msgid "Play again"
 msgstr "Грати знову"
 
+#: ../client/application/game/ui/game_over_ui.cpp:50
+msgid "Continue"
+msgstr "Продовжити"
+
 #. Shown when the player failed to achieve an objective
 #: ../client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
@@ -131,116 +332,310 @@ msgstr "Провалено"
 msgid "Success!"
 msgstr "Успіх!"
 
-#: ../client/application/game/ui/shared_strings.cpp:7
-msgid "Failed to parse response"
-msgstr "Не вдалося зчитати відповідь"
+#: ../client/application/game/ui/game_over_ui.cpp:113
+msgid "Exit"
+msgstr "Вийти"
 
-#: ../client/application/game/ui/shared_strings.cpp:11
-msgid "Failed to contact server"
-msgstr "Не вдалося зв’язатися з сервером"
+#: ../client/application/game/ui/pause_ui.cpp:45
+msgid "Pause"
+msgstr "Пауза"
 
-#: ../client/application/game/ui/shared_strings.cpp:15
-msgid "Official levels"
-msgstr "Офіційні рівні"
+#: ../client/application/game/ui/pause_ui.cpp:62
+msgid "Restart"
+msgstr "Перезапуск"
 
-#: ../client/application/game/ui/shared_strings.cpp:19
-msgid "Community levels"
-msgstr "Рівні спільноти"
+#: ../client/application/game/ui/screens/accounts/screen_account_url_request.cpp:77
+msgid "Loading..."
+msgstr "Завантаження..."
 
-#: ../client/application/game/ui/shared_strings.cpp:23
-msgid "play count: %s"
-msgstr "ігор зіграно %s"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
+msgid "Change colors"
+msgstr "Змінити кольори"
 
-#: ../client/application/game/ui/shared_strings.cpp:27
-msgid "time played: %s"
-msgstr "часу зіграно: %s"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
+msgid "Old username:"
+msgstr "Старий нікнейм:"
 
-#: ../client/application/game/ui/shared_strings.cpp:31
-msgid "Casual"
-msgstr "Не змагальний"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
+msgid "New username:"
+msgstr "Новий нікнейм:"
 
-#: ../client/application/game/ui/shared_strings.cpp:35
-msgid "Failed to sign-in!"
-msgstr "Не вдалося ввійти!"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
+msgid "Change"
+msgstr "Змінити"
 
-#. Used for showing the version of a level. The %s will be replaced with a
-#. version number. For example: "version 2"
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
-msgid "version %s"
-msgstr "версія %s"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
+msgid "Only change colors! %s"
+msgstr "Змінюйте лише кольори! %s"
 
-#. Used for showing the release date of a level. The %s will be replaced with
-#. a date. For example: "released 01/02/03"
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:21
-msgid "released %s"
-msgstr "випущено %s"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
+msgid "Username color change"
+msgstr "Змінити колір нікнейма"
 
-#. Used if the level does not contain any information.
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
-msgid "No information available"
-msgstr "Інформація недоступна"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
+msgid "Username change succesfull"
+msgstr "Нікнейм змінено"
 
-#. Used for showing the percentage of people who managed to get a gold medal
-#. for a given level.
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
-msgid "Gold medals percentage: %s"
-msgstr "Процент золотих медалей: %s"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
+msgid "Failed to update username"
+msgstr "Не вдалося змінити нікнейм"
 
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:47
-msgid "N/A"
-msgstr "Н/З"
+#. Shown in a header, in the screen that allows you to manage your PewPew
+#. Live account. In this screen you can for example change the colors of your
+#. nickname, or delete your account.
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
+msgid "Manage Account"
+msgstr "Управляти аккаунтом"
 
-#: ../client/application/game/ui/screens/screen_download_level.cpp:34
-msgid "Downloading level..."
-msgstr "Завантаження рівня..."
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
+msgid "Synchronize"
+msgstr "Синхронізувати"
 
-#: ../client/application/game/ui/screens/screen_download_level.cpp:62
-msgid "Failed to download level."
-msgstr "Не вдалося завантажити рівень."
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
+msgid "Sign out"
+msgstr "Вийти з аккаунту"
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
-msgid "Connect to server"
-msgstr "Приєднатися до сервера"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:62
+msgid "Delete account"
+msgstr "Видалити Акаунт"
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
-msgid "IP:"
-msgstr ""
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:74
+msgid "Account deletion"
+msgstr "Видалення акаунту"
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
-msgid "Port:"
-msgstr "Порт:"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
+msgid "Account deletion requested."
+msgstr "Запит на видалення акаунту відправлено."
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
-msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Приєднатися до іншої кімнати через інтернет #ff0000ff(експериментально)"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:83
+msgid "An email asking for confirmation was sent."
+msgstr "На пошту прийшов запит про підтвердження."
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
-msgid "Connect"
-msgstr "Приєднатися"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:88
+msgid "Failed to request account deletion"
+msgstr "Не вдалося відправити запит на видалення акаунту"
 
-#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
-msgid "Enter password"
-msgstr "Введіть пароль"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:109
+msgid "Help"
+msgstr "Допомога"
 
-#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
-msgid "Join"
-msgstr "Приєднатися"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
+msgid "Email is invalid!"
+msgstr "Пошта недійсна!"
 
-#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:42
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
+msgid "Too short. Minimum %s characters."
+msgstr "Занадто коротко. Мінімум %s символів"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:53
+msgid "Too long. Maximum %s characters."
+msgstr "Занадто довго. Максимум %s символів."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
+msgid "Register account"
+msgstr "Реєстрація аккаунту"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+msgid "Username"
+msgstr "Нікнейм"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+msgid "Password"
+msgstr "Пароль"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+msgid "Confirm password"
+msgstr "Перевірити пароль"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+msgid "Email"
+msgstr "Пошта"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
+msgid "Confirm email"
+msgstr "Перевірити пошту"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:117
+msgid "Register"
+msgstr "Реєстрація"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
+msgid "Registering"
+msgstr "Реєстрація"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
+msgid "Registration successful."
+msgstr "Реєстрація вдала."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
+msgid "Please check your emails!"
+msgstr "Будь ласка, перевірте вашу електронну пошту!"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
+msgid "Failed to register"
+msgstr "Не вдалося зареєструватися"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
+msgid "Username (you can put colors in!):"
+msgstr "Нікнейм (Ви можете розфарбувати його!):"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Password:"
 msgstr "Пароль:"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
-msgid "Configure joysticks"
-msgstr "Конфігурація джойстиків"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
+msgid "Confirm password:"
+msgstr "Перевірити пароль:"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
-msgid "Swap"
-msgstr "Поміняти місцями"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
+msgid "Email:"
+msgstr "Пошта:"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:117
-msgid "Reset"
-msgstr "Скинути"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
+msgid "Confirm email:"
+msgstr "Перевірити пошту:"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
+msgid "Passwords do not match!"
+msgstr "Паролі не співпадають!"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
+msgid "Emails do not match!"
+msgstr "Пошти не співпадають!"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
+msgid "Account"
+msgstr "Аккаунт"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
+msgid "Not signed in"
+msgstr "Ви не ввійшли"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
+msgid "Create an account to set your name and sync your data"
+msgstr "Створити аккаунт щоб ввести ім'я та синхронізувати ваші дані"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
+msgid "Sign in"
+msgstr "Ввійти"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
+msgid "Privacy Policy"
+msgstr "Політика Конфіденційності"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
+msgid "You need to be signed-in to upload scores"
+msgstr "Ви маєте ввійти, щоб завантажувати рекорди"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
+msgid "You need to be signed-in to play online"
+msgstr "Ви маєте ввійти, щоб грати онлайн"
+
+#. Error message shown if to the player when they are trying to view
+#. comments while not signed-in.
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
+msgid "You need to be signed-in to view comments"
+msgstr "Ви маєте ввійти, щоб переглянути коментарі"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
+msgid "Your account"
+msgstr "Ваш аккаунт"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
+msgid "Requesting verification email"
+msgstr "Запит електронної пошти для перевірки"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
+msgid "Verification email sent"
+msgstr "Повідомлення із підтвердженням надіслано"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
+msgid "Check your inbox!"
+msgstr "Перевірте свою пошту!"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
+msgid "Failed to resend email"
+msgstr "Не вдалося повторно надіслати пошту"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
+msgid "Requesting password reset"
+msgstr "Запрошення на скидання паролю"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:57
+msgid "Password reset email sent"
+msgstr "Посилання надіслано на пошту для скидання пароля"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:64
+msgid "Failed to request password reset"
+msgstr "Не вдалося запросити скидання паролю"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
+msgid "Signing in"
+msgstr "Вхід"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
+msgid "Successfully signed in!"
+msgstr "Вхід пройшов успішно!"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
+msgid "Email not verified"
+msgstr "Пошта не підтверджена"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
+msgid "Re-send verification email"
+msgstr "Переслати лист для перевірки"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:184
+msgid "Incorrect password"
+msgstr "Невірний пароль"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:187
+msgid "Request password reset"
+msgstr "Запит на скидання паролю"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:213
+msgid "Reset password"
+msgstr "Скидання паролю"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
+msgid "Synchronizing"
+msgstr "Синхронізування"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:55
+msgid "Failed to synchronize."
+msgstr "Не вдалося синхронізувати."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:61
+msgid "Synchronization completed."
+msgstr "Синхронізування завершенно."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
+msgid "Your verified medals have been downloaded."
+msgstr "Ваші перевірені медалі були завантажені."
+
+#: ../client/application/game/ui/screens/screen_benchmark.cpp:33
+msgid "Skip"
+msgstr "Пропустити"
+
+#: ../client/application/game/ui/screens/screen_career.cpp:27
+msgid "Statistics"
+msgstr "Статистика"
+
+#: ../client/application/game/ui/screens/screen_career.cpp:54
+msgid "Global leaderboards"
+msgstr "Глобальні списки лідерів"
+
+#. Shown in the career screen. Underneath it, a
+#. summary of the completed deviations is shown.
+#: ../client/application/game/ui/screens/screen_career.cpp:71
+msgid "Deviations completed"
+msgstr ""
+
+#. The text shown in the career screen that explains that the
+#. stars and medals shown are *not* specific to an era.
+#: ../client/application/game/ui/screens/screen_career.cpp:85
+msgid "All time stars and medals"
+msgstr "Зірки та медалі за весь час"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -258,33 +653,213 @@ msgstr "Насиченість"
 msgid "Curve"
 msgstr "Крива"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
-msgid "Select multiplayer type"
-msgstr "Вибери тип мультиплеєра"
+#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:118
+msgid "Reset"
+msgstr "Скинути"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:22
-msgid "Online multiplayer"
-msgstr "Онлайн мультиплеєр"
+#. The name of the graphics configuration that disables all the graphics effects
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:42
+msgid "Minimal"
+msgstr "Мінімальна"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
-msgid "Play with people around the world!"
-msgstr "Грати з людьми навколо світу!"
+#. The name of the graphics configuration that enables a few graphical effects
+#. while still allowing screen recording with a high compression ratio
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:45
+msgid "Compression friendly"
+msgstr "Для відео"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
-msgid "LAN multiplayer"
-msgstr "Мультиплеєр по мережі"
+#. The name of the graphics configuration that enables almost all the graphical effects.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:47
+msgid "High"
+msgstr "Висока"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
-msgid "Play with people on the same network!"
-msgstr "Грати з людьми підключенними до однієї wifi мережі!"
+#. The name of the graphics configuration that enables all the graphical effects.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:49
+msgid "Highest"
+msgstr ""
+
+#. Title of the screen where graphics are configured.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:77
+msgid "Configure graphics"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
+msgid "off"
+msgstr "вимкн."
+
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
+msgid "on"
+msgstr "вмикн."
+
+#. The name of the setting category for choosing the bloom (=glow) intensity.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:103
+msgid "Bloom intensity"
+msgstr ""
+
+#. The name of the setting category for choosing whether "lens dirt" is
+#. present or not.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
+msgid "Lens dirt"
+msgstr ""
+
+#. The name of the setting that enables horizontal scanlines.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:120
+msgid "horizontal"
+msgstr ""
+
+#. The name of setting that enables grid-like scanlines.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:122
+msgid "grid"
+msgstr ""
+
+#. The name for the setting category for choosing the scalines type.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:124
+msgid "Scanlines"
+msgstr ""
+
+#. The name for the setting category for choosing the chromatic aberration.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:130
+msgid "Chromatic aberration"
+msgstr ""
+
+#. The name for the setting category for choosing the intensity of the curve
+#. of the monitor.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:139
+msgid "Curved monitor"
+msgstr ""
+
+#. The name for the setting category for choosing the intensity of the
+#. vignette effect.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:148
+msgid "Vignette"
+msgstr ""
+
+#. Name of the setting for when the game is shown in a window.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:161
+msgid "Windowed"
+msgstr "Віконний"
+
+#. Name of the setting for when the game is shown in fullscreen.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:163
+msgid "Fullscreen"
+msgstr "Повноекранний"
+
+#. Name of the setting for when the game is shown in a borderless window.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:165
+msgid "Borderless"
+msgstr ""
+
+#. Name of the category where you select Windowed mode or Fullscreen.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
+msgid "Screen type"
+msgstr ""
+
+#. The title of the screen that allows selecting the graphical appearance of
+#. the touch joysticks.
+#: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
+msgid "Joysticks style"
+msgstr "Стиль джойстиків"
+
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
+msgid "Configure keyboard"
+msgstr "Налаштування клавіатури"
+
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:124
+msgid "Move"
+msgstr "Рух"
+
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:132
+msgid "Shoot"
+msgstr "Стріляти"
+
+#. Used in the settings. The %s is replaced with "on" or "off", for example:
+#. "Mouse aim off".
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:232
+msgid "Mouse aim %s"
+msgstr "Прицілювання мишою %s"
+
+#. Used in the settings. The %s is replaced with the name of a key, for
+#. example: "Quick restart: space".
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:236
+msgid "Quick Restart: %s"
+msgstr "Швидкий Рестарт: %s"
+
+#: ../client/application/game/ui/screens/screen_configure_ship_ppl1.cpp:55
+msgid "Configure Ship"
+msgstr "Конфігурація Корабля"
+
+#: ../client/application/game/ui/screens/screen_configure_ship_ppl1.cpp:58
+msgid "Model"
+msgstr "Модель"
+
+#: ../client/application/game/ui/screens/screen_configure_ship_ppl1.cpp:58
+msgid "Bullets"
+msgstr "Кулі"
+
+#. The string shown in the header of the screen where you select which
+#. items you want. The items include: the ship, the trail, the
+#. bullets, the joysticks, the ui color, etc...
+#: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:78
+msgid "Inventory"
+msgstr ""
+
+#. Shown in the tab strip of the inventory. Used for showing all the unlocked
+#. items.
+#: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:83
+msgid "All"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
+msgid "Configure joysticks"
+msgstr "Конфігурація джойстиків"
+
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
+msgid "Swap"
+msgstr "Поміняти місцями"
+
+#: ../client/application/game/ui/screens/screen_download_level.cpp:34
+msgid "Downloading level..."
+msgstr "Завантаження рівня..."
+
+#: ../client/application/game/ui/screens/screen_download_level.cpp:62
+msgid "Failed to download level."
+msgstr "Не вдалося завантажити рівень."
+
+#: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
+msgid "Encyclopedia"
+msgstr "Енциклопедія"
+
+#: ../client/application/game/ui/screens/screen_informations.cpp:87
+msgid "Music"
+msgstr "Музика"
+
+#. Shown in a button. This buttons lets you see a list of people that
+#. contributed to the game.
+#: ../client/application/game/ui/screens/screen_informations.cpp:102
+msgid "Credits"
+msgstr "Список Помічників"
+
+#. Shown in a button. This buttons lets you see the list of programming
+#. library that are used in the game.
+#: ../client/application/game/ui/screens/screen_informations.cpp:116
+msgid "Licenses"
+msgstr "Ліцензії"
+
+#. Shown in the information screen.
+#. Used in a button that redirects to discord server
+#: ../client/application/game/ui/screens/screen_informations.h:22
+msgid "Discord server"
+msgstr "Discord Сервер"
+
+#. Shown in the information screen.
+#. Used in a button that redirects to the youtube channel
+#: ../client/application/game/ui/screens/screen_informations.h:30
+msgid "Development videos"
+msgstr "Відео розробки"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
 msgstr "Локальний мультиплеєр"
-
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:38
-msgid "Help"
-msgstr "Допомога"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
@@ -326,89 +901,45 @@ msgstr "Створити кімнату"
 msgid "Close room"
 msgstr "Закрити кімнату"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
-msgid "Configure Ship"
-msgstr "Конфігурація Корабля"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:47
+msgid "Single Player"
+msgstr "Один Гравець"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:57
-msgid "Model"
-msgstr "Модель"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:50
+msgid "Play"
+msgstr "Грати"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:57
-msgid "Trail"
-msgstr "Хвостик"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:78
+msgid "Multiplayer"
+msgstr "Мультиплеєр"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:57
-msgid "Bullets"
-msgstr "Кулі"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
+msgid "Room is full"
+msgstr "Кімната заповнена"
 
-#. Shown in a button used to configure the style of joysticks
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:436
-msgid "Joysticks"
-msgstr "Джойстики"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:115
+msgid "You are already in the room!"
+msgstr "Ви вже в кімнаті!"
 
-#. Shown in a button used to configure the color the UI.
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:446
-msgid "UI colors"
-msgstr "Кольори інтерфейсу"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:183
+msgid "Local lobby"
+msgstr "Локальне лобі"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
-msgid "Upload scores"
-msgstr "Завантажити рекорди"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:186
+msgid "Online lobby"
+msgstr "Онлайн лобі"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:80
-msgid "Nothing to upload!"
-msgstr "Нічого завантажувати!"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:192
+msgid "Ready"
+msgstr "Готовий"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:98
-msgid "Failed to upload replays."
-msgstr "Не вдалося завантажити повтори."
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:201
+msgid "Cancel"
+msgstr "Відмінити"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:100
-msgid "Upload successful"
-msgstr "Успішно завантажено"
-
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:120
-msgid "Uploading replay for %s."
-msgstr "Завантаження повтору для %s."
-
-#: ../client/application/game/ui/screens/screen_career.cpp:27
-msgid "Statistics"
-msgstr "Статистика"
-
-#: ../client/application/game/ui/screens/screen_career.cpp:54
-msgid "Global leaderboards"
-msgstr "Глобальні списки лідерів"
-
-#. The message shown in the career screen that explains that the
-#. stars and medals shown are *not* specific to an era.
-#: ../client/application/game/ui/screens/screen_career.cpp:82
-msgid "All time stars and medals"
-msgstr "Зірки та медалі за весь час"
-
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
-msgid "Configure keyboard"
-msgstr "Налаштування клавіатури"
-
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:124
-msgid "Move"
-msgstr "Рух"
-
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:132
-msgid "Shoot"
-msgstr "Стріляти"
-
-#. Used in the settings. The %s is replaced with "on" or "off", for example:
-#. "Mouse aim off".
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:232
-msgid "Mouse aim %s"
-msgstr "Прицілювання мишою %s"
-
-#. Used in the settings. The %s is replaced with the name of a key, for
-#. example: "Quick restart: space".
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:236
-msgid "Quick Restart: %s"
-msgstr "Швидкий Рестарт: %s"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:344
+msgid "Waiting for other players..."
+msgstr "Чекаємо інших гравців..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
@@ -457,107 +988,195 @@ msgstr "Не вдалося аутентифікувати"
 msgid "Error :("
 msgstr "Помилка :("
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:184
-msgid "Are you sure you want to report this comment?"
-msgstr "Ви впевнені, що хочете повідомити про цей коментар?"
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:39
+msgid "Room configuration"
+msgstr "Налаштування кімнати"
 
-#. Shown in a notification after successfully reporting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:186
-msgid "Successfully reported comment"
-msgstr "Успішно повідомлено про коментар"
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
+msgid "2 extra characters (optional):"
+msgstr "2 додаткових символа (по бажанню):"
 
-#. Shown in a notification if a comment could not be reported.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:188
-msgid "Error reporting comment"
-msgstr "Не вдалося повідомити про коментар"
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
+msgid "Password (optional):"
+msgstr "Пароль (по бажанню):"
 
-#. The title of the screen where players delete comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:217
-msgid "Delete comment"
-msgstr "Видалити коментар"
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
+msgid "Any level"
+msgstr "Будь-який рівень"
 
-#. Shown in a notification after successfully deleting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:219
-msgid "Successfully deleted comment"
-msgstr "Коментар успішно видалено"
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:179
+msgid "Room name: %s"
+msgstr "Назва кімнати: %s"
 
-#. Shown in a notification if a comment could not be deleting.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:221
-msgid "Error deleting comment"
-msgstr "Не вдалося видалити коментар"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:281
+msgid "Joining room"
+msgstr "Приєднання до кімнати"
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:224
-msgid "Are you sure you want to delete this comment?"
-msgstr "Ви впевнені що хочете видалити цей коментар?"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:301
+msgid "The room expired"
+msgstr "Закінчився термін дії кімнати"
 
-#. Used as a placeholder in the textfield where players write their comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:305
-msgid "<Add a comment here>"
-msgstr "<Впишіть коментар>"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:315
+msgid "Unknown error"
+msgstr "Невідома помилка"
 
-#. Displayed in a button. Pressing that button posts the comment that was
-#. written by the player.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:320
-msgid "Comment"
-msgstr "Коментувати"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:330
+msgid "Failed to join room"
+msgstr "Не вдалося приєднатися до кімнати"
 
-#. Shown in a notification if the player tries to post a comment that is
-#. less than 3 character long.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:326
-msgid "Comment must be at least 3 characters long."
-msgstr "Коментар має містити щонайменше 3 символа"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
+msgid "The room does not exist anymore"
+msgstr "Кімнати більше не існує"
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:342
-msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Слідкуй за тим, що кажеш. Без образ, без лайок, без спаму. Ми можемо видалити будь-який коментар який порушить ці правила, заморозити або заблокувати правопорушників."
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
+msgid "Enter password"
+msgstr "Введіть пароль"
 
-#. Shown in the title of the screen where the player waits for the comment
-#. to be posted to the server.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
-msgid "Posting comment"
-msgstr "Коментар публікується"
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
+msgid "Join"
+msgstr "Приєднатися"
 
-#. Shown in a notification after a comment was succesfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:387
-msgid "Comment posted"
-msgstr "Коментар опубліковано"
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:91
+msgid "Online multiplayer"
+msgstr "Онлайн мультиплеєр"
 
-#. Shown in a notification after a comment was succesfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:391
-msgid "Failed to post comment"
-msgstr "Не вдалося опубліковати коментар :("
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:112
+msgid "Refresh"
+msgstr "Оновити"
 
-#. The title of the screen where players report comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:183
-msgctxt "report_screen_title"
-msgid "Report comment"
-msgstr "Повідомити про коментар"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
+msgid "Select multiplayer type"
+msgstr "Вибери тип мультиплеєра"
 
-#. The title of the screen where players enter the comment they want to add.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:298
-msgctxt "add_comment_screen_title"
-msgid "Add comment"
-msgstr "Додати коментар"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
+msgid "Play with people around the world!"
+msgstr "Грати з людьми навколо світу!"
 
-#. Displayed in a button. The button is used in menus asking wether to
-#. confirm an action.
-#. For example:
-#.  | Are you sure you want to do X?
-#.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:454
-msgctxt "menu_confirm_action"
-msgid "Yes"
-msgstr "Так"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
+msgid "LAN multiplayer"
+msgstr "Мультиплеєр по мережі"
 
-#. Displayed in a button. The button is used in menus asking whether to
-#. confirm an action.
-#. For example:
-#.  | Are you sure you want to do X?
-#.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:467
-msgctxt "menu_cancel_action"
-msgid "No"
-msgstr "Ні"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
+msgid "Play with people on the same network!"
+msgstr "Грати з людьми підключенними до однієї wifi мережі!"
+
+#. The title of the screen where you select official levels.
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
+msgid "Official"
+msgstr "Офіційні"
+
+#. The title of the screen where you select community levels.
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:42
+msgid "Community"
+msgstr "Спільнота"
+
+#. The title of the screen where you select what to play in the World.
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:44
+msgid "World"
+msgstr ""
+
+#. The title of the screen where you select what sandbox to play.
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:46
+msgid "Sandbox"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
+msgid "Connection error"
+msgstr "Помилка з'єднання"
+
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
+msgid "Lost connection to host"
+msgstr "Втрачено підключення до хоста."
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:33
+msgid "Settings"
+msgstr "Налаштування"
+
+#. Shown in the button used for entering the screen to configure the
+#. graphics settings.
+#: ../client/application/game/ui/screens/screen_settings.cpp:44
+msgid "Graphics"
+msgstr "Графіка"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:54
+msgid "Controls"
+msgstr "Керування"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:64
+msgid "Audio"
+msgstr "Звук"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:75
+msgid "Language"
+msgstr "Мова"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:86
+msgid "UI"
+msgstr "Інтерфейс"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:112
+msgid "Start tutorial"
+msgstr "Почати туторіал"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:124
+msgid "Launch intro"
+msgstr "Запустити вступ"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:135
+msgid "Developer mode"
+msgstr "Режим розробника"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:189
+msgid "Vibration %s"
+msgstr "Вібрація %s"
+
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:19
+msgid "Audio Settings"
+msgstr "Налаштування Звуку"
+
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:28
+msgid "Sound effects"
+msgstr "Звукові ефекти"
+
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:122
+msgid "Visualization"
+msgstr "Візуалізація"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
+msgid "Controls Settings"
+msgstr "Налаштування керування"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
+msgid "Touchscreen"
+msgstr "Дотик"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:38
+msgid "Keyboard"
+msgstr "Клавіатура"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
+msgid "Gamepad"
+msgstr "Геймпад"
+
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:17
+msgid "Language Settings"
+msgstr "Налаштування Мови"
+
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:20
+msgid "The translations are community provided!"
+msgstr "Переклади надані спільнотою! <3"
+
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:29
+msgid "Default language"
+msgstr "Мова за замовчуванням"
+
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:43
+msgid "Help out"
+msgstr "Допомогти"
+
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:53
+msgid "Contributors"
+msgstr "Вкладачі"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
@@ -599,135 +1218,197 @@ msgstr "Розмір інтерфейсу: %s"
 msgid "UI Inset: %s"
 msgstr "Зсув інтерфейсу: %s"
 
-#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:112
-msgid "Refresh"
-msgstr "Оновити"
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
+msgid "Connect to server"
+msgstr "Приєднатися до сервера"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:17
-msgid "Language Settings"
-msgstr "Налаштування Мови"
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
+msgid "IP:"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:20
-msgid "The translations are community provided!"
-msgstr "Переклади надані спільнотою! <3"
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
+msgid "Port:"
+msgstr "Порт:"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:29
-msgid "Default language"
-msgstr "Мова за замовчуванням"
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Приєднатися до іншої кімнати через інтернет #ff0000ff(експериментально)"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:43
-msgid "Help out"
-msgstr "Допомогти"
-
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:53
-msgid "Contributors"
-msgstr "Вкладачі"
-
-#: ../client/application/game/ui/screens/screen_benchmark.cpp:29
-msgid "Skip"
-msgstr "Пропустити"
-
-#: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
-msgid "Encyclopedia"
-msgstr "Енциклопедія"
-
-#. The title of the screen that allows selecting the graphical appearance of
-#. the touch joysticks.
-#: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
-msgid "Joysticks style"
-msgstr "Стиль джойстиків"
-
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:46
-msgid "Single Player"
-msgstr "Один Гравець"
-
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:49
-msgid "Play"
-msgstr "Грати"
-
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:77
-msgid "Multiplayer"
-msgstr "Мультиплеєр"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:281
-msgid "Joining room"
-msgstr "Приєднання до кімнати"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:301
-msgid "The room expired"
-msgstr "Закінчився термін дії кімнати"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:315
-msgid "Unknown error"
-msgstr "Невідома помилка"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:330
-msgid "Failed to join room"
-msgstr "Не вдалося приєднатися до кімнати"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:344
-msgid "Incorrect password"
-msgstr "Невірний пароль"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:347
-msgid "You are already in the room!"
-msgstr "Ви вже в кімнаті!"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
-msgid "The room does not exist anymore"
-msgstr "Кімнати більше не існує"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:353
-msgid "Room is full"
-msgstr "Кімната заповнена"
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
+msgid "Connect"
+msgstr "Приєднатися"
 
 #: ../client/application/game/ui/screens/screen_tutorial.cpp:31
 msgid "Tutorial"
 msgstr "Туторіал"
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:39
-msgid "Room configuration"
-msgstr "Налаштування кімнати"
+#. Shown in the descripting of the item. "type" refers to what kind of
+#. item it is. Ship, trail, bullet, etc...
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:91
+msgid "Type"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
-msgid "2 extra characters (optional):"
-msgstr "2 додаткових символа (по бажанню):"
+#. Shown in the descripting of the item. "name" refers to what name the
+#. item has.
+#. For example "alpha', "rival", etc...
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:95
+msgid "Name"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
-msgid "Password (optional):"
-msgstr "Пароль (по бажанню):"
+#. Shown in the descripting of the item. "rarity" refers to what the
+#. rarity of the item
+#. is. For example, "common", "rare", etc...
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:99
+msgid "Rarity"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
-msgid "Any level"
-msgstr "Будь-який рівень"
+#. Title of the screen that shows the UI to unlock items
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:209
+msgid "Unlock items"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:179
-msgid "Room name: %s"
-msgstr "Назва кімнати: %s"
+#. The label of a button used for unlocking a single item.
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:225
+msgid "Unlock item"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_informations_music.cpp:23
-msgid "Music"
-msgstr "Музика"
+#. Shown in a string when no items can be unlocked
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:245
+msgid "No items to unlock"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
-msgid "Connection error"
-msgstr "Помилка з'єднання"
+#. Shown in a string when there's 1 or more items that can be unlocked.
+#. The %s is replaced with a number
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:250
+msgid "Items to unlock: %s"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
-msgid "Lost connection to host"
-msgstr "Втрачено підключення до хоста."
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
+msgid "Upload scores"
+msgstr "Завантажити рекорди"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:19
-msgid "Audio Settings"
-msgstr "Налаштування Звуку"
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:80
+msgid "Nothing to upload!"
+msgstr "Нічого завантажувати!"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:28
-msgid "Sound effects"
-msgstr "Звукові ефекти"
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:98
+msgid "Failed to upload replays."
+msgstr "Не вдалося завантажити повтори."
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:122
-msgid "Visualization"
-msgstr "Візуалізація"
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:100
+msgid "Upload successful"
+msgstr "Успішно завантажено"
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:120
+msgid "Uploading replay for %s."
+msgstr "Завантаження повтору для %s."
+
+#. Shown when a user disables comments on their profile and or levels.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
+msgid "Comments are disabled."
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:203
+msgid "Are you sure you want to report this comment?"
+msgstr "Ви впевнені, що хочете повідомити про цей коментар?"
+
+#. Shown in a notification after successfully reporting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:205
+msgid "Successfully reported comment"
+msgstr "Успішно повідомлено про коментар"
+
+#. Shown in a notification if a comment could not be reported.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:207
+msgid "Error reporting comment"
+msgstr "Не вдалося повідомити про коментар"
+
+#. The title of the screen where players delete comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:234
+msgid "Delete comment"
+msgstr "Видалити коментар"
+
+#. Shown in a notification after successfully deleting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:236
+msgid "Successfully deleted comment"
+msgstr "Коментар успішно видалено"
+
+#. Shown in a notification if a comment could not be deleting.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:238
+msgid "Error deleting comment"
+msgstr "Не вдалося видалити коментар"
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:241
+msgid "Are you sure you want to delete this comment?"
+msgstr "Ви впевнені що хочете видалити цей коментар?"
+
+#. Used as a placeholder in the textfield where players write their comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
+msgid "<Add a comment here>"
+msgstr "<Впишіть коментар>"
+
+#. Displayed in a button. Pressing that button posts the comment that was
+#. written by the player.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:337
+msgid "Comment"
+msgstr "Коментувати"
+
+#. Shown in a notification if the player tries to post a comment that is
+#. less than 3 character long.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:343
+msgid "Comment must be at least 3 characters long."
+msgstr "Коментар має містити щонайменше 3 символа"
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:359
+msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
+msgstr "Слідкуй за тим, що кажеш. Без образ, без лайок, без спаму. Ми можемо видалити будь-який коментар який порушить ці правила, заморозити або заблокувати правопорушників."
+
+#. Shown in the title of the screen where the player waits for the comment
+#. to be posted to the server.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:383
+msgid "Posting comment"
+msgstr "Коментар публікується"
+
+#. Shown in a notification after a comment was successfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:404
+msgid "Comment posted"
+msgstr "Коментар опубліковано"
+
+#. Shown in a notification after a comment failed to be posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:408
+msgid "Failed to post comment"
+msgstr "Не вдалося опубліковати коментар :("
+
+#. The title of the screen where players report comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
+msgctxt "report_screen_title"
+msgid "Report comment"
+msgstr "Повідомити про коментар"
+
+#. The title of the screen where players enter the comment they want to add.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:315
+msgctxt "add_comment_screen_title"
+msgid "Add comment"
+msgstr "Додати коментар"
+
+#. Displayed in a button. The button is used in menus asking wether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:471
+msgctxt "menu_confirm_action"
+msgid "Yes"
+msgstr "Так"
+
+#. Displayed in a button. The button is used in menus asking whether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:484
+msgctxt "menu_cancel_action"
+msgid "No"
+msgstr "Ні"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "1p"
@@ -793,441 +1474,136 @@ msgstr "Кращі Рекорди"
 msgid "Speed Runs"
 msgstr "Швидкісні Забіги"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:46
-msgid "Failed to read replay."
-msgstr "Не вдалося зчитати повтор."
-
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
-msgid "Failed to download replay."
-msgstr "Не вдалося завантажити повтор."
-
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
-msgid "Official"
-msgstr "Офіційні"
-
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
-msgid "Community"
-msgstr "Спільнота"
-
-#: ../client/application/game/ui/screens/screen_view_level.cpp:34
+#: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
 msgstr "Світовий рекорд: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:38
+#: ../client/application/game/ui/screens/screen_view_level.cpp:40
 msgid "Local best: %s"
 msgstr "Локальний рекорд: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:50
-msgid "Loading..."
-msgstr "Завантаження..."
-
-#: ../client/application/game/ui/screens/screen_view_level.cpp:60
+#: ../client/application/game/ui/screens/screen_view_level.cpp:62
 msgid "Failed to download manifest"
 msgstr "Не вдалося завантажити маніфест"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:175
+#: ../client/application/game/ui/screens/screen_view_level.cpp:80
+msgid "Failed to set up comments"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:227
 msgid "average score: %s"
 msgstr "середній рекорд: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:236
+#: ../client/application/game/ui/screens/screen_view_level.cpp:290
 msgid "Experimental level"
 msgstr "Експериментальний рівень"
 
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
-msgid "Controls Settings"
-msgstr "Налаштування керування"
-
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
-msgid "Touchscreen"
-msgstr "Дотик"
-
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:38
-msgid "Keyboard"
-msgstr "Клавіатура"
-
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
-msgid "Gamepad"
-msgstr "Геймпад"
-
-#: ../client/application/game/ui/screens/screen_informations.cpp:18
-msgid "Discord server"
-msgstr "Discord Сервер"
-
-#: ../client/application/game/ui/screens/screen_informations.cpp:24
-msgid "Development videos"
-msgstr "Відео розробки"
-
-#. Shown in a button. This buttons lets you see a list of people that
-#. contributed to the game.
-#: ../client/application/game/ui/screens/screen_informations.cpp:130
-msgid "Credits"
-msgstr "Список Помічників"
-
-#. Shown in a button. This buttons lets you see the list of programming
-#. library that are used in the game.
-#: ../client/application/game/ui/screens/screen_informations.cpp:144
-msgid "Licenses"
-msgstr "Ліцензії"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:33
-msgid "Settings"
-msgstr "Налаштування"
-
-#. Name of the setting for when the game is shown in a window.
-#: ../client/application/game/ui/screens/screen_settings.cpp:43
-msgid "Windowed"
-msgstr "Віконний"
-
-#. Name of the setting for when the game is shown in fullscreen.
-#: ../client/application/game/ui/screens/screen_settings.cpp:45
-msgid "Fullscreen"
-msgstr "Повноекранний"
-
-#. Shown in the button used for entering the screen to configure the graphics settings.
-#: ../client/application/game/ui/screens/screen_settings.cpp:100
-msgid "Graphics"
-msgstr "Графіка"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:111
-msgid "Controls"
-msgstr "Керування"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:121
-msgid "Audio"
-msgstr "Звук"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:132
-msgid "Language"
-msgstr "Мова"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:143
-msgid "UI"
-msgstr "Інтерфейс"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:169
-msgid "Start tutorial"
-msgstr "Почати туторіал"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:181
-msgid "Launch intro"
-msgstr "Запустити вступ"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:192
-msgid "Developer mode"
-msgstr "Режим розробника"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:246
-msgid "Vibration %s"
-msgstr "Вібрація %s"
-
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:183
-msgid "Local lobby"
-msgstr "Локальне лобі"
-
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:186
-msgid "Online lobby"
-msgstr "Онлайн лобі"
-
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:192
-msgid "Ready"
-msgstr "Готовий"
-
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:201
-msgid "Cancel"
-msgstr "Відмінити"
-
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:344
-msgid "Waiting for other players..."
-msgstr "Чекаємо інших гравців..."
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
-msgid "Change colors"
-msgstr "Змінити кольори"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
-msgid "Old username:"
-msgstr "Старий нікнейм:"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
-msgid "New username:"
-msgstr "Новий нікнейм:"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
-msgid "Change"
-msgstr "Змінити"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
-msgid "Only change colors! %s"
-msgstr "Змінюйте лише кольори! %s"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
-msgid "Username color change"
-msgstr "Змінити колір нікнейма"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
-msgid "Username change succesfull"
-msgstr "Нікнейм змінено"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
-msgid "Failed to update username"
-msgstr "Не вдалося змінити нікнейм"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
-msgid "Requesting verification email"
-msgstr "Запит електронної пошти для перевірки"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
-msgid "Verification email sent"
-msgstr "Повідомлення із підтвердженням надіслано"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
-msgid "Check your inbox!"
-msgstr "Перевірте свою пошту!"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
-msgid "Failed to resend email"
-msgstr "Не вдалося повторно надіслати пошту"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
-msgid "Requesting password reset"
-msgstr "Запрошення на скидання паролю"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:57
-msgid "Password reset email sent"
-msgstr "Посилання надіслано на пошту для скидання пароля"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:64
-msgid "Failed to request password reset"
-msgstr "Не вдалося запросити скидання паролю"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:79
-msgid "Sign in"
-msgstr "Ввійти"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
-msgid "Email"
-msgstr "Пошта"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
-msgid "Password"
-msgstr "Пароль"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
-msgid "Signing in"
-msgstr "Вхід"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
-msgid "Successfully signed in!"
-msgstr "Вхід пройшов успішно!"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
-msgid "Email not verified"
-msgstr "Пошта не підтверджена"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
-msgid "Re-send verification email"
-msgstr "Переслати лист для перевірки"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:187
-msgid "Request password reset"
-msgstr "Запит на скидання паролю"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:213
-msgid "Reset password"
-msgstr "Скидання паролю"
-
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
-msgid "Synchronizing"
-msgstr "Синхронізування"
-
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:55
-msgid "Failed to synchronize."
-msgstr "Не вдалося синхронізувати."
-
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:61
-msgid "Synchronization completed."
-msgstr "Синхронізування завершенно."
-
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
-msgid "Your verified medals have been downloaded."
-msgstr "Ваші перевірені медалі були завантажені."
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
-msgid "Account"
-msgstr "Аккаунт"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
-msgid "Not signed in"
-msgstr "Ви не ввійшли"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
-msgid "Create an account to set your name and sync your data"
-msgstr "Створити аккаунт щоб ввести ім'я та синхронізувати ваші дані"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
-msgid "Register"
-msgstr "Реєстрація"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
-msgid "Privacy Policy"
-msgstr "Політика Конфіденційності"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
-msgid "You need to be signed-in to upload scores"
-msgstr "Ви маєте ввійти, щоб завантажувати рекорди"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
-msgid "You need to be signed-in to play online"
-msgstr "Ви маєте ввійти, щоб грати онлайн"
-
-#. Error message shown if to the player when they are trying to view
-#. comments while not signed-in.
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
-msgid "You need to be signed-in to view comments"
-msgstr "Ви маєте ввійти, щоб переглянути коментарі"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
-msgid "Your account"
-msgstr "Ваш аккаунт"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
-msgid "Email is invalid!"
-msgstr "Пошта недійсна!"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
-msgid "Too short. Minimum %s characters."
-msgstr "Занадто коротко. Мінімум %s символів"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:53
-msgid "Too long. Maximum %s characters."
-msgstr "Занадто довго. Максимум %s символів."
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
-msgid "Register account"
-msgstr "Реєстрація аккаунту"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
-msgid "Username"
-msgstr "Нікнейм"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
-msgid "Confirm password"
-msgstr "Перевірити пароль"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
-msgid "Confirm email"
-msgstr "Перевірити пошту"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
-msgid "Registering"
-msgstr "Реєстрація"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
-msgid "Registration successful."
-msgstr "Реєстрація вдала."
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
-msgid "Please check your emails!"
-msgstr "Будь ласка, перевірте вашу електронну пошту!"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
-msgid "Failed to register"
-msgstr "Не вдалося зареєструватися"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
-msgid "Username (you can put colors in!):"
-msgstr "Нікнейм (Ви можете розфарбувати його!):"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
-msgid "Confirm password:"
-msgstr "Перевірити пароль:"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
-msgid "Email:"
-msgstr "Пошта:"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
-msgid "Confirm email:"
-msgstr "Перевірити пошту:"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
-msgid "Passwords do not match!"
-msgstr "Паролі не співпадають!"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
-msgid "Emails do not match!"
-msgstr "Пошти не співпадають!"
-
-#. Shown in a header, in the screen that allows you to manage your PewPew
-#. Live account. In this screen you can for example change the colors of your
-#. nickname, or delete your account.
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
-msgid "Manage Account"
-msgstr "Управляти аккаунтом"
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
-msgid "Synchronize"
-msgstr "Синхронізувати"
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
-msgid "Sign out"
-msgstr "Вийти з аккаунту"
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:62
-msgid "Delete account"
-msgstr "Видалити Акаунт"
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:74
-msgid "Account deletion"
-msgstr "Видалення акаунту"
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
-msgid "Account deletion requested."
-msgstr "Запит на видалення акаунту відправлено."
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:83
-msgid "An email asking for confirmation was sent."
-msgstr "На пошту прийшов запит про підтвердження."
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:88
-msgid "Failed to request account deletion"
-msgstr "Не вдалося відправити запит на видалення акаунту"
-
-#: ../client/application/game/ui/views/top_notification_view.cpp:56
-msgid "%sWaiting for other player%s"
-msgstr "%sЧекаємо на інших гравців%s"
-
-#: ../client/application/game/ui/views/game_hud.cpp:79
-msgid "Shield: %s"
-msgstr "Щит: %s"
+#. Used for showing the version of a level. The %s will be replaced with a
+#. version number. For example: "version 2"
+#: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
+msgid "version %s"
+msgstr "версія %s"
+
+#. Used for showing the release date of a level. The %s will be replaced with
+#. a date. For example: "released 01/02/03"
+#: ../client/application/game/ui/screens/screen_view_level_info.cpp:21
+msgid "released %s"
+msgstr "випущено %s"
+
+#. Used if the level does not contain any information.
+#: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
+msgid "No information available"
+msgstr "Інформація недоступна"
+
+#. Used for showing the percentage of people who managed to get a gold medal
+#. for a given level.
+#: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
+msgid "Gold medals percentage: %s"
+msgstr "Процент золотих медалей: %s"
+
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:49
+msgid "Failed to read replay."
+msgstr "Не вдалося зчитати повтор."
+
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:78
+msgid "Failed to download replay."
+msgstr "Не вдалося завантажити повтор."
+
+#: ../client/application/game/ui/shared_strings.cpp:7
+msgid "Failed to parse response"
+msgstr "Не вдалося зчитати відповідь"
+
+#: ../client/application/game/ui/shared_strings.cpp:11
+msgid "Failed to contact server"
+msgstr "Не вдалося зв’язатися з сервером"
+
+#: ../client/application/game/ui/shared_strings.cpp:15
+msgid "Official levels"
+msgstr "Офіційні рівні"
+
+#: ../client/application/game/ui/shared_strings.cpp:19
+msgid "Community levels"
+msgstr "Рівні спільноти"
+
+#: ../client/application/game/ui/shared_strings.cpp:23
+msgid "play count: %s"
+msgstr "ігор зіграно %s"
+
+#: ../client/application/game/ui/shared_strings.cpp:27
+msgid "time played: %s"
+msgstr "часу зіграно: %s"
+
+#: ../client/application/game/ui/shared_strings.cpp:31
+msgid "Casual"
+msgstr "Не змагальний"
+
+#: ../client/application/game/ui/shared_strings.cpp:35
+msgid "Failed to sign-in!"
+msgstr "Не вдалося ввійти!"
+
+#. Describes the "easy" difficutly (as opposed to "Cadet", "Commander")
+#: ../client/application/game/ui/shared_strings.cpp:40
+msgid "Apprentice"
+msgstr ""
+
+#. Describes the "normal" difficutly (as opposed to "Apprentice",
+#. "Commander")
+#: ../client/application/game/ui/shared_strings.cpp:46
+msgid "Cadet"
+msgstr ""
+
+#. Describes the "hard" difficutly (as opposed to "Apprentice", "Cadet")
+#: ../client/application/game/ui/shared_strings.cpp:51
+msgid "Commander"
+msgstr ""
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
 #. "Era 2 medals and stars"
-#: ../client/application/game/ui/views/account_view.cpp:347
+#: ../client/application/game/ui/views/account_view.cpp:363
 msgid "Era %s medals and stars"
 msgstr "Медалі та зірки ери %s"
 
 #. Error shown when downloading some piece of data failed.
-#: ../client/application/game/ui/views/account_view.cpp:490
+#: ../client/application/game/ui/views/account_view.cpp:506
 msgid "Download error"
 msgstr "Помилка завантаження"
 
 #. Shown when the downloading of some piece of data is in progress.
-#: ../client/application/game/ui/views/account_view.cpp:492
+#: ../client/application/game/ui/views/account_view.cpp:508
 msgid "Downloading..."
 msgstr "Завантаження..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
-#: ../client/application/game/ui/views/account_view.cpp:70
+#: ../client/application/game/ui/views/account_view.cpp:86
 msgctxt "account_view"
 msgid "Levels"
 msgstr "Рівні"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
-#: ../client/application/game/ui/views/account_view.cpp:73
+#: ../client/application/game/ui/views/account_view.cpp:89
 msgctxt "account_view"
 msgid "Scores"
 msgstr "Рекорди"
@@ -1235,7 +1611,7 @@ msgstr "Рекорди"
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
 #. to their youtube channel, etc...
-#: ../client/application/game/ui/views/account_view.cpp:77
+#: ../client/application/game/ui/views/account_view.cpp:93
 msgctxt "account_view"
 msgid "General"
 msgstr "Загально"
@@ -1243,209 +1619,183 @@ msgstr "Загально"
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
 #. "Join date: 2021-08-25"
-#: ../client/application/game/ui/views/account_view.cpp:309
+#: ../client/application/game/ui/views/account_view.cpp:325
 msgctxt "account_view"
 msgid "Join date: %s"
 msgstr "Дата реєстрації: %s"
 
 #. Shown in the button that allows users to sort by date
-#: ../client/application/game/ui/views/community_level_selector.cpp:145
+#: ../client/application/game/ui/views/community_level_selector.cpp:137
 msgid "Date"
 msgstr "Дата"
 
 #. Shown in the button that allows users to sort by stars
-#: ../client/application/game/ui/views/community_level_selector.cpp:149
+#: ../client/application/game/ui/views/community_level_selector.cpp:141
 msgid "Stars"
 msgstr "Зірки"
 
 #. Shown in the button that allows users to sort by difficutly
-#: ../client/application/game/ui/views/community_level_selector.cpp:153
+#: ../client/application/game/ui/views/community_level_selector.cpp:145
 msgid "Difficulty"
 msgstr "Складність"
 
-#: ../client/application/game/ui/views/community_level_selector.cpp:336
+#: ../client/application/game/ui/views/community_level_selector.cpp:329
 msgid "IN REVIEW"
 msgstr "В ПЕРЕВІРЦІ"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:143
-msgid "You've been signed out."
-msgstr "Ви вийшли."
-
-#: ../client/application/game/player_data/data_synchronizer.cpp:182
-msgid "Failed to download backup data"
-msgstr "Не вдалося завантажити резервні дані"
-
-#: ../client/application/game/player_data/data_synchronizer.cpp:270
-msgid "Failed to download achievements"
-msgstr "Не вдалося завантажити досягнення"
-
-#: ../client/application/game/player_data/data_synchronizer.cpp:315
-msgid "Failed to upload achievements"
-msgstr "Не вдалося завантажити досягнення"
-
-#. Shown in a notification when you improve your best score in a given level.
-#. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
-#: ../client/application/game/player_data/player_data_manager.cpp:43
-msgid "New personal best! %s ⇨ %s"
-msgstr "Новий персональний рекорд! %s ⇨ %s"
-
-#. Shown in a notification when you improve your best speed run in a given
-#. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
-#: ../client/application/game/player_data/player_data_manager.cpp:46
-msgid "Improved speed run! %s ⇨ %s"
-msgstr "Покращено час! %s ⇨ %s"
-
-#. String shown in a notification when an achievement was unlocked.
-#. %s is replaced with the name of the achievement.
-#: ../client/application/game/player_data/player_data_manager.cpp:694
-msgid "Achievement Unlocked: %s"
-msgstr "Досягнення Розблоковано: %s"
-
-#: ../client/application/game/state/game_network_message_parser.cpp:57
-msgid "%s left the game"
-msgstr "%s покинув гру :("
-
-#. Shown when the game is displaying stats. Concerns the player's shooting
-#. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
-#: ../client/application/game/state/game_state.cpp:472
-msgid "Accuracy: %s"
-msgstr "Точність: %s"
-
-#. Shown when the game is displaying stats. The %s is replaced with a number,
-#. for example "Total score: 43423"
-#: ../client/application/game/state/game_state.cpp:475
-msgid "Total score: %s"
-msgstr "Загальні бали: %s"
-
-#. Shown when the game is displaying stats. The %s is replaced with a number,
-#. for example "Pointonium: 34444"
-#: ../client/application/game/state/game_state.cpp:479
-msgid "Pointonium: %s"
-msgstr "Поінтоніум: %s"
-
-#. Shown when the game is displaying stats. The %s is replaced with a
-#. duration, for example: "Duration: 1m43s"
-#: ../client/application/game/state/game_state.cpp:483
-msgid "Duration: %s"
-msgstr "Тривалість: %s"
-
-#: ../client/application/game/levels/game_levels.cpp:90
-msgid "Dodge everything and you'll be OK"
-msgstr "Ухиляйтесь від усього, і все буде добре"
-
-#: ../client/application/game/levels/game_levels.cpp:90
-msgid "aka Dodge This"
-msgstr "ніби Dodge This"
-
-#: ../client/application/game/levels/game_levels.cpp:91
-msgid "Green good. Red bad."
-msgstr "Зелені добрі. Червоні поганці"
-
-#: ../client/application/game/levels/game_levels.cpp:102
-msgid "Never trust a six-sided polygon"
-msgstr "Усі шестикутники - зло"
-
-#: ../client/application/game/levels/game_levels.cpp:103
-msgid "Unrelated to \"Super Hexagon\""
-msgstr "\"Super Hexagon\" тут нідочого"
-
-#: ../client/application/game/levels/game_levels.cpp:104
-msgid "Choose your own difficulty"
-msgstr "Виберіть власну складність"
-
-#: ../client/application/game/levels/game_levels.cpp:115
-msgid "Euclidean space is overrated"
-msgstr "Евклідовий простір переоцінений"
-
-#: ../client/application/game/levels/game_levels.cpp:127
-msgid "Just 32 seconds of skills"
-msgstr "Просто 32 секунди вправності... і болю"
-
-#: ../client/application/game/levels/game_levels.cpp:127
-msgid "My favorite mode"
-msgstr "Мій улюблений режим"
-
-#: ../client/application/game/levels/game_levels.cpp:128
-msgid "Survive 32 seconds with this simple trick"
-msgstr "Виживи 32 секунди з цим простим трюком"
-
-#: ../client/application/game/levels/game_levels.cpp:129
-msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Цей рівень жарт, так?\" - тестер"
-
-#: ../client/application/game/levels/game_levels.cpp:140
-msgid "RIP GW3:Dimensions"
-msgstr "Спочивай з миром GW3:Dimensions"
-
-#: ../client/application/game/levels/game_levels.cpp:140
-msgid "Previously known as Assault"
-msgstr "Раніше відомий як Assault"
-
-#: ../client/application/game/levels/medals.cpp:9
-msgid "New bronze medal"
-msgstr "Нова бронзова медаль"
-
-#: ../client/application/game/levels/medals.cpp:10
-msgid "New silver medal"
-msgstr "Нова срібна медаль"
-
-#: ../client/application/game/levels/medals.cpp:11
-msgid "New gold medal"
-msgstr "Нова золота медаль"
-
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:307
-msgid "Ouch"
+#. The label shown in the button used to enter the World.
+#: ../client/application/game/ui/views/deviation_selector.cpp:127
+msgid "Enter World"
 msgstr ""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:310
-msgid "Yikes"
+#: ../client/application/game/ui/views/game_hud.cpp:79
+msgid "Shield: %s"
+msgstr "Щит: %s"
+
+#. Shown in the title of the screen where you enter the name of a
+#. configuration.
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:94
+msgid "Save sandbox configuration"
 msgstr ""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:313
-msgid "Ow"
+#. Shown in a button. That button is used to save a configuration.
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:98
+msgid "Save"
 msgstr ""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:316
-msgid "Ugh"
+#. Shown in a notification displayed when a configuration is saved.
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:109
+msgid "Configuration saved"
 msgstr ""
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:9
-msgid "Minimal"
-msgstr "Мінімальна"
+#. Messsage shown in the screen that asks to
+#. enter the name of the sandbox configuration
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:135
+msgid "Enter configuration name"
+msgstr ""
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:10
-msgid "High"
-msgstr "Висока"
+#. Shown in the title of the screen where you select a Sandbox
+#. configuration to load.
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:165
+msgid "Load sandbox configuration"
+msgstr ""
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:12
-msgid "Compression friendly"
-msgstr "Для відео"
+#. Shown in a notification when an unnamed sandbox configuration is
+#. loaded.
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:195
+msgid "loaded sandbox configuration"
+msgstr ""
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:16
-msgid "Ultra low 2x"
-msgstr "Дуже низька 2х"
+#. Shown in a notification when a configuration is loaded.
+#. %s is replaced by the name of the configuration, for example:
+#. "loaded <my awesome config>"
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:200
+msgid "loaded <%s>"
+msgstr ""
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:18
-msgid "Ultra low 4x"
-msgstr "Дуже низька 4x"
+#: ../client/application/game/ui/views/top_notification_view.cpp:56
+msgid "%sWaiting for other player%s"
+msgstr "%sЧекаємо на інших гравців%s"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:20
-msgid "Ultra low 8x"
-msgstr "Дуже низька 8x"
+#: ../client/application/ui/keyboard_view.cpp:108
+msgid "ok"
+msgstr "прийняти"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:22
-msgid "Ultra low 16x"
-msgstr "Дуже низька 16x"
+#. The color "red"
+#: ../client/application/ui/ui_skin.cpp:29
+msgid "Red"
+msgstr "Червоний"
 
-#: ../client/application/graphics/renderers/renderer_types.cpp:24
-msgid "Ultra low 32x"
-msgstr "Дуже низька 32x"
+#. The color "cyan"
+#: ../client/application/ui/ui_skin.cpp:32
+msgid "Cyan"
+msgstr "Блакитний"
+
+#. The color "lime"
+#: ../client/application/ui/ui_skin.cpp:35
+msgid "Lime"
+msgstr "Лаймовий"
+
+#. The color "lime green"
+#: ../client/application/ui/ui_skin.cpp:38
+msgid "Lime Green"
+msgstr "Зелений Лайм"
+
+#. The color "purple"
+#: ../client/application/ui/ui_skin.cpp:41
+msgid "Purple"
+msgstr "Фіолетовий"
+
+#. The color "pink"
+#: ../client/application/ui/ui_skin.cpp:44
+msgid "Pink"
+msgstr "Рожевий"
+
+#. The color "orange"
+#: ../client/application/ui/ui_skin.cpp:47
+msgid "Orange"
+msgstr "Помаранчевий"
+
+#. The color "white"
+#: ../client/application/ui/ui_skin.cpp:50
+msgid "White"
+msgstr "Білий"
+
+#. The color "gray"
+#: ../client/application/ui/ui_skin.cpp:53
+msgid "Gray"
+msgstr "Сірий"
+
+#. The color "dark blue"
+#: ../client/application/ui/ui_skin.cpp:56
+msgid "Dark Blue"
+msgstr "Темно Синій"
+
+#. The color "yellow"
+#: ../client/application/ui/ui_skin.cpp:59
+msgid "Yellow"
+msgstr ""
+
+#. The UI color "frosted green"
+#: ../client/application/ui/ui_skin.cpp:62
+msgid "Frosted Green"
+msgstr ""
+
+#. The UI color "frosted red"
+#: ../client/application/ui/ui_skin.cpp:65
+msgid "Frosted Red"
+msgstr ""
+
+#. The UI color "frosted blue"
+#: ../client/application/ui/ui_skin.cpp:68
+msgid "Frosted Blue"
+msgstr ""
+
+#. The UI color "frosted yellow"
+#: ../client/application/ui/ui_skin.cpp:71
+msgid "Frosted Yellow"
+msgstr ""
+
+#. The UI color "frosted pink"
+#: ../client/application/ui/ui_skin.cpp:74
+msgid "Frosted Pink"
+msgstr ""
+
+#. The UI color "frosted teal"
+#: ../client/application/ui/ui_skin.cpp:77
+msgid "Frosted Teal"
+msgstr ""
+
+#. The UI color "frosted gray"
+#: ../client/application/ui/ui_skin.cpp:80
+msgid "Frosted Gray"
+msgstr ""
+
+#. Shown in a notification when a new version of the game is
+#. available.
+#. The %s is replaced with a version number, for example:
+#. "Update available (0.4.122)"
+#: ../client/application/utils/version.cpp:72
+msgid "Update available %s"
+msgstr "Доступна нова версія гри %s"
 

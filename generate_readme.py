@@ -45,7 +45,7 @@ os.chdir(dname)
 #  * There is no code for the chinese variants
 metadata_source_file_path = "metadata.json"
 
-with open(metadata_source_file_path, 'r', encoding='utf8') as f:
+with open(metadata_source_file_path, "r", encoding="utf8") as f:
     langs = json.load(f)
 
 lang_files_dir = "translations/"
@@ -58,18 +58,17 @@ for lang in langs:
     lang_file = lang_files_dir + lang_code + ".po"
     message_count = 0.0
     missing_translations = 0.0
-    with open(lang_file, 'r', encoding="utf8") as f:
+    with open(lang_file, "r", encoding="utf8") as f:
         for line in f:
             if line.startswith("msgstr"):
                 message_count += 1
-            if line == "msgstr \"\"\n":
+            if line == 'msgstr ""\n':
                 missing_translations += 1
-    lang_stats[lang_code] = {"total": message_count,
-                             "missing": missing_translations}
+    lang_stats[lang_code] = {"total": message_count, "missing": missing_translations}
 
 # Write the README
 readme_file = "README.md"
-with open(readme_file, 'w', encoding="utf8", newline='\r\n') as f:
+with open(readme_file, "w", encoding="utf8", newline="\r\n") as f:
     f.write(header)
 
     results = []
@@ -80,14 +79,19 @@ with open(readme_file, 'w', encoding="utf8", newline='\r\n') as f:
         percentage = int(100 - percentage * 100)
         results.append([lang, percentage])
 
-    results = sorted(results, key=lambda x:x[1])
+    results = sorted(results, key=lambda x: x[1])
     for lang, percentage in results:
         lang_code = lang["code"]
         lang_name = lang["english_name"]
         flag = lang["emoji_flag"]
         stats = lang_stats[lang_code]
-        comment = " (" + str(percentage) + "% complete; " + \
-            str(int(stats["missing"])) + " remaining)"
+        comment = (
+            " ("
+            + str(percentage)
+            + "% complete; "
+            + str(int(stats["missing"]))
+            + " remaining)"
+        )
         if stats["missing"] == 0:
             comment = " (100% complete! 🎉)"
         lang_link = "[" + lang_name + "](/translations/" + lang_code + ".po)"

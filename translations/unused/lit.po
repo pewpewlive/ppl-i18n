@@ -64,6 +64,9 @@ msgstr "Aukšta (Tamsi)"
 msgid "Information"
 msgstr "Informacija"
 
+msgid "Joysticks"
+msgstr "Vairasvirtės"
+
 msgid "Level name"
 msgstr "Lygio pavadinimas"
 
@@ -126,6 +129,24 @@ msgstr "Foną apskaičiuoti brangu"
 
 msgid "Translations"
 msgstr "Vertimai"
+
+msgid "UI colors"
+msgstr "Vartotojo sąsajos spalva"
+
+msgid "Ultra low 16x"
+msgstr "Labai žema 16x"
+
+msgid "Ultra low 2x"
+msgstr "Labai žema 2x"
+
+msgid "Ultra low 32x"
+msgstr "Labai žema 32x"
+
+msgid "Ultra low 4x"
+msgstr "Labai žema 4x"
+
+msgid "Ultra low 8x"
+msgstr "Labai žema 8x"
 
 msgid "Unknown level"
 msgstr "Nežinomas lygis"

@@ -64,6 +64,9 @@ msgstr "Dank elite"
 msgid "Information"
 msgstr "kool info"
 
+msgid "Joysticks"
+msgstr "Flight sticks"
+
 msgid "Level name"
 msgstr "battleground"
 
@@ -123,6 +126,24 @@ msgstr "90% of budget is in the background"
 
 msgid "Translations"
 msgstr "Lingo Transfers"
+
+msgid "UI colors"
+msgstr "button tinge"
+
+msgid "Ultra low 16x"
+msgstr "android phone"
+
+msgid "Ultra low 2x"
+msgstr "JPEG low 2x"
+
+msgid "Ultra low 32x"
+msgstr "No turing back"
+
+msgid "Ultra low 4x"
+msgstr "Apple Phones"
+
+msgid "Ultra low 8x"
+msgstr ".png"
 
 msgid "Unknown level"
 msgstr "missingno level"

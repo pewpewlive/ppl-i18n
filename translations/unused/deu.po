@@ -61,6 +61,9 @@ msgstr "Partie is voll"
 msgid "High (Dark)"
 msgstr "Hoch (Dunkel)"
 
+msgid "Joysticks"
+msgstr "Joysticks"
+
 msgid "Level name"
 msgstr "Name des Levels"
 
@@ -123,6 +126,21 @@ msgstr "Dreiecke überall!"
 
 msgid "Translations"
 msgstr "Übersetzungen"
+
+msgid "Ultra low 16x"
+msgstr "Ultra niedrig 16x"
+
+msgid "Ultra low 2x"
+msgstr "Ultra niedrig 2x"
+
+msgid "Ultra low 32x"
+msgstr "Ultra niedrig 32x"
+
+msgid "Ultra low 4x"
+msgstr "Ultra niedrig 4x"
+
+msgid "Ultra low 8x"
+msgstr "Ultra niedrig 8x"
 
 msgid "Waiting for the server..."
 msgstr "Ein Moment bitte..."

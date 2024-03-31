@@ -1,0 +1,27 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "%s дәуірінің медальдары мен жұлдыздары"
+msgstr "Medallar va milod yulduzlari %s"
+
+msgid "Joysticks"
+msgstr "Басқару"
+
+msgid "UI colors"
+msgstr "Интерфейс түсі"
+
+msgid "Ultra low 16x"
+msgstr "Пиксель 16х"
+
+msgid "Ultra low 2x"
+msgstr "Пиксель 2х"
+
+msgid "Ultra low 32x"
+msgstr "Пиксель 32х"
+
+msgid "Ultra low 4x"
+msgstr "Пиксель 4x"
+
+msgid "Ultra low 8x"
+msgstr "Пиксель 8x"
+

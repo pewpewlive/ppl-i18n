@@ -64,6 +64,9 @@ msgstr "Visoko (Tamno)"
 msgid "Information"
 msgstr "Informacije"
 
+msgid "Joysticks"
+msgstr "Joystickovi"
+
 msgid "Level name"
 msgstr "Ime levela"
 
@@ -126,6 +129,24 @@ msgstr "Pozadina je skupa za izračunavanje"
 
 msgid "Translations"
 msgstr "Prijevodi"
+
+msgid "UI colors"
+msgstr "UI boje"
+
+msgid "Ultra low 16x"
+msgstr "Ultra nisko 16x"
+
+msgid "Ultra low 2x"
+msgstr "Ultra nisko 2x"
+
+msgid "Ultra low 32x"
+msgstr "Ultra nisko 32x"
+
+msgid "Ultra low 4x"
+msgstr "Ultra nisko 4x"
+
+msgid "Ultra low 8x"
+msgstr "Ultra nisko 8x"
 
 msgid "Waiting for the server..."
 msgstr "Čekanje na server..."

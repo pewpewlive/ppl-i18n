@@ -106,6 +106,24 @@ msgstr "Pumili ng level"
 msgid "The background is expensive to compute"
 msgstr "Ang ganda ng background :O"
 
+msgid "UI colors"
+msgstr "Kulay ng UI"
+
+msgid "Ultra low 16x"
+msgstr "Pinalabo ng 16x"
+
+msgid "Ultra low 2x"
+msgstr "Pinalabo ng 2x"
+
+msgid "Ultra low 32x"
+msgstr "Pinalabo ng 32x"
+
+msgid "Ultra low 4x"
+msgstr "Pinalabo ng 4x"
+
+msgid "Ultra low 8x"
+msgstr "Pinalabo ng 8x"
+
 msgid "Yes!"
 msgstr "Syempre!"
 

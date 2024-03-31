@@ -64,6 +64,9 @@ msgstr "Haute (Nuit)"
 msgid "Information"
 msgstr "Information"
 
+msgid "Joysticks"
+msgstr "Joysticks"
+
 msgid "Level name"
 msgstr "Nom du niveau"
 
@@ -126,6 +129,24 @@ msgstr "Des triangles jaunes partout"
 
 msgid "Translations"
 msgstr "Traductions"
+
+msgid "UI colors"
+msgstr "Couleurs de l'interface"
+
+msgid "Ultra low 16x"
+msgstr "Ultra basse 16x"
+
+msgid "Ultra low 2x"
+msgstr "Ultra basse 2x"
+
+msgid "Ultra low 32x"
+msgstr "Ultra basse 32x"
+
+msgid "Ultra low 4x"
+msgstr "Ultra basse 4x"
+
+msgid "Ultra low 8x"
+msgstr "Ultra basse 8x"
 
 msgid "Unknown level"
 msgstr "Niveau inconnu"

@@ -1,96 +1,293 @@
-#: ../client/application/ui/ui_helpers.cpp:67
-msgid "on"
-msgstr "włą"
+#. The template for the description of score-related achievements.
+#. `%1$s` will be replaced by the name of the level.
+#. `%2$s` will be replaced by the score to reach.
+#. For example:
+#. "In Eskiv, score 10000 or more"
+#: ../client/application/account/achievements_description.cpp:16
+msgid "In %1$s, score %2$s or more."
+msgstr ""
 
-#: ../client/application/ui/ui_helpers.cpp:68
-msgid "off"
-msgstr "wyłą"
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: ../client/application/game/entities/player/ship.cpp:329
+msgid "Ouch"
+msgstr "Ała!"
 
-#: ../client/application/ui/keyboard_view.cpp:107
-msgid "ok"
-msgstr "okej"
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: ../client/application/game/entities/player/ship.cpp:332
+msgid "Yikes"
+msgstr "Piękne.."
 
-#. The color "red"
-#: ../client/application/ui/ui_skin.cpp:54
-msgid "Red"
-msgstr "Czerwony"
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: ../client/application/game/entities/player/ship.cpp:335
+msgid "Ow"
+msgstr "Au!"
 
-#. The color "cyan"
-#: ../client/application/ui/ui_skin.cpp:56
-msgid "Cyan"
-msgstr "Blady niebieski"
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: ../client/application/game/entities/player/ship.cpp:338
+msgid "Ugh"
+msgstr "Uhh"
 
-#. The color "lime"
-#: ../client/application/ui/ui_skin.cpp:58
-msgid "Lime"
-msgstr "Limonkowy"
-
-#. The color "lime green"
-#: ../client/application/ui/ui_skin.cpp:60
-msgid "Lime Green"
-msgstr "Limonkowa Zieleń"
-
-#. The color "purple"
-#: ../client/application/ui/ui_skin.cpp:62
-msgid "Purple"
-msgstr "Fioletowy"
-
-#. The color "pink"
-#: ../client/application/ui/ui_skin.cpp:64
-msgid "Pink"
-msgstr "Różowy"
-
-#. The color "orange"
-#: ../client/application/ui/ui_skin.cpp:66
-msgid "Orange"
-msgstr "Pomaranczowy"
-
-#. The color "white"
-#: ../client/application/ui/ui_skin.cpp:68
-msgid "White"
-msgstr "Biały"
-
-#. The color "gray"
-#: ../client/application/ui/ui_skin.cpp:70
-msgid "Gray"
-msgstr "Szary"
-
-#. The color "dark blue"
-#: ../client/application/ui/ui_skin.cpp:72
-msgid "Dark Blue"
-msgstr "Granatowy"
-
-#. Shown in a notification when a new version of the game is
-#. available.
-#. The %s is replaced with a version number, for example:
-#. "Update available (0.4.122)"
-#: ../client/application/utils/version.cpp:72
-msgid "Update available %s"
-msgstr "Dostępna aktualizacja %s"
-
-#: ../client/application/game/game.cpp:178
+#: ../client/application/game/game.cpp:163
 msgid "Quick pause"
 msgstr "szybka pauza"
 
-#: ../client/application/game/game.cpp:184
+#: ../client/application/game/game.cpp:169
 msgid "Quick pause %s"
 msgstr "szybka pauza %s"
 
-#: ../client/application/game/ui/pause_ui.cpp:27
-msgid "Continue"
-msgstr "Kontynuuj"
+#. Short description of the "asteroids" game mode
+#: ../client/application/game/levels/game_levels.cpp:91
+msgid "Euclidean space is overrated"
+msgstr "Euclidean space jest zbyt doceniany"
 
-#: ../client/application/game/ui/pause_ui.cpp:44
-msgid "Pause"
-msgstr "Pauza"
+#. Short description of the "hexagon" game mode
+#: ../client/application/game/levels/game_levels.cpp:109
+msgid "Never trust a six-sided polygon"
+msgstr "Nigdy nie ufaj sześciobocznemu wielokątowi"
 
-#: ../client/application/game/ui/pause_ui.cpp:61
-msgid "Restart"
-msgstr "Restartuj"
+#. Short description of the "hexagon" game mode
+#: ../client/application/game/levels/game_levels.cpp:111
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "Niezwiązane z \"Super Hexagon\""
 
-#: ../client/application/game/ui/pause_ui.cpp:79
-msgid "Exit"
-msgstr "Wyjście"
+#. Short description of the "hexagon" game mode
+#: ../client/application/game/levels/game_levels.cpp:113
+msgid "Choose your own difficulty"
+msgstr "Wybierz swój własny poziom trudności"
+
+#. Short description of the "eskiv" game mode
+#: ../client/application/game/levels/game_levels.cpp:130
+msgid "Dodge everything and you'll be OK"
+msgstr "Unikaj wszystkiego i będzie OK"
+
+#. Short description of the "eskiv" game mode
+#: ../client/application/game/levels/game_levels.cpp:132
+msgid "aka Dodge This"
+msgstr "aka Dodge This"
+
+#. Short description of the "eskiv" game mode
+#: ../client/application/game/levels/game_levels.cpp:134
+msgid "Green good. Red bad."
+msgstr "Zielony dobry. Czerwony zły."
+
+#. Short description of the "fury" game mode
+#: ../client/application/game/levels/game_levels.cpp:152
+msgid "Just 32 seconds of skills"
+msgstr "Po prostu 32 sekundy umiejętności"
+
+#. Short description of the "fury" game mode
+#: ../client/application/game/levels/game_levels.cpp:154
+msgid "My favorite mode"
+msgstr "Mój ulubiony tryb"
+
+#. Short description of the "fury" game mode
+#: ../client/application/game/levels/game_levels.cpp:156
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Przetrwaj 32 sekundy za pomocą tej prostej sztuczki"
+
+#. Short description of the "fury" game mode
+#: ../client/application/game/levels/game_levels.cpp:158
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\"Ten poziom to żart, tak?\" - testujący"
+
+#. Short description of the "waves" game mode
+#: ../client/application/game/levels/game_levels.cpp:176
+msgid "RIP GW3:Dimensions"
+msgstr "RIP GW3:Dimensions"
+
+#. Short description of the "waves" game mode
+#: ../client/application/game/levels/game_levels.cpp:178
+msgid "Previously known as Assault"
+msgstr "Poprzednio znany jako Assault"
+
+#. Short description of the "pandemonium" game mode
+#: ../client/application/game/levels/game_levels.cpp:214
+msgid "True bullet hell"
+msgstr ""
+
+#. Short description of the "pandemonium" game mode
+#: ../client/application/game/levels/game_levels.cpp:216
+msgid "With great firepower comes great dodging skills"
+msgstr ""
+
+#. Short description of the symbiosis game mode
+#: ../client/application/game/levels/game_levels.cpp:250
+msgid "2 brain hemispheres, 2 hands, 2 ships."
+msgstr ""
+
+#. Shown in a notification when a new score medal is earned.
+#: ../client/application/game/levels/medals.cpp:14
+msgid "New bronze medal"
+msgstr "Nowy brązowy medal"
+
+#. Shown in a notification when a new speedrun medal is earned.
+#: ../client/application/game/levels/medals.cpp:16
+msgid "New bronze speedrun medal"
+msgstr ""
+
+#. Shown in a notification when a new score medal is earned.
+#: ../client/application/game/levels/medals.cpp:19
+msgid "New silver medal"
+msgstr "Nowy srebrny medal"
+
+#. Shown in a notification when a new speedrun medal is earned.
+#: ../client/application/game/levels/medals.cpp:21
+msgid "New silver speedrun medal"
+msgstr ""
+
+#. Shown in a notification when a new score medal is earned.
+#: ../client/application/game/levels/medals.cpp:24
+msgid "New gold medal"
+msgstr "Nowy złoty medal"
+
+#. Shown in a notification when a new speedrun medal is earned.
+#: ../client/application/game/levels/medals.cpp:26
+msgid "New gold speedrun medal"
+msgstr ""
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:143
+msgid "You've been signed out."
+msgstr "Zostałeś wylogowany."
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:182
+msgid "Failed to download backup data"
+msgstr "Nie udało się pobrać danych kopii zapasowej"
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:270
+msgid "Failed to download achievements"
+msgstr "Nie udało się pobrać osiągnięć"
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:314
+msgid "Failed to upload achievements"
+msgstr "Nie udało się dosłać osiągnięć"
+
+#: ../client/application/game/player_data/data_synchronizer.cpp:343
+msgid "Failed to download unlocked items"
+msgstr ""
+
+#. Shown in a notification when you improve your best score in a given level.
+#. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
+#: ../client/application/game/player_data/player_data_manager.cpp:49
+msgid "New personal best! %s ⇨ %s"
+msgstr "Nowy Lokalny najlepszy! %s ⇨ %s"
+
+#. Shown in a notification when you improve your best speed run in a given
+#. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
+#: ../client/application/game/player_data/player_data_manager.cpp:52
+msgid "Improved speed run! %s ⇨ %s"
+msgstr "Poprawiony speedrun! %s ⇨ %s"
+
+#. String shown in a notification when an achievement was unlocked.
+#. %s is replaced with the name of the achievement.
+#: ../client/application/game/player_data/player_data_manager.cpp:802
+msgid "Achievement Unlocked: %s"
+msgstr "Odblokowano Osiągnięcie: %s"
+
+#. Describes the rarity level of items. Rarity level of 0.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:287
+msgid "Common"
+msgstr ""
+
+#. Describes the rarity level of items. Rarity level of 1.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:289
+msgid "Uncommon"
+msgstr ""
+
+#. Describes the rarity level of items.  Rarity level of 2.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:291
+msgid "Rare"
+msgstr ""
+
+#. Describes the rarity level of items.  Rarity level of 3.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:293
+msgid "Epic"
+msgstr ""
+
+#. Describes the rarity level of items.  Rarity level of 4.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:295
+msgid "Legendary"
+msgstr ""
+
+#. Describes the rarity level of items.  Rarity level of 5.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:297
+msgid "Mythical"
+msgstr ""
+
+#. Describes the rarity level of items.  Rarity level of 6.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:299
+msgid "Transcendent"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:26
+msgid "Ship"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:28
+msgid "Trail"
+msgstr "Ślad"
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:30
+msgid "Bullet"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:32
+msgid "Mace"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:34
+msgid "Laser"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:36
+msgid "Joystick"
+msgstr ""
+
+#. Describes a type of unlockable item
+#: ../client/application/game/player_data/player_unlocked_items.h:38
+msgid "UI Color"
+msgstr ""
+
+#: ../client/application/game/state/game_network_message_parser.cpp:57
+msgid "%s left the game"
+msgstr "%s opuścił(a) grę"
+
+#: ../client/application/game/state/game_state.cpp:489
+msgid "N/A"
+msgstr "N/A"
+
+#. Shown when the game is displaying stats. Concerns the player's shooting
+#. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
+#: ../client/application/game/state/game_state.cpp:502
+msgid "Accuracy: %s"
+msgstr "Celność: %s"
+
+#. Shown when the game is displaying stats. The %s is replaced with a number,
+#. for example "Total score: 43423"
+#: ../client/application/game/state/game_state.cpp:505
+msgid "Total score: %s"
+msgstr "Ilość punktów: %s"
+
+#. Shown when the game is displaying stats. The %s is replaced with a number,
+#. for example "Pointonium: 34444"
+#: ../client/application/game/state/game_state.cpp:509
+msgid "Pointonium: %s"
+msgstr "Pointonium: %s"
+
+#. Shown when the game is displaying stats. The %s is replaced with a
+#. duration, for example: "Duration: 1m43s"
+#: ../client/application/game/state/game_state.cpp:513
+msgid "Duration: %s"
+msgstr "Czas trwania: %s"
 
 #: ../client/application/game/ui/game_over_ui.cpp:10
 msgid "Game Over"
@@ -121,6 +318,10 @@ msgstr "W porządku, i tak nigdy nie zamierzałeś wygrać."
 msgid "Play again"
 msgstr "Zagraj ponownie"
 
+#: ../client/application/game/ui/game_over_ui.cpp:50
+msgid "Continue"
+msgstr "Kontynuuj"
+
 #. Shown when the player failed to achieve an objective
 #: ../client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
@@ -131,116 +332,310 @@ msgstr "Nie udało się"
 msgid "Success!"
 msgstr "Powodzenie!"
 
-#: ../client/application/game/ui/shared_strings.cpp:7
-msgid "Failed to parse response"
-msgstr "Nie udało się przeanalizować odpowiedzi"
+#: ../client/application/game/ui/game_over_ui.cpp:113
+msgid "Exit"
+msgstr "Wyjście"
 
-#: ../client/application/game/ui/shared_strings.cpp:11
-msgid "Failed to contact server"
-msgstr "Nie udało się skontaktować z serwerem"
+#: ../client/application/game/ui/pause_ui.cpp:45
+msgid "Pause"
+msgstr "Pauza"
 
-#: ../client/application/game/ui/shared_strings.cpp:15
-msgid "Official levels"
-msgstr "Poziomy Oficjalne"
+#: ../client/application/game/ui/pause_ui.cpp:62
+msgid "Restart"
+msgstr "Restartuj"
 
-#: ../client/application/game/ui/shared_strings.cpp:19
-msgid "Community levels"
-msgstr "Poziomy społeczności"
+#: ../client/application/game/ui/screens/accounts/screen_account_url_request.cpp:77
+msgid "Loading..."
+msgstr "Ładowanie..."
 
-#: ../client/application/game/ui/shared_strings.cpp:23
-msgid "play count: %s"
-msgstr "Liczba zagrań: %s"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
+msgid "Change colors"
+msgstr "Zmień kolory"
 
-#: ../client/application/game/ui/shared_strings.cpp:27
-msgid "time played: %s"
-msgstr "Czas grania: %s"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
+msgid "Old username:"
+msgstr "Stara nazwa użytkownika:"
 
-#: ../client/application/game/ui/shared_strings.cpp:31
-msgid "Casual"
-msgstr "Luźny"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
+msgid "New username:"
+msgstr "Nowa nazwa użytkownika:"
 
-#: ../client/application/game/ui/shared_strings.cpp:35
-msgid "Failed to sign-in!"
-msgstr "Logowanie nie powiodło się"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
+msgid "Change"
+msgstr "Zmień"
 
-#. Used for showing the version of a level. The %s will be replaced with a
-#. version number. For example: "version 2"
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
-msgid "version %s"
-msgstr "wersja %s"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
+msgid "Only change colors! %s"
+msgstr "Tylko zmień kolory! %s"
 
-#. Used for showing the release date of a level. The %s will be replaced with
-#. a date. For example: "released 01/02/03"
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:21
-msgid "released %s"
-msgstr "wydany w %s"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
+msgid "Username color change"
+msgstr "Zmiana koloru nazwy użytkownika"
 
-#. Used if the level does not contain any information.
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
-msgid "No information available"
-msgstr "Brak dostępnych informacji"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
+msgid "Username change succesfull"
+msgstr "Zmiana nazwy użytkownika powiodła się"
 
-#. Used for showing the percentage of people who managed to get a gold medal
-#. for a given level.
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
-msgid "Gold medals percentage: %s"
-msgstr "Procent złotych medali: %s"
+#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
+msgid "Failed to update username"
+msgstr "Nie udało się zaktualizować nazwy użytkownika"
 
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:47
-msgid "N/A"
-msgstr "N/A"
+#. Shown in a header, in the screen that allows you to manage your PewPew
+#. Live account. In this screen you can for example change the colors of your
+#. nickname, or delete your account.
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
+msgid "Manage Account"
+msgstr "Zarządzać kontem"
 
-#: ../client/application/game/ui/screens/screen_download_level.cpp:34
-msgid "Downloading level..."
-msgstr "Pobieranie poziomu..."
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
+msgid "Synchronize"
+msgstr "Synchronizuj"
 
-#: ../client/application/game/ui/screens/screen_download_level.cpp:62
-msgid "Failed to download level."
-msgstr "Pobieranie poziomu nie powiodło się."
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
+msgid "Sign out"
+msgstr "Wyloguj się"
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
-msgid "Connect to server"
-msgstr "Połącz się do serwera"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:62
+msgid "Delete account"
+msgstr "Usuń konto"
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
-msgid "IP:"
-msgstr "IP:"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:74
+msgid "Account deletion"
+msgstr "Usunięcie konta"
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
-msgid "Port:"
-msgstr "Port:"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
+msgid "Account deletion requested."
+msgstr "Poproszono o usunięcie konta."
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
-msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr "Połącz się do innego pokoju przez internet #ff0000ff(experimental)"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:83
+msgid "An email asking for confirmation was sent."
+msgstr "Zostało wysłane potwierdzenie maila."
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
-msgid "Connect"
-msgstr "Połącz"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:88
+msgid "Failed to request account deletion"
+msgstr "Nie udało się wysłać pytania o usunięcie konta"
 
-#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
-msgid "Enter password"
-msgstr "Wprowadź hasło"
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:109
+msgid "Help"
+msgstr "Pomoc"
 
-#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
-msgid "Join"
-msgstr "Dołącz"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
+msgid "Email is invalid!"
+msgstr "E-mail jest nieprawidłowy!"
 
-#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:42
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
+msgid "Too short. Minimum %s characters."
+msgstr "Zbyt krótkie. Minimum %s znaków."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:53
+msgid "Too long. Maximum %s characters."
+msgstr "Zbyt długie. Maksymalnie %s znaków."
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
+msgid "Register account"
+msgstr "Zarejestruj konto"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+msgid "Password"
+msgstr "Hasło"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+msgid "Confirm password"
+msgstr "Potwierdź hasło"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+msgid "Email"
+msgstr "E-mail"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
+msgid "Confirm email"
+msgstr "Potwierdź e-mail"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:117
+msgid "Register"
+msgstr "Zarejestruj"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
+msgid "Registering"
+msgstr "Rejestrowanie"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
+msgid "Registration successful."
+msgstr "Rejestracja powiodła sie"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
+msgid "Please check your emails!"
+msgstr "Sprawdź swoją skrzynkę odbiorczą!"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
+msgid "Failed to register"
+msgstr "Nie udało się zarejestrować"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
+msgid "Username (you can put colors in!):"
+msgstr "Nazwa użytkownika (możesz dodać kolory!):"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Password:"
 msgstr "Hasło:"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
-msgid "Configure joysticks"
-msgstr "Konfiguruj drążki sterujące"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
+msgid "Confirm password:"
+msgstr "Potwierdź hasło:"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
-msgid "Swap"
-msgstr "Zamień"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
+msgid "Email:"
+msgstr "E-mail:"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:117
-msgid "Reset"
-msgstr "Resetuj"
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
+msgid "Confirm email:"
+msgstr "Potwierdź e-mail:"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
+msgid "Passwords do not match!"
+msgstr "Hasła się nie zgadzają!"
+
+#: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
+msgid "Emails do not match!"
+msgstr "E-maile się nie zgadzają!"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
+msgid "Account"
+msgstr "Konto"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
+msgid "Not signed in"
+msgstr "Nie zalogowano"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
+msgid "Create an account to set your name and sync your data"
+msgstr "Utwórz konto żeby ustawić twoją nazwę i aby zsynchronizować twoje dane"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
+msgid "Sign in"
+msgstr "Zaloguj się"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
+msgid "Privacy Policy"
+msgstr "Polityka Prywatności"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
+msgid "You need to be signed-in to upload scores"
+msgstr "Musisz być zalogowany by przesyłać wyniki"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
+msgid "You need to be signed-in to play online"
+msgstr "Aby grać online, musisz się zalogować"
+
+#. Error message shown if to the player when they are trying to view
+#. comments while not signed-in.
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
+msgid "You need to be signed-in to view comments"
+msgstr "Aby wyświetlić komentarze, musisz się zalogować"
+
+#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
+msgid "Your account"
+msgstr "Twoje konto"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
+msgid "Requesting verification email"
+msgstr "Żądanie weryfikacji e-maila"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
+msgid "Verification email sent"
+msgstr "Wysłano e-mail weryfikacyjny"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
+msgid "Check your inbox!"
+msgstr "Sprawdź swoją skrzynkę odbiorczą!"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
+msgid "Failed to resend email"
+msgstr "Nie udało się ponownie wysłać e-maila"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
+msgid "Requesting password reset"
+msgstr "Żądanie resetu hasła"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:57
+msgid "Password reset email sent"
+msgstr "Wysłano wiadomość e-mail dotyczącą resetowania hasła"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:64
+msgid "Failed to request password reset"
+msgstr "Nie udało się zażądać resetowania hasła"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
+msgid "Signing in"
+msgstr "Logowanie..."
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
+msgid "Successfully signed in!"
+msgstr "Logowanie powiodło się!"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
+msgid "Email not verified"
+msgstr "E-mail nie zweryfikowany"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
+msgid "Re-send verification email"
+msgstr "Wysłano ponownie e-mail weryfikacyjny"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:184
+msgid "Incorrect password"
+msgstr "Nieprawidłowe hasło"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:187
+msgid "Request password reset"
+msgstr "Poproś o resetowanie hasła"
+
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:213
+msgid "Reset password"
+msgstr "Zresetuj hasło"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
+msgid "Synchronizing"
+msgstr "Synchronizacja..."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:55
+msgid "Failed to synchronize."
+msgstr "Błąd synchronizacji"
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:61
+msgid "Synchronization completed."
+msgstr "Synchronizacja ukończona."
+
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
+msgid "Your verified medals have been downloaded."
+msgstr "Twoje zweryfikowane medale zostały pobrane."
+
+#: ../client/application/game/ui/screens/screen_benchmark.cpp:33
+msgid "Skip"
+msgstr "Pomiń"
+
+#: ../client/application/game/ui/screens/screen_career.cpp:27
+msgid "Statistics"
+msgstr "Statystyki"
+
+#: ../client/application/game/ui/screens/screen_career.cpp:54
+msgid "Global leaderboards"
+msgstr "Światowe tabele wyników"
+
+#. Shown in the career screen. Underneath it, a
+#. summary of the completed deviations is shown.
+#: ../client/application/game/ui/screens/screen_career.cpp:71
+msgid "Deviations completed"
+msgstr ""
+
+#. The text shown in the career screen that explains that the
+#. stars and medals shown are *not* specific to an era.
+#: ../client/application/game/ui/screens/screen_career.cpp:85
+msgid "All time stars and medals"
+msgstr "Gwiazdy i medale wszechczasów"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -258,33 +653,213 @@ msgstr "Nasycenie"
 msgid "Curve"
 msgstr "Krzywa"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
-msgid "Select multiplayer type"
-msgstr "Wybierz typ gry wieloosobowej"
+#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:118
+msgid "Reset"
+msgstr "Resetuj"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:22
-msgid "Online multiplayer"
-msgstr "Gra Online wieloosobowa"
+#. The name of the graphics configuration that disables all the graphics effects
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:42
+msgid "Minimal"
+msgstr "Minimalny"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
-msgid "Play with people around the world!"
-msgstr "Graj z osobami z całego świata!"
+#. The name of the graphics configuration that enables a few graphical effects
+#. while still allowing screen recording with a high compression ratio
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:45
+msgid "Compression friendly"
+msgstr "Przyjazny dla kompresji"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
-msgid "LAN multiplayer"
-msgstr "Lokalna gra wieloosobowa"
+#. The name of the graphics configuration that enables almost all the graphical effects.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:47
+msgid "High"
+msgstr "Wysokie"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
-msgid "Play with people on the same network!"
-msgstr "Graj z osobami w tej samej sieci!"
+#. The name of the graphics configuration that enables all the graphical effects.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:49
+msgid "Highest"
+msgstr ""
+
+#. Title of the screen where graphics are configured.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:77
+msgid "Configure graphics"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
+msgid "off"
+msgstr "wyłą"
+
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
+msgid "on"
+msgstr "włą"
+
+#. The name of the setting category for choosing the bloom (=glow) intensity.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:103
+msgid "Bloom intensity"
+msgstr ""
+
+#. The name of the setting category for choosing whether "lens dirt" is
+#. present or not.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
+msgid "Lens dirt"
+msgstr ""
+
+#. The name of the setting that enables horizontal scanlines.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:120
+msgid "horizontal"
+msgstr ""
+
+#. The name of setting that enables grid-like scanlines.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:122
+msgid "grid"
+msgstr ""
+
+#. The name for the setting category for choosing the scalines type.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:124
+msgid "Scanlines"
+msgstr ""
+
+#. The name for the setting category for choosing the chromatic aberration.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:130
+msgid "Chromatic aberration"
+msgstr ""
+
+#. The name for the setting category for choosing the intensity of the curve
+#. of the monitor.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:139
+msgid "Curved monitor"
+msgstr ""
+
+#. The name for the setting category for choosing the intensity of the
+#. vignette effect.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:148
+msgid "Vignette"
+msgstr ""
+
+#. Name of the setting for when the game is shown in a window.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:161
+msgid "Windowed"
+msgstr "Okno"
+
+#. Name of the setting for when the game is shown in fullscreen.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:163
+msgid "Fullscreen"
+msgstr "Pełny ekran"
+
+#. Name of the setting for when the game is shown in a borderless window.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:165
+msgid "Borderless"
+msgstr ""
+
+#. Name of the category where you select Windowed mode or Fullscreen.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
+msgid "Screen type"
+msgstr ""
+
+#. The title of the screen that allows selecting the graphical appearance of
+#. the touch joysticks.
+#: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
+msgid "Joysticks style"
+msgstr "Styl Joysticków"
+
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
+msgid "Configure keyboard"
+msgstr "Konfiguruj klawiaturę"
+
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:124
+msgid "Move"
+msgstr "Ruszaj"
+
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:132
+msgid "Shoot"
+msgstr "Strzelaj"
+
+#. Used in the settings. The %s is replaced with "on" or "off", for example:
+#. "Mouse aim off".
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:232
+msgid "Mouse aim %s"
+msgstr "Celowanie myszką %s"
+
+#. Used in the settings. The %s is replaced with the name of a key, for
+#. example: "Quick restart: space".
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:236
+msgid "Quick Restart: %s"
+msgstr "Szybki restart: %s"
+
+#: ../client/application/game/ui/screens/screen_configure_ship_ppl1.cpp:55
+msgid "Configure Ship"
+msgstr "Konfiguruj Statek"
+
+#: ../client/application/game/ui/screens/screen_configure_ship_ppl1.cpp:58
+msgid "Model"
+msgstr "Model"
+
+#: ../client/application/game/ui/screens/screen_configure_ship_ppl1.cpp:58
+msgid "Bullets"
+msgstr "Pociski"
+
+#. The string shown in the header of the screen where you select which
+#. items you want. The items include: the ship, the trail, the
+#. bullets, the joysticks, the ui color, etc...
+#: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:78
+msgid "Inventory"
+msgstr ""
+
+#. Shown in the tab strip of the inventory. Used for showing all the unlocked
+#. items.
+#: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:83
+msgid "All"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
+msgid "Configure joysticks"
+msgstr "Konfiguruj drążki sterujące"
+
+#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
+msgid "Swap"
+msgstr "Zamień"
+
+#: ../client/application/game/ui/screens/screen_download_level.cpp:34
+msgid "Downloading level..."
+msgstr "Pobieranie poziomu..."
+
+#: ../client/application/game/ui/screens/screen_download_level.cpp:62
+msgid "Failed to download level."
+msgstr "Pobieranie poziomu nie powiodło się."
+
+#: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
+msgid "Encyclopedia"
+msgstr "Encyklopedia"
+
+#: ../client/application/game/ui/screens/screen_informations.cpp:87
+msgid "Music"
+msgstr "Muzyka"
+
+#. Shown in a button. This buttons lets you see a list of people that
+#. contributed to the game.
+#: ../client/application/game/ui/screens/screen_informations.cpp:102
+msgid "Credits"
+msgstr "Napisy końcowe"
+
+#. Shown in a button. This buttons lets you see the list of programming
+#. library that are used in the game.
+#: ../client/application/game/ui/screens/screen_informations.cpp:116
+msgid "Licenses"
+msgstr "Licencje"
+
+#. Shown in the information screen.
+#. Used in a button that redirects to discord server
+#: ../client/application/game/ui/screens/screen_informations.h:22
+msgid "Discord server"
+msgstr "Serwer Discord"
+
+#. Shown in the information screen.
+#. Used in a button that redirects to the youtube channel
+#: ../client/application/game/ui/screens/screen_informations.h:30
+msgid "Development videos"
+msgstr "Filmy rozwoju gry"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
 msgstr "Lokalny gra wieloosobowa"
-
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:38
-msgid "Help"
-msgstr "Pomoc"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
@@ -326,89 +901,45 @@ msgstr "Stwórz pokój"
 msgid "Close room"
 msgstr "Zamknij pokój"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:54
-msgid "Configure Ship"
-msgstr "Konfiguruj Statek"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:47
+msgid "Single Player"
+msgstr "Tryb Jednoosobowy"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:57
-msgid "Model"
-msgstr "Model"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:50
+msgid "Play"
+msgstr "Zagraj"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:57
-msgid "Trail"
-msgstr "Ślad"
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:78
+msgid "Multiplayer"
+msgstr "Tryb Wieloosobowy"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:57
-msgid "Bullets"
-msgstr "Pociski"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
+msgid "Room is full"
+msgstr "Pokój jest pełny"
 
-#. Shown in a button used to configure the style of joysticks
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:436
-msgid "Joysticks"
-msgstr "Joysticki"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:115
+msgid "You are already in the room!"
+msgstr "Już jesteś w pokoju!"
 
-#. Shown in a button used to configure the color the UI.
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:446
-msgid "UI colors"
-msgstr "Kolory interfejsu"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:183
+msgid "Local lobby"
+msgstr "Lobby lokalne"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
-msgid "Upload scores"
-msgstr "Prześlij wyniki"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:186
+msgid "Online lobby"
+msgstr "Lobby Online"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:80
-msgid "Nothing to upload!"
-msgstr "Nie ma nic do przesłania!"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:192
+msgid "Ready"
+msgstr "Gotowy"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:98
-msgid "Failed to upload replays."
-msgstr "Nie udało się przesłać powtórek"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:201
+msgid "Cancel"
+msgstr "Anuluj"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:100
-msgid "Upload successful"
-msgstr "Przesłanie powiodło się"
-
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:120
-msgid "Uploading replay for %s."
-msgstr "Przesyłanie powtórki dla %s."
-
-#: ../client/application/game/ui/screens/screen_career.cpp:27
-msgid "Statistics"
-msgstr "Statystyki"
-
-#: ../client/application/game/ui/screens/screen_career.cpp:54
-msgid "Global leaderboards"
-msgstr "Światowe tabele wyników"
-
-#. The message shown in the career screen that explains that the
-#. stars and medals shown are *not* specific to an era.
-#: ../client/application/game/ui/screens/screen_career.cpp:82
-msgid "All time stars and medals"
-msgstr "Gwiazdy i medale wszechczasów"
-
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
-msgid "Configure keyboard"
-msgstr "Konfiguruj klawiaturę"
-
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:124
-msgid "Move"
-msgstr "Ruszaj"
-
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:132
-msgid "Shoot"
-msgstr "Strzelaj"
-
-#. Used in the settings. The %s is replaced with "on" or "off", for example:
-#. "Mouse aim off".
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:232
-msgid "Mouse aim %s"
-msgstr "Celowanie myszką %s"
-
-#. Used in the settings. The %s is replaced with the name of a key, for
-#. example: "Quick restart: space".
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:236
-msgid "Quick Restart: %s"
-msgstr "Szybki restart: %s"
+#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:344
+msgid "Waiting for other players..."
+msgstr "Czekanie na pozostałych graczy..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
@@ -457,107 +988,195 @@ msgstr "Uwierzytelnianie nie powiodło się"
 msgid "Error :("
 msgstr "Błąd :("
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:184
-msgid "Are you sure you want to report this comment?"
-msgstr "Jesteś pewny że chcesz zgłosić ten komentarz?"
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:39
+msgid "Room configuration"
+msgstr "Konfiguracja pokoju"
 
-#. Shown in a notification after successfully reporting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:186
-msgid "Successfully reported comment"
-msgstr "Pomyślnie zgłoszono komentarz"
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
+msgid "2 extra characters (optional):"
+msgstr "2 dodatkowe znaki (opcjonalne):"
 
-#. Shown in a notification if a comment could not be reported.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:188
-msgid "Error reporting comment"
-msgstr "Błąd podczas zgłaszania komentarza"
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
+msgid "Password (optional):"
+msgstr "Hasło (opcjonalne):"
 
-#. The title of the screen where players delete comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:217
-msgid "Delete comment"
-msgstr "Usuń komentarz"
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
+msgid "Any level"
+msgstr "Dowolny poziom"
 
-#. Shown in a notification after successfully deleting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:219
-msgid "Successfully deleted comment"
-msgstr "Pomyślnie usunięto komentarz"
+#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:179
+msgid "Room name: %s"
+msgstr "Nazwa pokoju: %s"
 
-#. Shown in a notification if a comment could not be deleting.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:221
-msgid "Error deleting comment"
-msgstr "Błąd podczas usuwania komentarza"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:281
+msgid "Joining room"
+msgstr "Dołączanie do pokoju"
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:224
-msgid "Are you sure you want to delete this comment?"
-msgstr "Jesteś pewny że chcesz usunąć ten komentarz?"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:301
+msgid "The room expired"
+msgstr "Pokój wygasł"
 
-#. Used as a placeholder in the textfield where players write their comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:305
-msgid "<Add a comment here>"
-msgstr "<Dodaj komentarz tutaj>"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:315
+msgid "Unknown error"
+msgstr "Nieznany błąd"
 
-#. Displayed in a button. Pressing that button posts the comment that was
-#. written by the player.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:320
-msgid "Comment"
-msgstr "Komentarz"
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:330
+msgid "Failed to join room"
+msgstr "Nie udało się dołączyć do pokoju"
 
-#. Shown in a notification if the player tries to post a comment that is
-#. less than 3 character long.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:326
-msgid "Comment must be at least 3 characters long."
-msgstr "Komentarz musi mieć długość przynajmniej 3 znaków "
+#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
+msgid "The room does not exist anymore"
+msgstr "Ten pokój już nie istnieje"
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:342
-msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Proszę uważaj na swój język. Bez wyzywania się, bez przekleństw, bez spamu. Możemy usuwać wszelkie posty, które naruszają tę zasadę oraz blokować lub banować osoby naruszające tę zasadę."
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
+msgid "Enter password"
+msgstr "Wprowadź hasło"
 
-#. Shown in the title of the screen where the player waits for the comment
-#. to be posted to the server.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
-msgid "Posting comment"
-msgstr "Publikowanie komentarza"
+#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
+msgid "Join"
+msgstr "Dołącz"
 
-#. Shown in a notification after a comment was succesfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:387
-msgid "Comment posted"
-msgstr "komentarz opublikowany"
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:91
+msgid "Online multiplayer"
+msgstr "Gra Online wieloosobowa"
 
-#. Shown in a notification after a comment was succesfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:391
-msgid "Failed to post comment"
-msgstr "Publikowanie komentarza nie powiodło się"
+#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:112
+msgid "Refresh"
+msgstr "Odśwież"
 
-#. The title of the screen where players report comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:183
-msgctxt "report_screen_title"
-msgid "Report comment"
-msgstr "Zgłoś komentarz"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
+msgid "Select multiplayer type"
+msgstr "Wybierz typ gry wieloosobowej"
 
-#. The title of the screen where players enter the comment they want to add.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:298
-msgctxt "add_comment_screen_title"
-msgid "Add comment"
-msgstr "Dodaj komentarz"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
+msgid "Play with people around the world!"
+msgstr "Graj z osobami z całego świata!"
 
-#. Displayed in a button. The button is used in menus asking wether to
-#. confirm an action.
-#. For example:
-#.  | Are you sure you want to do X?
-#.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:454
-msgctxt "menu_confirm_action"
-msgid "Yes"
-msgstr "Tak"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
+msgid "LAN multiplayer"
+msgstr "Lokalna gra wieloosobowa"
 
-#. Displayed in a button. The button is used in menus asking whether to
-#. confirm an action.
-#. For example:
-#.  | Are you sure you want to do X?
-#.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:467
-msgctxt "menu_cancel_action"
-msgid "No"
-msgstr "Nie"
+#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
+msgid "Play with people on the same network!"
+msgstr "Graj z osobami w tej samej sieci!"
+
+#. The title of the screen where you select official levels.
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
+msgid "Official"
+msgstr "Oficjalne"
+
+#. The title of the screen where you select community levels.
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:42
+msgid "Community"
+msgstr "Społeczność"
+
+#. The title of the screen where you select what to play in the World.
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:44
+msgid "World"
+msgstr ""
+
+#. The title of the screen where you select what sandbox to play.
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:46
+msgid "Sandbox"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
+msgid "Connection error"
+msgstr "Błąd połączenia"
+
+#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
+msgid "Lost connection to host"
+msgstr "Utracono połączenie z hostem"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:33
+msgid "Settings"
+msgstr "Ustawienia"
+
+#. Shown in the button used for entering the screen to configure the
+#. graphics settings.
+#: ../client/application/game/ui/screens/screen_settings.cpp:44
+msgid "Graphics"
+msgstr "Grafika"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:54
+msgid "Controls"
+msgstr "Sterowanie"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:64
+msgid "Audio"
+msgstr "Dźwięki"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:75
+msgid "Language"
+msgstr "Język"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:86
+msgid "UI"
+msgstr "UI"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:112
+msgid "Start tutorial"
+msgstr "Zacznij samouczek"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:124
+msgid "Launch intro"
+msgstr "Wystartuj wprowadzenie"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:135
+msgid "Developer mode"
+msgstr "Tryb dewelopera"
+
+#: ../client/application/game/ui/screens/screen_settings.cpp:189
+msgid "Vibration %s"
+msgstr "Wibracje %s"
+
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:19
+msgid "Audio Settings"
+msgstr "Ustawienia Dźwięku"
+
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:28
+msgid "Sound effects"
+msgstr "Efekty dźwiękowe"
+
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:122
+msgid "Visualization"
+msgstr "Wizualizacja"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
+msgid "Controls Settings"
+msgstr "Ustawienia Sterowania"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
+msgid "Touchscreen"
+msgstr "Ekran dotykowy"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:38
+msgid "Keyboard"
+msgstr "Klawiatura"
+
+#: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
+msgid "Gamepad"
+msgstr "Kontroler"
+
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:17
+msgid "Language Settings"
+msgstr "Ustawienia języka"
+
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:20
+msgid "The translations are community provided!"
+msgstr "Tłumaczenia są tworzone przez społeczność!"
+
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:29
+msgid "Default language"
+msgstr "Domyślny język"
+
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:43
+msgid "Help out"
+msgstr "Pomoc"
+
+#: ../client/application/game/ui/screens/screen_settings_language.cpp:53
+msgid "Contributors"
+msgstr "Współautorzy"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
@@ -599,135 +1218,197 @@ msgstr "Skala UI: %s"
 msgid "UI Inset: %s"
 msgstr "Rozstaw interfejsu: %s"
 
-#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:112
-msgid "Refresh"
-msgstr "Odśwież"
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
+msgid "Connect to server"
+msgstr "Połącz się do serwera"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:17
-msgid "Language Settings"
-msgstr "Ustawienia języka"
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
+msgid "IP:"
+msgstr "IP:"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:20
-msgid "The translations are community provided!"
-msgstr "Tłumaczenia są tworzone przez społeczność!"
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
+msgid "Port:"
+msgstr "Port:"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:29
-msgid "Default language"
-msgstr "Domyślny język"
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Połącz się do innego pokoju przez internet #ff0000ff(experimental)"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:43
-msgid "Help out"
-msgstr "Pomoc"
-
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:53
-msgid "Contributors"
-msgstr "Współautorzy"
-
-#: ../client/application/game/ui/screens/screen_benchmark.cpp:29
-msgid "Skip"
-msgstr "Pomiń"
-
-#: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
-msgid "Encyclopedia"
-msgstr "Encyklopedia"
-
-#. The title of the screen that allows selecting the graphical appearance of
-#. the touch joysticks.
-#: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
-msgid "Joysticks style"
-msgstr "Styl Joysticków"
-
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:46
-msgid "Single Player"
-msgstr "Tryb Jednoosobowy"
-
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:49
-msgid "Play"
-msgstr "Zagraj"
-
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:77
-msgid "Multiplayer"
-msgstr "Tryb Wieloosobowy"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:281
-msgid "Joining room"
-msgstr "Dołączanie do pokoju"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:301
-msgid "The room expired"
-msgstr "Pokój wygasł"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:315
-msgid "Unknown error"
-msgstr "Nieznany błąd"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:330
-msgid "Failed to join room"
-msgstr "Nie udało się dołączyć do pokoju"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:344
-msgid "Incorrect password"
-msgstr "Nieprawidłowe hasło"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:347
-msgid "You are already in the room!"
-msgstr "Już jesteś w pokoju!"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
-msgid "The room does not exist anymore"
-msgstr "Ten pokój już nie istnieje"
-
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:353
-msgid "Room is full"
-msgstr "Pokój jest pełny"
+#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
+msgid "Connect"
+msgstr "Połącz"
 
 #: ../client/application/game/ui/screens/screen_tutorial.cpp:31
 msgid "Tutorial"
 msgstr "Samouczek"
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:39
-msgid "Room configuration"
-msgstr "Konfiguracja pokoju"
+#. Shown in the descripting of the item. "type" refers to what kind of
+#. item it is. Ship, trail, bullet, etc...
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:91
+msgid "Type"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
-msgid "2 extra characters (optional):"
-msgstr "2 dodatkowe znaki (opcjonalne):"
+#. Shown in the descripting of the item. "name" refers to what name the
+#. item has.
+#. For example "alpha', "rival", etc...
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:95
+msgid "Name"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
-msgid "Password (optional):"
-msgstr "Hasło (opcjonalne):"
+#. Shown in the descripting of the item. "rarity" refers to what the
+#. rarity of the item
+#. is. For example, "common", "rare", etc...
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:99
+msgid "Rarity"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
-msgid "Any level"
-msgstr "Dowolny poziom"
+#. Title of the screen that shows the UI to unlock items
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:209
+msgid "Unlock items"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:179
-msgid "Room name: %s"
-msgstr "Nazwa pokoju: %s"
+#. The label of a button used for unlocking a single item.
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:225
+msgid "Unlock item"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_informations_music.cpp:23
-msgid "Music"
-msgstr "Muzyka"
+#. Shown in a string when no items can be unlocked
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:245
+msgid "No items to unlock"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
-msgid "Connection error"
-msgstr "Błąd połączenia"
+#. Shown in a string when there's 1 or more items that can be unlocked.
+#. The %s is replaced with a number
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:250
+msgid "Items to unlock: %s"
+msgstr ""
 
-#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
-msgid "Lost connection to host"
-msgstr "Utracono połączenie z hostem"
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
+msgid "Upload scores"
+msgstr "Prześlij wyniki"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:19
-msgid "Audio Settings"
-msgstr "Ustawienia Dźwięku"
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:80
+msgid "Nothing to upload!"
+msgstr "Nie ma nic do przesłania!"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:28
-msgid "Sound effects"
-msgstr "Efekty dźwiękowe"
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:98
+msgid "Failed to upload replays."
+msgstr "Nie udało się przesłać powtórek"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:122
-msgid "Visualization"
-msgstr "Wizualizacja"
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:100
+msgid "Upload successful"
+msgstr "Przesłanie powiodło się"
+
+#: ../client/application/game/ui/screens/screen_upload_scores.cpp:120
+msgid "Uploading replay for %s."
+msgstr "Przesyłanie powtórki dla %s."
+
+#. Shown when a user disables comments on their profile and or levels.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
+msgid "Comments are disabled."
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:203
+msgid "Are you sure you want to report this comment?"
+msgstr "Jesteś pewny że chcesz zgłosić ten komentarz?"
+
+#. Shown in a notification after successfully reporting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:205
+msgid "Successfully reported comment"
+msgstr "Pomyślnie zgłoszono komentarz"
+
+#. Shown in a notification if a comment could not be reported.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:207
+msgid "Error reporting comment"
+msgstr "Błąd podczas zgłaszania komentarza"
+
+#. The title of the screen where players delete comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:234
+msgid "Delete comment"
+msgstr "Usuń komentarz"
+
+#. Shown in a notification after successfully deleting a comment.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:236
+msgid "Successfully deleted comment"
+msgstr "Pomyślnie usunięto komentarz"
+
+#. Shown in a notification if a comment could not be deleting.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:238
+msgid "Error deleting comment"
+msgstr "Błąd podczas usuwania komentarza"
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:241
+msgid "Are you sure you want to delete this comment?"
+msgstr "Jesteś pewny że chcesz usunąć ten komentarz?"
+
+#. Used as a placeholder in the textfield where players write their comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
+msgid "<Add a comment here>"
+msgstr "<Dodaj komentarz tutaj>"
+
+#. Displayed in a button. Pressing that button posts the comment that was
+#. written by the player.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:337
+msgid "Comment"
+msgstr "Komentarz"
+
+#. Shown in a notification if the player tries to post a comment that is
+#. less than 3 character long.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:343
+msgid "Comment must be at least 3 characters long."
+msgstr "Komentarz musi mieć długość przynajmniej 3 znaków "
+
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:359
+msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
+msgstr "Proszę uważaj na swój język. Bez wyzywania się, bez przekleństw, bez spamu. Możemy usuwać wszelkie posty, które naruszają tę zasadę oraz blokować lub banować osoby naruszające tę zasadę."
+
+#. Shown in the title of the screen where the player waits for the comment
+#. to be posted to the server.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:383
+msgid "Posting comment"
+msgstr "Publikowanie komentarza"
+
+#. Shown in a notification after a comment was successfully posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:404
+msgid "Comment posted"
+msgstr "komentarz opublikowany"
+
+#. Shown in a notification after a comment failed to be posted.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:408
+msgid "Failed to post comment"
+msgstr "Publikowanie komentarza nie powiodło się"
+
+#. The title of the screen where players report comments.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
+msgctxt "report_screen_title"
+msgid "Report comment"
+msgstr "Zgłoś komentarz"
+
+#. The title of the screen where players enter the comment they want to add.
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:315
+msgctxt "add_comment_screen_title"
+msgid "Add comment"
+msgstr "Dodaj komentarz"
+
+#. Displayed in a button. The button is used in menus asking wether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:471
+msgctxt "menu_confirm_action"
+msgid "Yes"
+msgstr "Tak"
+
+#. Displayed in a button. The button is used in menus asking whether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:484
+msgctxt "menu_cancel_action"
+msgid "No"
+msgstr "Nie"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "1p"
@@ -793,441 +1474,136 @@ msgstr "Najlepsze wyniki"
 msgid "Speed Runs"
 msgstr "Speedruny"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:46
-msgid "Failed to read replay."
-msgstr "Odczytywanie powtórki nie powiodło się."
-
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
-msgid "Failed to download replay."
-msgstr "Pobieranie powtórki nie powiodło się."
-
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
-msgid "Official"
-msgstr "Oficjalne"
-
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:38
-msgid "Community"
-msgstr "Społeczność"
-
-#: ../client/application/game/ui/screens/screen_view_level.cpp:34
+#: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
 msgstr "Rekord światowy: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:38
+#: ../client/application/game/ui/screens/screen_view_level.cpp:40
 msgid "Local best: %s"
 msgstr "Lokalny najlepszy: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:50
-msgid "Loading..."
-msgstr "Ładowanie..."
-
-#: ../client/application/game/ui/screens/screen_view_level.cpp:60
+#: ../client/application/game/ui/screens/screen_view_level.cpp:62
 msgid "Failed to download manifest"
 msgstr "Pobieranie manifestu nie powiodło się"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:175
+#: ../client/application/game/ui/screens/screen_view_level.cpp:80
+msgid "Failed to set up comments"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_view_level.cpp:227
 msgid "average score: %s"
 msgstr "przeciętny wynik: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:236
+#: ../client/application/game/ui/screens/screen_view_level.cpp:290
 msgid "Experimental level"
 msgstr "Poziom eksperymentalny"
 
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
-msgid "Controls Settings"
-msgstr "Ustawienia Sterowania"
-
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
-msgid "Touchscreen"
-msgstr "Ekran dotykowy"
-
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:38
-msgid "Keyboard"
-msgstr "Klawiatura"
-
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
-msgid "Gamepad"
-msgstr "Kontroler"
-
-#: ../client/application/game/ui/screens/screen_informations.cpp:18
-msgid "Discord server"
-msgstr "Serwer Discord"
-
-#: ../client/application/game/ui/screens/screen_informations.cpp:24
-msgid "Development videos"
-msgstr "Filmy rozwoju gry"
-
-#. Shown in a button. This buttons lets you see a list of people that
-#. contributed to the game.
-#: ../client/application/game/ui/screens/screen_informations.cpp:130
-msgid "Credits"
-msgstr "Napisy końcowe"
-
-#. Shown in a button. This buttons lets you see the list of programming
-#. library that are used in the game.
-#: ../client/application/game/ui/screens/screen_informations.cpp:144
-msgid "Licenses"
-msgstr "Licencje"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:33
-msgid "Settings"
-msgstr "Ustawienia"
-
-#. Name of the setting for when the game is shown in a window.
-#: ../client/application/game/ui/screens/screen_settings.cpp:43
-msgid "Windowed"
-msgstr "Okno"
-
-#. Name of the setting for when the game is shown in fullscreen.
-#: ../client/application/game/ui/screens/screen_settings.cpp:45
-msgid "Fullscreen"
-msgstr "Pełny ekran"
-
-#. Shown in the button used for entering the screen to configure the graphics settings.
-#: ../client/application/game/ui/screens/screen_settings.cpp:100
-msgid "Graphics"
-msgstr "Grafika"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:111
-msgid "Controls"
-msgstr "Sterowanie"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:121
-msgid "Audio"
-msgstr "Dźwięki"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:132
-msgid "Language"
-msgstr "Język"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:143
-msgid "UI"
-msgstr "UI"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:169
-msgid "Start tutorial"
-msgstr "Zacznij samouczek"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:181
-msgid "Launch intro"
-msgstr "Wystartuj wprowadzenie"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:192
-msgid "Developer mode"
-msgstr "Tryb dewelopera"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:246
-msgid "Vibration %s"
-msgstr "Wibracje %s"
-
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:183
-msgid "Local lobby"
-msgstr "Lobby lokalne"
-
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:186
-msgid "Online lobby"
-msgstr "Lobby Online"
-
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:192
-msgid "Ready"
-msgstr "Gotowy"
-
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:201
-msgid "Cancel"
-msgstr "Anuluj"
-
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:344
-msgid "Waiting for other players..."
-msgstr "Czekanie na pozostałych graczy..."
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
-msgid "Change colors"
-msgstr "Zmień kolory"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
-msgid "Old username:"
-msgstr "Stara nazwa użytkownika:"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
-msgid "New username:"
-msgstr "Nowa nazwa użytkownika:"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
-msgid "Change"
-msgstr "Zmień"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
-msgid "Only change colors! %s"
-msgstr "Tylko zmień kolory! %s"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
-msgid "Username color change"
-msgstr "Zmiana koloru nazwy użytkownika"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
-msgid "Username change succesfull"
-msgstr "Zmiana nazwy użytkownika powiodła się"
-
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
-msgid "Failed to update username"
-msgstr "Nie udało się zaktualizować nazwy użytkownika"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
-msgid "Requesting verification email"
-msgstr "Żądanie weryfikacji e-maila"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
-msgid "Verification email sent"
-msgstr "Wysłano e-mail weryfikacyjny"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
-msgid "Check your inbox!"
-msgstr "Sprawdź swoją skrzynkę odbiorczą!"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
-msgid "Failed to resend email"
-msgstr "Nie udało się ponownie wysłać e-maila"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
-msgid "Requesting password reset"
-msgstr "Żądanie resetu hasła"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:57
-msgid "Password reset email sent"
-msgstr "Wysłano wiadomość e-mail dotyczącą resetowania hasła"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:64
-msgid "Failed to request password reset"
-msgstr "Nie udało się zażądać resetowania hasła"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:79
-msgid "Sign in"
-msgstr "Zaloguj się"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
-msgid "Email"
-msgstr "E-mail"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:81
-msgid "Password"
-msgstr "Hasło"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
-msgid "Signing in"
-msgstr "Logowanie..."
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
-msgid "Successfully signed in!"
-msgstr "Logowanie powiodło się!"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
-msgid "Email not verified"
-msgstr "E-mail nie zweryfikowany"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
-msgid "Re-send verification email"
-msgstr "Wysłano ponownie e-mail weryfikacyjny"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:187
-msgid "Request password reset"
-msgstr "Poproś o resetowanie hasła"
-
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:213
-msgid "Reset password"
-msgstr "Zresetuj hasło"
-
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
-msgid "Synchronizing"
-msgstr "Synchronizacja..."
-
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:55
-msgid "Failed to synchronize."
-msgstr "Błąd synchronizacji"
-
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:61
-msgid "Synchronization completed."
-msgstr "Synchronizacja ukończona."
-
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
-msgid "Your verified medals have been downloaded."
-msgstr "Twoje zweryfikowane medale zostały pobrane."
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
-msgid "Account"
-msgstr "Konto"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
-msgid "Not signed in"
-msgstr "Nie zalogowano"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
-msgid "Create an account to set your name and sync your data"
-msgstr "Utwórz konto żeby ustawić twoją nazwę i aby zsynchronizować twoje dane"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
-msgid "Register"
-msgstr "Zarejestruj"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
-msgid "Privacy Policy"
-msgstr "Polityka Prywatności"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
-msgid "You need to be signed-in to upload scores"
-msgstr "Musisz być zalogowany by przesyłać wyniki"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
-msgid "You need to be signed-in to play online"
-msgstr "Aby grać online, musisz się zalogować"
-
-#. Error message shown if to the player when they are trying to view
-#. comments while not signed-in.
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
-msgid "You need to be signed-in to view comments"
-msgstr "Aby wyświetlić komentarze, musisz się zalogować"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
-msgid "Your account"
-msgstr "Twoje konto"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
-msgid "Email is invalid!"
-msgstr "E-mail jest nieprawidłowy!"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
-msgid "Too short. Minimum %s characters."
-msgstr "Zbyt krótkie. Minimum %s znaków."
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:53
-msgid "Too long. Maximum %s characters."
-msgstr "Zbyt długie. Maksymalnie %s znaków."
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
-msgid "Register account"
-msgstr "Zarejestruj konto"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
-msgid "Username"
-msgstr "Nazwa użytkownika"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
-msgid "Confirm password"
-msgstr "Potwierdź hasło"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
-msgid "Confirm email"
-msgstr "Potwierdź e-mail"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
-msgid "Registering"
-msgstr "Rejestrowanie"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
-msgid "Registration successful."
-msgstr "Rejestracja powiodła sie"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
-msgid "Please check your emails!"
-msgstr "Sprawdź swoją skrzynkę odbiorczą!"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
-msgid "Failed to register"
-msgstr "Nie udało się zarejestrować"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
-msgid "Username (you can put colors in!):"
-msgstr "Nazwa użytkownika (możesz dodać kolory!):"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
-msgid "Confirm password:"
-msgstr "Potwierdź hasło:"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
-msgid "Email:"
-msgstr "E-mail:"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
-msgid "Confirm email:"
-msgstr "Potwierdź e-mail:"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
-msgid "Passwords do not match!"
-msgstr "Hasła się nie zgadzają!"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
-msgid "Emails do not match!"
-msgstr "E-maile się nie zgadzają!"
-
-#. Shown in a header, in the screen that allows you to manage your PewPew
-#. Live account. In this screen you can for example change the colors of your
-#. nickname, or delete your account.
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
-msgid "Manage Account"
-msgstr "Zarządzać kontem"
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
-msgid "Synchronize"
-msgstr "Synchronizuj"
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
-msgid "Sign out"
-msgstr "Wyloguj się"
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:62
-msgid "Delete account"
-msgstr "Usuń konto"
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:74
-msgid "Account deletion"
-msgstr "Usunięcie konta"
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
-msgid "Account deletion requested."
-msgstr "Poproszono o usunięcie konta."
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:83
-msgid "An email asking for confirmation was sent."
-msgstr "Zostało wysłane potwierdzenie maila."
-
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:88
-msgid "Failed to request account deletion"
-msgstr "Nie udało się wysłać pytania o usunięcie konta"
-
-#: ../client/application/game/ui/views/top_notification_view.cpp:56
-msgid "%sWaiting for other player%s"
-msgstr "%sCzekanie na innych graczy%s"
-
-#: ../client/application/game/ui/views/game_hud.cpp:79
-msgid "Shield: %s"
-msgstr "Tarcze: %s"
+#. Used for showing the version of a level. The %s will be replaced with a
+#. version number. For example: "version 2"
+#: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
+msgid "version %s"
+msgstr "wersja %s"
+
+#. Used for showing the release date of a level. The %s will be replaced with
+#. a date. For example: "released 01/02/03"
+#: ../client/application/game/ui/screens/screen_view_level_info.cpp:21
+msgid "released %s"
+msgstr "wydany w %s"
+
+#. Used if the level does not contain any information.
+#: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
+msgid "No information available"
+msgstr "Brak dostępnych informacji"
+
+#. Used for showing the percentage of people who managed to get a gold medal
+#. for a given level.
+#: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
+msgid "Gold medals percentage: %s"
+msgstr "Procent złotych medali: %s"
+
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:49
+msgid "Failed to read replay."
+msgstr "Odczytywanie powtórki nie powiodło się."
+
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:78
+msgid "Failed to download replay."
+msgstr "Pobieranie powtórki nie powiodło się."
+
+#: ../client/application/game/ui/shared_strings.cpp:7
+msgid "Failed to parse response"
+msgstr "Nie udało się przeanalizować odpowiedzi"
+
+#: ../client/application/game/ui/shared_strings.cpp:11
+msgid "Failed to contact server"
+msgstr "Nie udało się skontaktować z serwerem"
+
+#: ../client/application/game/ui/shared_strings.cpp:15
+msgid "Official levels"
+msgstr "Poziomy Oficjalne"
+
+#: ../client/application/game/ui/shared_strings.cpp:19
+msgid "Community levels"
+msgstr "Poziomy społeczności"
+
+#: ../client/application/game/ui/shared_strings.cpp:23
+msgid "play count: %s"
+msgstr "Liczba zagrań: %s"
+
+#: ../client/application/game/ui/shared_strings.cpp:27
+msgid "time played: %s"
+msgstr "Czas grania: %s"
+
+#: ../client/application/game/ui/shared_strings.cpp:31
+msgid "Casual"
+msgstr "Luźny"
+
+#: ../client/application/game/ui/shared_strings.cpp:35
+msgid "Failed to sign-in!"
+msgstr "Logowanie nie powiodło się"
+
+#. Describes the "easy" difficutly (as opposed to "Cadet", "Commander")
+#: ../client/application/game/ui/shared_strings.cpp:40
+msgid "Apprentice"
+msgstr ""
+
+#. Describes the "normal" difficutly (as opposed to "Apprentice",
+#. "Commander")
+#: ../client/application/game/ui/shared_strings.cpp:46
+msgid "Cadet"
+msgstr ""
+
+#. Describes the "hard" difficutly (as opposed to "Apprentice", "Cadet")
+#: ../client/application/game/ui/shared_strings.cpp:51
+msgid "Commander"
+msgstr ""
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
 #. "Era 2 medals and stars"
-#: ../client/application/game/ui/views/account_view.cpp:347
+#: ../client/application/game/ui/views/account_view.cpp:363
 msgid "Era %s medals and stars"
 msgstr "Medale i gwiazdki z epoki %s"
 
 #. Error shown when downloading some piece of data failed.
-#: ../client/application/game/ui/views/account_view.cpp:490
+#: ../client/application/game/ui/views/account_view.cpp:506
 msgid "Download error"
 msgstr "Błąd pobierania"
 
 #. Shown when the downloading of some piece of data is in progress.
-#: ../client/application/game/ui/views/account_view.cpp:492
+#: ../client/application/game/ui/views/account_view.cpp:508
 msgid "Downloading..."
 msgstr "Pobieranie..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
-#: ../client/application/game/ui/views/account_view.cpp:70
+#: ../client/application/game/ui/views/account_view.cpp:86
 msgctxt "account_view"
 msgid "Levels"
 msgstr "Poziomy"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
-#: ../client/application/game/ui/views/account_view.cpp:73
+#: ../client/application/game/ui/views/account_view.cpp:89
 msgctxt "account_view"
 msgid "Scores"
 msgstr "Wyniki"
@@ -1235,7 +1611,7 @@ msgstr "Wyniki"
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
 #. to their youtube channel, etc...
-#: ../client/application/game/ui/views/account_view.cpp:77
+#: ../client/application/game/ui/views/account_view.cpp:93
 msgctxt "account_view"
 msgid "General"
 msgstr "Ogólne"
@@ -1243,209 +1619,183 @@ msgstr "Ogólne"
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
 #. "Join date: 2021-08-25"
-#: ../client/application/game/ui/views/account_view.cpp:309
+#: ../client/application/game/ui/views/account_view.cpp:325
 msgctxt "account_view"
 msgid "Join date: %s"
 msgstr "Data Dołączenia: %s"
 
 #. Shown in the button that allows users to sort by date
-#: ../client/application/game/ui/views/community_level_selector.cpp:145
+#: ../client/application/game/ui/views/community_level_selector.cpp:137
 msgid "Date"
 msgstr "Data"
 
 #. Shown in the button that allows users to sort by stars
-#: ../client/application/game/ui/views/community_level_selector.cpp:149
+#: ../client/application/game/ui/views/community_level_selector.cpp:141
 msgid "Stars"
 msgstr "Gwiazdy"
 
 #. Shown in the button that allows users to sort by difficutly
-#: ../client/application/game/ui/views/community_level_selector.cpp:153
+#: ../client/application/game/ui/views/community_level_selector.cpp:145
 msgid "Difficulty"
 msgstr "Trudność"
 
-#: ../client/application/game/ui/views/community_level_selector.cpp:336
+#: ../client/application/game/ui/views/community_level_selector.cpp:329
 msgid "IN REVIEW"
 msgstr "W RECENZJI"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:143
-msgid "You've been signed out."
-msgstr "Zostałeś wylogowany."
+#. The label shown in the button used to enter the World.
+#: ../client/application/game/ui/views/deviation_selector.cpp:127
+msgid "Enter World"
+msgstr ""
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:182
-msgid "Failed to download backup data"
-msgstr "Nie udało się pobrać danych kopii zapasowej"
+#: ../client/application/game/ui/views/game_hud.cpp:79
+msgid "Shield: %s"
+msgstr "Tarcze: %s"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:270
-msgid "Failed to download achievements"
-msgstr "Nie udało się pobrać osiągnięć"
+#. Shown in the title of the screen where you enter the name of a
+#. configuration.
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:94
+msgid "Save sandbox configuration"
+msgstr ""
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:315
-msgid "Failed to upload achievements"
-msgstr "Nie udało się dosłać osiągnięć"
+#. Shown in a button. That button is used to save a configuration.
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:98
+msgid "Save"
+msgstr ""
 
-#. Shown in a notification when you improve your best score in a given level.
-#. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
-#: ../client/application/game/player_data/player_data_manager.cpp:43
-msgid "New personal best! %s ⇨ %s"
-msgstr "Nowy Lokalny najlepszy! %s ⇨ %s"
+#. Shown in a notification displayed when a configuration is saved.
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:109
+msgid "Configuration saved"
+msgstr ""
 
-#. Shown in a notification when you improve your best speed run in a given
-#. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
-#: ../client/application/game/player_data/player_data_manager.cpp:46
-msgid "Improved speed run! %s ⇨ %s"
-msgstr "Poprawiony speedrun! %s ⇨ %s"
+#. Messsage shown in the screen that asks to
+#. enter the name of the sandbox configuration
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:135
+msgid "Enter configuration name"
+msgstr ""
 
-#. String shown in a notification when an achievement was unlocked.
-#. %s is replaced with the name of the achievement.
-#: ../client/application/game/player_data/player_data_manager.cpp:694
-msgid "Achievement Unlocked: %s"
-msgstr "Odblokowano Osiągnięcie: %s"
+#. Shown in the title of the screen where you select a Sandbox
+#. configuration to load.
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:165
+msgid "Load sandbox configuration"
+msgstr ""
 
-#: ../client/application/game/state/game_network_message_parser.cpp:57
-msgid "%s left the game"
-msgstr "%s opuścił(a) grę"
+#. Shown in a notification when an unnamed sandbox configuration is
+#. loaded.
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:195
+msgid "loaded sandbox configuration"
+msgstr ""
 
-#. Shown when the game is displaying stats. Concerns the player's shooting
-#. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
-#: ../client/application/game/state/game_state.cpp:472
-msgid "Accuracy: %s"
-msgstr "Celność: %s"
+#. Shown in a notification when a configuration is loaded.
+#. %s is replaced by the name of the configuration, for example:
+#. "loaded <my awesome config>"
+#: ../client/application/game/ui/views/sandbox_configurator.cpp:200
+msgid "loaded <%s>"
+msgstr ""
 
-#. Shown when the game is displaying stats. The %s is replaced with a number,
-#. for example "Total score: 43423"
-#: ../client/application/game/state/game_state.cpp:475
-msgid "Total score: %s"
-msgstr "Ilość punktów: %s"
+#: ../client/application/game/ui/views/top_notification_view.cpp:56
+msgid "%sWaiting for other player%s"
+msgstr "%sCzekanie na innych graczy%s"
 
-#. Shown when the game is displaying stats. The %s is replaced with a number,
-#. for example "Pointonium: 34444"
-#: ../client/application/game/state/game_state.cpp:479
-msgid "Pointonium: %s"
-msgstr "Pointonium: %s"
+#: ../client/application/ui/keyboard_view.cpp:108
+msgid "ok"
+msgstr "okej"
 
-#. Shown when the game is displaying stats. The %s is replaced with a
-#. duration, for example: "Duration: 1m43s"
-#: ../client/application/game/state/game_state.cpp:483
-msgid "Duration: %s"
-msgstr "Czas trwania: %s"
+#. The color "red"
+#: ../client/application/ui/ui_skin.cpp:29
+msgid "Red"
+msgstr "Czerwony"
 
-#: ../client/application/game/levels/game_levels.cpp:90
-msgid "Dodge everything and you'll be OK"
-msgstr "Unikaj wszystkiego i będzie OK"
+#. The color "cyan"
+#: ../client/application/ui/ui_skin.cpp:32
+msgid "Cyan"
+msgstr "Blady niebieski"
 
-#: ../client/application/game/levels/game_levels.cpp:90
-msgid "aka Dodge This"
-msgstr "aka Dodge This"
+#. The color "lime"
+#: ../client/application/ui/ui_skin.cpp:35
+msgid "Lime"
+msgstr "Limonkowy"
 
-#: ../client/application/game/levels/game_levels.cpp:91
-msgid "Green good. Red bad."
-msgstr "Zielony dobry. Czerwony zły."
+#. The color "lime green"
+#: ../client/application/ui/ui_skin.cpp:38
+msgid "Lime Green"
+msgstr "Limonkowa Zieleń"
 
-#: ../client/application/game/levels/game_levels.cpp:102
-msgid "Never trust a six-sided polygon"
-msgstr "Nigdy nie ufaj sześciobocznemu wielokątowi"
+#. The color "purple"
+#: ../client/application/ui/ui_skin.cpp:41
+msgid "Purple"
+msgstr "Fioletowy"
 
-#: ../client/application/game/levels/game_levels.cpp:103
-msgid "Unrelated to \"Super Hexagon\""
-msgstr "Niezwiązane z \"Super Hexagon\""
+#. The color "pink"
+#: ../client/application/ui/ui_skin.cpp:44
+msgid "Pink"
+msgstr "Różowy"
 
-#: ../client/application/game/levels/game_levels.cpp:104
-msgid "Choose your own difficulty"
-msgstr "Wybierz swój własny poziom trudności"
+#. The color "orange"
+#: ../client/application/ui/ui_skin.cpp:47
+msgid "Orange"
+msgstr "Pomaranczowy"
 
-#: ../client/application/game/levels/game_levels.cpp:115
-msgid "Euclidean space is overrated"
-msgstr "Euclidean space jest zbyt doceniany"
+#. The color "white"
+#: ../client/application/ui/ui_skin.cpp:50
+msgid "White"
+msgstr "Biały"
 
-#: ../client/application/game/levels/game_levels.cpp:127
-msgid "Just 32 seconds of skills"
-msgstr "Po prostu 32 sekundy umiejętności"
+#. The color "gray"
+#: ../client/application/ui/ui_skin.cpp:53
+msgid "Gray"
+msgstr "Szary"
 
-#: ../client/application/game/levels/game_levels.cpp:127
-msgid "My favorite mode"
-msgstr "Mój ulubiony tryb"
+#. The color "dark blue"
+#: ../client/application/ui/ui_skin.cpp:56
+msgid "Dark Blue"
+msgstr "Granatowy"
 
-#: ../client/application/game/levels/game_levels.cpp:128
-msgid "Survive 32 seconds with this simple trick"
-msgstr "Przetrwaj 32 sekundy za pomocą tej prostej sztuczki"
+#. The color "yellow"
+#: ../client/application/ui/ui_skin.cpp:59
+msgid "Yellow"
+msgstr ""
 
-#: ../client/application/game/levels/game_levels.cpp:129
-msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Ten poziom to żart, tak?\" - testujący"
+#. The UI color "frosted green"
+#: ../client/application/ui/ui_skin.cpp:62
+msgid "Frosted Green"
+msgstr ""
 
-#: ../client/application/game/levels/game_levels.cpp:140
-msgid "RIP GW3:Dimensions"
-msgstr "RIP GW3:Dimensions"
+#. The UI color "frosted red"
+#: ../client/application/ui/ui_skin.cpp:65
+msgid "Frosted Red"
+msgstr ""
 
-#: ../client/application/game/levels/game_levels.cpp:140
-msgid "Previously known as Assault"
-msgstr "Poprzednio znany jako Assault"
+#. The UI color "frosted blue"
+#: ../client/application/ui/ui_skin.cpp:68
+msgid "Frosted Blue"
+msgstr ""
 
-#: ../client/application/game/levels/medals.cpp:9
-msgid "New bronze medal"
-msgstr "Nowy brązowy medal"
+#. The UI color "frosted yellow"
+#: ../client/application/ui/ui_skin.cpp:71
+msgid "Frosted Yellow"
+msgstr ""
 
-#: ../client/application/game/levels/medals.cpp:10
-msgid "New silver medal"
-msgstr "Nowy srebrny medal"
+#. The UI color "frosted pink"
+#: ../client/application/ui/ui_skin.cpp:74
+msgid "Frosted Pink"
+msgstr ""
 
-#: ../client/application/game/levels/medals.cpp:11
-msgid "New gold medal"
-msgstr "Nowy złoty medal"
+#. The UI color "frosted teal"
+#: ../client/application/ui/ui_skin.cpp:77
+msgid "Frosted Teal"
+msgstr ""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:307
-msgid "Ouch"
-msgstr "Ała!"
+#. The UI color "frosted gray"
+#: ../client/application/ui/ui_skin.cpp:80
+msgid "Frosted Gray"
+msgstr ""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:310
-msgid "Yikes"
-msgstr "Piękne.."
-
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:313
-msgid "Ow"
-msgstr "Au!"
-
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:316
-msgid "Ugh"
-msgstr "Uhh"
-
-#: ../client/application/graphics/renderers/renderer_types.cpp:9
-msgid "Minimal"
-msgstr "Minimalny"
-
-#: ../client/application/graphics/renderers/renderer_types.cpp:10
-msgid "High"
-msgstr "Wysokie"
-
-#: ../client/application/graphics/renderers/renderer_types.cpp:12
-msgid "Compression friendly"
-msgstr "Przyjazny dla kompresji"
-
-#: ../client/application/graphics/renderers/renderer_types.cpp:16
-msgid "Ultra low 2x"
-msgstr "Ultra niski 2x"
-
-#: ../client/application/graphics/renderers/renderer_types.cpp:18
-msgid "Ultra low 4x"
-msgstr "Ultra niskie 4x"
-
-#: ../client/application/graphics/renderers/renderer_types.cpp:20
-msgid "Ultra low 8x"
-msgstr "Ultra niskie 8x"
-
-#: ../client/application/graphics/renderers/renderer_types.cpp:22
-msgid "Ultra low 16x"
-msgstr "Ultra niskie 16x"
-
-#: ../client/application/graphics/renderers/renderer_types.cpp:24
-msgid "Ultra low 32x"
-msgstr "Ultra niskie 32x"
+#. Shown in a notification when a new version of the game is
+#. available.
+#. The %s is replaced with a version number, for example:
+#. "Update available (0.4.122)"
+#: ../client/application/utils/version.cpp:72
+msgid "Update available %s"
+msgstr "Dostępna aktualizacja %s"
 

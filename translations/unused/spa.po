@@ -64,6 +64,9 @@ msgstr "Alto (Oscuro)"
 msgid "Information"
 msgstr "Información"
 
+msgid "Joysticks"
+msgstr "Palancas"
+
 msgid "Level name"
 msgstr "Nombre del nivel"
 
@@ -126,6 +129,24 @@ msgstr "El fondo es difícil de computar"
 
 msgid "Translations"
 msgstr "Traducciones"
+
+msgid "UI colors"
+msgstr "Colores de interfaz"
+
+msgid "Ultra low 16x"
+msgstr "Ultra bajo 16x"
+
+msgid "Ultra low 2x"
+msgstr "Ultra bajo 2x"
+
+msgid "Ultra low 32x"
+msgstr "Ultra bajo 32x"
+
+msgid "Ultra low 4x"
+msgstr "Ultra bajo 4x"
+
+msgid "Ultra low 8x"
+msgstr "Ultra bajo 8x"
 
 msgid "Unknown level"
 msgstr "Nivel desconocido"

@@ -34,11 +34,32 @@ msgstr "测试关卡"
 msgid "Information"
 msgstr "信息"
 
+msgid "Joysticks"
+msgstr "摇杆"
+
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "更多信息在 github.com/jyaif/ppl-utils"
 
 msgid "Score: %s"
 msgstr "分数：%s"
+
+msgid "UI colors"
+msgstr "UI颜色"
+
+msgid "Ultra low 16x"
+msgstr "极低x16"
+
+msgid "Ultra low 2x"
+msgstr "极低x2"
+
+msgid "Ultra low 32x"
+msgstr "极低x32"
+
+msgid "Ultra low 4x"
+msgstr "极低x4"
+
+msgid "Ultra low 8x"
+msgstr "极低x8"
 
 msgid "Unknown level"
 msgstr "未知关卡"

@@ -37,6 +37,9 @@ msgstr "DarkTheme(INT_MAX);"
 msgid "Information"
 msgstr "Level.Info.UI"
 
+msgid "Joysticks"
+msgstr "ship.joysticks"
+
 msgid "Levels by %s"
 msgstr "Levels[].author == %s"
 
@@ -54,6 +57,24 @@ msgstr "OnlineProfile();"
 
 msgid "Score: %s"
 msgstr "levelTry.Score = %s"
+
+msgid "UI colors"
+msgstr "Game.UI.Colors"
+
+msgid "Ultra low 16x"
+msgstr "UltraLowX(16);"
+
+msgid "Ultra low 2x"
+msgstr "UltraLowX(2);"
+
+msgid "Ultra low 32x"
+msgstr "UltraLowX(32);"
+
+msgid "Ultra low 4x"
+msgstr "UltraLowX(4);"
+
+msgid "Ultra low 8x"
+msgstr "UltraLowX(8);"
 
 msgid "Unknown level"
 msgstr "UnknownLevel"

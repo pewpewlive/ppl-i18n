@@ -64,6 +64,9 @@ msgstr "Yüksek (Koyu)"
 msgid "Information"
 msgstr "Bilgi"
 
+msgid "Joysticks"
+msgstr "Joyistikler"
+
 msgid "Level name"
 msgstr "Harita adı"
 
@@ -126,6 +129,24 @@ msgstr "Bu arka plan çok pahalı bir şeydir"
 
 msgid "Translations"
 msgstr "Çeviriler"
+
+msgid "UI colors"
+msgstr "Uİ renkleri"
+
+msgid "Ultra low 16x"
+msgstr "Aşırı düşük x16"
+
+msgid "Ultra low 2x"
+msgstr "Aşırı düşük x2"
+
+msgid "Ultra low 32x"
+msgstr "Aşırı düşük x32"
+
+msgid "Ultra low 4x"
+msgstr "Aşırı düşük x4"
+
+msgid "Ultra low 8x"
+msgstr "Aşırı düşük x8"
 
 msgid "Unknown level"
 msgstr "Bilinmeyen level"

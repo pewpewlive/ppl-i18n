@@ -40,6 +40,9 @@ msgstr "実験的なレベル"
 msgid "High (Dark)"
 msgstr "キレイ (ダーク)"
 
+msgid "Joysticks"
+msgstr "ジョイスティック"
+
 msgid "Level name"
 msgstr "レベルネーム"
 
@@ -78,6 +81,24 @@ msgstr "スコア: %s"
 
 msgid "Select level"
 msgstr "レベル センタク"
+
+msgid "UI colors"
+msgstr "UI色"
+
+msgid "Ultra low 16x"
+msgstr "レトロ 16x"
+
+msgid "Ultra low 2x"
+msgstr "レトロ 2x"
+
+msgid "Ultra low 32x"
+msgstr "レトロ 32x"
+
+msgid "Ultra low 4x"
+msgstr "レトロ 4x"
+
+msgid "Ultra low 8x"
+msgstr "レトロ 8x"
 
 msgid "Yes!"
 msgstr "YES!"

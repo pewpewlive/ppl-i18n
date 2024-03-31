@@ -64,6 +64,9 @@ msgstr "Высокий Тёмный"
 msgid "Information"
 msgstr "Информация"
 
+msgid "Joysticks"
+msgstr "Джойстики"
+
 msgid "Level name"
 msgstr "Уровень"
 
@@ -126,6 +129,24 @@ msgstr "Обработка фона - это сложно"
 
 msgid "Translations"
 msgstr "Переводчики"
+
+msgid "UI colors"
+msgstr "Цвет интерфейса"
+
+msgid "Ultra low 16x"
+msgstr "Пиксель 16х"
+
+msgid "Ultra low 2x"
+msgstr "Пиксель 2х"
+
+msgid "Ultra low 32x"
+msgstr "Пиксель 32х"
+
+msgid "Ultra low 4x"
+msgstr "Пиксель 4x"
+
+msgid "Ultra low 8x"
+msgstr "Пиксель 8x"
 
 msgid "Unknown level"
 msgstr "Неизвестный уровень"

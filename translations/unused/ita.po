@@ -64,6 +64,9 @@ msgstr "Alta (Scura)"
 msgid "Information"
 msgstr "Informazioni"
 
+msgid "Joysticks"
+msgstr "Joystick"
+
 msgid "Level name"
 msgstr "Nome del livello"
 
@@ -123,6 +126,24 @@ msgstr "Lo sfondo è costoso da elaborare"
 
 msgid "Translations"
 msgstr "Traduzioni"
+
+msgid "UI colors"
+msgstr "Colori UI"
+
+msgid "Ultra low 16x"
+msgstr "Ultra bassa 16x"
+
+msgid "Ultra low 2x"
+msgstr "Ultra bassa 2x"
+
+msgid "Ultra low 32x"
+msgstr "Ultra bassa 32x"
+
+msgid "Ultra low 4x"
+msgstr "Ultra bassa 4x"
+
+msgid "Ultra low 8x"
+msgstr "Ultra bassa 8x"
 
 msgid "Unknown level"
 msgstr "Livello sconosciuto"

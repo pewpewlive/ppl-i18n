@@ -64,6 +64,21 @@ msgstr "Learn to make one github.com/jyaif/ppl-utils"
 msgid "Renderer: %s"
 msgstr "Vision: %s"
 
+msgid "Ultra low 16x"
+msgstr "So very blurry"
+
+msgid "Ultra low 2x"
+msgstr "Me blurred"
+
+msgid "Ultra low 32x"
+msgstr "Are ye blind?"
+
+msgid "Ultra low 4x"
+msgstr "So Blurry."
+
+msgid "Ultra low 8x"
+msgstr "Very Blurry"
+
 msgid "by %s"
 msgstr "Hang %s"
 

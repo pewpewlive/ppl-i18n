@@ -64,6 +64,9 @@ msgstr "Wysoki (Ciemny)"
 msgid "Information"
 msgstr "Informacja"
 
+msgid "Joysticks"
+msgstr "Joysticki"
+
 msgid "Level name"
 msgstr "Nazwa poziomu"
 
@@ -126,6 +129,24 @@ msgstr "Renderowanie tego tła jest wymagające"
 
 msgid "Translations"
 msgstr "Tłumaczenia"
+
+msgid "UI colors"
+msgstr "Kolory interfejsu"
+
+msgid "Ultra low 16x"
+msgstr "Ultra niskie 16x"
+
+msgid "Ultra low 2x"
+msgstr "Ultra niski 2x"
+
+msgid "Ultra low 32x"
+msgstr "Ultra niskie 32x"
+
+msgid "Ultra low 4x"
+msgstr "Ultra niskie 4x"
+
+msgid "Ultra low 8x"
+msgstr "Ultra niskie 8x"
 
 msgid "Unknown level"
 msgstr "Nieznany poziom"

@@ -112,6 +112,21 @@ msgstr "O fundo é caro para calcular"
 msgid "Translations"
 msgstr "Traduções"
 
+msgid "Ultra low 16x"
+msgstr "Muito baixo 16x"
+
+msgid "Ultra low 2x"
+msgstr "Muito baixo 2x"
+
+msgid "Ultra low 32x"
+msgstr "Muito baixo 32x"
+
+msgid "Ultra low 4x"
+msgstr "Muito baixo 4x"
+
+msgid "Ultra low 8x"
+msgstr "Muito baixo 8x"
+
 msgid "Waiting for the server..."
 msgstr "Esperando pelo servidor..."
 
