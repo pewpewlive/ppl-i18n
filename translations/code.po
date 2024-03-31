@@ -5,7 +5,7 @@
 #. "In Eskiv, score 10000 or more"
 #: ../client/application/account/achievements_description.cpp:16
 msgid "In %1$s, score %2$s or more."
-msgstr "levels[%1$s].objective >= %2s"
+msgstr "levels[%1$s].objective >= %2$s"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
