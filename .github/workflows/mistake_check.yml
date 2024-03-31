@@ -48,5 +48,5 @@ jobs:
             const mistakes = JSON.parse(fs.readFileSync('./mistakes.txt').toString());
 
             if (mistakes.length !== 0)
-              if (mistakes.map(mistake => mistake.condition).includes("invalid_s"))
+              if (mistakes.map(mistake => mistake.condition).includes("invalid_format"))
                   core.setFailed("Mistakes found! Check comment for more details");
