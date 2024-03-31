@@ -681,7 +681,7 @@ msgstr "Aukščiausia"
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:77
 msgid "Configure graphics"
-msgstr "Konfigūruoti grafika"
+msgstr "Konfigūruoti grafiką"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
 msgid "off"
@@ -1488,7 +1488,7 @@ msgstr "Nepavyko atsisiųsti aprašo"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:80
 msgid "Failed to set up comments"
-msgstr "Nepavyko paruošti komentarus"
+msgstr "Nepavyko paruošti komentarų"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:227
 msgid "average score: %s"
@@ -1646,7 +1646,7 @@ msgstr "PERŽIŪROJE"
 #. The label shown in the button used to enter the World.
 #: ../client/application/game/ui/views/deviation_selector.cpp:127
 msgid "Enter World"
-msgstr "Įženkti į Pasaulį"
+msgstr "Įžengti į Pasaulį"
 
 #: ../client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
