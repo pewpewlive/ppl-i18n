@@ -5,16 +5,16 @@ on:
     workflows: [Mistake Checker]
     types:
       - completed
-      
+
 jobs:
   notify:
     name: Notify of mistakes
     runs-on: ubuntu-latest
-    
+
     permissions:
       pull-requests: write
       issues: write
-    
+
     steps:
       - name: Download mistake checker results
         uses: actions/github-script@v3.1.0
@@ -25,21 +25,21 @@ jobs:
                repo: context.repo.repo,
                run_id: ${{ github.event.workflow_run.id }},
             });
-            
+
             let matchArtifact = allArtifacts.data.artifacts.filter((artifact) => {
               return artifact.name == "mistakes"
             })[0];
-            
+
             let download = await github.actions.downloadArtifact({
                owner: context.repo.owner,
                repo: context.repo.repo,
                artifact_id: matchArtifact.id,
                archive_format: 'zip',
             });
-            
+
             let fs = require('fs');
             fs.writeFileSync('${{ github.workspace }}/pr.zip', Buffer.from(download.data));
-            
+
       - run: unzip pr.zip
 
       - name: Output detected mistakes if any
@@ -62,13 +62,18 @@ jobs:
                 message += `@@ Line: ${mistake.line} @@\n`;
 
                 switch (mistake.condition) {
-                  case 'invalid_s':
+                  case 'invalid_format':
                     message += '--- Non-Matching use of %s\n';
                     message += `+ msgid "${mistake.id}"\n`;
                     message += `- msgstr "${mistake.str}"\n`;
                     break;
                   case 'invalid_colors':
                     message += '!!! Possible misuse of colors\n';
+                    message += `+ msgid "${mistake.id}"\n`;
+                    message += `- msgstr "${mistake.str}"\n`;
+                    break;
+                  case 'invalid_colors_and_format':
+                    message += '!!! Possible misuse of colors and format\n';
                     message += `+ msgid "${mistake.id}"\n`;
                     message += `- msgstr "${mistake.str}"\n`;
                     break;

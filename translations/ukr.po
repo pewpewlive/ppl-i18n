@@ -5,31 +5,31 @@
 #. "In Eskiv, score 10000 or more"
 #: ../client/application/account/achievements_description.cpp:16
 msgid "In %1$s, score %2$s or more."
-msgstr ""
+msgstr "В %1$s, %2$s рекорд або більше."
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:329
 msgid "Ouch"
-msgstr ""
+msgstr "Ай"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:332
 msgid "Yikes"
-msgstr ""
+msgstr "Ой"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:335
 msgid "Ow"
-msgstr ""
+msgstr "Уй"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:338
 msgid "Ugh"
-msgstr ""
+msgstr "Ах"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -127,7 +127,7 @@ msgstr "Нова бронзова медаль"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
-msgstr ""
+msgstr "Нова бронзова медаль спідрану"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:19
@@ -137,7 +137,7 @@ msgstr "Нова срібна медаль"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr ""
+msgstr "Нова срібна медаль спідрану"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:24
@@ -147,7 +147,7 @@ msgstr "Нова золота медаль"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:26
 msgid "New gold speedrun medal"
-msgstr ""
+msgstr "Нова золота медаль спідрану"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:143
 msgid "You've been signed out."
@@ -167,7 +167,7 @@ msgstr "Не вдалося завантажити досягнення"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:343
 msgid "Failed to download unlocked items"
-msgstr ""
+msgstr "Не вдалося завантажити відкриті предмети"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -190,32 +190,32 @@ msgstr "Досягнення Розблоковано: %s"
 #. Describes the rarity level of items. Rarity level of 0.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:287
 msgid "Common"
-msgstr ""
+msgstr "Звичайне"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:289
 msgid "Uncommon"
-msgstr ""
+msgstr "Незвичайне"
 
 #. Describes the rarity level of items.  Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:291
 msgid "Rare"
-msgstr ""
+msgstr "Рідкісне"
 
 #. Describes the rarity level of items.  Rarity level of 3.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:293
 msgid "Epic"
-msgstr ""
+msgstr "Епічне"
 
 #. Describes the rarity level of items.  Rarity level of 4.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:295
 msgid "Legendary"
-msgstr ""
+msgstr "Легендарне"
 
 #. Describes the rarity level of items.  Rarity level of 5.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:297
 msgid "Mythical"
-msgstr ""
+msgstr "Міфічне"
 
 #. Describes the rarity level of items.  Rarity level of 6.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:299
@@ -225,7 +225,7 @@ msgstr ""
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:26
 msgid "Ship"
-msgstr ""
+msgstr "Корабель"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:28
@@ -235,27 +235,27 @@ msgstr "Хвостик"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:30
 msgid "Bullet"
-msgstr ""
+msgstr "Куля"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:32
 msgid "Mace"
-msgstr ""
+msgstr "Пила"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:34
 msgid "Laser"
-msgstr ""
+msgstr "Лазер"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:36
 msgid "Joystick"
-msgstr ""
+msgstr "Джойстик"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:38
 msgid "UI Color"
-msgstr ""
+msgstr "Колір Інтерфейсу"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -297,22 +297,22 @@ msgstr "Ви Померли"
 #. translation.
 #: ../client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr ""
+msgstr "Ви вмерли. Знову."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
-msgstr ""
+msgstr "Вставте монетку щоб продовжити"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr ""
+msgstr "Ти спробував"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
-msgstr ""
+msgstr "Нічого страшного, ти і так ніколи-б не переміг."
 
 #: ../client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
@@ -629,7 +629,7 @@ msgstr "Глобальні списки лідерів"
 #. summary of the completed deviations is shown.
 #: ../client/application/game/ui/screens/screen_career.cpp:71
 msgid "Deviations completed"
-msgstr ""
+msgstr "Мутацій виконано"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -676,12 +676,12 @@ msgstr "Висока"
 #. The name of the graphics configuration that enables all the graphical effects.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:49
 msgid "Highest"
-msgstr ""
+msgstr "Найвищі"
 
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:77
 msgid "Configure graphics"
-msgstr ""
+msgstr "Налаштувати графіку"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
 msgid "off"
@@ -694,7 +694,7 @@ msgstr "вмикн."
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:103
 msgid "Bloom intensity"
-msgstr ""
+msgstr "Інтенсивність світіння"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
@@ -705,34 +705,34 @@ msgstr ""
 #. The name of the setting that enables horizontal scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:120
 msgid "horizontal"
-msgstr ""
+msgstr "горизонтальні"
 
 #. The name of setting that enables grid-like scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:122
 msgid "grid"
-msgstr ""
+msgstr "сітка"
 
 #. The name for the setting category for choosing the scalines type.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:124
 msgid "Scanlines"
-msgstr ""
+msgstr "Лінії"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:130
 msgid "Chromatic aberration"
-msgstr ""
+msgstr "Хроматична аберація"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:139
 msgid "Curved monitor"
-msgstr ""
+msgstr "Вигнутий монітор"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:148
 msgid "Vignette"
-msgstr ""
+msgstr "Віньєтка"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:161
@@ -747,12 +747,12 @@ msgstr "Повноекранний"
 #. Name of the setting for when the game is shown in a borderless window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:165
 msgid "Borderless"
-msgstr ""
+msgstr "Без рамок"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
 msgid "Screen type"
-msgstr ""
+msgstr "Тип екрану"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -801,13 +801,13 @@ msgstr "Кулі"
 #. bullets, the joysticks, the ui color, etc...
 #: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:78
 msgid "Inventory"
-msgstr ""
+msgstr "Інвертар"
 
 #. Shown in the tab strip of the inventory. Used for showing all the unlocked
 #. items.
 #: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:83
 msgid "All"
-msgstr ""
+msgstr "Усі"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
@@ -1073,12 +1073,12 @@ msgstr "Спільнота"
 #. The title of the screen where you select what to play in the World.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:44
 msgid "World"
-msgstr ""
+msgstr "Світ"
 
 #. The title of the screen where you select what sandbox to play.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:46
 msgid "Sandbox"
-msgstr ""
+msgstr "Пісочниця"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1224,7 +1224,7 @@ msgstr "Приєднатися до сервера"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
 msgid "IP:"
-msgstr ""
+msgstr "IP:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
 msgid "Port:"
@@ -1246,42 +1246,42 @@ msgstr "Туторіал"
 #. item it is. Ship, trail, bullet, etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:91
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
 #. For example "alpha', "rival", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:95
 msgid "Name"
-msgstr ""
+msgstr "Назва"
 
 #. Shown in the descripting of the item. "rarity" refers to what the
 #. rarity of the item
 #. is. For example, "common", "rare", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:99
 msgid "Rarity"
-msgstr ""
+msgstr "Рідкість"
 
 #. Title of the screen that shows the UI to unlock items
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:209
 msgid "Unlock items"
-msgstr ""
+msgstr "Відкрити предмети"
 
 #. The label of a button used for unlocking a single item.
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:225
 msgid "Unlock item"
-msgstr ""
+msgstr "Відкрити предмет"
 
 #. Shown in a string when no items can be unlocked
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:245
 msgid "No items to unlock"
-msgstr ""
+msgstr "Немає предметів для відкриття"
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:250
 msgid "Items to unlock: %s"
-msgstr ""
+msgstr "Предмети для відкриття: %s"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
@@ -1306,7 +1306,7 @@ msgstr "Завантаження повтору для %s."
 #. Shown when a user disables comments on their profile and or levels.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
 msgid "Comments are disabled."
-msgstr ""
+msgstr "Коментарі заблоковані."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:203
 msgid "Are you sure you want to report this comment?"
@@ -1488,7 +1488,7 @@ msgstr "Не вдалося завантажити маніфест"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:80
 msgid "Failed to set up comments"
-msgstr ""
+msgstr "Не вдалося відтворити коментарі"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:227
 msgid "average score: %s"
@@ -1564,18 +1564,18 @@ msgstr "Не вдалося ввійти!"
 #. Describes the "easy" difficutly (as opposed to "Cadet", "Commander")
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Apprentice"
-msgstr ""
+msgstr "Учень"
 
 #. Describes the "normal" difficutly (as opposed to "Apprentice",
 #. "Commander")
 #: ../client/application/game/ui/shared_strings.cpp:46
 msgid "Cadet"
-msgstr ""
+msgstr "Кадет"
 
 #. Describes the "hard" difficutly (as opposed to "Apprentice", "Cadet")
 #: ../client/application/game/ui/shared_strings.cpp:51
 msgid "Commander"
-msgstr ""
+msgstr "Командир"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
@@ -1646,7 +1646,7 @@ msgstr "В ПЕРЕВІРЦІ"
 #. The label shown in the button used to enter the World.
 #: ../client/application/game/ui/views/deviation_selector.cpp:127
 msgid "Enter World"
-msgstr ""
+msgstr "Увійти у світ"
 
 #: ../client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
@@ -1656,42 +1656,42 @@ msgstr "Щит: %s"
 #. configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:94
 msgid "Save sandbox configuration"
-msgstr ""
+msgstr "Зберегти конфігурацію пісочниці"
 
 #. Shown in a button. That button is used to save a configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:98
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 #. Shown in a notification displayed when a configuration is saved.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:109
 msgid "Configuration saved"
-msgstr ""
+msgstr "Конфігурацію збережено"
 
 #. Messsage shown in the screen that asks to
 #. enter the name of the sandbox configuration
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:135
 msgid "Enter configuration name"
-msgstr ""
+msgstr "Введіть назву конфігурації"
 
 #. Shown in the title of the screen where you select a Sandbox
 #. configuration to load.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:165
 msgid "Load sandbox configuration"
-msgstr ""
+msgstr "Завантажити конфігурацію пісочниці"
 
 #. Shown in a notification when an unnamed sandbox configuration is
 #. loaded.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:195
 msgid "loaded sandbox configuration"
-msgstr ""
+msgstr "завантажено конфігурацію пісочниці"
 
 #. Shown in a notification when a configuration is loaded.
 #. %s is replaced by the name of the configuration, for example:
 #. "loaded <my awesome config>"
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:200
 msgid "loaded <%s>"
-msgstr ""
+msgstr "завантажено <%s>"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
@@ -1754,42 +1754,42 @@ msgstr "Темно Синій"
 #. The color "yellow"
 #: ../client/application/ui/ui_skin.cpp:59
 msgid "Yellow"
-msgstr ""
+msgstr "Жовтий"
 
 #. The UI color "frosted green"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Frosted Green"
-msgstr ""
+msgstr "Матовий Зелений"
 
 #. The UI color "frosted red"
 #: ../client/application/ui/ui_skin.cpp:65
 msgid "Frosted Red"
-msgstr ""
+msgstr "Матовий Червоний"
 
 #. The UI color "frosted blue"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "Frosted Blue"
-msgstr ""
+msgstr "Матовий Синій"
 
 #. The UI color "frosted yellow"
 #: ../client/application/ui/ui_skin.cpp:71
 msgid "Frosted Yellow"
-msgstr ""
+msgstr "Матовий Жовтий"
 
 #. The UI color "frosted pink"
 #: ../client/application/ui/ui_skin.cpp:74
 msgid "Frosted Pink"
-msgstr ""
+msgstr "Матовий Рожевий"
 
 #. The UI color "frosted teal"
 #: ../client/application/ui/ui_skin.cpp:77
 msgid "Frosted Teal"
-msgstr ""
+msgstr "Матовий Бірюзовий"
 
 #. The UI color "frosted gray"
 #: ../client/application/ui/ui_skin.cpp:80
 msgid "Frosted Gray"
-msgstr ""
+msgstr "Матовий Сірий"
 
 #. Shown in a notification when a new version of the game is
 #. available.
