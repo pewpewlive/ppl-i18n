@@ -79,7 +79,9 @@ with open(readme_file, "w", encoding="utf8", newline="\r\n") as f:
         percentage = int(100 - percentage * 100)
         results.append([lang, percentage])
 
-    results = sorted(results, key=lambda x: x[1])
+    results = sorted(
+        results, key=lambda x: lang_stats[x[0]["code"]]["missing"], reverse=True
+    )
     for lang, percentage in results:
         lang_code = lang["code"]
         lang_name = lang["english_name"]
