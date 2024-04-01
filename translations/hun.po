@@ -5,7 +5,7 @@
 #. "In Eskiv, score 10000 or more"
 #: ../client/application/account/achievements_description.cpp:16
 msgid "In %1$s, score %2$s or more."
-msgstr ""
+msgstr "%1$s-ban %2$s vagy több pontot szerezz."
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -107,17 +107,17 @@ msgstr "Korábban Assault néven volt ismert"
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:214
 msgid "True bullet hell"
-msgstr ""
+msgstr "Igazi bullet hell"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "A nagy tűzerőhöz nagyszerű kitérési képességek társulnak."
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:250
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr ""
+msgstr "2 agyfélteke, 2 kéz, 2 hajó."
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:14
@@ -127,7 +127,7 @@ msgstr "Új bronz medál"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
-msgstr ""
+msgstr "Új bronz speedrun medál"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:19
@@ -137,7 +137,7 @@ msgstr "Új ezüst medál"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr ""
+msgstr "Új ezüst speedrun medál"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:24
@@ -147,7 +147,7 @@ msgstr "Új arany medál"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:26
 msgid "New gold speedrun medal"
-msgstr ""
+msgstr "Új arany speedrun medál"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:143
 msgid "You've been signed out."
@@ -167,7 +167,7 @@ msgstr "Nem sikerült feltölteni az achievementeket"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:343
 msgid "Failed to download unlocked items"
-msgstr ""
+msgstr "Nem sikerült letölteni a feloldott elemeket"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -190,42 +190,42 @@ msgstr "Achievement feloldva: %s"
 #. Describes the rarity level of items. Rarity level of 0.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:287
 msgid "Common"
-msgstr ""
+msgstr "gyakori"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:289
 msgid "Uncommon"
-msgstr ""
+msgstr "Uncommon"
 
 #. Describes the rarity level of items.  Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:291
 msgid "Rare"
-msgstr ""
+msgstr "Ritka"
 
 #. Describes the rarity level of items.  Rarity level of 3.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:293
 msgid "Epic"
-msgstr ""
+msgstr "Epikus"
 
 #. Describes the rarity level of items.  Rarity level of 4.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:295
 msgid "Legendary"
-msgstr ""
+msgstr "Legendás"
 
 #. Describes the rarity level of items.  Rarity level of 5.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:297
 msgid "Mythical"
-msgstr ""
+msgstr "Misztikus"
 
 #. Describes the rarity level of items.  Rarity level of 6.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:299
 msgid "Transcendent"
-msgstr ""
+msgstr "Transzcendens"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:26
 msgid "Ship"
-msgstr ""
+msgstr "Hajó"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:28
@@ -235,27 +235,27 @@ msgstr "Nyomvonal"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:30
 msgid "Bullet"
-msgstr ""
+msgstr "Lövedék"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:32
 msgid "Mace"
-msgstr ""
+msgstr "Csipke"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:34
 msgid "Laser"
-msgstr ""
+msgstr "Lézer"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:36
 msgid "Joystick"
-msgstr ""
+msgstr "Joystick"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:38
 msgid "UI Color"
-msgstr ""
+msgstr "UI színe"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -629,7 +629,7 @@ msgstr "Globális ranglisták"
 #. summary of the completed deviations is shown.
 #: ../client/application/game/ui/screens/screen_career.cpp:71
 msgid "Deviations completed"
-msgstr ""
+msgstr "Befejezett eltérések"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -676,12 +676,12 @@ msgstr "Magas"
 #. The name of the graphics configuration that enables all the graphical effects.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:49
 msgid "Highest"
-msgstr ""
+msgstr "Legmagasabb"
 
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:77
 msgid "Configure graphics"
-msgstr ""
+msgstr "Grafika konfigurálása"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
 msgid "off"
@@ -694,45 +694,45 @@ msgstr "be"
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:103
 msgid "Bloom intensity"
-msgstr ""
+msgstr "Bloom erőssége"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "Lens dirt"
-msgstr ""
+msgstr "Lencse szennyeződése"
 
 #. The name of the setting that enables horizontal scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:120
 msgid "horizontal"
-msgstr ""
+msgstr "horizontális"
 
 #. The name of setting that enables grid-like scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:122
 msgid "grid"
-msgstr ""
+msgstr "rács"
 
 #. The name for the setting category for choosing the scalines type.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:124
 msgid "Scanlines"
-msgstr ""
+msgstr "Scanlineok"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:130
 msgid "Chromatic aberration"
-msgstr ""
+msgstr "Kromatikus aberráció"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:139
 msgid "Curved monitor"
-msgstr ""
+msgstr "Görbített monitor"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:148
 msgid "Vignette"
-msgstr ""
+msgstr "Vignetta"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:161
@@ -747,12 +747,12 @@ msgstr "Teljes képernyő"
 #. Name of the setting for when the game is shown in a borderless window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:165
 msgid "Borderless"
-msgstr ""
+msgstr "Szegély nélküli"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
 msgid "Screen type"
-msgstr ""
+msgstr "Képernyő típusa"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -801,13 +801,13 @@ msgstr "Lövedékek"
 #. bullets, the joysticks, the ui color, etc...
 #: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:78
 msgid "Inventory"
-msgstr ""
+msgstr "Eszköztár"
 
 #. Shown in the tab strip of the inventory. Used for showing all the unlocked
 #. items.
 #: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:83
 msgid "All"
-msgstr ""
+msgstr "Összes"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
@@ -1073,12 +1073,12 @@ msgstr "Közösségi"
 #. The title of the screen where you select what to play in the World.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:44
 msgid "World"
-msgstr ""
+msgstr "Világ"
 
 #. The title of the screen where you select what sandbox to play.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:46
 msgid "Sandbox"
-msgstr ""
+msgstr "Sandbox"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1246,42 +1246,42 @@ msgstr "Tutorial"
 #. item it is. Ship, trail, bullet, etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:91
 msgid "Type"
-msgstr ""
+msgstr "Típus"
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
 #. For example "alpha', "rival", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:95
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #. Shown in the descripting of the item. "rarity" refers to what the
 #. rarity of the item
 #. is. For example, "common", "rare", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:99
 msgid "Rarity"
-msgstr ""
+msgstr "Ritkaság"
 
 #. Title of the screen that shows the UI to unlock items
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:209
 msgid "Unlock items"
-msgstr ""
+msgstr "Elemek feloldása"
 
 #. The label of a button used for unlocking a single item.
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:225
 msgid "Unlock item"
-msgstr ""
+msgstr "Elem feloldása"
 
 #. Shown in a string when no items can be unlocked
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:245
 msgid "No items to unlock"
-msgstr ""
+msgstr "Nincsenek feloldható elemek"
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:250
 msgid "Items to unlock: %s"
-msgstr ""
+msgstr "Feloldandó elemek: %s"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
@@ -1306,7 +1306,7 @@ msgstr "Visszajátszás feltöltése %s."
 #. Shown when a user disables comments on their profile and or levels.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
 msgid "Comments are disabled."
-msgstr ""
+msgstr "A hozzászólások le vannak tiltva"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:203
 msgid "Are you sure you want to report this comment?"
@@ -1488,7 +1488,7 @@ msgstr "A manifeszt letöltése sikertelen"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:80
 msgid "Failed to set up comments"
-msgstr ""
+msgstr "Nem sikerült beállítani a megjegyzéseket"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:227
 msgid "average score: %s"
@@ -1564,18 +1564,18 @@ msgstr "Nem sikerült bejelentkezni!"
 #. Describes the "easy" difficutly (as opposed to "Cadet", "Commander")
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Apprentice"
-msgstr ""
+msgstr "Tanonc"
 
 #. Describes the "normal" difficutly (as opposed to "Apprentice",
 #. "Commander")
 #: ../client/application/game/ui/shared_strings.cpp:46
 msgid "Cadet"
-msgstr ""
+msgstr "Kadét"
 
 #. Describes the "hard" difficutly (as opposed to "Apprentice", "Cadet")
 #: ../client/application/game/ui/shared_strings.cpp:51
 msgid "Commander"
-msgstr ""
+msgstr "Parancsnok"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
@@ -1646,7 +1646,7 @@ msgstr "FELÜGYELETBEN"
 #. The label shown in the button used to enter the World.
 #: ../client/application/game/ui/views/deviation_selector.cpp:127
 msgid "Enter World"
-msgstr ""
+msgstr "Belépés a világba"
 
 #: ../client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
@@ -1656,42 +1656,42 @@ msgstr "Pajzs: %s"
 #. configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:94
 msgid "Save sandbox configuration"
-msgstr ""
+msgstr "Sandbox konfiguráció mentése"
 
 #. Shown in a button. That button is used to save a configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:98
 msgid "Save"
-msgstr ""
+msgstr "Mentés"
 
 #. Shown in a notification displayed when a configuration is saved.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:109
 msgid "Configuration saved"
-msgstr ""
+msgstr "Konfiguráció elmentve"
 
 #. Messsage shown in the screen that asks to
 #. enter the name of the sandbox configuration
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:135
 msgid "Enter configuration name"
-msgstr ""
+msgstr "Írd be a konfiguráció nevét"
 
 #. Shown in the title of the screen where you select a Sandbox
 #. configuration to load.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:165
 msgid "Load sandbox configuration"
-msgstr ""
+msgstr "Sandbox konfiguráció betöltése"
 
 #. Shown in a notification when an unnamed sandbox configuration is
 #. loaded.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:195
 msgid "loaded sandbox configuration"
-msgstr ""
+msgstr "Betöltött sandbox konfigurációk"
 
 #. Shown in a notification when a configuration is loaded.
 #. %s is replaced by the name of the configuration, for example:
 #. "loaded <my awesome config>"
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:200
 msgid "loaded <%s>"
-msgstr ""
+msgstr "betöltve <%s>"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
@@ -1754,42 +1754,42 @@ msgstr "Sötéték"
 #. The color "yellow"
 #: ../client/application/ui/ui_skin.cpp:59
 msgid "Yellow"
-msgstr ""
+msgstr "Sárga"
 
 #. The UI color "frosted green"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Frosted Green"
-msgstr ""
+msgstr "Fagyos zöld"
 
 #. The UI color "frosted red"
 #: ../client/application/ui/ui_skin.cpp:65
 msgid "Frosted Red"
-msgstr ""
+msgstr "Fagyos piros"
 
 #. The UI color "frosted blue"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "Frosted Blue"
-msgstr ""
+msgstr "Fagyos kék"
 
 #. The UI color "frosted yellow"
 #: ../client/application/ui/ui_skin.cpp:71
 msgid "Frosted Yellow"
-msgstr ""
+msgstr "Fagyos sárga"
 
 #. The UI color "frosted pink"
 #: ../client/application/ui/ui_skin.cpp:74
 msgid "Frosted Pink"
-msgstr ""
+msgstr "Fagyos pink"
 
 #. The UI color "frosted teal"
 #: ../client/application/ui/ui_skin.cpp:77
 msgid "Frosted Teal"
-msgstr ""
+msgstr "Fagyos teal"
 
 #. The UI color "frosted gray"
 #: ../client/application/ui/ui_skin.cpp:80
 msgid "Frosted Gray"
-msgstr ""
+msgstr "Fagyos szürke"
 
 #. Shown in a notification when a new version of the game is
 #. available.
