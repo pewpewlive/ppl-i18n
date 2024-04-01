@@ -1281,7 +1281,7 @@ msgstr ""
 #. The %s is replaced with a number
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:250
 msgid "Items to unlock: %s"
-msgstr "Stuff you don't have: %"
+msgstr "Stuff you don't have: %s"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
