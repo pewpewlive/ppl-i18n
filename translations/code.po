@@ -5,7 +5,7 @@
 #. "In Eskiv, score 10000 or more"
 #: ../client/application/account/achievements_description.cpp:16
 msgid "In %1$s, score %2$s or more."
-msgstr ""
+msgstr "levels[%1$s].objective >= %2$s"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -107,17 +107,17 @@ msgstr "Names[i - 1] == \"Assault\""
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:214
 msgid "True bullet hell"
-msgstr ""
+msgstr "BulletHell == true"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "GreatFirepower()->DodgingSkills"
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:250
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr ""
+msgstr "BrainHemispheres = 2, Hands = 2, Ships = 2;"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:14
@@ -127,7 +127,7 @@ msgstr "medals.push_back(\"Bronze\");"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
-msgstr ""
+msgstr "speedrun_medals.push_back(\"Bronze\");"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:19
@@ -137,7 +137,7 @@ msgstr "medals.push_back(\"Silver\");"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr ""
+msgstr "speedrun_medals.push_back(\"Silver\");"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:24
@@ -147,7 +147,7 @@ msgstr "medals.push_back(\"Gold\");"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:26
 msgid "New gold speedrun medal"
-msgstr ""
+msgstr "speedrun_medals.push_back(\"Gold\");"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:143
 msgid "You've been signed out."
@@ -167,7 +167,7 @@ msgstr "Game.Error = \"Failed to upload achievements\""
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:343
 msgid "Failed to download unlocked items"
-msgstr ""
+msgstr "Game.Error = \"Failed to download unlocked items\""
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -190,42 +190,42 @@ msgstr "Achvmnt.Unlock(%s);"
 #. Describes the rarity level of items. Rarity level of 0.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:287
 msgid "Common"
-msgstr ""
+msgstr "Rarity::Common"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:289
 msgid "Uncommon"
-msgstr ""
+msgstr "Rarity::Uncommon"
 
 #. Describes the rarity level of items.  Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:291
 msgid "Rare"
-msgstr ""
+msgstr "Rarity::Rare"
 
 #. Describes the rarity level of items.  Rarity level of 3.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:293
 msgid "Epic"
-msgstr ""
+msgstr "Rarity::Epic"
 
 #. Describes the rarity level of items.  Rarity level of 4.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:295
 msgid "Legendary"
-msgstr ""
+msgstr "Rarity::Legendary"
 
 #. Describes the rarity level of items.  Rarity level of 5.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:297
 msgid "Mythical"
-msgstr ""
+msgstr "Rarity::Mythical"
 
 #. Describes the rarity level of items.  Rarity level of 6.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:299
 msgid "Transcendent"
-msgstr ""
+msgstr "Rarity::Transcendent"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:26
 msgid "Ship"
-msgstr ""
+msgstr "ship"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:28
@@ -235,27 +235,27 @@ msgstr "ship.trail"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:30
 msgid "Bullet"
-msgstr ""
+msgstr "ship.bullet"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:32
 msgid "Mace"
-msgstr ""
+msgstr "ship.mace"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:34
 msgid "Laser"
-msgstr ""
+msgstr "ship.laser"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:36
 msgid "Joystick"
-msgstr ""
+msgstr "ship.joystick"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:38
 msgid "UI Color"
-msgstr ""
+msgstr "ui.color"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -629,7 +629,7 @@ msgstr "GameStats.GlobalLdrBrds"
 #. summary of the completed deviations is shown.
 #: ../client/application/game/ui/screens/screen_career.cpp:71
 msgid "Deviations completed"
-msgstr ""
+msgstr "Deviations.Completed"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -671,17 +671,17 @@ msgstr "Theme(CompFriendly);"
 #. The name of the graphics configuration that enables almost all the graphical effects.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:47
 msgid "High"
-msgstr "Theme(INT_MAX);"
+msgstr "Theme(High);"
 
 #. The name of the graphics configuration that enables all the graphical effects.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:49
 msgid "Highest"
-msgstr ""
+msgstr "Theme(INT_MAX);"
 
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:77
 msgid "Configure graphics"
-msgstr ""
+msgstr "ConfigureGraphics.UI"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
 msgid "off"
@@ -694,45 +694,45 @@ msgstr "true"
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:103
 msgid "Bloom intensity"
-msgstr ""
+msgstr "BloomIntensity"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "Lens dirt"
-msgstr ""
+msgstr "LensDirt"
 
 #. The name of the setting that enables horizontal scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:120
 msgid "horizontal"
-msgstr ""
+msgstr "mode.horizontal"
 
 #. The name of setting that enables grid-like scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:122
 msgid "grid"
-msgstr ""
+msgstr "mode.grid"
 
 #. The name for the setting category for choosing the scalines type.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:124
 msgid "Scanlines"
-msgstr ""
+msgstr "Scanlines"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:130
 msgid "Chromatic aberration"
-msgstr ""
+msgstr "ChromaticAberration"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:139
 msgid "Curved monitor"
-msgstr ""
+msgstr "CurvedMonitor"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:148
 msgid "Vignette"
-msgstr ""
+msgstr "Vignette"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:161
@@ -747,12 +747,12 @@ msgstr "ScreenState::Fullscreen"
 #. Name of the setting for when the game is shown in a borderless window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:165
 msgid "Borderless"
-msgstr ""
+msgstr "ScreenState::Borderless"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
 msgid "Screen type"
-msgstr ""
+msgstr "ScreenType"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -801,13 +801,13 @@ msgstr "ship.bullets"
 #. bullets, the joysticks, the ui color, etc...
 #: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:78
 msgid "Inventory"
-msgstr ""
+msgstr "Inventory.UI"
 
 #. Shown in the tab strip of the inventory. Used for showing all the unlocked
 #. items.
 #: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:83
 msgid "All"
-msgstr ""
+msgstr "*.item"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
@@ -1073,12 +1073,12 @@ msgstr "Game.Community"
 #. The title of the screen where you select what to play in the World.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:44
 msgid "World"
-msgstr ""
+msgstr "Game.World"
 
 #. The title of the screen where you select what sandbox to play.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:46
 msgid "Sandbox"
-msgstr ""
+msgstr "Game.Sandbox"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1246,42 +1246,42 @@ msgstr "GameTut.UI"
 #. item it is. Ship, trail, bullet, etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:91
 msgid "Type"
-msgstr ""
+msgstr "Item.Type"
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
 #. For example "alpha', "rival", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:95
 msgid "Name"
-msgstr ""
+msgstr "Item.Name"
 
 #. Shown in the descripting of the item. "rarity" refers to what the
 #. rarity of the item
 #. is. For example, "common", "rare", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:99
 msgid "Rarity"
-msgstr ""
+msgstr "Item.Rarity"
 
 #. Title of the screen that shows the UI to unlock items
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:209
 msgid "Unlock items"
-msgstr ""
+msgstr "UnlockItems();"
 
 #. The label of a button used for unlocking a single item.
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:225
 msgid "Unlock item"
-msgstr ""
+msgstr "UnlockItem();"
 
 #. Shown in a string when no items can be unlocked
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:245
 msgid "No items to unlock"
-msgstr ""
+msgstr "ItemsToUnlock.size() == 0"
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:250
 msgid "Items to unlock: %s"
-msgstr ""
+msgstr "ItemsToUnlock.size() == %s"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
@@ -1306,7 +1306,7 @@ msgstr "UploadReplayForLevel(\"%s\");"
 #. Shown when a user disables comments on their profile and or levels.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
 msgid "Comments are disabled."
-msgstr ""
+msgstr "Comments.Disabled == true"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:203
 msgid "Are you sure you want to report this comment?"
@@ -1488,7 +1488,7 @@ msgstr "Game.Error = \"Failed manifest download\""
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:80
 msgid "Failed to set up comments"
-msgstr ""
+msgstr "Game.Error = \"Failed to set up comments\""
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:227
 msgid "average score: %s"
@@ -1564,18 +1564,18 @@ msgstr "Game.Error = \"Failed sign-in\""
 #. Describes the "easy" difficutly (as opposed to "Cadet", "Commander")
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Apprentice"
-msgstr ""
+msgstr "Python"
 
 #. Describes the "normal" difficutly (as opposed to "Apprentice",
 #. "Commander")
 #: ../client/application/game/ui/shared_strings.cpp:46
 msgid "Cadet"
-msgstr ""
+msgstr "C++"
 
 #. Describes the "hard" difficutly (as opposed to "Apprentice", "Cadet")
 #: ../client/application/game/ui/shared_strings.cpp:51
 msgid "Commander"
-msgstr ""
+msgstr "Assembly"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
@@ -1646,7 +1646,7 @@ msgstr "levelStatus = InRev"
 #. The label shown in the button used to enter the World.
 #: ../client/application/game/ui/views/deviation_selector.cpp:127
 msgid "Enter World"
-msgstr ""
+msgstr "Enter();"
 
 #: ../client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
@@ -1656,42 +1656,42 @@ msgstr "Data.Shlds = %s"
 #. configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:94
 msgid "Save sandbox configuration"
-msgstr ""
+msgstr "SandboxConfSave.UI"
 
 #. Shown in a button. That button is used to save a configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:98
 msgid "Save"
-msgstr ""
+msgstr "Save();"
 
 #. Shown in a notification displayed when a configuration is saved.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:109
 msgid "Configuration saved"
-msgstr ""
+msgstr "Save() returned: true"
 
 #. Messsage shown in the screen that asks to
 #. enter the name of the sandbox configuration
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:135
 msgid "Enter configuration name"
-msgstr ""
+msgstr "SandboxConf.Name"
 
 #. Shown in the title of the screen where you select a Sandbox
 #. configuration to load.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:165
 msgid "Load sandbox configuration"
-msgstr ""
+msgstr "SandboxConfLoad.UI"
 
 #. Shown in a notification when an unnamed sandbox configuration is
 #. loaded.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:195
 msgid "loaded sandbox configuration"
-msgstr ""
+msgstr "Load() returned: true"
 
 #. Shown in a notification when a configuration is loaded.
 #. %s is replaced by the name of the configuration, for example:
 #. "loaded <my awesome config>"
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:200
 msgid "loaded <%s>"
-msgstr ""
+msgstr "Load() returned: %s"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
@@ -1704,92 +1704,92 @@ msgstr "Ok();"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:29
 msgid "Red"
-msgstr "Colors.Red"
+msgstr "Colors::Red"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:32
 msgid "Cyan"
-msgstr "Colors.Cyan"
+msgstr "Colors::Cyan"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:35
 msgid "Lime"
-msgstr "Colors.Lime"
+msgstr "Colors::Lime"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:38
 msgid "Lime Green"
-msgstr "Colors.LimeGreen"
+msgstr "Colors::LimeGreen"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:41
 msgid "Purple"
-msgstr "Colors.Purple"
+msgstr "Colors::Purple"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:44
 msgid "Pink"
-msgstr "Colors.Pink"
+msgstr "Colors::Pink"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:47
 msgid "Orange"
-msgstr "Colors.Orange"
+msgstr "Colors::Orange"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:50
 msgid "White"
-msgstr "Colors.White"
+msgstr "Colors::White"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:53
 msgid "Gray"
-msgstr "Colors.Gray"
+msgstr "Colors::Gray"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Dark Blue"
-msgstr "Colors.DarkBlue"
+msgstr "Colors::DarkBlue"
 
 #. The color "yellow"
 #: ../client/application/ui/ui_skin.cpp:59
 msgid "Yellow"
-msgstr ""
+msgstr "Colors::Yellow"
 
 #. The UI color "frosted green"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Frosted Green"
-msgstr ""
+msgstr "Colors::Green"
 
 #. The UI color "frosted red"
 #: ../client/application/ui/ui_skin.cpp:65
 msgid "Frosted Red"
-msgstr ""
+msgstr "Colors::Red"
 
 #. The UI color "frosted blue"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "Frosted Blue"
-msgstr ""
+msgstr "Colors::Blue"
 
 #. The UI color "frosted yellow"
 #: ../client/application/ui/ui_skin.cpp:71
 msgid "Frosted Yellow"
-msgstr ""
+msgstr "Colors::Yellow"
 
 #. The UI color "frosted pink"
 #: ../client/application/ui/ui_skin.cpp:74
 msgid "Frosted Pink"
-msgstr ""
+msgstr "Colors::Pink"
 
 #. The UI color "frosted teal"
 #: ../client/application/ui/ui_skin.cpp:77
 msgid "Frosted Teal"
-msgstr ""
+msgstr "Colors::Teal"
 
 #. The UI color "frosted gray"
 #: ../client/application/ui/ui_skin.cpp:80
 msgid "Frosted Gray"
-msgstr ""
+msgstr "Colors::Gray"
 
 #. Shown in a notification when a new version of the game is
 #. available.
