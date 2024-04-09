@@ -5,7 +5,7 @@
 #. "In Eskiv, score 10000 or more"
 #: ../client/application/account/achievements_description.cpp:16
 msgid "In %1$s, score %2$s or more."
-msgstr ""
+msgstr "ქულაში %1$s, %2$s ან მეტი."
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -1764,7 +1764,7 @@ msgstr "ყინვაგამძლე მწვანე"
 #. The UI color "frosted red"
 #: ../client/application/ui/ui_skin.cpp:65
 msgid "Frosted Red"
-msgstr ""
+msgstr "ყინვაგამძლე წითელი"
 
 #. The UI color "frosted blue"
 #: ../client/application/ui/ui_skin.cpp:68
