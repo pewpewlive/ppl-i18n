@@ -676,8 +676,7 @@ msgstr "Baland"
 #. The name of the graphics configuration that enables all the graphical effects.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:49
 msgid "Highest"
-msgstr "
-Eng baland"
+msgstr "Eng baland"
 
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:77
