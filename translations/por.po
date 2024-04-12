@@ -5,31 +5,31 @@
 #. "In Eskiv, score 10000 or more"
 #: ../client/application/account/achievements_description.cpp:16
 msgid "In %1$s, score %2$s or more."
-msgstr ""
+msgstr "Em %1$s, atinja %2$s ou mais."
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:329
 msgid "Ouch"
-msgstr ""
+msgstr "Ai"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:332
 msgid "Yikes"
-msgstr ""
+msgstr "Caramba"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:335
 msgid "Ow"
-msgstr ""
+msgstr "Ai"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:338
 msgid "Ugh"
-msgstr ""
+msgstr "Ai"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
@@ -107,17 +107,17 @@ msgstr "Anteriormente conhecido como Assalto"
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:214
 msgid "True bullet hell"
-msgstr ""
+msgstr "Verdadeiro inferno de balas"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "Com grande poder de fogo vem grandes habilidades de desvio"
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:250
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr ""
+msgstr "2 hemisférios cerebrais, 2 mãos, 2 naves"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:14
@@ -127,7 +127,7 @@ msgstr "Nova medalha de bronze"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
-msgstr ""
+msgstr "Nova medalha speedrun de bronze"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:19
@@ -137,7 +137,7 @@ msgstr "Nova medalha de prata"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr ""
+msgstr "Nova medalha speedrun de prata"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:24
@@ -147,7 +147,7 @@ msgstr "Nova medalha de ouro"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:26
 msgid "New gold speedrun medal"
-msgstr ""
+msgstr "Nova medalha speedrun de ouro"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:143
 msgid "You've been signed out."
@@ -159,15 +159,15 @@ msgstr "Falha ao baixar dados de backup"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:270
 msgid "Failed to download achievements"
-msgstr ""
+msgstr "Falha ao baixar conquistas"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:314
 msgid "Failed to upload achievements"
-msgstr ""
+msgstr "Falha ao enviar conquistas"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:343
 msgid "Failed to download unlocked items"
-msgstr ""
+msgstr "Falha ao baixar itens desbloqueados"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -179,53 +179,53 @@ msgstr "Nova maior pontuação! %s ⇨ %s"
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:52
 msgid "Improved speed run! %s ⇨ %s"
-msgstr ""
+msgstr "Novo melhor tempo! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:802
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "Conquista desbloqueada: %s"
 
 #. Describes the rarity level of items. Rarity level of 0.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:287
 msgid "Common"
-msgstr ""
+msgstr "Comum"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:289
 msgid "Uncommon"
-msgstr ""
+msgstr "Incomum"
 
 #. Describes the rarity level of items.  Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:291
 msgid "Rare"
-msgstr ""
+msgstr "Raro"
 
 #. Describes the rarity level of items.  Rarity level of 3.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:293
 msgid "Epic"
-msgstr ""
+msgstr "Épico"
 
 #. Describes the rarity level of items.  Rarity level of 4.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:295
 msgid "Legendary"
-msgstr ""
+msgstr "Lendário"
 
 #. Describes the rarity level of items.  Rarity level of 5.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:297
 msgid "Mythical"
-msgstr ""
+msgstr "Mítico"
 
 #. Describes the rarity level of items.  Rarity level of 6.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:299
 msgid "Transcendent"
-msgstr ""
+msgstr "Transcendente"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:26
 msgid "Ship"
-msgstr ""
+msgstr "Nave"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:28
@@ -235,27 +235,27 @@ msgstr "Trilha"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:30
 msgid "Bullet"
-msgstr ""
+msgstr "Bala"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:32
 msgid "Mace"
-msgstr ""
+msgstr "Bastão"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:34
 msgid "Laser"
-msgstr ""
+msgstr "Laser"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:36
 msgid "Joystick"
-msgstr ""
+msgstr "Joystick"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:38
 msgid "UI Color"
-msgstr ""
+msgstr "Cor da IU"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -275,19 +275,19 @@ msgstr "Precisão: %s"
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:505
 msgid "Total score: %s"
-msgstr ""
+msgstr "Pontuação total: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:509
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Pointônio: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
 #: ../client/application/game/state/game_state.cpp:513
 msgid "Duration: %s"
-msgstr ""
+msgstr "Duração: %s"
 
 #: ../client/application/game/ui/game_over_ui.cpp:10
 msgid "Game Over"
@@ -297,22 +297,22 @@ msgstr "Fim de Jogo"
 #. translation.
 #: ../client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr ""
+msgstr "Você morreu. De novo."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
-msgstr ""
+msgstr "Insira uma moeda para continuar"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr ""
+msgstr "Você tentou"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
-msgstr ""
+msgstr "Tudo bem, você nunca vai ganhar mesmo."
 
 #: ../client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
@@ -325,12 +325,12 @@ msgstr "Continuar"
 #. Shown when the player failed to achieve an objective
 #: ../client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
-msgstr ""
+msgstr "Falhou"
 
 #. Shown when the player succesfully achieved an objective
 #: ../client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
-msgstr ""
+msgstr "Sucesso!"
 
 #: ../client/application/game/ui/game_over_ui.cpp:113
 msgid "Exit"
@@ -385,7 +385,7 @@ msgstr "Falhar ao trocar nick"
 #. nickname, or delete your account.
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
 msgid "Manage Account"
-msgstr ""
+msgstr "Gerenciar conta"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
 msgid "Synchronize"
@@ -611,7 +611,7 @@ msgstr "Sincronização concluída."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
 msgid "Your verified medals have been downloaded."
-msgstr ""
+msgstr "Suas medalhas verificadas foram baixadas"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:33
 msgid "Skip"
@@ -623,35 +623,35 @@ msgstr "Estatísticas"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:54
 msgid "Global leaderboards"
-msgstr ""
+msgstr "Líderes globais"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
 #: ../client/application/game/ui/screens/screen_career.cpp:71
 msgid "Deviations completed"
-msgstr ""
+msgstr "Desvios completados"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
 #: ../client/application/game/ui/screens/screen_career.cpp:85
 msgid "All time stars and medals"
-msgstr ""
+msgstr "Estrelas e medalhas de todo o tempo"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "Configurar controle"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "Zona morta"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
-msgstr ""
+msgstr "Saturação"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "Curva"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:118
 msgid "Reset"
@@ -676,12 +676,12 @@ msgstr "Alto"
 #. The name of the graphics configuration that enables all the graphical effects.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:49
 msgid "Highest"
-msgstr ""
+msgstr "Maior"
 
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:77
 msgid "Configure graphics"
-msgstr ""
+msgstr "Configurar gráficos"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
 msgid "off"
@@ -694,55 +694,55 @@ msgstr "on"
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:103
 msgid "Bloom intensity"
-msgstr ""
+msgstr "Intensidade do bloom"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "Lens dirt"
-msgstr ""
+msgstr "Lentes sujas"
 
 #. The name of the setting that enables horizontal scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:120
 msgid "horizontal"
-msgstr ""
+msgstr "horizontal"
 
 #. The name of setting that enables grid-like scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:122
 msgid "grid"
-msgstr ""
+msgstr "grade"
 
 #. The name for the setting category for choosing the scalines type.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:124
 msgid "Scanlines"
-msgstr ""
+msgstr "Scanlines"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:130
 msgid "Chromatic aberration"
-msgstr ""
+msgstr "Aberração cromática"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:139
 msgid "Curved monitor"
-msgstr ""
+msgstr "Monitor curvo"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:148
 msgid "Vignette"
-msgstr ""
+msgstr "Vinheta"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:161
 msgid "Windowed"
-msgstr ""
+msgstr "Janela"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:163
 msgid "Fullscreen"
-msgstr ""
+msgstr "Tela cheia"
 
 #. Name of the setting for when the game is shown in a borderless window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:165
@@ -752,13 +752,13 @@ msgstr ""
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
 msgid "Screen type"
-msgstr ""
+msgstr "Sem borda"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "Estilo dos joysticks"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Configure keyboard"
@@ -782,7 +782,7 @@ msgstr "Mira do mouse %s"
 #. example: "Quick restart: space".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:236
 msgid "Quick Restart: %s"
-msgstr ""
+msgstr "Reinício rápido: %s"
 
 #: ../client/application/game/ui/screens/screen_configure_ship_ppl1.cpp:55
 msgid "Configure Ship"
@@ -801,13 +801,13 @@ msgstr "Balas"
 #. bullets, the joysticks, the ui color, etc...
 #: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:78
 msgid "Inventory"
-msgstr ""
+msgstr "Inventário"
 
 #. Shown in the tab strip of the inventory. Used for showing all the unlocked
 #. items.
 #: ../client/application/game/ui/screens/screen_configure_ship_ppl2.cpp:83
 msgid "All"
-msgstr ""
+msgstr "Tudo"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
@@ -823,11 +823,11 @@ msgstr "Baixando o nível..."
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:62
 msgid "Failed to download level."
-msgstr ""
+msgstr "Falha ao baixar o nível"
 
 #: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Enciclopédia"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -837,19 +837,19 @@ msgstr "Música"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:102
 msgid "Credits"
-msgstr ""
+msgstr "Créditos"
 
 #. Shown in a button. This buttons lets you see the list of programming
 #. library that are used in the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:116
 msgid "Licenses"
-msgstr ""
+msgstr "Licenças"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to discord server
 #: ../client/application/game/ui/screens/screen_informations.h:22
 msgid "Discord server"
-msgstr "Servidor do discord"
+msgstr "Servidor do Discord"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to the youtube channel
@@ -954,19 +954,19 @@ msgstr "Não é possível jogar multijogador com NAT simétrico"
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
 msgid "Learn more"
-msgstr ""
+msgstr "Ler mais"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
 msgid "Symmetric NAT error"
-msgstr ""
+msgstr "Erro do NAT simétrico"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr ""
+msgstr "Isso significa que sua conexão internet é restritivo e não permite multiplayer p2p"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr ""
+msgstr "Se você tiver usando dados móveis, tente desativar. Se você tiver no Wi-Fi, tente usar outra rede."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
@@ -1073,12 +1073,12 @@ msgstr "Comunidade"
 #. The title of the screen where you select what to play in the World.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:44
 msgid "World"
-msgstr ""
+msgstr "Mundo"
 
 #. The title of the screen where you select what sandbox to play.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:46
 msgid "Sandbox"
-msgstr ""
+msgstr "Sandbox"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1096,7 +1096,7 @@ msgstr "Configurações"
 #. graphics settings.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Graphics"
-msgstr ""
+msgstr "Gráficos"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:54
 msgid "Controls"
@@ -1112,7 +1112,7 @@ msgstr "Idioma"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:86
 msgid "UI"
-msgstr ""
+msgstr "IU"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:112
 msgid "Start tutorial"
@@ -1156,7 +1156,7 @@ msgstr "Teclado"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "Controle"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
@@ -1180,15 +1180,15 @@ msgstr "Contribuidores"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
-msgstr ""
+msgstr "Configurações da IU"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:131
 msgid "Show in-game score"
-msgstr ""
+msgstr "Mostrar score do jogo"
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
-msgstr ""
+msgstr "Pausa rápida"
 
 #. Shown in the settings UI, next to an "on/off" switch, when the game is
 #. launched from Steam.
@@ -1198,25 +1198,25 @@ msgstr ""
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr ""
+msgstr "Status da Steam"
 
 #. The description of the setting that allows players to toggle on or off
 #. the floating text message in-game.
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:188
 msgid "Show optional floating text"
-msgstr ""
+msgstr "Mostrar texto opcional flutuante"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:262
 msgid "UI Scale: %s"
-msgstr ""
+msgstr "Escala da IU: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:269
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "Inset da IU: %s"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
@@ -1246,42 +1246,42 @@ msgstr "Tutorial"
 #. item it is. Ship, trail, bullet, etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:91
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
 #. For example "alpha', "rival", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:95
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #. Shown in the descripting of the item. "rarity" refers to what the
 #. rarity of the item
 #. is. For example, "common", "rare", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:99
 msgid "Rarity"
-msgstr ""
+msgstr "Raridade"
 
 #. Title of the screen that shows the UI to unlock items
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:209
 msgid "Unlock items"
-msgstr ""
+msgstr "Desbloquear itens"
 
 #. The label of a button used for unlocking a single item.
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:225
 msgid "Unlock item"
-msgstr ""
+msgstr "Desbloquear item"
 
 #. Shown in a string when no items can be unlocked
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:245
 msgid "No items to unlock"
-msgstr ""
+msgstr "Nenhum item para desbloquear"
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:250
 msgid "Items to unlock: %s"
-msgstr ""
+msgstr "Itens a desbloquear: %s"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
@@ -1306,7 +1306,7 @@ msgstr "Enviando replay para %s."
 #. Shown when a user disables comments on their profile and or levels.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
 msgid "Comments are disabled."
-msgstr ""
+msgstr "Comentários desativados"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:203
 msgid "Are you sure you want to report this comment?"
@@ -1360,7 +1360,7 @@ msgstr "Comentário deve ter ao menos 3 caracteres"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:359
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr ""
+msgstr "Por favor manere seu linguajar. Sem insultos, sem palavrões, sem spam. Podemos excluir qualquer post que infrinja esta regra, e bloquear ou banir ofensores."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -1468,11 +1468,11 @@ msgstr "mundo"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:143
 msgid "High Scores"
-msgstr ""
+msgstr "Pontuações máximas"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:144
 msgid "Speed Runs"
-msgstr ""
+msgstr "Speedruns"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1488,7 +1488,7 @@ msgstr "Falha ao baixar o manifesto"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:80
 msgid "Failed to set up comments"
-msgstr ""
+msgstr "Falha ao definir comentários"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:227
 msgid "average score: %s"
@@ -1502,24 +1502,24 @@ msgstr "Nível experimental"
 #. version number. For example: "version 2"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
 msgid "version %s"
-msgstr ""
+msgstr "versão %s"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:21
 msgid "released %s"
-msgstr ""
+msgstr "lançado em %s"
 
 #. Used if the level does not contain any information.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
 msgid "No information available"
-msgstr ""
+msgstr "Nenhuma informação disponível"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
 msgid "Gold medals percentage: %s"
-msgstr ""
+msgstr "Porcentagem de medalhas de ouro: %s"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:49
 msgid "Failed to read replay."
@@ -1564,49 +1564,49 @@ msgstr "Falha ao entrar"
 #. Describes the "easy" difficutly (as opposed to "Cadet", "Commander")
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Apprentice"
-msgstr ""
+msgstr "Aprendiz"
 
 #. Describes the "normal" difficutly (as opposed to "Apprentice",
 #. "Commander")
 #: ../client/application/game/ui/shared_strings.cpp:46
 msgid "Cadet"
-msgstr ""
+msgstr "Cadete"
 
 #. Describes the "hard" difficutly (as opposed to "Apprentice", "Cadet")
 #: ../client/application/game/ui/shared_strings.cpp:51
 msgid "Commander"
-msgstr ""
+msgstr "Comandante"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
 #. "Era 2 medals and stars"
 #: ../client/application/game/ui/views/account_view.cpp:363
 msgid "Era %s medals and stars"
-msgstr ""
+msgstr "Medalhas e estrelas da Era %s"
 
 #. Error shown when downloading some piece of data failed.
 #: ../client/application/game/ui/views/account_view.cpp:506
 msgid "Download error"
-msgstr ""
+msgstr "Erro de download"
 
 #. Shown when the downloading of some piece of data is in progress.
 #: ../client/application/game/ui/views/account_view.cpp:508
 msgid "Downloading..."
-msgstr ""
+msgstr "Baixando..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
 #: ../client/application/game/ui/views/account_view.cpp:86
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "Níveis"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: ../client/application/game/ui/views/account_view.cpp:89
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "Pontuações"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1614,7 +1614,7 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:93
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "Geral"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1622,22 +1622,22 @@ msgstr ""
 #: ../client/application/game/ui/views/account_view.cpp:325
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "Entrou em: %s"
 
 #. Shown in the button that allows users to sort by date
 #: ../client/application/game/ui/views/community_level_selector.cpp:137
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #. Shown in the button that allows users to sort by stars
 #: ../client/application/game/ui/views/community_level_selector.cpp:141
 msgid "Stars"
-msgstr ""
+msgstr "Estrelas"
 
 #. Shown in the button that allows users to sort by difficutly
 #: ../client/application/game/ui/views/community_level_selector.cpp:145
 msgid "Difficulty"
-msgstr ""
+msgstr "Dificuldade"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:329
 msgid "IN REVIEW"
@@ -1646,7 +1646,7 @@ msgstr "EM REVISÃO"
 #. The label shown in the button used to enter the World.
 #: ../client/application/game/ui/views/deviation_selector.cpp:127
 msgid "Enter World"
-msgstr ""
+msgstr "Entrar no Mundo"
 
 #: ../client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
@@ -1656,42 +1656,42 @@ msgstr "Escudo: %s"
 #. configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:94
 msgid "Save sandbox configuration"
-msgstr ""
+msgstr "Salvar configurações do sandbox"
 
 #. Shown in a button. That button is used to save a configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:98
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #. Shown in a notification displayed when a configuration is saved.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:109
 msgid "Configuration saved"
-msgstr ""
+msgstr "Configuração salva"
 
 #. Messsage shown in the screen that asks to
 #. enter the name of the sandbox configuration
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:135
 msgid "Enter configuration name"
-msgstr ""
+msgstr "Insira o nome da configuração"
 
 #. Shown in the title of the screen where you select a Sandbox
 #. configuration to load.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:165
 msgid "Load sandbox configuration"
-msgstr ""
+msgstr "Carregar configuração do sandbox"
 
 #. Shown in a notification when an unnamed sandbox configuration is
 #. loaded.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:195
 msgid "loaded sandbox configuration"
-msgstr ""
+msgstr "configuração do sandbox carregada"
 
 #. Shown in a notification when a configuration is loaded.
 #. %s is replaced by the name of the configuration, for example:
 #. "loaded <my awesome config>"
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:200
 msgid "loaded <%s>"
-msgstr ""
+msgstr "carregada <%s>"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
@@ -1704,92 +1704,92 @@ msgstr "ok"
 #. The color "red"
 #: ../client/application/ui/ui_skin.cpp:29
 msgid "Red"
-msgstr ""
+msgstr "Vermelho"
 
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:32
 msgid "Cyan"
-msgstr ""
+msgstr "Ciano"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:35
 msgid "Lime"
-msgstr ""
+msgstr "Lima"
 
 #. The color "lime green"
 #: ../client/application/ui/ui_skin.cpp:38
 msgid "Lime Green"
-msgstr ""
+msgstr "Verde Lima"
 
 #. The color "purple"
 #: ../client/application/ui/ui_skin.cpp:41
 msgid "Purple"
-msgstr ""
+msgstr "Roxo"
 
 #. The color "pink"
 #: ../client/application/ui/ui_skin.cpp:44
 msgid "Pink"
-msgstr ""
+msgstr "Rosa"
 
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:47
 msgid "Orange"
-msgstr ""
+msgstr "Laranja"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:50
 msgid "White"
-msgstr ""
+msgstr "Branco"
 
 #. The color "gray"
 #: ../client/application/ui/ui_skin.cpp:53
 msgid "Gray"
-msgstr ""
+msgstr "Cinza"
 
 #. The color "dark blue"
 #: ../client/application/ui/ui_skin.cpp:56
 msgid "Dark Blue"
-msgstr ""
+msgstr "Azul escuro"
 
 #. The color "yellow"
 #: ../client/application/ui/ui_skin.cpp:59
 msgid "Yellow"
-msgstr ""
+msgstr "Amarelo"
 
 #. The UI color "frosted green"
 #: ../client/application/ui/ui_skin.cpp:62
 msgid "Frosted Green"
-msgstr ""
+msgstr "Verde fosco"
 
 #. The UI color "frosted red"
 #: ../client/application/ui/ui_skin.cpp:65
 msgid "Frosted Red"
-msgstr ""
+msgstr "Vermelho fosco"
 
 #. The UI color "frosted blue"
 #: ../client/application/ui/ui_skin.cpp:68
 msgid "Frosted Blue"
-msgstr ""
+msgstr "Azul fosco"
 
 #. The UI color "frosted yellow"
 #: ../client/application/ui/ui_skin.cpp:71
 msgid "Frosted Yellow"
-msgstr ""
+msgstr "Amarelo fosco"
 
 #. The UI color "frosted pink"
 #: ../client/application/ui/ui_skin.cpp:74
 msgid "Frosted Pink"
-msgstr ""
+msgstr "Rosa fosco"
 
 #. The UI color "frosted teal"
 #: ../client/application/ui/ui_skin.cpp:77
 msgid "Frosted Teal"
-msgstr ""
+msgstr "Cerceta fosco"
 
 #. The UI color "frosted gray"
 #: ../client/application/ui/ui_skin.cpp:80
 msgid "Frosted Gray"
-msgstr ""
+msgstr "Cinza fosco"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -1797,5 +1797,5 @@ msgstr ""
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Atualização disponível %s"
 
