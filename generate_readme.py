@@ -88,17 +88,13 @@ with open(readme_file, "w", encoding="utf8", newline="\r\n") as f:
         flag = lang["emoji_flag"]
         stats = lang_stats[lang_code]
         comment = (
-            " ("
-            + str(percentage)
-            + "% complete; "
-            + str(int(stats["missing"]))
-            + " remaining)"
+            f" ({str(percentage)}% complete; {str(int(stats["missing"]))} remaining)"
         )
         if stats["missing"] == 0:
             comment = " (100% complete! 🎉)"
         lang_link = "[" + lang_name + "](/translations/" + lang_code + ".po)"
         f.write("* " + flag + " " + lang_link + comment + "\n")
 
-    date = datetime.datetime.utcnow()
+    date = datetime.datetime.now(datetime.UTC)
     date_str = date.strftime("%b %d %Y %H:%M:%S")
     f.write("> Report generated on " + date_str + " UTC")
