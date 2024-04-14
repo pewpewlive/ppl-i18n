@@ -88,7 +88,11 @@ with open(readme_file, "w", encoding="utf8", newline="\r\n") as f:
         flag = lang["emoji_flag"]
         stats = lang_stats[lang_code]
         comment = (
-            f" ({str(percentage)}% complete; {str(int(stats["missing"]))} remaining)"
+            " ("
+            + str(percentage)
+            + "% complete; "
+            + str(int(stats["missing"]))
+            + " remaining)"
         )
         if stats["missing"] == 0:
             comment = " (100% complete! 🎉)"
