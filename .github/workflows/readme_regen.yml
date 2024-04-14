@@ -2,7 +2,7 @@ name: Readme Updater
 
 on:
   schedule:
-    - cron: '0 0 * * 1'
+    - cron: "0 0 * * 1"
 
   workflow_dispatch:
 
@@ -19,7 +19,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.12"
 
       - name: Generate new README.md
         run: python ${{ github.workspace }}/generate_readme.py
