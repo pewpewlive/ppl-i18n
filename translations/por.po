@@ -747,12 +747,12 @@ msgstr "Tela cheia"
 #. Name of the setting for when the game is shown in a borderless window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:165
 msgid "Borderless"
-msgstr ""
+msgstr "Sem borda"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
 msgid "Screen type"
-msgstr "Sem borda"
+msgstr "Tipo de tela"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
