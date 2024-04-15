@@ -5,7 +5,7 @@
 #. "In Eskiv, score 10000 or more"
 #: ../client/application/account/achievements_description.cpp:16
 msgid "In %1$s, score %2$s or more."
-msgstr ""
+msgstr "%1$s ішінде %2$s немесе одан көп ұпай жинаңыз."
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -107,17 +107,17 @@ msgstr "Бұрын Assault ретінде белгілі"
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:214
 msgid "True bullet hell"
-msgstr ""
+msgstr "Нағыз оқ тозақ"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "Үлкен атыс күші үлкен қашу дағдыларын береді"
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:250
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr ""
+msgstr "2 мый жарым шарлары, 2 қол, 2 кеме."
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:14
@@ -127,7 +127,7 @@ msgstr "Жаңа қола медаль"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
-msgstr ""
+msgstr "Жаңа қола спидран медаль"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:19
@@ -137,7 +137,7 @@ msgstr "Жаңа күміс медаль"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr ""
+msgstr "Жаңа күміс спидран медаль"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:24
@@ -147,7 +147,7 @@ msgstr "Жаңа алтын медаль"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:26
 msgid "New gold speedrun medal"
-msgstr ""
+msgstr "Жаңа алтын спидран медаль"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:143
 msgid "You've been signed out."
@@ -167,7 +167,7 @@ msgstr "Жетістіктер жіберілді."
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:343
 msgid "Failed to download unlocked items"
-msgstr ""
+msgstr "Заттарды жүктеу амалға аспады"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -190,42 +190,42 @@ msgstr "Жаңа жетістік: %s"
 #. Describes the rarity level of items. Rarity level of 0.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:287
 msgid "Common"
-msgstr ""
+msgstr "Жалпы" 
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:289
 msgid "Uncommon"
-msgstr ""
+msgstr "Жеке"
 
 #. Describes the rarity level of items.  Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:291
 msgid "Rare"
-msgstr ""
+msgstr "Бірегей"
 
 #. Describes the rarity level of items.  Rarity level of 3.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:293
 msgid "Epic"
-msgstr ""
+msgstr "Эпикалық"
 
 #. Describes the rarity level of items.  Rarity level of 4.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:295
 msgid "Legendary"
-msgstr ""
+msgstr "Аңызды"
 
 #. Describes the rarity level of items.  Rarity level of 5.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:297
 msgid "Mythical"
-msgstr ""
+msgstr "Мифик"
 
 #. Describes the rarity level of items.  Rarity level of 6.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:299
 msgid "Transcendent"
-msgstr ""
+msgstr "Трансцендент"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:26
 msgid "Ship"
-msgstr ""
+msgstr "Кеме"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:28
@@ -235,27 +235,27 @@ msgstr "Из"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:30
 msgid "Bullet"
-msgstr ""
+msgstr "Оқ"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:32
 msgid "Mace"
-msgstr ""
+msgstr "Сойыл"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:34
 msgid "Laser"
-msgstr ""
+msgstr "Лазер"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:36
 msgid "Joystick"
-msgstr ""
+msgstr "Джойстик"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:38
 msgid "UI Color"
-msgstr ""
+msgstr "UI түсі"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
