@@ -183,7 +183,7 @@ msgstr "Poboljšan speed run! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: ../client/application/game/player_data/player_data_manager.cpp:802
+#: ../client/application/game/player_data/player_data_manager.cpp:791
 msgid "Achievement Unlocked: %s"
 msgstr "Dostignuće Otključano: %s"
 
@@ -613,7 +613,7 @@ msgstr "Sinkronizacija završena."
 msgid "Your verified medals have been downloaded."
 msgstr "Vaše verificirane medalje su preuzete."
 
-#: ../client/application/game/ui/screens/screen_benchmark.cpp:33
+#: ../client/application/game/ui/screens/screen_benchmark.cpp:34
 msgid "Skip"
 msgstr "Preskoči"
 
@@ -658,99 +658,99 @@ msgid "Reset"
 msgstr "Resetiraj"
 
 #. The name of the graphics configuration that disables all the graphics effects
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:42
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:46
 msgid "Minimal"
 msgstr "Minimalno"
 
 #. The name of the graphics configuration that enables a few graphical effects
 #. while still allowing screen recording with a high compression ratio
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:45
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:49
 msgid "Compression friendly"
 msgstr "Pogodno za kompresiju"
 
 #. The name of the graphics configuration that enables almost all the graphical effects.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:47
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:51
 msgid "High"
 msgstr "Visoko"
 
 #. The name of the graphics configuration that enables all the graphical effects.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:49
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:53
 msgid "Highest"
 msgstr "Najviše"
 
 #. Title of the screen where graphics are configured.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:77
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:91
 msgid "Configure graphics"
 msgstr "Upravljaj grafikom"
 
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:110
 msgid "off"
 msgstr "isklj."
 
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:96
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:110
 msgid "on"
 msgstr "uklj."
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:103
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:117
 msgid "Bloom intensity"
 msgstr "Intenzitet sjaja"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:126
 msgid "Lens dirt"
 msgstr "Prljave leće"
 
 #. The name of the setting that enables horizontal scanlines.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:120
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:134
 msgid "horizontal"
 msgstr "horizontalno"
 
 #. The name of setting that enables grid-like scanlines.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:122
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:136
 msgid "grid"
 msgstr "rešetka"
 
 #. The name for the setting category for choosing the scalines type.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:124
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:138
 msgid "Scanlines"
 msgstr "Scanlineovi"
 
 #. The name for the setting category for choosing the chromatic aberration.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:130
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:144
 msgid "Chromatic aberration"
 msgstr "Kromatska aberacija"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:139
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:153
 msgid "Curved monitor"
 msgstr "Zakrivljen monitor"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:148
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:162
 msgid "Vignette"
 msgstr "Vinjeta"
 
 #. Name of the setting for when the game is shown in a window.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:161
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:187
 msgid "Windowed"
 msgstr "Prozor"
 
 #. Name of the setting for when the game is shown in fullscreen.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:163
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:189
 msgid "Fullscreen"
 msgstr "Cijeli zaslon"
 
 #. Name of the setting for when the game is shown in a borderless window.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:165
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:191
 msgid "Borderless"
 msgstr "Bezrubno"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:202
 msgid "Screen type"
 msgstr "Tip prikaza"
 
@@ -1490,11 +1490,11 @@ msgstr "Neuspjelo preuzimanje manifesta"
 msgid "Failed to set up comments"
 msgstr "Neuspješno postavljanje komentara"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:227
+#: ../client/application/game/ui/screens/screen_view_level.cpp:225
 msgid "average score: %s"
 msgstr "prosječni bodovi: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:290
+#: ../client/application/game/ui/screens/screen_view_level.cpp:288
 msgid "Experimental level"
 msgstr "Eksperimentalni level"
 
@@ -1521,11 +1521,11 @@ msgstr "Nema informacija"
 msgid "Gold medals percentage: %s"
 msgstr "Postotak zlatnih medalja: %s"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:49
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:48
 msgid "Failed to read replay."
 msgstr "Neuspješno čitanje snimke."
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:78
+#: ../client/application/game/ui/screens/screen_watch_replay.cpp:77
 msgid "Failed to download replay."
 msgstr "Neuspješno preuzimanje snimke."
 
