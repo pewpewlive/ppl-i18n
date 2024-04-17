@@ -99,6 +99,6 @@ with open(readme_file, "w", encoding="utf8", newline="\r\n") as f:
         lang_link = "[" + lang_name + "](/translations/" + lang_code + ".po)"
         f.write("* " + flag + " " + lang_link + comment + "\n")
 
-    date = datetime.datetime.utcnow()
+    date = datetime.datetime.now(datetime.UTC)
     date_str = date.strftime("%b %d %Y %H:%M:%S")
     f.write("> Report generated on " + date_str + " UTC")
