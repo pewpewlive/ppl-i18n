@@ -1306,7 +1306,7 @@ msgstr "%s бойынша нәтижелер жүктелуде."
 #. Shown when a user disables comments on their profile and or levels.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
 msgid "Comments are disabled."
-msgstr "Құлыпты ашуға болатын элементтер: %s"
+msgstr ""
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:203
 msgid "Are you sure you want to report this comment?"
