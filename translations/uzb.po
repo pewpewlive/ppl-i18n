@@ -33,7 +33,7 @@ msgstr "Uf"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
-msgstr "Mitti tahaffus"
+msgstr "Mitti tanaffus"
 
 #: ../client/application/game/game.cpp:169
 msgid "Quick pause %s"
@@ -1412,19 +1412,19 @@ msgstr "Yo'q"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "1p"
-msgstr "1ishtirokchi"
+msgstr "1o'"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "2p"
-msgstr "2ishtirokchi"
+msgstr "2o'"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "3p"
-msgstr "3ishtirokchi"
+msgstr "3o'"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "4p"
-msgstr "4ishtirokchi"
+msgstr "4o'"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Africa"
