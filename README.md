@@ -49,4 +49,5 @@ the feasibility.
 * 🇺🇿 [Uzbek](/translations/uzb.po) (100% complete! 🎉)
 * 🇬🇪 [Georgian](/translations/kat.po) (100% complete! 🎉)
 * 💻 [Code](/translations/code.po) (100% complete! 🎉)
-> Report generated on May 04 2024 17:33:59 UTC
+* 🥰 [UwU](/translations/uwu.po) (100% complete! 🎉)
+> Report generated on May 26 2024 19:40:40 UTC

@@ -353,5 +353,16 @@
         "name": "#ffffff80StellarIP"
       }
     ]
+  },
+  {
+    "english_name": "UwU",
+    "code": "uwu",
+    "emoji_flag": "🥰",
+    "localized_name": "#f8c8dcffUwU",
+    "translators": [
+      {
+        "name": "#404040ffd#808080ffot#ffffffffs"
+      }
+    ]
   }
 ]
