@@ -112,7 +112,7 @@ msgstr "Πραγματική σφαιροκόλαση"
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "Γίνεται τζέρτζελος σ' αυτό το επίπεδο"
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:250
