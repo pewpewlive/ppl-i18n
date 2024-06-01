@@ -107,17 +107,17 @@ msgstr "Раніше відомий як Assault"
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:214
 msgid "True bullet hell"
-msgstr ""
+msgstr "Справжнє пульове пекло"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "З великою вогневою міццю приходить чудове вміння ухилятися"
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:250
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr ""
+msgstr "2 півкулі мозку, 2 руки, 2 корабля."
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:14
@@ -220,7 +220,7 @@ msgstr "Міфічне"
 #. Describes the rarity level of items.  Rarity level of 6.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:299
 msgid "Transcendent"
-msgstr ""
+msgstr "Неймовірне"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:26
@@ -700,7 +700,7 @@ msgstr "Інтенсивність світіння"
 #. present or not.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:126
 msgid "Lens dirt"
-msgstr ""
+msgstr "Брудні лінзи"
 
 #. The name of the setting that enables horizontal scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:134
