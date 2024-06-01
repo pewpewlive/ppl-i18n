@@ -107,7 +107,7 @@ msgstr "Раніше відомий як Assault"
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:214
 msgid "True bullet hell"
-msgstr "Справжнє пульове пекло"
+msgstr "Справжнє кульове пекло"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
