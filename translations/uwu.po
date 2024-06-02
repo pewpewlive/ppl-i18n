@@ -1551,7 +1551,7 @@ msgstr "times played: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr "time wasted: %s"
+msgstr "time pwayed: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
