@@ -413,7 +413,7 @@ msgstr "S'ha enviat un correu electrònic per a sol·licitar la confirmació."
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:88
 msgid "Failed to request account deletion"
-msgstr "No s'ha pogut so·licitar l'eliminació del compte"
+msgstr "No s'ha pogut sol·licitar l'eliminació del compte"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:109
 msgid "Help"
@@ -685,11 +685,11 @@ msgstr "Configuració de gràfics"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:110
 msgid "off"
-msgstr "desactivat/da"
+msgstr "no"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:110
 msgid "on"
-msgstr "activat/da"
+msgstr "sí"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:117
