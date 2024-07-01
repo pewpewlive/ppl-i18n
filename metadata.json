@@ -11,6 +11,17 @@
     ]
   },
   {
+    "english_name": "Catalan",
+    "code": "cat",
+    "emoji_flag": "🇦🇩",
+    "localized_name": "Català",
+    "translators": [
+      {
+        "name": "#00ff00ffJ0anJosep"
+      }
+    ]
+  },
+  {
     "english_name": "Dutch",
     "code": "nld",
     "emoji_flag": "🇳🇱",
