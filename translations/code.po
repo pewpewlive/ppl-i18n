@@ -1082,71 +1082,71 @@ msgstr "Game.Sandbox"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "Official levels allow you to get score medals:"
-msgstr ""
+msgstr "Game.Official.Levels.AllowGettingScoreMedals("
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "Medals::#ff8000ffBRONZE#ffffffff, Medals::#ffffffaaSILVER#ffffffff, Medals::#ffff00ffGOLD#ffffffff);"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "if (score.value >= gold_requirement) Player.GetSpeedRunMedal(score.time);"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:195
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "speedrun_requirement.difficulty > gold_requirement.difficulty"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:196
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "switch medal.type { case SCORE: %1$sXP; case SPEEDRUN: %2$sXP; }"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "Game.World.Contains(Game.Deviations) == true"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "if (Game.Official.Levels.Played) Player.BeFamiliarToComplete(Game.Deviations);"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "Game.Deviations.Difficulties.size() == 3"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "use #ffff00ffCPP#ffffffff = REALLY_HARD; use #ff0000ffASSEMBLY#ffffffff = INSANE;"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:205
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "switch completed_deviation.difficulty {"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:206
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "case PYTHON: %1$sXP; case CPP: %2$sXP; case ASSEMBLY: %3$sXP; }"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr ""
+msgstr "Game.Sandbox.Use = \"Place to train and experiment under different conditions.\""
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr ""
+msgstr "Game.Sandbox.AllowConfigurationOf(levels, ship, bonuses, enemies);"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr ""
+msgstr "Game.Sandbox.Await(changes);"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "Official levels information"
-msgstr ""
+msgstr "Game.Official.Information"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:228
 msgid "World information"
-msgstr ""
+msgstr "Game.World.Information"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:233
 msgid "Sandbox information"
-msgstr ""
+msgstr "Game.Sandbox.Information"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1496,27 +1496,27 @@ msgstr "[4]"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Africa"
-msgstr "Africa"
+msgstr "AFRICA"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:34
 msgid "Asia"
-msgstr "Asia"
+msgstr "ASIA"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:35
 msgid "Europe"
-msgstr "Europe"
+msgstr "EUROPE"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
 msgid "North America"
-msgstr "North America"
+msgstr "NORTH_AMERICA"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:37
 msgid "Oceania"
-msgstr "Oceania"
+msgstr "OCEANIA"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:38
 msgid "South America"
-msgstr "South America"
+msgstr "SOUTH_AMERICA"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:65
 msgid "personal"
@@ -1536,11 +1536,11 @@ msgstr "world"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:143
 msgid "high scores"
-msgstr ""
+msgstr "high_scores"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:144
 msgid "speed runs"
-msgstr ""
+msgstr "speed_runs"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1632,17 +1632,17 @@ msgstr "Game.Error = \"Failed sign-in\""
 #. Describes the lowest difficutly setting (1/3)
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
-msgstr ""
+msgstr "PYTHON"
 
 #. Describes the mid difficulty setting (2/3)
 #: ../client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
-msgstr ""
+msgstr "CPP"
 
 #. Describes the highest difficutly setting (3/3)
 #: ../client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
-msgstr ""
+msgstr "ASSEMBLY"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
