@@ -1073,7 +1073,7 @@ msgstr "Bendruomenė"
 #. The title of the screen where you select what to play in the World.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:45
 msgid "World"
-msgstr "Pasaulis"
+msgstr "Visata"
 
 #. The title of the screen where you select what sandbox to play.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:47
@@ -1082,71 +1082,71 @@ msgstr "Smėlio dėžė"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "Official levels allow you to get score medals:"
-msgstr ""
+msgstr "Oficialūs lygiai leidžia gauti medalius:"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "#ff8000ffBronzos#ffffffff, #ffffffaaSidabro#ffffffff ir #ffff00ffAukso#ffffffff"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "Jeigu jūs kuo greičiau pasieksite taškų sumą vertą aukso medalio, jūs gausite speedrun'o medalį."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:195
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "Tai reiškia, jog speedrun'o medalius yra daug sunkiau gauti negu aukso medalius."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:196
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "Prizas už aukso medalį - %1$s XP ir už speedrun'o - %2$s XP"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "Visata turi daugybę nukrypimų."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "Norėdami įvykdyti nukrypimą, turite būti susipažinę su oficialiais lygiais."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "Jūs galite vykdyti nukrypimus trimis sudėtingumo lygiais."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "Dėmesio! #ffff00ffsudėtingas#ffffffff yra labai sunkus ir #ff0000ffbeprotiškas#ffffffff yra neįmanomas."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:205
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "Už kiekvieną įvykdytą nukrypimą gausite XP."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:206
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "%1$s XP už įprastus, %2$s XP už sudėtingus ir %3$s XP už beprotiškus nukrypimus"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr ""
+msgstr "Smėlio dėžė – vieta, kur galima treniruotis įvairiose situacijose."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr ""
+msgstr "Derinkite lygius, laivą, bonusus ir priešus!"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr ""
+msgstr "Smėlio dėžė yra vis tiek plėtojama, tai tikėkitės pakeitimų ateityje"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "Official levels information"
-msgstr ""
+msgstr "Oficialių lygių informacija"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:228
 msgid "World information"
-msgstr ""
+msgstr "Visatos informacija"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:233
 msgid "Sandbox information"
-msgstr ""
+msgstr "Smėlio dėžės informacija"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1536,11 +1536,11 @@ msgstr "pasaulis"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:143
 msgid "high scores"
-msgstr ""
+msgstr "rekordai"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:144
 msgid "speed runs"
-msgstr ""
+msgstr "speedrun'ai"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1632,17 +1632,17 @@ msgstr "Nepavyko prisijungti!"
 #. Describes the lowest difficutly setting (1/3)
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
-msgstr ""
+msgstr "Įprastas"
 
 #. Describes the mid difficulty setting (2/3)
 #: ../client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
-msgstr ""
+msgstr "Sudėtingas"
 
 #. Describes the highest difficutly setting (3/3)
 #: ../client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
-msgstr ""
+msgstr "Beprotiškas"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
@@ -1762,7 +1762,7 @@ msgstr "%sLaukiama kitų žaidėjų%s"
 #. The label shown in the button used to enter the World.
 #: ../client/application/game/ui/views/world_selector.cpp:183
 msgid "Enter World"
-msgstr "Įžengti į Pasaulį"
+msgstr "Įžengti į Visatą"
 
 #: ../client/application/ui/keyboard_view.cpp:108
 msgid "ok"
