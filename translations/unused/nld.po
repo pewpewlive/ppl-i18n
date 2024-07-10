@@ -13,6 +13,15 @@ msgstr "#ffff00ffOfficiele#ffffffff levels zijn door mij (JF) gemaakt, en staan 
 msgid "About the levels"
 msgstr "Over de levels"
 
+msgid "Apprentice"
+msgstr "Leerling"
+
+msgid "Cadet"
+msgstr "Normaal"
+
+msgid "Commander"
+msgstr "Commandant"
+
 msgid "Creating room"
 msgstr "Ruimte aan het creeëren"
 
@@ -28,6 +37,12 @@ msgstr "Experimenteel"
 msgid "Experimental levels"
 msgstr "Experimentele levels"
 
+msgid "High Scores"
+msgstr "Top Scores"
+
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "Meer informatie op github.com/jyaif/ppl-utils"
+
+msgid "Speed Runs"
+msgstr "Speed Runs"
 

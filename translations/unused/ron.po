@@ -43,6 +43,9 @@ msgstr "Nu s-a putut folosi răspunsul serverului"
 msgid "High (Dark)"
 msgstr "Mare (Întunecat)"
 
+msgid "High Scores"
+msgstr "Scoruri Mari"
+
 msgid "Joysticks"
 msgstr "Joystick-uri"
 
@@ -81,6 +84,9 @@ msgstr "Renderer: %s"
 
 msgid "Score: %s"
 msgstr "Scor: %s"
+
+msgid "Speed Runs"
+msgstr "Speedrun-uri"
 
 msgid "The background is expensive to compute"
 msgstr "Fundalul este scump de arătat"

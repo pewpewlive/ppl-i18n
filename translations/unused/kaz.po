@@ -4,8 +4,23 @@
 msgid "%s дәуірінің медальдары мен жұлдыздары"
 msgstr "Medallar va milod yulduzlari %s"
 
+msgid "Apprentice"
+msgstr "Шәкірт"
+
+msgid "Cadet"
+msgstr "Кадет"
+
+msgid "Commander"
+msgstr "командир"
+
+msgid "High Scores"
+msgstr "Жазбалар"
+
 msgid "Joysticks"
 msgstr "Басқару"
+
+msgid "Speed Runs"
+msgstr "Жылдамдар"
 
 msgid "UI colors"
 msgstr "Интерфейс түсі"

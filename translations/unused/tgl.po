@@ -55,6 +55,9 @@ msgstr "Hindi makuha ang tugon ng server"
 msgid "High (Dark)"
 msgstr "Maaliwalas"
 
+msgid "High Scores"
+msgstr "Mga High Score"
+
 msgid "Information"
 msgstr "Impormasyon"
 
@@ -102,6 +105,9 @@ msgstr "Score: %s"
 
 msgid "Select level"
 msgstr "Pumili ng level"
+
+msgid "Speed Runs"
+msgstr "Mga Speed Run"
 
 msgid "The background is expensive to compute"
 msgstr "Ang ganda ng background :O"

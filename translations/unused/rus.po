@@ -19,8 +19,17 @@ msgstr "Об уровнях"
 msgid "All your medals are here."
 msgstr "Все медали зачислены."
 
+msgid "Apprentice"
+msgstr "Стажёр"
+
+msgid "Cadet"
+msgstr "Кадет"
+
 msgid "Career"
 msgstr "Карьера"
+
+msgid "Commander"
+msgstr "Командир"
 
 msgid "Connect to..."
 msgstr "Подключиться к..."
@@ -60,6 +69,9 @@ msgstr "Нет свободных мест."
 
 msgid "High (Dark)"
 msgstr "Высокий Тёмный"
+
+msgid "High Scores"
+msgstr "Рекорды"
 
 msgid "Information"
 msgstr "Информация"
@@ -123,6 +135,9 @@ msgstr "Подтверждение входа"
 
 msgid "Sign-in with \"%s\"?"
 msgstr "Войти с \"%s\"?"
+
+msgid "Speed Runs"
+msgstr "Спидраны"
 
 msgid "The background is expensive to compute"
 msgstr "Обработка фона - это сложно"

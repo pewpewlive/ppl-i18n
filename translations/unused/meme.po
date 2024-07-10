@@ -19,8 +19,17 @@ msgstr "Level fax"
 msgid "All your medals are here."
 msgstr "Shinies all accounted for"
 
+msgid "Apprentice"
+msgstr "n00b"
+
+msgid "Cadet"
+msgstr "Casual"
+
 msgid "Career"
 msgstr "Skill-o-meter"
+
+msgid "Commander"
+msgstr "Gamer"
 
 msgid "Connect to..."
 msgstr "Mooch from..."
@@ -60,6 +69,9 @@ msgstr "No room sry"
 
 msgid "High (Dark)"
 msgstr "Dank elite"
+
+msgid "High Scores"
+msgstr "Big numbers"
 
 msgid "Information"
 msgstr "kool info"
@@ -120,6 +132,9 @@ msgstr "Confirm your Sign-in lifeline"
 
 msgid "Sign-in with \"%s\"?"
 msgstr "Enter the dungeon using \"%s\"?"
+
+msgid "Speed Runs"
+msgstr "Runs (Haste II)"
 
 msgid "The background is expensive to compute"
 msgstr "90% of budget is in the background"

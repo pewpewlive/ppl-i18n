@@ -16,6 +16,15 @@ msgstr "ლეველების შესახებ"
 msgid "All your medals are here."
 msgstr "ყველა თქვენი მედალი აქ არის."
 
+msgid "Apprentice"
+msgstr "შეგირდი"
+
+msgid "Cadet"
+msgstr "იუნკერი"
+
+msgid "Commander"
+msgstr "კომანდიტური"
+
 msgid "Creating room"
 msgstr "ოთახის შექმნა"
 
@@ -31,6 +40,9 @@ msgstr "ექსპერიმენტული"
 msgid "Experimental levels"
 msgstr "ექსპერიმენტული ლეველები"
 
+msgid "High Scores"
+msgstr "მაღალი ქულები"
+
 msgid "Information"
 msgstr "ინფორმაცია"
 
@@ -42,6 +54,9 @@ msgstr "მეტი ინფორმაცია github.com/jyaif/ppl-utils"
 
 msgid "Score: %s"
 msgstr "ქულა: %s"
+
+msgid "Speed Runs"
+msgstr "სიჩქარის გაშვება"
 
 msgid "UI colors"
 msgstr "UI ფერები"

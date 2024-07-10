@@ -13,6 +13,15 @@ msgstr "#ffffff00Hivatalos#ffffffffffffffffff szinteket én (JF) építettem, é
 msgid "About the levels"
 msgstr "A szintekről"
 
+msgid "Apprentice"
+msgstr "Tanonc"
+
+msgid "Cadet"
+msgstr "Kadét"
+
+msgid "Commander"
+msgstr "Parancsnok"
+
 msgid "Creating room"
 msgstr "Szoba készítése"
 
@@ -22,6 +31,9 @@ msgstr "Kísérleti"
 msgid "Experimental levels"
 msgstr "Kísérleti szintek"
 
+msgid "High Scores"
+msgstr "Magas Pontszámok"
+
 msgid "Information"
 msgstr "Információ"
 
@@ -30,6 +42,9 @@ msgstr "Joystickok"
 
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "Több információ: github.com/jyaif/ppl-utils"
+
+msgid "Speed Runs"
+msgstr "Speed Runok"
 
 msgid "UI colors"
 msgstr "UI színek"

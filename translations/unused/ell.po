@@ -16,6 +16,15 @@ msgstr "Σχετικά με τα επίπεδα"
 msgid "All your medals are here."
 msgstr "Όλα τα μετάλλια σου είναι εδώ."
 
+msgid "Apprentice"
+msgstr "Μαθητευόμενος"
+
+msgid "Cadet"
+msgstr "Δόκιμος"
+
+msgid "Commander"
+msgstr "Αρχηγός"
+
 msgid "Creating room"
 msgstr "Φτιάχνεται δωμάτιο"
 
@@ -33,6 +42,9 @@ msgstr "Πειραματικά επίπεδα"
 
 msgid "High (Dark)"
 msgstr "Υψηλό (Σκοτεινό)"
+
+msgid "High Scores"
+msgstr "Yψηλά Σκόρ"
 
 msgid "Information"
 msgstr "Πληροφορίες"
@@ -54,6 +66,9 @@ msgstr "Online προφίλ"
 
 msgid "Score: %s"
 msgstr "Σκόρ: %s"
+
+msgid "Speed Runs"
+msgstr "Γρήγορα ρεκόρ"
 
 msgid "UI colors"
 msgstr "UI χρώματα"

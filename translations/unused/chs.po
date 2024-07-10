@@ -31,6 +31,9 @@ msgstr "实验室"
 msgid "Experimental levels"
 msgstr "测试关卡"
 
+msgid "High Scores"
+msgstr "最高分"
+
 msgid "Information"
 msgstr "信息"
 
@@ -42,6 +45,9 @@ msgstr "更多信息在 github.com/jyaif/ppl-utils"
 
 msgid "Score: %s"
 msgstr "分数：%s"
+
+msgid "Speed Runs"
+msgstr "竞速"
 
 msgid "UI colors"
 msgstr "UI颜色"

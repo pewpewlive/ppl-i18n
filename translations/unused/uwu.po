@@ -1,0 +1,18 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "Apprentice"
+msgstr "Appwentice"
+
+msgid "Cadet"
+msgstr "Cadet"
+
+msgid "Commander"
+msgstr "Commander"
+
+msgid "High Scores"
+msgstr "High Scowes"
+
+msgid "Speed Runs"
+msgstr "Speed Runs"
+

@@ -61,6 +61,9 @@ msgstr "Oyun dolu"
 msgid "High (Dark)"
 msgstr "Yüksek (Koyu)"
 
+msgid "High Scores"
+msgstr "Yüksek skorlar"
+
 msgid "Information"
 msgstr "Bilgi"
 
@@ -123,6 +126,9 @@ msgstr "Giriş yapım onayı"
 
 msgid "Sign-in with \"%s\"?"
 msgstr "ile giriş yap \"%s\"?"
+
+msgid "Speed Runs"
+msgstr "Speed Runlar"
 
 msgid "The background is expensive to compute"
 msgstr "Bu arka plan çok pahalı bir şeydir"

@@ -1,8 +1,23 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "Apprentice"
+msgstr "Shogird"
+
+msgid "Cadet"
+msgstr "Zobit"
+
+msgid "Commander"
+msgstr "Qo'mondon"
+
+msgid "High Scores"
+msgstr "Rekordlar"
+
 msgid "Joysticks"
 msgstr "Boshqaruv"
+
+msgid "Speed Runs"
+msgstr "Spidranlar"
 
 msgid "UI colors"
 msgstr "Interfeys rangi"

@@ -19,8 +19,17 @@ msgstr "Apie Lygius"
 msgid "All your medals are here."
 msgstr "Visi jūsų medaliai yra čia."
 
+msgid "Apprentice"
+msgstr "Mokinys"
+
+msgid "Cadet"
+msgstr "Kariūnas"
+
 msgid "Career"
 msgstr "Karjera"
+
+msgid "Commander"
+msgstr "Vadas"
 
 msgid "Connect to..."
 msgstr "Prisijungti prie..."
@@ -60,6 +69,9 @@ msgstr "Žaidimas pilnas"
 
 msgid "High (Dark)"
 msgstr "Aukšta (Tamsi)"
+
+msgid "High Scores"
+msgstr "Rekordai"
 
 msgid "Information"
 msgstr "Informacija"
@@ -123,6 +135,9 @@ msgstr "Prisijungimo patvirtinimas"
 
 msgid "Sign-in with \"%s\"?"
 msgstr "Prisijungti su \"%s\"?"
+
+msgid "Speed Runs"
+msgstr "Speedrun'ai"
 
 msgid "The background is expensive to compute"
 msgstr "Foną apskaičiuoti brangu"

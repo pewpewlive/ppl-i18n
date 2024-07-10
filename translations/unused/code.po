@@ -16,6 +16,15 @@ msgstr "AbtLevels.UI"
 msgid "All your medals are here."
 msgstr "Sync() returned: \"All your medals are here.\""
 
+msgid "Apprentice"
+msgstr "Python"
+
+msgid "Cadet"
+msgstr "C++"
+
+msgid "Commander"
+msgstr "Assembly"
+
 msgid "Creating room"
 msgstr "Room.Creating = true"
 
@@ -33,6 +42,9 @@ msgstr "Game.Experimental.levels"
 
 msgid "High (Dark)"
 msgstr "DarkTheme(INT_MAX);"
+
+msgid "High Scores"
+msgstr "HighScores"
 
 msgid "Information"
 msgstr "Level.Info.UI"
@@ -57,6 +69,9 @@ msgstr "OnlineProfile();"
 
 msgid "Score: %s"
 msgstr "levelTry.Score = %s"
+
+msgid "Speed Runs"
+msgstr "SpeedRuns"
 
 msgid "UI colors"
 msgstr "Game.UI.Colors"

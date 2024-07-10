@@ -19,8 +19,17 @@ msgstr "Про рівні"
 msgid "All your medals are here."
 msgstr "Усі твої медалі тут. Любуйся."
 
+msgid "Apprentice"
+msgstr "Учень"
+
+msgid "Cadet"
+msgstr "Кадет"
+
 msgid "Career"
 msgstr "Кар'єра"
+
+msgid "Commander"
+msgstr "Командир"
 
 msgid "Creating room"
 msgstr "Створюється кімната"
@@ -57,6 +66,9 @@ msgstr "Гра завантажена на повну"
 
 msgid "High (Dark)"
 msgstr "Висока (Темне)"
+
+msgid "High Scores"
+msgstr "Кращі Рекорди"
 
 msgid "Information"
 msgstr "Інформація"
@@ -108,6 +120,9 @@ msgstr "Рекорд: %s"
 
 msgid "Select level"
 msgstr "Вибір рівню"
+
+msgid "Speed Runs"
+msgstr "Швидкісні Забіги"
 
 msgid "The background is expensive to compute"
 msgstr "Фон дорого обчислити"

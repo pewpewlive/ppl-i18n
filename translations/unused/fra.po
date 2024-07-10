@@ -19,8 +19,17 @@ msgstr "À propos des niveaux"
 msgid "All your medals are here."
 msgstr "Toutes tes médailles sont là"
 
+msgid "Apprentice"
+msgstr "Apprenti"
+
+msgid "Cadet"
+msgstr "Cadet"
+
 msgid "Career"
 msgstr "Carrière"
+
+msgid "Commander"
+msgstr "Commandant"
 
 msgid "Connect to..."
 msgstr "Se connecter à..."
@@ -60,6 +69,9 @@ msgstr "Partie déjà complète"
 
 msgid "High (Dark)"
 msgstr "Haute (Nuit)"
+
+msgid "High Scores"
+msgstr "High Scores"
 
 msgid "Information"
 msgstr "Information"
@@ -123,6 +135,9 @@ msgstr "Identification réussie"
 
 msgid "Sign-in with \"%s\"?"
 msgstr "S'identifier avec \"%s\"?"
+
+msgid "Speed Runs"
+msgstr "Speed Runs"
 
 msgid "The background is expensive to compute"
 msgstr "Des triangles jaunes partout"

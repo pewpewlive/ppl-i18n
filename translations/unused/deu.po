@@ -61,6 +61,9 @@ msgstr "Partie is voll"
 msgid "High (Dark)"
 msgstr "Hoch (Dunkel)"
 
+msgid "High Scores"
+msgstr "Highscores"
+
 msgid "Joysticks"
 msgstr "Joysticks"
 
@@ -120,6 +123,9 @@ msgstr "Anmeldung bestätigt"
 
 msgid "Sign-in with \"%s\"?"
 msgstr "Sich mit \"%s\" anmelden"
+
+msgid "Speed Runs"
+msgstr "Speed runs"
 
 msgid "The background is expensive to compute"
 msgstr "Dreiecke überall!"
