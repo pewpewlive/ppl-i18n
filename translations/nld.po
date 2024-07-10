@@ -1082,71 +1082,71 @@ msgstr "Sandbox"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "Official levels allow you to get score medals:"
-msgstr ""
+msgstr "Met officiele levels kan je score medailles verdienen:"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "#ff8000ffBrons#ffffffff, #ffffffaaZilver#ffffffff, en #ffff00ffGoud#ffffffff"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "Als je snel genoeg een score behaalt die een gouden medaille waard is, verdien je speedrunmedailles."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:195
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "Dit betekent dat speedrunmedailles veel moeilijker te behalen zijn dan een gewone gouden medaille."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:196
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "De beloning is %1$s XP per scoremedaille, en %2$s XP per speedrunmedaille."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "De wereld bevat vele afwijkingen."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "Om afwijkingen te voltooien, moet je bekend zijn met de officiële niveaus."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "Je kunt de afwijkingen in drie moeilijkheidsgraden spelen."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "Pas op! #ffff00ffmoeilijk#ffffffff is heel moeilijk, en #ff0000ffwaanzinnig#ffffffff is krankzinnig."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:205
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "Voor elke voltooide afwijking krijg je XP."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:206
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "%1$s XP in normaal, %2$s XP in moeilijk, %3$s XP in waanzinnig"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr ""
+msgstr "De sandbox is de plek om te trainen en te experimenteren onder verschillende omstandigheden."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr ""
+msgstr "Stel het niveau, het schip, de bonussen en de vijanden in!"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr ""
+msgstr "De sandbox is nog in ontwikkeling, dus verwacht veranderingen in de toekomst."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "Official levels information"
-msgstr ""
+msgstr "Officiele levels informatie"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:228
 msgid "World information"
-msgstr ""
+msgstr "Wereld informatie"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:233
 msgid "Sandbox information"
-msgstr ""
+msgstr "Sandbox informatie"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
