@@ -1134,7 +1134,7 @@ msgstr "Derinkite lygius, laivą, bonusus ir priešus!"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr "Smėlio dėžė yra vis tiek plėtojama, tai tikėkitės pakeitimų ateityje"
+msgstr "Smėlio dėžė yra vis dar plėtojama, todėl tikėkitės pakeitimų ateityje."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "Official levels information"
