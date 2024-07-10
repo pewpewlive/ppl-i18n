@@ -26,7 +26,11 @@
     "code": "nld",
     "emoji_flag": "🇳🇱",
     "localized_name": "Dutch",
-    "translators": []
+    "translators": [
+      {
+        "name": "#00dd00ffhcr5"
+      }
+    ]
   },
   {
     "english_name": "German",
