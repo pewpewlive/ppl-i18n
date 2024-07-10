@@ -92,7 +92,7 @@ msgstr "Overleef 32 seconden met dit simpele trucje"
 #. Short description of the "fury" game mode
 #: ../client/application/game/levels/game_levels.cpp:158
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""Dit level is een grap, toch?" - een tester"
+msgstr "\"Dit level is een grap, toch?\" - een tester"
 
 #. Short description of the "waves" game mode
 #: ../client/application/game/levels/game_levels.cpp:176
@@ -1198,7 +1198,7 @@ msgstr "Snelle pauze"
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
-msgstr "Stream status"
+msgstr "Steam status"
 
 #. The description of the setting that allows players to toggle on or off
 #. the floating text message in-game.
