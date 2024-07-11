@@ -1106,7 +1106,7 @@ msgstr "Game.World.Contains(Game.Deviations) == true"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr "if (Game.Official.Levels.Played) Player.BeFamiliarToComplete(Game.Deviations);"
+msgstr "if (Game.Official.Levels.Played) Player.BeAbleToComplete(Game.Deviations);"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "You can play the deviations in 3 levels of difficulties."
