@@ -92,7 +92,7 @@ msgstr "გადარჩით 32 წამში ამ მარტივი
 #. Short description of the "fury" game mode
 #: ../client/application/game/levels/game_levels.cpp:158
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"ეს დონე ხუმრობაა, არა?\" - tester"
+msgstr "\"ეს ლეველი ხუმრობაა, არა?\" - tester"
 
 #. Short description of the "waves" game mode
 #: ../client/application/game/levels/game_levels.cpp:176
