@@ -1098,7 +1098,7 @@ msgstr "წრაფი მედლები რთულია ვიდრე
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:196
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr "და %2$s XP პერ სწრაფი მედლები"
+msgstr "ჯილდო არის %1$s XP პერ ქულების მედლები, და %2$s XP პერ სწრაფი მედლები"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "The world contains many deviations."
@@ -1122,7 +1122,7 @@ msgstr "შესრულების გადახრები თქვე�
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:206
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr "1$s XP ნორმალური, %2$s XP ძნელი, %3$s XP ბოდვითი"
+msgstr "%1$s XP ნორმალური, %2$s XP ძნელი, %3$s XP ბოდვითი"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "The sandbox is the place to train and experiment under different conditions."
