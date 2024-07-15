@@ -1086,7 +1086,7 @@ msgstr "En los niveles oficiales consigues medallas de puntuación:"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff y #ffff00ffGold#ffffffff"
+msgstr "#ff8000ffBronce#ffffffff, #ffffffaaPlata#ffffffff y #ffff00ffOro#ffffffff"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
@@ -1114,7 +1114,7 @@ msgstr "Puedes jugar las desviaciones en 3 niveles de dificultad."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr "Ojo! #ffff00ffhard#ffffffff es bien difícil y #ff0000ffdelirious#ffffffff es de locos."
+msgstr "Ojo! #ffff00ffDifícil#ffffffff está bien difícil y #ff0000ffextremo#ffffffff es de locos."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:205
 msgid "For every completed deviation you get XP."
