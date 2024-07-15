@@ -195,7 +195,7 @@ msgstr "საერთო"
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:312
 msgid "Uncommon"
-msgstr "იშვიათი "
+msgstr "იშვიათი"
 
 #. Describes the rarity level of items.  Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:314
@@ -575,7 +575,7 @@ msgstr "Ავტორიზაცია"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
-msgstr "შესვლა წარმატებით დასრულდა!"
+msgstr "შესვლა წარმატებით შესრულდა!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
 msgid "Email not verified"
@@ -615,7 +615,7 @@ msgstr "შენი დამოწმებული თასები ჩა
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:34
 msgid "Skip"
-msgstr "გამოტოვება"
+msgstr "გამოტოვა"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:27
 msgid "Statistics"
@@ -635,7 +635,7 @@ msgstr "გადახრები დასრულდა"
 #. stars and medals shown are *not* specific to an era.
 #: ../client/application/game/ui/screens/screen_career.cpp:85
 msgid "All time stars and medals"
-msgstr "ყველა ჯამში მედალები და ვარსკლავები"
+msgstr "ყველა ჯამში მედლები და ვარსკლავები"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -685,22 +685,22 @@ msgstr "კონფიგურაცია გრაფიკი"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
-msgstr "გამ."
+msgstr "გა."
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "on"
-msgstr "ჩარ."
+msgstr "ჩა."
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:119
 msgid "Bloom intensity"
-msgstr "ყვავილობის ინტენსივობა "
+msgstr "ყვავ. ინტენსივობა "
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:128
 msgid "Lens dirt"
-msgstr "ობიექტივი მიწა"
+msgstr "ობიექტური მიწა"
 
 #. The name of the setting that enables horizontal scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:136
@@ -715,12 +715,12 @@ msgstr "ბადე"
 #. The name for the setting category for choosing the scalines type.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "Scanlines"
-msgstr "სკანირება"
+msgstr "სკან. ხაზები"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:146
 msgid "Chromatic aberration"
-msgstr "ქრომატული აბერაცია"
+msgstr "ქრომ. აბერაცია"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
@@ -802,7 +802,7 @@ msgstr "ჯოისტიკების კონფიგურაცია"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
 msgid "Swap"
-msgstr "შეცვლა"
+msgstr "გაცვლა"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:34
 msgid "Downloading level..."
@@ -836,7 +836,7 @@ msgstr "ლიცენზია"
 #. Used in a button that redirects to discord server
 #: ../client/application/game/ui/screens/screen_informations.h:22
 msgid "Discord server"
-msgstr "Discord სერვერი"
+msgstr "დისქორდის სერვერი"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to the youtube channel
@@ -867,7 +867,7 @@ msgstr "ლოკალური მულტიპლეერი მხარ�
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
-msgstr "ერთმა მოთამაშემ უნდა შექმნას ოთახი, რომელსაც მეორე მოთამაშე უერთდება."
+msgstr "ერთმა მოთამაშემ უნდა შექმნას ოთახი, რომ მეორე მოთამაშემ შევიდეს."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "The wifi network does not have to be connected to the internet."
@@ -903,7 +903,7 @@ msgstr "ოთახის დახურვა"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:48
 msgid "Single Player"
-msgstr "Ერთი მოთამაშე"
+msgstr "ერთი მოთამაშე"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:51
 msgid "Play"
@@ -1018,7 +1018,7 @@ msgstr "ოთახს ვადა გაუვიდა"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:315
 msgid "Unknown error"
-msgstr "Უცნობი შეცდომა"
+msgstr "უცნობი შეცდომა"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:330
 msgid "Failed to join room"
@@ -1078,75 +1078,75 @@ msgstr "დედამიწა"
 #. The title of the screen where you select what sandbox to play.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:47
 msgid "Sandbox"
-msgstr "სენდბოქსი"
+msgstr "ქვიშისბოქსი"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "Official levels allow you to get score medals:"
-msgstr ""
+msgstr "მედლები"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "#ff8000ffბრინჯაო#ffffffff, #ffffffaaვერცხლი#ffffffff, და #ffff00ffოქრო#ffffffff"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "გაშვებული მედლები"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:195
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "წრაფი მედლები რთულია ვიდრე რეგულარული ოქროს მედალი"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:196
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "ჯილდო არის %1$s XP პერ ქულების მედლები, და %2$s XP პერ სწრაფი მედლები"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "სამყაროს შეიცავს ბევრ გადახრას"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "შესრულების გადახრები თუ გინდათ თქვენ უნდა გაიცნოს ოფიციალურ ლეველები"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "თქვენ შეგიძლია ითამაშოთ გადახრები 3 წამის განმალობაში ლეველების სირთულეები"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "ფრთხილად #ffff00ffძნელი#ffffffff არის ძალიან ძნელი და #ff0000ffბოდვითი#ffffffff უფრო ძნელი"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:205
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "შესრულების გადახრები თქვენ მიიღებთ XP"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:206
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "%1$s XP ნორმალური, %2$s XP ძნელი, %3$s XP ბოდვითი"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr ""
+msgstr "ქვიშისბოქსი არის ადგილი სადაც ივარჯიშება და ექსპერიმენტულ სხვადასხვა პირობებში"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr ""
+msgstr "კონფიგურაციის ლეველი, ნავი, ბონუსები, და მტრები!"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr ""
+msgstr "ქვიშისბოქსი ისევ ვითარებაშია, ამიტომ ველით ცვლილებებს მომავალში"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "Official levels information"
-msgstr ""
+msgstr "ოფიციალური ლეველები ინფორმაცია"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:228
 msgid "World information"
-msgstr ""
+msgstr "სამყაროს ინფორმაცია"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:233
 msgid "Sandbox information"
-msgstr ""
+msgstr "ქვიშისბოქსის ინფორმაცია"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1536,11 +1536,11 @@ msgstr "მსოფლიო"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:143
 msgid "high scores"
-msgstr ""
+msgstr "ბევრი ქულები"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:144
 msgid "speed runs"
-msgstr ""
+msgstr "წრაფები"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1632,24 +1632,24 @@ msgstr "შესვლა ვერ მოხერხდა!"
 #. Describes the lowest difficutly setting (1/3)
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
-msgstr ""
+msgstr "ნორმალური"
 
 #. Describes the mid difficulty setting (2/3)
 #: ../client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
-msgstr ""
+msgstr "ძნელი"
 
 #. Describes the highest difficutly setting (3/3)
 #: ../client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
-msgstr ""
+msgstr "ბოდვითი"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
 #. "Era 2 medals and stars"
 #: ../client/application/game/ui/views/account_view.cpp:363
 msgid "Era %s medals and stars"
-msgstr "ერა %s მედალები და ვარსკვლავები"
+msgstr "ერა %s მედლები და ვარსკვლავები"
 
 #. Error shown when downloading some piece of data failed.
 #: ../client/application/game/ui/views/account_view.cpp:506
@@ -1699,7 +1699,7 @@ msgstr "თარიღი"
 #. Shown in the button that allows users to sort by stars
 #: ../client/application/game/ui/views/community_level_selector.cpp:141
 msgid "Stars"
-msgstr "ვარსკლავები"
+msgstr "ვარსკვლავები"
 
 #. Shown in the button that allows users to sort by difficutly
 #: ../client/application/game/ui/views/community_level_selector.cpp:145
@@ -1718,7 +1718,7 @@ msgstr "ფარი: %s"
 #. configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:93
 msgid "Save sandbox configuration"
-msgstr "შენახვა სენდბოქსის კონფიგურაცია"
+msgstr "შენახვა ქვიშისბოქსის კონფიგურაცია"
 
 #. Shown in a button. That button is used to save a configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:97
@@ -1740,7 +1740,7 @@ msgstr "შეიყვანეთ კონფიგურაციის ს�
 #. configuration to load.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:166
 msgid "Load sandbox configuration"
-msgstr "იტვირთება სენდბოქსის კონფიგურაცია"
+msgstr "იტვირთება ქვიშისბოქსის კონფიგურაცია"
 
 #. Shown in a notification when an unnamed sandbox configuration is
 #. loaded.
