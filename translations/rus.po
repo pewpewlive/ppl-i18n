@@ -1086,7 +1086,7 @@ msgstr "Официальные уровни позволяют зарабаты�
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr "#ff8000ffБронзовые#ffffffff, #ffffffaaСеребряные#ffffffff, и #ffff00ffЗолотые#ffffffff"
+msgstr "#ff8000ffБронзовые#ffffffff, #ffffffaaСеребряные#ffffffff и #ffff00ffЗолотые#ffffffff"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
