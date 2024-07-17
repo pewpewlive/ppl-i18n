@@ -457,7 +457,7 @@ msgstr "Pochta manzili"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:117
 msgid "Register"
-msgstr "Registratsiya qilish"
+msgstr "Ro'yxatdan o'tish"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
 msgid "Registering"
@@ -685,11 +685,11 @@ msgstr "Grafiklarni sozlash"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
-msgstr "O'chiq"
+msgstr "O'ch."
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "on"
-msgstr "Yoniq"
+msgstr "Yon."
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:119
@@ -1082,71 +1082,71 @@ msgstr "Qum quti"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "Official levels allow you to get score medals:"
-msgstr ""
+msgstr "Rasmiy darajalar medal olish imkonini baradi:"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "#ff8000ffBronza#ffffffff, #ffffffaaKumush#ffffffff, va #ffff00ffOltin#ffffffff"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "Agar siz oltin medalga loyiq ballni tezda qo'lga kiritsangiz, spidran medallarini qo'lga kiritasiz."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:195
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "Bu spidran medallarni qo'lga kiritish oltin medallarni qo'lga kiritishdan qiyinroqligini anglatadi."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:196
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "Natija medallariga %1$s malaka beriladi, spidran medallariga esa - %2$s malaka."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "Dunyoda ko'plab deviatsiyalar mavjud."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "Deviatsiyalardan o'tish uchun rasmiy darajalarni yaxshi bilish zarur."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "Deviatsiyalardan 3 xil qiyinlikda o'tish mumkin."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "Ehtiyot bo'l! #ffff00ffQiyin#ffffffff - juda qiyin degani, va #ff0000ffAql bovar qilmas#ffffffff - O'tib bo'lmas."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:205
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "Har bir o'tilgan deviatsiya uchun malaka beriladi."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:206
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "%1$s ta malaka oddiy uchun, %2$s ta malaka qiyin uchun, %3$s ta malaka aql bovar qilmas uchun."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr ""
+msgstr "Qumquti - bu xar hil sharoitda shug'ullanish va tajriba qilish uchun joy."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr ""
+msgstr "Daraja, kema, bonus va raqiblarni sozla!"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr ""
+msgstr "Qumquti ishlab chiqish jarayonida, shuning uchun ba'zi narsalar o'zgarishi mumkin."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "Official levels information"
-msgstr ""
+msgstr "Rasmiy darajalar haqida"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:228
 msgid "World information"
-msgstr ""
+msgstr "Dunyo haqida"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:233
 msgid "Sandbox information"
-msgstr ""
+msgstr "Qumquti haqida"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1236,7 +1236,7 @@ msgstr "Boshqa tillarga tarjima hamjamiyat orqali bajariladi!"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
-msgstr "Sistemali"
+msgstr "Birlamchi"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
@@ -1444,13 +1444,13 @@ msgstr "Izoh yuborildi."
 #. Shown in a notification after a comment failed to be posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:408
 msgid "Failed to post comment"
-msgstr "izoh yuborilmadi."
+msgstr "Izoh yuborilmadi."
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr "izohga shikoyat"
+msgstr "Izohga shikoyat"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:315
@@ -1536,11 +1536,11 @@ msgstr "dunyo"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:143
 msgid "high scores"
-msgstr ""
+msgstr "yuqori ballar"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:144
 msgid "speed runs"
-msgstr ""
+msgstr "spidranlar"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1632,17 +1632,17 @@ msgstr "Kira olmadingiz."
 #. Describes the lowest difficutly setting (1/3)
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. Describes the mid difficulty setting (2/3)
 #: ../client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
-msgstr ""
+msgstr "Qiyin"
 
 #. Describes the highest difficutly setting (3/3)
 #: ../client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
-msgstr ""
+msgstr "Aql bovar qilmas"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
