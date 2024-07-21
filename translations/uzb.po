@@ -655,7 +655,7 @@ msgstr "Qiyshiq"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:118
 msgid "Reset"
-msgstr "Asl xoliga qaytarish"
+msgstr "Birlamchi"
 
 #. The name of the graphics configuration that disables all the graphics effects
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:48
