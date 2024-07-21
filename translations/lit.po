@@ -240,7 +240,7 @@ msgstr "Kulka"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:33
 msgid "Mace"
-msgstr "Kuoka"
+msgstr "Pjūklas"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:35
@@ -255,7 +255,7 @@ msgstr "Vairasvirtė"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:39
 msgid "UI Color"
-msgstr "Vartot. sąs. spalva"
+msgstr "Sąs. spalva"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
