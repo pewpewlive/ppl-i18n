@@ -94,6 +94,9 @@ msgstr "UltraLowX(8);"
 msgid "Unknown level"
 msgstr "UnknownLevel"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Sync() returned: \"Your verified medals have been downloaded.\""
+
 msgid "by %s"
 msgstr "level.author = %s"
 

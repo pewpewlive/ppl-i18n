@@ -178,6 +178,9 @@ msgstr "Jūs jau esate žaidime!"
 msgid "You can finally code your own levels!"
 msgstr "Pagaliau galite kurti savo lygius!"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Jūsų įvertinti medaliai buvo atsisiųsti."
+
 msgid "by %s"
 msgstr "sukūrė: %s"
 

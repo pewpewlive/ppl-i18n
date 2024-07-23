@@ -178,6 +178,9 @@ msgstr "¡Ya estás en la partida!"
 msgid "You can finally code your own levels!"
 msgstr "¡Ya puedes programar tus propios niveles!"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Tus medallas verificadas se han descargado."
+
 msgid "by %s"
 msgstr "de %s"
 

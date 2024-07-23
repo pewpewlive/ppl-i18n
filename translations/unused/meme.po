@@ -175,6 +175,9 @@ msgstr "Bruh you're already here"
 msgid "You can finally code your own levels!"
 msgstr "You can now make... some other levels"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Your medals were greatly successfully yoinked!"
+
 msgid "by %s"
 msgstr "brought to you by %s"
 

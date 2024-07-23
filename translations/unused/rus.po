@@ -178,6 +178,9 @@ msgstr "Вы уже находитесь в игре!"
 msgid "You can finally code your own levels!"
 msgstr "Теперь уровни можно программировать!"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Ваши подтверждённые медали были загружены."
+
 msgid "by %s"
 msgstr "от %s"
 

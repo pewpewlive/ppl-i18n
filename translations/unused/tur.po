@@ -169,6 +169,9 @@ msgstr "Siz zaten oyundasınız!"
 msgid "You can finally code your own levels!"
 msgstr "Kendi haritanızı siz de oluşturabilirsiniz!"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Doğrulanmış madalyaların yüklendi"
+
 msgid "by %s"
 msgstr "kurucu %s tarafından yapılmıştır"
 

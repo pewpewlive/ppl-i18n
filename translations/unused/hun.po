@@ -67,3 +67,6 @@ msgstr "Ultra alacsony 8x"
 msgid "Unknown level"
 msgstr "Ismeretlen szint"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Az ellenőrzött medáljaidat letöltöttük."
+

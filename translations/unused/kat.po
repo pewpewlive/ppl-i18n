@@ -79,3 +79,6 @@ msgstr "ულტრა დაბალი 8x"
 msgid "Unknown level"
 msgstr "უცნობი ლეველი"
 
+msgid "Your verified medals have been downloaded."
+msgstr "შენი დამოწმებული თასები ჩამოტვირთულია"
+

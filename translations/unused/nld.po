@@ -46,3 +46,6 @@ msgstr "Meer informatie op github.com/jyaif/ppl-utils"
 msgid "Speed Runs"
 msgstr "Speed Runs"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Je geverifieerde medailles zijn gedownload."
+

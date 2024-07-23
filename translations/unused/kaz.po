@@ -40,3 +40,6 @@ msgstr "Пиксель 4x"
 msgid "Ultra low 8x"
 msgstr "Пиксель 8x"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Тексерілген медальдарыңыз сақталды."
+

@@ -70,3 +70,6 @@ msgstr "极低x8"
 msgid "Unknown level"
 msgstr "未知关卡"
 
+msgid "Your verified medals have been downloaded."
+msgstr "获取过的奖牌已下载"
+

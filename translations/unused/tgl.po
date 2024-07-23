@@ -136,6 +136,9 @@ msgstr "Syempre!"
 msgid "You can finally code your own levels!"
 msgstr "Pwede ka na mag-code ng sarili mong level!"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Nakapaskil na ang mga nalakip mong medalya."
+
 msgid "by %s"
 msgstr "ni %s"
 

@@ -3,7 +3,7 @@
 #. `%2$s` will be replaced by the score to reach.
 #. For example:
 #. "In Eskiv, score 10000 or more"
-#: ../client/application/account/achievements_description.cpp:16
+#: ../client/application/account/achievements_description.cpp:17
 msgid "In %1$s, score %2$s or more."
 msgstr "%1$s da %2$s yoki undan ortiq ball oling."
 
@@ -31,11 +31,11 @@ msgstr "Voy"
 msgid "Ugh"
 msgstr "Uf"
 
-#: ../client/application/game/game.cpp:165
+#: ../client/application/game/game.cpp:166
 msgid "Quick pause"
 msgstr "Mitti tanaffus"
 
-#: ../client/application/game/game.cpp:171
+#: ../client/application/game/game.cpp:172
 msgid "Quick pause %s"
 msgstr "Mitti tanaffus %s"
 
@@ -104,18 +104,28 @@ msgstr "RIP GW3:Dimensions"
 msgid "Previously known as Assault"
 msgstr "Avvallari Assault nomi bilan mashxur"
 
+#. Short description of the "ceasefire" game mode
+#: ../client/application/game/levels/game_levels.cpp:199
+msgid "Evolution of Pacifism"
+msgstr ""
+
 #. Short description of the "pandemonium" game mode
-#: ../client/application/game/levels/game_levels.cpp:214
+#: ../client/application/game/levels/game_levels.cpp:216
 msgid "True bullet hell"
 msgstr "Haqiqiy o'q jahannam"
 
 #. Short description of the "pandemonium" game mode
-#: ../client/application/game/levels/game_levels.cpp:216
+#: ../client/application/game/levels/game_levels.cpp:218
 msgid "With great firepower comes great dodging skills"
 msgstr "Katta otash kuchi bilan katta qochish qobiliyatlari keladi"
 
+#. Short description of the "partitioner" game mode
+#: ../client/application/game/levels/game_levels.cpp:235
+msgid "Lasso up stuff to make them disappear"
+msgstr ""
+
 #. Short description of the symbiosis game mode
-#: ../client/application/game/levels/game_levels.cpp:250
+#: ../client/application/game/levels/game_levels.cpp:253
 msgid "2 brain hemispheres, 2 hands, 2 ships."
 msgstr "2 ta miya yarim sharlari, 2 ta qo'l, 2 ta kema."
 
@@ -157,68 +167,68 @@ msgstr "Siz akkauntdan chiqdingiz."
 msgid "Failed to download backup data"
 msgstr "Ma'lumotlar yuklanmadi."
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:270
+#: ../client/application/game/player_data/data_synchronizer.cpp:266
 msgid "Failed to download achievements"
 msgstr "Yutuqlar yuklanmadi."
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:314
+#: ../client/application/game/player_data/data_synchronizer.cpp:310
 msgid "Failed to upload achievements"
 msgstr "Yutuqlar yuborilmadi."
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:343
+#: ../client/application/game/player_data/data_synchronizer.cpp:339
 msgid "Failed to download unlocked items"
 msgstr "Qulfdan chiqarilgan narsalarni yuklanmadi"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
-#: ../client/application/game/player_data/player_data_manager.cpp:51
+#: ../client/application/game/player_data/player_data_manager.cpp:53
 msgid "New personal best! %s ⇨ %s"
 msgstr "Yangi rekord! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
-#: ../client/application/game/player_data/player_data_manager.cpp:54
+#: ../client/application/game/player_data/player_data_manager.cpp:56
 msgid "Improved speed run! %s ⇨ %s"
 msgstr "Spidran yaxshilandi! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: ../client/application/game/player_data/player_data_manager.cpp:823
+#: ../client/application/game/player_data/player_data_manager.cpp:838
 msgid "Achievement Unlocked: %s"
 msgstr "Yangi yutuq: %s"
 
 #. Describes the rarity level of items. Rarity level of 0.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:310
+#: ../client/application/game/player_data/player_unlocked_items.cpp:321
 msgid "Common"
 msgstr "Oddiy"
 
 #. Describes the rarity level of items. Rarity level of 1.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:312
+#: ../client/application/game/player_data/player_unlocked_items.cpp:323
 msgid "Uncommon"
 msgstr "O'zgacha"
 
-#. Describes the rarity level of items.  Rarity level of 2.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:314
+#. Describes the rarity level of items. Rarity level of 2.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
 msgstr "Noyob"
 
-#. Describes the rarity level of items.  Rarity level of 3.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:316
+#. Describes the rarity level of items. Rarity level of 3.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:327
 msgid "Epic"
 msgstr "Epik"
 
-#. Describes the rarity level of items.  Rarity level of 4.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:318
+#. Describes the rarity level of items. Rarity level of 4.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:329
 msgid "Legendary"
 msgstr "Afsonaviy"
 
-#. Describes the rarity level of items.  Rarity level of 5.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:320
+#. Describes the rarity level of items. Rarity level of 5.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:331
 msgid "Mythical"
 msgstr "Mifik"
 
-#. Describes the rarity level of items.  Rarity level of 6.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:322
+#. Describes the rarity level of items. Rarity level of 6.
+#: ../client/application/game/player_data/player_unlocked_items.cpp:333
 msgid "Transcendent"
 msgstr "Transsendent"
 
@@ -395,27 +405,27 @@ msgstr "Sinxronizatsiya"
 msgid "Sign out"
 msgstr "Chiqish"
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:62
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:61
 msgid "Delete account"
 msgstr "Akkauntni o'chirish"
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:74
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:73
 msgid "Account deletion"
 msgstr "Akkaunt o'chirilmoqda"
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:80
 msgid "Account deletion requested."
 msgstr "Akkauntni o'chirish uchun so'rov yuborilgan."
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:83
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
 msgid "An email asking for confirmation was sent."
 msgstr "Tasdiqlash xati yuborildi."
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:88
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
 msgid "Failed to request account deletion"
 msgstr "Akkauntni o'chirish so'rovi amalga oshmadi."
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:109
+#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
 msgid "Help"
 msgstr "Yordam"
 
@@ -577,23 +587,23 @@ msgstr "Kirish"
 msgid "Successfully signed in!"
 msgstr "Muvaffaqiyatli kirdingiz!"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:167
 msgid "Email not verified"
 msgstr "Email tasdiqlanmadi."
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
 msgid "Re-send verification email"
 msgstr "Tasdiqlash xatini qayta yuborish"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:184
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:185
 msgid "Incorrect password"
 msgstr "Maxfiy so'z noto'g'ri."
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:187
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:188
 msgid "Request password reset"
 msgstr "Maxfiy so'zni o'chirish uchun so'rov"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:213
+#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:214
 msgid "Reset password"
 msgstr "Maxfiy so'zni o'chirish"
 
@@ -601,41 +611,37 @@ msgstr "Maxfiy so'zni o'chirish"
 msgid "Synchronizing"
 msgstr "Sinxronizatsiya"
 
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:55
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:54
 msgid "Failed to synchronize."
 msgstr "Sinxronizatsiya xatosi."
 
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:61
+#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:64
 msgid "Synchronization completed."
 msgstr "Sinxronizatsiya bajarildi."
-
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:63
-msgid "Your verified medals have been downloaded."
-msgstr "Sizning tasdiqlangan medallaringiz saqlandi."
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:34
 msgid "Skip"
 msgstr "O'tkazib yuborish"
 
-#: ../client/application/game/ui/screens/screen_career.cpp:27
+#: ../client/application/game/ui/screens/screen_career.cpp:25
 msgid "Statistics"
 msgstr "Statistika"
 
-#: ../client/application/game/ui/screens/screen_career.cpp:54
+#. The text shown in the career screen that explains that the
+#. stars and medals shown are *not* specific to an era.
+#: ../client/application/game/ui/screens/screen_career.cpp:59
+msgid "All time stars and medals"
+msgstr "Butun vaqtdagi yulduzlar va medallar"
+
+#: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
 msgstr "Global rekordlar"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
-#: ../client/application/game/ui/screens/screen_career.cpp:71
+#: ../client/application/game/ui/screens/screen_career.cpp:80
 msgid "Deviations completed"
 msgstr "Burilishlar yakunlandi"
-
-#. The text shown in the career screen that explains that the
-#. stars and medals shown are *not* specific to an era.
-#: ../client/application/game/ui/screens/screen_career.cpp:85
-msgid "All time stars and medals"
-msgstr "Butun vaqtdagi yulduzlar va medallar"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -734,23 +740,54 @@ msgstr "Egri ekran"
 msgid "Vignette"
 msgstr "Vinyetka"
 
-#. Name of the setting for when the game is shown in a window.
+#. The color "black"
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
+msgid "Black"
+msgstr ""
+
+#. The color "blue"
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:178
+msgid "Blue"
+msgstr ""
+
+#. The color "teal"
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:180
+msgid "Teal"
+msgstr ""
+
+#. The color "green"
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
+msgid "Green"
+msgstr ""
+
+#. The color "pink"
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:184
+msgid "Pink"
+msgstr "Pushti"
+
+#. The name of a setting category for choosing the background hue of the
+#. renderer.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:189
+msgid "Background hue"
+msgstr ""
+
+#. Name of the setting for when the game is shown in a window.
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:203
 msgid "Windowed"
 msgstr "Oynaviy"
 
 #. Name of the setting for when the game is shown in fullscreen.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:191
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:205
 msgid "Fullscreen"
 msgstr "Butun ekranli"
 
 #. Name of the setting for when the game is shown in a borderless window.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:193
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:207
 msgid "Borderless"
 msgstr "Cheksiz"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:204
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:218
 msgid "Screen type"
 msgstr "Ekran turi"
 
@@ -774,15 +811,21 @@ msgstr "O'q otish"
 
 #. Used in the settings. The %s is replaced with "on" or "off", for example:
 #. "Mouse aim off".
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:227
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:254
 msgid "Mouse aim %s"
 msgstr "Sichqoncha bilan o'q otish %s"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
-#. example: "Quick restart: space".
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:231
+#. example: "Quick Restart: Space".
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:258
 msgid "Quick Restart: %s"
 msgstr "Tezkor restart: %s"
+
+#. Used in the settings. The %s is replaced with the name of a key, for
+#. example: "Slow Down: Shift".
+#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
+msgid "Slow Down: %s"
+msgstr ""
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -853,7 +896,7 @@ msgstr "Hamma"
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
 #. bullets, the joysticks, the ui color, etc...
-#: ../client/application/game/ui/screens/screen_inventory.cpp:177
+#: ../client/application/game/ui/screens/screen_inventory.cpp:178
 msgid "Inventory"
 msgstr "Inventar"
 
@@ -901,15 +944,15 @@ msgstr "Xona yaratish"
 msgid "Close room"
 msgstr "Xonani yopish"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:48
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:49
 msgid "Single Player"
 msgstr "Bir kishilik o'yin"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:51
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:52
 msgid "Play"
 msgstr "O'ynash"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:79
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:80
 msgid "Multiplayer"
 msgstr "Multipleyer"
 
@@ -1065,86 +1108,86 @@ msgstr "Bir tarmoqdagi odamlar bilan o'ynash!"
 msgid "Official"
 msgstr "Rasmiy"
 
-#. The title of the screen where you select community levels.
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:43
-msgid "Community"
-msgstr "Hamjamiyat"
-
 #. The title of the screen where you select what to play in the World.
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:45
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:43
 msgid "World"
 msgstr "Dunyo"
 
 #. The title of the screen where you select what sandbox to play.
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:47
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:45
 msgid "Sandbox"
 msgstr "Qum quti"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:192
+#. The title of the screen where you select community levels.
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:47
+msgid "Community"
+msgstr "Hamjamiyat"
+
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels allow you to get score medals:"
 msgstr "Rasmiy darajalar medal olish imkonini baradi:"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:193
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:200
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
 msgstr "#ff8000ffBronza#ffffffff, #ffffffaaKumush#ffffffff, va #ffff00ffOltin#ffffffff"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:194
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
 msgstr "Agar siz oltin medalga loyiq ballni tezda qo'lga kiritsangiz, spidran medallarini qo'lga kiritasiz."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:195
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
 msgstr "Bu spidran medallarni qo'lga kiritish oltin medallarni qo'lga kiritishdan qiyinroqligini anglatadi."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:196
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
 msgstr "Natija medallariga %1$s malaka beriladi, spidran medallariga esa - %2$s malaka."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:208
 msgid "The world contains many deviations."
 msgstr "Dunyoda ko'plab deviatsiyalar mavjud."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "To complete deviations you should be familiar with the official levels."
 msgstr "Deviatsiyalardan o'tish uchun rasmiy darajalarni yaxshi bilish zarur."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:210
 msgid "You can play the deviations in 3 levels of difficulties."
 msgstr "Deviatsiyalardan 3 xil qiyinlikda o'tish mumkin."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:204
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:211
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
 msgstr "Ehtiyot bo'l! #ffff00ffQiyin#ffffffff - juda qiyin degani, va #ff0000ffAql bovar qilmas#ffffffff - O'tib bo'lmas."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:205
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "For every completed deviation you get XP."
 msgstr "Har bir o'tilgan deviatsiya uchun malaka beriladi."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:206
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
 msgstr "%1$s ta malaka oddiy uchun, %2$s ta malaka qiyin uchun, %3$s ta malaka aql bovar qilmas uchun."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "The sandbox is the place to train and experiment under different conditions."
 msgstr "Qumquti - bu xar hil sharoitda shug'ullanish va tajriba qilish uchun joy."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:220
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
 msgstr "Daraja, kema, bonus va raqiblarni sozla!"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:214
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:221
 msgid "The sandbox is still in development, so expect changes in the future."
 msgstr "Qumquti ishlab chiqish jarayonida, shuning uchun ba'zi narsalar o'zgarishi mumkin."
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:226
 msgid "Official levels information"
 msgstr "Rasmiy darajalar haqida"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:228
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:235
 msgid "World information"
 msgstr "Dunyo haqida"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:233
+#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:240
 msgid "Sandbox information"
 msgstr "Qumquti haqida"
 
@@ -1198,15 +1241,15 @@ msgstr "Dasturlovchi rejimi"
 msgid "Vibration %s"
 msgstr "Vibratsiya %s"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:19
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:20
 msgid "Audio Settings"
 msgstr "Tovush sozlamalari"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:28
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:29
 msgid "Sound effects"
 msgstr "Ovozli effektlar"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:122
+#: ../client/application/game/ui/screens/screen_settings_audio.cpp:123
 msgid "Visualization"
 msgstr "Vizualizatsiya"
 
@@ -1312,42 +1355,42 @@ msgstr "Ta'lim"
 
 #. Shown in the descripting of the item. "type" refers to what kind of
 #. item it is. Ship, trail, bullet, etc...
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:91
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:92
 msgid "Type"
 msgstr "Turi"
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
 #. For example "alpha', "rival", etc...
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:95
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:96
 msgid "Name"
 msgstr "Ismi"
 
 #. Shown in the descripting of the item. "rarity" refers to what the
 #. rarity of the item
 #. is. For example, "common", "rare", etc...
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:99
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:100
 msgid "Rarity"
 msgstr "Noyoblik"
 
 #. Title of the screen that shows the UI to unlock items
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:209
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:236
 msgid "Unlock items"
 msgstr "Ochigan buyumlar"
 
 #. The label of a button used for unlocking a single item.
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:225
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:252
 msgid "Unlock item"
 msgstr "Ochilgan buyum"
 
 #. Shown in a string when no items can be unlocked
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:245
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:272
 msgid "No items to unlock"
 msgstr "Ochishga buyum yo'q"
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:250
+#: ../client/application/game/ui/screens/screen_unlock_items.cpp:277
 msgid "Items to unlock: %s"
 msgstr "Ochishga buyumlar: %s"
 
@@ -1760,7 +1803,7 @@ msgid "%sWaiting for other player%s"
 msgstr "%sO'yinchilarni kutish%s"
 
 #. The label shown in the button used to enter the World.
-#: ../client/application/game/ui/views/world_selector.cpp:183
+#: ../client/application/game/ui/views/world_selector.cpp:176
 msgid "Enter World"
 msgstr "Dunyoga kirish"
 
@@ -1769,92 +1812,87 @@ msgid "ok"
 msgstr "Ok"
 
 #. The color "red"
-#: ../client/application/ui/ui_skin.cpp:29
+#: ../client/application/ui/ui_skin.cpp:34
 msgid "Red"
 msgstr "Qizil"
 
 #. The color "cyan"
-#: ../client/application/ui/ui_skin.cpp:32
+#: ../client/application/ui/ui_skin.cpp:37
 msgid "Cyan"
 msgstr "Moviy"
 
 #. The color "lime"
-#: ../client/application/ui/ui_skin.cpp:35
+#: ../client/application/ui/ui_skin.cpp:40
 msgid "Lime"
 msgstr "Laym rangi"
 
 #. The color "lime green"
-#: ../client/application/ui/ui_skin.cpp:38
+#: ../client/application/ui/ui_skin.cpp:43
 msgid "Lime Green"
 msgstr "Laym-yashil rang"
 
 #. The color "purple"
-#: ../client/application/ui/ui_skin.cpp:41
+#: ../client/application/ui/ui_skin.cpp:46
 msgid "Purple"
 msgstr "Siyoh rang"
 
-#. The color "pink"
-#: ../client/application/ui/ui_skin.cpp:44
-msgid "Pink"
-msgstr "Pushti"
-
 #. The color "orange"
-#: ../client/application/ui/ui_skin.cpp:47
+#: ../client/application/ui/ui_skin.cpp:52
 msgid "Orange"
 msgstr "Olov rang"
 
 #. The color "white"
-#: ../client/application/ui/ui_skin.cpp:50
+#: ../client/application/ui/ui_skin.cpp:55
 msgid "White"
 msgstr "Oq"
 
 #. The color "gray"
-#: ../client/application/ui/ui_skin.cpp:53
+#: ../client/application/ui/ui_skin.cpp:58
 msgid "Gray"
 msgstr "Kul rang"
 
 #. The color "dark blue"
-#: ../client/application/ui/ui_skin.cpp:56
+#: ../client/application/ui/ui_skin.cpp:61
 msgid "Dark Blue"
 msgstr "To'q ko'k"
 
 #. The color "yellow"
-#: ../client/application/ui/ui_skin.cpp:59
+#: ../client/application/ui/ui_skin.cpp:64
 msgid "Yellow"
 msgstr "Sariq"
 
 #. The UI color "frosted green"
-#: ../client/application/ui/ui_skin.cpp:62
+#: ../client/application/ui/ui_skin.cpp:67
 msgid "Frosted Green"
 msgstr "Quyuq Yashil"
 
 #. The UI color "frosted red"
-#: ../client/application/ui/ui_skin.cpp:65
+#: ../client/application/ui/ui_skin.cpp:70
 msgid "Frosted Red"
 msgstr "Quyuq Qizil"
 
 #. The UI color "frosted blue"
-#: ../client/application/ui/ui_skin.cpp:68
+#: ../client/application/ui/ui_skin.cpp:73
 msgid "Frosted Blue"
 msgstr "Quyuq Ko'k"
 
 #. The UI color "frosted yellow"
-#: ../client/application/ui/ui_skin.cpp:71
+#: ../client/application/ui/ui_skin.cpp:76
 msgid "Frosted Yellow"
 msgstr "Quyuq Sariq"
 
 #. The UI color "frosted pink"
-#: ../client/application/ui/ui_skin.cpp:74
+#: ../client/application/ui/ui_skin.cpp:79
 msgid "Frosted Pink"
 msgstr "Quyuq Pushti"
 
 #. The UI color "frosted teal"
-#: ../client/application/ui/ui_skin.cpp:77
+#: ../client/application/ui/ui_skin.cpp:82
 msgid "Frosted Teal"
 msgstr "Quyuq Moviy"
 
 #. The UI color "frosted gray"
-#: ../client/application/ui/ui_skin.cpp:80
+#: ../client/application/ui/ui_skin.cpp:85
 msgid "Frosted Gray"
 msgstr "Quyuq Kulrang"
 

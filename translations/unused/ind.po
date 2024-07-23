@@ -145,6 +145,9 @@ msgstr "Kau sudah berada di dalam game!"
 msgid "You can finally code your own levels!"
 msgstr "Kamu akhirnya bisa mengkode level mu sendiri!"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Medali terverifikasimu telah diunduh."
+
 msgid "by %s"
 msgstr "Oleh %s"
 

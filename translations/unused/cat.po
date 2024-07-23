@@ -16,3 +16,6 @@ msgstr "Millors puntuacions"
 msgid "Speed Runs"
 msgstr "Carreres de velocitat"
 
+msgid "Your verified medals have been downloaded."
+msgstr "S'han descarregat les vostres medalles verificades."
+

@@ -91,6 +91,9 @@ msgstr "Υπέρ χαμηλό 8x"
 msgid "Unknown level"
 msgstr "Άγνωστο επίπεδο"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Τα επιβεβαιομένα μετάλλια σας έχουν κατεβεί."
+
 msgid "by %s"
 msgstr "από %s"
 

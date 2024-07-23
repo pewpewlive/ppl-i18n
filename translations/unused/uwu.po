@@ -16,3 +16,6 @@ msgstr "High Scowes"
 msgid "Speed Runs"
 msgstr "Speed Runs"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Your vewified medals have bween downloaded."
+

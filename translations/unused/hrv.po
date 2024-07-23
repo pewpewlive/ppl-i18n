@@ -175,6 +175,9 @@ msgstr "Već si u igri!"
 msgid "You can finally code your own levels!"
 msgstr "Napokon možete kodirati svoje levele!"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Vaše verificirane medalje su preuzete."
+
 msgid "by %s"
 msgstr "od %s"
 

@@ -157,6 +157,9 @@ msgstr "Ти вже у грі!"
 msgid "You can finally code your own levels!"
 msgstr "Ви нарешті можете кодувати власні рівні!"
 
+msgid "Your verified medals have been downloaded."
+msgstr "Ваші перевірені медалі були завантажені."
+
 msgid "by %s"
 msgstr "Від %s"
 
