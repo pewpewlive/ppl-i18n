@@ -421,7 +421,7 @@ msgstr "Pagalba"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
-msgstr "El-paštas neteisingas!"
+msgstr "El. paštas neteisingas!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
 msgid "Too short. Minimum %s characters."
@@ -449,11 +449,11 @@ msgstr "Patvirtinti slaptažodį"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Email"
-msgstr "El-paštas"
+msgstr "El. paštas"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
 msgid "Confirm email"
-msgstr "Patvirtinti el-pašto adresą"
+msgstr "Patvirtinti el. pašto adresą"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:117
 msgid "Register"
@@ -469,7 +469,7 @@ msgstr "Registracija sėkminga."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
 msgid "Please check your emails!"
-msgstr "Patikrinkite savo el-pašto adresus!"
+msgstr "Patikrinkite savo el. pašto adresus!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
@@ -489,11 +489,11 @@ msgstr "Patvirtinti slaptažodį:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Email:"
-msgstr "El-paštas:"
+msgstr "El. paštas:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm email:"
-msgstr "Patvirtinti el-pašto adresą:"
+msgstr "Patvirtinti el. pašto adresą:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
 msgid "Passwords do not match!"
@@ -501,7 +501,7 @@ msgstr "Slaptažodžiai nesutampa!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
 msgid "Emails do not match!"
-msgstr "El-paštai nesutampa!"
+msgstr "El. paštai nesutampa!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
@@ -579,7 +579,7 @@ msgstr "Sėkmingai prisijungėte!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:166
 msgid "Email not verified"
-msgstr "El-paštas nepatvirtintas"
+msgstr "El. paštas nepatvirtintas"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:169
 msgid "Re-send verification email"
