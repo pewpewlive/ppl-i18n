@@ -335,12 +335,12 @@ msgstr "Συνεχίστε"
 #. Shown when the player failed to achieve an objective
 #: ../client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
-msgstr "Αποτυχία"
+msgstr "Απέτυχες"
 
 #. Shown when the player succesfully achieved an objective
 #: ../client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
-msgstr "Επιτυχία!"
+msgstr "Κέρδισες!"
 
 #: ../client/application/game/ui/game_over_ui.cpp:113
 msgid "Exit"
@@ -1165,7 +1165,7 @@ msgstr "Για κάθε ολοκληρωμένη παραλλαγή παίρνε
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr "%1$s XP στο μέτριο, %2$s XP in δύσκολο, %3$s XP in ακραίο"
+msgstr "%1$s XP στο μέτριο, %2$s XP στο δύσκολο, %3$s XP ατο ακραίο"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "The sandbox is the place to train and experiment under different conditions."
