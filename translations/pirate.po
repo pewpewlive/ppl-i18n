@@ -57,7 +57,7 @@ msgstr ""
 #. Short description of the "hexagon" game mode
 #: ../client/application/game/levels/game_levels.cpp:113
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "Choose 1 from 7 seas"
 
 #. Short description of the "eskiv" game mode
 #: ../client/application/game/levels/game_levels.cpp:130
@@ -97,7 +97,7 @@ msgstr ""
 #. Short description of the "waves" game mode
 #: ../client/application/game/levels/game_levels.cpp:176
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "die GW3:Dimensions Aye"
 
 #. Short description of the "waves" game mode
 #: ../client/application/game/levels/game_levels.cpp:178
@@ -112,12 +112,12 @@ msgstr ""
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
 msgid "True bullet hell"
-msgstr ""
+msgstr "the real cannonball shooter"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:218
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "good cannon comes with good maneuver skills argh"
 
 #. Short description of the "partitioner" game mode
 #: ../client/application/game/levels/game_levels.cpp:235
@@ -127,7 +127,7 @@ msgstr ""
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:253
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr ""
+msgstr "2 pirate head hemispheres, 2 pirate hands, 2 pirate ship"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:14
@@ -137,7 +137,7 @@ msgstr "bronze bounty"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
-msgstr ""
+msgstr "shiprace bronze bounty"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:19
@@ -147,7 +147,7 @@ msgstr "Silver bounty!"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr ""
+msgstr "shiprace silver bounty"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:24
@@ -157,7 +157,7 @@ msgstr "Doubloons!!"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:26
 msgid "New gold speedrun medal"
-msgstr ""
+msgstr "Doubloons for winning ship!!"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:143
 msgid "You've been signed out."
@@ -165,11 +165,11 @@ msgstr "Man in disguise"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:182
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "can't bring our stuff argh"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:266
 msgid "Failed to download achievements"
-msgstr ""
+msgstr "can't get our bounty arg"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:310
 msgid "Failed to upload achievements"
@@ -177,7 +177,7 @@ msgstr ""
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:339
 msgid "Failed to download unlocked items"
-msgstr ""
+msgstr "can't get new pirate stuff"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -200,22 +200,22 @@ msgstr ""
 #. Describes the rarity level of items. Rarity level of 0.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:321
 msgid "Common"
-msgstr ""
+msgstr "Common >:("
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:323
 msgid "Uncommon"
-msgstr ""
+msgstr "Uncommon (:"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
-msgstr ""
+msgstr "Rare {:D"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:327
 msgid "Epic"
-msgstr ""
+msgstr "Epic >:)"
 
 #. Describes the rarity level of items. Rarity level of 4.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:329
@@ -235,7 +235,7 @@ msgstr ""
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:27
 msgid "Ship"
-msgstr ""
+msgstr "Our ship"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:29
@@ -245,12 +245,12 @@ msgstr "Clipper"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:31
 msgid "Bullet"
-msgstr ""
+msgstr "Cannon"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:33
 msgid "Mace"
-msgstr ""
+msgstr "Iron Wheel"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:35
@@ -260,7 +260,7 @@ msgstr ""
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:37
 msgid "Joystick"
-msgstr ""
+msgstr "Steering wheel"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:39
@@ -291,13 +291,13 @@ msgstr ""
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:518
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Crystal: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
 #: ../client/application/game/state/game_state.cpp:522
 msgid "Duration: %s"
-msgstr ""
+msgstr "Time: %s"
 
 #: ../client/application/game/ui/game_over_ui.cpp:10
 msgid "Game Over"
@@ -307,12 +307,12 @@ msgstr "Ship sinked!"
 #. translation.
 #: ../client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr ""
+msgstr "our ship sank"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
-msgstr ""
+msgstr "you need doubloons to continue"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:22
@@ -335,12 +335,12 @@ msgstr "Back to deck"
 #. Shown when the player failed to achieve an objective
 #: ../client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
-msgstr ""
+msgstr "arghh"
 
 #. Shown when the player succesfully achieved an objective
 #: ../client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
-msgstr ""
+msgstr "aye yeah"
 
 #: ../client/application/game/ui/game_over_ui.cpp:113
 msgid "Exit"
@@ -395,11 +395,11 @@ msgstr "We got caught trying to change name"
 #. nickname, or delete your account.
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
 msgid "Manage Account"
-msgstr ""
+msgstr "ship's crew"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
 msgid "Synchronize"
-msgstr ""
+msgstr "getting our treasure"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
 msgid "Sign out"
@@ -407,15 +407,15 @@ msgstr "Jolly be off"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:61
 msgid "Delete account"
-msgstr ""
+msgstr "kick crew"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:73
 msgid "Account deletion"
-msgstr ""
+msgstr "kicking crew"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:80
 msgid "Account deletion requested."
-msgstr ""
+msgstr "crew kicked"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
 msgid "An email asking for confirmation was sent."
@@ -423,7 +423,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "cant kick our crew argh"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
 msgid "Help"
@@ -443,11 +443,11 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
 msgid "Register account"
-msgstr ""
+msgstr "Make new crew aye"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Username"
-msgstr ""
+msgstr "Crew name"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Password"
@@ -475,7 +475,7 @@ msgstr "Joining buccaneer"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Registration successful."
-msgstr ""
+msgstr "We get new Crew ye"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
 msgid "Please check your emails!"
@@ -631,17 +631,17 @@ msgstr "Numbers?!"
 #. stars and medals shown are *not* specific to an era.
 #: ../client/application/game/ui/screens/screen_career.cpp:59
 msgid "All time stars and medals"
-msgstr ""
+msgstr "All treasure and doubloons"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
-msgstr ""
+msgstr "7 seas pirate leaderboard"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
 #: ../client/application/game/ui/screens/screen_career.cpp:80
 msgid "Deviations completed"
-msgstr ""
+msgstr "7 seas adventure"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -687,7 +687,7 @@ msgstr ""
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:93
 msgid "Configure graphics"
-msgstr ""
+msgstr "fix the paper map"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
@@ -825,7 +825,7 @@ msgstr ""
 #. example: "Slow Down: Shift".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "Hold yer sails: %s"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -898,7 +898,7 @@ msgstr ""
 #. bullets, the joysticks, the ui color, etc...
 #: ../client/application/game/ui/screens/screen_inventory.cpp:178
 msgid "Inventory"
-msgstr ""
+msgstr "Treasure"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
@@ -1111,7 +1111,7 @@ msgstr "Naval fleet"
 #. The title of the screen where you select what to play in the World.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:43
 msgid "World"
-msgstr ""
+msgstr "7 seas"
 
 #. The title of the screen where you select what sandbox to play.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:45
@@ -1185,7 +1185,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:235
 msgid "World information"
-msgstr ""
+msgstr "Sea information"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:240
 msgid "Sandbox information"
