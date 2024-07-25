@@ -107,12 +107,12 @@ msgstr "Sebelumnya dikenal sebagai Assault"
 #. Short description of the "ceasefire" game mode
 #: ../client/application/game/levels/game_levels.cpp:199
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Evolusi dari Pacifism"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
 msgid "True bullet hell"
-msgstr ""
+msgstr "Tembakan yang sebenarnya"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:218
@@ -127,7 +127,7 @@ msgstr ""
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:253
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr ""
+msgstr "2 pikiram hemisphere, 2 tangan, 2 pesawat"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:14
@@ -137,7 +137,7 @@ msgstr "Medali perunggu baru"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
-msgstr ""
+msgstr "Medali speedrun perunggu baru"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:19
@@ -147,7 +147,7 @@ msgstr "Medali perak baru"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr ""
+msgstr "Medali speedrun perak baru"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:24
@@ -157,7 +157,7 @@ msgstr "Medali emas baru"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:26
 msgid "New gold speedrun medal"
-msgstr ""
+msgstr "Medali speedrun emas baru"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:143
 msgid "You've been signed out."
@@ -177,7 +177,7 @@ msgstr "Gagal mengunggah pencapaian"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:339
 msgid "Failed to download unlocked items"
-msgstr ""
+msgstr "Gagal mengunduh item yang terbuka"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -200,32 +200,32 @@ msgstr "Pencapaian Terbuka: %s"
 #. Describes the rarity level of items. Rarity level of 0.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:321
 msgid "Common"
-msgstr ""
+msgstr "Biasa"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:323
 msgid "Uncommon"
-msgstr ""
+msgstr "Tidak biasa"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
-msgstr ""
+msgstr "Langka"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:327
 msgid "Epic"
-msgstr ""
+msgstr "Epik"
 
 #. Describes the rarity level of items. Rarity level of 4.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:329
 msgid "Legendary"
-msgstr ""
+msgstr "Legendaris"
 
 #. Describes the rarity level of items. Rarity level of 5.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:331
 msgid "Mythical"
-msgstr ""
+msgstr "Mythic"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:333
@@ -235,7 +235,7 @@ msgstr ""
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:27
 msgid "Ship"
-msgstr ""
+msgstr "Pesawat"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:29
@@ -245,12 +245,12 @@ msgstr "Jejak"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:31
 msgid "Bullet"
-msgstr ""
+msgstr "Tembakan"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:33
 msgid "Mace"
-msgstr ""
+msgstr "Gada"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:35
@@ -265,7 +265,7 @@ msgstr ""
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:39
 msgid "UI Color"
-msgstr ""
+msgstr "Warna Ui"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -307,7 +307,7 @@ msgstr "Game Berakhir"
 #. translation.
 #: ../client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr "Mati lagi ya?"
+msgstr "Mokad lagi ya?"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:20
@@ -335,12 +335,12 @@ msgstr "Lanjutkan"
 #. Shown when the player failed to achieve an objective
 #: ../client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
-msgstr ""
+msgstr "Gagal"
 
 #. Shown when the player succesfully achieved an objective
 #: ../client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
-msgstr ""
+msgstr "Berhasil"
 
 #: ../client/application/game/ui/game_over_ui.cpp:113
 msgid "Exit"
