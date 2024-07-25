@@ -127,7 +127,7 @@ msgstr ""
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:253
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr "2 hemispheres pirate head, 2 pirate hands, 2 pirate ship"
+msgstr "2 pirate head hemispheres, 2 pirate hands, 2 pirate ship"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:14
@@ -205,7 +205,7 @@ msgstr "Common >:("
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:323
 msgid "Uncommon"
-msgstr "Uncommon (:1"
+msgstr "Uncommon (:"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:325
@@ -260,7 +260,7 @@ msgstr ""
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:37
 msgid "Joystick"
-msgstr "ship's steering wheel"
+msgstr "Steering wheel"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:39
@@ -687,7 +687,7 @@ msgstr ""
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:93
 msgid "Configure graphics"
-msgstr "fix our eyes"
+msgstr "fix the paper map"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
@@ -825,7 +825,7 @@ msgstr ""
 #. example: "Slow Down: Shift".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr "Argh my ship hit a rock: %s"
+msgstr "Hold yer sails: %s"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -1185,7 +1185,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:235
 msgid "World information"
-msgstr "sea information"
+msgstr "Sea information"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:240
 msgid "Sandbox information"
