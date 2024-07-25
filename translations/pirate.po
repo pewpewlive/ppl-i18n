@@ -825,7 +825,7 @@ msgstr ""
 #. example: "Slow Down: Shift".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr "Argg!"
+msgstr "Argh my ship hit a rock: %s"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
