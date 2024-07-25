@@ -291,13 +291,13 @@ msgstr ""
 #. for example "Pointonium: 34444"
 #: ../client/application/game/state/game_state.cpp:518
 msgid "Pointonium: %s"
-msgstr "Crystal"
+msgstr "Crystal: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
 #: ../client/application/game/state/game_state.cpp:522
 msgid "Duration: %s"
-msgstr "Time"
+msgstr "Time %s"
 
 #: ../client/application/game/ui/game_over_ui.cpp:10
 msgid "Game Over"
