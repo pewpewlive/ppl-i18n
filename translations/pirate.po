@@ -250,7 +250,7 @@ msgstr "Cannon"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:33
 msgid "Mace"
-msgstr "Iron Whell"
+msgstr "Iron Wheel"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:35
@@ -297,7 +297,7 @@ msgstr "Crystal: %s"
 #. duration, for example: "Duration: 1m43s"
 #: ../client/application/game/state/game_state.cpp:522
 msgid "Duration: %s"
-msgstr "Time %s"
+msgstr "Time: %s"
 
 #: ../client/application/game/ui/game_over_ui.cpp:10
 msgid "Game Over"
@@ -399,7 +399,7 @@ msgstr "ship's crew"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
 msgid "Synchronize"
-msgstr ""
+msgstr "getting our treasure"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
 msgid "Sign out"
@@ -631,17 +631,17 @@ msgstr "Numbers?!"
 #. stars and medals shown are *not* specific to an era.
 #: ../client/application/game/ui/screens/screen_career.cpp:59
 msgid "All time stars and medals"
-msgstr ""
+msgstr "All treasure and doubloons"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
-msgstr ""
+msgstr "7 seas pirate leaderboard"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
 #: ../client/application/game/ui/screens/screen_career.cpp:80
 msgid "Deviations completed"
-msgstr ""
+msgstr "7 seas adventure"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -687,7 +687,7 @@ msgstr ""
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:93
 msgid "Configure graphics"
-msgstr ""
+msgstr "fix our eyes"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
@@ -825,7 +825,7 @@ msgstr ""
 #. example: "Slow Down: Shift".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "Argg!"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -898,7 +898,7 @@ msgstr ""
 #. bullets, the joysticks, the ui color, etc...
 #: ../client/application/game/ui/screens/screen_inventory.cpp:178
 msgid "Inventory"
-msgstr ""
+msgstr "Treasure"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
@@ -1111,7 +1111,7 @@ msgstr "Naval fleet"
 #. The title of the screen where you select what to play in the World.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:43
 msgid "World"
-msgstr ""
+msgstr "7 seas"
 
 #. The title of the screen where you select what sandbox to play.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:45
@@ -1185,7 +1185,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:235
 msgid "World information"
-msgstr ""
+msgstr "sea information"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:240
 msgid "Sandbox information"
