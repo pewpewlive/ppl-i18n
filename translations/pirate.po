@@ -11,7 +11,7 @@ msgstr ""
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:329
 msgid "Ouch"
-msgstr ""
+msgstr "My ship!!"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -173,7 +173,7 @@ msgstr "can't get our bounty arg"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:310
 msgid "Failed to upload achievements"
-msgstr ""
+msgstr "argh can't save our stuff"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:339
 msgid "Failed to download unlocked items"
@@ -205,7 +205,7 @@ msgstr "Common >:("
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:323
 msgid "Uncommon"
-msgstr "Uncommon (:"
+msgstr "Uncommon :|"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:325
@@ -483,7 +483,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
-msgstr ""
+msgstr "can't mke new crew"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Username (you can put colors in!):"
@@ -609,7 +609,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
 msgid "Synchronizing"
-msgstr ""
+msgstr "Getting our stuff"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:54
 msgid "Failed to synchronize."
@@ -682,7 +682,7 @@ msgstr "Clear vision"
 #. The name of the graphics configuration that enables all the graphical effects.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:55
 msgid "Highest"
-msgstr ""
+msgstr "sea light"
 
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:93
@@ -1207,7 +1207,7 @@ msgstr "Fixer"
 #. graphics settings.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Graphics"
-msgstr ""
+msgstr "island preview"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:54
 msgid "Controls"
