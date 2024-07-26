@@ -17,7 +17,7 @@ msgstr "JNCK"
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:332
 msgid "Yikes"
-msgstr ""
+msgstr "Anjay"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
