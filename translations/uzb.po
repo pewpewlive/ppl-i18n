@@ -107,7 +107,7 @@ msgstr "Avvallari Assault nomi bilan mashxur"
 #. Short description of the "ceasefire" game mode
 #: ../client/application/game/levels/game_levels.cpp:199
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Pasifizmning evolyutsiyasi"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
@@ -122,7 +122,7 @@ msgstr "Katta otash kuchi bilan katta qochish qobiliyatlari keladi"
 #. Short description of the "partitioner" game mode
 #: ../client/application/game/levels/game_levels.cpp:235
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "Ularni yo'q qilish uchun narsalarni lasso qiling"
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:253
@@ -743,22 +743,22 @@ msgstr "Vinyetka"
 #. The color "black"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
 msgid "Black"
-msgstr ""
+msgstr "Qora"
 
 #. The color "blue"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Blue"
-msgstr ""
+msgstr "Ko'k"
 
 #. The color "teal"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:180
 msgid "Teal"
-msgstr ""
+msgstr "Ko'kchil"
 
 #. The color "green"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
 msgid "Green"
-msgstr ""
+msgstr "Yashil"
 
 #. The color "pink"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:184
@@ -769,7 +769,7 @@ msgstr "Pushti"
 #. renderer.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:189
 msgid "Background hue"
-msgstr ""
+msgstr "Orqa tomon rangi"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:203
@@ -825,7 +825,7 @@ msgstr "Tezkor restart: %s"
 #. example: "Slow Down: Shift".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "Sekinlashish: %s"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
