@@ -819,7 +819,7 @@ msgstr "Pembidik mouse %s"
 #. example: "Quick Restart: Space".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:258
 msgid "Quick Restart: %s"
-msgstr "Mulai ulang cepat"
+msgstr "Mulai ulang cepat: %s"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Slow Down: Shift".
