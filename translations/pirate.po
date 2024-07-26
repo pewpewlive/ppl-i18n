@@ -483,7 +483,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
-msgstr ""
+msgstr "can't mke new crew"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Username (you can put colors in!):"
