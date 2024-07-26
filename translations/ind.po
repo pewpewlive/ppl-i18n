@@ -11,7 +11,7 @@ msgstr ""
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:329
 msgid "Ouch"
-msgstr ""
+msgstr "JNCK"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -641,7 +641,7 @@ msgstr "Papan peringkat dunia"
 #. summary of the completed deviations is shown.
 #: ../client/application/game/ui/screens/screen_career.cpp:80
 msgid "Deviations completed"
-msgstr ""
+msgstr "Mode Deviations selesai"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -682,12 +682,12 @@ msgstr "Tinggi"
 #. The name of the graphics configuration that enables all the graphical effects.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:55
 msgid "Highest"
-msgstr ""
+msgstr "Tertinggi"
 
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:93
 msgid "Configure graphics"
-msgstr ""
+msgstr "Pengaturan Grafis"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
@@ -700,7 +700,7 @@ msgstr "hidup"
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:119
 msgid "Bloom intensity"
-msgstr ""
+msgstr "Intensitas Bloom"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
@@ -711,7 +711,7 @@ msgstr ""
 #. The name of the setting that enables horizontal scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:136
 msgid "horizontal"
-msgstr ""
+msgstr "horisontal"
 
 #. The name of setting that enables grid-like scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:138
@@ -721,7 +721,7 @@ msgstr ""
 #. The name for the setting category for choosing the scalines type.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "Scanlines"
-msgstr ""
+msgstr "Garis Layar"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:146
@@ -732,7 +732,7 @@ msgstr ""
 #. of the monitor.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:155
 msgid "Curved monitor"
-msgstr ""
+msgstr "Lekukan Layar"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
@@ -743,12 +743,12 @@ msgstr ""
 #. The color "black"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
 msgid "Black"
-msgstr ""
+msgstr "Hitam"
 
 #. The color "blue"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Blue"
-msgstr ""
+msgstr "Biru"
 
 #. The color "teal"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:180
@@ -758,7 +758,7 @@ msgstr ""
 #. The color "green"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
 msgid "Green"
-msgstr ""
+msgstr "Hijau"
 
 #. The color "pink"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:184
@@ -769,7 +769,7 @@ msgstr "Pink"
 #. renderer.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:189
 msgid "Background hue"
-msgstr ""
+msgstr "Warna latar belakang "
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:203
@@ -789,7 +789,7 @@ msgstr ""
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:218
 msgid "Screen type"
-msgstr ""
+msgstr "Tipe Layar"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -819,13 +819,13 @@ msgstr "Pembidik mouse %s"
 #. example: "Quick Restart: Space".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:258
 msgid "Quick Restart: %s"
-msgstr ""
+msgstr "Mulai ulang cepat"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Slow Down: Shift".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "Melambat: %s"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -857,7 +857,7 @@ msgstr "Gagal mengunduh level."
 
 #: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
-msgstr "Ensiklopedi"
+msgstr "Ensiklopedia"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -873,7 +873,7 @@ msgstr "Kredit"
 #. library that are used in the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:116
 msgid "Licenses"
-msgstr ""
+msgstr "Lisensi"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to discord server
@@ -891,14 +891,14 @@ msgstr "Video pengembangan"
 #. items.
 #: ../client/application/game/ui/screens/screen_inventory.cpp:85
 msgid "All"
-msgstr ""
+msgstr "Semua"
 
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
 #. bullets, the joysticks, the ui color, etc...
 #: ../client/application/game/ui/screens/screen_inventory.cpp:178
 msgid "Inventory"
-msgstr ""
+msgstr "Penyimpanan"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
@@ -1111,12 +1111,12 @@ msgstr "Resmi"
 #. The title of the screen where you select what to play in the World.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:43
 msgid "World"
-msgstr ""
+msgstr "Dunia"
 
 #. The title of the screen where you select what sandbox to play.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:45
 msgid "Sandbox"
-msgstr ""
+msgstr "Mode kustom"
 
 #. The title of the screen where you select community levels.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:47
@@ -1125,7 +1125,7 @@ msgstr "Komunitas"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels allow you to get score medals:"
-msgstr ""
+msgstr "Level resmi memberikan mu medali skor"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:200
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
@@ -1133,23 +1133,23 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "Jika kau mendapatkan skor medali emas dengan cepat, kau juga bisa mendapatkan medali speedrun"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "Ini berarti medali speedrun lebih sulit didapatkan daripada medali skor "
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "Kau akan mendapat %1$s XP untuk setiap medali skor, dan %2$s XP untuk setiap medali speedrun"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:208
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "Dunia ini memiliki banyak ketidak benaran"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "Untuk menyelesaikan mode Deviations kau harus mengenal level resmi"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:210
 msgid "You can play the deviations in 3 levels of difficulties."
