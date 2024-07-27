@@ -17,19 +17,19 @@ msgstr "My ship!!"
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:332
 msgid "Yikes"
-msgstr ""
+msgstr "Blimey"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:335
 msgid "Ow"
-msgstr ""
+msgstr "Arrgh"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:338
 msgid "Ugh"
-msgstr ""
+msgstr "Sink me!"
 
 #: ../client/application/game/game.cpp:166
 msgid "Quick pause"
@@ -52,7 +52,7 @@ msgstr "The witch don't tell the truth"
 #. Short description of the "hexagon" game mode
 #: ../client/application/game/levels/game_levels.cpp:111
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "Tis not stolen from \"Super Hexagon\"
 
 #. Short description of the "hexagon" game mode
 #: ../client/application/game/levels/game_levels.cpp:113
@@ -92,37 +92,37 @@ msgstr "Stay alive for a half minute, that's it"
 #. Short description of the "fury" game mode
 #: ../client/application/game/levels/game_levels.cpp:158
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\This level is a joke right?\ - Landlubbers"
 
 #. Short description of the "waves" game mode
 #: ../client/application/game/levels/game_levels.cpp:176
 msgid "RIP GW3:Dimensions"
-msgstr "die GW3:Dimensions Aye"
+msgstr "Peace for GW3:Dimensions"
 
 #. Short description of the "waves" game mode
 #: ../client/application/game/levels/game_levels.cpp:178
 msgid "Previously known as Assault"
-msgstr "Formerly call as assault"
+msgstr "Formerly called as Assault"
 
 #. Short description of the "ceasefire" game mode
 #: ../client/application/game/levels/game_levels.cpp:199
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Formchange of Pacifism"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:216
 msgid "True bullet hell"
-msgstr "the real cannonball shooter"
+msgstr "The real cannonball shooter"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:218
 msgid "With great firepower comes great dodging skills"
-msgstr "good cannon comes with good maneuver skills argh"
+msgstr "Good cannon comes with good maneuver skills argh"
 
 #. Short description of the "partitioner" game mode
 #: ../client/application/game/levels/game_levels.cpp:235
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "Tie up 'em privateer and make them walk the plank"
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:253
@@ -132,12 +132,12 @@ msgstr "2 pirate head hemispheres, 2 pirate hands, 2 pirate ship"
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:14
 msgid "New bronze medal"
-msgstr "bronze bounty"
+msgstr "Bronze bounty"
 
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
-msgstr "shiprace bronze bounty"
+msgstr "Shiprace bronze bounty"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:19
@@ -147,7 +147,7 @@ msgstr "Silver bounty!"
 #. Shown in a notification when a new speedrun medal is earned.
 #: ../client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr "shiprace silver bounty"
+msgstr "Shiprace silver bounty"
 
 #. Shown in a notification when a new score medal is earned.
 #: ../client/application/game/levels/medals.cpp:24
@@ -165,25 +165,25 @@ msgstr "Man in disguise"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:182
 msgid "Failed to download backup data"
-msgstr "can't bring our stuff argh"
+msgstr "Can't bring our stuff argh"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:266
 msgid "Failed to download achievements"
-msgstr "can't get our bounty arg"
+msgstr "Can't get our bounty arg"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:310
 msgid "Failed to upload achievements"
-msgstr "argh can't save our stuff"
+msgstr "Argh can't save our stuff"
 
 #: ../client/application/game/player_data/data_synchronizer.cpp:339
 msgid "Failed to download unlocked items"
-msgstr "can't get new pirate stuff"
+msgstr "Can't get new pirate stuff"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
 #: ../client/application/game/player_data/player_data_manager.cpp:53
 msgid "New personal best! %s ⇨ %s"
-msgstr ""
+msgstr "New richer booty! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
@@ -195,7 +195,7 @@ msgstr ""
 #. %s is replaced with the name of the achievement.
 #: ../client/application/game/player_data/player_data_manager.cpp:838
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "Received captain's gratitude: %s"
 
 #. Describes the rarity level of items. Rarity level of 0.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:321
@@ -220,17 +220,17 @@ msgstr "Epic >:)"
 #. Describes the rarity level of items. Rarity level of 4.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:329
 msgid "Legendary"
-msgstr ""
+msgstr "Worth a pint"
 
 #. Describes the rarity level of items. Rarity level of 5.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:331
 msgid "Mythical"
-msgstr ""
+msgstr "Like a Rum"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:333
 msgid "Transcendent"
-msgstr ""
+msgstr "Roger's favourite"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:27
@@ -255,7 +255,7 @@ msgstr "Iron Wheel"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:35
 msgid "Laser"
-msgstr ""
+msgstr "Linekiller"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:37
@@ -265,7 +265,7 @@ msgstr "Steering wheel"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:39
 msgid "UI Color"
-msgstr ""
+msgstr "Deck's Colour"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -279,13 +279,13 @@ msgstr "Non"
 #. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
 #: ../client/application/game/state/game_state.cpp:511
 msgid "Accuracy: %s"
-msgstr "Ye're aim: %s"
+msgstr "Ye'r aim: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:514
 msgid "Total score: %s"
-msgstr ""
+msgstr "Total loot: %s""
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
@@ -317,12 +317,12 @@ msgstr "you need doubloons to continue"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr ""
+msgstr "Ye scallywag failed me"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
-msgstr ""
+msgstr "Avast heartie, ye were never meant to be a pirate."
 
 #: ../client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
@@ -340,7 +340,7 @@ msgstr "arghh"
 #. Shown when the player succesfully achieved an objective
 #: ../client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
-msgstr "aye yeah"
+msgstr "aye aye"
 
 #: ../client/application/game/ui/game_over_ui.cpp:113
 msgid "Exit"
@@ -419,7 +419,7 @@ msgstr "crew kicked"
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "The government sent ye the confirmation paper."
 
 #: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
 msgid "Failed to request account deletion"
@@ -431,15 +431,15 @@ msgstr "Ye're need a favour?"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
-msgstr ""
+msgstr "The letter's a bait!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Too short. Atleast %s letters here."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:53
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Too long. only less than %s letters are needed"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
 msgid "Register account"
@@ -451,7 +451,7 @@ msgstr "Crew name"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Password"
-msgstr "Thi word"
+msgstr "Secret word"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
@@ -479,15 +479,15 @@ msgstr "We get new Crew ye"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Avast handle yer letters!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
 msgid "Failed to register"
-msgstr "can't mke new crew"
+msgstr "can't make new crew"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Crew's name (ye can use colours 'ere):"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
 msgid "Password:"
@@ -507,11 +507,11 @@ msgstr "Is this ye?:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Tis is word of scourge"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Tis email of the government!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
@@ -523,7 +523,7 @@ msgstr "Ye're not a pirate"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Avast, Go on account now to make your nickname and keep your booty"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
 msgid "Sign in"
@@ -545,7 +545,7 @@ msgstr "Only Pirate can go sailed to the 7 sea"
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
 msgid "You need to be signed-in to view comments"
-msgstr ""
+msgstr "Ye need to be on account to see these rums"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
@@ -553,47 +553,47 @@ msgstr "Ye're identity"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Belay me the verification letter"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
-msgstr ""
+msgstr "Verification letter shipped"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr "let's se Yer letter"
+msgstr "let's see Yer letter"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Someone ate the carrier pigeon!?"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Asking for new magic word"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:57
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Magic word reset letter sent"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:64
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Carrier pigeon lost the letter"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
 msgid "Signing in"
-msgstr ""
+msgstr "Get on the man-o-war"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
-msgstr "Ye're a boccaneer"
+msgstr "Ye're a boccaneer now!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:167
 msgid "Email not verified"
-msgstr ""
+msgstr "Tis letter from the government"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Belay me the letter again"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:185
 msgid "Incorrect password"
@@ -601,11 +601,11 @@ msgstr "That's not the magic word"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:188
 msgid "Request password reset"
-msgstr ""
+msgstr "Asking to make new magic word"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:214
 msgid "Reset password"
-msgstr ""
+msgstr "Make new magic word"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
 msgid "Synchronizing"
@@ -613,11 +613,11 @@ msgstr "Getting our stuff"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:54
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Failed getting out stuff"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:64
 msgid "Synchronization completed."
-msgstr ""
+msgstr "The stuff relayed arrg"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:34
 msgid "Skip"
@@ -645,11 +645,11 @@ msgstr "7 seas adventure"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "Fix yer steering wheel"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "Ship's Graveyard"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
@@ -706,17 +706,17 @@ msgstr ""
 #. present or not.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:128
 msgid "Lens dirt"
-msgstr ""
+msgstr "Dirty spyglass"
 
 #. The name of the setting that enables horizontal scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:136
 msgid "horizontal"
-msgstr ""
+msgstr "horizontal"
 
 #. The name of setting that enables grid-like scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:138
 msgid "grid"
-msgstr ""
+msgstr "squares"
 
 #. The name for the setting category for choosing the scalines type.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:140
@@ -726,7 +726,7 @@ msgstr ""
 #. The name for the setting category for choosing the chromatic aberration.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:146
 msgid "Chromatic aberration"
-msgstr ""
+msgstr "What is this vision"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
@@ -769,7 +769,7 @@ msgstr ""
 #. renderer.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:189
 msgid "Background hue"
-msgstr ""
+msgstr "The sky's light"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:203
@@ -795,7 +795,7 @@ msgstr ""
 #. the touch joysticks.
 #: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
-msgstr ""
+msgstr "Steering wheel style"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:113
 msgid "Configure keyboard"
@@ -819,7 +819,7 @@ msgstr "Clicky thing aim %s"
 #. example: "Quick Restart: Space".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:258
 msgid "Quick Restart: %s"
-msgstr ""
+msgstr "Fast Do-over: %s"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Slow Down: Shift".
@@ -853,11 +853,11 @@ msgstr "Pirating ship..."
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:62
 msgid "Failed to download level."
-msgstr ""
+msgstr "Failed to lay the Jacob's ladders."
 
 #: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Book of knowledge"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -867,13 +867,13 @@ msgstr "Shanties"
 #. contributed to the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:102
 msgid "Credits"
-msgstr ""
+msgstr "Share of gratitude"
 
 #. Shown in a button. This buttons lets you see the list of programming
 #. library that are used in the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:116
 msgid "Licenses"
-msgstr ""
+msgstr "Allowance"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to discord server
@@ -885,7 +885,7 @@ msgstr "The crew"
 #. Used in a button that redirects to the youtube channel
 #: ../client/application/game/ui/screens/screen_informations.h:30
 msgid "Development videos"
-msgstr ""
+msgstr "Moving pictures when making this"
 
 #. Shown in the tab strip of the inventory. Used for showing all the unlocked
 #. items.
@@ -997,7 +997,7 @@ msgstr "Aghh, have no permission to sail"
 #. information, or opens a webpage.
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
 msgid "Learn more"
-msgstr ""
+msgstr "Avast to know"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
 msgid "Symmetric NAT error"
@@ -1005,11 +1005,11 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr ""
+msgstr "Tis be that yer internet is under the sea government and isn't allowed to sail with a heartie."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr ""
+msgstr "If ye use yer mobile internet, avast! belay it! if yer on Wi-Fi, belay that too and use a different one!"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
@@ -1021,7 +1021,7 @@ msgstr "Look at yerself sailor!"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:157
 msgid "Need the latest version of the game."
-msgstr "Ye're need to upgraded ye're ship."
+msgstr "Ye're need to upgraded ye'r ship."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
 msgid "Failed to authenticate"
@@ -1125,7 +1125,7 @@ msgstr "Pirates"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels allow you to get score medals:"
-msgstr ""
+msgstr "Bounties from government get yer some doubloons:"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:200
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
@@ -1133,23 +1133,23 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "If you plundered fast enough booty of gold medal, you also receive gratitude of fast-do"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "Tis be that fast-do booty is difficult to obtain than common golds"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "The bounty is %1$s XP per score booty, and %2$s XP per shiprace booty"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:208
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "Tis seas hold much deviation"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "To beat that deviation ye must be familiar with the government's levels"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:210
 msgid "You can play the deviations in 3 levels of difficulties."
@@ -1157,7 +1157,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:211
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "Avast! #ffff00ffhard#ffffffff is a scourge one, and #ff0000ffdelirious#ffffffff is of Davy Jones"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "For every completed deviation you get XP."
@@ -1165,7 +1165,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "%1$s XP in normal, %2$s XP in scourgelike, %3$s XP in Davy Jones's"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "The sandbox is the place to train and experiment under different conditions."
@@ -1805,7 +1805,7 @@ msgstr ""
 #. The label shown in the button used to enter the World.
 #: ../client/application/game/ui/views/world_selector.cpp:176
 msgid "Enter World"
-msgstr ""
+msgstr "Sail sea"
 
 #: ../client/application/ui/keyboard_view.cpp:108
 msgid "ok"
