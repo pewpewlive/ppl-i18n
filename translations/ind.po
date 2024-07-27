@@ -11,7 +11,7 @@ msgstr ""
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:329
 msgid "Ouch"
-msgstr "JNCK"
+msgstr "Aduh"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -23,7 +23,7 @@ msgstr "Anjay"
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:335
 msgid "Ow"
-msgstr "Aduh"
+msgstr "Aw"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -210,7 +210,7 @@ msgstr "Tidak biasa"
 #. Describes the rarity level of items. Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
-msgstr "Langka"
+msgstr "Langkah"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:327
@@ -230,7 +230,7 @@ msgstr "Mythic"
 #. Describes the rarity level of items. Rarity level of 6.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:333
 msgid "Transcendent"
-msgstr "Tingkat Dewa"
+msgstr "Melampaui"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:27
@@ -631,7 +631,7 @@ msgstr "Statistik"
 #. stars and medals shown are *not* specific to an era.
 #: ../client/application/game/ui/screens/screen_career.cpp:59
 msgid "All time stars and medals"
-msgstr "Semua bintang dan medali"
+msgstr "Total medali dan bintang sepanjang waktu"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
@@ -641,7 +641,7 @@ msgstr "Papan peringkat dunia"
 #. summary of the completed deviations is shown.
 #: ../client/application/game/ui/screens/screen_career.cpp:80
 msgid "Deviations completed"
-msgstr "Mode Deviations selesai"
+msgstr "Perubahan selesai"
 
 #: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -687,7 +687,7 @@ msgstr "Tertinggi"
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:93
 msgid "Configure graphics"
-msgstr "Pengaturan Grafis"
+msgstr "Atur grafik"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
@@ -700,13 +700,13 @@ msgstr "hidup"
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:119
 msgid "Bloom intensity"
-msgstr "Intensitas Bloom"
+msgstr "Intensitas kecerahan"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:128
 msgid "Lens dirt"
-msgstr ""
+msgstr "Lensa kotor"
 
 #. The name of the setting that enables horizontal scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:136
@@ -716,7 +716,7 @@ msgstr "horisontal"
 #. The name of setting that enables grid-like scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:138
 msgid "grid"
-msgstr "grid"
+msgstr "kisi-kisi"
 
 #. The name for the setting category for choosing the scalines type.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:140
@@ -726,7 +726,7 @@ msgstr "Garis Layar"
 #. The name for the setting category for choosing the chromatic aberration.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:146
 msgid "Chromatic aberration"
-msgstr "penyimpangan kromatik"
+msgstr "Penyimpangan kromatik"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
@@ -738,7 +738,7 @@ msgstr "Lekukan Layar"
 #. vignette effect.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:164
 msgid "Vignette"
-msgstr "skema"
+msgstr "Vinyet"
 
 #. The color "black"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
@@ -753,7 +753,7 @@ msgstr "Biru"
 #. The color "teal"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:180
 msgid "Teal"
-msgstr ""
+msgstr "Hijau laut"
 
 #. The color "green"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
@@ -769,7 +769,7 @@ msgstr "Pink"
 #. renderer.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:189
 msgid "Background hue"
-msgstr "Warna latar belakang "
+msgstr "Warna latar belakang"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:203
@@ -784,7 +784,7 @@ msgstr "Layar penuh"
 #. Name of the setting for when the game is shown in a borderless window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:207
 msgid "Borderless"
-msgstr ""
+msgstr "Tanpa ujung"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:218
@@ -803,7 +803,7 @@ msgstr "Atur keyboard"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:118
 msgid "Move"
-msgstr "Bergerak"
+msgstr "Pindah"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:126
 msgid "Shoot"
@@ -819,7 +819,7 @@ msgstr "Pembidik mouse %s"
 #. example: "Quick Restart: Space".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:258
 msgid "Quick Restart: %s"
-msgstr "Mulai ulang cepat: %s"
+msgstr "Pengulangan cepat: %s"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Slow Down: Shift".
@@ -1125,11 +1125,11 @@ msgstr "Komunitas"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels allow you to get score medals:"
-msgstr "Level resmi memberikan mu medali skor"
+msgstr "Level resmi memberikan mu medali skor:"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:200
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "#ff8000ffPerunggu#ffffffff, #ffffffaaPerak#ffffffff, dan #ffff00ffEmas#ffffffff"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
@@ -1137,7 +1137,7 @@ msgstr "Jika kau mendapatkan skor medali emas dengan cepat, kau juga bisa mendap
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr "Ini berarti medali speedrun lebih sulit didapatkan daripada medali skor "
+msgstr "Ini berarti medali speedrun lebih sulit didapatkan daripada medali emas."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
@@ -1145,15 +1145,15 @@ msgstr "Kau akan mendapat %1$s XP untuk setiap medali skor, dan %2$s XP untuk se
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:208
 msgid "The world contains many deviations."
-msgstr "Dunia ini memiliki banyak ketidak benaran"
+msgstr "Dunia ini memiliki banyak perubahan."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr "Untuk menyelesaikan mode Deviations kau harus mengenal level resmi"
+msgstr "Untuk menyelesaikan mode perubahan kau harus mengenal level resmi."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:210
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr "kau bisa memainkan mode deviations dalam 3 tingkat kesulitan"
+msgstr "Kau bisa memainkan mode perubahan dalam 3 tingkat kesulitan."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:211
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
@@ -1161,7 +1161,7 @@ msgstr "Awas! #ffff00ffsulit#ffffffff benar benar sulit, dan #ff0000ffgila#fffff
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "For every completed deviation you get XP."
-msgstr "untuk setiap devitations yang diselesaikan kamu mendapatkan XP"
+msgstr "Untuk setiap perubahan yang diselesaikan kamu mendapatkan XP."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
@@ -1169,35 +1169,35 @@ msgstr "%1$s XP untuk mode normal, %2$s XP di mode sulit, %3$s XP di mode gila"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr ""
+msgstr "Mode kustom adalah tempat untuk berlatih di dalam kondisi berbeda."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:220
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr ""
+msgstr "Atur level, kapal, bonus, dan para musuh!"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:221
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr ""
+msgstr "Mode kustom masih dalam pengembangan, maka akan ada perubahan di masa depan."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:226
 msgid "Official levels information"
-msgstr ""
+msgstr "Informasi level resmi"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:235
 msgid "World information"
-msgstr ""
+msgstr "Informasi dunia"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:240
 msgid "Sandbox information"
-msgstr ""
+msgstr "Informasi mode kustom"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
-msgstr "Koneksi error"
+msgstr "Error koneksi"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
 msgid "Lost connection to host"
-msgstr "Hilang koneksi dengan host"
+msgstr "Hilang koneksi dari host"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:33
 msgid "Settings"
@@ -1207,7 +1207,7 @@ msgstr "Pengaturan"
 #. graphics settings.
 #: ../client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Graphics"
-msgstr ""
+msgstr "Grafik"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:54
 msgid "Controls"
@@ -1279,7 +1279,7 @@ msgstr "Penerjemahan disediakan oleh komunitas!"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
-msgstr "Bahasa default"
+msgstr "Bahasa awal"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
@@ -1315,7 +1315,7 @@ msgstr "Status Steam"
 #. the floating text message in-game.
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:188
 msgid "Show optional floating text"
-msgstr ""
+msgstr "Tunjukan teks melayang opsional"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -1357,42 +1357,42 @@ msgstr "Tutorial"
 #. item it is. Ship, trail, bullet, etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:92
 msgid "Type"
-msgstr ""
+msgstr "Tipe"
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
 #. For example "alpha', "rival", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:96
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #. Shown in the descripting of the item. "rarity" refers to what the
 #. rarity of the item
 #. is. For example, "common", "rare", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:100
 msgid "Rarity"
-msgstr ""
+msgstr "Kelangkahan"
 
 #. Title of the screen that shows the UI to unlock items
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:236
 msgid "Unlock items"
-msgstr ""
+msgstr "Buka item-item"
 
 #. The label of a button used for unlocking a single item.
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:252
 msgid "Unlock item"
-msgstr ""
+msgstr "Buka item"
 
 #. Shown in a string when no items can be unlocked
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:272
 msgid "No items to unlock"
-msgstr ""
+msgstr "tidak ada item untuk dibuka"
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:277
 msgid "Items to unlock: %s"
-msgstr ""
+msgstr "Item-item untuk dibuka: %s"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
@@ -1417,7 +1417,7 @@ msgstr "Mengunggah replay untuk %s."
 #. Shown when a user disables comments on their profile and or levels.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
 msgid "Comments are disabled."
-msgstr ""
+msgstr "Komentar dimatikan."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:203
 msgid "Are you sure you want to report this comment?"
@@ -1471,7 +1471,7 @@ msgstr "Komentar setidaknya memiliki lebih dari 3 huruf."
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:359
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Tolong jaga bahasa kamu. Jangan menghina, jangan mengumpat, jangan men-spam. Kami akan menghapus postingan apapun yang melanggar aturan ini, dan memblokir atau melanggar pelaku"
+msgstr "Tolong jaga bahasa kamu. Jangan menghina, jangan mengumpat, jangan men-spam. Kami akan menghapus postingan apapun yang melanggar aturan ini, dan memblokir atau melanggar pelaku."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -1571,7 +1571,7 @@ msgstr "negara"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:66
 msgid "continent"
-msgstr "Benua"
+msgstr "benua"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:66
 msgid "world"
@@ -1579,11 +1579,11 @@ msgstr "dunia"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:143
 msgid "high scores"
-msgstr ""
+msgstr "skor tertinggi"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:144
 msgid "speed runs"
-msgstr ""
+msgstr "speedrun"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1599,11 +1599,11 @@ msgstr "Gagal mengunduh manifes"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:80
 msgid "Failed to set up comments"
-msgstr ""
+msgstr "Gagal untuk memberi komentar"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:231
 msgid "average score: %s"
-msgstr "Skor rata-rata: %s"
+msgstr "skor rata-rata: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:294
 msgid "Experimental level"
@@ -1613,24 +1613,24 @@ msgstr "Level percobaan"
 #. version number. For example: "version 2"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
 msgid "version %s"
-msgstr ""
+msgstr "versi: %s"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:21
 msgid "released %s"
-msgstr ""
+msgstr "rilis %s"
 
 #. Used if the level does not contain any information.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
 msgid "No information available"
-msgstr ""
+msgstr "Tidak ada informasi"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
 msgid "Gold medals percentage: %s"
-msgstr ""
+msgstr "Persentasi medali emas: %s"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:48
 msgid "Failed to read replay."
@@ -1685,7 +1685,7 @@ msgstr "Sulit"
 #. Describes the highest difficutly setting (3/3)
 #: ../client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
-msgstr "Gilak"
+msgstr "Gila"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
@@ -1761,7 +1761,7 @@ msgstr "Pelindung: %s"
 #. configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:93
 msgid "Save sandbox configuration"
-msgstr "Simpan perubahan sandbox"
+msgstr "Simpan perubahan mode kustom"
 
 #. Shown in a button. That button is used to save a configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:97
