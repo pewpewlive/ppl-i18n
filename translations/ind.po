@@ -23,13 +23,13 @@ msgstr "Anjay"
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:335
 msgid "Ow"
-msgstr ""
+msgstr "Aduh"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:338
 msgid "Ugh"
-msgstr ""
+msgstr "Duh"
 
 #: ../client/application/game/game.cpp:166
 msgid "Quick pause"
@@ -230,7 +230,7 @@ msgstr "Mythic"
 #. Describes the rarity level of items. Rarity level of 6.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:333
 msgid "Transcendent"
-msgstr ""
+msgstr "Tingkat Dewa"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:27
@@ -255,12 +255,12 @@ msgstr "Gada"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:35
 msgid "Laser"
-msgstr ""
+msgstr "Laser"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:37
 msgid "Joystick"
-msgstr ""
+msgstr "Pengendali"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:39
@@ -631,7 +631,7 @@ msgstr "Statistik"
 #. stars and medals shown are *not* specific to an era.
 #: ../client/application/game/ui/screens/screen_career.cpp:59
 msgid "All time stars and medals"
-msgstr ""
+msgstr "Semua bintang dan medali"
 
 #: ../client/application/game/ui/screens/screen_career.cpp:64
 msgid "Global leaderboards"
@@ -716,7 +716,7 @@ msgstr "horisontal"
 #. The name of setting that enables grid-like scanlines.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:138
 msgid "grid"
-msgstr ""
+msgstr "grid"
 
 #. The name for the setting category for choosing the scalines type.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:140
@@ -726,7 +726,7 @@ msgstr "Garis Layar"
 #. The name for the setting category for choosing the chromatic aberration.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:146
 msgid "Chromatic aberration"
-msgstr ""
+msgstr "penyimpangan kromatik"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
@@ -738,7 +738,7 @@ msgstr "Lekukan Layar"
 #. vignette effect.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:164
 msgid "Vignette"
-msgstr ""
+msgstr "skema"
 
 #. The color "black"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
@@ -1153,19 +1153,19 @@ msgstr "Untuk menyelesaikan mode Deviations kau harus mengenal level resmi"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:210
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "kau bisa memainkan mode deviations dalam 3 tingkat kesulitan"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:211
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "Awas! #ffff00ffsulit#ffffffff benar benar sulit, dan #ff0000ffgila#ffffffff benar benar gila"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "untuk setiap devitations yang diselesaikan kamu mendapatkan XP"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "%1$s XP untuk mode normal, %2$s XP di mode sulit, %3$s XP di mode gila"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "The sandbox is the place to train and experiment under different conditions."
