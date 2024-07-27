@@ -1141,7 +1141,7 @@ msgstr "Tis be that fast-do booty is difficult to obtain than common golds"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr "The bounty is %1$s XP per score booty"
+msgstr "The bounty is %1$s XP per score booty, and %2$s XP per shiprace booty"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:208
 msgid "The world contains many deviations."
