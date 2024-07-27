@@ -1675,34 +1675,34 @@ msgstr "Gagal masuk!"
 #. Describes the lowest difficutly setting (1/3)
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. Describes the mid difficulty setting (2/3)
 #: ../client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
-msgstr ""
+msgstr "Sulit"
 
 #. Describes the highest difficutly setting (3/3)
 #: ../client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
-msgstr ""
+msgstr "Gilak"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
 #. "Era 2 medals and stars"
 #: ../client/application/game/ui/views/account_view.cpp:363
 msgid "Era %s medals and stars"
-msgstr ""
+msgstr "Medali dan bintang era %s"
 
 #. Error shown when downloading some piece of data failed.
 #: ../client/application/game/ui/views/account_view.cpp:506
 msgid "Download error"
-msgstr ""
+msgstr "Download gagal"
 
 #. Shown when the downloading of some piece of data is in progress.
 #: ../client/application/game/ui/views/account_view.cpp:508
 msgid "Downloading..."
-msgstr ""
+msgstr "Mendownload..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
@@ -1737,17 +1737,17 @@ msgstr "Tanggal bergabung: %s"
 #. Shown in the button that allows users to sort by date
 #: ../client/application/game/ui/views/community_level_selector.cpp:137
 msgid "Date"
-msgstr ""
+msgstr "Tanggal"
 
 #. Shown in the button that allows users to sort by stars
 #: ../client/application/game/ui/views/community_level_selector.cpp:141
 msgid "Stars"
-msgstr ""
+msgstr "Bintang"
 
 #. Shown in the button that allows users to sort by difficutly
 #: ../client/application/game/ui/views/community_level_selector.cpp:145
 msgid "Difficulty"
-msgstr ""
+msgstr "Tingkat Kesulitan"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:329
 msgid "IN REVIEW"
@@ -1761,42 +1761,42 @@ msgstr "Pelindung: %s"
 #. configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:93
 msgid "Save sandbox configuration"
-msgstr ""
+msgstr "Simpan perubahan sandbox"
 
 #. Shown in a button. That button is used to save a configuration.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:97
 msgid "Save"
-msgstr ""
+msgstr "Simpan"
 
 #. Shown in a notification displayed when a configuration is saved.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:108
 msgid "Configuration saved"
-msgstr ""
+msgstr "Perubahan disimpan"
 
 #. Messsage shown in the screen that asks to
 #. enter the name of the sandbox configuration
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:134
 msgid "Enter configuration name"
-msgstr ""
+msgstr "Masukan nama perubahan"
 
 #. Shown in the title of the screen where you select a Sandbox
 #. configuration to load.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:166
 msgid "Load sandbox configuration"
-msgstr ""
+msgstr "Muat perubahan sandbox"
 
 #. Shown in a notification when an unnamed sandbox configuration is
 #. loaded.
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:196
 msgid "loaded sandbox configuration"
-msgstr ""
+msgstr "Perubahan sandbox dimuat"
 
 #. Shown in a notification when a configuration is loaded.
 #. %s is replaced by the name of the configuration, for example:
 #. "loaded <my awesome config>"
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:201
 msgid "loaded <%s>"
-msgstr ""
+msgstr "Dimuat <%s>"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
@@ -1805,7 +1805,7 @@ msgstr "%sMenunggu pemain lain%s"
 #. The label shown in the button used to enter the World.
 #: ../client/application/game/ui/views/world_selector.cpp:176
 msgid "Enter World"
-msgstr ""
+msgstr "Masuk Dunia"
 
 #: ../client/application/ui/keyboard_view.cpp:108
 msgid "ok"
@@ -1859,42 +1859,42 @@ msgstr "Biru Tua"
 #. The color "yellow"
 #: ../client/application/ui/ui_skin.cpp:64
 msgid "Yellow"
-msgstr ""
+msgstr "Kuning"
 
 #. The UI color "frosted green"
 #: ../client/application/ui/ui_skin.cpp:67
 msgid "Frosted Green"
-msgstr ""
+msgstr "Hijau Beku"
 
 #. The UI color "frosted red"
 #: ../client/application/ui/ui_skin.cpp:70
 msgid "Frosted Red"
-msgstr ""
+msgstr "Merah Beku"
 
 #. The UI color "frosted blue"
 #: ../client/application/ui/ui_skin.cpp:73
 msgid "Frosted Blue"
-msgstr ""
+msgstr "Biru Beki"
 
 #. The UI color "frosted yellow"
 #: ../client/application/ui/ui_skin.cpp:76
 msgid "Frosted Yellow"
-msgstr ""
+msgstr "Kuning Beku"
 
 #. The UI color "frosted pink"
 #: ../client/application/ui/ui_skin.cpp:79
 msgid "Frosted Pink"
-msgstr ""
+msgstr "Pink Beku"
 
 #. The UI color "frosted teal"
 #: ../client/application/ui/ui_skin.cpp:82
 msgid "Frosted Teal"
-msgstr ""
+msgstr "Teal Beku"
 
 #. The UI color "frosted gray"
 #: ../client/application/ui/ui_skin.cpp:85
 msgid "Frosted Gray"
-msgstr ""
+msgstr "Abu-Abu Beku"
 
 #. Shown in a notification when a new version of the game is
 #. available.
