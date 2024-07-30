@@ -5,7 +5,7 @@
 #. "In Eskiv, score 10000 or more"
 #: ../client/application/account/achievements_description.cpp:17
 msgid "In %1$s, score %2$s or more."
-msgstr ""
+msgstr "di %1$s, skor bisa %2$s atau lebih"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
