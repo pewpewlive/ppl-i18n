@@ -189,7 +189,7 @@ msgstr "New richer booty! %s ⇨ %s"
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: ../client/application/game/player_data/player_data_manager.cpp:56
 msgid "Improved speed run! %s ⇨ %s"
-msgstr ""
+msgstr "Speedup ourboat yeah! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
@@ -743,22 +743,22 @@ msgstr ""
 #. The color "black"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
 msgid "Black"
-msgstr ""
+msgstr "Our flag"
 
 #. The color "blue"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Blue"
-msgstr ""
+msgstr "Sea color"
 
 #. The color "teal"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:180
 msgid "Teal"
-msgstr ""
+msgstr "sky"
 
 #. The color "green"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
 msgid "Green"
-msgstr ""
+msgstr "Island color"
 
 #. The color "pink"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:184
@@ -891,7 +891,7 @@ msgstr "Moving pictures when making this"
 #. items.
 #: ../client/application/game/ui/screens/screen_inventory.cpp:85
 msgid "All"
-msgstr ""
+msgstr "All stuff"
 
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
