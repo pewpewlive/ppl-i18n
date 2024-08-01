@@ -117,12 +117,12 @@ msgstr "Tembakan yang sebenarnya"
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:218
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "Skill menembak yang bagus datang dengan skill menghindar yang bagus"
 
 #. Short description of the "partitioner" game mode
 #: ../client/application/game/levels/game_levels.cpp:235
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "laso barang-barang untuk membuat mereka menghilang"
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:253
