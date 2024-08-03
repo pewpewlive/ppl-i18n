@@ -205,22 +205,22 @@ msgstr "Trash"
 #. Describes the rarity level of items. Rarity level of 1.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:323
 msgid "Uncommon"
-msgstr ""
+msgstr "Not bad"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
-msgstr ""
+msgstr "Can used"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:327
 msgid "Epic"
-msgstr ""
+msgstr "Good"
 
 #. Describes the rarity level of items. Rarity level of 4.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:329
 msgid "Legendary"
-msgstr ""
+msgstr "Nice"
 
 #. Describes the rarity level of items. Rarity level of 5.
 #: ../client/application/game/player_data/player_unlocked_items.cpp:331
@@ -245,12 +245,12 @@ msgstr "Tail"
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:31
 msgid "Bullet"
-msgstr ""
+msgstr "Guns"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:33
 msgid "Mace"
-msgstr ""
+msgstr "Hammer"
 
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:35
@@ -265,7 +265,7 @@ msgstr ""
 #. Describes a type of unlockable item
 #: ../client/application/game/player_data/player_unlocked_items.h:39
 msgid "UI Color"
-msgstr ""
+msgstr "Paint"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -682,7 +682,7 @@ msgstr "Elite"
 #. The name of the graphics configuration that enables all the graphical effects.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:55
 msgid "Highest"
-msgstr ""
+msgstr "Master"
 
 #. Title of the screen where graphics are configured.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:93
@@ -721,7 +721,7 @@ msgstr "crossy lines"
 #. The name for the setting category for choosing the scalines type.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "Scanlines"
-msgstr ""
+msgstr "Monitor Lines"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:146
@@ -758,7 +758,7 @@ msgstr ""
 #. The color "green"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
 msgid "Green"
-msgstr ""
+msgstr "Blue And Yellow"
 
 #. The color "pink"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:184
@@ -873,7 +873,7 @@ msgstr "peeps who made game"
 #. library that are used in the game.
 #: ../client/application/game/ui/screens/screen_informations.cpp:116
 msgid "Licenses"
-msgstr ""
+msgstr "Allowed cards"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to discord server
@@ -1111,12 +1111,12 @@ msgstr "Main-Squeeze"
 #. The title of the screen where you select what to play in the World.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:43
 msgid "World"
-msgstr ""
+msgstr "Universe"
 
 #. The title of the screen where you select what sandbox to play.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:45
 msgid "Sandbox"
-msgstr ""
+msgstr "Playground"
 
 #. The title of the screen where you select community levels.
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:47
@@ -1579,11 +1579,11 @@ msgstr "@everyone"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:143
 msgid "high scores"
-msgstr ""
+msgstr "Master Scores"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:144
 msgid "speed runs"
-msgstr ""
+msgstr "Run for Score"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1742,7 +1742,7 @@ msgstr ""
 #. Shown in the button that allows users to sort by stars
 #: ../client/application/game/ui/views/community_level_selector.cpp:141
 msgid "Stars"
-msgstr ""
+msgstr "shiny"
 
 #. Shown in the button that allows users to sort by difficutly
 #: ../client/application/game/ui/views/community_level_selector.cpp:145
@@ -1805,7 +1805,7 @@ msgstr "%sWaiting for other gamers%s"
 #. The label shown in the button used to enter the World.
 #: ../client/application/game/ui/views/world_selector.cpp:176
 msgid "Enter World"
-msgstr ""
+msgstr "Go to Universe"
 
 #: ../client/application/ui/keyboard_view.cpp:108
 msgid "ok"
