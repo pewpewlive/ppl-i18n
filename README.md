@@ -39,7 +39,7 @@ the feasibility.
 * 🇨🇳 [Simplified Chinese](/translations/chs.po) (72% complete; 115 remaining)
 * 🇹🇷 [Turkish](/translations/tur.po) (72% complete; 114 remaining)
 * 🇵🇭 [Tagalog](/translations/tgl.po) (73% complete; 109 remaining)
-* 🏴‍☠️ [Pirate Speak](/translations/pirate.po) (76% complete; 97 remaining)
+* 🏴‍☠️ [Pirate Speak](/translations/pirate.po) (78% complete; 90 remaining)
 * 🐸 [Meme-nglish](/translations/meme.po) (81% complete; 74 remaining)
 * 🇭🇷 [Croatian](/translations/hrv.po) (92% complete; 30 remaining)
 * 🇭🇺 [Hungarian](/translations/hun.po) (92% complete; 30 remaining)
@@ -56,9 +56,9 @@ the feasibility.
 * 🇪🇸 [Spanish](/translations/spa.po) (98% complete; 8 remaining)
 * 🇺🇦 [Ukrainian](/translations/ukr.po) (98% complete; 8 remaining)
 * 🇬🇪 [Georgian](/translations/kat.po) (98% complete; 8 remaining)
-* 🇮🇩 [Indonesian](/translations/ind.po) (99% complete; 3 remaining)
+* 🇮🇩 [Indonesian](/translations/ind.po) (100% complete! 🎉)
 * 🇱🇹 [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * 🇺🇿 [Uzbek](/translations/uzb.po) (100% complete! 🎉)
 * 💻 [Code](/translations/code.po) (100% complete! 🎉)
 
-> Report generated on Jul 29 2024 01:25:01 UTC
+> Report generated on Aug 05 2024 01:25:07 UTC
