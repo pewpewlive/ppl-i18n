@@ -52,7 +52,7 @@ msgstr "The witch don't tell the truth"
 #. Short description of the "hexagon" game mode
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Tis not stolen from \"Super Hexagon\"
+msgstr "Tis not stolen from \"Super Hexagon\""
 
 #. Short description of the "hexagon" game mode
 #: ../client/application/game/levels/game_levels.cpp:120
@@ -92,7 +92,7 @@ msgstr "Stay alive for a half minute, that's it"
 #. Short description of the "fury" game mode
 #: ../client/application/game/levels/game_levels.cpp:167
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\This level is a joke right?\ - Landlubbers"
+msgstr "\"This level is a joke right?\" - Landlubbers"
 
 #. Short description of the "waves" game mode
 #: ../client/application/game/levels/game_levels.cpp:186
@@ -285,7 +285,7 @@ msgstr "Ye'r aim: %s"
 #. for example "Total score: 43423"
 #: ../client/application/game/state/game_state.cpp:516
 msgid "Total score: %s"
-msgstr "Total loot: %s""
+msgstr "Total loot: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
