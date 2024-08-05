@@ -9,25 +9,25 @@ msgstr "%1$s ішінде %2$s немесе одан көп ұпай жинаң�
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:329
+#: ../client/application/game/entities/player/ship.cpp:333
 msgid "Ouch"
 msgstr "Ой"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:332
+#: ../client/application/game/entities/player/ship.cpp:336
 msgid "Yikes"
 msgstr "Иә"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:335
+#: ../client/application/game/entities/player/ship.cpp:339
 msgid "Ow"
 msgstr "Ой"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:338
+#: ../client/application/game/entities/player/ship.cpp:342
 msgid "Ugh"
 msgstr "Уф"
 
@@ -40,92 +40,92 @@ msgid "Quick pause %s"
 msgstr "Қысқа үзіліс %s"
 
 #. Short description of the "asteroids" game mode
-#: ../client/application/game/levels/game_levels.cpp:91
+#: ../client/application/game/levels/game_levels.cpp:97
 msgid "Euclidean space is overrated"
 msgstr "Евклидтік кеңістік қайта қарастырылды"
 
 #. Short description of the "hexagon" game mode
-#: ../client/application/game/levels/game_levels.cpp:109
+#: ../client/application/game/levels/game_levels.cpp:116
 msgid "Never trust a six-sided polygon"
 msgstr "Алтыбұрышқа сенбеңіз"
 
 #. Short description of the "hexagon" game mode
-#: ../client/application/game/levels/game_levels.cpp:111
+#: ../client/application/game/levels/game_levels.cpp:118
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "\"Super Hexagon\"қа қосылмаған"
 
 #. Short description of the "hexagon" game mode
-#: ../client/application/game/levels/game_levels.cpp:113
+#: ../client/application/game/levels/game_levels.cpp:120
 msgid "Choose your own difficulty"
 msgstr "Қиындығыңызды реттеңіз"
 
 #. Short description of the "eskiv" game mode
-#: ../client/application/game/levels/game_levels.cpp:130
+#: ../client/application/game/levels/game_levels.cpp:138
 msgid "Dodge everything and you'll be OK"
 msgstr "Бәрінен бұрыл, сонда бәрі жақсы болады"
 
 #. Short description of the "eskiv" game mode
-#: ../client/application/game/levels/game_levels.cpp:132
+#: ../client/application/game/levels/game_levels.cpp:140
 msgid "aka Dodge This"
 msgstr "Dodge This деп те белгілі"
 
 #. Short description of the "eskiv" game mode
-#: ../client/application/game/levels/game_levels.cpp:134
+#: ../client/application/game/levels/game_levels.cpp:142
 msgid "Green good. Red bad."
 msgstr "Жасыл - жақсы, қызыл - жаман."
 
 #. Short description of the "fury" game mode
-#: ../client/application/game/levels/game_levels.cpp:152
+#: ../client/application/game/levels/game_levels.cpp:161
 msgid "Just 32 seconds of skills"
 msgstr "Жарты минутта дағдылар"
 
 #. Short description of the "fury" game mode
-#: ../client/application/game/levels/game_levels.cpp:154
+#: ../client/application/game/levels/game_levels.cpp:163
 msgid "My favorite mode"
 msgstr "Маған ұнайтын режим"
 
 #. Short description of the "fury" game mode
-#: ../client/application/game/levels/game_levels.cpp:156
+#: ../client/application/game/levels/game_levels.cpp:165
 msgid "Survive 32 seconds with this simple trick"
 msgstr "Бұл режимді жеңудің құпиясы ..."
 
 #. Short description of the "fury" game mode
-#: ../client/application/game/levels/game_levels.cpp:158
+#: ../client/application/game/levels/game_levels.cpp:167
 msgid "\"This level is a joke right?\" - a tester"
 msgstr "\"Әзіл ғой, солай ма?\" - сынаушы"
 
 #. Short description of the "waves" game mode
-#: ../client/application/game/levels/game_levels.cpp:176
+#: ../client/application/game/levels/game_levels.cpp:186
 msgid "RIP GW3:Dimensions"
 msgstr "RIP GW3:Dimensions"
 
 #. Short description of the "waves" game mode
-#: ../client/application/game/levels/game_levels.cpp:178
+#: ../client/application/game/levels/game_levels.cpp:188
 msgid "Previously known as Assault"
 msgstr "Бұрын Assault ретінде белгілі"
 
 #. Short description of the "ceasefire" game mode
-#: ../client/application/game/levels/game_levels.cpp:199
+#: ../client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
 msgstr ""
 
 #. Short description of the "pandemonium" game mode
-#: ../client/application/game/levels/game_levels.cpp:216
+#: ../client/application/game/levels/game_levels.cpp:224
 msgid "True bullet hell"
 msgstr "Нағыз оқ тозақ"
 
 #. Short description of the "pandemonium" game mode
-#: ../client/application/game/levels/game_levels.cpp:218
+#: ../client/application/game/levels/game_levels.cpp:226
 msgid "With great firepower comes great dodging skills"
 msgstr "Үлкен атыс күші үлкен қашу дағдыларын береді"
 
 #. Short description of the "partitioner" game mode
-#: ../client/application/game/levels/game_levels.cpp:235
+#: ../client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
 msgstr ""
 
 #. Short description of the symbiosis game mode
-#: ../client/application/game/levels/game_levels.cpp:253
+#: ../client/application/game/levels/game_levels.cpp:262
 msgid "2 brain hemispheres, 2 hands, 2 ships."
 msgstr "2 мый жарым шарлары, 2 қол, 2 кеме."
 
@@ -271,31 +271,31 @@ msgstr "UI түсі"
 msgid "%s left the game"
 msgstr "%s ойыннан шықты"
 
-#: ../client/application/game/state/game_state.cpp:498
+#: ../client/application/game/state/game_state.cpp:500
 msgid "N/A"
 msgstr "Жоқ"
 
 #. Shown when the game is displaying stats. Concerns the player's shooting
 #. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
-#: ../client/application/game/state/game_state.cpp:511
+#: ../client/application/game/state/game_state.cpp:513
 msgid "Accuracy: %s"
 msgstr "Дәлдік: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Total score: 43423"
-#: ../client/application/game/state/game_state.cpp:514
+#: ../client/application/game/state/game_state.cpp:516
 msgid "Total score: %s"
 msgstr "Жалпы нәтиже: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
-#: ../client/application/game/state/game_state.cpp:518
+#: ../client/application/game/state/game_state.cpp:520
 msgid "Pointonium: %s"
 msgstr "Пойнтонли: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
-#: ../client/application/game/state/game_state.cpp:522
+#: ../client/application/game/state/game_state.cpp:524
 msgid "Duration: %s"
 msgstr "Өткізілген уақыт: %s"
 
@@ -697,97 +697,105 @@ msgstr "Өшірулі"
 msgid "on"
 msgstr "Қосулы"
 
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:114
+msgid "minimal"
+msgstr ""
+
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:114
+msgid "advanced"
+msgstr ""
+
 #. The name of the setting category for choosing the bloom (=glow) intensity.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:119
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:121
 msgid "Bloom intensity"
 msgstr "Гүлдену қарқындылығы"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:128
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:130
 msgid "Lens dirt"
 msgstr "Линзаның ластануы"
 
 #. The name of the setting that enables horizontal scanlines.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:136
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:138
 msgid "horizontal"
 msgstr "көлденең"
 
 #. The name of setting that enables grid-like scanlines.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:138
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "grid"
 msgstr "тор"
 
 #. The name for the setting category for choosing the scalines type.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:140
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:142
 msgid "Scanlines"
 msgstr "Сканерлеу сызықтары"
 
 #. The name for the setting category for choosing the chromatic aberration.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:146
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:148
 msgid "Chromatic aberration"
 msgstr "Хроматикалық аберрация"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:155
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:157
 msgid "Curved monitor"
 msgstr "Қисық монитор"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:164
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:166
 msgid "Vignette"
 msgstr "Виньетка"
 
 #. The color "black"
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:176
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Black"
 msgstr ""
 
 #. The color "blue"
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:178
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:180
 msgid "Blue"
 msgstr ""
 
 #. The color "teal"
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:180
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
 msgid "Teal"
 msgstr ""
 
 #. The color "green"
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:184
 msgid "Green"
 msgstr ""
 
 #. The color "pink"
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:184
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:186
 msgid "Pink"
 msgstr "Қызғылт"
 
 #. The name of a setting category for choosing the background hue of the
 #. renderer.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:189
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:191
 msgid "Background hue"
 msgstr ""
 
 #. Name of the setting for when the game is shown in a window.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:203
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:205
 msgid "Windowed"
 msgstr "Айна"
 
 #. Name of the setting for when the game is shown in fullscreen.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:205
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:207
 msgid "Fullscreen"
 msgstr "Толық экран"
 
 #. Name of the setting for when the game is shown in a borderless window.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:207
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:209
 msgid "Borderless"
 msgstr "Шексіз"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:218
+#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:220
 msgid "Screen type"
 msgstr "Экран түрі"
 
@@ -847,11 +855,11 @@ msgstr "Басқару параметрлері"
 msgid "Swap"
 msgstr "Айырбастау"
 
-#: ../client/application/game/ui/screens/screen_download_level.cpp:34
+#: ../client/application/game/ui/screens/screen_download_level.cpp:45
 msgid "Downloading level..."
 msgstr "Жүктелуде..."
 
-#: ../client/application/game/ui/screens/screen_download_level.cpp:62
+#: ../client/application/game/ui/screens/screen_download_level.cpp:73
 msgid "Failed to download level."
 msgstr "Кезең жүктелмеді."
 
@@ -889,14 +897,14 @@ msgstr "You Tube"
 
 #. Shown in the tab strip of the inventory. Used for showing all the unlocked
 #. items.
-#: ../client/application/game/ui/screens/screen_inventory.cpp:85
+#: ../client/application/game/ui/screens/screen_inventory.cpp:88
 msgid "All"
 msgstr "Барлық"
 
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
 #. bullets, the joysticks, the ui color, etc...
-#: ../client/application/game/ui/screens/screen_inventory.cpp:178
+#: ../client/application/game/ui/screens/screen_inventory.cpp:219
 msgid "Inventory"
 msgstr "Түгендеу"
 
@@ -948,7 +956,7 @@ msgstr "Бөлмені жабыңыз"
 msgid "Single Player"
 msgstr "Бір адам ойыны"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:52
+#: ../client/application/game/ui/screens/screen_main_menu.cpp:51
 msgid "Play"
 msgstr "Ойнау"
 
@@ -1690,30 +1698,30 @@ msgstr ""
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
 #. "Era 2 medals and stars"
-#: ../client/application/game/ui/views/account_view.cpp:363
+#: ../client/application/game/ui/views/account_view.cpp:365
 msgid "Era %s medals and stars"
 msgstr "%s дәуірінің медальдары мен жұлдыздары"
 
 #. Error shown when downloading some piece of data failed.
-#: ../client/application/game/ui/views/account_view.cpp:506
+#: ../client/application/game/ui/views/account_view.cpp:519
 msgid "Download error"
 msgstr "Жүктеп алу қатесі"
 
 #. Shown when the downloading of some piece of data is in progress.
-#: ../client/application/game/ui/views/account_view.cpp:508
+#: ../client/application/game/ui/views/account_view.cpp:521
 msgid "Downloading..."
 msgstr "Жүктеп салу..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
-#: ../client/application/game/ui/views/account_view.cpp:86
+#: ../client/application/game/ui/views/account_view.cpp:88
 msgctxt "account_view"
 msgid "Levels"
 msgstr "Деңгейлер"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
-#: ../client/application/game/ui/views/account_view.cpp:89
+#: ../client/application/game/ui/views/account_view.cpp:91
 msgctxt "account_view"
 msgid "Scores"
 msgstr "Жазбалар"
@@ -1721,7 +1729,7 @@ msgstr "Жазбалар"
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
 #. to their youtube channel, etc...
-#: ../client/application/game/ui/views/account_view.cpp:93
+#: ../client/application/game/ui/views/account_view.cpp:95
 msgctxt "account_view"
 msgid "General"
 msgstr "Негізгі"
@@ -1729,27 +1737,12 @@ msgstr "Негізгі"
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
 #. "Join date: 2021-08-25"
-#: ../client/application/game/ui/views/account_view.cpp:325
+#: ../client/application/game/ui/views/account_view.cpp:327
 msgctxt "account_view"
 msgid "Join date: %s"
 msgstr "Тіркелген: %s"
 
-#. Shown in the button that allows users to sort by date
-#: ../client/application/game/ui/views/community_level_selector.cpp:137
-msgid "Date"
-msgstr "Күн"
-
-#. Shown in the button that allows users to sort by stars
-#: ../client/application/game/ui/views/community_level_selector.cpp:141
-msgid "Stars"
-msgstr "Жұлдыздар"
-
-#. Shown in the button that allows users to sort by difficutly
-#: ../client/application/game/ui/views/community_level_selector.cpp:145
-msgid "Difficulty"
-msgstr "Қиындық"
-
-#: ../client/application/game/ui/views/community_level_selector.cpp:329
+#: ../client/application/game/ui/views/community_level_selector.cpp:289
 msgid "IN REVIEW"
 msgstr "ШОЛДА"
 
@@ -1797,6 +1790,21 @@ msgstr "жүктелген құм жәшігінің конфигурацияс�
 #: ../client/application/game/ui/views/sandbox_configurator.cpp:201
 msgid "loaded <%s>"
 msgstr "жүктелген <%s>"
+
+#. Shown in the button that allows users to sort by date
+#: ../client/application/game/ui/views/sort_button.cpp:31
+msgid "Date"
+msgstr "Күн"
+
+#. Shown in the button that allows users to sort by stars
+#: ../client/application/game/ui/views/sort_button.cpp:35
+msgid "Stars"
+msgstr "Жұлдыздар"
+
+#. Shown in the button that allows users to sort by difficutly
+#: ../client/application/game/ui/views/sort_button.cpp:39
+msgid "Difficulty"
+msgstr "Қиындық"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
