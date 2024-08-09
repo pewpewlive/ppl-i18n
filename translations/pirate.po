@@ -782,22 +782,22 @@ msgstr "The sky's light"
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:205
 msgid "Windowed"
-msgstr ""
+msgstr "Deck window"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:207
 msgid "Fullscreen"
-msgstr ""
+msgstr "Fullmap"
 
 #. Name of the setting for when the game is shown in a borderless window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:209
 msgid "Borderless"
-msgstr ""
+msgstr "Deckless"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:220
 msgid "Screen type"
-msgstr ""
+msgstr "Map type"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -1365,42 +1365,42 @@ msgstr "avast ye!"
 #. item it is. Ship, trail, bullet, etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:92
 msgid "Type"
-msgstr ""
+msgstr "Taipe argh"
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
 #. For example "alpha', "rival", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:96
 msgid "Name"
-msgstr ""
+msgstr "Called"
 
 #. Shown in the descripting of the item. "rarity" refers to what the
 #. rarity of the item
 #. is. For example, "common", "rare", etc...
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:100
 msgid "Rarity"
-msgstr ""
+msgstr "Treasure tier"
 
 #. Title of the screen that shows the UI to unlock items
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:236
 msgid "Unlock items"
-msgstr ""
+msgstr "Get treasures"
 
 #. The label of a button used for unlocking a single item.
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:252
 msgid "Unlock item"
-msgstr ""
+msgstr "get treasure"
 
 #. Shown in a string when no items can be unlocked
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:272
 msgid "No items to unlock"
-msgstr ""
+msgstr "No treasure ;("
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
 #: ../client/application/game/ui/screens/screen_unlock_items.cpp:277
 msgid "Items to unlock: %s"
-msgstr ""
+msgstr "Treasure to get: %s"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
 msgid "Upload scores"
@@ -1425,7 +1425,7 @@ msgstr "Keeping your sailtime in %s."
 #. Shown when a user disables comments on their profile and or levels.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
 msgid "Comments are disabled."
-msgstr ""
+msgstr "no protesting"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:203
 msgid "Are you sure you want to report this comment?"
@@ -1587,11 +1587,11 @@ msgstr "7 Seas"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:143
 msgid "high scores"
-msgstr ""
+msgstr "Ship charism"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:144
 msgid "speed runs"
-msgstr ""
+msgstr "Ship race"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1621,7 +1621,7 @@ msgstr "Monkey tester"
 #. version number. For example: "version 2"
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
 msgid "version %s"
-msgstr ""
+msgstr "Generation: %s"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
@@ -1632,13 +1632,13 @@ msgstr ""
 #. Used if the level does not contain any information.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
 msgid "No information available"
-msgstr ""
+msgstr "No detail for our"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
 #: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
 msgid "Gold medals percentage: %s"
-msgstr ""
+msgstr "Doubblons percentage: %s"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:48
 msgid "Failed to read replay."
@@ -1683,17 +1683,17 @@ msgstr "We aren't doing it"
 #. Describes the lowest difficutly setting (1/3)
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
-msgstr ""
+msgstr "1 sea!"
 
 #. Describes the mid difficulty setting (2/3)
 #: ../client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
-msgstr ""
+msgstr "3 sea!!"
 
 #. Describes the highest difficutly setting (3/3)
 #: ../client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
-msgstr ""
+msgstr "7 sea!!!"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
