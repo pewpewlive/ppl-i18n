@@ -107,7 +107,7 @@ msgstr "Anteriormente conhecido como Assalto"
 #. Short description of the "ceasefire" game mode
 #: ../client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Evolução do Pacifismo"
 
 #. Short description of the "pandemonium" game mode
 #: ../client/application/game/levels/game_levels.cpp:224
@@ -122,7 +122,7 @@ msgstr "Com grande poder de fogo vem grandes habilidades de desvio"
 #. Short description of the "partitioner" game mode
 #: ../client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "Enlace as coisas para fazê-las desaparecerem"
 
 #. Short description of the symbiosis game mode
 #: ../client/application/game/levels/game_levels.cpp:262
@@ -699,11 +699,11 @@ msgstr "on"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "mínimo"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "avançado"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:121
@@ -751,22 +751,22 @@ msgstr "Vinheta"
 #. The color "black"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Black"
-msgstr ""
+msgstr "Preto"
 
 #. The color "blue"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:180
 msgid "Blue"
-msgstr ""
+msgstr "Azul"
 
 #. The color "teal"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
 msgid "Teal"
-msgstr ""
+msgstr "Cerceta"
 
 #. The color "green"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:184
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 #. The color "pink"
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:186
@@ -777,7 +777,7 @@ msgstr "Rosa"
 #. renderer.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:191
 msgid "Background hue"
-msgstr ""
+msgstr "Matiz de fundo"
 
 #. Name of the setting for when the game is shown in a window.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:205
@@ -833,7 +833,7 @@ msgstr "Reinício rápido: %s"
 #. example: "Slow Down: Shift".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "Desacelerar: %s"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -1133,71 +1133,71 @@ msgstr "Comunidade"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels allow you to get score medals:"
-msgstr ""
+msgstr "Níveis oficiais permitem que você obtenha medalhas de pontuação:"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:200
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "#ff8000ffBronze#ffffffff, #ffffffaaPrata#ffffffff, e #ffff00ffOuro#ffffffff"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "Se você obter uma pontuação de uma medalha de ouro rápido o suficiente, você ganhará medalhas de speedrun."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "Isso significa que medalhas de speedrun são muito mais difíceis do que uma medalha de ouro regular."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "A recompensa é %1$s XP por medalha de pontuação, e %2$s XP por medalhas de speedrun"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:208
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "O mundo contém vários desvios."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "Para completar desvios você deve ser familiar com os níveis oficiais."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:210
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "Você pode jogar os desvios em 3 níveis de dificuldade."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:211
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "Cuidado! #ffff00ffdifícil##ffffffff é muito difícil, e #ff0000ffdelirante#ffffffff é insano."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "Pra cada desvio completo você ganha XP."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "%1$s XP no normal, %2$s XP no difícil, %3$s XP no delirante."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr ""
+msgstr "A sandbox é o lugar para treinar e ganhar experiência sob diferentes condições."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:220
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr ""
+msgstr "Configure o nível, a nave, os bônus, e os inimigos!"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:221
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr ""
+msgstr "A sandbox aínda está em desenvolvimento, espere mudanças no futuro."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:226
 msgid "Official levels information"
-msgstr ""
+msgstr "Informações de níveis oficiais"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:235
 msgid "World information"
-msgstr ""
+msgstr "Informação do mundo"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:240
 msgid "Sandbox information"
-msgstr ""
+msgstr "Informação da sandbox"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1587,11 +1587,11 @@ msgstr "mundo"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:143
 msgid "high scores"
-msgstr ""
+msgstr "pontuação máxima"
 
 #: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:144
 msgid "speed runs"
-msgstr ""
+msgstr "speed runs"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1683,17 +1683,17 @@ msgstr "Falha ao entrar"
 #. Describes the lowest difficutly setting (1/3)
 #: ../client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. Describes the mid difficulty setting (2/3)
 #: ../client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
-msgstr ""
+msgstr "Difícil"
 
 #. Describes the highest difficutly setting (3/3)
 #: ../client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
-msgstr ""
+msgstr "Delirante"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
