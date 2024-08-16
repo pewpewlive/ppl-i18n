@@ -33,6 +33,15 @@
     ]
   },
   {
+    "english_name": "Estonian",
+    "code": "est",
+    "emoji_flag": "🇪🇪",
+    "localized_name": "Eesti",
+    "translators": [
+      
+    ]
+  },
+  {
     "english_name": "German",
     "code": "deu",
     "emoji_flag": "🇩🇪",
