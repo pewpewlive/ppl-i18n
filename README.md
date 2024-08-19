@@ -28,6 +28,7 @@ the feasibility.
 
 ## Status
 
+* 🇪🇪 [Estonian](/translations/est.po) (0% complete; 413 remaining)
 * 🇰🇷 [Korean](/translations/kor.po) (0% complete; 413 remaining)
 * 🇲🇾 [Malay](/translations/msa.po) (0% complete; 413 remaining)
 * 🇹🇭 [Thai](/translations/tha.po) (0% complete; 413 remaining)
@@ -46,7 +47,6 @@ the feasibility.
 * 🇰🇿 [Kazakh](/translations/kaz.po) (92% complete; 32 remaining)
 * 🇵🇱 [Polish](/translations/pol.po) (92% complete; 32 remaining)
 * 🥰 [UwU](/translations/uwu.po) (92% complete; 32 remaining)
-* 🇦🇩 [Catalan](/translations/cat.po) (97% complete; 10 remaining)
 * 🇳🇱 [Dutch](/translations/nld.po) (97% complete; 10 remaining)
 * 🇬🇷 [Greek](/translations/ell.po) (97% complete; 10 remaining)
 * 🇫🇷 [French](/translations/fra.po) (97% complete; 10 remaining)
@@ -55,10 +55,11 @@ the feasibility.
 * 🇬🇪 [Georgian](/translations/kat.po) (97% complete; 10 remaining)
 * 🇮🇩 [Indonesian](/translations/ind.po) (99% complete; 2 remaining)
 * 🇱🇹 [Lithuanian](/translations/lit.po) (99% complete; 2 remaining)
-* 🇺🇿 [Uzbek](/translations/uzb.po) (99% complete; 2 remaining)
 * 💻 [Code](/translations/code.po) (99% complete; 2 remaining)
+* 🇦🇩 [Catalan](/translations/cat.po) (100% complete! 🎉)
 * 🇧🇷 [Portuguese](/translations/por.po) (100% complete! 🎉)
 * 🇷🇺 [Russian](/translations/rus.po) (100% complete! 🎉)
 * 🇹🇷 [Turkish](/translations/tur.po) (100% complete! 🎉)
+* 🇺🇿 [Uzbek](/translations/uzb.po) (100% complete! 🎉)
 
-> Report generated on Aug 12 2024 01:26:13 UTC
+> Report generated on Aug 19 2024 01:25:43 UTC
