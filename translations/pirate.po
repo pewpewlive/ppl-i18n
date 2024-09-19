@@ -499,7 +499,7 @@ msgstr "This magic word?:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Email:"
-msgstr ""
+msgstr "Sea Message"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
 msgid "Confirm email:"
@@ -699,11 +699,11 @@ msgstr "Aye!"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "1 eye"
 
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "clear eye"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: ../client/application/game/ui/screens/screen_configure_graphics.cpp:121
@@ -978,7 +978,7 @@ msgstr "Local battle"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:187
 msgid "Online lobby"
-msgstr ""
+msgstr "Pirates Desk"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:193
 msgid "Ready"
@@ -1231,7 +1231,7 @@ msgstr "Talkin'"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:86
 msgid "UI"
-msgstr ""
+msgstr "Menu"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:112
 msgid "Start tutorial"
@@ -1307,7 +1307,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
-msgstr ""
+msgstr "arghh.. Wait"
 
 #. Shown in the settings UI, next to an "on/off" switch, when the game is
 #. launched from Steam.
@@ -1827,7 +1827,7 @@ msgstr ""
 #. The color "cyan"
 #: ../client/application/ui/ui_skin.cpp:37
 msgid "Cyan"
-msgstr ""
+msgstr "Sea blue"
 
 #. The color "lime"
 #: ../client/application/ui/ui_skin.cpp:40
