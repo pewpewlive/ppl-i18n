@@ -833,7 +833,7 @@ msgstr "წრაფი გადატვირთვა %s"
 #. example: "Slow Down: Shift".
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr "შეანელე"
+msgstr "შეანელე: %s"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
