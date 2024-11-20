@@ -123,7 +123,7 @@ msgstr "\"Цей рівень жарт, так?\" - тестер"
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Еволюція Pacifism-у"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:224
@@ -197,7 +197,7 @@ msgstr "Не вдалося завантажити відкриті предме
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Не вдалося завантажити дані"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -648,7 +648,7 @@ msgstr "Зірки та медалі за весь час"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Рівень %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -658,15 +658,15 @@ msgstr "Мутацій виконано"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Досягнення"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "таблиця лідерів по XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "Усі таблиці лідерів"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -724,11 +724,11 @@ msgstr "вмикн."
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "мінімальні"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "вишукані"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
@@ -776,22 +776,22 @@ msgstr "Віньєтка"
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:186
 msgid "Black"
-msgstr ""
+msgstr "Чорний"
 
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
 msgid "Blue"
-msgstr ""
+msgstr "Синій"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr ""
+msgstr "Блакитний"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
 msgid "Green"
-msgstr ""
+msgstr "Зелений"
 
 #. The color "pink"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:194
@@ -802,7 +802,7 @@ msgstr "Рожевий"
 #. renderer.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:199
 msgid "Background hue"
-msgstr ""
+msgstr "Відтінок тла"
 
 #. Name of the setting for when the game is shown in a window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:213
@@ -858,7 +858,7 @@ msgstr "Швидкий Рестарт: %s"
 #. example: "Slow Down: Shift".
 #: /client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "Сповільнення: %s"
 
 #: /client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -894,15 +894,15 @@ msgstr "Енциклопедія"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr ""
+msgstr "Глобальна стрічка"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
-msgstr ""
+msgstr "Особисті повідомлення"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
-msgstr ""
+msgstr "Без повідомлень"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -947,7 +947,7 @@ msgstr "Інвертар"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Зберегти "
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:110
 msgid "Save"
@@ -963,11 +963,11 @@ msgstr "Введіть назву конфігурації"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:175
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Застосувати конфігурацію корабля"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:236
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "застосовано конфігурацію корабля"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:238
 msgid "loaded <%s>"
@@ -1258,19 +1258,19 @@ msgstr "Пісочниця ще у розробці, тож очікуйте н�
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
-msgstr ""
+msgstr "Рівні спільноти створені спільнотою."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
-msgstr ""
+msgstr "Рівні можуть бути позначені як екпериментальні, підтверджені та обрані. Ви можете завантажити рекорди у рівнях які є підтвердженими або обраними."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Most community levels give out stars."
-msgstr ""
+msgstr "Більшість рівнів спільноти дають зірки."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
-msgstr ""
+msgstr "Нагорода у 300 XP за зірку: якщо ви маєте золоту зірку у рівні, ви отримуєте 900 XP з цього рівня."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
@@ -1278,7 +1278,7 @@ msgstr "Інформація про офіційні рівні"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
-msgstr ""
+msgstr "Інформація про рівні спільноти"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
@@ -1547,7 +1547,7 @@ msgstr "Ви впевнені що хочете видалити цей коме
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:328
 msgid "No comments"
-msgstr ""
+msgstr "Без коментарів"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:347
@@ -1680,7 +1680,7 @@ msgstr "Не вдалося завантажити маніфест"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:87
 msgid "Featured level"
-msgstr ""
+msgstr "Обраний рівень"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:223
 msgid "average score: %s"
@@ -1820,7 +1820,7 @@ msgstr "Дата реєстрації: %s"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Рівень: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
