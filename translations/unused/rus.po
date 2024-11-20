@@ -31,6 +31,12 @@ msgstr "Карьера"
 msgid "Commander"
 msgstr "Командир"
 
+msgid "Confirm email"
+msgstr "Адрес почты"
+
+msgid "Confirm email:"
+msgstr "Подтверждение email:"
+
 msgid "Connect to..."
 msgstr "Подключиться к..."
 
@@ -52,6 +58,9 @@ msgstr "Тёмный Высокий"
 msgid "Directed by %s"
 msgstr "Под руководством %s"
 
+msgid "Emails do not match!"
+msgstr "Адреса не совпадают."
+
 msgid "Error reading manifest"
 msgstr "Ошибка чтения манифеста."
 
@@ -63,6 +72,9 @@ msgstr "Экспериментальные уровни"
 
 msgid "Failed to parse server response"
 msgstr "Не удалось получить ответ от сервера"
+
+msgid "Failed to set up comments"
+msgstr "Не удалось настроить комментарии"
 
 msgid "Game is full"
 msgstr "Нет свободных мест."

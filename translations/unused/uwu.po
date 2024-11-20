@@ -10,6 +10,18 @@ msgstr "Cadet"
 msgid "Commander"
 msgstr "Commander"
 
+msgid "Confirm email"
+msgstr "Confiwm email"
+
+msgid "Confirm email:"
+msgstr "Confiwm email:"
+
+msgid "Emails do not match!"
+msgstr "Emails do not match :o"
+
+msgid "Failed to set up comments"
+msgstr "Failed to set up comments :<"
+
 msgid "High Scores"
 msgstr "High Scowes"
 

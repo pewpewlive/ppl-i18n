@@ -10,6 +10,18 @@ msgstr "Cadet"
 msgid "Commander"
 msgstr "Comandant"
 
+msgid "Confirm email"
+msgstr "Confirmeu l'adreça de correu electrònic"
+
+msgid "Confirm email:"
+msgstr "Confirmeu el correu eletrònic:"
+
+msgid "Emails do not match!"
+msgstr "Les adreces de correu no coincideixen."
+
+msgid "Failed to set up comments"
+msgstr "Els comentaris no s'han pogut carregar."
+
 msgid "High Scores"
 msgstr "Millors puntuacions"
 

@@ -31,6 +31,12 @@ msgstr "Кар'єра"
 msgid "Commander"
 msgstr "Командир"
 
+msgid "Confirm email"
+msgstr "Перевірити пошту"
+
+msgid "Confirm email:"
+msgstr "Перевірити пошту:"
+
 msgid "Creating room"
 msgstr "Створюється кімната"
 
@@ -49,6 +55,9 @@ msgstr "Темне Високе"
 msgid "Directed by %s"
 msgstr "Направлено за %s"
 
+msgid "Emails do not match!"
+msgstr "Пошти не співпадають!"
+
 msgid "Error reading manifest"
 msgstr "Помилка читання маніфесту"
 
@@ -60,6 +69,9 @@ msgstr "Експерементальні рівні"
 
 msgid "Failed to parse server response"
 msgstr "Не вдалося проаналізувати відповідь сервера"
+
+msgid "Failed to set up comments"
+msgstr "Не вдалося відтворити коментарі"
 
 msgid "Game is full"
 msgstr "Гра завантажена на повну"

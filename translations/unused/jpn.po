@@ -16,6 +16,12 @@ msgstr "レベルについて"
 msgid "All your medals are here."
 msgstr "メダル ジョウホウガ ホゾン サレマシタ"
 
+msgid "Confirm email"
+msgstr "メール再入力"
+
+msgid "Confirm email:"
+msgstr "メール再入力:"
+
 msgid "Creating room"
 msgstr "ルーム サクセイ"
 
@@ -27,6 +33,9 @@ msgstr "カスタムレベル"
 
 msgid "Custom levels?!"
 msgstr "カスタムレベル！？"
+
+msgid "Emails do not match!"
+msgstr "Email イッチ シマセン"
 
 msgid "Error reading manifest"
 msgstr "マニフェスト読み込み失敗"

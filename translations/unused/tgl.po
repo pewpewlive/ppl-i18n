@@ -22,6 +22,12 @@ msgstr "Nandito na ang lahat ng iyong medalya."
 msgid "Career"
 msgstr "Mga Nakamit"
 
+msgid "Confirm email"
+msgstr "Kumpirmahin ang email"
+
+msgid "Confirm email:"
+msgstr "Kumpirmahin ang email:"
+
 msgid "Creating room"
 msgstr "Naghahanap ng kalaro"
 
@@ -39,6 +45,9 @@ msgstr "Maaliwalas"
 
 msgid "Directed by %s"
 msgstr "Sa pangunguna ni %s"
+
+msgid "Emails do not match!"
+msgstr "Hindi nagtugma ang mga email!"
 
 msgid "Error reading manifest"
 msgstr "Hindi mabasa ang manifest"

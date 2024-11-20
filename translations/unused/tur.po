@@ -22,6 +22,12 @@ msgstr "Tüm madelyaların burada."
 msgid "Career"
 msgstr "Kariyer"
 
+msgid "Confirm email"
+msgstr "Emaili doğrula"
+
+msgid "Confirm email:"
+msgstr "Emaili doğrula:"
+
 msgid "Connect to..."
 msgstr "...'ya bağlan"
 
@@ -43,6 +49,9 @@ msgstr "Karanlık Yüksek"
 msgid "Directed by %s"
 msgstr "%s tarafından üretilmiştir"
 
+msgid "Emails do not match!"
+msgstr "Emailler eşleşmiyor!"
+
 msgid "Error reading manifest"
 msgstr "Manifest okuma hatası"
 
@@ -54,6 +63,9 @@ msgstr "Deneysel haritalar"
 
 msgid "Failed to parse server response"
 msgstr "Sunucu bağlantısında hata oluşmuş"
+
+msgid "Failed to set up comments"
+msgstr "Yorumların gösterimi başarısız"
 
 msgid "Game is full"
 msgstr "Oyun dolu"
