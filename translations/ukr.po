@@ -662,7 +662,7 @@ msgstr "Досягнення"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr "таблиця лідерів по XP"
+msgstr "Таблиця лідерів по XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
@@ -947,7 +947,7 @@ msgstr "Інвертар"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
-msgstr "Зберегти "
+msgstr "Зберегти конфігурацію корабля"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:110
 msgid "Save"
