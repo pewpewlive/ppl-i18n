@@ -5,7 +5,7 @@
 #. "In Eskiv, score 10000 or more"
 #: /client/application/account/achievements_description.cpp:17
 msgid "In %1$s, score %2$s or more."
-msgstr "Lygyje %1$s, gauti %2$s ar daugiau"
+msgstr "Lygyje %1$s, gauti %2$s ar daugiau taškų"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -33,11 +33,11 @@ msgstr "Au"
 
 #: /client/application/game/game.cpp:177
 msgid "Quick pause"
-msgstr "Greita pauzė"
+msgstr "Greitoji pauzė"
 
 #: /client/application/game/game.cpp:183
 msgid "Quick pause %s"
-msgstr "Greitoji pauzė %s"
+msgstr "Greitoji pauzė (liko %s)"
 
 #: /client/application/game/game_constants.cpp:12
 msgid "1p"
@@ -68,12 +68,12 @@ msgstr "Niekada nepasitikėkite šešiakampiu"
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:118
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Nesusijęs su „Super Hexagon”"
+msgstr "Nesusijęs su „Super Hexagon“"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:120
 msgid "Choose your own difficulty"
-msgstr "Pasirinkite sunkumą"
+msgstr "Pasirinkite sau sunkumą"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:138
@@ -118,7 +118,7 @@ msgstr "Išgyvenkite 32 sekundes su šiuo paprastu triuku"
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:188
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "„Šis lygis yra pokštas, tiesa?” - testuotojas"
+msgstr "„Šis lygis yra pokštas, tiesa?“ - testuotojas"
 
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
@@ -177,15 +177,15 @@ msgstr "Naujas aukso speedrun'o medalis"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:146
 msgid "You've been signed out."
-msgstr "Jūs esate atjungtas."
+msgstr "Jūs atsijungėte."
 
 #: /client/application/game/player_data/data_synchronizer.cpp:192
 msgid "Failed to download backup data"
-msgstr "Nepavyko atsisiųsti atsarginės kopijos."
+msgstr "Nepavyko atsiųsti atsarginės kopijos"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:276
 msgid "Failed to download achievements"
-msgstr "Nepavyko atsisiųsti pasiekimų"
+msgstr "Nepavyko atsiųsti pasiekimų"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:320
 msgid "Failed to upload achievements"
@@ -193,17 +193,17 @@ msgstr "Nepavyko įkelti pasiekimus"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:349
 msgid "Failed to download unlocked items"
-msgstr "Nepavyko atsisiųsti atrakintus daiktus"
+msgstr "Nepavyko atsiųsti atrakintus daiktus"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Nepavyko atsiųsti duomenų"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
 #: /client/application/game/player_data/player_data_manager.cpp:53
 msgid "New personal best! %s ⇨ %s"
-msgstr "Naujas vietinis rekordas! %s ⇨ %s"
+msgstr "Naujas asmeninis rekordas! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
@@ -289,7 +289,7 @@ msgstr "Sąs. spalva"
 
 #: /client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
-msgstr "%s paliko žaidimą"
+msgstr "%s išėjo iš žaidimo"
 
 #: /client/application/game/state/game_state.cpp:500
 msgid "N/A"
@@ -337,7 +337,7 @@ msgstr "Įmeskite monetą, jei norite tęsti"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr "Kartais verta pabandyti."
+msgstr "Kartais verta pabandyti"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:24
@@ -346,7 +346,7 @@ msgstr "Susitaikykite su tuo, kad niekada nelaimėsite."
 
 #: /client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
-msgstr "Žaisti vėl"
+msgstr "Iš naujo"
 
 #: /client/application/game/ui/game_over_ui.cpp:50
 msgid "Continue"
@@ -400,7 +400,7 @@ msgstr "Galima pakeisti tik spalvas! %s"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
 msgid "Username color change"
-msgstr "Vartotojo vardo spalvos keitimas"
+msgstr "Vartotojo vardo spalvų keitimas"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
@@ -439,7 +439,7 @@ msgstr "Paskyros pašalinimo prašymas išsiųstas."
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
 msgid "An email asking for confirmation was sent."
-msgstr "Pašalinimo patvirtinimo laiškas išsiųstas"
+msgstr "Patvirtinimo el. laiškas išsiųstas."
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
 msgid "Failed to request account deletion"
@@ -459,7 +459,7 @@ msgstr "Per trumpas. Minimaliai %s simboliai."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:53
 msgid "Too long. Maximum %s characters."
-msgstr "Per ilgas. Maksimaliai %s simboliai.."
+msgstr "Per ilgas. Maksimaliai %s simboliai."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:70
 msgid "Register account"
@@ -495,7 +495,7 @@ msgstr "Registracija sėkminga."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:137
 msgid "Please check your emails!"
-msgstr "Patikrinkite savo el. pašto adresus!"
+msgstr "Patikrinkite savo el. paštą!"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:141
 msgid "Failed to register"
@@ -543,17 +543,17 @@ msgstr "Privatumo politika"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
 msgid "You need to be signed-in to upload scores"
-msgstr "Norėdami įkelti taškus, turite prisijungti"
+msgstr "Norėdami įkelti taškus, jūs turite prisijungti"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to play online"
-msgstr "Jūs turite būti prisijungę, kad žaisti internete"
+msgstr "Norėdami žaisti internete, jūs turite prisijungti"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
 msgid "You need to be signed-in to view comments"
-msgstr "Jūs turite būti prisijungę norint peržiūrėti komentarus"
+msgstr "Norėdami peržiūrėti komentarus, jūs turite prisijungti"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
@@ -561,19 +561,19 @@ msgstr "Jūsų paskyra"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
-msgstr "Prašoma patvirtinimo El. Pašto adreso"
+msgstr "Prašoma patvirtinimo el. laiško"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
-msgstr "Patvirtinimo laiškas išsiųstas"
+msgstr "Patvirtinimo el. laiškas išsiųstas"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr "Pažiūrėkite savo paštą!"
+msgstr "Pažiūrėkite savo el. paštą!"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
-msgstr "Nepavyko išsiųsti laiško"
+msgstr "Nepavyko išsiųsti el. laiško"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
@@ -581,11 +581,11 @@ msgstr "Prašoma iš naujo nustatyti slaptažodį"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:57
 msgid "Password reset email sent"
-msgstr "Slaptažodžio keitimo laiškas išsiųstas"
+msgstr "Slaptažodžio keitimo el. laiškas išsiųstas"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:64
 msgid "Failed to request password reset"
-msgstr "Nepavyko pakeisti slaptažodžio"
+msgstr "Nepavyko iš naujo nustatyti slaptažodžio"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:138
 msgid "Signing in"
@@ -601,7 +601,7 @@ msgstr "El. paštas nepatvirtintas"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:170
 msgid "Re-send verification email"
-msgstr "Persiųsti patvirtinimo laišką"
+msgstr "Iš naujo atsiųsti patvirtinimo el. laišką"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:185
 msgid "Incorrect password"
@@ -609,7 +609,7 @@ msgstr "Neteisingas slaptažodis"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:188
 msgid "Request password reset"
-msgstr "Pakeisti slaptažodį"
+msgstr "Slaptažodžio pakeitimas"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:214
 msgid "Reset password"
@@ -637,7 +637,7 @@ msgstr "Statistika"
 
 #: /client/application/game/ui/screens/screen_career.cpp:61
 msgid "Global leaderboards"
-msgstr "Pasaulinės rekordų lentelės"
+msgstr "Pasaulinės žaidėjų lentelės"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -648,7 +648,7 @@ msgstr "Visos žvaigždės ir medaliai"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Lygis %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -658,15 +658,15 @@ msgstr "Įvykdyti Nukrypimai"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Pasiekimai"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "Žaidėjų XP lentelė"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "Visos žaidėjų lentelės"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -724,11 +724,11 @@ msgstr "Įj."
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "minimali"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "sudėtinga"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
@@ -882,11 +882,11 @@ msgstr "Apkeisti"
 
 #: /client/application/game/ui/screens/screen_download_level.cpp:49
 msgid "Downloading level..."
-msgstr "Atsisiunčiamas lygis..."
+msgstr "Atsiunčiamas lygis..."
 
 #: /client/application/game/ui/screens/screen_download_level.cpp:77
 msgid "Failed to download level."
-msgstr "Nepavyko atsisiųsti lygio."
+msgstr "Nepavyko atsiųsti lygio."
 
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
@@ -894,15 +894,15 @@ msgstr "Enciklopedija"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr ""
+msgstr "Pasauliniai pranešimai"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
-msgstr ""
+msgstr "Asmeniniai pranešimai"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
-msgstr ""
+msgstr "Jokių pranešimų nėra"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -947,7 +947,7 @@ msgstr "Inventorius"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Išsaugoti laivo konfigūraciją"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:110
 msgid "Save"
@@ -963,11 +963,11 @@ msgstr "Įveskite konfigūracijos pavadinimą"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:175
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Įkelti laivo konfigūraciją"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:236
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "Laivo konfigūracija įkelta"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:238
 msgid "loaded <%s>"
@@ -975,11 +975,11 @@ msgstr "įkeltas „%s“"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
-msgstr "Vietinis kelių žaidėjų režimas"
+msgstr "Vietinis žaidimas tinkle"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Vietinis daugelio žaidėjų režimas palaiko tik 2 žaidėjus, prijungtus prie to paties „WiFi“ tinklo."
+msgstr "Vietinis žaidimas tinkle palaiko tik 2 žaidėjus, prijungtus prie to paties „WiFi“ tinklo."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
@@ -995,7 +995,7 @@ msgstr "Prisijungimas prie mobiliosios saitvietės turėtų veikti!"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Kiekvienas žaidėjas turėtų atskirai įkelti pakartojimą, kad abu būtų rodomi internetinėje lyderių lentoje."
+msgstr "Kiekvienas žaidėjas turi atskirai įkelti žaidimo pakartojimą, kad abu būtų rodomi internetinėje žaidėjų lentelėje."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
@@ -1019,7 +1019,7 @@ msgstr "Uždaryti kambarį"
 
 #: /client/application/game/ui/screens/screen_main_menu.cpp:52
 msgid "Single Player"
-msgstr "Vienas Žaidėjas"
+msgstr "Žaidimas vienam"
 
 #: /client/application/game/ui/screens/screen_main_menu.cpp:54
 msgid "Play"
@@ -1027,7 +1027,7 @@ msgstr "Žaisti"
 
 #: /client/application/game/ui/screens/screen_main_menu.cpp:83
 msgid "Multiplayer"
-msgstr "Kelių žaidėjų režimas"
+msgstr "Žaidimas tinkle"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
 msgid "Room is full"
@@ -1063,7 +1063,7 @@ msgstr "Tikrinamas tinklas..."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Negalima žaisti kelių žaidėjų režime su simetriniu NAT."
+msgstr "Negalima žaisti žaidimo tinkle su simetriniu NAT."
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
@@ -1078,7 +1078,7 @@ msgstr "Simetrinė NAT klaida"
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr "Tai reiškia, kad jūsų interneto ryšys yra per daug uždraustas ir neleidžia p2p kelių žaidėjų režimo."
+msgstr "Tai reiškia, kad jūsų interneto ryšys yra per daug uždraustas ir neleidžia p2p žaidimo tinkle."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
@@ -1118,7 +1118,7 @@ msgstr "Slaptažodis (nebūtina):"
 
 #: /client/application/game/ui/screens/screen_online_configure_room.cpp:135
 msgid "Any level"
-msgstr "Bet koks lygis"
+msgstr "Bet kuris lygis"
 
 #: /client/application/game/ui/screens/screen_online_configure_room.cpp:182
 msgid "Room name: %s"
@@ -1154,7 +1154,7 @@ msgstr "Prisijungti"
 
 #: /client/application/game/ui/screens/screen_online_list_rooms.cpp:91
 msgid "Online multiplayer"
-msgstr "Internetinis kelių žaidėjų režimas"
+msgstr "Internetinis žaidimas tinkle"
 
 #: /client/application/game/ui/screens/screen_online_list_rooms.cpp:112
 msgid "Refresh"
@@ -1166,7 +1166,7 @@ msgstr "Kurėjo režimas"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
-msgstr "Pasirinkite kelių žaidėjų režimo tipą"
+msgstr "Pasirinkite žaidimo tinkle režimo tipą"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
 msgid "Play with people around the world!"
@@ -1174,7 +1174,7 @@ msgstr "Žaiskite su žaidėjais aplink pasaulį!"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
 msgid "LAN multiplayer"
-msgstr "Vietinis (LAN) kelių žaidėjų režimas"
+msgstr "Vietinis (LAN) žaidimas tinkle"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
 msgid "Play with people on the same network!"
@@ -1258,19 +1258,19 @@ msgstr "Smėlio dėžė yra vis dar plėtojama, todėl tikėkitės pakeitimų at
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
-msgstr ""
+msgstr "Bendruomenės lygiai yra sukurti bendruomenės."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
-msgstr ""
+msgstr "Lygiai gali būti pažymėti kaip eksperimentiniai, patvirtinti ir įžymūs. Jūs galite įkelti taškus tik lygiuose kurie yra patvirtinti ar įžymūs."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Most community levels give out stars."
-msgstr ""
+msgstr "Dauguma bendruomenės lygių išduoda Žvaigždes."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
-msgstr ""
+msgstr "Prizas už žvaigždę - 300 XP. Jeigu gaunate aukso žvaigždę, jūs gausite 900 XP iš to lygio."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
@@ -1278,7 +1278,7 @@ msgstr "Oficialių lygių informacija"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
-msgstr ""
+msgstr "Bendruomenės lygių informacija"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
@@ -1497,7 +1497,7 @@ msgstr "Nėra nieko įkelti!"
 
 #: /client/application/game/ui/screens/screen_upload_scores.cpp:99
 msgid "Failed to upload replays."
-msgstr "Nepavyko įkelti pakartojimų."
+msgstr "Nepavyko įkelti žaidimo pakartojimų."
 
 #: /client/application/game/ui/screens/screen_upload_scores.cpp:101
 msgid "Upload successful"
@@ -1505,7 +1505,7 @@ msgstr "Įkėlimas sėkmingas"
 
 #: /client/application/game/ui/screens/screen_upload_scores.cpp:132
 msgid "Uploading replay for %s."
-msgstr "Įkeliamas pakartojimas %s lygiui."
+msgstr "Įkeliamas žaidimo pakartojimas %s lygiui."
 
 #. Shown when a user disables comments on their profile and or levels.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
@@ -1547,7 +1547,7 @@ msgstr "Ar esate tikri, kad norite ištrinti šį komentarą?"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:328
 msgid "No comments"
-msgstr ""
+msgstr "Jokių komentarų nėra"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:347
@@ -1672,15 +1672,15 @@ msgstr "Pasaulinis rekordas: %s"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:40
 msgid "Local best: %s"
-msgstr "Vietinis rekordas: %s"
+msgstr "Asmeninis rekordas: %s"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:62
 msgid "Failed to download manifest"
-msgstr "Nepavyko atsisiųsti aprašo"
+msgstr "Nepavyko atsiųsti aprašo"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:87
 msgid "Featured level"
-msgstr ""
+msgstr "Įžymus lygis"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:223
 msgid "average score: %s"
@@ -1715,11 +1715,11 @@ msgstr "Aukso medalį pasiekę: %s"
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:83
 msgid "Failed to read replay."
-msgstr "Nepavyko perskaityti pakartojimo."
+msgstr "Nepavyko perskaityti žaidimo pakartojimo."
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:112
 msgid "Failed to download replay."
-msgstr "Nepavyko atsisiųsti pakartojimo."
+msgstr "Nepavyko atsiųsti žaidimo pakartojimo."
 
 #: /client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
@@ -1778,12 +1778,12 @@ msgstr "%s-os eros medaliai ir žvaigždės"
 #. Error shown when downloading some piece of data failed.
 #: /client/application/game/ui/views/account_view.cpp:533
 msgid "Download error"
-msgstr "Atsisiųsti nepavyko"
+msgstr "Atsiųsti nepavyko"
 
 #. Shown when the downloading of some piece of data is in progress.
 #: /client/application/game/ui/views/account_view.cpp:535
 msgid "Downloading..."
-msgstr "Atsisiunčiama..."
+msgstr "Atsiunčiama..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
@@ -1820,7 +1820,7 @@ msgstr "Prisijungimo data: %s"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Lygis: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
@@ -1846,7 +1846,7 @@ msgstr "Įkelti smėlio dėžės konfigūraciją"
 #. loaded.
 #: /client/application/game/ui/views/sandbox_configurator.cpp:196
 msgid "loaded sandbox configuration"
-msgstr "konfigūracija įkelta"
+msgstr "Smėlio dėžės konfigūracija įkelta"
 
 #. Shown in the button that allows users to sort by date
 #: /client/application/game/ui/views/sort_button.cpp:31
