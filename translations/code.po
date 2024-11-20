@@ -37,7 +37,7 @@ msgstr "QuickPause();"
 
 #: /client/application/game/game.cpp:183
 msgid "Quick pause %s"
-msgstr "QuickPause = %s"
+msgstr "QuickPause(%s);"
 
 #: /client/application/game/game_constants.cpp:12
 msgid "1p"
@@ -63,12 +63,12 @@ msgstr "EuclideanSpace = O/R"
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:116
 msgid "Never trust a six-sided polygon"
-msgstr "Six_Sided_Poly.Trusted = false"
+msgstr "SixSidedPoly.Trusted = false"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:118
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Level.UnrelatedTo(\"Super Hexagon\");"
+msgstr "Level.UnrelatedTo = \"Super Hexagon\""
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:120
@@ -83,7 +83,7 @@ msgstr "Dodge(); Player.Die(false);"
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:140
 msgid "aka Dodge This"
-msgstr "aka Dodge(); This"
+msgstr "this->Dodge();"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:142
@@ -108,7 +108,7 @@ msgstr "UseSkillFor(32, \"seconds\");"
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:184
 msgid "My favorite mode"
-msgstr "this->FavMode"
+msgstr "this->FavMode = true"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:186
@@ -197,7 +197,7 @@ msgstr "Game.Error = \"Failed to download unlocked items\""
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Game.Error = \"Failed to download data\""
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -215,7 +215,7 @@ msgstr "Game.TransitionSpeedRun(%s, %s);"
 #. %s is replaced with the name of the achievement.
 #: /client/application/game/player_data/player_data_manager.cpp:829
 msgid "Achievement Unlocked: %s"
-msgstr "Achvmnt.Unlock(%s);"
+msgstr "Achievement.Unlock(%s);"
 
 #. Describes the rarity level of items. Rarity level of 0.
 #: /client/application/game/player_data/player_unlocked_items.cpp:321
@@ -380,7 +380,7 @@ msgstr "Game.Loading = true"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
 msgid "Change colors"
-msgstr "ChangeColors.UI"
+msgstr "ChangeColors();"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
 msgid "Old username:"
@@ -471,15 +471,15 @@ msgstr "Username"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Password"
-msgstr "SignIn.Pass"
+msgstr "Password"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Confirm password"
-msgstr "Pass.Confirm"
+msgstr "Confirm password"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Email"
-msgstr "SignIn.Email"
+msgstr "Email"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:114
 msgid "Register"
@@ -491,7 +491,7 @@ msgstr "Register.Registering = true"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:135
 msgid "Registration successful."
-msgstr "Register() returned: success"
+msgstr "Register() returned: \"success\""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:137
 msgid "Please check your emails!"
@@ -507,19 +507,19 @@ msgstr "Username (ColorsAccepted = true) ="
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:171
 msgid "Password:"
-msgstr "room.password ="
+msgstr "password ="
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Confirm password:"
-msgstr "Pass.Confirm ="
+msgstr "password_confirm ="
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Email:"
-msgstr "Email ="
+msgstr "email ="
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:205
 msgid "Passwords do not match!"
-msgstr "Pass1 != Pass2"
+msgstr "password != password_confirm"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
@@ -637,7 +637,7 @@ msgstr "GameStats.UI"
 
 #: /client/application/game/ui/screens/screen_career.cpp:61
 msgid "Global leaderboards"
-msgstr "GameStats.GlobalLdrBrds"
+msgstr "Leaderboard("Globas");"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -648,25 +648,25 @@ msgstr "GameStats.AllTimeStarsAndMedals"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Level = %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
 #: /client/application/game/ui/screens/screen_career.cpp:124
 msgid "Deviations completed"
-msgstr "Deviations.Completed"
+msgstr "GameStats.Deviations"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "GameStats.Achievements"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "Leaderboard("XP");"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "Leaderboard("All");"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -724,11 +724,11 @@ msgstr "true"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "INT_MIN"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "INT_MAX"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
@@ -894,15 +894,15 @@ msgstr "Encyclopedia();"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr ""
+msgstr "Feed.Global"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
-msgstr ""
+msgstr "Feed.Personal"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
-msgstr ""
+msgstr "Notifications.size() == 0"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -947,7 +947,7 @@ msgstr "Inventory.UI"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
-msgstr ""
+msgstr "SaveShipConfig();"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:110
 msgid "Save"
@@ -963,11 +963,11 @@ msgstr "SandboxConf.Name"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:175
 msgid "Load ship configuration"
-msgstr ""
+msgstr "LoadShipConfig();"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:236
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "Load() returned: true"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:238
 msgid "loaded <%s>"
@@ -1258,19 +1258,19 @@ msgstr "Game.Sandbox.Await(changes);"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
-msgstr ""
+msgstr "Game.Community.Levels.Authors = \"community\""
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
-msgstr ""
+msgstr "Game.Community.Tags = Tags::Experimental | Tags::Verified | Tags::Featured; if (Game.Community.Tags != Tags::Experimental) { UploadScore(); }"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Most community levels give out stars."
-msgstr ""
+msgstr "Game.Community.GiveOutStars();"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
-msgstr ""
+msgstr "GiveReward(300XP * stars); assert(StarsReceivedFor(Stars::Gold) * 300XP == 3 * 300XP);"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
@@ -1278,7 +1278,7 @@ msgstr "Game.Official.Information"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
-msgstr ""
+msgstr "Game.Community.Information"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
@@ -1547,7 +1547,7 @@ msgstr "DelComment.Status ? Continue() : Cancel()"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:328
 msgid "No comments"
-msgstr ""
+msgstr "Comments.size() == 0"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:347
@@ -1680,7 +1680,7 @@ msgstr "Game.Error = \"Failed manifest download\""
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:87
 msgid "Featured level"
-msgstr ""
+msgstr "Level.Featured"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:223
 msgid "average score: %s"
@@ -1820,7 +1820,7 @@ msgstr "GameAcc.JoinDate = %s"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Level = %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
@@ -1865,7 +1865,7 @@ msgstr "DIFF"
 
 #: /client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
-msgstr "%sMultiplayer.Await(player);%s"
+msgstr "%sMultiplayer.Await(player)%s"
 
 #. The label shown in the button used to enter the World.
 #: /client/application/game/ui/views/world_selector.cpp:176
@@ -1967,5 +1967,5 @@ msgstr "Colors::Gray"
 #. "Update available (0.4.122)"
 #: /client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr "Game.IsUpdateAvailable() returned: true %s"
+msgstr "Game.UpdateAvailable() returned: %s"
 
