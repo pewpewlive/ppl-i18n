@@ -197,7 +197,7 @@ msgstr "Error mentre es descarregaven els elements desblocats"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "No s'han pogut descarregar les dades."
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -648,7 +648,7 @@ msgstr "Estrelles i medalles de tota la història"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Nivell %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -658,15 +658,15 @@ msgstr "Desviacions completades"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Fites"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "Classificació per XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "Totes les classificacions"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -894,15 +894,15 @@ msgstr "Enciclopèdia"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr ""
+msgstr "Transmissió global"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
-msgstr ""
+msgstr "Notificacions personals"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
-msgstr ""
+msgstr "No hi ha notificacions"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -947,7 +947,7 @@ msgstr "Inventari"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Desa la configuració de la nau"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:110
 msgid "Save"
@@ -963,11 +963,11 @@ msgstr "Escriviu un nom per a la configuració."
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:175
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Carrega la configuració de la nau"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:236
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "s'ha carregat la configuració de la nau"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:238
 msgid "loaded <%s>"
@@ -1258,19 +1258,19 @@ msgstr "El mode lliure encara està en desenvolupament. Així que en el futur hi
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
-msgstr ""
+msgstr "Els nivells de la comunitat els han creat la comunitat."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
-msgstr ""
+msgstr "Els nivells es poden etiquetar com a experimentals, verificats i destacats. Només podeu enviar puntuacions dels nivells verificats o destacats."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Most community levels give out stars."
-msgstr ""
+msgstr "La majoria de nivells de la comunitat donen estrelles."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
-msgstr ""
+msgstr "La recompensa són 300 XP per estrella: si teniu una estrella d'or en un nivell, aconseguiu 900 XP pel nivell."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
@@ -1278,7 +1278,7 @@ msgstr "Informació dels nivells oficials"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
-msgstr ""
+msgstr "Informació dels nivells de la comunitat"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
@@ -1547,7 +1547,7 @@ msgstr "Esteu segur que voleu esborrar aquest comentari?"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:328
 msgid "No comments"
-msgstr ""
+msgstr "Sense comentaris"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:347
@@ -1680,7 +1680,7 @@ msgstr "El manifest no s'ha pogut descarregar."
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:87
 msgid "Featured level"
-msgstr ""
+msgstr "Nivell destacat"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:223
 msgid "average score: %s"
@@ -1820,7 +1820,7 @@ msgstr "Data de creació: %s"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Nivell: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
