@@ -25,11 +25,20 @@ msgstr "იუნკერი"
 msgid "Commander"
 msgstr "კომანდიტური"
 
+msgid "Confirm email"
+msgstr "Დაადასტურეთ ელ - ფოსტა"
+
+msgid "Confirm email:"
+msgstr "Დაადასტურეთ ელ - ფოსტა:"
+
 msgid "Creating room"
 msgstr "ოთახის შექმნა"
 
 msgid "Directed by %s"
 msgstr "Რეჟისორია %s"
+
+msgid "Emails do not match!"
+msgstr "ელფოსტა არ ემთხვევა!"
 
 msgid "Error reading manifest"
 msgstr "შეცდომა მანიფესტის წაკითხვისას"
@@ -39,6 +48,9 @@ msgstr "ექსპერიმენტული"
 
 msgid "Experimental levels"
 msgstr "ექსპერიმენტული ლეველები"
+
+msgid "Failed to set up comments"
+msgstr "ვერ მოხერხდა კომენტარების დამატება"
 
 msgid "High Scores"
 msgstr "მაღალი ქულები"

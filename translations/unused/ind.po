@@ -22,6 +22,12 @@ msgstr "Semua medali Anda disini."
 msgid "Career"
 msgstr "Karir"
 
+msgid "Confirm email"
+msgstr "Konfirmasi email"
+
+msgid "Confirm email:"
+msgstr "Konfirmasi email:"
+
 msgid "Creating room"
 msgstr "Buat ruang"
 
@@ -37,6 +43,9 @@ msgstr "Level kustom?!"
 msgid "Directed by %s"
 msgstr "Dipimpin oleh %s"
 
+msgid "Emails do not match!"
+msgstr "Email tidak cocok!"
+
 msgid "Error reading manifest"
 msgstr "Kesalahan membaca manifes"
 
@@ -48,6 +57,9 @@ msgstr "Level Percobaan"
 
 msgid "Failed to parse server response"
 msgstr "Gagal mengurai respons server"
+
+msgid "Failed to set up comments"
+msgstr "Gagal untuk memberi komentar"
 
 msgid "Game is full"
 msgstr "Game penuh"

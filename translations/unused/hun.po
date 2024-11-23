@@ -22,14 +22,26 @@ msgstr "Kadét"
 msgid "Commander"
 msgstr "Parancsnok"
 
+msgid "Confirm email"
+msgstr "Email megerősítése"
+
+msgid "Confirm email:"
+msgstr "Email megerősítése"
+
 msgid "Creating room"
 msgstr "Szoba készítése"
+
+msgid "Emails do not match!"
+msgstr "Az email nem egyezik"
 
 msgid "Experimental"
 msgstr "Kísérleti"
 
 msgid "Experimental levels"
 msgstr "Kísérleti szintek"
+
+msgid "Failed to set up comments"
+msgstr "Nem sikerült beállítani a megjegyzéseket"
 
 msgid "High Scores"
 msgstr "Magas Pontszámok"

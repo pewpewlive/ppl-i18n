@@ -16,11 +16,20 @@ msgstr "关于关卡"
 msgid "All your medals are here."
 msgstr "你的奖牌已同步"
 
+msgid "Confirm email"
+msgstr "确认邮箱"
+
+msgid "Confirm email:"
+msgstr "确认邮箱："
+
 msgid "Creating room"
 msgstr "正在创建房间"
 
 msgid "Directed by %s"
 msgstr "制作者：%s"
+
+msgid "Emails do not match!"
+msgstr "邮箱不匹配"
 
 msgid "Error reading manifest"
 msgstr "读取清单出错"

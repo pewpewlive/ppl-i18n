@@ -19,6 +19,12 @@ msgstr "Toate medaliile tale sunt aici."
 msgid "Career"
 msgstr "Carieră"
 
+msgid "Confirm email"
+msgstr "Confirmă-ți emailul"
+
+msgid "Confirm email:"
+msgstr "Confirmă-ți emailul:"
+
 msgid "Creating room"
 msgstr "Se crează camera"
 
@@ -27,6 +33,9 @@ msgstr "Mare Întunecat"
 
 msgid "Directed by %s"
 msgstr "Creat de %s"
+
+msgid "Emails do not match!"
+msgstr "Email-urile nu se potrivesc!"
 
 msgid "Error reading manifest"
 msgstr "Eroare citind manifest-ul"

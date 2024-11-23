@@ -31,6 +31,12 @@ msgstr "Trayectoria"
 msgid "Commander"
 msgstr "Comandante"
 
+msgid "Confirm email"
+msgstr "Una vez más, porfa"
+
+msgid "Confirm email:"
+msgstr "Confirmar correo electrónico:"
+
 msgid "Connect to..."
 msgstr "Conectar a..."
 
@@ -52,6 +58,9 @@ msgstr "Alto, pero Oscuro"
 msgid "Directed by %s"
 msgstr "Dirigido por %s"
 
+msgid "Emails do not match!"
+msgstr "¡Las cuentas de correo no coinciden!"
+
 msgid "Error reading manifest"
 msgstr "Hubo un error al leer \"manifest\""
 
@@ -63,6 +72,9 @@ msgstr "Niveles experimentales"
 
 msgid "Failed to parse server response"
 msgstr "Fallo al analizar respuesta del servidor"
+
+msgid "Failed to set up comments"
+msgstr "Error al configurar comentarios"
 
 msgid "Game is full"
 msgstr "La partida está llena"

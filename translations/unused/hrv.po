@@ -31,6 +31,12 @@ msgstr "Karijera"
 msgid "Commander"
 msgstr "Zapovjednik"
 
+msgid "Confirm email"
+msgstr "Potvrdi email"
+
+msgid "Confirm email:"
+msgstr "Potvrdi email:"
+
 msgid "Connect to..."
 msgstr "Spoji se na..."
 
@@ -52,6 +58,9 @@ msgstr "Tamno Visoko"
 msgid "Directed by %s"
 msgstr "Režirao %s"
 
+msgid "Emails do not match!"
+msgstr "Emailovi nisu jednaki!"
+
 msgid "Error reading manifest"
 msgstr "Greška čitanja manifesta"
 
@@ -63,6 +72,9 @@ msgstr "Eksperimentalni leveli"
 
 msgid "Failed to parse server response"
 msgstr "Neuspješna rasčlaniranje odgovora servera."
+
+msgid "Failed to set up comments"
+msgstr "Neuspješno postavljanje komentara"
 
 msgid "Game is full"
 msgstr "Igra je puna"

@@ -25,11 +25,20 @@ msgstr "C++"
 msgid "Commander"
 msgstr "Assembly"
 
+msgid "Confirm email"
+msgstr "Email.Confirm"
+
+msgid "Confirm email:"
+msgstr "Email.Confirm ="
+
 msgid "Creating room"
 msgstr "Room.Creating = true"
 
 msgid "Directed by %s"
 msgstr "Game.Director = %s"
+
+msgid "Emails do not match!"
+msgstr "Email1 != Email2"
 
 msgid "Error reading manifest"
 msgstr "Game.Error = \"Failed reading manifest\""
@@ -39,6 +48,9 @@ msgstr "Game.Experimental"
 
 msgid "Experimental levels"
 msgstr "Game.Experimental.levels"
+
+msgid "Failed to set up comments"
+msgstr "Game.Error = \"Failed to set up comments\""
 
 msgid "High (Dark)"
 msgstr "DarkTheme(INT_MAX);"

@@ -31,6 +31,12 @@ msgstr "Skill-o-meter"
 msgid "Commander"
 msgstr "Gamer"
 
+msgid "Confirm email"
+msgstr "Do it again"
+
+msgid "Confirm email:"
+msgstr "Do it again:"
+
 msgid "Connect to..."
 msgstr "Mooch from..."
 
@@ -51,6 +57,9 @@ msgstr "High but cooler"
 
 msgid "Directed by %s"
 msgstr "Meme CEO is %s"
+
+msgid "Emails do not match!"
+msgstr "Emails swiped left"
 
 msgid "Error reading manifest"
 msgstr "man how is it even possible to mess up the manifest"

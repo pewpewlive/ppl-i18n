@@ -28,6 +28,12 @@ msgstr "Cadete"
 msgid "Commander"
 msgstr "Comandante"
 
+msgid "Confirm email"
+msgstr "Confirmar email"
+
+msgid "Confirm email:"
+msgstr "Confirmar email:"
+
 msgid "Connect to..."
 msgstr "Conectar a..."
 
@@ -46,6 +52,9 @@ msgstr "Níveis customizados?!"
 msgid "Directed by %s"
 msgstr "Dirigido por %s"
 
+msgid "Emails do not match!"
+msgstr "Os emails não correspondem!"
+
 msgid "Error reading manifest"
 msgstr "Erro ao ler o manifesto"
 
@@ -57,6 +66,9 @@ msgstr "Níveis experimentais"
 
 msgid "Failed to parse server response"
 msgstr "Falha ao analisar a resposta do servidor"
+
+msgid "Failed to set up comments"
+msgstr "Falha ao definir comentários"
 
 msgid "Game is full"
 msgstr "O jogo está lotado"

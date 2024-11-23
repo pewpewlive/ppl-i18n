@@ -25,11 +25,20 @@ msgstr "Δόκιμος"
 msgid "Commander"
 msgstr "Αρχηγός"
 
+msgid "Confirm email"
+msgstr "Επιβεβαιώστε email"
+
+msgid "Confirm email:"
+msgstr "Επιβεβαίωση email:"
+
 msgid "Creating room"
 msgstr "Φτιάχνεται δωμάτιο"
 
 msgid "Directed by %s"
 msgstr "Φτιαγμένο απο τον %s"
+
+msgid "Emails do not match!"
+msgstr "Emails δεν ταιριάζουν!"
 
 msgid "Error reading manifest"
 msgstr "Απέτυχε το διάβασμα του δηλωτικού"
@@ -39,6 +48,9 @@ msgstr "Πειραματικά"
 
 msgid "Experimental levels"
 msgstr "Πειραματικά επίπεδα"
+
+msgid "Failed to set up comments"
+msgstr "Απέτυχαν να τεθούν τα σχόλια"
 
 msgid "High (Dark)"
 msgstr "Υψηλό (Σκοτεινό)"
