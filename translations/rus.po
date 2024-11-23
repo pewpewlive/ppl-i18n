@@ -193,11 +193,11 @@ msgstr "Не удалось отправить достижения."
 
 #: /client/application/game/player_data/data_synchronizer.cpp:349
 msgid "Failed to download unlocked items"
-msgstr "Не удалось загрузить открытые предметы"
+msgstr "Не удалось загрузить открытые предметы."
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Не удалось загрузить данные."
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -648,7 +648,7 @@ msgstr "Звёзды и медали за всё время"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Уровень %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -658,15 +658,15 @@ msgstr "Девиации пройдены"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Достижения"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "Лидерборд по XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "Все лидерборды"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -894,15 +894,15 @@ msgstr "Энциклопедия"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr ""
+msgstr "Глобальные события"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
-msgstr ""
+msgstr "Личные уведомления"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
-msgstr ""
+msgstr "Уведомлений нет."
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -947,7 +947,7 @@ msgstr "Инвентарь"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Сохранить конфигурацию корабля"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:110
 msgid "Save"
@@ -963,11 +963,11 @@ msgstr "Введите имя конфигурации"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:175
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Загрузить конфигурацию корабля"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:236
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "конфигурация корабля загружена"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:238
 msgid "loaded <%s>"
@@ -1258,19 +1258,19 @@ msgstr "Песочница находится в разработке, поэт�
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
-msgstr ""
+msgstr "Уровни сообщества создаются сообществом."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
-msgstr ""
+msgstr "Уровни могут быть помечены как экспериментальные, подтверждённые и избранные. Отправлять результаты можно только от подтверждённых или избранных уровней."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Most community levels give out stars."
-msgstr ""
+msgstr "Большинство уровней сообщества позволяют зарабатывать звёзды."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
-msgstr ""
+msgstr "В качестве награды выдаётся 300 XP за каждую звезду: если уровень пройден на золотую звезду, с этого уровня в сумме будет выдано 900 XP."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
@@ -1278,7 +1278,7 @@ msgstr "Об официальных уровнях"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
-msgstr ""
+msgstr "Об уровнях сообщества"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
@@ -1547,7 +1547,7 @@ msgstr "Вы действительно желаете удалить комме
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:328
 msgid "No comments"
-msgstr ""
+msgstr "Комментариев нет."
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:347
@@ -1680,7 +1680,7 @@ msgstr "Не удалось скачать манифест."
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:87
 msgid "Featured level"
-msgstr ""
+msgstr "Избранный уровень"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:223
 msgid "average score: %s"
@@ -1820,7 +1820,7 @@ msgstr "Зарегистрирован: %s"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Уровень: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
