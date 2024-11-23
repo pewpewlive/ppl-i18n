@@ -13,6 +13,18 @@ msgstr "Кадет"
 msgid "Commander"
 msgstr "командир"
 
+msgid "Confirm email"
+msgstr "Пошта адресі"
+
+msgid "Confirm email:"
+msgstr "Электрондық поштаны растау:"
+
+msgid "Emails do not match!"
+msgstr "Электрондық пошталар бірдей емес."
+
+msgid "Failed to set up comments"
+msgstr "Пікірлер орнатылмады"
+
 msgid "High Scores"
 msgstr "Жазбалар"
 

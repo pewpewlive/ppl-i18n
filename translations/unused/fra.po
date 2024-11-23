@@ -31,6 +31,12 @@ msgstr "Carrière"
 msgid "Commander"
 msgstr "Commandant"
 
+msgid "Confirm email"
+msgstr "Confirmer l'email"
+
+msgid "Confirm email:"
+msgstr "Confirmer l'email :"
+
 msgid "Connect to..."
 msgstr "Se connecter à..."
 
@@ -52,6 +58,9 @@ msgstr "Sombre"
 msgid "Directed by %s"
 msgstr "Crée par %s"
 
+msgid "Emails do not match!"
+msgstr "Les emails ne correspondent pas !"
+
 msgid "Error reading manifest"
 msgstr "Lecture du manifeste impossible"
 
@@ -63,6 +72,9 @@ msgstr "Niveaux expérimentaux"
 
 msgid "Failed to parse server response"
 msgstr "Echec du parsing de la reponse du serveur"
+
+msgid "Failed to set up comments"
+msgstr "Echec de la mise en place des commentaires"
 
 msgid "Game is full"
 msgstr "Partie déjà complète"

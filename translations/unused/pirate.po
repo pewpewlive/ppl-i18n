@@ -19,11 +19,20 @@ msgstr "Ye're bootys here!"
 msgid "Career"
 msgstr "Life in the sea"
 
+msgid "Confirm email"
+msgstr "Is this ye?"
+
+msgid "Confirm email:"
+msgstr "Is this ye?:"
+
 msgid "Creating room"
 msgstr "Making crew"
 
 msgid "Dark High"
 msgstr "Eye of an owl"
+
+msgid "Emails do not match!"
+msgstr "Tis email of the government!"
 
 msgid "Error reading manifest"
 msgstr "Something isn't right.."

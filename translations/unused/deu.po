@@ -22,6 +22,12 @@ msgstr "Alle deine Medaillen findest du hier"
 msgid "Career"
 msgstr "Karrier"
 
+msgid "Confirm email"
+msgstr "Email bestätigen"
+
+msgid "Confirm email:"
+msgstr "Email bestätigen:"
+
 msgid "Connect to..."
 msgstr "Verbindung zu..."
 
@@ -42,6 +48,9 @@ msgstr "Dunkel"
 
 msgid "Directed by %s"
 msgstr "Von %s"
+
+msgid "Emails do not match!"
+msgstr "Emails stimmen nich miteinander!"
 
 msgid "Error reading manifest"
 msgstr "Fehler während des Lesens des Manifests"

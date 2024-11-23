@@ -3,1309 +3,1394 @@
 #. `%2$s` will be replaced by the score to reach.
 #. For example:
 #. "In Eskiv, score 10000 or more"
-#: ../client/application/account/achievements_description.cpp:17
+#: /client/application/account/achievements_description.cpp:17
 msgid "In %1$s, score %2$s or more."
 msgstr "Sa %1$s, kailangang maka-score ng %2$s o higit pa."
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:333
+#: /client/application/game/entities/player/ship.cpp:331
 msgid "Ouch"
 msgstr "Aray"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:336
+#: /client/application/game/entities/player/ship.cpp:334
 msgid "Yikes"
 msgstr "Agai"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:339
+#: /client/application/game/entities/player/ship.cpp:337
 msgid "Ow"
 msgstr "Aw"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: ../client/application/game/entities/player/ship.cpp:342
+#: /client/application/game/entities/player/ship.cpp:340
 msgid "Ugh"
 msgstr "Ihh"
 
-#: ../client/application/game/game.cpp:166
+#: /client/application/game/game.cpp:177
 msgid "Quick pause"
 msgstr "Binitawan"
 
-#: ../client/application/game/game.cpp:172
+#: /client/application/game/game.cpp:183
 msgid "Quick pause %s"
 msgstr "Hinto, pagbitaw %s"
 
+#: /client/application/game/game_constants.cpp:12
+msgid "1p"
+msgstr "1p"
+
+#: /client/application/game/game_constants.cpp:12
+msgid "2p"
+msgstr "2p"
+
+#: /client/application/game/game_constants.cpp:12
+msgid "3p"
+msgstr "3p"
+
+#: /client/application/game/game_constants.cpp:12
+msgid "4p"
+msgstr "4p"
+
 #. Short description of the "asteroids" game mode
-#: ../client/application/game/levels/game_levels.cpp:97
+#: /client/application/game/levels/game_levels.cpp:97
 msgid "Euclidean space is overrated"
 msgstr "Andaming bulalakaw!"
 
 #. Short description of the "hexagon" game mode
-#: ../client/application/game/levels/game_levels.cpp:116
+#: /client/application/game/levels/game_levels.cpp:116
 msgid "Never trust a six-sided polygon"
 msgstr "Huwag magtiwala sa hugis na may anim na gilid"
 
 #. Short description of the "hexagon" game mode
-#: ../client/application/game/levels/game_levels.cpp:118
+#: /client/application/game/levels/game_levels.cpp:118
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Parang \"Super Hexagon\" (yata?)"
 
 #. Short description of the "hexagon" game mode
-#: ../client/application/game/levels/game_levels.cpp:120
+#: /client/application/game/levels/game_levels.cpp:120
 msgid "Choose your own difficulty"
 msgstr "Gusto mo pahirapan sarili mo? Ikaw bahala."
 
 #. Short description of the "eskiv" game mode
-#: ../client/application/game/levels/game_levels.cpp:138
+#: /client/application/game/levels/game_levels.cpp:138
 msgid "Dodge everything and you'll be OK"
 msgstr "Galingan ang pag-ilag nang hindi mapahamak"
 
 #. Short description of the "eskiv" game mode
-#: ../client/application/game/levels/game_levels.cpp:140
+#: /client/application/game/levels/game_levels.cpp:140
 msgid "aka Dodge This"
 msgstr "Ilag!"
 
 #. Short description of the "eskiv" game mode
-#: ../client/application/game/levels/game_levels.cpp:142
+#: /client/application/game/levels/game_levels.cpp:142
 msgid "Green good. Red bad."
 msgstr "Lapitan ang berde. Layuan ang pula."
 
-#. Short description of the "fury" game mode
-#: ../client/application/game/levels/game_levels.cpp:161
-msgid "Just 32 seconds of skills"
-msgstr "32 seconds lang sapat na :)"
-
-#. Short description of the "fury" game mode
-#: ../client/application/game/levels/game_levels.cpp:163
-msgid "My favorite mode"
-msgstr "Kaya mong tapusin 'to?"
-
-#. Short description of the "fury" game mode
-#: ../client/application/game/levels/game_levels.cpp:165
-msgid "Survive 32 seconds with this simple trick"
-msgstr "Manatiling buhay sa loob ng 32 segundo"
-
-#. Short description of the "fury" game mode
-#: ../client/application/game/levels/game_levels.cpp:167
-msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Seryoso ba 'to?\" - kawawang tester :("
-
 #. Short description of the "waves" game mode
-#: ../client/application/game/levels/game_levels.cpp:186
+#: /client/application/game/levels/game_levels.cpp:161
 msgid "RIP GW3:Dimensions"
 msgstr "Hindi kita makakalimutan GW3:Dimensions :\")"
 
 #. Short description of the "waves" game mode
-#: ../client/application/game/levels/game_levels.cpp:188
+#: /client/application/game/levels/game_levels.cpp:163
 msgid "Previously known as Assault"
 msgstr "Unang nakilala bilang \"Assault\""
 
+#. Short description of the "fury" game mode
+#: /client/application/game/levels/game_levels.cpp:182
+msgid "Just 32 seconds of skills"
+msgstr "32 seconds lang sapat na :)"
+
+#. Short description of the "fury" game mode
+#: /client/application/game/levels/game_levels.cpp:184
+msgid "My favorite mode"
+msgstr "Kaya mong tapusin 'to?"
+
+#. Short description of the "fury" game mode
+#: /client/application/game/levels/game_levels.cpp:186
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Manatiling buhay sa loob ng 32 segundo"
+
+#. Short description of the "fury" game mode
+#: /client/application/game/levels/game_levels.cpp:188
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\"Seryoso ba 'to?\" - kawawang tester :("
+
 #. Short description of the "ceasefire" game mode
-#: ../client/application/game/levels/game_levels.cpp:206
+#: /client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
 msgstr ""
 
 #. Short description of the "pandemonium" game mode
-#: ../client/application/game/levels/game_levels.cpp:224
+#: /client/application/game/levels/game_levels.cpp:224
 msgid "True bullet hell"
 msgstr ""
 
 #. Short description of the "pandemonium" game mode
-#: ../client/application/game/levels/game_levels.cpp:226
+#: /client/application/game/levels/game_levels.cpp:226
 msgid "With great firepower comes great dodging skills"
 msgstr ""
 
 #. Short description of the "partitioner" game mode
-#: ../client/application/game/levels/game_levels.cpp:244
+#: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
 msgstr ""
 
 #. Short description of the symbiosis game mode
-#: ../client/application/game/levels/game_levels.cpp:262
+#: /client/application/game/levels/game_levels.cpp:262
 msgid "2 brain hemispheres, 2 hands, 2 ships."
 msgstr ""
 
 #. Shown in a notification when a new score medal is earned.
-#: ../client/application/game/levels/medals.cpp:14
+#: /client/application/game/levels/medals.cpp:14
 msgid "New bronze medal"
 msgstr "Nakakuha ka ng tansong medalya!"
 
 #. Shown in a notification when a new speedrun medal is earned.
-#: ../client/application/game/levels/medals.cpp:16
+#: /client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
 msgstr "Nakakuha ka ng tansong medalya sa speedrun!"
 
 #. Shown in a notification when a new score medal is earned.
-#: ../client/application/game/levels/medals.cpp:19
+#: /client/application/game/levels/medals.cpp:19
 msgid "New silver medal"
 msgstr "Nakakuha ka ng pilak na medalya!"
 
 #. Shown in a notification when a new speedrun medal is earned.
-#: ../client/application/game/levels/medals.cpp:21
+#: /client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
 msgstr "Nakakuha ka ng pilak na medalya sa speedrun!"
 
 #. Shown in a notification when a new score medal is earned.
-#: ../client/application/game/levels/medals.cpp:24
+#: /client/application/game/levels/medals.cpp:24
 msgid "New gold medal"
 msgstr "Nakakuha ka ng gintong medalya!"
 
 #. Shown in a notification when a new speedrun medal is earned.
-#: ../client/application/game/levels/medals.cpp:26
+#: /client/application/game/levels/medals.cpp:26
 msgid "New gold speedrun medal"
 msgstr "Nakakuha ka ng gintong medalya sa speedrun!"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:143
+#: /client/application/game/player_data/data_synchronizer.cpp:146
 msgid "You've been signed out."
 msgstr "Nakapag-log out ka na."
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:182
+#: /client/application/game/player_data/data_synchronizer.cpp:192
 msgid "Failed to download backup data"
 msgstr "Hindi ma-download ang backup para sa data"
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:266
+#: /client/application/game/player_data/data_synchronizer.cpp:276
 msgid "Failed to download achievements"
 msgstr ""
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:310
+#: /client/application/game/player_data/data_synchronizer.cpp:320
 msgid "Failed to upload achievements"
 msgstr ""
 
-#: ../client/application/game/player_data/data_synchronizer.cpp:339
+#: /client/application/game/player_data/data_synchronizer.cpp:349
 msgid "Failed to download unlocked items"
+msgstr ""
+
+#: /client/application/game/player_data/data_synchronizer_new.cpp:196
+msgid "Failed to download data"
 msgstr ""
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
-#: ../client/application/game/player_data/player_data_manager.cpp:53
+#: /client/application/game/player_data/player_data_manager.cpp:53
 msgid "New personal best! %s ⇨ %s"
 msgstr "Bagong record! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
-#: ../client/application/game/player_data/player_data_manager.cpp:56
+#: /client/application/game/player_data/player_data_manager.cpp:56
 msgid "Improved speed run! %s ⇨ %s"
 msgstr "Bagong record sa speed run! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: ../client/application/game/player_data/player_data_manager.cpp:838
+#: /client/application/game/player_data/player_data_manager.cpp:829
 msgid "Achievement Unlocked: %s"
 msgstr ""
 
 #. Describes the rarity level of items. Rarity level of 0.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:321
+#: /client/application/game/player_data/player_unlocked_items.cpp:321
 msgid "Common"
 msgstr ""
 
 #. Describes the rarity level of items. Rarity level of 1.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:323
+#: /client/application/game/player_data/player_unlocked_items.cpp:323
 msgid "Uncommon"
 msgstr ""
 
 #. Describes the rarity level of items. Rarity level of 2.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:325
+#: /client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
 msgstr ""
 
 #. Describes the rarity level of items. Rarity level of 3.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:327
+#: /client/application/game/player_data/player_unlocked_items.cpp:327
 msgid "Epic"
 msgstr ""
 
 #. Describes the rarity level of items. Rarity level of 4.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:329
+#: /client/application/game/player_data/player_unlocked_items.cpp:329
 msgid "Legendary"
 msgstr ""
 
 #. Describes the rarity level of items. Rarity level of 5.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:331
+#: /client/application/game/player_data/player_unlocked_items.cpp:331
 msgid "Mythical"
 msgstr ""
 
 #. Describes the rarity level of items. Rarity level of 6.
-#: ../client/application/game/player_data/player_unlocked_items.cpp:333
+#: /client/application/game/player_data/player_unlocked_items.cpp:333
 msgid "Transcendent"
 msgstr ""
 
 #. Describes a type of unlockable item
-#: ../client/application/game/player_data/player_unlocked_items.h:27
+#: /client/application/game/player_data/player_unlocked_items.h:27
 msgid "Ship"
 msgstr ""
 
 #. Describes a type of unlockable item
-#: ../client/application/game/player_data/player_unlocked_items.h:29
+#: /client/application/game/player_data/player_unlocked_items.h:29
 msgid "Trail"
 msgstr "Usok"
 
 #. Describes a type of unlockable item
-#: ../client/application/game/player_data/player_unlocked_items.h:31
+#: /client/application/game/player_data/player_unlocked_items.h:31
 msgid "Bullet"
 msgstr "Bala"
 
 #. Describes a type of unlockable item
-#: ../client/application/game/player_data/player_unlocked_items.h:33
+#: /client/application/game/player_data/player_unlocked_items.h:33
 msgid "Mace"
 msgstr ""
 
 #. Describes a type of unlockable item
-#: ../client/application/game/player_data/player_unlocked_items.h:35
+#: /client/application/game/player_data/player_unlocked_items.h:35
 msgid "Laser"
 msgstr ""
 
 #. Describes a type of unlockable item
-#: ../client/application/game/player_data/player_unlocked_items.h:37
+#: /client/application/game/player_data/player_unlocked_items.h:37
 msgid "Joystick"
 msgstr ""
 
 #. Describes a type of unlockable item
-#: ../client/application/game/player_data/player_unlocked_items.h:39
+#: /client/application/game/player_data/player_unlocked_items.h:39
 msgid "UI Color"
 msgstr "Kulay ng UI"
 
-#: ../client/application/game/state/game_network_message_parser.cpp:57
+#: /client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
 msgstr "Umalis sa laro si %s"
 
-#: ../client/application/game/state/game_state.cpp:500
+#: /client/application/game/state/game_state.cpp:500
 msgid "N/A"
 msgstr "---"
 
 #. Shown when the game is displaying stats. Concerns the player's shooting
 #. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
-#: ../client/application/game/state/game_state.cpp:513
+#: /client/application/game/state/game_state.cpp:513
 msgid "Accuracy: %s"
 msgstr "Sakto ng tira: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Total score: 43423"
-#: ../client/application/game/state/game_state.cpp:516
+#: /client/application/game/state/game_state.cpp:516
 msgid "Total score: %s"
 msgstr "Nalakip na record: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
-#: ../client/application/game/state/game_state.cpp:520
+#: /client/application/game/state/game_state.cpp:520
 msgid "Pointonium: %s"
 msgstr ""
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
-#: ../client/application/game/state/game_state.cpp:524
+#: /client/application/game/state/game_state.cpp:524
 msgid "Duration: %s"
 msgstr "Tagal: %s"
 
-#: ../client/application/game/ui/game_over_ui.cpp:10
+#: /client/application/game/ui/game_over_ui.cpp:10
 msgid "Game Over"
 msgstr "Natapos na ang Laro"
 
 #. April 1st replacement for "Game Over". Does not need an exact
 #. translation.
-#: ../client/application/game/ui/game_over_ui.cpp:18
+#: /client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
 msgstr "Namatay ka. Ulitin mo."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
-#: ../client/application/game/ui/game_over_ui.cpp:20
+#: /client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
 msgstr "Magpasok ng barya para maglaro"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
-#: ../client/application/game/ui/game_over_ui.cpp:22
+#: /client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
 msgstr "At least sinubukan mo."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
-#: ../client/application/game/ui/game_over_ui.cpp:24
+#: /client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
 msgstr "Okay lang 'yan. Mahina ka lang talaga."
 
-#: ../client/application/game/ui/game_over_ui.cpp:48
+#: /client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
 msgstr "Ulitin"
 
-#: ../client/application/game/ui/game_over_ui.cpp:50
+#: /client/application/game/ui/game_over_ui.cpp:50
 msgid "Continue"
 msgstr "Ituloy"
 
 #. Shown when the player failed to achieve an objective
-#: ../client/application/game/ui/game_over_ui.cpp:92
+#: /client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
 msgstr "Palpak"
 
-#. Shown when the player succesfully achieved an objective
-#: ../client/application/game/ui/game_over_ui.cpp:98
+#. Shown when the player successfully achieved an objective
+#: /client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
 msgstr "Mahusay!"
 
-#: ../client/application/game/ui/game_over_ui.cpp:113
+#: /client/application/game/ui/game_over_ui.cpp:113
 msgid "Exit"
 msgstr "Umalis"
 
-#: ../client/application/game/ui/pause_ui.cpp:45
+#: /client/application/game/ui/pause_ui.cpp:45
 msgid "Pause"
 msgstr "Nakahinto"
 
-#: ../client/application/game/ui/pause_ui.cpp:62
+#: /client/application/game/ui/pause_ui.cpp:62
 msgid "Restart"
 msgstr "Ulitin"
 
-#: ../client/application/game/ui/screens/accounts/screen_account_url_request.cpp:77
+#: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:77
 msgid "Loading..."
 msgstr "Maghintay..."
 
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
 msgid "Change colors"
 msgstr "Magpalit ng kulay"
 
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
 msgid "Old username:"
 msgstr "Kasalukuyang username:"
 
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
 msgid "New username:"
 msgstr "Bagong username:"
 
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
 msgid "Change"
 msgstr "Palitan"
 
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
 msgid "Only change colors! %s"
 msgstr "Kulay lamang ang maaaring palitan! %s"
 
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
 msgid "Username color change"
 msgstr "Pagpalit ng kulay ng username"
 
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
 msgstr "Napalitan na ang kulay ng iyong username!"
 
-#: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
 msgid "Failed to update username"
 msgstr "Hindi mapalitan ang username"
 
 #. Shown in a header, in the screen that allows you to manage your PewPew
 #. Live account. In this screen you can for example change the colors of your
 #. nickname, or delete your account.
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
 msgid "Manage Account"
 msgstr "Ayusin ang account"
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
 msgid "Synchronize"
 msgstr "I-sync"
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
 msgid "Sign out"
 msgstr "Mag-log out"
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:61
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:61
 msgid "Delete account"
 msgstr "Burahin ang account"
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:73
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:73
 msgid "Account deletion"
 msgstr "Pagbura ng account"
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:80
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:80
 msgid "Account deletion requested."
 msgstr "Nakahingi na ng permiso sa pagbura ng account."
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
 msgid "An email asking for confirmation was sent."
 msgstr "Ikaw ay makakatanggap ng email para sa pagkumpirma ng pagbubura ng iyong account."
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
 msgid "Failed to request account deletion"
 msgstr "Hindi makahingi ng permiso sa pagbura ng account"
 
-#: ../client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
 msgid "Help"
 msgstr "Tulong"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:21
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
 msgstr "Hindi wasto ang email!"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:46
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:46
 msgid "Too short. Minimum %s characters."
 msgstr "Maikli. Mula %s na character."
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:53
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:53
 msgid "Too long. Maximum %s characters."
 msgstr "Mahaba na. Hanggang %s na character."
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:70
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:70
 msgid "Register account"
 msgstr "Pag-register ng account"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Username"
 msgstr "Pangalan"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Password"
 msgstr "Password"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Confirm password"
 msgstr "Kumpirmahin ang password"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:81
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Email"
 msgstr "Email"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:82
-msgid "Confirm email"
-msgstr "Kumpirmahin ang email"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:117
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:114
 msgid "Register"
 msgstr "Magrehistro"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:131
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:128
 msgid "Registering"
 msgstr "Nire-register"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:135
 msgid "Registration successful."
 msgstr "Nakapag-register na!"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:140
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:137
 msgid "Please check your emails!"
 msgstr "Mangyaring buksan ang iyong email!"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:144
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:141
 msgid "Failed to register"
 msgstr "Hindi ma-register"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:171
 msgid "Username (you can put colors in!):"
 msgstr "Pangalan (pwede mong lagyan ng mga kulay!):"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:176
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:171
 msgid "Password:"
 msgstr "Password:"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Confirm password:"
 msgstr "Kumpirmahin ang password:"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Email:"
 msgstr "Email:"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:177
-msgid "Confirm email:"
-msgstr "Kumpirmahin ang email:"
-
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:211
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:205
 msgid "Passwords do not match!"
 msgstr "Hindi nagtugma ang mga password!"
 
-#: ../client/application/game/ui/screens/accounts/screen_register.cpp:220
-msgid "Emails do not match!"
-msgstr "Hindi nagtugma ang mga email!"
-
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
 msgstr "Account"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
 msgid "Not signed in"
 msgstr "Hindi pa naka-log in"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
 msgstr "Gumawa ng account para makapaglagay ng pangalan sa laro at ma-sync ang iyong data"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
 msgid "Sign in"
 msgstr "Mag log in"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
 msgid "Privacy Policy"
 msgstr "Patakaran ukol sa Privacy"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
 msgid "You need to be signed-in to upload scores"
 msgstr "Kailangan munang mag-log in bago ma-upload ang mga record"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to play online"
 msgstr "Kailangan munang mag-log in bago makapaglaro online"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
 msgid "You need to be signed-in to view comments"
 msgstr "Kailangang naka log-in para makita ang mga komento"
 
-#: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
 msgstr "Iyong account"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:28
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
 msgstr "Nagpapadala ng verification sa email"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:34
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
 msgstr "Napadalhan na ng verification ang email"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
 msgstr "Tingnan ang mensaheng dumating sayo!"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:40
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
 msgstr "Hindi naipadala sa email"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:51
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
 msgstr "Humihingi ng permiso sa pagpalit ng password"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:57
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:57
 msgid "Password reset email sent"
 msgstr "Nakuha na ang permiso sa pagpalit ng password"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:64
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:64
 msgid "Failed to request password reset"
 msgstr "Hindi makahingi ng permiso sa pagpalit ng password"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:138
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:138
 msgid "Signing in"
 msgstr "Nagla-log in"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:153
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
 msgstr "Nakapag-log in na!"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:167
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:167
 msgid "Email not verified"
 msgstr "Hindi makumpirma ang email"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:170
 msgid "Re-send verification email"
 msgstr "Muling padalhan ng verification ang email"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:185
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:185
 msgid "Incorrect password"
 msgstr "Mali ang password"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:188
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:188
 msgid "Request password reset"
 msgstr "Humingi ng permiso sa pagpalit ng password"
 
-#: ../client/application/game/ui/screens/accounts/screen_signin.cpp:214
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:214
 msgid "Reset password"
 msgstr "Ibalik ang password"
 
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
+#: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
 msgid "Synchronizing"
 msgstr "Sini-sync"
 
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:54
+#: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:54
 msgid "Failed to synchronize."
 msgstr "Hindi ma-sync."
 
-#: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:64
+#: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:64
 msgid "Synchronization completed."
 msgstr "Na-synchronize na."
 
-#: ../client/application/game/ui/screens/screen_benchmark.cpp:34
+#: /client/application/game/ui/screens/screen_benchmark.cpp:34
 msgid "Skip"
 msgstr "Laktaw"
 
-#: ../client/application/game/ui/screens/screen_career.cpp:25
+#: /client/application/game/ui/screens/screen_career.cpp:36
 msgid "Statistics"
 msgstr "Iyong Nakamit"
 
-#. The text shown in the career screen that explains that the
-#. stars and medals shown are *not* specific to an era.
-#: ../client/application/game/ui/screens/screen_career.cpp:59
-msgid "All time stars and medals"
-msgstr "Pangkalahatang bituin at medalya"
-
-#: ../client/application/game/ui/screens/screen_career.cpp:64
+#: /client/application/game/ui/screens/screen_career.cpp:61
 msgid "Global leaderboards"
 msgstr "Pangkalahatang leaderboard"
 
+#. The text shown in the career screen that explains that the
+#. stars and medals shown are *not* specific to an era.
+#: /client/application/game/ui/screens/screen_career.cpp:78
+msgid "All time stars and medals"
+msgstr "Pangkalahatang bituin at medalya"
+
+#. The title of the screen that shows which level the player is at
+#: /client/application/game/ui/screens/screen_career.cpp:100
+msgid "Level %s"
+msgstr ""
+
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
-#: ../client/application/game/ui/screens/screen_career.cpp:80
+#: /client/application/game/ui/screens/screen_career.cpp:124
 msgid "Deviations completed"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:58
+#: /client/application/game/ui/screens/screen_career.cpp:150
+msgid "Achievements"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_career.cpp:170
+msgid "XP leaderboard"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_career.cpp:183
+msgid "All leaderboards"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
 msgstr "Ayos ng Gamepad"
 
-#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:64
+#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
 msgstr "Deadzone"
 
-#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:79
+#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
 msgstr "Saturation"
 
-#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:96
+#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
 msgstr "Kurba"
 
-#: ../client/application/game/ui/screens/screen_configure_gamepad.cpp:118
+#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:118
 msgid "Reset"
 msgstr "Ibalik"
 
 #. The name of the graphics configuration that disables all the graphics effects
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:48
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:48
 msgid "Minimal"
 msgstr "Karampot"
 
 #. The name of the graphics configuration that enables a few graphical effects
 #. while still allowing screen recording with a high compression ratio
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:51
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:51
 msgid "Compression friendly"
 msgstr "Para sa video compression"
 
 #. The name of the graphics configuration that enables almost all the graphical effects.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:53
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:53
 msgid "High"
 msgstr "Maganda"
 
 #. The name of the graphics configuration that enables all the graphical effects.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:55
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:55
 msgid "Highest"
 msgstr "Napakaganda"
 
 #. Title of the screen where graphics are configured.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:93
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:93
 msgid "Configure graphics"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
 msgstr "patayin"
 
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:112
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "on"
 msgstr "buksan"
 
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:114
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:114
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
 msgstr ""
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:121
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
 msgid "Bloom intensity"
 msgstr ""
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:130
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:130
 msgid "Lens dirt"
 msgstr ""
 
 #. The name of the setting that enables horizontal scanlines.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:138
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:138
 msgid "horizontal"
 msgstr ""
 
 #. The name of setting that enables grid-like scanlines.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:140
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "grid"
 msgstr ""
 
 #. The name for the setting category for choosing the scalines type.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:142
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:142
 msgid "Scanlines"
 msgstr ""
 
 #. The name for the setting category for choosing the chromatic aberration.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:148
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:148
 msgid "Chromatic aberration"
 msgstr ""
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:157
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:157
 msgid "Curved monitor"
 msgstr ""
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:166
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:166
 msgid "Vignette"
 msgstr ""
 
 #. The color "black"
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:178
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:186
 msgid "Black"
 msgstr "Itim"
 
 #. The color "blue"
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:180
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
 msgid "Blue"
 msgstr "Bughaw"
 
 #. The color "teal"
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:182
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
 msgstr "Tilya"
 
 #. The color "green"
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:184
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
 msgid "Green"
 msgstr "Lunti"
 
 #. The color "pink"
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:186
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:194
 msgid "Pink"
 msgstr "Rosas"
 
 #. The name of a setting category for choosing the background hue of the
 #. renderer.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:191
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:199
 msgid "Background hue"
 msgstr ""
 
 #. Name of the setting for when the game is shown in a window.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:205
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:213
 msgid "Windowed"
 msgstr "Naka-window"
 
 #. Name of the setting for when the game is shown in fullscreen.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:207
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:215
 msgid "Fullscreen"
 msgstr "Buong screen"
 
 #. Name of the setting for when the game is shown in a borderless window.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:209
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:217
 msgid "Borderless"
 msgstr "Walang border"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
-#: ../client/application/game/ui/screens/screen_configure_graphics.cpp:220
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:228
 msgid "Screen type"
 msgstr "Uri ng screen"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
-#: ../client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
+#: /client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
 msgid "Joysticks style"
 msgstr "Itsura ng joystick"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:113
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:113
 msgid "Configure keyboard"
 msgstr "Ayos ng keyboard"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:118
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:118
 msgid "Move"
 msgstr "Paggalaw"
 
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:126
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:126
 msgid "Shoot"
 msgstr "Pagtira"
 
 #. Used in the settings. The %s is replaced with "on" or "off", for example:
 #. "Mouse aim off".
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:254
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:254
 msgid "Mouse aim %s"
 msgstr "Pagtutok ng mouse %s"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Quick Restart: Space".
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:258
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:258
 msgid "Quick Restart: %s"
 msgstr "Pag-ulit sa isang pindot: %s"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Slow Down: Shift".
-#: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:262
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
 msgstr "Pagbagal: %s"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:55
+#: /client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
 msgstr "Ayos ng Ship"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:58
+#: /client/application/game/ui/screens/screen_configure_ship.cpp:58
 msgid "Model"
 msgstr "Ship"
 
-#: ../client/application/game/ui/screens/screen_configure_ship.cpp:58
+#: /client/application/game/ui/screens/screen_configure_ship.cpp:58
 msgid "Bullets"
 msgstr "Bala"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
+#: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
 msgstr "Ayos ng joysticks"
 
-#: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
+#: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
 msgid "Swap"
 msgstr "Pagpalitin"
 
-#: ../client/application/game/ui/screens/screen_download_level.cpp:45
+#: /client/application/game/ui/screens/screen_download_level.cpp:49
 msgid "Downloading level..."
 msgstr "Nagda-download..."
 
-#: ../client/application/game/ui/screens/screen_download_level.cpp:73
+#: /client/application/game/ui/screens/screen_download_level.cpp:77
 msgid "Failed to download level."
 msgstr "Hindi ma-download ang level."
 
-#: ../client/application/game/ui/screens/screen_encyclopedia.cpp:37
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_informations.cpp:87
+#: /client/application/game/ui/screens/screen_feed.cpp:68
+msgid "Global feed"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_feed.cpp:69
+msgid "Personal notifications"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_feed.cpp:188
+msgid "No notifications"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
 msgstr "Musika"
 
 #. Shown in a button. This buttons lets you see a list of people that
 #. contributed to the game.
-#: ../client/application/game/ui/screens/screen_informations.cpp:102
+#: /client/application/game/ui/screens/screen_informations.cpp:102
 msgid "Credits"
 msgstr "Mga nag-ambag"
 
 #. Shown in a button. This buttons lets you see the list of programming
 #. library that are used in the game.
-#: ../client/application/game/ui/screens/screen_informations.cpp:116
+#: /client/application/game/ui/screens/screen_informations.cpp:116
 msgid "Licenses"
 msgstr "Mga lisensya"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to discord server
-#: ../client/application/game/ui/screens/screen_informations.h:22
+#: /client/application/game/ui/screens/screen_informations.h:22
 msgid "Discord server"
 msgstr "Server ng discord"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to the youtube channel
-#: ../client/application/game/ui/screens/screen_informations.h:30
+#: /client/application/game/ui/screens/screen_informations.h:30
 msgid "Development videos"
 msgstr "Mga video ng paggawa"
 
 #. Shown in the tab strip of the inventory. Used for showing all the unlocked
 #. items.
-#: ../client/application/game/ui/screens/screen_inventory.cpp:88
+#: /client/application/game/ui/screens/screen_inventory.cpp:89
 msgid "All"
 msgstr "Lahat"
 
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
 #. bullets, the joysticks, the ui color, etc...
-#: ../client/application/game/ui/screens/screen_inventory.cpp:219
+#: /client/application/game/ui/screens/screen_inventory.cpp:224
 msgid "Inventory"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
+msgid "Save ship configuration"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:110
+msgid "Save"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:137
+msgid "Configuration saved"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:160
+msgid "Enter configuration name"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:175
+msgid "Load ship configuration"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:236
+msgid "loaded ship configuration"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:238
+msgid "loaded <%s>"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
 msgstr "Gamit ang LAN"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
 msgstr "Sa LAN (local) multiplayer, kailangang nakakonekta sa magkaparehong Wi-Fi network ang 2 manlalaro."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
 msgstr "Isa sa inyo ang gagawa ng room, at sumali ang wala pa sa room kapag nakagawa na."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "The wifi network does not have to be connected to the internet."
 msgstr "Hindi na kailangang nakakonekta sa internet ang wifi network."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "Connecting to a phone's hotspot should work!"
 msgstr "Sapat na ang pagkonekta sa hotspot ng phone!"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
 msgstr "Kapag natapos na ang inyong laro at nais niyong ibahagi sa mundo ang inyong replay sa leaderboard, i-upload ng hiwalay ang inyong record para parehas na lumabas ang inyong pangalan."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
 msgstr "Paglalaro gamit LAN"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
 msgid "Searching for rooms..."
 msgstr "Naghahanap ng rooms..."
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:170
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:170
 msgid "(Incompatible version)"
 msgstr "(Hindi tugma ang bersiyon)"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:190
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:190
 msgid "Create room"
 msgstr "Gumawa ng room"
 
-#: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
 msgid "Close room"
 msgstr "Isarado ang room"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:49
+#: /client/application/game/ui/screens/screen_main_menu.cpp:52
 msgid "Single Player"
 msgstr "Mag-isa"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:51
+#: /client/application/game/ui/screens/screen_main_menu.cpp:54
 msgid "Play"
 msgstr "Maglaro"
 
-#: ../client/application/game/ui/screens/screen_main_menu.cpp:80
+#: /client/application/game/ui/screens/screen_main_menu.cpp:83
 msgid "Multiplayer"
 msgstr "May Kasama"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
 msgid "Room is full"
 msgstr "Puno na ang room"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:115
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:115
 msgid "You are already in the room!"
 msgstr "Nasa room ka na!"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:184
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:184
 msgid "Local lobby"
 msgstr "Local lobby"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:187
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:187
 msgid "Online lobby"
 msgstr "Online lobby"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:193
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:193
 msgid "Ready"
 msgstr "Handa na!"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:202
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:202
 msgid "Cancel"
 msgstr "Ikansela"
 
-#: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:345
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:345
 msgid "Waiting for other players..."
 msgstr "Naghihintay ng iba pang manlalaro..."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
 msgid "Checking network..."
 msgstr "Sinusuri ang network..."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
 msgid "Can't play in multiplayer with a symmetric NAT."
 msgstr "Hindi makakonekta sa multiplayer gamit ang symmetric NAT."
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
 #. information, or opens a webpage.
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
 msgid "Learn more"
 msgstr "Matuto pa"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
 msgid "Symmetric NAT error"
 msgstr "May mali sa symmetric NAT"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
 msgstr "Maraming hadlang sa koneksyon ng internet kaya hindi makapasok sa multiplayer."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
 msgstr "Kapag internet galing sa sim card ang gamit mo, patayin mo tapos buksan mo ulit. Kung Wi-Fi ang gamit mo, subukan mong kumonekta sa ibang Wi-Fi network."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
 msgstr "Hindi makakonekta sa mga STUN server."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:144
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:144
 msgid "Authenticating..."
 msgstr "Ino-authenticate..."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:157
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:157
 msgid "Need the latest version of the game."
 msgstr "Kailangan ang pinakabagong bersiyon ng laro."
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
 msgid "Failed to authenticate"
 msgstr "Hindi ma-authenticate"
 
-#: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:188
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:188
 msgid "Error :("
 msgstr "May mali :("
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:39
+#: /client/application/game/ui/screens/screen_online_configure_room.cpp:42
 msgid "Room configuration"
 msgstr "Ayos ng room"
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:63
+#: /client/application/game/ui/screens/screen_online_configure_room.cpp:66
 msgid "2 extra characters (optional):"
 msgstr "2 dagdag na character (kahit 'di na lagyan):"
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:96
+#: /client/application/game/ui/screens/screen_online_configure_room.cpp:99
 msgid "Password (optional):"
 msgstr "Password (kahit 'di na lagyan):"
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:132
+#: /client/application/game/ui/screens/screen_online_configure_room.cpp:135
 msgid "Any level"
 msgstr "Kahit anong level"
 
-#: ../client/application/game/ui/screens/screen_online_configure_room.cpp:179
+#: /client/application/game/ui/screens/screen_online_configure_room.cpp:182
 msgid "Room name: %s"
 msgstr "Pangalan ng room: %s"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:281
+#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:281
 msgid "Joining room"
 msgstr "Sumasali sa room"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:301
+#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:301
 msgid "The room expired"
 msgstr "Nawala na ang room"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:315
+#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:315
 msgid "Unknown error"
 msgstr "Hindi matukoy ang mali"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:330
+#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:330
 msgid "Failed to join room"
 msgstr "Hindi makasali sa room"
 
-#: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
+#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
 msgid "The room does not exist anymore"
 msgstr "Nawala na ang room"
 
-#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
+#: /client/application/game/ui/screens/screen_online_enter_password.cpp:24
 msgid "Enter password"
 msgstr "Ilagay ang password"
 
-#: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
+#: /client/application/game/ui/screens/screen_online_enter_password.cpp:26
 msgid "Join"
 msgstr "Sumali"
 
-#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:91
+#: /client/application/game/ui/screens/screen_online_list_rooms.cpp:91
 msgid "Online multiplayer"
 msgstr "Gamit ang online network"
 
-#: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:112
+#: /client/application/game/ui/screens/screen_online_list_rooms.cpp:112
 msgid "Refresh"
 msgstr "Ulitin"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
+#: /client/application/game/ui/screens/screen_select_development_level.cpp:18
+msgid "Developer mode"
+msgstr "Pang-developer"
+
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
 msgid "Select multiplayer type"
 msgstr "Maglaro ng may kasama"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
 msgid "Play with people around the world!"
 msgstr "Makipaglaro sa mga manlalaro sa loob at labas ng bansa!"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
 msgid "LAN multiplayer"
 msgstr "Gamit ang LAN"
 
-#: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
 msgid "Play with people on the same network!"
 msgstr "Makipaglaro sa mga manlalaro sa kaparehong network!"
 
 #. The title of the screen where you select official levels.
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:41
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:42
 msgid "Official"
 msgstr "Opisyal"
 
 #. The title of the screen where you select what to play in the World.
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:43
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:44
 msgid "World"
 msgstr ""
 
 #. The title of the screen where you select what sandbox to play.
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:45
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:46
 msgid "Sandbox"
 msgstr ""
 
 #. The title of the screen where you select community levels.
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:47
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:48
 msgid "Community"
 msgstr "Pangkomunidad"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:199
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:166
 msgid "Official levels allow you to get score medals:"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:200
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:167
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
 msgstr "#ff8000ffTanso#ffffffff, #ffffffaaPilak#ffffffff, and #ffff00ffGinto#ffffffff"
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:201
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:202
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:203
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:208
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:175
 msgid "The world contains many deviations."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:209
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:176
 msgid "To complete deviations you should be familiar with the official levels."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:210
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:177
 msgid "You can play the deviations in 3 levels of difficulties."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:211
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:178
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:212
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
 msgid "For every completed deviation you get XP."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:213
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:219
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:186
 msgid "The sandbox is the place to train and experiment under different conditions."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:220
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:187
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:221
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:188
 msgid "The sandbox is still in development, so expect changes in the future."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:226
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
+msgid "Community levels are created by the community."
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
+msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
+msgid "Most community levels give out stars."
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
+msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:235
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
+msgid "Community levels information"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:240
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "Sandbox information"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:14
+#: /client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
 msgstr "Hindi makakonekta"
 
-#: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:17
+#: /client/application/game/ui/screens/screen_server_connection_closed.cpp:17
 msgid "Lost connection to host"
 msgstr "Nawalan ng koneksyon sa host"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:33
+#: /client/application/game/ui/screens/screen_settings.cpp:33
 msgid "Settings"
 msgstr "Ayos ng laro"
 
 #. Shown in the button used for entering the screen to configure the
 #. graphics settings.
-#: ../client/application/game/ui/screens/screen_settings.cpp:44
+#: /client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Graphics"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:54
+#: /client/application/game/ui/screens/screen_settings.cpp:54
 msgid "Controls"
 msgstr "Controller"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:64
+#: /client/application/game/ui/screens/screen_settings.cpp:64
 msgid "Audio"
 msgstr "Audio"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:75
+#: /client/application/game/ui/screens/screen_settings.cpp:75
 msgid "Language"
 msgstr "Wika"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:86
+#: /client/application/game/ui/screens/screen_settings.cpp:86
 msgid "UI"
 msgstr "UI"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:112
+#: /client/application/game/ui/screens/screen_settings.cpp:112
 msgid "Start tutorial"
 msgstr "Paano ito laruin?"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:124
+#: /client/application/game/ui/screens/screen_settings.cpp:124
 msgid "Launch intro"
 msgstr "Panoorin ang intro"
 
-#: ../client/application/game/ui/screens/screen_settings.cpp:135
-msgid "Developer mode"
-msgstr "Pang-developer"
-
-#: ../client/application/game/ui/screens/screen_settings.cpp:189
+#: /client/application/game/ui/screens/screen_settings.cpp:189
 msgid "Vibration %s"
 msgstr "Pag-vibrate %s"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:20
+#: /client/application/game/ui/screens/screen_settings_audio.cpp:20
 msgid "Audio Settings"
 msgstr "Ayos ng Audio"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:29
+#: /client/application/game/ui/screens/screen_settings_audio.cpp:29
 msgid "Sound effects"
 msgstr "Tunog"
 
-#: ../client/application/game/ui/screens/screen_settings_audio.cpp:123
+#: /client/application/game/ui/screens/screen_settings_audio.cpp:123
 msgid "Visualization"
 msgstr "Pagsasalarawan"
 
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:17
+#: /client/application/game/ui/screens/screen_settings_controls.cpp:17
 msgid "Controls Settings"
 msgstr "Ayos ng Controller"
 
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
+#: /client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
 msgstr "Touchscreen"
 
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:38
+#: /client/application/game/ui/screens/screen_settings_controls.cpp:38
 msgid "Keyboard"
 msgstr "Keyboard"
 
-#: ../client/application/game/ui/screens/screen_settings_controls.cpp:48
+#: /client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
 msgstr "Gamepad"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:17
+#: /client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
 msgstr "Mga Pagpipiliang Wika"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:20
+#: /client/application/game/ui/screens/screen_settings_language.cpp:20
 msgid "The translations are community provided!"
 msgstr "Ginawa ng komunidad ang mga pagsasalin!"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:29
+#: /client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
 msgstr "Pangkaraniwang wika"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:43
+#: /client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
 msgstr "Tumulong"
 
-#: ../client/application/game/ui/screens/screen_settings_language.cpp:53
+#: /client/application/game/ui/screens/screen_settings_language.cpp:53
 msgid "Contributors"
 msgstr "Mga nag-ambag"
 
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:114
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:114
 msgid "UI Settings"
 msgstr "Ayos ng UI"
 
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:131
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:131
 msgid "Show in-game score"
 msgstr "Ipakita ang score sa laro"
 
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:147
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
 msgstr "Hihinto ang laro, pagkabitaw sa screen"
 
@@ -1315,196 +1400,200 @@ msgstr "Hihinto ang laro, pagkabitaw sa screen"
 #. update your "Steam status" or not.
 #. The "Steam status" is the status that is shown next to your name in Steam.
 #. example of a status: "Pablo Picasso -- playing Eskiv".
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:168
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:168
 msgid "Steam status"
 msgstr "Status sa Steam"
 
 #. The description of the setting that allows players to toggle on or off
 #. the floating text message in-game.
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:188
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:188
 msgid "Show optional floating text"
 msgstr "Mga text na lumilitaw sa screen"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:262
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:262
 msgid "UI Scale: %s"
 msgstr "Laki ng UI: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
-#: ../client/application/game/ui/screens/screen_settings_ui.cpp:269
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:269
 msgid "UI Inset: %s"
 msgstr "Espasyo ng UI: %s"
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
+#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
 msgstr "Kumonekta sa server"
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
+#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:50
 msgid "IP:"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
+#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:58
 msgid "Port:"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
+#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
 msgstr "Kumonekta gamit ang internet #ff0000ff(experimental)"
 
-#: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
+#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
 msgstr "Kumonekta"
 
-#: ../client/application/game/ui/screens/screen_tutorial.cpp:31
+#: /client/application/game/ui/screens/screen_tutorial.cpp:31
 msgid "Tutorial"
 msgstr "Mga turo"
 
 #. Shown in the descripting of the item. "type" refers to what kind of
 #. item it is. Ship, trail, bullet, etc...
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:92
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:93
 msgid "Type"
 msgstr ""
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
 #. For example "alpha', "rival", etc...
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:96
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:97
 msgid "Name"
 msgstr ""
 
 #. Shown in the descripting of the item. "rarity" refers to what the
 #. rarity of the item
 #. is. For example, "common", "rare", etc...
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:100
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:101
 msgid "Rarity"
 msgstr ""
 
 #. Title of the screen that shows the UI to unlock items
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:236
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:237
 msgid "Unlock items"
 msgstr ""
 
 #. The label of a button used for unlocking a single item.
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:252
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:253
 msgid "Unlock item"
 msgstr ""
 
 #. Shown in a string when no items can be unlocked
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:272
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:273
 msgid "No items to unlock"
 msgstr ""
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
-#: ../client/application/game/ui/screens/screen_unlock_items.cpp:277
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:278
 msgid "Items to unlock: %s"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:53
+#: /client/application/game/ui/screens/screen_upload_scores.cpp:54
 msgid "Upload scores"
 msgstr "I-upload ang record"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:80
+#: /client/application/game/ui/screens/screen_upload_scores.cpp:81
 msgid "Nothing to upload!"
 msgstr "Walang ma-upload!"
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:98
+#: /client/application/game/ui/screens/screen_upload_scores.cpp:99
 msgid "Failed to upload replays."
 msgstr "Hindi ma-upload ang replay."
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:100
+#: /client/application/game/ui/screens/screen_upload_scores.cpp:101
 msgid "Upload successful"
 msgstr "Na-upload na."
 
-#: ../client/application/game/ui/screens/screen_upload_scores.cpp:120
+#: /client/application/game/ui/screens/screen_upload_scores.cpp:132
 msgid "Uploading replay for %s."
 msgstr "Ina-upload ang replay para sa %s."
 
 #. Shown when a user disables comments on their profile and or levels.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
 msgid "Comments are disabled."
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:203
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:207
 msgid "Are you sure you want to report this comment?"
 msgstr "Sigurado ka na bang gusto mong ireklamo ang komentong ito?"
 
 #. Shown in a notification after successfully reporting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:205
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:209
 msgid "Successfully reported comment"
 msgstr "Matagumpay na nareklamo ang komento"
 
 #. Shown in a notification if a comment could not be reported.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:207
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:211
 msgid "Error reporting comment"
 msgstr "Pumalya ang pagreklamo sa komento"
 
 #. The title of the screen where players delete comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:234
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:240
 msgid "Delete comment"
 msgstr "Burahin ang komento"
 
 #. Shown in a notification after successfully deleting a comment.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:236
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:242
 msgid "Successfully deleted comment"
 msgstr "Nabura na ang komento"
 
 #. Shown in a notification if a comment could not be deleting.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:238
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:244
 msgid "Error deleting comment"
 msgstr "Hindi mabura ang komento"
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:241
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:247
 msgid "Are you sure you want to delete this comment?"
 msgstr "Sugurado ka na bang buburahin mo ang komentong ito?"
 
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:328
+msgid "No comments"
+msgstr ""
+
 #. Used as a placeholder in the textfield where players write their comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:347
 msgid "<Add a comment here>"
 msgstr "<Dito ilagay ang komento>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:337
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:362
 msgid "Comment"
 msgstr "Komento"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:343
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:368
 msgid "Comment must be at least 3 characters long."
 msgstr "Hindi pwedeng maikli sa 3 letra ang komento"
 
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:359
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:384
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
 msgstr "Mag-ingat sa sasabihin. Huwag mang-insulto, magmura, at magkalat. Buburahin namin ang mga komentong lumabag sa isa sa mga nasabing patakaran, at maaari ring ma-ban ang may gawa ng partikular na komento."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:383
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:408
 msgid "Posting comment"
 msgstr "Nilalagay ang komento"
 
 #. Shown in a notification after a comment was successfully posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:404
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:429
 msgid "Comment posted"
 msgstr "Nakalagay na ang komento"
 
 #. Shown in a notification after a comment failed to be posted.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:408
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:433
 msgid "Failed to post comment"
 msgstr "Hindi mailagay ang komento"
 
 #. The title of the screen where players report comments.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:206
 msgctxt "report_screen_title"
 msgid "Report comment"
 msgstr "Ireklamo ang komento"
 
 #. The title of the screen where players enter the comment they want to add.
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:315
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:340
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
 msgstr "Magdagdag ng komento"
@@ -1514,7 +1603,7 @@ msgstr "Magdagdag ng komento"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:471
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:496
 msgctxt "menu_confirm_action"
 msgid "Yes"
 msgstr "Oo"
@@ -1524,204 +1613,188 @@ msgstr "Oo"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:484
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:509
 msgctxt "menu_cancel_action"
 msgid "No"
 msgstr "Hindi"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
-msgid "1p"
-msgstr "1p"
-
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
-msgid "2p"
-msgstr "2p"
-
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
-msgid "3p"
-msgstr "3p"
-
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:29
-msgid "4p"
-msgstr "4p"
-
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:33
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "Africa"
 msgstr "Aprika"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:34
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:30
 msgid "Asia"
 msgstr "Asya"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:35
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:31
 msgid "Europe"
 msgstr "Europa"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:36
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:32
 msgid "North America"
 msgstr "Hilagang Amerika"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:37
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Oceania"
 msgstr "Oceania"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:38
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:34
 msgid "South America"
 msgstr "Timog Amerika"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:65
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:61
 msgid "personal"
 msgstr "pansarili"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:65
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:61
 msgid "region"
 msgstr "rehiyon"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:66
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:62
 msgid "continent"
 msgstr "kontinente"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:66
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:62
 msgid "world"
 msgstr "daigdig"
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:143
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:145
 msgid "high scores"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_view_leaderboards.cpp:144
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:146
 msgid "speed runs"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:36
+#: /client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
 msgstr "Pangkalahatang record: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:40
+#: /client/application/game/ui/screens/screen_view_level.cpp:40
 msgid "Local best: %s"
 msgstr "Pansariling record: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:62
+#: /client/application/game/ui/screens/screen_view_level.cpp:62
 msgid "Failed to download manifest"
 msgstr "Hindi ma-download ang manifest"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:80
-msgid "Failed to set up comments"
+#: /client/application/game/ui/screens/screen_view_level.cpp:87
+msgid "Featured level"
 msgstr ""
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:231
+#: /client/application/game/ui/screens/screen_view_level.cpp:223
 msgid "average score: %s"
 msgstr "Karaniwang record: %s"
 
-#: ../client/application/game/ui/screens/screen_view_level.cpp:294
+#: /client/application/game/ui/screens/screen_view_level.cpp:286
 msgid "Experimental level"
 msgstr "Experimental"
 
 #. Used for showing the version of a level. The %s will be replaced with a
 #. version number. For example: "version 2"
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:18
+#: /client/application/game/ui/screens/screen_view_level_info.cpp:36
 msgid "version %s"
 msgstr "ika %s (na) bersyon"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:21
+#: /client/application/game/ui/screens/screen_view_level_info.cpp:39
 msgid "released %s"
 msgstr "inilabas nang %s"
 
 #. Used if the level does not contain any information.
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:23
+#: /client/application/game/ui/screens/screen_view_level_info.cpp:41
 msgid "No information available"
 msgstr "Walang ibinigay na impormasyon"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
-#: ../client/application/game/ui/screens/screen_view_level_info.cpp:26
+#: /client/application/game/ui/screens/screen_view_level_info.cpp:44
 msgid "Gold medals percentage: %s"
 msgstr "Posyento ng gintong medalyang nalakip: %s"
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:48
+#: /client/application/game/ui/screens/screen_watch_replay.cpp:83
 msgid "Failed to read replay."
 msgstr "Hindi mabasa ang replay."
 
-#: ../client/application/game/ui/screens/screen_watch_replay.cpp:77
+#: /client/application/game/ui/screens/screen_watch_replay.cpp:112
 msgid "Failed to download replay."
 msgstr "Hindi ma-download ang replay."
 
-#: ../client/application/game/ui/shared_strings.cpp:7
+#: /client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
 msgstr "Hindi makuha ang response"
 
-#: ../client/application/game/ui/shared_strings.cpp:11
+#: /client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
 msgstr "Hindi makaabot sa server"
 
-#: ../client/application/game/ui/shared_strings.cpp:15
+#: /client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
 msgstr "Mga opisyal na level"
 
-#: ../client/application/game/ui/shared_strings.cpp:19
+#: /client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
 msgstr "Mga level ng komunidad"
 
-#: ../client/application/game/ui/shared_strings.cpp:23
+#: /client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
 msgstr "Ilang beses naglaro: %s"
 
-#: ../client/application/game/ui/shared_strings.cpp:27
+#: /client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
 msgstr "Ga'no katagal naglaro: %s"
 
-#: ../client/application/game/ui/shared_strings.cpp:31
+#: /client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
 msgstr "Pampalipas-oras"
 
-#: ../client/application/game/ui/shared_strings.cpp:35
+#: /client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
 msgstr "Hindi makapag-log in!"
 
 #. Describes the lowest difficutly setting (1/3)
-#: ../client/application/game/ui/shared_strings.cpp:40
+#: /client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
 msgstr ""
 
 #. Describes the mid difficulty setting (2/3)
-#: ../client/application/game/ui/shared_strings.cpp:45
+#: /client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
 msgstr ""
 
 #. Describes the highest difficutly setting (3/3)
-#: ../client/application/game/ui/shared_strings.cpp:50
+#: /client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
 msgstr ""
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
 #. "Era 2 medals and stars"
-#: ../client/application/game/ui/views/account_view.cpp:365
+#: /client/application/game/ui/views/account_view.cpp:384
 msgid "Era %s medals and stars"
 msgstr "Mga nalakip na bituin at medalya sa \"ika %s (na) era\""
 
 #. Error shown when downloading some piece of data failed.
-#: ../client/application/game/ui/views/account_view.cpp:519
+#: /client/application/game/ui/views/account_view.cpp:533
 msgid "Download error"
 msgstr "Hindi ma download"
 
 #. Shown when the downloading of some piece of data is in progress.
-#: ../client/application/game/ui/views/account_view.cpp:521
+#: /client/application/game/ui/views/account_view.cpp:535
 msgid "Downloading..."
 msgstr "Nagdadownload..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
-#: ../client/application/game/ui/views/account_view.cpp:88
+#: /client/application/game/ui/views/account_view.cpp:88
 msgctxt "account_view"
 msgid "Levels"
 msgstr "Mga Level"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
-#: ../client/application/game/ui/views/account_view.cpp:91
+#: /client/application/game/ui/views/account_view.cpp:91
 msgctxt "account_view"
 msgid "Scores"
 msgstr "Mga Record"
@@ -1729,7 +1802,7 @@ msgstr "Mga Record"
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
 #. to their youtube channel, etc...
-#: ../client/application/game/ui/views/account_view.cpp:95
+#: /client/application/game/ui/views/account_view.cpp:95
 msgctxt "account_view"
 msgid "General"
 msgstr "Kabuuan"
@@ -1737,170 +1810,154 @@ msgstr "Kabuuan"
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
 #. "Join date: 2021-08-25"
-#: ../client/application/game/ui/views/account_view.cpp:327
+#: /client/application/game/ui/views/account_view.cpp:329
 msgctxt "account_view"
 msgid "Join date: %s"
 msgstr "Araw ng pagsali: %s"
 
-#: ../client/application/game/ui/views/community_level_selector.cpp:289
+#. Displayed in a player's profile. The %s will be replaced by the level of
+#. the player, for example: "Level: 46"
+#: /client/application/game/ui/views/account_view.cpp:339
+msgctxt "account_view"
+msgid "Level: %s"
+msgstr ""
+
+#: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
 msgstr "SUSURIIN"
 
-#: ../client/application/game/ui/views/game_hud.cpp:79
+#: /client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
 msgstr "Proteksyon: %s"
 
 #. Shown in the title of the screen where you enter the name of a
 #. configuration.
-#: ../client/application/game/ui/views/sandbox_configurator.cpp:93
+#: /client/application/game/ui/views/sandbox_configurator.cpp:93
 msgid "Save sandbox configuration"
-msgstr ""
-
-#. Shown in a button. That button is used to save a configuration.
-#: ../client/application/game/ui/views/sandbox_configurator.cpp:97
-msgid "Save"
-msgstr ""
-
-#. Shown in a notification displayed when a configuration is saved.
-#: ../client/application/game/ui/views/sandbox_configurator.cpp:108
-msgid "Configuration saved"
-msgstr ""
-
-#. Messsage shown in the screen that asks to
-#. enter the name of the sandbox configuration
-#: ../client/application/game/ui/views/sandbox_configurator.cpp:134
-msgid "Enter configuration name"
 msgstr ""
 
 #. Shown in the title of the screen where you select a Sandbox
 #. configuration to load.
-#: ../client/application/game/ui/views/sandbox_configurator.cpp:166
+#: /client/application/game/ui/views/sandbox_configurator.cpp:166
 msgid "Load sandbox configuration"
 msgstr ""
 
 #. Shown in a notification when an unnamed sandbox configuration is
 #. loaded.
-#: ../client/application/game/ui/views/sandbox_configurator.cpp:196
+#: /client/application/game/ui/views/sandbox_configurator.cpp:196
 msgid "loaded sandbox configuration"
 msgstr ""
 
-#. Shown in a notification when a configuration is loaded.
-#. %s is replaced by the name of the configuration, for example:
-#. "loaded <my awesome config>"
-#: ../client/application/game/ui/views/sandbox_configurator.cpp:201
-msgid "loaded <%s>"
-msgstr ""
-
 #. Shown in the button that allows users to sort by date
-#: ../client/application/game/ui/views/sort_button.cpp:31
+#: /client/application/game/ui/views/sort_button.cpp:31
 msgid "Date"
 msgstr "Araw"
 
 #. Shown in the button that allows users to sort by stars
-#: ../client/application/game/ui/views/sort_button.cpp:35
+#: /client/application/game/ui/views/sort_button.cpp:35
 msgid "Stars"
 msgstr "Bituin"
 
 #. Shown in the button that allows users to sort by difficutly
-#: ../client/application/game/ui/views/sort_button.cpp:39
+#: /client/application/game/ui/views/sort_button.cpp:39
 msgid "Difficulty"
 msgstr "Hirap"
 
-#: ../client/application/game/ui/views/top_notification_view.cpp:56
+#: /client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
 msgstr "%sNaghihintay ng makakalaro%s"
 
 #. The label shown in the button used to enter the World.
-#: ../client/application/game/ui/views/world_selector.cpp:176
+#: /client/application/game/ui/views/world_selector.cpp:176
 msgid "Enter World"
 msgstr ""
 
-#: ../client/application/ui/keyboard_view.cpp:108
+#: /client/application/ui/keyboard_view.cpp:108
 msgid "ok"
 msgstr "ok"
 
 #. The color "red"
-#: ../client/application/ui/ui_skin.cpp:34
+#: /client/application/ui/ui_skin.cpp:34
 msgid "Red"
 msgstr "Pula"
 
 #. The color "cyan"
-#: ../client/application/ui/ui_skin.cpp:37
+#: /client/application/ui/ui_skin.cpp:37
 msgid "Cyan"
 msgstr "Siyano"
 
 #. The color "lime"
-#: ../client/application/ui/ui_skin.cpp:40
+#: /client/application/ui/ui_skin.cpp:40
 msgid "Lime"
 msgstr "Dayap"
 
 #. The color "lime green"
-#: ../client/application/ui/ui_skin.cpp:43
+#: /client/application/ui/ui_skin.cpp:43
 msgid "Lime Green"
 msgstr "Dayap-luntian"
 
 #. The color "purple"
-#: ../client/application/ui/ui_skin.cpp:46
+#: /client/application/ui/ui_skin.cpp:46
 msgid "Purple"
 msgstr "Lila"
 
 #. The color "orange"
-#: ../client/application/ui/ui_skin.cpp:52
+#: /client/application/ui/ui_skin.cpp:52
 msgid "Orange"
 msgstr "Kahel"
 
 #. The color "white"
-#: ../client/application/ui/ui_skin.cpp:55
+#: /client/application/ui/ui_skin.cpp:55
 msgid "White"
 msgstr "Puti"
 
 #. The color "gray"
-#: ../client/application/ui/ui_skin.cpp:58
+#: /client/application/ui/ui_skin.cpp:58
 msgid "Gray"
 msgstr "Kulay-abo"
 
 #. The color "dark blue"
-#: ../client/application/ui/ui_skin.cpp:61
+#: /client/application/ui/ui_skin.cpp:61
 msgid "Dark Blue"
 msgstr "Bughaw"
 
 #. The color "yellow"
-#: ../client/application/ui/ui_skin.cpp:64
+#: /client/application/ui/ui_skin.cpp:64
 msgid "Yellow"
 msgstr ""
 
 #. The UI color "frosted green"
-#: ../client/application/ui/ui_skin.cpp:67
+#: /client/application/ui/ui_skin.cpp:67
 msgid "Frosted Green"
 msgstr ""
 
 #. The UI color "frosted red"
-#: ../client/application/ui/ui_skin.cpp:70
+#: /client/application/ui/ui_skin.cpp:70
 msgid "Frosted Red"
 msgstr ""
 
 #. The UI color "frosted blue"
-#: ../client/application/ui/ui_skin.cpp:73
+#: /client/application/ui/ui_skin.cpp:73
 msgid "Frosted Blue"
 msgstr ""
 
 #. The UI color "frosted yellow"
-#: ../client/application/ui/ui_skin.cpp:76
+#: /client/application/ui/ui_skin.cpp:76
 msgid "Frosted Yellow"
 msgstr ""
 
 #. The UI color "frosted pink"
-#: ../client/application/ui/ui_skin.cpp:79
+#: /client/application/ui/ui_skin.cpp:79
 msgid "Frosted Pink"
 msgstr ""
 
 #. The UI color "frosted teal"
-#: ../client/application/ui/ui_skin.cpp:82
+#: /client/application/ui/ui_skin.cpp:82
 msgid "Frosted Teal"
 msgstr ""
 
 #. The UI color "frosted gray"
-#: ../client/application/ui/ui_skin.cpp:85
+#: /client/application/ui/ui_skin.cpp:85
 msgid "Frosted Gray"
 msgstr ""
 
@@ -1908,7 +1965,7 @@ msgstr ""
 #. available.
 #. The %s is replaced with a version number, for example:
 #. "Update available (0.4.122)"
-#: ../client/application/utils/version.cpp:72
+#: /client/application/utils/version.cpp:72
 msgid "Update available %s"
 msgstr "May bagong update %s"
 

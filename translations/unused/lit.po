@@ -31,6 +31,12 @@ msgstr "Karjera"
 msgid "Commander"
 msgstr "Vadas"
 
+msgid "Confirm email"
+msgstr "Patvirtinti el. pašto adresą"
+
+msgid "Confirm email:"
+msgstr "Patvirtinti el. pašto adresą:"
+
 msgid "Connect to..."
 msgstr "Prisijungti prie..."
 
@@ -52,6 +58,9 @@ msgstr "Tamsiai Aukšta"
 msgid "Directed by %s"
 msgstr "Sukūrė: %s"
 
+msgid "Emails do not match!"
+msgstr "El. paštai nesutampa!"
+
 msgid "Error reading manifest"
 msgstr "Klaida skaitant aprašą"
 
@@ -63,6 +72,9 @@ msgstr "Eksperimentiniai Lygiai"
 
 msgid "Failed to parse server response"
 msgstr "Nepavyko išanalizuoti serverio atsakymo"
+
+msgid "Failed to set up comments"
+msgstr "Nepavyko paruošti komentarų"
 
 msgid "Game is full"
 msgstr "Žaidimas pilnas"

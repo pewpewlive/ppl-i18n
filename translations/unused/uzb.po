@@ -10,6 +10,18 @@ msgstr "Zobit"
 msgid "Commander"
 msgstr "Qo'mondon"
 
+msgid "Confirm email"
+msgstr "Pochta manzili"
+
+msgid "Confirm email:"
+msgstr "Emailni tasdiqlash:"
+
+msgid "Emails do not match!"
+msgstr "Manzillar mos emas."
+
+msgid "Failed to set up comments"
+msgstr "Izohlarni o‘rnatib bo‘lmadi"
+
 msgid "High Scores"
 msgstr "Rekordlar"
 
