@@ -11,7 +11,7 @@ msgstr "ქულაში %1$s, %2$s ან მეტი."
 #. adapt the message to your language.
 #: /client/application/game/entities/player/ship.cpp:331
 msgid "Ouch"
-msgstr "ოუჩ"
+msgstr "ოუ"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -23,13 +23,13 @@ msgstr "აი"
 #. adapt the message to your language.
 #: /client/application/game/entities/player/ship.cpp:337
 msgid "Ow"
-msgstr "ოუ"
+msgstr "ოვ"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: /client/application/game/entities/player/ship.cpp:340
 msgid "Ugh"
-msgstr "უხ"
+msgstr "უხხ"
 
 #: /client/application/game/game.cpp:177
 msgid "Quick pause"
@@ -98,12 +98,12 @@ msgstr "RIP GW3: ზომები"
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:163
 msgid "Previously known as Assault"
-msgstr "ადრე ცნობილი როგორც Assault"
+msgstr "ადრე ცნობილია როგორც Assault"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:182
 msgid "Just 32 seconds of skills"
-msgstr "მხოლოდ 32 წამი უნარები"
+msgstr "უბრალოდ 32 წამი უნარებით"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:184
@@ -118,17 +118,17 @@ msgstr "გადარჩით 32 წამში ამ მარტივი
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:188
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"ეს ლეველი ხუმრობაა, არა?\" - tester"
+msgstr "\"ეს დონე ხუმრობაა არა?\" - tester"
 
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "ევოლუციის პაციფიზმი"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:224
 msgid "True bullet hell"
-msgstr "ნამდვილად ჯოჯოხეთი"
+msgstr "ნამდვილად ტყვიის ჯოჯოხეთი"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:226
@@ -138,7 +138,7 @@ msgstr "დიდი ცეცხლსასროლი იარაღით 
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "ლასსო მაღლაში რაღაცა გააკეთო რომ გაქრეს"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
@@ -327,7 +327,7 @@ msgstr "წააგე"
 #. translation.
 #: /client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr "შენ კიდევ წააგე"
+msgstr "შენ წააგე, ისევ"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:20
@@ -342,7 +342,7 @@ msgstr "შენ ცადე"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
-msgstr "არაუშავს შენ მაინც ვერ აპირებ გამარჯებას"
+msgstr "არაუშავს, შენ მაინც ვერ აპირებ გამარჯებას."
 
 #: /client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
@@ -400,15 +400,15 @@ msgstr "მხოლოდ ფერების შეცვლა! %s"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
 msgid "Username color change"
-msgstr "მომხმარებლის სახელის ფერის შეცვლა"
+msgstr "სახელის ფერის შეცვლა"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
-msgstr "მომხმარებლის სახელის შეცვლა წარმატებით დასრულდა"
+msgstr "სახელის შეცვლა წარმატებით დასრულდა"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
 msgid "Failed to update username"
-msgstr "მომხმარებლის სახელის განახლება ვერ მოხერხდა"
+msgstr "სახელის განახლება ვერ მოხერხდა"
 
 #. Shown in a header, in the screen that allows you to manage your PewPew
 #. Live account. In this screen you can for example change the colors of your
@@ -467,7 +467,7 @@ msgstr "ანგარიშის რეგისტრაცია"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Username"
-msgstr "მომხმარებლის სახელი"
+msgstr "სახელი"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Password"
@@ -495,7 +495,7 @@ msgstr "წარმატებული რეგისტრაცია."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:137
 msgid "Please check your emails!"
-msgstr "გთხოვთ, შეამოწმოთ თქვენი ელ.წერილი!"
+msgstr "გთხოვთ შეამოწმეთ თქვენი ემაილის წერილი!"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:141
 msgid "Failed to register"
@@ -503,7 +503,7 @@ msgstr "რეგისტრაცია ვერ მოხერხდა"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:171
 msgid "Username (you can put colors in!):"
-msgstr "მომხმარებლის სახელი (შეგიძლიათ ჩადოთ ფერები!):"
+msgstr "სახელი (შეგიძლიათ ჩადოთ ფერები!):"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:171
 msgid "Password:"
@@ -531,7 +531,7 @@ msgstr "შესული არ ხართ"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
-msgstr "შექმენით ანგარიში თქვენი სახელის დასაყენებლად და თქვენი მონაცემების სინქრონიზაციისთვის"
+msgstr "შექმენით თქვენი ანგარიში ჩასვი სახელი და სინქრონიზაცია თქვენი მონაცემები"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
 msgid "Sign in"
@@ -543,7 +543,7 @@ msgstr "Კონფიდენციალურობის პოლიტ�
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
 msgid "You need to be signed-in to upload scores"
-msgstr "ქულების ასატვირთად სისტემაში უნდა იყოთ შესული"
+msgstr "ქულების ასატვირთად სისტემაში უნდა იყოთ"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to play online"
@@ -553,7 +553,7 @@ msgstr "თქვენ უნდა იყოთ შესული, რომ 
 #. comments while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
 msgid "You need to be signed-in to view comments"
-msgstr "კომენტარების სანახავად სისტემაში უნდა იყოთ შესული"
+msgstr "კომენტარების სანახავად სისტემაში უნდა იყოთ"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
@@ -561,19 +561,19 @@ msgstr "თქვენი ანგარიში"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
-msgstr "ითხოვს დადასტურების ელფოსტას"
+msgstr "ითხოვს დადასტურების ემაილი"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
-msgstr "გადამოწმების ელფოსტა გაიგზავნა"
+msgstr "გადამოწმების ემაილი გაიგზავნა"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr "შეამოწმეთ თქვენი შემომავალი!"
+msgstr "შეამოწმეთ თქვენი ინბოქსში!"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
-msgstr "ელფოსტის ხელახლა გაგზავნა ვერ მოხერხდა"
+msgstr "ემაილი ხელახლა გაგზავნა ვერ მოხერხდა"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
@@ -581,7 +581,7 @@ msgstr "პაროლის გადაყენების მოთხო�
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:57
 msgid "Password reset email sent"
-msgstr "პაროლის აღდგენის ელფოსტა გაიგზავნა"
+msgstr "პაროლის აღდგენის ემაილი გაიგზავნა"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:64
 msgid "Failed to request password reset"
@@ -597,11 +597,11 @@ msgstr "შესვლა წარმატებით შესრულდ�
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:167
 msgid "Email not verified"
-msgstr "ელფოსტა არ არის დადასტურებული"
+msgstr "ემაილი არ არის დადასტურებული"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:170
 msgid "Re-send verification email"
-msgstr "ხელახლა გაგზავნეთ დამადასტურებელი ელ.წერილი"
+msgstr "ხელახლა გაგზავნეთ დამადასტურებელი ემაილი წერილი"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:185
 msgid "Incorrect password"
@@ -674,7 +674,7 @@ msgstr "gamepad-ის კონფიგურაცია"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr "მკდარი ზონა"
+msgstr "მკდარზონა"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
@@ -716,24 +716,24 @@ msgstr "კონფიგურაცია გრაფიკი"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
-msgstr "გა."
+msgstr "გ."
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "on"
-msgstr "ჩა."
+msgstr "ჩ."
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "მინიმალური"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "მოწინავე"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
 msgid "Bloom intensity"
-msgstr "ყვავ. ინტენსივობა "
+msgstr "ყვ. ინტენსივობა "
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
@@ -754,7 +754,7 @@ msgstr "ბადე"
 #. The name for the setting category for choosing the scalines type.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:142
 msgid "Scanlines"
-msgstr "სკან. ხაზები"
+msgstr "საკნხაძები"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:148
@@ -776,22 +776,22 @@ msgstr "ვინეტი"
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:186
 msgid "Black"
-msgstr ""
+msgstr "შავი"
 
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
 msgid "Blue"
-msgstr ""
+msgstr "ლურჯი"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr ""
+msgstr "ჩაისფერი"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
 msgid "Green"
-msgstr ""
+msgstr "მწვანე"
 
 #. The color "pink"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:194
@@ -802,7 +802,7 @@ msgstr "ვარდისფერი"
 #. renderer.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:199
 msgid "Background hue"
-msgstr ""
+msgstr "ფონი შეფერილობა"
 
 #. Name of the setting for when the game is shown in a window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:213
@@ -858,7 +858,7 @@ msgstr "წრაფი გადატვირთვა %s"
 #. example: "Slow Down: Shift".
 #: /client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "შეანელე: %s"
 
 #: /client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -882,11 +882,11 @@ msgstr "გაცვლა"
 
 #: /client/application/game/ui/screens/screen_download_level.cpp:49
 msgid "Downloading level..."
-msgstr "ჩამოტვირთვა ლეველი..."
+msgstr "ჩამოტვირთვა დონე..."
 
 #: /client/application/game/ui/screens/screen_download_level.cpp:77
 msgid "Failed to download level."
-msgstr "ჩამოტვირთვის ლეველი ვერ მოხერხდა."
+msgstr "ჩამოტვირთვის დონე ვერ მოხერხდა."
 
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
@@ -924,7 +924,7 @@ msgstr "ლიცენზია"
 #. Used in a button that redirects to discord server
 #: /client/application/game/ui/screens/screen_informations.h:22
 msgid "Discord server"
-msgstr "დისქორდის სერვერი"
+msgstr "Discord სერვერი"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to the youtube channel
@@ -1202,7 +1202,7 @@ msgstr "საზოგადოება"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:166
 msgid "Official levels allow you to get score medals:"
-msgstr "მედლები"
+msgstr "ოფიციალური დონეებით შეუძლებელია მიიღოთ მედლები"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:167
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
@@ -1226,11 +1226,11 @@ msgstr "სამყაროს შეიცავს ბევრ გადა
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:176
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr "შესრულების გადახრები თუ გინდათ თქვენ უნდა გაიცნოს ოფიციალურ ლეველები"
+msgstr "შესრულების გადახრები თუ გინდათ თქვენ უნდა გაიცნოს ოფიციალურ დონეები"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:177
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr "თქვენ შეგიძლია ითამაშოთ გადახრები 3 წამის განმალობაში ლეველების სირთულეები"
+msgstr "თქვენ შეგიძლია ითამაშოთ გადახრები 3 წამის განმალობაში დონეები სირთულეები"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:178
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
@@ -1274,7 +1274,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
-msgstr "ოფიციალური ლეველები ინფორმაცია"
+msgstr "ოფიციალური დონეები ინფორმაცია"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
@@ -1304,7 +1304,7 @@ msgstr "პარამეტრები"
 #. graphics settings.
 #: /client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Graphics"
-msgstr "გრაფიკები"
+msgstr "გრაფიკა"
 
 #: /client/application/game/ui/screens/screen_settings.cpp:54
 msgid "Controls"
@@ -1324,7 +1324,7 @@ msgstr "UI"
 
 #: /client/application/game/ui/screens/screen_settings.cpp:112
 msgid "Start tutorial"
-msgstr "ტუტორიალის დაწყება"
+msgstr "სწავლის დაწყება"
 
 #: /client/application/game/ui/screens/screen_settings.cpp:124
 msgid "Launch intro"
@@ -1444,7 +1444,7 @@ msgstr "დაკავშირება"
 
 #: /client/application/game/ui/screens/screen_tutorial.cpp:31
 msgid "Tutorial"
-msgstr "ტუტორიალი"
+msgstr "სწავლა"
 
 #. Shown in the descripting of the item. "type" refers to what kind of
 #. item it is. Ship, trail, bullet, etc...
@@ -1479,13 +1479,13 @@ msgstr "გახსენით ნივთი"
 #. Shown in a string when no items can be unlocked
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:273
 msgid "No items to unlock"
-msgstr "ვერ გახსნით ნივთები გარეშე"
+msgstr "ნივთები არ გაქვთ"
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:278
 msgid "Items to unlock: %s"
-msgstr "ნივთებით გახსნით %s"
+msgstr "გახსნის ნივთები %s"
 
 #: /client/application/game/ui/screens/screen_upload_scores.cpp:54
 msgid "Upload scores"
@@ -1590,13 +1590,13 @@ msgstr "კომენტარის გამოქვეყნება ვ�
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:206
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr "დაარეპორტე კომენტარი"
+msgstr "დაარეპორტეთ კომენტარი"
 
 #. The title of the screen where players enter the comment they want to add.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:340
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr "Დაამატე კომენტარი"
+msgstr "დაამატეთ კომენტარი"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -1688,7 +1688,7 @@ msgstr "საშუალო ქულა: %s"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:286
 msgid "Experimental level"
-msgstr "ექსპერიმენტული ლეველი"
+msgstr "ექსპერიმენტული დონე"
 
 #. Used for showing the version of a level. The %s will be replaced with a
 #. version number. For example: "version 2"
@@ -1731,11 +1731,11 @@ msgstr "სერვერთან დაკავშირება ვერ 
 
 #: /client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
-msgstr "ოფიციალური ლეველები"
+msgstr "ოფიციალური დონეები"
 
 #: /client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
-msgstr "საზოგადოების ლეველები"
+msgstr "საზოგადოების დონეები"
 
 #: /client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
@@ -1790,7 +1790,7 @@ msgstr "იტვირთება..."
 #: /client/application/game/ui/views/account_view.cpp:88
 msgctxt "account_view"
 msgid "Levels"
-msgstr "ლეველები"
+msgstr "დონეები"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
@@ -1824,7 +1824,7 @@ msgstr ""
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
-msgstr "ᲒᲐᲜᲮᲘᲚᲕᲐᲨᲘᲐ"
+msgstr "განხილვაშია"
 
 #: /client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
@@ -1870,7 +1870,7 @@ msgstr "%sველოდები სხვა მოთამაშეს%s"
 #. The label shown in the button used to enter the World.
 #: /client/application/game/ui/views/world_selector.cpp:176
 msgid "Enter World"
-msgstr "შედი სამყაროში"
+msgstr "შედით სამყაროში"
 
 #: /client/application/ui/keyboard_view.cpp:108
 msgid "ok"
@@ -1884,7 +1884,7 @@ msgstr "წითელი"
 #. The color "cyan"
 #: /client/application/ui/ui_skin.cpp:37
 msgid "Cyan"
-msgstr "ნაცრიცფერი"
+msgstr "ნაცრისფერ"
 
 #. The color "lime"
 #: /client/application/ui/ui_skin.cpp:40
@@ -1914,7 +1914,7 @@ msgstr "თეთრი"
 #. The color "gray"
 #: /client/application/ui/ui_skin.cpp:58
 msgid "Gray"
-msgstr "ციცფერი"
+msgstr "ცისფერი"
 
 #. The color "dark blue"
 #: /client/application/ui/ui_skin.cpp:61
