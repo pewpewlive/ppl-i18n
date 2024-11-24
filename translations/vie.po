@@ -23,7 +23,7 @@ msgstr "Đau"
 #. adapt the message to your language.
 #: /client/application/game/entities/player/ship.cpp:337
 msgid "Ow"
-msgstr "Gà vcl"
+msgstr "Gà"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -332,7 +332,7 @@ msgstr "Hahaha gà"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
-msgstr "Ngu vcl :))"
+msgstr "Tôi sau khi chết kiểu:"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
@@ -392,134 +392,134 @@ msgstr "Tên mới:"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
 msgid "Change"
-msgstr ""
+msgstr "Đổi"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "Chỉ được đổi màu thôi! %s"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
 msgid "Username color change"
-msgstr ""
+msgstr "Đổi màu tên"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
-msgstr ""
+msgstr "Đổi màu tên thành công"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
 msgid "Failed to update username"
-msgstr ""
+msgstr "Không thể đổi màu tên được"
 
 #. Shown in a header, in the screen that allows you to manage your PewPew
 #. Live account. In this screen you can for example change the colors of your
 #. nickname, or delete your account.
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
 msgid "Manage Account"
-msgstr ""
+msgstr "Tài khoản"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
 msgid "Synchronize"
-msgstr ""
+msgstr "Đồng bộ"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
 msgid "Sign out"
-msgstr ""
+msgstr "Đăng xuất"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:61
 msgid "Delete account"
-msgstr ""
+msgstr "Xóa tài khoản"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:73
 msgid "Account deletion"
-msgstr ""
+msgstr "Xóa tài khoản"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:80
 msgid "Account deletion requested."
-msgstr ""
+msgstr "Đã yêu cầu xóa tài khoản."
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "Đã gửi email xác nhận."
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "Không thể yêu cầu được."
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
 msgid "Help"
-msgstr ""
+msgstr "Giúp đỡ"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Email sai rồi!"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:46
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "Quá ngắn! Ít nhất phải %s kí tự."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:53
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "Quá dài! Nhiều nhất %s kí tự."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:70
 msgid "Register account"
-msgstr ""
+msgstr "Tạo tài khoản"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Username"
-msgstr ""
+msgstr "Tên"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Password"
-msgstr ""
+msgstr "Mật khẩu"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Confirm password"
-msgstr ""
+msgstr "Xác nhận mật khẩu"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:114
 msgid "Register"
-msgstr ""
+msgstr "Tạo"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:128
 msgid "Registering"
-msgstr ""
+msgstr "Đang tạo"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:135
 msgid "Registration successful."
-msgstr ""
+msgstr "Tạo thành công."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:137
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Hãy kiểm tra email!"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:141
 msgid "Failed to register"
-msgstr ""
+msgstr "Không tạo tài khoản được"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:171
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "Tên (có thể đổi màu!):"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:171
 msgid "Password:"
-msgstr ""
+msgstr "Password:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Confirm password:"
-msgstr ""
+msgstr "Xác nhận mật khẩu:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:205
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Xác nhận"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
 msgid "Account"
@@ -527,266 +527,266 @@ msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
 msgid "Not signed in"
-msgstr ""
+msgstr "Chưa đăng nhập"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "Tạo tài khoản để đặt tên và đồng bộ dữ liệu"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
 msgid "Sign in"
-msgstr ""
+msgstr "Đăng nhập"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Chính sách bảo mật"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "Bạn cần đăng nhập để đăng điểm"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "Bạn cần đăng nhập để chơi trực tuyến"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
 msgid "You need to be signed-in to view comments"
-msgstr ""
+msgstr "Bạn cần đăng nhập để xem bình luận"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
 msgid "Your account"
-msgstr ""
+msgstr "Tài khoản của bạn"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
-msgstr ""
+msgstr "Đang yêu cầu email xác nhận"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
-msgstr ""
+msgstr "Đã gửi email xác nhận"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr ""
+msgstr "Kiểm tra hộp thư của ban!"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Không thể gửi lại email"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
-msgstr ""
+msgstr "Đang yêu cầu đổi mât khẩu"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:57
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Đã gửi email đổi mât khẩu"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:64
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "Không thể gửi email đổi mật khẩu"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:138
 msgid "Signing in"
-msgstr ""
+msgstr "Đang đăng nhập"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:153
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "Đăng nhập thành công!"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:167
 msgid "Email not verified"
-msgstr ""
+msgstr "Email chưa xác thực"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:170
 msgid "Re-send verification email"
-msgstr ""
+msgstr "Gửi lại email xác thực"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:185
 msgid "Incorrect password"
-msgstr ""
+msgstr "Sai mật khẩu"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:188
 msgid "Request password reset"
-msgstr ""
+msgstr "Yêu cầu đổi mật khẩu"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:214
 msgid "Reset password"
-msgstr ""
+msgstr "Đổi mật khẩu"
 
 #: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
 msgid "Synchronizing"
-msgstr ""
+msgstr "Đang đồng bộ"
 
 #: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:54
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "Không thể đồng bộ."
 
 #: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:64
 msgid "Synchronization completed."
-msgstr ""
+msgstr "Đồng bộ thành công."
 
 #: /client/application/game/ui/screens/screen_benchmark.cpp:34
 msgid "Skip"
-msgstr ""
+msgstr "Bỏ qua"
 
 #: /client/application/game/ui/screens/screen_career.cpp:36
 msgid "Statistics"
-msgstr ""
+msgstr "Thống kê"
 
 #: /client/application/game/ui/screens/screen_career.cpp:61
 msgid "Global leaderboards"
-msgstr ""
+msgstr "Bảng xếp hạng toàn cầu"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
 #: /client/application/game/ui/screens/screen_career.cpp:78
 msgid "All time stars and medals"
-msgstr ""
+msgstr "Sao và huy chương"
 
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Màn %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
 #: /client/application/game/ui/screens/screen_career.cpp:124
 msgid "Deviations completed"
-msgstr ""
+msgstr "Đã hoàn thành các biến thể"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Thành tích"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "Bảng xếp hạng XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "Tất cả các bảng"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
-msgstr ""
+msgstr "Thay đổi Gamepad"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr ""
+msgstr "Dead-zone"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
-msgstr ""
+msgstr "Độ bảo hòa"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:96
 msgid "Curve"
-msgstr ""
+msgstr "Độ cong"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:118
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #. The name of the graphics configuration that disables all the graphics effects
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:48
 msgid "Minimal"
-msgstr ""
+msgstr "Tối thiểu"
 
 #. The name of the graphics configuration that enables a few graphical effects
 #. while still allowing screen recording with a high compression ratio
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:51
 msgid "Compression friendly"
-msgstr ""
+msgstr "Có thể ép kéo"
 
 #. The name of the graphics configuration that enables almost all the graphical effects.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:53
 msgid "High"
-msgstr ""
+msgstr "Cao"
 
 #. The name of the graphics configuration that enables all the graphical effects.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:55
 msgid "Highest"
-msgstr ""
+msgstr "Cao nhất"
 
 #. Title of the screen where graphics are configured.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:93
 msgid "Configure graphics"
-msgstr ""
+msgstr "Thay đổi đồ họa"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
-msgstr ""
+msgstr "tắt"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "on"
-msgstr ""
+msgstr "bật"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "tối thiểu"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "nâng cao"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
 msgid "Bloom intensity"
-msgstr ""
+msgstr "Độ nở"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:130
 msgid "Lens dirt"
-msgstr ""
+msgstr "Đất trong camera"
 
 #. The name of the setting that enables horizontal scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:138
 msgid "horizontal"
-msgstr ""
+msgstr "ngang"
 
 #. The name of setting that enables grid-like scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "grid"
-msgstr ""
+msgstr "trục"
 
 #. The name for the setting category for choosing the scalines type.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:142
 msgid "Scanlines"
-msgstr ""
+msgstr "Đường scan"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:148
 msgid "Chromatic aberration"
-msgstr ""
+msgstr "Quang sai màu"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:157
 msgid "Curved monitor"
-msgstr ""
+msgstr "Màn hình cong"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:166
 msgid "Vignette"
-msgstr ""
+msgstr "Vignette"
 
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:186
 msgid "Black"
-msgstr ""
+msgstr "Đen"
 
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
 msgid "Blue"
-msgstr ""
+msgstr "Xanh dương"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr ""
+msgstr "Xanh mòng két"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
@@ -796,33 +796,33 @@ msgstr ""
 #. The color "pink"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:194
 msgid "Pink"
-msgstr ""
+msgstr "Hồng"
 
 #. The name of a setting category for choosing the background hue of the
 #. renderer.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:199
 msgid "Background hue"
-msgstr ""
+msgstr "Màu nền"
 
 #. Name of the setting for when the game is shown in a window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:213
 msgid "Windowed"
-msgstr ""
+msgstr "Cửa sổ"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:215
 msgid "Fullscreen"
-msgstr ""
+msgstr "Full màn hình"
 
 #. Name of the setting for when the game is shown in a borderless window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:217
 msgid "Borderless"
-msgstr ""
+msgstr "Không viền"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:228
 msgid "Screen type"
-msgstr ""
+msgstr "Loại màn hình"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
