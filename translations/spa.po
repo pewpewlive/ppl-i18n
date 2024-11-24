@@ -138,7 +138,7 @@ msgstr "Un gran poder conlleva habilidades para esquivar"
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "Lazo cosas para hacerlas desaparecer"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
