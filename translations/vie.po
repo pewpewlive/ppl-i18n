@@ -1813,7 +1813,7 @@ msgstr "Tổng quát"
 #: /client/application/game/ui/views/account_view.cpp:329
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr "Ngày vào: "
+msgstr "Ngày vào: %s"
 
 #. Displayed in a player's profile. The %s will be replaced by the level of
 #. the player, for example: "Level: 46"
@@ -1967,5 +1967,5 @@ msgstr "Xám đông"
 #. "Update available (0.4.122)"
 #: /client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr "Cập nhật mới"
+msgstr "Cập nhật mới %s"
 
