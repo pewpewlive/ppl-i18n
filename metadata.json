@@ -37,9 +37,7 @@
     "code": "est",
     "emoji_flag": "🇪🇪",
     "localized_name": "Eesti",
-    "translators": [
-      
-    ]
+    "translators": []
   },
   {
     "english_name": "German",
@@ -299,6 +297,17 @@
     "translators": [
       {
         "name": "#0000ffffAli2008uzb"
+      }
+    ]
+  },
+  {
+    "english_name": "Vietnamese",
+    "code": "vie",
+    "emoji_flag": "🇻🇳",
+    "localized_name": "Tiếng Việt",
+    "translators": [
+      {
+        "name": "#0000ffffHAPPY#0080ffffTUNE"
       }
     ]
   },
