@@ -1262,7 +1262,7 @@ msgstr "საზოგადოების დონეები შექმ�
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
-msgstr ""
+msgstr "დონეები შეიძლება იყოს მონიშნული, როგორც ექსპერიმენტული, დამოწმებული და გამორჩეული. თქვენ შეგიძლიათ გაგზავნოთ ქულები მხოლოდ დადასტურებულ ან გამორჩეულ დონეზე."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Most community levels give out stars."
