@@ -637,7 +637,7 @@ msgstr "GameStats.UI"
 
 #: /client/application/game/ui/screens/screen_career.cpp:61
 msgid "Global leaderboards"
-msgstr "Leaderboard("Globas");"
+msgstr "Leaderboard(\"Global\");"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -662,11 +662,11 @@ msgstr "GameStats.Achievements"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr "Leaderboard("XP");"
+msgstr "Leaderboard(\"XP\");"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr "Leaderboard("All");"
+msgstr "Leaderboard(\"All\");"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
