@@ -637,7 +637,7 @@ msgstr "GameStats.UI"
 
 #: /client/application/game/ui/screens/screen_career.cpp:61
 msgid "Global leaderboards"
-msgstr "Leaderboard("Globas");"
+msgstr "Leaderboard(\"Global\");"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
