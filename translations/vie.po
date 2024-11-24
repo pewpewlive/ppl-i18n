@@ -68,7 +68,7 @@ msgstr "Không bao giờ tin đa giác 6 cạnh"
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:118
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Không liên quan đến \Super Hexagon\"
+msgstr "Không liên quan đến \"Super Hexagon\""
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:120
@@ -118,7 +118,7 @@ msgstr "Mẹo đơn giản sống sót 32 giây"
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:188
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\Màn này là trò đùa hả?\ - tester game"
+msgstr "\"Màn này là trò đùa hả?\" - tester game"
 
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
