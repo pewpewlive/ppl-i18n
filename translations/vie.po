@@ -4,477 +4,477 @@
 #. For example:
 #. "In Eskiv, score 10000 or more"
 #: /client/application/account/achievements_description.cpp:17
-msgid "Trong %1$s, đạt ít nhất %2$s."
-msgstr ""
+msgid "In %1$s, score %2$s or more."
+msgstr "Trong %1$s, đat ít nhất %2$s."
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: /client/application/game/entities/player/ship.cpp:331
-msgid "Ui da"
-msgstr ""
+msgid "Ouch"
+msgstr "Ui da"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: /client/application/game/entities/player/ship.cpp:334
-msgid "Gà"
-msgstr ""
+msgid "Yikes"
+msgstr "Đau"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: /client/application/game/entities/player/ship.cpp:337
-msgid "Ui"
-msgstr ""
+msgid "Ow"
+msgstr "Gà vcl"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: /client/application/game/entities/player/ship.cpp:340
-msgid "Đau!"
-msgstr ""
+msgid "Ugh"
+msgstr "Ui"
 
 #: /client/application/game/game.cpp:177
-msgid "Dừng nhanh"
-msgstr ""
+msgid "Quick pause"
+msgstr "Ngưng nhanh"
 
 #: /client/application/game/game.cpp:183
-msgid "Dừng nhanh %s"
-msgstr ""
+msgid "Quick pause %s"
+msgstr "Ngưng nhanh %s"
 
 #: /client/application/game/game_constants.cpp:12
 msgid "1p"
-msgstr ""
+msgstr "1p"
 
 #: /client/application/game/game_constants.cpp:12
 msgid "2p"
-msgstr ""
+msgstr "2p"
 
 #: /client/application/game/game_constants.cpp:12
 msgid "3p"
-msgstr ""
+msgstr "3p"
 
 #: /client/application/game/game_constants.cpp:12
 msgid "4p"
-msgstr ""
+msgstr "4p"
 
 #. Short description of the "asteroids" game mode
 #: /client/application/game/levels/game_levels.cpp:97
-msgid "Không gian Euclid quá sử dụng..."
-msgstr ""
+msgid "Euclidean space is overrated"
+msgstr "Không gian Euclid gà..."
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:116
-msgid "Không bao giờ tin tưởng vào đa giác 6 cạnh!!"
-msgstr ""
+msgid "Never trust a six-sided polygon"
+msgstr "Không bao giờ tin đa giác 6 cạnh"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:118
-msgid "Không liên quan đến \"Super Hexagon\""
-msgstr ""
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "Không liên quan đến \Super Hexagon\"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:120
-msgid "Chọn đội khó của bạn"
-msgstr ""
+msgid "Choose your own difficulty"
+msgstr "Chọn đội khó của bạn"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:138
-msgid "Cứ né mọi thứ thôi là được"
-msgstr ""
+msgid "Dodge everything and you'll be OK"
+msgstr "Cứ né mọi thứ là được rồi"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:140
-msgid "còn được gọi là Dodge this"
-msgstr ""
+msgid "aka Dodge This"
+msgstr "Hay còn được goi là Dodge this"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:142
-msgid "Xanh tốt, Đỏ xấu."
-msgstr ""
+msgid "Green good. Red bad."
+msgstr "Xanh tốt, Đỏ xấu"
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:161
-msgid "Bay màu GW3:Dimensions"
-msgstr ""
+msgid "RIP GW3:Dimensions"
+msgstr "Bay màu GW3:Dimensions"
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:163
-msgid "Có tên cũ là Assault"
-msgstr ""
+msgid "Previously known as Assault"
+msgstr "Từng có tên là Assault"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:182
-msgid "32 giây kĩ năng"
-msgstr ""
+msgid "Just 32 seconds of skills"
+msgstr "32 giây kĩ năng"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:184
-msgid "Chế độ yêu thích của tôi"
-msgstr ""
+msgid "My favorite mode"
+msgstr "Chế độ yêu thích của tui"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:186
-msgid "Mẹo sống 32 giây đơn giản"
-msgstr ""
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Mẹo đơn giản sống sót 32 giây"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:188
-msgid "\"Màn này là trò đùa hả?\" - a tester"
-msgstr ""
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\Màn này là trò đùa hả?\ - tester game"
 
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
-msgid "Tiến hóa của chủ nghĩa hòa bình"
-msgstr ""
+msgid "Evolution of Pacifism"
+msgstr "Tiến hóa của chủ nghĩa hòa bình"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:224
-msgid "Né đạn kinh khủng"
-msgstr ""
+msgid "True bullet hell"
+msgstr "Né đạn kinh khủng"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:226
-msgid "Có súng tốt là có kĩ năng né tốt"
-msgstr ""
+msgid "With great firepower comes great dodging skills"
+msgstr "Có cây súng tốt là có kĩ năng né tốt"
 
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
-msgid "Cứ trói mọi thứ lại cho nó biến mất hết"
-msgstr ""
+msgid "Lasso up stuff to make them disappear"
+msgstr "Trói lại mọi thứ để cho biến mất"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
-msgid "2 bán cầu não, 2 tay, 2 chiếc thuyền."
-msgstr ""
+msgid "2 brain hemispheres, 2 hands, 2 ships."
+msgstr "2 bán cầu não, 2 tay, 2 chiếc thuyền."
 
 #. Shown in a notification when a new score medal is earned.
 #: /client/application/game/levels/medals.cpp:14
-msgid "Xu đồng mới!"
-msgstr ""
+msgid "New bronze medal"
+msgstr "Huy chương đồng mới"
 
 #. Shown in a notification when a new speedrun medal is earned.
 #: /client/application/game/levels/medals.cpp:16
-msgid "Xu đồng speedrun mới!"
-msgstr ""
+msgid "New bronze speedrun medal"
+msgstr "Huy chương đồng speedrun mới"
 
 #. Shown in a notification when a new score medal is earned.
 #: /client/application/game/levels/medals.cpp:19
-msgid "Xu bạc mới!"
-msgstr ""
+msgid "New silver medal"
+msgstr "Huy chương bạc mới"
 
 #. Shown in a notification when a new speedrun medal is earned.
 #: /client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr ""
+msgstr "Huy chương bạc speedrun mới"
 
 #. Shown in a notification when a new score medal is earned.
 #: /client/application/game/levels/medals.cpp:24
-msgid "Xu vàng mới!"
-msgstr ""
+msgid "New gold medal"
+msgstr "Huy chương vàng mới"
 
 #. Shown in a notification when a new speedrun medal is earned.
 #: /client/application/game/levels/medals.cpp:26
-msgid "Xu vàng speedrun mới!"
-msgstr ""
+msgid "New gold speedrun medal"
+msgstr "Huy chương vàng speedrun mới"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:146
-msgid "Bạn đã đăng xuất"
-msgstr ""
+msgid "You've been signed out."
+msgstr "Bạn bị đăng xuất"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:192
-msgid "Không thể tải dữ liệu phòng"
-msgstr ""
+msgid "Failed to download backup data"
+msgstr "Không thể tải dữ liệu phòng"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:276
-msgid "Không thể tải thành tích"
-msgstr ""
+msgid "Failed to download achievements"
+msgstr "Không thể tải thành tích"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:320
-msgid "Không thể đăng thành tích"
-msgstr ""
+msgid "Failed to upload achievements"
+msgstr "Không thể đăng thành tích"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:349
-msgid "Không thể tải vật phẩm"
-msgstr ""
+msgid "Failed to download unlocked items"
+msgstr "Không thể tải chiến lợi phẩm"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
-msgid "Không thể tải dữ liệu"
-msgstr ""
+msgid "Failed to download data"
+msgstr "Không thể tải dữ liệu"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
 #: /client/application/game/player_data/player_data_manager.cpp:53
-msgid "Kỉ lục điểm riêng mới! %s ⇨ %s"
-msgstr ""
+msgid "New personal best! %s ⇨ %s"
+msgstr "Kỉ lục điểm cá nhân mới! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: /client/application/game/player_data/player_data_manager.cpp:56
-msgid "Kỉ lục riêng speedrun mới! %s ⇨ %s"
-msgstr ""
+msgid "Improved speed run! %s ⇨ %s"
+msgstr "Kỉ lục speedrun cá nhân mới! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
 #: /client/application/game/player_data/player_data_manager.cpp:829
-msgid "Mở được thành tích: %s"
-msgstr ""
+msgid "Achievement Unlocked: %s"
+msgstr "Thành tích mới: %s"
 
 #. Describes the rarity level of items. Rarity level of 0.
 #: /client/application/game/player_data/player_unlocked_items.cpp:321
-msgid "Bình thường"
-msgstr ""
+msgid "Common"
+msgstr "Bình thường"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: /client/application/game/player_data/player_unlocked_items.cpp:323
-msgid "Không bình thường"
-msgstr ""
+msgid "Uncommon"
+msgstr "Bất bình thường"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: /client/application/game/player_data/player_unlocked_items.cpp:325
-msgid "Hiếm"
-msgstr ""
+msgid "Rare"
+msgstr "Hiếm"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: /client/application/game/player_data/player_unlocked_items.cpp:327
-msgid "Chuẩn đấy"
-msgstr ""
+msgid "Epic"
+msgstr "Giỏi"
 
 #. Describes the rarity level of items. Rarity level of 4.
 #: /client/application/game/player_data/player_unlocked_items.cpp:329
-msgid "Truyền thuyết"
-msgstr ""
+msgid "Legendary"
+msgstr "Truyền thuyết"
 
 #. Describes the rarity level of items. Rarity level of 5.
 #: /client/application/game/player_data/player_unlocked_items.cpp:331
-msgid "Huyền thoại"
-msgstr ""
+msgid "Mythical"
+msgstr "Huyền thoại"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: /client/application/game/player_data/player_unlocked_items.cpp:333
-msgid "Cao siêu luôn"
-msgstr ""
+msgid "Transcendent"
+msgstr "Cao siêu"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:27
-msgid "Thuyền"
-msgstr ""
+msgid "Ship"
+msgstr "Tàu"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:29
-msgid "Vệt"
-msgstr ""
+msgid "Trail"
+msgstr "Vệt"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:31
-msgid "Đạn"
-msgstr ""
+msgid "Bullet"
+msgstr "Đạn"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:33
-msgid "Gậy"
-msgstr ""
+msgid "Mace"
+msgstr "Banh gai"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:35
-msgid "La-ze"
-msgstr ""
+msgid "Laser"
+msgstr "La-ze"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:37
-msgid "Điều khiển"
-msgstr ""
+msgid "Joystick"
+msgstr "Điều khiển"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:39
-msgid "Màu giao diện"
-msgstr ""
+msgid "UI Color"
+msgstr "Màu giao diện"
 
 #: /client/application/game/state/game_network_message_parser.cpp:57
-msgid "%s rời game"
-msgstr ""
+msgid "%s left the game"
+msgstr "%s rời game"
 
 #: /client/application/game/state/game_state.cpp:500
-msgid "Không có"
-msgstr ""
+msgid "N/A"
+msgstr "Không có"
 
 #. Shown when the game is displaying stats. Concerns the player's shooting
 #. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
 #: /client/application/game/state/game_state.cpp:513
-msgid "Đô chính xác: %s"
-msgstr ""
+msgid "Accuracy: %s"
+msgstr "Độ chính xác: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Total score: 43423"
 #: /client/application/game/state/game_state.cpp:516
-msgid "Tổng điểm: %s"
-msgstr ""
+msgid "Total score: %s"
+msgstr "Tổng: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
 #: /client/application/game/state/game_state.cpp:520
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Pointonium: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
 #: /client/application/game/state/game_state.cpp:524
-msgid "Thời hạn: %s"
-msgstr ""
+msgid "Duration: %s"
+msgstr "Thời hạn: %s"
 
 #: /client/application/game/ui/game_over_ui.cpp:10
-msgid "Kết thúc game"
-msgstr ""
+msgid "Game Over"
+msgstr "Kết thúc game"
 
 #. April 1st replacement for "Game Over". Does not need an exact
 #. translation.
 #: /client/application/game/ui/game_over_ui.cpp:18
-msgid "Bạn đã chết."
-msgstr ""
+msgid "You died. Again."
+msgstr "Hahaha gà"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:20
-msgid "Gà công nghiệp."
-msgstr ""
+msgid "Insert coin to continue"
+msgstr "Ngu vcl :))"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
-msgid "Ít nhất bạn đã cố :)"
-msgstr ""
+msgid "You tried"
+msgstr "Chết rồi bro"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:24
-msgid "Hết cứu"
-msgstr ""
+msgid "It's okay, you were never going to win anyway."
+msgstr "Thôi kệ thế nào cũng chết à"
 
 #: /client/application/game/ui/game_over_ui.cpp:48
-msgid "Chơi lại"
-msgstr ""
+msgid "Play again"
+msgstr "Chơi lại"
 
 #: /client/application/game/ui/game_over_ui.cpp:50
-msgid "Tiếp"
-msgstr ""
+msgid "Continue"
+msgstr "Tiếp"
 
 #. Shown when the player failed to achieve an objective
 #: /client/application/game/ui/game_over_ui.cpp:92
-msgid "Thua thử thách"
-msgstr ""
+msgid "Failed"
+msgstr "Thất bại"
 
 #. Shown when the player successfully achieved an objective
 #: /client/application/game/ui/game_over_ui.cpp:98
-msgid "Thành công!"
-msgstr ""
+msgid "Success!"
+msgstr "Thành công!"
 
 #: /client/application/game/ui/game_over_ui.cpp:113
-msgid "Thoát"
-msgstr ""
+msgid "Exit"
+msgstr "Thoát"
 
 #: /client/application/game/ui/pause_ui.cpp:45
-msgid "Đang ngừng lại"
-msgstr ""
+msgid "Pause"
+msgstr "Ngừng"
 
 #: /client/application/game/ui/pause_ui.cpp:62
-msgid "Chơi lại"
-msgstr ""
+msgid "Restart"
+msgstr "Chơi lại"
 
 #: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:77
-msgid "Đang tải..."
-msgstr ""
+msgid "Loading..."
+msgstr "Đang tải"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
-msgid "Đổi màu"
-msgstr ""
+msgid "Change colors"
+msgstr "Đổi màu"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
-msgid "Tên cũ:"
-msgstr ""
+msgid "Old username:"
+msgstr "Tên cũ:"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
-msgid "Tên mới:"
-msgstr ""
+msgid "New username:"
+msgstr "Tên mới:"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
-msgid "Đổi"
+msgid "Change"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
-msgid "Chỉ được đổi màu thôi! %s"
+msgid "Only change colors! %s"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
-msgid "Đổi màu tên"
+msgid "Username color change"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
-msgid "Đổi thành công!"
+msgid "Username change succesfull"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
-msgid "Không cập nhật được"
+msgid "Failed to update username"
 msgstr ""
 
 #. Shown in a header, in the screen that allows you to manage your PewPew
 #. Live account. In this screen you can for example change the colors of your
 #. nickname, or delete your account.
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
-msgid "Tài khoản"
+msgid "Manage Account"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
-msgid "Đồng bộ"
+msgid "Synchronize"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
-msgid "Đăng xuất"
+msgid "Sign out"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:61
-msgid "Xóa tài khoản"
+msgid "Delete account"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:73
-msgid "Xóa tài khoản"
+msgid "Account deletion"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:80
-msgid "Đã request xóa."
+msgid "Account deletion requested."
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
-msgid "Đã gửi email xác nhận."
+msgid "An email asking for confirmation was sent."
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
-msgid "Không thể request được"
+msgid "Failed to request account deletion"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
-msgid "Cứu tôi!"
+msgid "Help"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:21
-msgid "Email sai rồi"
+msgid "Email is invalid!"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:46
-msgid "Quá ngắn. Ngắn nhất %s kí tự."
+msgid "Too short. Minimum %s characters."
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:53
-msgid "Quá dài. Nhiều nhất %s kí tự."
+msgid "Too long. Maximum %s characters."
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:70
-msgid "Tạo tài khoản"
+msgid "Register account"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
-msgid "Tên"
+msgid "Username"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
-msgid "Mật khẩu"
+msgid "Password"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
-msgid "Xác nhận mật khẩu"
+msgid "Confirm password"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:80
@@ -482,35 +482,35 @@ msgid "Email"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:114
-msgid "Tạo"
+msgid "Register"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:128
-msgid "Đang tạo"
+msgid "Registering"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:135
-msgid "Tạo thành công."
+msgid "Registration successful."
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:137
-msgid "Xin kiểm tra email!"
+msgid "Please check your emails!"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:141
-msgid "Tao tài khoản không thành công."
+msgid "Failed to register"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:171
-msgid "Tên (có thể đổi màu!):"
+msgid "Username (you can put colors in!):"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:171
-msgid "Mật khẩu:"
+msgid "Password:"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
-msgid "Xác nhận mật khẩu:"
+msgid "Confirm password:"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
@@ -518,11 +518,11 @@ msgid "Email:"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:205
-msgid "Mật khẩu và xác nhận không giống!"
+msgid "Passwords do not match!"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
-msgid "Tài khoản"
+msgid "Account"
 msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
@@ -1778,26 +1778,26 @@ msgstr ""
 #. Error shown when downloading some piece of data failed.
 #: /client/application/game/ui/views/account_view.cpp:533
 msgid "Download error"
-msgstr ""
+msgstr "Không tải được"
 
 #. Shown when the downloading of some piece of data is in progress.
 #: /client/application/game/ui/views/account_view.cpp:535
 msgid "Downloading..."
-msgstr ""
+msgstr "Đang tải..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
 #: /client/application/game/ui/views/account_view.cpp:88
 msgctxt "account_view"
 msgid "Levels"
-msgstr ""
+msgstr "Màn do người chơi tạo"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
 #: /client/application/game/ui/views/account_view.cpp:91
 msgctxt "account_view"
 msgid "Scores"
-msgstr ""
+msgstr "Điểm số"
 
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
@@ -1805,7 +1805,7 @@ msgstr ""
 #: /client/application/game/ui/views/account_view.cpp:95
 msgctxt "account_view"
 msgid "General"
-msgstr ""
+msgstr "Tổng quát"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -1813,153 +1813,153 @@ msgstr ""
 #: /client/application/game/ui/views/account_view.cpp:329
 msgctxt "account_view"
 msgid "Join date: %s"
-msgstr ""
+msgstr "Ngày vào: "
 
 #. Displayed in a player's profile. The %s will be replaced by the level of
 #. the player, for example: "Level: 46"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Cấp: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
-msgstr ""
+msgstr "ĐANG XEM LẠI"
 
 #: /client/application/game/ui/views/game_hud.cpp:79
 msgid "Shield: %s"
-msgstr ""
+msgstr "Khiên: %s"
 
 #. Shown in the title of the screen where you enter the name of a
 #. configuration.
 #: /client/application/game/ui/views/sandbox_configurator.cpp:93
 msgid "Save sandbox configuration"
-msgstr ""
+msgstr "Lưu cấu hình sandbox"
 
 #. Shown in the title of the screen where you select a Sandbox
 #. configuration to load.
 #: /client/application/game/ui/views/sandbox_configurator.cpp:166
 msgid "Load sandbox configuration"
-msgstr ""
+msgstr "Tải cấu hình sandbox"
 
 #. Shown in a notification when an unnamed sandbox configuration is
 #. loaded.
 #: /client/application/game/ui/views/sandbox_configurator.cpp:196
 msgid "loaded sandbox configuration"
-msgstr ""
+msgstr "Đã tải cấu hình sandbox"
 
 #. Shown in the button that allows users to sort by date
 #: /client/application/game/ui/views/sort_button.cpp:31
 msgid "Date"
-msgstr ""
+msgstr "Ngày giờ"
 
 #. Shown in the button that allows users to sort by stars
 #: /client/application/game/ui/views/sort_button.cpp:35
 msgid "Stars"
-msgstr ""
+msgstr "Ngôi sao"
 
 #. Shown in the button that allows users to sort by difficutly
 #: /client/application/game/ui/views/sort_button.cpp:39
 msgid "Difficulty"
-msgstr ""
+msgstr "Độ khó"
 
 #: /client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%sĐợi cho người chơi khác%s"
 
 #. The label shown in the button used to enter the World.
 #: /client/application/game/ui/views/world_selector.cpp:176
 msgid "Enter World"
-msgstr ""
+msgstr "Vào thế giới"
 
 #: /client/application/ui/keyboard_view.cpp:108
 msgid "ok"
-msgstr ""
+msgstr "ok"
 
 #. The color "red"
 #: /client/application/ui/ui_skin.cpp:34
 msgid "Red"
-msgstr ""
+msgstr "Đỏ"
 
 #. The color "cyan"
 #: /client/application/ui/ui_skin.cpp:37
 msgid "Cyan"
-msgstr ""
+msgstr "Xanh nhạt"
 
 #. The color "lime"
 #: /client/application/ui/ui_skin.cpp:40
 msgid "Lime"
-msgstr ""
+msgstr "Vôi"
 
 #. The color "lime green"
 #: /client/application/ui/ui_skin.cpp:43
 msgid "Lime Green"
-msgstr ""
+msgstr "Xanh nhạt"
 
 #. The color "purple"
 #: /client/application/ui/ui_skin.cpp:46
 msgid "Purple"
-msgstr ""
+msgstr "Tím"
 
 #. The color "orange"
 #: /client/application/ui/ui_skin.cpp:52
 msgid "Orange"
-msgstr ""
+msgstr "Cam"
 
 #. The color "white"
 #: /client/application/ui/ui_skin.cpp:55
 msgid "White"
-msgstr ""
+msgstr "Trắng"
 
 #. The color "gray"
 #: /client/application/ui/ui_skin.cpp:58
 msgid "Gray"
-msgstr ""
+msgstr "Xám"
 
 #. The color "dark blue"
 #: /client/application/ui/ui_skin.cpp:61
 msgid "Dark Blue"
-msgstr ""
+msgstr "Xanh đậm"
 
 #. The color "yellow"
 #: /client/application/ui/ui_skin.cpp:64
 msgid "Yellow"
-msgstr ""
+msgstr "Vàng"
 
 #. The UI color "frosted green"
 #: /client/application/ui/ui_skin.cpp:67
 msgid "Frosted Green"
-msgstr ""
+msgstr "Xanh lá đông"
 
 #. The UI color "frosted red"
 #: /client/application/ui/ui_skin.cpp:70
 msgid "Frosted Red"
-msgstr ""
+msgstr "Đỏ đông"
 
 #. The UI color "frosted blue"
 #: /client/application/ui/ui_skin.cpp:73
 msgid "Frosted Blue"
-msgstr ""
+msgstr "Xanh dương đông"
 
 #. The UI color "frosted yellow"
 #: /client/application/ui/ui_skin.cpp:76
 msgid "Frosted Yellow"
-msgstr ""
+msgstr "Vàng đông"
 
 #. The UI color "frosted pink"
 #: /client/application/ui/ui_skin.cpp:79
 msgid "Frosted Pink"
-msgstr ""
+msgstr "Hồng đông"
 
 #. The UI color "frosted teal"
 #: /client/application/ui/ui_skin.cpp:82
 msgid "Frosted Teal"
-msgstr ""
+msgstr "Xanh mồng kết đông"
 
 #. The UI color "frosted gray"
 #: /client/application/ui/ui_skin.cpp:85
 msgid "Frosted Gray"
-msgstr ""
+msgstr "Xám đông"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -1967,5 +1967,4 @@ msgstr ""
 #. "Update available (0.4.122)"
 #: /client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
-
+msgstr "Cập nhật mới"
