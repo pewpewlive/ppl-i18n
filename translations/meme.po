@@ -971,7 +971,7 @@ msgstr "Set used"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:238
 msgid "loaded <%s>"
-msgstr "Used"
+msgstr "Used <%s>"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
