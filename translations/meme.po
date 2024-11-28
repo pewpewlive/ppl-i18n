@@ -245,7 +245,7 @@ msgstr "Nice"
 #. Describes the rarity level of items. Rarity level of 5.
 #: /client/application/game/player_data/player_unlocked_items.cpp:331
 msgid "Mythical"
-msgstr ""
+msgstr "Incredible"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: /client/application/game/player_data/player_unlocked_items.cpp:333
@@ -255,7 +255,7 @@ msgstr "Not Trash"
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:27
 msgid "Ship"
-msgstr ""
+msgstr "Body"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:29
@@ -662,11 +662,11 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "EXP scoreboard"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "World scoreboards"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -724,11 +724,11 @@ msgstr "not off"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "Litle bit"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "Better"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
@@ -786,7 +786,7 @@ msgstr ""
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr ""
+msgstr "Light Blue"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
@@ -894,15 +894,15 @@ msgstr "Pro gamer librarby"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr ""
+msgstr "World news"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
-msgstr ""
+msgstr "Home messages"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
-msgstr ""
+msgstr "Message box empty"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -936,7 +936,7 @@ msgstr "Professional Coding Master-Classes"
 #. items.
 #: /client/application/game/ui/screens/screen_inventory.cpp:89
 msgid "All"
-msgstr ""
+msgstr "Collection"
 
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
@@ -947,7 +947,7 @@ msgstr "Your back pocket"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Save set"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:110
 msgid "Save"
@@ -955,23 +955,23 @@ msgstr "Insert to pocket"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:137
 msgid "Configuration saved"
-msgstr ""
+msgstr "Set saved"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:160
 msgid "Enter configuration name"
-msgstr ""
+msgstr "Enter set name"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:175
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Use set"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:236
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "Set used"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:238
 msgid "loaded <%s>"
-msgstr ""
+msgstr "Used"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
@@ -1206,15 +1206,15 @@ msgstr "Main Levels give you shiny things"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:167
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "#ff8000ffBrown metal#ffffffff, #ffffffaaWhite Metal#ffffffff, and #ffff00ffShiny Mineral#ffffffff"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "Move fast to get lightning"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "Lightning is more hard to get"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
@@ -1222,15 +1222,15 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:175
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "Errors in the world"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:176
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "We need to know base before fixing the errors"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:177
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "We have 3 rank of errors"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:178
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
