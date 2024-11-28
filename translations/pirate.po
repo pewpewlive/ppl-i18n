@@ -724,7 +724,7 @@ msgstr "Aye!"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "boat size"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
@@ -733,7 +733,7 @@ msgstr ""
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
 msgid "Bloom intensity"
-msgstr ""
+msgstr "Sun beam"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
@@ -894,15 +894,15 @@ msgstr "Book of knowledge"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr ""
+msgstr "Pirate news"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
-msgstr ""
+msgstr "Message KWAKK!!"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
-msgstr ""
+msgstr "No messages WAKK!"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -1043,7 +1043,7 @@ msgstr "Local battle"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:187
 msgid "Online lobby"
-msgstr ""
+msgstr "Pirate Center"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:193
 msgid "Ready"
@@ -1360,7 +1360,7 @@ msgstr "Steering board"
 
 #: /client/application/game/ui/screens/screen_settings_controls.cpp:48
 msgid "Gamepad"
-msgstr ""
+msgstr "Deck control"
 
 #: /client/application/game/ui/screens/screen_settings_language.cpp:17
 msgid "Language Settings"
@@ -1392,7 +1392,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
-msgstr ""
+msgstr "Wait for my cannon ARR"
 
 #. Shown in the settings UI, next to an "on/off" switch, when the game is
 #. launched from Steam.
