@@ -197,7 +197,7 @@ msgstr "Qulfdan chiqarilgan narsalarni yuklanmadi"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Ma'lumotlar  yuklanmadi"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -648,7 +648,7 @@ msgstr "Butun vaqtdagi yulduzlar va medallar"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "%s darajasi"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -658,15 +658,15 @@ msgstr "Burilishlar yakunlandi"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Yutuqlar"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "XP bo'yicha yetakchilik taxtasi"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "Barcha yetakchilik taxtalari"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -894,15 +894,15 @@ msgstr "Ensiklopediyalar"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr ""
+msgstr "Dunyoviy hodisalar"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
-msgstr ""
+msgstr "Shaxsiy bildirishnomalar"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
-msgstr ""
+msgstr "Bildirishnomalar yo'q"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -947,7 +947,7 @@ msgstr "Inventar"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Kema konfiguratsiyasini saqlash"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:110
 msgid "Save"
@@ -963,11 +963,11 @@ msgstr "Sozlama nomini kiriting"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:175
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Kema konfiguratsiyasini yuklash"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:236
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "kema konfiguratsiyasi yuklandi"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:238
 msgid "loaded <%s>"
@@ -1258,19 +1258,19 @@ msgstr "Qumquti ishlab chiqish jarayonida, shuning uchun ba'zi narsalar o'zgaris
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
-msgstr ""
+msgstr "Hamjamiyat bosqichlari hamjamiyat tomonidan yaratiladi."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
-msgstr ""
+msgstr "Bosqichalar tajriba, tasdiqlangan va saralarga ajraladi. Natijalarni faqat tasdiqlangan va sara bosqichlardan yuborishingiz mumkin."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Most community levels give out stars."
-msgstr ""
+msgstr "Ko'pchilik hamjamiyat bosqichlari yulduz ishlash imkonini beradi."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
-msgstr ""
+msgstr "Har yulduzga 300 XP beriladi: agar oltin yulduz olsangiz, siz shu bosqichdan 900 XP olgan bo'lasiz."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
@@ -1278,7 +1278,7 @@ msgstr "Rasmiy darajalar haqida"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
-msgstr ""
+msgstr "Hamjamiyat bosqichlari haqida"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
@@ -1547,7 +1547,7 @@ msgstr "Siz aniq izohni o'chirmoqmisiz?"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:328
 msgid "No comments"
-msgstr ""
+msgstr "Izohlar yo'q"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:347
@@ -1680,7 +1680,7 @@ msgstr "Manifest yuklanmadi."
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:87
 msgid "Featured level"
-msgstr ""
+msgstr "O'zgacha bosqich"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:223
 msgid "average score: %s"
@@ -1820,7 +1820,7 @@ msgstr "Registratsiyalangan: %s"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Bosqich: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
