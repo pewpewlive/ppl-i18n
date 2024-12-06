@@ -197,7 +197,7 @@ msgstr "Qulfdan chiqarilgan narsalarni yuklanmadi"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr "Ma'lumotlar  yuklanmadi"
+msgstr "Ma'lumotlar yuklanmadi"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
