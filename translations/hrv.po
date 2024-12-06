@@ -945,31 +945,37 @@ msgstr "Sve"
 msgid "Inventory"
 msgstr "Inventar"
 
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
+#. The title of the screen to save the ship configuration
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:108
 msgid "Save ship configuration"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:110
+#. The content of the button to save
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:112
 msgid "Save"
 msgstr "Spremi"
 
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:137
+#. Shown in a notification
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:140
 msgid "Configuration saved"
 msgstr "Konfiguracija spremljena"
 
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:160
+#. Shown when asking for a ship configuration
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:163
 msgid "Enter configuration name"
 msgstr "Upiši ime konfiguracije"
 
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:175
+#. Title of the screen where you choose which configuration to load
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:180
 msgid "Load ship configuration"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:236
+#. Shown in a notification
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:242
 msgid "loaded ship configuration"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:238
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:244
 msgid "loaded <%s>"
 msgstr "učitano <%s>"
 
@@ -1508,92 +1514,92 @@ msgid "Uploading replay for %s."
 msgstr "Prijenos snimke za %s."
 
 #. Shown when a user disables comments on their profile and or levels.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:152
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:173
 msgid "Comments are disabled."
 msgstr "Komentari su isključeni."
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:207
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:229
 msgid "Are you sure you want to report this comment?"
 msgstr "Jeste li sigurni da želite prijaviti ovaj komentar?"
 
 #. Shown in a notification after successfully reporting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:209
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:231
 msgid "Successfully reported comment"
 msgstr "Uspješno prijavljen komentar"
 
 #. Shown in a notification if a comment could not be reported.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:211
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:233
 msgid "Error reporting comment"
 msgstr "Greška u prijavi komentara"
 
 #. The title of the screen where players delete comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:240
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:262
 msgid "Delete comment"
 msgstr "Izbriši komentar"
 
 #. Shown in a notification after successfully deleting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:242
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:264
 msgid "Successfully deleted comment"
 msgstr "Uspješno izbrisan komentar"
 
 #. Shown in a notification if a comment could not be deleting.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:244
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:266
 msgid "Error deleting comment"
 msgstr "Greška u brisanju komentara"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:247
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
 msgid "Are you sure you want to delete this comment?"
 msgstr "Jeste li sigurni da želite izbrisati ovaj komentar?"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:328
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:398
 msgid "No comments"
 msgstr ""
 
 #. Used as a placeholder in the textfield where players write their comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:347
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:417
 msgid "<Add a comment here>"
 msgstr "<Dodajte komentar ovdje>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:362
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:432
 msgid "Comment"
 msgstr "Komentiraj"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:368
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:438
 msgid "Comment must be at least 3 characters long."
 msgstr "Komentar mora biti najmanje 3 znaka dug."
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:384
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:454
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
 msgstr "Molimo pripazite na govor. Bez vrijeđanja, psovanja i spama. Mi možemo izbrisati bilo koji post koji prekršava ova pravila i blokirati ili zabraniti komentiranje prekršiteljima."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:408
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:478
 msgid "Posting comment"
 msgstr "Objavljivanje komentara"
 
 #. Shown in a notification after a comment was successfully posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:429
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:499
 msgid "Comment posted"
 msgstr "Komentar objavljen"
 
 #. Shown in a notification after a comment failed to be posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:433
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:503
 msgid "Failed to post comment"
 msgstr "Greška u objavljivanju komentara"
 
 #. The title of the screen where players report comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:206
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:227
 msgctxt "report_screen_title"
 msgid "Report comment"
 msgstr "Prijavi komentar"
 
 #. The title of the screen where players enter the comment they want to add.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:340
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:410
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
 msgstr "Dodaj komentar"
@@ -1603,7 +1609,7 @@ msgstr "Dodaj komentar"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:496
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:566
 msgctxt "menu_confirm_action"
 msgid "Yes"
 msgstr "Da"
@@ -1613,7 +1619,7 @@ msgstr "Da"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:509
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:579
 msgctxt "menu_cancel_action"
 msgid "No"
 msgstr "Ne"
