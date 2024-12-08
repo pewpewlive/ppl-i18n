@@ -103,7 +103,7 @@ msgstr "Anteriormente conhecido como Assalto"
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:182
 msgid "Just 32 seconds of skills"
-msgstr "Demonstre suas habilidades em 32 segundos"
+msgstr "32 segundos de pura habilidade"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:184
@@ -118,7 +118,7 @@ msgstr "Sobreviva 32 segundos com este truque simples"
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:188
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Esse nível é uma brincadeira certo?\" - tester"
+msgstr "\"Esse nível é uma piada certo?\" - tester"
 
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
@@ -197,7 +197,7 @@ msgstr "Falha ao baixar itens desbloqueados"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Falha ao baixar dados"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -332,17 +332,17 @@ msgstr "Você morreu. De novo."
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
-msgstr "Insira uma moeda para continuar"
+msgstr "TÁ MUITO RUIM"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr "Você tentou"
+msgstr "Você não tentou"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
-msgstr "Tudo bem, você nunca vai ganhar mesmo."
+msgstr "Tudo bem, você nunca iria ganhar mesmo."
 
 #: /client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
@@ -648,7 +648,7 @@ msgstr "Estrelas e medalhas de todo o tempo"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Nível %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -658,15 +658,15 @@ msgstr "Desvios completados"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Conquistas"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "Tabela de XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "Todas as tabelas"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -716,11 +716,11 @@ msgstr "Configurar gráficos"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
-msgstr "off"
+msgstr "desligado"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "on"
-msgstr "on"
+msgstr "ligado"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
@@ -786,7 +786,7 @@ msgstr "Azul"
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr "Cerceta"
+msgstr "Turquesa"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
@@ -894,15 +894,15 @@ msgstr "Enciclopédia"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr ""
+msgstr "Mensagens globais"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
-msgstr ""
+msgstr "Notificações pessoais"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
-msgstr ""
+msgstr "Nenhuma notificação"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -948,7 +948,7 @@ msgstr "Inventário"
 #. The title of the screen to save the ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:108
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Salvar configuração da nave"
 
 #. The content of the button to save
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:112
@@ -968,12 +968,12 @@ msgstr "Insira o nome da configuração"
 #. Title of the screen where you choose which configuration to load
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:180
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Carregar configuração da nave"
 
 #. Shown in a notification
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:242
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "Configuração da nave carregada"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:244
 msgid "loaded <%s>"
@@ -1100,7 +1100,7 @@ msgstr "Autenticando..."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:157
 msgid "Need the latest version of the game."
-msgstr "É necessário a ultima versão do jogo"
+msgstr "É necessário a versão mais recente do jogo."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
 msgid "Failed to authenticate"
@@ -1228,15 +1228,15 @@ msgstr "A recompensa é %1$s XP por medalha de pontuação, e %2$s XP por medalh
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:175
 msgid "The world contains many deviations."
-msgstr "O mundo contém vários desvios."
+msgstr "O mundo contém muitas variações."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:176
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr "Para completar desvios você deve ser familiar com os níveis oficiais."
+msgstr "Para completar variações você deve ser familiar com os níveis oficiais."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:177
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr "Você pode jogar os desvios em 3 níveis de dificuldade."
+msgstr "Você pode jogar os variações em 3 níveis de dificuldade."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:178
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
@@ -1244,7 +1244,7 @@ msgstr "Cuidado! #ffff00ffdifícil##ffffffff é muito difícil, e #ff0000ffdelir
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
 msgid "For every completed deviation you get XP."
-msgstr "Pra cada desvio completo você ganha XP."
+msgstr "Pra cada variação completo você ganha XP."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
@@ -1252,7 +1252,7 @@ msgstr "%1$s XP no normal, %2$s XP no difícil, %3$s XP no delirante."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:186
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr "A sandbox é o lugar para treinar e ganhar experiência sob diferentes condições."
+msgstr "A sandbox é o lugar para treinar e experimentar diferentes condições."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:187
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
@@ -1264,19 +1264,19 @@ msgstr "A sandbox aínda está em desenvolvimento, espere mudanças no futuro."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
-msgstr ""
+msgstr "Níveis da comunidade são feitos pela comunidade."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
-msgstr ""
+msgstr "Os níveis podem ser classificados como experimental, verificados, e destacados. Você pode enviar pontuação apenas em níveis verificados ou destacados"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Most community levels give out stars."
-msgstr ""
+msgstr "A maioria dos níveis da comunidade dão estrelas."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
-msgstr ""
+msgstr "A recompensa é de 300 de XP por estrela: se você conseguir uma estrela dourada naquele nível, você conseguirá 900 de XP daquele nível."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
@@ -1284,7 +1284,7 @@ msgstr "Informações de níveis oficiais"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
-msgstr ""
+msgstr "informações de níveis da comunidade"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
@@ -1553,7 +1553,7 @@ msgstr "Você tem certeza que deseja deletar esse comentário?"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:398
 msgid "No comments"
-msgstr ""
+msgstr "Nenhum comentário"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:417
@@ -1686,7 +1686,7 @@ msgstr "Falha ao baixar o manifesto"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:87
 msgid "Featured level"
-msgstr ""
+msgstr "Nível destacado"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:223
 msgid "average score: %s"
@@ -1826,7 +1826,7 @@ msgstr "Entrou em: %s"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Level: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
@@ -1960,7 +1960,7 @@ msgstr "Rosa fosco"
 #. The UI color "frosted teal"
 #: /client/application/ui/ui_skin.cpp:82
 msgid "Frosted Teal"
-msgstr "Cerceta fosco"
+msgstr "Turquesa fosco"
 
 #. The UI color "frosted gray"
 #: /client/application/ui/ui_skin.cpp:85
