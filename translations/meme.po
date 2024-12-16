@@ -138,7 +138,7 @@ msgstr "With bigger guns come bigger baddies"
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "Sigma tail to make them gone"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
@@ -197,7 +197,7 @@ msgstr "Uh oh, where'd your items go?"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Where's your data ?"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -245,7 +245,7 @@ msgstr "Nice"
 #. Describes the rarity level of items. Rarity level of 5.
 #: /client/application/game/player_data/player_unlocked_items.cpp:331
 msgid "Mythical"
-msgstr ""
+msgstr "Jewelry"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: /client/application/game/player_data/player_unlocked_items.cpp:333
@@ -712,7 +712,7 @@ msgstr "Master"
 #. Title of the screen where graphics are configured.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:93
 msgid "Configure graphics"
-msgstr ""
+msgstr "Display settings uh"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
@@ -781,7 +781,7 @@ msgstr "White Reversed"
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
 msgid "Blue"
-msgstr ""
+msgstr "sky"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
@@ -902,7 +902,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
-msgstr ""
+msgstr "There's nothing!"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -1706,7 +1706,7 @@ msgstr ""
 #. a date. For example: "released 01/02/03"
 #: /client/application/game/ui/screens/screen_view_level_info.cpp:39
 msgid "released %s"
-msgstr ""
+msgstr "approved %s"
 
 #. Used if the level does not contain any information.
 #: /client/application/game/ui/screens/screen_view_level_info.cpp:41
