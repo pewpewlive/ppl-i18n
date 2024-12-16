@@ -786,7 +786,7 @@ msgstr "Azul"
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr "Verde azulado"
+msgstr "Cerceta"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
@@ -894,7 +894,7 @@ msgstr "Enciclopedia"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr "Alimentación global"
+msgstr "Feed global"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
@@ -1276,7 +1276,7 @@ msgstr "La mayoría de los niveles de la comunidad dan estrellas."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
-msgstr "La recompensa es 300 XP por estrella: si obtuviste una estrella dorada en un nivel, obtienes 900 XP por ese nivel."
+msgstr "La recompensa es 300 XP por estrella: si obtuviste una estrella dorada en un nivel, obtienes 900 XP por nivel."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
@@ -1638,7 +1638,7 @@ msgstr "Europa"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:32
 msgid "North America"
-msgstr "América del Norte"
+msgstr "Norteamérica"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Oceania"
@@ -1935,22 +1935,22 @@ msgstr "Amarillo"
 #. The UI color "frosted green"
 #: /client/application/ui/ui_skin.cpp:67
 msgid "Frosted Green"
-msgstr "Verde escarchado"
+msgstr "Verde frío"
 
 #. The UI color "frosted red"
 #: /client/application/ui/ui_skin.cpp:70
 msgid "Frosted Red"
-msgstr "Rojo escarchado"
+msgstr "Rojo frío"
 
 #. The UI color "frosted blue"
 #: /client/application/ui/ui_skin.cpp:73
 msgid "Frosted Blue"
-msgstr "Azul escarchado"
+msgstr "Azul frío"
 
 #. The UI color "frosted yellow"
 #: /client/application/ui/ui_skin.cpp:76
 msgid "Frosted Yellow"
-msgstr "Amarillo escarchado"
+msgstr "Amarillo frío"
 
 #. The UI color "frosted pink"
 #: /client/application/ui/ui_skin.cpp:79
@@ -1960,12 +1960,12 @@ msgstr "Rosa escarchado"
 #. The UI color "frosted teal"
 #: /client/application/ui/ui_skin.cpp:82
 msgid "Frosted Teal"
-msgstr "Verde azulado escarchado"
+msgstr "Cerceta frío"
 
 #. The UI color "frosted gray"
 #: /client/application/ui/ui_skin.cpp:85
 msgid "Frosted Gray"
-msgstr "Gris escarchado"
+msgstr "Gris frío"
 
 #. Shown in a notification when a new version of the game is
 #. available.
