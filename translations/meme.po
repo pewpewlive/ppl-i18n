@@ -658,15 +658,15 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Missions"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "XD leaderboard"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "thomed77's leaderboards"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -724,11 +724,11 @@ msgstr "not off"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "noob"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "pro"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
@@ -781,12 +781,12 @@ msgstr "White Reversed"
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
 msgid "Blue"
-msgstr ""
+msgstr "Red's brother"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr ""
+msgstr "Rare Blue"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
@@ -894,11 +894,11 @@ msgstr "Pro gamer librarby"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:68
 msgid "Global feed"
-msgstr ""
+msgstr "Record Guinness"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:69
 msgid "Personal notifications"
-msgstr ""
+msgstr "Lonely notifications :/"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:188
 msgid "No notifications"
@@ -936,7 +936,7 @@ msgstr "Professional Coding Master-Classes"
 #. items.
 #: /client/application/game/ui/screens/screen_inventory.cpp:89
 msgid "All"
-msgstr ""
+msgstr "None invested"
 
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
@@ -948,7 +948,7 @@ msgstr "Your back pocket"
 #. The title of the screen to save the ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:108
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Save your war tank"
 
 #. The content of the button to save
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:112
@@ -958,7 +958,7 @@ msgstr "Insert to pocket"
 #. Shown in a notification
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:140
 msgid "Configuration saved"
-msgstr ""
+msgstr "Saved war tank"
 
 #. Shown when asking for a ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:163
@@ -968,16 +968,16 @@ msgstr ""
 #. Title of the screen where you choose which configuration to load
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:180
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Load your war tank"
 
 #. Shown in a notification
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:242
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "Loaded war tank"
 
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:244
 msgid "loaded <%s>"
-msgstr ""
+msgstr "Error <%s>"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
@@ -1212,7 +1212,7 @@ msgstr "Main Levels give you shiny things"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:167
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "#ff8000Noob#ffffffff, #ffffffaaPro#ffffffff, and #ffff00ffNoisia#ffffffff"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
@@ -1220,11 +1220,11 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "This means that speedrun medals are much easier to get than a regular gold medal. just kidding "
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "The reward is %1$s XD per score medals, and %2$s XD per speed run medals"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:175
 msgid "The world contains many deviations."
@@ -1240,15 +1240,15 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:178
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "Beware! #ffff00ffhard#ffffffff is a hard demon, and #ff0000ffdelirious#ffffffff is easier."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "For every completed deviation you get XD points."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "%1$s XD in normal, %2$s XD in hard, %3$s XD in delirious"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:186
 msgid "The sandbox is the place to train and experiment under different conditions."
@@ -1264,7 +1264,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
-msgstr ""
+msgstr "Community levels are created by JF."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
