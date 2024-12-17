@@ -1212,7 +1212,7 @@ msgstr "Main Levels give you shiny things"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:167
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr "#ff8000Noob#ffffffff, #ffffffaaPro#ffffffff, and #ffff00ffNoisia#ffffffff"
+msgstr "#ff8000ffNoob#ffffffff, #ffffffaaPro#ffffffff, and #ffff00ffNoisia#ffffffff"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
