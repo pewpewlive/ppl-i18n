@@ -33,11 +33,11 @@ msgstr "Duh"
 
 #: /client/application/game/game.cpp:177
 msgid "Quick pause"
-msgstr "Jeda cepat"
+msgstr "Jeda singkat"
 
 #: /client/application/game/game.cpp:183
 msgid "Quick pause %s"
-msgstr "Jeda cepat %s"
+msgstr "Jeda singkat %s"
 
 #: /client/application/game/game_constants.cpp:12
 msgid "1p"
@@ -103,22 +103,22 @@ msgstr "Sebelumnya dikenal sebagai Assault"
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:182
 msgid "Just 32 seconds of skills"
-msgstr "Hanya 32 detik dari keterampilan"
+msgstr "Hanya 32 detik keahlian"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:184
 msgid "My favorite mode"
-msgstr "Mode Favoritku"
+msgstr "Mode favoritku"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:186
 msgid "Survive 32 seconds with this simple trick"
-msgstr "Bertahan 32 detik dengan trik yang sederhana ini"
+msgstr "Bertahan 32 detik dengan trik sederhana ini"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:188
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Level ini hanya lelucon, kan?\" - Seorang tester"
+msgstr "\"Level ini hanya lelucon, kan?\" - seorang tester"
 
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
@@ -133,12 +133,12 @@ msgstr "Hujan peluru sebenarnya"
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:226
 msgid "With great firepower comes great dodging skills"
-msgstr "Semakin besar tembakan, harus semakin jago ngindar"
+msgstr "Semakin besar daya tembak, harus semakin jago ngindar"
 
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr "Kumpulin barang dan hilangkan"
+msgstr "Kumpulin barang dan hilangkan mereka"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
@@ -230,7 +230,7 @@ msgstr "Jarang"
 #. Describes the rarity level of items. Rarity level of 2.
 #: /client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
-msgstr "Sangat langka"
+msgstr "Langka"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: /client/application/game/player_data/player_unlocked_items.cpp:327
@@ -321,13 +321,13 @@ msgstr "Durasi: %s"
 
 #: /client/application/game/ui/game_over_ui.cpp:10
 msgid "Game Over"
-msgstr "Game Berakhir"
+msgstr "Permainan Usai"
 
 #. April 1st replacement for "Game Over". Does not need an exact
 #. translation.
 #: /client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr "Mokad lagi ya?"
+msgstr "Tewas lagi ya?"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:20
@@ -435,15 +435,15 @@ msgstr "Penghapusan akun"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:80
 msgid "Account deletion requested."
-msgstr "Meminta penghapusan akun."
+msgstr "Mengajukan penghapusan akun."
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
 msgid "An email asking for confirmation was sent."
-msgstr "Sebuah email meminta konfirmasi telah dikirim."
+msgstr "Sebuah email mengajukan konfirmasi telah dikirim."
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
 msgid "Failed to request account deletion"
-msgstr "Gagal meminta penghapusan akun"
+msgstr "Gagal mengajukan penghapusan akun"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
 msgid "Help"
@@ -531,7 +531,7 @@ msgstr "Tidak masuk"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
-msgstr "Buat akun untuk menetapkan nama dan sinkronisasikan data kamu"
+msgstr "Buat akun untuk mengatur nama dan menyinkronkan data kamu"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
 msgid "Sign in"
@@ -617,11 +617,11 @@ msgstr "Setel ulang kata sandi"
 
 #: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
 msgid "Synchronizing"
-msgstr "Mensinkronisasikan"
+msgstr "Menyinkronkan"
 
 #: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:54
 msgid "Failed to synchronize."
-msgstr "Gagal mensinkronisasi"
+msgstr "Gagal menyinkronkan"
 
 #: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:64
 msgid "Synchronization completed."
@@ -629,7 +629,7 @@ msgstr "Sinkronisasi selesai."
 
 #: /client/application/game/ui/screens/screen_benchmark.cpp:34
 msgid "Skip"
-msgstr "Langkahi"
+msgstr "Lewati"
 
 #: /client/application/game/ui/screens/screen_career.cpp:36
 msgid "Statistics"
@@ -948,7 +948,7 @@ msgstr "Penyimpanan"
 #. The title of the screen to save the ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:108
 msgid "Save ship configuration"
-msgstr "Simpan konfiguresi kapal"
+msgstr "Simpan konfigurasi kapal"
 
 #. The content of the button to save
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:112
@@ -958,12 +958,12 @@ msgstr "Simpan"
 #. Shown in a notification
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:140
 msgid "Configuration saved"
-msgstr "Perubahan disimpan"
+msgstr "Konfigurasi disimpan"
 
 #. Shown when asking for a ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:163
 msgid "Enter configuration name"
-msgstr "Masukan nama perubahan"
+msgstr "Masukan nama konfigurasi"
 
 #. Title of the screen where you choose which configuration to load
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:180
@@ -985,7 +985,7 @@ msgstr "Multipemain lokal"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Multipemain lokal mendukung 2 pemain yang terhubung di jaringan wifi yang sama."
+msgstr "Multipemain lokal mendukung 2 pemain yang terhubung di jaringan Wi-Fi yang sama."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
@@ -993,7 +993,7 @@ msgstr "Satu pemain harus membuat ruang, yang lain akan bergabung"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "The wifi network does not have to be connected to the internet."
-msgstr "Jaringan wifi tidak harus terhubung dengan internet."
+msgstr "Jaringan Wi-Fi tidak harus terhubung dengan internet."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "Connecting to a phone's hotspot should work!"
@@ -1398,7 +1398,7 @@ msgstr "Tampilkan skor dalam permainan"
 
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:147
 msgid "Quick Pause"
-msgstr "Jeda Cepat"
+msgstr "Jeda Singkat"
 
 #. Shown in the settings UI, next to an "on/off" switch, when the game is
 #. launched from Steam.
@@ -1638,7 +1638,7 @@ msgstr "Eropa"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:32
 msgid "North America"
-msgstr "Amerika utara"
+msgstr "Amerika Utara"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Oceania"
@@ -1646,7 +1646,7 @@ msgstr "Oseania"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:34
 msgid "South America"
-msgstr "Amerika selatan"
+msgstr "Amerika Selatan"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:61
 msgid "personal"
