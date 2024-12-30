@@ -201,19 +201,19 @@ msgstr "ვერ მოხერხდა მონაცემების ჩ
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
-#: /client/application/game/player_data/player_data_manager.cpp:53
+#: /client/application/game/player_data/player_data_manager.cpp:54
 msgid "New personal best! %s ⇨ %s"
 msgstr "ახალი პირადი საუკეთესო! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
-#: /client/application/game/player_data/player_data_manager.cpp:56
+#: /client/application/game/player_data/player_data_manager.cpp:57
 msgid "Improved speed run! %s ⇨ %s"
 msgstr "გაუმჯობესებული სიჩქარის გაშვება! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: /client/application/game/player_data/player_data_manager.cpp:829
+#: /client/application/game/player_data/player_data_manager.cpp:831
 msgid "Achievement Unlocked: %s"
 msgstr "მიღწევა განბლოკილია: %s"
 
@@ -892,17 +892,71 @@ msgstr "ჩამოტვირთვის დონე ვერ მოხე
 msgid "Encyclopedia"
 msgstr "ენციკლოპედია"
 
-#: /client/application/game/ui/screens/screen_feed.cpp:68
+#. Title string for new World record Feed entries
+#: /client/application/game/ui/screens/screen_feed.cpp:31
+msgid "New World Record"
+msgstr ""
+
+#. Title string for new community level Feed entries
+#: /client/application/game/ui/screens/screen_feed.cpp:33
+msgid "New Level"
+msgstr ""
+
+#. Title string for new comment on your level Feed entries
+#: /client/application/game/ui/screens/screen_feed.cpp:35
+msgid "New comment on %s"
+msgstr ""
+
+#. Title string for new comment on your profile Feed entries
+#: /client/application/game/ui/screens/screen_feed.cpp:37
+msgid "New profile comment"
+msgstr ""
+
+#. Title string for new reply on your comment Feed entries
+#: /client/application/game/ui/screens/screen_feed.cpp:39
+msgid "New reply to your comment on %s"
+msgstr ""
+
+#. Content string for new 1p World record Feed entries
+#. For example: 529625 in Asteroids, by thomed77
+#. The string might also include multiple players
+#. For example: 589320 in Eskiv, by JF, Lithium
+#: /client/application/game/ui/screens/screen_feed.cpp:47
+msgid "%1$s in %2$s, by %3$s"
+msgstr ""
+
+#. Content string for new community level Feed entries
+#. For example: Eskiv 1024 (v32) was released
+#: /client/application/game/ui/screens/screen_feed.cpp:55
+msgid "%1$s (v%2$s) was released"
+msgstr ""
+
+#. Content string for new comment Feed entries
+#. For example: JF wrote: "I love the feed!"
+#: /client/application/game/ui/screens/screen_feed.cpp:58
+msgid "%1$s wrote: \"%2$s\""
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_feed.cpp:547
 msgid "Global feed"
 msgstr "გლობალური შესანახი"
 
-#: /client/application/game/ui/screens/screen_feed.cpp:69
+#: /client/application/game/ui/screens/screen_feed.cpp:548
 msgid "Personal notifications"
 msgstr "პერსონალური შეტყობინება"
 
-#: /client/application/game/ui/screens/screen_feed.cpp:188
+#: /client/application/game/ui/screens/screen_feed.cpp:684
 msgid "No notifications"
 msgstr "არა შეტყობინება"
+
+#. Content string for new 1p speedrun World record Feed entries
+#. For example: 1:33 in Symbiosis, by thomed77
+#. The string might also include multiple players
+#. For example: 1:33 in Symbiosis, by JF, Lithium
+#: /client/application/game/ui/screens/screen_feed.cpp:52
+msgctxt "speedrun"
+msgid "%1$s in %2$s, by %3$s"
+msgstr ""
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -946,36 +1000,37 @@ msgid "Inventory"
 msgstr "ჩანთა"
 
 #. The title of the screen to save the ship configuration
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:108
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:105
 msgid "Save ship configuration"
 msgstr "შენახვა გემის კონფიგურაცია"
 
 #. The content of the button to save
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:112
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:109
 msgid "Save"
 msgstr "შენახვა"
 
 #. Shown in a notification
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:140
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:137
 msgid "Configuration saved"
 msgstr "კონფიგურაცია შეინახა"
 
 #. Shown when asking for a ship configuration
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:163
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:160
 msgid "Enter configuration name"
 msgstr "შეიყვანეთ კონფიგურაციის სახელი"
 
 #. Title of the screen where you choose which configuration to load
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:180
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:177
 msgid "Load ship configuration"
 msgstr "დატვირთვა გემის კონფიგურაცია"
 
-#. Shown in a notification
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:242
+#. Shown in a notification when the configuration loaded has no name
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:243
 msgid "loaded ship configuration"
 msgstr "გადაიტვირთა გემის კონფიგურაცია"
 
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:244
+#. Shown in a notification when the configuration loaded has a name
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:246
 msgid "loaded <%s>"
 msgstr "ჩაიწერა <%s>"
 
@@ -1034,6 +1089,12 @@ msgstr "თამაშის დაწყება"
 #: /client/application/game/ui/screens/screen_main_menu.cpp:83
 msgid "Multiplayer"
 msgstr "მულტიპლეერი"
+
+#. The label of a button shown in the main menu that means you have
+#. new items to unlock.
+#: /client/application/game/ui/screens/screen_main_menu.cpp:315
+msgid "New Items"
+msgstr ""
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
 msgid "Room is full"
@@ -1388,15 +1449,15 @@ msgstr "Დახმარება"
 msgid "Contributors"
 msgstr "კონტრიბუტორები"
 
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:114
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:115
 msgid "UI Settings"
 msgstr "UI პარამეტრები"
 
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:131
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:132
 msgid "Show in-game score"
 msgstr "აჩვენე თამაშში ქულები"
 
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:147
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:148
 msgid "Quick Pause"
 msgstr "წრაფი პაუზა"
 
@@ -1406,25 +1467,25 @@ msgstr "წრაფი პაუზა"
 #. update your "Steam status" or not.
 #. The "Steam status" is the status that is shown next to your name in Steam.
 #. example of a status: "Pablo Picasso -- playing Eskiv".
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:168
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:169
 msgid "Steam status"
 msgstr "steam სტატუსი"
 
 #. The description of the setting that allows players to toggle on or off
 #. the floating text message in-game.
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:188
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:189
 msgid "Show optional floating text"
 msgstr "აჩვენე ვარიანტი მცურავი ტექსტი"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:262
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:261
 msgid "UI Scale: %s"
 msgstr "UI მასშტაბი: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:269
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:268
 msgid "UI Inset: %s"
 msgstr "UI ჩასმა: %s"
 
@@ -1514,92 +1575,92 @@ msgid "Uploading replay for %s."
 msgstr "განმეორებითი დაკვრის ატვირთვა ამისთვის %s."
 
 #. Shown when a user disables comments on their profile and or levels.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:173
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:205
 msgid "Comments are disabled."
 msgstr "კომენტარები დაკეტილია"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:229
-msgid "Are you sure you want to report this comment?"
-msgstr "დარწმუნებული ხართ, რომ გსურთ ამ კომენტარის შეტყობინება?"
-
-#. Shown in a notification after successfully reporting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:231
-msgid "Successfully reported comment"
-msgstr "კომენტარი წარმატებით იქნა მოხსენებული"
-
-#. Shown in a notification if a comment could not be reported.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:233
-msgid "Error reporting comment"
-msgstr "შეცდომა კომენტარის მოხსენებისას"
-
 #. The title of the screen where players delete comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:262
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:265
 msgid "Delete comment"
 msgstr "კომენტარის წაშლა"
 
 #. Shown in a notification after successfully deleting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:264
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:267
 msgid "Successfully deleted comment"
 msgstr "კომენტარი წარმატებით წაიშალა"
 
 #. Shown in a notification if a comment could not be deleting.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:266
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
 msgid "Error deleting comment"
 msgstr "შეცდომა ვერ წაიშალა კომენტარი"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:272
 msgid "Are you sure you want to delete this comment?"
 msgstr "დარწმუნებული ხართ, რომ გსურთ ამ კომენტარის წაშლა?"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:398
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
+msgid "Are you sure you want to report this comment?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ კომენტარის შეტყობინება?"
+
+#. Shown in a notification after successfully reporting a comment.
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:303
+msgid "Successfully reported comment"
+msgstr "კომენტარი წარმატებით იქნა მოხსენებული"
+
+#. Shown in a notification if a comment could not be reported.
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:305
+msgid "Error reporting comment"
+msgstr "შეცდომა კომენტარის მოხსენებისას"
+
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
 msgid "No comments"
 msgstr "არ არის კომენტარი"
 
 #. Used as a placeholder in the textfield where players write their comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:417
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:480
 msgid "<Add a comment here>"
 msgstr "<დაამატეთ კომენტარი აქ>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:432
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:495
 msgid "Comment"
 msgstr "კომენტარი"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:438
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:501
 msgid "Comment must be at least 3 characters long."
 msgstr "კომენტარი უნდა იყოს მინიმუმ 3 სიმბოლო."
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:454
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:517
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
 msgstr "გთხოვთ უყუროთ თქვენს ენას. არანაირი შეურაცხყოფა, გინება, სპამი. ჩვენ შეიძლება წავშალოთ ნებისმიერი პოსტი, რომელიც არღვევს ამ წესს, და დავბლოკოთ ან ავკრძალოთ დამნაშავეები."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:478
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:541
 msgid "Posting comment"
 msgstr "კომენტარის გამოქვეყნება"
 
 #. Shown in a notification after a comment was successfully posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:499
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:562
 msgid "Comment posted"
 msgstr "გამოქვეყნებულია კომენტარი"
 
 #. Shown in a notification after a comment failed to be posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:503
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:566
 msgid "Failed to post comment"
 msgstr "კომენტარის გამოქვეყნება ვერ მოხერხდა"
 
 #. The title of the screen where players report comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:227
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:299
 msgctxt "report_screen_title"
 msgid "Report comment"
 msgstr "დაარეპორტეთ კომენტარი"
 
 #. The title of the screen where players enter the comment they want to add.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:410
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:473
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
 msgstr "დაამატეთ კომენტარი"
@@ -1609,7 +1670,7 @@ msgstr "დაამატეთ კომენტარი"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:566
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:629
 msgctxt "menu_confirm_action"
 msgid "Yes"
 msgstr "კი"
@@ -1619,10 +1680,19 @@ msgstr "კი"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:579
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:642
 msgctxt "menu_cancel_action"
 msgid "No"
 msgstr "არა"
+
+#. The title shown when looking at the replies posted on a comment.
+#. The %s gets replaced with the comment content.
+#. 
+#. For example:
+#. Replies to "Hello this is my comment"
+#: /client/application/game/ui/screens/screen_view_and_add_comments.h:19
+msgid "Replies to \"%s\""
+msgstr ""
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "Africa"
@@ -1878,7 +1948,7 @@ msgstr "%sველოდები სხვა მოთამაშეს%s"
 msgid "Enter World"
 msgstr "შედით სამყაროში"
 
-#: /client/application/ui/keyboard_view.cpp:108
+#: /client/application/ui/keyboard_view.cpp:111
 msgid "ok"
 msgstr "კაი"
 

@@ -201,19 +201,19 @@ msgstr "Не вдалося завантажити дані"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
-#: /client/application/game/player_data/player_data_manager.cpp:53
+#: /client/application/game/player_data/player_data_manager.cpp:54
 msgid "New personal best! %s ⇨ %s"
 msgstr "Новий персональний рекорд! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
-#: /client/application/game/player_data/player_data_manager.cpp:56
+#: /client/application/game/player_data/player_data_manager.cpp:57
 msgid "Improved speed run! %s ⇨ %s"
 msgstr "Покращено час! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: /client/application/game/player_data/player_data_manager.cpp:829
+#: /client/application/game/player_data/player_data_manager.cpp:831
 msgid "Achievement Unlocked: %s"
 msgstr "Досягнення Розблоковано: %s"
 
@@ -337,12 +337,12 @@ msgstr "Вставте монетку щоб продовжити"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr "Ти спробував"
+msgstr "Ви спробували"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
-msgstr "Нічого страшного, ти і так ніколи-б не переміг."
+msgstr "Нічого страшного, ви і так ніколи-б не перемогли."
 
 #: /client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
@@ -892,17 +892,71 @@ msgstr "Не вдалося завантажити рівень."
 msgid "Encyclopedia"
 msgstr "Енциклопедія"
 
-#: /client/application/game/ui/screens/screen_feed.cpp:68
+#. Title string for new World record Feed entries
+#: /client/application/game/ui/screens/screen_feed.cpp:31
+msgid "New World Record"
+msgstr "Новий Світовий Рекорд"
+
+#. Title string for new community level Feed entries
+#: /client/application/game/ui/screens/screen_feed.cpp:33
+msgid "New Level"
+msgstr "Новий Рівень"
+
+#. Title string for new comment on your level Feed entries
+#: /client/application/game/ui/screens/screen_feed.cpp:35
+msgid "New comment on %s"
+msgstr "Новий коментар у %s"
+
+#. Title string for new comment on your profile Feed entries
+#: /client/application/game/ui/screens/screen_feed.cpp:37
+msgid "New profile comment"
+msgstr "Новий коментар профілю"
+
+#. Title string for new reply on your comment Feed entries
+#: /client/application/game/ui/screens/screen_feed.cpp:39
+msgid "New reply to your comment on %s"
+msgstr "Нова відповідь на ваш коментар у %s"
+
+#. Content string for new 1p World record Feed entries
+#. For example: 529625 in Asteroids, by thomed77
+#. The string might also include multiple players
+#. For example: 589320 in Eskiv, by JF, Lithium
+#: /client/application/game/ui/screens/screen_feed.cpp:47
+msgid "%1$s in %2$s, by %3$s"
+msgstr "%1$s в %2$s, від %3$s"
+
+#. Content string for new community level Feed entries
+#. For example: Eskiv 1024 (v32) was released
+#: /client/application/game/ui/screens/screen_feed.cpp:55
+msgid "%1$s (v%2$s) was released"
+msgstr "%1$s (v%2$s) був випущений"
+
+#. Content string for new comment Feed entries
+#. For example: JF wrote: "I love the feed!"
+#: /client/application/game/ui/screens/screen_feed.cpp:58
+msgid "%1$s wrote: \"%2$s\""
+msgstr "%1$s написав: \"%2$s\""
+
+#: /client/application/game/ui/screens/screen_feed.cpp:547
 msgid "Global feed"
 msgstr "Глобальна стрічка"
 
-#: /client/application/game/ui/screens/screen_feed.cpp:69
+#: /client/application/game/ui/screens/screen_feed.cpp:548
 msgid "Personal notifications"
 msgstr "Особисті повідомлення"
 
-#: /client/application/game/ui/screens/screen_feed.cpp:188
+#: /client/application/game/ui/screens/screen_feed.cpp:684
 msgid "No notifications"
 msgstr "Без повідомлень"
+
+#. Content string for new 1p speedrun World record Feed entries
+#. For example: 1:33 in Symbiosis, by thomed77
+#. The string might also include multiple players
+#. For example: 1:33 in Symbiosis, by JF, Lithium
+#: /client/application/game/ui/screens/screen_feed.cpp:52
+msgctxt "speedrun"
+msgid "%1$s in %2$s, by %3$s"
+msgstr "%1$s в %2$s, від %3$s"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -946,36 +1000,37 @@ msgid "Inventory"
 msgstr "Інвертар"
 
 #. The title of the screen to save the ship configuration
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:108
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:105
 msgid "Save ship configuration"
 msgstr "Зберегти конфігурацію корабля"
 
 #. The content of the button to save
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:112
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:109
 msgid "Save"
 msgstr "Зберегти"
 
 #. Shown in a notification
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:140
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:137
 msgid "Configuration saved"
 msgstr "Конфігурацію збережено"
 
 #. Shown when asking for a ship configuration
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:163
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:160
 msgid "Enter configuration name"
 msgstr "Введіть назву конфігурації"
 
 #. Title of the screen where you choose which configuration to load
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:180
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:177
 msgid "Load ship configuration"
 msgstr "Застосувати конфігурацію корабля"
 
-#. Shown in a notification
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:242
+#. Shown in a notification when the configuration loaded has no name
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:243
 msgid "loaded ship configuration"
 msgstr "застосовано конфігурацію корабля"
 
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:244
+#. Shown in a notification when the configuration loaded has a name
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:246
 msgid "loaded <%s>"
 msgstr "завантажено <%s>"
 
@@ -1034,6 +1089,12 @@ msgstr "Грати"
 #: /client/application/game/ui/screens/screen_main_menu.cpp:83
 msgid "Multiplayer"
 msgstr "Мультиплеєр"
+
+#. The label of a button shown in the main menu that means you have
+#. new items to unlock.
+#: /client/application/game/ui/screens/screen_main_menu.cpp:315
+msgid "New Items"
+msgstr "Нові Предмети"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
 msgid "Room is full"
@@ -1216,7 +1277,7 @@ msgstr "#ff8000ffБронзові#ffffffff, #ffffffaaСрібні#ffffffff, і #
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr "Якщо ти отримаєш кількість очок варту золотої медалі достатньо швидко, ти отримаєш спід-ран медалі."
+msgstr "Якщо ви отримаєте кількість очок варту золотої медалі достатньо швидко, ви отримаєте спід-ран медалі."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
@@ -1232,7 +1293,7 @@ msgstr "Світ має багато викривлень."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:176
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr "Щоб пройти викривлення ти маєш знати офіційні рівні."
+msgstr "Щоб пройти викривлення ви маєте знати офіційні рівні."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:177
 msgid "You can play the deviations in 3 levels of difficulties."
@@ -1244,7 +1305,7 @@ msgstr "Обережно! #ffff00ffважкий#ffffffff це дуже важк�
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
 msgid "For every completed deviation you get XP."
-msgstr "За кожне пройдене викривлення ти отримаєш XP."
+msgstr "За кожне пройдене викривлення ви отримаєте XP."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
@@ -1388,15 +1449,15 @@ msgstr "Допомогти"
 msgid "Contributors"
 msgstr "Вкладачі"
 
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:114
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:115
 msgid "UI Settings"
 msgstr "Налаштування інтерфейсу"
 
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:131
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:132
 msgid "Show in-game score"
 msgstr "Показати рекорди"
 
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:147
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:148
 msgid "Quick Pause"
 msgstr "Швидка Пауза"
 
@@ -1406,25 +1467,25 @@ msgstr "Швидка Пауза"
 #. update your "Steam status" or not.
 #. The "Steam status" is the status that is shown next to your name in Steam.
 #. example of a status: "Pablo Picasso -- playing Eskiv".
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:168
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:169
 msgid "Steam status"
 msgstr "Статус Steam"
 
 #. The description of the setting that allows players to toggle on or off
 #. the floating text message in-game.
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:188
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:189
 msgid "Show optional floating text"
 msgstr "Показувати плаваючий текст"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:262
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:261
 msgid "UI Scale: %s"
 msgstr "Розмір інтерфейсу: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:269
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:268
 msgid "UI Inset: %s"
 msgstr "Зсув інтерфейсу: %s"
 
@@ -1514,92 +1575,92 @@ msgid "Uploading replay for %s."
 msgstr "Завантаження повтору для %s."
 
 #. Shown when a user disables comments on their profile and or levels.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:173
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:205
 msgid "Comments are disabled."
 msgstr "Коментарі заблоковані."
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:229
-msgid "Are you sure you want to report this comment?"
-msgstr "Ви впевнені, що хочете повідомити про цей коментар?"
-
-#. Shown in a notification after successfully reporting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:231
-msgid "Successfully reported comment"
-msgstr "Успішно повідомлено про коментар"
-
-#. Shown in a notification if a comment could not be reported.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:233
-msgid "Error reporting comment"
-msgstr "Не вдалося повідомити про коментар"
-
 #. The title of the screen where players delete comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:262
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:265
 msgid "Delete comment"
 msgstr "Видалити коментар"
 
 #. Shown in a notification after successfully deleting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:264
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:267
 msgid "Successfully deleted comment"
 msgstr "Коментар успішно видалено"
 
 #. Shown in a notification if a comment could not be deleting.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:266
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
 msgid "Error deleting comment"
 msgstr "Не вдалося видалити коментар"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:272
 msgid "Are you sure you want to delete this comment?"
 msgstr "Ви впевнені що хочете видалити цей коментар?"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:398
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
+msgid "Are you sure you want to report this comment?"
+msgstr "Ви впевнені, що хочете повідомити про цей коментар?"
+
+#. Shown in a notification after successfully reporting a comment.
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:303
+msgid "Successfully reported comment"
+msgstr "Успішно повідомлено про коментар"
+
+#. Shown in a notification if a comment could not be reported.
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:305
+msgid "Error reporting comment"
+msgstr "Не вдалося повідомити про коментар"
+
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
 msgid "No comments"
 msgstr "Без коментарів"
 
 #. Used as a placeholder in the textfield where players write their comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:417
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:480
 msgid "<Add a comment here>"
 msgstr "<Впишіть коментар>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:432
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:495
 msgid "Comment"
 msgstr "Коментувати"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:438
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:501
 msgid "Comment must be at least 3 characters long."
 msgstr "Коментар має містити щонайменше 3 символа"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:454
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:517
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
 msgstr "Слідкуй за тим, що кажеш. Без образ, без лайок, без спаму. Ми можемо видалити будь-який коментар який порушить ці правила, заморозити або заблокувати правопорушників."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:478
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:541
 msgid "Posting comment"
 msgstr "Коментар публікується"
 
 #. Shown in a notification after a comment was successfully posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:499
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:562
 msgid "Comment posted"
 msgstr "Коментар опубліковано"
 
 #. Shown in a notification after a comment failed to be posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:503
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:566
 msgid "Failed to post comment"
 msgstr "Не вдалося опубліковати коментар :("
 
 #. The title of the screen where players report comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:227
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:299
 msgctxt "report_screen_title"
 msgid "Report comment"
 msgstr "Повідомити про коментар"
 
 #. The title of the screen where players enter the comment they want to add.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:410
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:473
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
 msgstr "Додати коментар"
@@ -1609,7 +1670,7 @@ msgstr "Додати коментар"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:566
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:629
 msgctxt "menu_confirm_action"
 msgid "Yes"
 msgstr "Так"
@@ -1619,10 +1680,19 @@ msgstr "Так"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:579
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:642
 msgctxt "menu_cancel_action"
 msgid "No"
 msgstr "Ні"
+
+#. The title shown when looking at the replies posted on a comment.
+#. The %s gets replaced with the comment content.
+#. 
+#. For example:
+#. Replies to "Hello this is my comment"
+#: /client/application/game/ui/screens/screen_view_and_add_comments.h:19
+msgid "Replies to \"%s\""
+msgstr "Відповіді до \"%s\""
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "Africa"
@@ -1878,7 +1948,7 @@ msgstr "%sЧекаємо на інших гравців%s"
 msgid "Enter World"
 msgstr "Увійти у світ"
 
-#: /client/application/ui/keyboard_view.cpp:108
+#: /client/application/ui/keyboard_view.cpp:111
 msgid "ok"
 msgstr "прийняти"
 
