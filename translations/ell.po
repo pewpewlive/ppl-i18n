@@ -905,7 +905,7 @@ msgstr "Νέο Επίπεδο"
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:35
 msgid "New comment on %s"
-msgstr "Νέο σχόλιο στο "
+msgstr "Νέο σχόλιο στο %s"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:37
