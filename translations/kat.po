@@ -895,27 +895,27 @@ msgstr "ენციკლოპედია"
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:31
 msgid "New World Record"
-msgstr ""
+msgstr "ახალი რეკორდი"
 
 #. Title string for new community level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:33
 msgid "New Level"
-msgstr ""
+msgstr "ახალი დონე"
 
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:35
 msgid "New comment on %s"
-msgstr ""
+msgstr "ახალი კომენტარი აქ %s"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:37
 msgid "New profile comment"
-msgstr ""
+msgstr "ახალი პროფილი კომენტარი"
 
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:39
 msgid "New reply to your comment on %s"
-msgstr ""
+msgstr "ახალი პასუხი შენს კომენტარში %s"
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -923,19 +923,19 @@ msgstr ""
 #. For example: 589320 in Eskiv, by JF, Lithium
 #: /client/application/game/ui/screens/screen_feed.cpp:47
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s იქ %2$s, მიერ %3$s"
 
 #. Content string for new community level Feed entries
 #. For example: Eskiv 1024 (v32) was released
 #: /client/application/game/ui/screens/screen_feed.cpp:55
 msgid "%1$s (v%2$s) was released"
-msgstr ""
+msgstr "%1$s (v%2$s) გაათავისუფლეს"
 
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
 #: /client/application/game/ui/screens/screen_feed.cpp:58
 msgid "%1$s wrote: \"%2$s\""
-msgstr ""
+msgstr "%1$s დაწერა: \"%2$s\""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:547
 msgid "Global feed"
@@ -1094,7 +1094,7 @@ msgstr "მულტიპლეერი"
 #. new items to unlock.
 #: /client/application/game/ui/screens/screen_main_menu.cpp:315
 msgid "New Items"
-msgstr ""
+msgstr "ახალი ნივთები"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
 msgid "Room is full"
@@ -1692,7 +1692,7 @@ msgstr "არა"
 #. Replies to "Hello this is my comment"
 #: /client/application/game/ui/screens/screen_view_and_add_comments.h:19
 msgid "Replies to \"%s\""
-msgstr ""
+msgstr "პასუხები აქ \"%s\""
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "Africa"
