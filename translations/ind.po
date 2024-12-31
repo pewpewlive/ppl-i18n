@@ -93,7 +93,7 @@ msgstr "Hijau baik. Merah buruk."
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:161
 msgid "RIP GW3:Dimensions"
-msgstr "Selamat jalan GW3: Dimension"
+msgstr "Selamat jalan GW3: Dimensions"
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:163
@@ -561,7 +561,7 @@ msgstr "Akun kamu"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:28
 msgid "Requesting verification email"
-msgstr "Meminta verifikasi email"
+msgstr "Mengajukan verifikasi email"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:34
 msgid "Verification email sent"
@@ -577,15 +577,15 @@ msgstr "Gagal mengirim ulang email"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:51
 msgid "Requesting password reset"
-msgstr "Meminta setel ulang kata sandi"
+msgstr "Mengajukan setel ulang kata sandi"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:57
 msgid "Password reset email sent"
-msgstr "Email penyetel ulang kata sandi terkirim"
+msgstr "Email setel ulang kata sandi terkirim"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:64
 msgid "Failed to request password reset"
-msgstr "Gagal meminta menyetel ulang kata sandi"
+msgstr "Gagal mengajukan setel ulang kata sandi"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:138
 msgid "Signing in"
@@ -895,27 +895,27 @@ msgstr "Ensiklopedia"
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:31
 msgid "New World Record"
-msgstr ""
+msgstr "Rekor dunia baru"
 
 #. Title string for new community level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:33
 msgid "New Level"
-msgstr ""
+msgstr "Level baru"
 
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:35
 msgid "New comment on %s"
-msgstr ""
+msgstr Komentar baru di %s"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:37
 msgid "New profile comment"
-msgstr ""
+msgstr "Komentar baru profil"
 
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:39
 msgid "New reply to your comment on %s"
-msgstr ""
+msgstr "Balasan baru ke komentarmu di %s"
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -923,19 +923,19 @@ msgstr ""
 #. For example: 589320 in Eskiv, by JF, Lithium
 #: /client/application/game/ui/screens/screen_feed.cpp:47
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s di %2$s, oleh %3$s"
 
 #. Content string for new community level Feed entries
 #. For example: Eskiv 1024 (v32) was released
 #: /client/application/game/ui/screens/screen_feed.cpp:55
 msgid "%1$s (v%2$s) was released"
-msgstr ""
+msgstr "%1$s (v%2$s) telah dirilis"
 
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
 #: /client/application/game/ui/screens/screen_feed.cpp:58
 msgid "%1$s wrote: \"%2$s\""
-msgstr ""
+msgstr "%1$s menulis: \"%2$s\""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:547
 msgid "Global feed"
@@ -956,7 +956,7 @@ msgstr "Tidak ada notifikasi"
 #: /client/application/game/ui/screens/screen_feed.cpp:52
 msgctxt "speedrun"
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s di %2$s, oleh %3$s"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -1094,7 +1094,7 @@ msgstr "Multipemain"
 #. new items to unlock.
 #: /client/application/game/ui/screens/screen_main_menu.cpp:315
 msgid "New Items"
-msgstr ""
+msgstr "Item baru"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
 msgid "Room is full"
@@ -1313,7 +1313,7 @@ msgstr "%1$s XP untuk mode normal, %2$s XP di mode sulit, %3$s XP di mode gila"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:186
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr "Mode sandbox adalah tempat untuk berlatih dan bereksperimen dalam kondisi berbeda."
+msgstr "Sandbox adalah tempat untuk berlatih dan bereksperimen dalam kondisi berbeda."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:187
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
@@ -1321,7 +1321,7 @@ msgstr "Atur level, kapal, bonus, dan para musuh!"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:188
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr "Mode sandbox masih dalam pengembangan. Jadi, harapkan perubahan di masa mendatang"
+msgstr "Sandbox masih dalam pengembangan. Jadi, harapkan perubahan di masa mendatang"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
@@ -1353,7 +1353,7 @@ msgstr "Informasi dunia"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "Sandbox information"
-msgstr "Informasi mode sandbox"
+msgstr "Informasi sandbox"
 
 #: /client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1692,7 +1692,7 @@ msgstr "Tidak"
 #. Replies to "Hello this is my comment"
 #: /client/application/game/ui/screens/screen_view_and_add_comments.h:19
 msgid "Replies to \"%s\""
-msgstr ""
+msgstr "Balasan ke \%$s\""
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "Africa"
@@ -1854,7 +1854,7 @@ msgstr "Medali dan bintang era %s"
 #. Error shown when downloading some piece of data failed.
 #: /client/application/game/ui/views/account_view.cpp:533
 msgid "Download error"
-msgstr "Download gagal"
+msgstr "Unduhan galat"
 
 #. Shown when the downloading of some piece of data is in progress.
 #: /client/application/game/ui/views/account_view.cpp:535
