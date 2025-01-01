@@ -1481,13 +1481,13 @@ msgstr "Hiển thị chữ nổi phụ"
 #. example: "UI Scale: 90%"
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:261
 msgid "UI Scale: %s"
-msgstr "Tỉ lệ giao diện"
+msgstr "Tỉ lệ giao diện: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:268
 msgid "UI Inset: %s"
-msgstr "Lề giao diện"
+msgstr "Lề giao diện: %s"
 
 #: /client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
