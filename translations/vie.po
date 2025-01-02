@@ -138,7 +138,7 @@ msgstr "Sức bắn lớn đi với kĩ năng né lớn"
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr "Khoanh vừng mọi thứ để cho nó biến mất"
+msgstr "Khoanh vùng mọi thứ để cho nó biến mất"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
@@ -177,7 +177,7 @@ msgstr "Huy chương vàng speedrun mới"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:146
 msgid "You've been signed out."
-msgstr "Bạn đã bị đăng xuất"
+msgstr "Bạn đã đăng xuất."
 
 #: /client/application/game/player_data/data_synchronizer.cpp:192
 msgid "Failed to download backup data"
@@ -337,7 +337,7 @@ msgstr "Tôi sau khi chết kiểu:"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr "Chết rồi bro"
+msgstr "Có cố gắng"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:24
@@ -915,7 +915,7 @@ msgstr "Bình luận hồ sơ mới"
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:39
 msgid "New reply to your comment on %s"
-msgstr "Lời đáp bihf luận cảu bạn trên %s "
+msgstr "Lời đáp bình luận của bạn trên %s "
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -1849,7 +1849,7 @@ msgstr "Delirious"
 #. "Era 2 medals and stars"
 #: /client/application/game/ui/views/account_view.cpp:384
 msgid "Era %s medals and stars"
-msgstr ""
+msgstr "Huy chương và sao Kỉ nguyên %s"
 
 #. Error shown when downloading some piece of data failed.
 #: /client/application/game/ui/views/account_view.cpp:533
@@ -1932,7 +1932,7 @@ msgstr "Ngày giờ"
 #. Shown in the button that allows users to sort by stars
 #: /client/application/game/ui/views/sort_button.cpp:35
 msgid "Stars"
-msgstr "Ngôi sao"
+msgstr "Sao"
 
 #. Shown in the button that allows users to sort by difficutly
 #: /client/application/game/ui/views/sort_button.cpp:39
