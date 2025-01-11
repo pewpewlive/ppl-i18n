@@ -895,27 +895,27 @@ msgstr "Энциклопедия"
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:31
 msgid "New World Record"
-msgstr ""
+msgstr "Новый мировой рекорд"
 
 #. Title string for new community level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:33
 msgid "New Level"
-msgstr ""
+msgstr "Новый уровень"
 
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:35
 msgid "New comment on %s"
-msgstr ""
+msgstr "Новый комментарий к %s"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:37
 msgid "New profile comment"
-msgstr ""
+msgstr "Новый комментарий к профилю"
 
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:39
 msgid "New reply to your comment on %s"
-msgstr ""
+msgstr "Новый ответ на ваш комментарий к %s"
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -923,19 +923,19 @@ msgstr ""
 #. For example: 589320 in Eskiv, by JF, Lithium
 #: /client/application/game/ui/screens/screen_feed.cpp:47
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s в %2$s, от %3$s"
 
 #. Content string for new community level Feed entries
 #. For example: Eskiv 1024 (v32) was released
 #: /client/application/game/ui/screens/screen_feed.cpp:55
 msgid "%1$s (v%2$s) was released"
-msgstr ""
+msgstr "Опубликован %1$s (v%2$s)"
 
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
 #: /client/application/game/ui/screens/screen_feed.cpp:58
 msgid "%1$s wrote: \"%2$s\""
-msgstr ""
+msgstr "Игрок %1$s написал: \"%2$s\""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:547
 msgid "Global feed"
@@ -956,7 +956,7 @@ msgstr "Уведомлений нет."
 #: /client/application/game/ui/screens/screen_feed.cpp:52
 msgctxt "speedrun"
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s в %2$s, от %3$s"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -1094,7 +1094,7 @@ msgstr "Мультиплеер"
 #. new items to unlock.
 #: /client/application/game/ui/screens/screen_main_menu.cpp:315
 msgid "New Items"
-msgstr ""
+msgstr "Новые предметы"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
 msgid "Room is full"
@@ -1692,7 +1692,7 @@ msgstr "Нет"
 #. Replies to "Hello this is my comment"
 #: /client/application/game/ui/screens/screen_view_and_add_comments.h:19
 msgid "Replies to \"%s\""
-msgstr ""
+msgstr "Ответы к \"%s\""
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "Africa"
