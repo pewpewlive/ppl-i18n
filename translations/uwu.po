@@ -123,7 +123,7 @@ msgstr "\"This level is a joke right?\" - a tester XD"
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Evolution of Pacifism"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:224
@@ -138,7 +138,7 @@ msgstr "With gweat sillyness comes gweat cuteness >///<"
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "Lasso up stuff to make them disappear"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
