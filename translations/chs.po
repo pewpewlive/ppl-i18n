@@ -9,25 +9,25 @@ msgstr ""
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:331
+#: /client/application/game/entities/player/ship.cpp:330
 msgid "Ouch"
 msgstr ""
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:334
+#: /client/application/game/entities/player/ship.cpp:333
 msgid "Yikes"
 msgstr ""
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:337
+#: /client/application/game/entities/player/ship.cpp:336
 msgid "Ow"
 msgstr ""
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:340
+#: /client/application/game/entities/player/ship.cpp:339
 msgid "Ugh"
 msgstr ""
 
@@ -201,19 +201,19 @@ msgstr ""
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
-#: /client/application/game/player_data/player_data_manager.cpp:54
+#: /client/application/game/player_data/player_data_manager.cpp:50
 msgid "New personal best! %s ⇨ %s"
 msgstr "新的最高分！%s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
-#: /client/application/game/player_data/player_data_manager.cpp:57
+#: /client/application/game/player_data/player_data_manager.cpp:53
 msgid "Improved speed run! %s ⇨ %s"
 msgstr "新的速通记录！%s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: /client/application/game/player_data/player_data_manager.cpp:831
+#: /client/application/game/player_data/player_data_manager.cpp:827
 msgid "Achievement Unlocked: %s"
 msgstr "成就解锁：%s"
 
@@ -937,15 +937,15 @@ msgstr ""
 msgid "%1$s wrote: \"%2$s\""
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_feed.cpp:547
+#: /client/application/game/ui/screens/screen_feed.cpp:506
 msgid "Global feed"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_feed.cpp:548
+#: /client/application/game/ui/screens/screen_feed.cpp:507
 msgid "Personal notifications"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_feed.cpp:684
+#: /client/application/game/ui/screens/screen_feed.cpp:643
 msgid "No notifications"
 msgstr ""
 
@@ -1598,69 +1598,69 @@ msgstr "评论删除失败"
 msgid "Are you sure you want to delete this comment?"
 msgstr "你确定要删除这条评论吗?"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:302
 msgid "Are you sure you want to report this comment?"
 msgstr "你确定要举报这条评论吗?"
 
 #. Shown in a notification after successfully reporting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:303
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:304
 msgid "Successfully reported comment"
 msgstr "评论举报成功"
 
 #. Shown in a notification if a comment could not be reported.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:305
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:306
 msgid "Error reporting comment"
 msgstr "评论举报失败"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:463
 msgid "No comments"
 msgstr ""
 
 #. Used as a placeholder in the textfield where players write their comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:480
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:482
 msgid "<Add a comment here>"
 msgstr "<在此输入评论>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:495
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:497
 msgid "Comment"
 msgstr "发布评论"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:501
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:503
 msgid "Comment must be at least 3 characters long."
 msgstr "评论长度至少为3个字符"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:517
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:519
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
 msgstr "请注意您的措辞。禁止在评论区辱骂他人、发布垃圾广告。违规内容会被删除，并将封禁违规者。"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:541
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:543
 msgid "Posting comment"
 msgstr "发布评论中"
 
 #. Shown in a notification after a comment was successfully posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:562
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:564
 msgid "Comment posted"
 msgstr "评论已发布"
 
 #. Shown in a notification after a comment failed to be posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:566
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:568
 msgid "Failed to post comment"
 msgstr "发布评论失败"
 
 #. The title of the screen where players report comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:299
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:300
 msgctxt "report_screen_title"
 msgid "Report comment"
 msgstr "举报评论"
 
 #. The title of the screen where players enter the comment they want to add.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:473
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:475
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
 msgstr "添加评论"
@@ -1670,7 +1670,7 @@ msgstr "添加评论"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:629
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:631
 msgctxt "menu_confirm_action"
 msgid "Yes"
 msgstr "是"
@@ -1680,7 +1680,7 @@ msgstr "是"
 #. For example:
 #.  | Are you sure you want to do X?
 #.  | * Yes     * No
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:642
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:644
 msgctxt "menu_cancel_action"
 msgid "No"
 msgstr "否"
