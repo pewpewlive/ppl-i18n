@@ -1846,7 +1846,7 @@ msgstr "Delirious"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
-#. "Era 2 medals and sSandbox informationtars"
+#. "Era 2 medals and stars"
 #: /client/application/game/ui/views/account_view.cpp:384
 msgid "Era %s medals and stars"
 msgstr "Era %s medals and staws"
