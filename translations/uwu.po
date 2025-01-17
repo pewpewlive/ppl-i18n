@@ -78,7 +78,7 @@ msgstr "Choose your own difficulty"
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:138
 msgid "Dodge everything and you'll be OK"
-msgstr "Dodge evewything and you'ww be fine"
+msgstr "Dodge evewything and you'll be fine"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:140
@@ -88,7 +88,7 @@ msgstr "aka Dodge This"
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:142
 msgid "Green good. Red bad."
-msgstr "Green - fwiend. Red - evil tho."
+msgstr "Green - fwiend. Red - evil >:3"
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:161
@@ -123,7 +123,7 @@ msgstr "\"This level is a joke right?\" - a tester XD"
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Evolution of Pacifism"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:224
@@ -138,7 +138,7 @@ msgstr "With gweat sillyness comes gweat cuteness >///<"
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "Lasso up stuff to make them disappear"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
@@ -177,7 +177,7 @@ msgstr "New gold speedwun medal!!"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:146
 msgid "You've been signed out."
-msgstr "You've bween signed out"
+msgstr "You've been signed out"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:192
 msgid "Failed to download backup data"
@@ -197,19 +197,19 @@ msgstr "Failed to download unwocked items :<"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Failed to download data :<"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
 #: /client/application/game/player_data/player_data_manager.cpp:54
 msgid "New personal best! %s ⇨ %s"
-msgstr "New PB! %s ⇨ %s"
+msgstr "New PB, yay! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: /client/application/game/player_data/player_data_manager.cpp:57
 msgid "Improved speed run! %s ⇨ %s"
-msgstr "Nice time save! %s ⇨ %s"
+msgstr "Nice time save!! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
@@ -337,7 +337,7 @@ msgstr "OOPS XD"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr "Let me guess, shift key again?"
+msgstr "Aw, you died :<"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:24
@@ -346,7 +346,7 @@ msgstr "It's fine, don't wowwy :з"
 
 #: /client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
-msgstr "Play agwain"
+msgstr "Pway again"
 
 #: /client/application/game/ui/game_over_ui.cpp:50
 msgid "Continue"
@@ -439,15 +439,15 @@ msgstr "Account deletion requested."
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
 msgid "An email asking for confirmation was sent."
-msgstr "An email asking for confiwmation was sent. :>"
+msgstr "An email asking for confiwmation was sent :>"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
 msgid "Failed to request account deletion"
-msgstr "Failed to request account deletion :<"
+msgstr "Failed to reqwest account deletion :<"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
 msgid "Help"
-msgstr "Help"
+msgstr "Hewp"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
@@ -459,7 +459,7 @@ msgstr "Too showt. Minimum %s chawactews."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:53
 msgid "Too long. Maximum %s characters."
-msgstr "Too long. Maximum %s chawactews."
+msgstr "Too loooong. Maximum %s chawactews."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:70
 msgid "Register account"
@@ -491,11 +491,11 @@ msgstr "Registewing"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:135
 msgid "Registration successful."
-msgstr "Registwation successful :D"
+msgstr "Registwation successful :з"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:137
 msgid "Please check your emails!"
-msgstr "Please check your emails! :}"
+msgstr "Pwease check your emails!"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:141
 msgid "Failed to register"
@@ -531,7 +531,7 @@ msgstr "Not signed in :<"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
 msgid "Create an account to set your name and sync your data"
-msgstr "Create an account to set your name and synchwonize yer data"
+msgstr "Cweate an account to set your name and synchwonize your data"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
 msgid "Sign in"
@@ -637,7 +637,7 @@ msgstr "Stats"
 
 #: /client/application/game/ui/screens/screen_career.cpp:61
 msgid "Global leaderboards"
-msgstr "Global leadewboawds"
+msgstr "Global leaderboawds"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -648,7 +648,7 @@ msgstr "All time staws and medals"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Level %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -658,15 +658,15 @@ msgstr "Deviations completed!"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Achievies"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "XP leaderboawd"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "All leaderboawds"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -724,11 +724,11 @@ msgstr "on"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "minimal"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "adwanced"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
@@ -776,22 +776,22 @@ msgstr "Vignette"
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:186
 msgid "Black"
-msgstr ""
+msgstr "Black"
 
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
 msgid "Blue"
-msgstr ""
+msgstr "Blue"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr ""
+msgstr "Teal"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
 msgid "Green"
-msgstr ""
+msgstr "Green"
 
 #. The color "pink"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:194
@@ -802,7 +802,7 @@ msgstr "Pink"
 #. renderer.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:199
 msgid "Background hue"
-msgstr ""
+msgstr "Backgwound hue"
 
 #. Name of the setting for when the game is shown in a window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:213
@@ -858,7 +858,7 @@ msgstr "Quick Restawt: %s"
 #. example: "Slow Down: Shift".
 #: /client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "Slow Down: %s"
 
 #: /client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -890,32 +890,32 @@ msgstr "Failed to download level :<"
 
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:37
 msgid "Encyclopedia"
-msgstr "Encyclopedia"
+msgstr "Encycwopedia"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:31
 msgid "New World Record"
-msgstr ""
+msgstr "New Wowld Recowd"
 
 #. Title string for new community level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:33
 msgid "New Level"
-msgstr ""
+msgstr "New Level!"
 
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:35
 msgid "New comment on %s"
-msgstr ""
+msgstr "New comment on %s"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:37
 msgid "New profile comment"
-msgstr ""
+msgstr "New profile comment :P"
 
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:39
 msgid "New reply to your comment on %s"
-msgstr ""
+msgstr "New reply to your comment on %s"
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -923,31 +923,31 @@ msgstr ""
 #. For example: 589320 in Eskiv, by JF, Lithium
 #: /client/application/game/ui/screens/screen_feed.cpp:47
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s in %2$s, by %3$s"
 
 #. Content string for new community level Feed entries
 #. For example: Eskiv 1024 (v32) was released
 #: /client/application/game/ui/screens/screen_feed.cpp:55
 msgid "%1$s (v%2$s) was released"
-msgstr ""
+msgstr "%1$s (v%2$s) was released :з"
 
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
 #: /client/application/game/ui/screens/screen_feed.cpp:58
 msgid "%1$s wrote: \"%2$s\""
-msgstr ""
+msgstr "%1$s wrote: \"%2$s\""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:547
 msgid "Global feed"
-msgstr ""
+msgstr "Gwobal feed"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:548
 msgid "Personal notifications"
-msgstr ""
+msgstr "Personal notifs"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:684
 msgid "No notifications"
-msgstr ""
+msgstr "No notifs :<"
 
 #. Content string for new 1p speedrun World record Feed entries
 #. For example: 1:33 in Symbiosis, by thomed77
@@ -956,7 +956,7 @@ msgstr ""
 #: /client/application/game/ui/screens/screen_feed.cpp:52
 msgctxt "speedrun"
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s in %2$s, by %3$s"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -1002,7 +1002,7 @@ msgstr "Inventowy"
 #. The title of the screen to save the ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:105
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Save ship config"
 
 #. The content of the button to save
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:109
@@ -1022,12 +1022,12 @@ msgstr "Enter config name"
 #. Title of the screen where you choose which configuration to load
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:177
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Load ship config"
 
 #. Shown in a notification when the configuration loaded has no name
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:243
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "loaded ship config"
 
 #. Shown in a notification when the configuration loaded has a name
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:246
@@ -1036,11 +1036,11 @@ msgstr "loaded <%s>"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
-msgstr "Local multiplayer"
+msgstr "Local multipwayer"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Local multiplayer suppowts 2 kittens connected to the same wifi netwowk."
+msgstr "Local multipwayer suppowts 2 kittens connected to the same wifi netwowk."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "One player must create a room, which the other player joins."
@@ -1060,7 +1060,7 @@ msgstr "Each kitten need to upload the replay separately to both appear in the o
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
-msgstr "Multiplayer help"
+msgstr "Multipwayer help"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
 msgid "Searching for rooms..."
@@ -1080,21 +1080,21 @@ msgstr "Close room"
 
 #: /client/application/game/ui/screens/screen_main_menu.cpp:52
 msgid "Single Player"
-msgstr "Singleplayer"
+msgstr "Singlepwayer"
 
 #: /client/application/game/ui/screens/screen_main_menu.cpp:54
 msgid "Play"
-msgstr "Play"
+msgstr "Pway"
 
 #: /client/application/game/ui/screens/screen_main_menu.cpp:83
 msgid "Multiplayer"
-msgstr "Multiplayer"
+msgstr "Multipwayer"
 
 #. The label of a button shown in the main menu that means you have
 #. new items to unlock.
 #: /client/application/game/ui/screens/screen_main_menu.cpp:315
 msgid "New Items"
-msgstr ""
+msgstr "New Iteeems!"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
 msgid "Room is full"
@@ -1149,7 +1149,7 @@ msgstr "This means that your intewnet connection is ovewly restwicted and does n
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr "If you are using mobile intewnet connection, try disabling it. If you awe on Wi-Fi, twy using a diffewent Wi-Fi netwowk."
+msgstr "If you are using mobile intewnet connection, try disabling it. If you are on Wi-Fi, twy using a diffewent Wi-Fi netwowk."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
 msgid "Failed to connect to the STUN servers."
@@ -1221,7 +1221,7 @@ msgstr "Join"
 
 #: /client/application/game/ui/screens/screen_online_list_rooms.cpp:91
 msgid "Online multiplayer"
-msgstr "Online multiplayer"
+msgstr "Online multipwayer"
 
 #: /client/application/game/ui/screens/screen_online_list_rooms.cpp:112
 msgid "Refresh"
@@ -1269,91 +1269,91 @@ msgstr "Community"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:166
 msgid "Official levels allow you to get score medals:"
-msgstr ""
+msgstr "Official levels allow you to get scowe medals:"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:167
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "#ff8000ffBwonze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "If you obtain a score worthy of a gold medal quickly enough, you'll earn speedrun medals!"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "This means that speedrun medals are much harder to get than a regular gold medal..."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "The reward is %1$s XP per scowe medals, and %2$s XP per speedrun medals :з"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:175
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "The world contains many deviations."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:176
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "To compwete deviations you should be familiar with the official levels..."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:177
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "You can pway the deviations in 3 levels of difficulties!"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:178
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "Beware! #ffff00ffhard#ffffffff is really hawd, and #ff0000ffdelirious#ffffffff is insane :o"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "For every completed deviation you get XP."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:186
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr ""
+msgstr "The sandbox is the place to train and experiment under different conditions."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:187
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr ""
+msgstr "Configuwe the level, the ship, the bonuses, and the enemies!"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:188
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr ""
+msgstr "The sandbox is still in dewelopment, so expect changes in the futuwe."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
-msgstr ""
+msgstr "Community levels are cweated by the community!"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
-msgstr ""
+msgstr "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Most community levels give out stars."
-msgstr ""
+msgstr "Most community levels give out staws."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
-msgstr ""
+msgstr "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level!"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
-msgstr ""
+msgstr "Official levels info"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
-msgstr ""
+msgstr "Community levels info"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
-msgstr ""
+msgstr "World info"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "Sandbox information"
-msgstr ""
+msgstr "Sandbox info"
 
 #: /client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1439,7 +1439,7 @@ msgstr "The translations are community provided btw :з"
 
 #: /client/application/game/ui/screens/screen_settings_language.cpp:29
 msgid "Default language"
-msgstr "Default language"
+msgstr "Default lingo"
 
 #: /client/application/game/ui/screens/screen_settings_language.cpp:43
 msgid "Help out"
@@ -1491,7 +1491,7 @@ msgstr "UI Inset: %s"
 
 #: /client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
-msgstr "Connect to sewver"
+msgstr "Connect to server"
 
 #: /client/application/game/ui/screens/screen_specify_server_ip.cpp:50
 msgid "IP:"
@@ -1614,7 +1614,7 @@ msgstr "Ewwor repowting comment :<"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
 msgid "No comments"
-msgstr ""
+msgstr "No comments :<"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:480
@@ -1692,7 +1692,7 @@ msgstr "Nope"
 #. Replies to "Hello this is my comment"
 #: /client/application/game/ui/screens/screen_view_and_add_comments.h:19
 msgid "Replies to \"%s\""
-msgstr ""
+msgstr "Replies to \"%s\""
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "Africa"
@@ -1708,7 +1708,7 @@ msgstr "Europe"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:32
 msgid "North America"
-msgstr "North America"
+msgstr "North Amewica"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Oceania"
@@ -1716,7 +1716,7 @@ msgstr "Oceania"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:34
 msgid "South America"
-msgstr "South America"
+msgstr "South Amewica"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:61
 msgid "personal"
@@ -1724,7 +1724,7 @@ msgstr "pewsonal"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:61
 msgid "region"
-msgstr "region"
+msgstr "wegion"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:62
 msgid "continent"
@@ -1736,11 +1736,11 @@ msgstr "wowld"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:145
 msgid "high scores"
-msgstr ""
+msgstr "high scowes"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:146
 msgid "speed runs"
-msgstr ""
+msgstr "speedruns"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1756,7 +1756,7 @@ msgstr "Failed to download manifest :<"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:87
 msgid "Featured level"
-msgstr ""
+msgstr "Featured level :з"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:223
 msgid "average score: %s"
@@ -1781,7 +1781,7 @@ msgstr "release date: %s"
 #. Used if the level does not contain any information.
 #: /client/application/game/ui/screens/screen_view_level_info.cpp:41
 msgid "No information available"
-msgstr "No infowmation available"
+msgstr "No infowmation available :<"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
@@ -1832,17 +1832,17 @@ msgstr "Failed to sign-in :<"
 #. Describes the lowest difficutly setting (1/3)
 #: /client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. Describes the mid difficulty setting (2/3)
 #: /client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
-msgstr ""
+msgstr "Hawd"
 
 #. Describes the highest difficutly setting (3/3)
 #: /client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
-msgstr ""
+msgstr "Delirious"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
@@ -1896,7 +1896,7 @@ msgstr "Join date: %s"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Level: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
@@ -2044,4 +2044,3 @@ msgstr "Frosted Gray"
 #: /client/application/utils/version.cpp:72
 msgid "Update available %s"
 msgstr "Update available %s!!!"
-
