@@ -49,18 +49,18 @@ the feasibility.
 * 🇹🇷 [Turkish](/translations/tur.po) (93% complete; 30 remaining)
 * 🇫🇷 [French](/translations/fra.po) (97% complete; 11 remaining)
 * 🇧🇷 [Portuguese](/translations/por.po) (97% complete; 11 remaining)
-* 🇪🇸 [Spanish](/translations/spa.po) (97% complete; 11 remaining)
-* 🇬🇪 [Georgian](/translations/kat.po) (99% complete; 1 remaining)
 * 🇦🇩 [Catalan](/translations/cat.po) (100% complete! 🎉)
 * 🇬🇷 [Greek](/translations/ell.po) (100% complete! 🎉)
 * 🇮🇩 [Indonesian](/translations/ind.po) (100% complete! 🎉)
 * 🇮🇹 [Italian](/translations/ita.po) (100% complete! 🎉)
 * 🇱🇹 [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * 🇷🇺 [Russian](/translations/rus.po) (100% complete! 🎉)
+* 🇪🇸 [Spanish](/translations/spa.po) (100% complete! 🎉)
 * 🇺🇦 [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
 * 🇺🇿 [Uzbek](/translations/uzb.po) (100% complete! 🎉)
 * 🇻🇳 [Vietnamese](/translations/vie.po) (100% complete! 🎉)
+* 🇬🇪 [Georgian](/translations/kat.po) (100% complete! 🎉)
 * 💻 [Code](/translations/code.po) (100% complete! 🎉)
 * 🥰 [UwU](/translations/uwu.po) (100% complete! 🎉)
 
-> Report generated on Mar 10 2025 00:39:42 UTC
+> Report generated on Mar 31 2025 00:52:20 UTC
