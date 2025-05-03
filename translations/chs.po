@@ -1,89 +1,89 @@
-#. The template for the description of score-related achievements.
-#. `%1$s` will be replaced by the name of the level.
-#. `%2$s` will be replaced by the score to reach.
-#. For example:
-#. "In Eskiv, score 10000 or more"
-#: /client/application/account/achievements_description.cpp:17
-msgid "In %1$s, score %2$s or more."
-msgstr ""
+#.评分相关业绩描述模板。
+#."%1$s"将替换为级别名称。
+#."%2$s"将替换为要达到的分数。
+#.例如：
+#."在爱斯基夫，得分10000或更高"
+#：/client/application/accounts/results_description。CPP:17
+msgid"在%1$s中，得分%2$s或更多."
+msgstr""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:330
-msgid "Ouch"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。 请随意
+#。 根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:330
+msgid"Ouch"
+msgstr""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:333
-msgid "Yikes"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。 请随意
+#。 根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:333
+msgid"Yikes"
+msgstr""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:336
-msgid "Ow"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。 请随意
+#。 根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:336
+msgid"Ow"
+msgstr""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:339
-msgid "Ugh"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。 请随意
+#。 根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:339
+msgid"Ugh"
+msgstr""
 
-#: /client/application/game/game.cpp:177
-msgid "Quick pause"
-msgstr "快速暂停"
+#：/client/application/game/game.cpp:177
+msgid"快速暂停"
+msgstr"快速暂停"
 
-#: /client/application/game/game.cpp:183
-msgid "Quick pause %s"
-msgstr "快速暂停 %s"
+#：/client/application/game/game.cpp:183
+msgid"快速暂停%s"
+msgstr"快速暂停%s"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "1p"
-msgstr "1p"
+#：/client/application/game/game_constants。CPP:12
+msgid"1p"
+msgstr"1p"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "2p"
-msgstr "2p"
+#：/client/application/game/game_constants。CPP:12
+msgid"2p"
+msgstr"2p"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "3p"
-msgstr "3p"
+#：/client/application/game/game_constants。CPP:12
+msgid"3p"
+msgstr"3p"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "4p"
-msgstr "4p"
+#：/client/application/game/game_constants。CPP:12
+msgid"4p"
+msgstr"4p"
 
-#. Short description of the "asteroids" game mode
-#: /client/application/game/levels/game_levels.cpp:97
-msgid "Euclidean space is overrated"
-msgstr "欧氏空间被过誉了"
+#.《小行星》游戏模式简述
+#：/client/application/game/level/game_level.CPP:97
+msgid"欧几里得空间被高估"
+msgstr"欧氏空间被过誉了"
 
-#. Short description of the "hexagon" game mode
-#: /client/application/game/levels/game_levels.cpp:116
-msgid "Never trust a six-sided polygon"
-msgstr "永远不要相信一个六边形"
+#.“六角形”游戏模式简述
+#：/client/application/game/level/game_level。CPP:116
+msgid"从不信任六边多边形"
+msgstr"永远不要相信一个六边形"
 
-#. Short description of the "hexagon" game mode
-#: /client/application/game/levels/game_levels.cpp:118
-msgid "Unrelated to \"Super Hexagon\""
-msgstr "与 \"Super Hexagon\"没有关系"
+#.“六角形”游戏模式简述
+#：/client/application/game/level/game_level。CPP:118
+msgid"与“超级六边形”无关\"
+msgstr"与\"超级六边形\"没有关系"
 
-#. Short description of the "hexagon" game mode
-#: /client/application/game/levels/game_levels.cpp:120
-msgid "Choose your own difficulty"
-msgstr "选择你自己的难度"
+#.“六角形”游戏模式简述
+#：/client/application/game/level/game_level。CPP:120
+msgid"选择自己的难度"
+msgstr"选择你自己的难度"
 
-#. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:138
-msgid "Dodge everything and you'll be OK"
-msgstr "只要躲开所有东西就行了吧"
+#.“eskiv”游戏模式简述
+#：/client/application/game/level/game_level。CPP:138
+msgid"闪开一切你就会没事"
+msgstr"只要躲开所有东西就行了吧"
 
-#. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:140
-msgid "aka Dodge This"
-msgstr "又名 Dodge This"
+#.“eskiv”游戏模式简述
+#：/client/application/game/level/game_level。CPP:140
+msgid"又名Dodge This"
+msgstr"又名Dodge This"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:142
@@ -220,41 +220,41 @@ msgstr "成就解锁：%s"
 #. Describes the rarity level of items. Rarity level of 0.
 #: /client/application/game/player_data/player_unlocked_items.cpp:321
 msgid "Common"
-msgstr ""
+msgstr "常见"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: /client/application/game/player_data/player_unlocked_items.cpp:323
 msgid "Uncommon"
-msgstr ""
+msgstr "罕见"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: /client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
-msgstr ""
+msgstr "稀有"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: /client/application/game/player_data/player_unlocked_items.cpp:327
 msgid "Epic"
-msgstr ""
+msgstr "史诗"
 
 #. Describes the rarity level of items. Rarity level of 4.
 #: /client/application/game/player_data/player_unlocked_items.cpp:329
 msgid "Legendary"
-msgstr ""
+msgstr "传奇"
 
 #. Describes the rarity level of items. Rarity level of 5.
 #: /client/application/game/player_data/player_unlocked_items.cpp:331
 msgid "Mythical"
-msgstr ""
+msgstr "神话"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: /client/application/game/player_data/player_unlocked_items.cpp:333
 msgid "Transcendent"
-msgstr ""
+msgstr "超凡"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:27
-msgid "Ship"
+msgid"Ship"
 msgstr ""
 
 #. Describes a type of unlockable item
