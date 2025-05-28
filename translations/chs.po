@@ -1,67 +1,67 @@
-#. The template for the description of score-related achievements.
-#. `%1$s` will be replaced by the name of the level.
-#. `%2$s` will be replaced by the score to reach.
-#. For example:
-#. "In Eskiv, score 10000 or more"
-#: /client/application/account/achievements_description.cpp:17
-msgid "In %1$s, score %2$s or more."
-msgstr ""
+#.评分相关业绩描述模板。
+#."%1$s"将替换为级别名称。
+#."%2$s"将替换为要达到的分数。
+#.例如：
+#."在爱斯基夫，得分10000或更高"
+#：/client/application/accounts/results_description。CPP:17
+msgid"在%1$s中，得分%2$s或更多."
+msgstr""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:330
-msgid "Ouch"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。 请随意
+#。 根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:330
+msgid"Ouch"
+msgstr""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:333
-msgid "Yikes"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。 请随意
+#。 根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:333
+msgid"Yikes"
+msgstr""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:336
-msgid "Ow"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。 请随意
+#。 根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:336
+msgid"Ow"
+msgstr""
 
-#. A floating message shown when the player takes damage. Feel free to
-#. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:339
-msgid "Ugh"
-msgstr ""
+#.玩家受到伤害时显示的浮动信息。 请随意
+#。 根据您的语言调整消息。
+#：/客户端/应用程序/游戏/实体/玩家/船舶。CPP:339
+msgid"Ugh"
+msgstr""
 
-#: /client/application/game/game.cpp:177
-msgid "Quick pause"
-msgstr "快速暂停"
+#：/client/application/game/game.cpp:177
+msgid"快速暂停"
+msgstr"快速暂停"
 
-#: /client/application/game/game.cpp:183
-msgid "Quick pause %s"
-msgstr "快速暂停 %s"
+#：/client/application/game/game.cpp:183
+msgid"快速暂停%s"
+msgstr"快速暂停%s"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "1p"
-msgstr "1p"
+#：/client/application/game/game_constants。CPP:12
+msgid"1p"
+msgstr"1p"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "2p"
-msgstr "2p"
+#：/client/application/game/game_constants。CPP:12
+msgid"2p"
+msgstr"2p"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "3p"
-msgstr "3p"
+#：/client/application/game/game_constants。CPP:12
+msgid"3p"
+msgstr"3p"
 
-#: /client/application/game/game_constants.cpp:12
-msgid "4p"
-msgstr "4p"
+#：/client/application/game/game_constants。CPP:12
+msgid"4p"
+msgstr"4p"
 
-#. Short description of the "asteroids" game mode
-#: /client/application/game/levels/game_levels.cpp:97
-msgid "Euclidean space is overrated"
-msgstr "欧氏空间被过誉了"
+#.《小行星》游戏模式简述
+#：/client/application/game/level/game_level.CPP:97
+msgid"欧几里得空间被高估"
+msgstr"欧氏空间被过誉了"
 
-#. Short description of the "hexagon" game mode
-#: /client/application/game/levels/game_levels.cpp:116
+#.“六角形”游戏模式简述
+#：/client/application/game/level/game_level。CPP:116
 msgid "Never trust a six-sided polygon"
 msgstr "永远不要相信一个六边形"
 
@@ -75,94 +75,94 @@ msgstr "与 \"Super Hexagon\"没有关系"
 msgid "Choose your own difficulty"
 msgstr "选择你自己的难度"
 
-#. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:138
-msgid "Dodge everything and you'll be OK"
-msgstr "只要躲开所有东西就行了吧"
+#.“eskiv”游戏模式简述
+#：/client/application/game/level/game_level。CPP:138
+msgid"闪开一切你就会没事"
+msgstr"只要躲开所有东西就行了吧"
 
-#. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:140
-msgid "aka Dodge This"
-msgstr "又名 Dodge This"
+#.“eskiv”游戏模式简述
+#：/client/application/game/level/game_level。CPP:140
+msgid"又名Dodge This"
+msgstr"又名Dodge This"
 
-#. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:142
-msgid "Green good. Red bad."
-msgstr "绿色，行，红色，不行。"
+#.“eskiv”游戏模式简述
+#：/client/application/game/level/game_level。CPP:142
+msgid绿色好红色不好
+msgstr"绿色，行，红色，不行。"
 
-#. Short description of the "waves" game mode
-#: /client/application/game/levels/game_levels.cpp:161
-msgid "RIP GW3:Dimensions"
-msgstr "安息吧，GW3:Dimensions"
+#.“波浪”游戏模式简述
+#：/client/application/game/level/game_level。CPP:161
+msgid"RIP GW3：尺寸"
+msgstr"休息吧，GW3：尺寸”
 
-#. Short description of the "waves" game mode
-#: /client/application/game/levels/game_levels.cpp:163
-msgid "Previously known as Assault"
-msgstr "以前被叫做 Assault"
+#.“波浪”游戏模式简述
+#：/client/application/game/level/game_level。CPP:163
+msgid"以前称为攻击"
+msgstr"以前被叫做攻击"
 
-#. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:182
-msgid "Just 32 seconds of skills"
-msgstr "32秒的纯粹技术"
+#.“狂暴”游戏模式简述
+#：/client/application/game/level/game_level。CPP:182
+msgid"只需32秒技能"
+msgstr"32秒的纯粹技术"
 
-#. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:184
-msgid "My favorite mode"
-msgstr "我最喜欢的关卡"
+#.“狂暴”游戏模式简述
+#：/client/application/game/level/game_level。CPP:184
+msgid"我的收藏模式"
+msgstr"我最喜欢的关卡"
 
-#. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:186
-msgid "Survive 32 seconds with this simple trick"
-msgstr "用这个简单的技巧活过32秒"
+#.“狂暴”游戏模式简述
+#：/client/application/game/level/game_level。CPP:186
+msgid"使用此简单技巧存活32秒"
+msgstr"用这个简单的技巧活过32秒"
 
-#. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:188
-msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"这一关是个笑话，对吗？\" - 一名测试者"
+#.“狂暴”游戏模式简述
+#：/client/application/game/level/game_level。CPP:188
+msgid"\"这个关卡是个笑话，对吧？\"-测试人员"
+msgstr"\"这一关是个笑话，对吗？\"-一名测试者"
 
-#. Short description of the "ceasefire" game mode
-#: /client/application/game/levels/game_levels.cpp:206
-msgid "Evolution of Pacifism"
-msgstr ""
+#.“停火”游戏模式简述
+#：/client/application/game/level/game_level。CPP:206
+msgid“和平主义的演变”
+msgstr""
 
-#. Short description of the "pandemonium" game mode
-#: /client/application/game/levels/game_levels.cpp:224
-msgid "True bullet hell"
-msgstr ""
+#.“大混乱”游戏模式简述
+#：/client/application/game/level/game_level。CPP:224
+msgid"真正的子弹地狱"
+msgstr""
 
-#. Short description of the "pandemonium" game mode
-#: /client/application/game/levels/game_levels.cpp:226
-msgid "With great firepower comes great dodging skills"
-msgstr ""
+#.“大混乱”游戏模式简述
+#：/client/application/game/level/game_level。CPP:226
+msgid“强大的火力带来强大的躲避技能”
+msgstr""
 
-#. Short description of the "partitioner" game mode
-#: /client/application/game/levels/game_levels.cpp:244
-msgid "Lasso up stuff to make them disappear"
-msgstr ""
+#.“分割者”游戏模式简述
+#：/client/application/game/level/game_level。CPP:244
+msgid“套上东西让它们消失”
+msgstr""
 
-#. Short description of the symbiosis game mode
-#: /client/application/game/levels/game_levels.cpp:262
-msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr ""
+#.共生博弈模式简述
+#：/client/application/game/level/game_level。CPP:262
+msgid“两个大脑半球，两只手，两艘船。”
+msgstr""
 
-#. Shown in a notification when a new score medal is earned.
-#: /client/application/game/levels/medals.cpp:14
-msgid "New bronze medal"
-msgstr "新的铜牌"
+#.当获得新的得分奖章时，在通知中显示。
+#：/client/application/game/level/medium.cpp:14
+msgid“新铜牌”
+msgstr"新的铜牌"
 
-#. Shown in a notification when a new speedrun medal is earned.
-#: /client/application/game/levels/medals.cpp:16
-msgid "New bronze speedrun medal"
-msgstr ""
+#.在获得新的速度跑奖章时显示在通知中。
+#：/client/application/game/level/medals.cpp:16
+msgid"新速跑铜牌"
+msgstr""
 
-#. Shown in a notification when a new score medal is earned.
-#: /client/application/game/levels/medals.cpp:19
-msgid "New silver medal"
-msgstr "新的银牌"
+#.当获得新的得分奖章时，在通知中显示。
+#：/client/application/game/level/medium.cpp:19
+msgid"新银牌"
+msgstr"新的银牌"
 
-#. Shown in a notification when a new speedrun medal is earned.
-#: /client/application/game/levels/medals.cpp:21
-msgid "New silver speedrun medal"
+#.在获得新的速度跑奖章时显示在通知中。
+#：/client/application/game/level/medium.cpp:21
+msgid"新的银牌速跑奖牌"
 msgstr ""
 
 #. Shown in a notification when a new score medal is earned.
@@ -1255,12 +1255,12 @@ msgstr "官方"
 #. The title of the screen where you select what to play in the World.
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:44
 msgid "World"
-msgstr ""
+msgstr "世界"
 
 #. The title of the screen where you select what sandbox to play.
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:46
 msgid "Sandbox"
-msgstr ""
+msgstr "沙盒"
 
 #. The title of the screen where you select community levels.
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:48
@@ -1770,7 +1770,7 @@ msgstr "测试关卡"
 #. version number. For example: "version 2"
 #: /client/application/game/ui/screens/screen_view_level_info.cpp:36
 msgid "version %s"
-msgstr ""
+msgstr "版本 %s"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
@@ -1854,12 +1854,12 @@ msgstr ""
 #. Error shown when downloading some piece of data failed.
 #: /client/application/game/ui/views/account_view.cpp:533
 msgid "Download error"
-msgstr ""
+msgstr "下载错误"
 
 #. Shown when the downloading of some piece of data is in progress.
 #: /client/application/game/ui/views/account_view.cpp:535
 msgid "Downloading..."
-msgstr ""
+msgstr "正在下载..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
