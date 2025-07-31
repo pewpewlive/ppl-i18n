@@ -2045,3 +2045,4 @@ msgstr "Fagyos szürke"
 msgid "Update available %s"
 msgstr "Frissítés elérhető %s"
 
+
