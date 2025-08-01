@@ -327,22 +327,22 @@ msgstr "Игра окончена"
 #. translation.
 #: /client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr "ПОМЕР"
+msgstr "Ты умер. Снова."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
-msgstr "Со смертью этого персонажа нить вашей судьбы обрывается."
+msgstr "Вставьте монетку, чтобы продолжить"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr "Не фартануло"
+msgstr "Ты пытался;)"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
-msgstr "Игре Хана"
+msgstr "Ничего страшного, ты всё равно бы не выиграл."
 
 #: /client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
@@ -712,7 +712,7 @@ msgstr "Высочайший"
 #. Title of the screen where graphics are configured.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:93
 msgid "Configure graphics"
-msgstr "Настройка джойстиков"
+msgstr "Настройка графики"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
 msgid "off"
