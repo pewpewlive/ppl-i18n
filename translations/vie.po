@@ -58,32 +58,32 @@ msgstr "4p"
 #. Short description of the "asteroids" game mode
 #: /client/application/game/levels/game_levels.cpp:97
 msgid "Euclidean space is overrated"
-msgstr "Không gian Euclid gà..."
+msgstr "Tường là cái gì cơ?"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:116
 msgid "Never trust a six-sided polygon"
-msgstr "Không thể tin được cái hình đa giác 6 cạnh"
+msgstr "Đừng chạm vào cái hình lục giác"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:118
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "Không họ hàng với \"Super Hexagon\""
+msgstr "Chắc chắn không lấy ý tưởng từ \"Super Hexagon\""
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:120
 msgid "Choose your own difficulty"
-msgstr "Chọn độ khó của bạn"
+msgstr "Càng nhanh càng khó"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:138
 msgid "Dodge everything and you'll be OK"
-msgstr "Cứ né mọi thứ là được rồi"
+msgstr "Né là được"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:140
 msgid "aka Dodge This"
-msgstr "Hay còn được goi là Dodge this"
+msgstr "Tên khác: Dodge this"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:142
@@ -93,12 +93,12 @@ msgstr "Xanh tốt. Đỏ xấu."
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:161
 msgid "RIP GW3:Dimensions"
-msgstr "Bay màu GW3:Dimensions"
+msgstr "Vĩnh biệt GW3:Dimensions"
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:163
 msgid "Previously known as Assault"
-msgstr "Từng có tên là Assault"
+msgstr "Tên cũ là Assault"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:182
@@ -113,7 +113,7 @@ msgstr "Chế độ yêu thích của tui"
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:186
 msgid "Survive 32 seconds with this simple trick"
-msgstr "Sống 32 giây bằng mẹo đơn giản này"
+msgstr "Mẹo sống sót 32 giây:"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:188
@@ -123,7 +123,7 @@ msgstr "\"Màn này là trò đùa hả?\" - người thử game"
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
-msgstr "Tiến hóa của chủ nghĩa hòa bình"
+msgstr "Pacifism nâng cấp"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:224
@@ -133,12 +133,12 @@ msgstr "Né đạn kinh khủng"
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:226
 msgid "With great firepower comes great dodging skills"
-msgstr "Sức bắn lớn đi với kĩ năng né lớn"
+msgstr "Né khỏe, bắn khỏe"
 
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr "Khoanh vùng mọi thứ để cho nó biến mất"
+msgstr "Khoanh tròn mọi thứ và làm nó biến mất"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
@@ -181,7 +181,7 @@ msgstr "Bạn đã đăng xuất."
 
 #: /client/application/game/player_data/data_synchronizer.cpp:192
 msgid "Failed to download backup data"
-msgstr "Không thể tải dữ liệu dự phòng"
+msgstr "Không thể tải dữ liệu backup"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:276
 msgid "Failed to download achievements"
@@ -203,13 +203,13 @@ msgstr "Không thể tải dữ liệu"
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
 #: /client/application/game/player_data/player_data_manager.cpp:50
 msgid "New personal best! %s ⇨ %s"
-msgstr "Kỉ lục điểm cá nhân mới! %s ⇨ %s"
+msgstr "Kỉ lục mới! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: /client/application/game/player_data/player_data_manager.cpp:53
 msgid "Improved speed run! %s ⇨ %s"
-msgstr "Kỉ lục speedrun cá nhân mới! %s ⇨ %s"
+msgstr "Kỉ lục speedrun mới! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
@@ -220,7 +220,7 @@ msgstr "Mở khóa thành tựu: %s"
 #. Describes the rarity level of items. Rarity level of 0.
 #: /client/application/game/player_data/player_unlocked_items.cpp:321
 msgid "Common"
-msgstr "Phổ biến"
+msgstr "Thường"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: /client/application/game/player_data/player_unlocked_items.cpp:323
@@ -317,22 +317,22 @@ msgstr "Pointonium: %s"
 #. duration, for example: "Duration: 1m43s"
 #: /client/application/game/state/game_state.cpp:524
 msgid "Duration: %s"
-msgstr "Thời hạn: %s"
+msgstr "Thời gian: %s"
 
 #: /client/application/game/ui/game_over_ui.cpp:10
 msgid "Game Over"
-msgstr "Kết thúc game"
+msgstr "Kết thúc"
 
 #. April 1st replacement for "Game Over". Does not need an exact
 #. translation.
 #: /client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr "Vấn đề kĩ năng."
+msgstr "Ngỏm -> Chơi lại"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
-msgstr "Tôi sau khi chết kiểu:"
+msgstr "Thêm xu để chơi tiếp"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
@@ -350,7 +350,7 @@ msgstr "Chơi lại"
 
 #: /client/application/game/ui/game_over_ui.cpp:50
 msgid "Continue"
-msgstr "Tiếp"
+msgstr "Tiếp tục"
 
 #. Shown when the player failed to achieve an objective
 #: /client/application/game/ui/game_over_ui.cpp:92
@@ -376,7 +376,7 @@ msgstr "Chơi lại"
 
 #: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:77
 msgid "Loading..."
-msgstr "Đang tải"
+msgstr "Đang tải..."
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
 msgid "Change colors"
@@ -404,11 +404,11 @@ msgstr "Đổi màu tên"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
 msgid "Username change succesfull"
-msgstr "Đổi màu tên thành công"
+msgstr "Đổi màu thành công"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
 msgid "Failed to update username"
-msgstr "Đổi tên thất bại"
+msgstr "Đổi màu thất bại"
 
 #. Shown in a header, in the screen that allows you to manage your PewPew
 #. Live account. In this screen you can for example change the colors of your
@@ -447,7 +447,7 @@ msgstr "Gửi yêu cầu thất bại"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
 msgid "Help"
-msgstr "Giúp đỡ"
+msgstr "Trợ giúp"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:21
 msgid "Email is invalid!"
@@ -569,7 +569,7 @@ msgstr "Đã gửi email xác nhận"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Check your inbox!"
-msgstr "Kiểm tra hộp thư của bạn!"
+msgstr "Hãy kiểm tra inbox!"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:40
 msgid "Failed to resend email"
@@ -654,7 +654,7 @@ msgstr "Cấp %s"
 #. summary of the completed deviations is shown.
 #: /client/application/game/ui/screens/screen_career.cpp:124
 msgid "Deviations completed"
-msgstr "Các biến thể đã hoàn thành"
+msgstr "Biến thể đã hoàn thành"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
@@ -674,7 +674,7 @@ msgstr "Thay đổi Gamepad"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:64
 msgid "Deadzone"
-msgstr "Dead-zone"
+msgstr "Deadzone"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:79
 msgid "Saturation"
@@ -966,7 +966,7 @@ msgstr "Nhạc"
 #. contributed to the game.
 #: /client/application/game/ui/screens/screen_informations.cpp:102
 msgid "Credits"
-msgstr "Danh đề"
+msgstr "Credits"
 
 #. Shown in a button. This buttons lets you see the list of programming
 #. library that are used in the game.
@@ -978,7 +978,7 @@ msgstr "Giấy phép"
 #. Used in a button that redirects to discord server
 #: /client/application/game/ui/screens/screen_informations.h:22
 msgid "Discord server"
-msgstr "Server Discord"
+msgstr "Discord"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to the youtube channel
@@ -1017,7 +1017,7 @@ msgstr "Đã lưu cài đặt"
 #. Shown when asking for a ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:160
 msgid "Enter configuration name"
-msgstr "Đặt tên cài đặt tàu"
+msgstr "Đặt tên tàu"
 
 #. Title of the screen where you choose which configuration to load
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:177
@@ -1060,7 +1060,7 @@ msgstr "Mỗi người chơi cần đăng video phát lại thì cả hai mới 
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
 msgid "Multiplayer help"
-msgstr "Hỗ trợ nhiều người chơi"
+msgstr "Trợ giúp nhiều người chơi"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
 msgid "Searching for rooms..."
@@ -1068,7 +1068,7 @@ msgstr "Đang tìm phòng"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:170
 msgid "(Incompatible version)"
-msgstr "(Phiên bản không tương hợp)"
+msgstr "(Phiên bản không tương thích)"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:190
 msgid "Create room"
@@ -1317,7 +1317,7 @@ msgstr "Sandbox là nơi để rèn luyện và thử nghiệm dưới các đi�
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:187
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr "Chỉnh sửa các màn, con tàu, các phần thưởng, và các kể địch! "
+msgstr "Chỉnh sửa các màn, con tàu, các phần thưởng, và các kẻ địch! "
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:188
 msgid "The sandbox is still in development, so expect changes in the future."
