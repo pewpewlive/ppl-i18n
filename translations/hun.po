@@ -123,7 +123,7 @@ msgstr "\"Ez a szint egy vicc, jó?\" - egy tesztelő"
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "A Pacifizmus fejlődése"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:224
@@ -138,7 +138,7 @@ msgstr "A nagy tűzerőhöz nagyszerű kitérési képességek társulnak."
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "Lasszózd be a dolgokat hogy eltűnjenek"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
@@ -197,7 +197,7 @@ msgstr "Nem sikerült letölteni a feloldott elemeket"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Nem sikerült letölteni az adatokat"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -648,7 +648,7 @@ msgstr "Az összes medál és csillag"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Szint %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -658,15 +658,15 @@ msgstr "Befejezett eltérések"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Teljesítmények"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "XP ranglista"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "Összes ranglista"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -724,11 +724,11 @@ msgstr "be"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "minimális"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "továbbfejlesztett"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
@@ -776,22 +776,22 @@ msgstr "Vignetta"
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:186
 msgid "Black"
-msgstr ""
+msgstr "Fekete"
 
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
 msgid "Blue"
-msgstr ""
+msgstr "Kék"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr ""
+msgstr "Teal"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
 msgid "Green"
-msgstr ""
+msgstr "Zöld"
 
 #. The color "pink"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:194
@@ -802,7 +802,7 @@ msgstr "Pink"
 #. renderer.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:199
 msgid "Background hue"
-msgstr ""
+msgstr "Háttér hue"
 
 #. Name of the setting for when the game is shown in a window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:213
@@ -858,7 +858,7 @@ msgstr "Gyors újraindítás: %s"
 #. example: "Slow Down: Shift".
 #: /client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "Lassítás %s"
 
 #: /client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -895,27 +895,27 @@ msgstr "Enciklopédia"
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:31
 msgid "New World Record"
-msgstr ""
+msgstr "Új Világ Rekord"
 
 #. Title string for new community level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:33
 msgid "New Level"
-msgstr ""
+msgstr "Új szint"
 
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:35
 msgid "New comment on %s"
-msgstr ""
+msgstr "Új hozzászólás a %s"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:37
 msgid "New profile comment"
-msgstr ""
+msgstr "Új profil hozzászólás"
 
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:39
 msgid "New reply to your comment on %s"
-msgstr ""
+msgstr "Új válasz a hozzászólásodra"
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -923,31 +923,31 @@ msgstr ""
 #. For example: 589320 in Eskiv, by JF, Lithium
 #: /client/application/game/ui/screens/screen_feed.cpp:47
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s a %2$s, %3$s től"
 
 #. Content string for new community level Feed entries
 #. For example: Eskiv 1024 (v32) was released
 #: /client/application/game/ui/screens/screen_feed.cpp:55
 msgid "%1$s (v%2$s) was released"
-msgstr ""
+msgstr "%1$s (v%2$s) megjelent"
 
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
 #: /client/application/game/ui/screens/screen_feed.cpp:58
 msgid "%1$s wrote: \"%2$s\""
-msgstr ""
+msgstr "%1$s írta: \"%2$s\""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:506
 msgid "Global feed"
-msgstr ""
+msgstr "Globális táplálás"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:507
 msgid "Personal notifications"
-msgstr ""
+msgstr "Személyes üzenetek"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:643
 msgid "No notifications"
-msgstr ""
+msgstr "Nincsenek üzenetek"
 
 #. Content string for new 1p speedrun World record Feed entries
 #. For example: 1:33 in Symbiosis, by thomed77
@@ -1002,7 +1002,7 @@ msgstr "Eszköztár"
 #. The title of the screen to save the ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:105
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Hajó konfiguráció mentése"
 
 #. The content of the button to save
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:109
@@ -1022,12 +1022,12 @@ msgstr "Írd be a konfiguráció nevét"
 #. Title of the screen where you choose which configuration to load
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:177
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Hajó konfiguráció betöltése"
 
 #. Shown in a notification when the configuration loaded has no name
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:243
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "Betöltött hajó monfiguráció"
 
 #. Shown in a notification when the configuration loaded has a name
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:246
@@ -1094,7 +1094,7 @@ msgstr "Többjátékos mód"
 #. new items to unlock.
 #: /client/application/game/ui/screens/screen_main_menu.cpp:315
 msgid "New Items"
-msgstr ""
+msgstr "Új elemek"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
 msgid "Room is full"
@@ -1269,91 +1269,91 @@ msgstr "Közösségi"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:166
 msgid "Official levels allow you to get score medals:"
-msgstr ""
+msgstr "A hivatalos szintek lehetővé teszik, hogy pontszerző érmeket szerezz:"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:167
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr ""
+msgstr "#ff8000ffBronz#ffffffff, #ffffffaaEzüst#ffffffff, and #ffff00ffArany#ffffffff"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr ""
+msgstr "Ha elég gyorsan elérsz egy aranyérmet érő pontszámot, akkor speedrun érmeket kapsz."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
-msgstr ""
+msgstr "Ez azt jelenti, hogy a speedrunért járó érmeket sokkal nehezebb megszerezni, mint a hagyományos aranyérmet."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
-msgstr ""
+msgstr "A jutalom %1$s XP pontszerző érmekért és %2$s XP speedrun érmekért."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:175
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "A világ sok eltérést tartalmaz."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:176
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "Az eltérések teljesítéséhez ismernie kell a hivatalos szinteket."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:177
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "Az eltéréseket 3 nehézségi szinten játszhatod."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:178
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "Vigyázz! A #ffffff00ffnehéz#ffffffffffff nagyon nehéz, a #ffff0000ffdelirious#ffffffffffff pedig őrületes."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "Minden teljesített eltérésért XP-t kapsz."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr ""
+msgstr "%1$s XP normálban, %2$s XP keményben, %3$s XP deliriumban"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:186
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr ""
+msgstr "A sandboxban különböző körülmények között lehet gyakorolni és kísérletezni."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:187
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr ""
+msgstr "Állítsd be a szintet, a hajót, a bónuszokat és az ellenséget!"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:188
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr ""
+msgstr "A sandbox még fejlesztés alatt áll, ezért a jövőben változásokra számíthatsz."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
 msgid "Community levels are created by the community."
-msgstr ""
+msgstr "A közösségi szinteket a közösség hozza létre."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
-msgstr ""
+msgstr "A szinteket kísérleti, ellenőrzött és kiemelt szintként lehet megjelölni. Csak az ellenőrzött vagy kiemelt szinteken lehet pontszámokat beküldeni."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Most community levels give out stars."
-msgstr ""
+msgstr "A legtöbb közösségi szint csillagokat oszt ki."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
-msgstr ""
+msgstr "A jutalom csillagonként 300 XP: ha egy szinten arany csillagot kaptál, akkor 900 XP pontot kaptál az adott szintről."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
-msgstr ""
+msgstr "Hivatalos információk a szintekről"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
-msgstr ""
+msgstr "Közösségi szintű információk"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
-msgstr ""
+msgstr "Világ információ"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "Sandbox information"
-msgstr ""
+msgstr "Sandbox információ"
 
 #: /client/application/game/ui/screens/screen_server_connection_closed.cpp:14
 msgid "Connection error"
@@ -1614,7 +1614,7 @@ msgstr "Hiba a hozzászólás jelentésekor"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:463
 msgid "No comments"
-msgstr ""
+msgstr "Nincsenek hozzászólások"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:482
@@ -1692,7 +1692,7 @@ msgstr "Nem"
 #. Replies to "Hello this is my comment"
 #: /client/application/game/ui/screens/screen_view_and_add_comments.h:19
 msgid "Replies to \"%s\""
-msgstr ""
+msgstr "Válaszok a \"%s\""
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "Africa"
@@ -1736,11 +1736,11 @@ msgstr "világ"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:145
 msgid "high scores"
-msgstr ""
+msgstr "magas pontszámok"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:146
 msgid "speed runs"
-msgstr ""
+msgstr "Speed runs"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1756,7 +1756,7 @@ msgstr "A manifeszt letöltése sikertelen"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:87
 msgid "Featured level"
-msgstr ""
+msgstr "Kiemelt szint"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:223
 msgid "average score: %s"
@@ -1832,17 +1832,17 @@ msgstr "Nem sikerült bejelentkezni!"
 #. Describes the lowest difficutly setting (1/3)
 #: /client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
-msgstr ""
+msgstr "Normál"
 
 #. Describes the mid difficulty setting (2/3)
 #: /client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
-msgstr ""
+msgstr "Nehéz"
 
 #. Describes the highest difficutly setting (3/3)
 #: /client/application/game/ui/shared_strings.cpp:50
 msgid "Delirious"
-msgstr ""
+msgstr "Delirious"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
@@ -1896,7 +1896,7 @@ msgstr "Csatlakozás dátuma: %s"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Szint: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
@@ -2044,4 +2044,5 @@ msgstr "Fagyos szürke"
 #: /client/application/utils/version.cpp:72
 msgid "Update available %s"
 msgstr "Frissítés elérhető %s"
+
 
