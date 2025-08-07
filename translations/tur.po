@@ -58,12 +58,12 @@ msgstr "4p"
 #. Short description of the "asteroids" game mode
 #: /client/application/game/levels/game_levels.cpp:97
 msgid "Euclidean space is overrated"
-msgstr "Normal yer anlayışı abartılı"
+msgstr "Normal yer anlayışı abartılıdır"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:116
 msgid "Never trust a six-sided polygon"
-msgstr "Altı kenarlı bir köşegeni hiç güvenme"
+msgstr "Altı kenarlı bir köşegene hiç güvenme"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:118
@@ -78,22 +78,22 @@ msgstr "Kendi zorluk seviyesini seç"
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:138
 msgid "Dodge everything and you'll be OK"
-msgstr "Kazanmak için her şeyden kaç "
+msgstr "Kazanmak için her şeyden kaç"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:140
 msgid "aka Dodge This"
-msgstr "kısaca Bundan kaç"
+msgstr "diğer adı Dodge This"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:142
 msgid "Green good. Red bad."
-msgstr "Yeşil iyi, kırmızı kötü."
+msgstr "Yeşil iyi, kırmızı kötüdür."
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:161
 msgid "RIP GW3:Dimensions"
-msgstr "GW3:Dimensions'a Allah rahmet eylesin"
+msgstr "GW3:Dimensions huzur içinde yatsın"
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:163
@@ -118,7 +118,7 @@ msgstr "32 saniye boyunca hayatta kalabilirmisin?"
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:188
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Bu harita bir şaka değil mi?\" - bir oyuncu"
+msgstr "\"Ağabey bu harita şaka mı?\" - bir oyuncu"
 
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
@@ -128,12 +128,12 @@ msgstr "Pacifism'in Gelişimi"
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:224
 msgid "True bullet hell"
-msgstr "Gerçek bullet hell"
+msgstr "Gerçekten kurşun cehennemi"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:226
 msgid "With great firepower comes great dodging skills"
-msgstr "Mükemmel güç ile mükemmel sürme becerileri gelir"
+msgstr "Mükemmel güç ile mükemmel manevra becerileri gelir"
 
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
@@ -197,7 +197,7 @@ msgstr "Açılan öğelerin indirilmesi başarısız"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Veri indirmesi başarısız"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -648,7 +648,7 @@ msgstr "Genel yıldız ve madalyalar"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Harita %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -658,15 +658,15 @@ msgstr "Tamamlanan farklılaşmalar"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Başarılar"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
-msgstr ""
+msgstr "XP liderlik tablosu"
 
 #: /client/application/game/ui/screens/screen_career.cpp:183
 msgid "All leaderboards"
-msgstr ""
+msgstr "Tüm liderlik tabloları"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
 msgid "Configure Gamepad"
@@ -895,27 +895,27 @@ msgstr "Ansiklopedi"
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:31
 msgid "New World Record"
-msgstr ""
+msgstr "Yeni Dünya Rekoru"
 
 #. Title string for new community level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:33
 msgid "New Level"
-msgstr ""
+msgstr "Yeni Harita"
 
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:35
 msgid "New comment on %s"
-msgstr ""
+msgstr "%s haritası altında yeni yorum"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:37
 msgid "New profile comment"
-msgstr ""
+msgstr "Yeni profil yorumu"
 
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:39
 msgid "New reply to your comment on %s"
-msgstr ""
+msgstr "%s haritası yorumunun altında yeni yanıt"
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -923,31 +923,31 @@ msgstr ""
 #. For example: 589320 in Eskiv, by JF, Lithium
 #: /client/application/game/ui/screens/screen_feed.cpp:47
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%3$s tarafından %2$s haritasında %1$s"
 
 #. Content string for new community level Feed entries
 #. For example: Eskiv 1024 (v32) was released
 #: /client/application/game/ui/screens/screen_feed.cpp:55
 msgid "%1$s (v%2$s) was released"
-msgstr ""
+msgstr "%1$s (v%2$s) yayınlandı"
 
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
 #: /client/application/game/ui/screens/screen_feed.cpp:58
 msgid "%1$s wrote: \"%2$s\""
-msgstr ""
+msgstr "%1$s: \"%2$s\""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:506
 msgid "Global feed"
-msgstr ""
+msgstr "Global akış"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:507
 msgid "Personal notifications"
-msgstr ""
+msgstr "Kişisel bildirimler"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:643
 msgid "No notifications"
-msgstr ""
+msgstr "Bildirim yok"
 
 #. Content string for new 1p speedrun World record Feed entries
 #. For example: 1:33 in Symbiosis, by thomed77
@@ -956,7 +956,7 @@ msgstr ""
 #: /client/application/game/ui/screens/screen_feed.cpp:52
 msgctxt "speedrun"
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%3$s tarafından %2$s haritasında %1$s"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -1002,7 +1002,7 @@ msgstr "Envanter"
 #. The title of the screen to save the ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:105
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Gemi konfigürasyonunu kaydet"
 
 #. The content of the button to save
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:109
@@ -1022,12 +1022,12 @@ msgstr "Konfigürasyon adını giriniz"
 #. Title of the screen where you choose which configuration to load
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:177
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Gemi konfigürasyonunu yükle"
 
 #. Shown in a notification when the configuration loaded has no name
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:243
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "gemi konfigürasyonu yüklendi"
 
 #. Shown in a notification when the configuration loaded has a name
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:246
@@ -1094,7 +1094,7 @@ msgstr "Çok oyunculu"
 #. new items to unlock.
 #: /client/application/game/ui/screens/screen_main_menu.cpp:315
 msgid "New Items"
-msgstr ""
+msgstr "Yeni Ögeler"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
 msgid "Room is full"
