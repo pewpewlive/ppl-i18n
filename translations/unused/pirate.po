@@ -43,6 +43,15 @@ msgstr "Testing by the monkey"
 msgid "Experimental levels"
 msgstr "Ship tested by monkey"
 
+msgid "Failed to download achievements"
+msgstr "Can't get our bounty arg"
+
+msgid "Failed to download unlocked items"
+msgstr "Can't get new pirate stuff"
+
+msgid "Failed to upload achievements"
+msgstr "Argh can't save our stuff"
+
 msgid "High (Dark)"
 msgstr "Dark vision"
 
@@ -87,6 +96,9 @@ msgstr "So Blurry."
 
 msgid "Ultra low 8x"
 msgstr "Very Blurry"
+
+msgid "Vibration %s"
+msgstr "Waves %s"
 
 msgid "by %s"
 msgstr "Hang %s"

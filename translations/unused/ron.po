@@ -115,6 +115,9 @@ msgstr "Foarte mic 4x"
 msgid "Ultra low 8x"
 msgstr "Foarte mic 8x"
 
+msgid "Vibration %s"
+msgstr "Vibrație %s"
+
 msgid "by %s"
 msgstr "de %s"
 

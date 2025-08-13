@@ -49,8 +49,17 @@ msgstr "Game.Experimental"
 msgid "Experimental levels"
 msgstr "Game.Experimental.levels"
 
+msgid "Failed to download achievements"
+msgstr "Game.Error = \"Failed to download achievements\""
+
+msgid "Failed to download unlocked items"
+msgstr "Game.Error = \"Failed to download unlocked items\""
+
 msgid "Failed to set up comments"
 msgstr "Game.Error = \"Failed to set up comments\""
+
+msgid "Failed to upload achievements"
+msgstr "Game.Error = \"Failed to upload achievements\""
 
 msgid "High (Dark)"
 msgstr "DarkTheme(INT_MAX);"
@@ -105,6 +114,9 @@ msgstr "UltraLowX(8);"
 
 msgid "Unknown level"
 msgstr "UnknownLevel"
+
+msgid "Vibration %s"
+msgstr "Game.Vibration = %s"
 
 msgid "Your verified medals have been downloaded."
 msgstr "Sync() returned: \"Your verified medals have been downloaded.\""

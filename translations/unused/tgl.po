@@ -139,6 +139,9 @@ msgstr "Pinalabo ng 4x"
 msgid "Ultra low 8x"
 msgstr "Pinalabo ng 8x"
 
+msgid "Vibration %s"
+msgstr "Pag-vibrate %s"
+
 msgid "Yes!"
 msgstr "Syempre!"
 

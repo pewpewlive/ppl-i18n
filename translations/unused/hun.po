@@ -40,8 +40,17 @@ msgstr "Kísérleti"
 msgid "Experimental levels"
 msgstr "Kísérleti szintek"
 
+msgid "Failed to download achievements"
+msgstr "Nem sikerült letölteni az achievementeket"
+
+msgid "Failed to download unlocked items"
+msgstr "Nem sikerült letölteni a feloldott elemeket"
+
 msgid "Failed to set up comments"
 msgstr "Nem sikerült beállítani a megjegyzéseket"
+
+msgid "Failed to upload achievements"
+msgstr "Nem sikerült feltölteni az achievementeket"
 
 msgid "High Scores"
 msgstr "Magas Pontszámok"
@@ -78,6 +87,9 @@ msgstr "Ultra alacsony 8x"
 
 msgid "Unknown level"
 msgstr "Ismeretlen szint"
+
+msgid "Vibration %s"
+msgstr "Rezgés %s"
 
 msgid "Your verified medals have been downloaded."
 msgstr "Az ellenőrzött medáljaidat letöltöttük."

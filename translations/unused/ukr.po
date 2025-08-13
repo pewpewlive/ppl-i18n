@@ -67,11 +67,20 @@ msgstr "Експериментальні"
 msgid "Experimental levels"
 msgstr "Експерементальні рівні"
 
+msgid "Failed to download achievements"
+msgstr "Не вдалося завантажити досягнення"
+
+msgid "Failed to download unlocked items"
+msgstr "Не вдалося завантажити відкриті предмети"
+
 msgid "Failed to parse server response"
 msgstr "Не вдалося проаналізувати відповідь сервера"
 
 msgid "Failed to set up comments"
 msgstr "Не вдалося відтворити коментарі"
+
+msgid "Failed to upload achievements"
+msgstr "Не вдалося завантажити досягнення"
 
 msgid "Game is full"
 msgstr "Гра завантажена на повну"
@@ -159,6 +168,9 @@ msgstr "Дуже низька 8x"
 
 msgid "Unknown level"
 msgstr "Невідомий рівень"
+
+msgid "Vibration %s"
+msgstr "Вібрація %s"
 
 msgid "Yes!"
 msgstr "Так!"

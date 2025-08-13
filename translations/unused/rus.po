@@ -70,11 +70,20 @@ msgstr "Экспериментальные"
 msgid "Experimental levels"
 msgstr "Экспериментальные уровни"
 
+msgid "Failed to download achievements"
+msgstr "Не удалось загрузить достижения."
+
+msgid "Failed to download unlocked items"
+msgstr "Не удалось загрузить открытые предметы."
+
 msgid "Failed to parse server response"
 msgstr "Не удалось получить ответ от сервера"
 
 msgid "Failed to set up comments"
 msgstr "Не удалось настроить комментарии"
+
+msgid "Failed to upload achievements"
+msgstr "Не удалось отправить достижения."
 
 msgid "Game is full"
 msgstr "Нет свободных мест."
@@ -177,6 +186,9 @@ msgstr "Пиксель 8x"
 
 msgid "Unknown level"
 msgstr "Неизвестный уровень"
+
+msgid "Vibration %s"
+msgstr "Вибрация %s"
 
 msgid "Waiting for the server..."
 msgstr "Ожидание сервера..."

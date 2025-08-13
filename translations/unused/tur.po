@@ -61,11 +61,20 @@ msgstr "Deneysel"
 msgid "Experimental levels"
 msgstr "Deneysel haritalar"
 
+msgid "Failed to download achievements"
+msgstr "Başarımları indirme başarısız oldu"
+
+msgid "Failed to download unlocked items"
+msgstr "Açılan öğelerin indirilmesi başarısız"
+
 msgid "Failed to parse server response"
 msgstr "Sunucu bağlantısında hata oluşmuş"
 
 msgid "Failed to set up comments"
 msgstr "Yorumların gösterimi başarısız"
+
+msgid "Failed to upload achievements"
+msgstr "Başarımları yükleme başarısız oldu"
 
 msgid "Game is full"
 msgstr "Oyun dolu"
@@ -168,6 +177,9 @@ msgstr "Aşırı düşük x8"
 
 msgid "Unknown level"
 msgstr "Bilinmeyen level"
+
+msgid "Vibration %s"
+msgstr "Titreşim %s"
 
 msgid "Waiting for the server..."
 msgstr "Sunucu bekleniyor..."

@@ -70,11 +70,20 @@ msgstr "Eksperymentalne"
 msgid "Experimental levels"
 msgstr "Poziomy Eksperymentalne"
 
+msgid "Failed to download achievements"
+msgstr "Nie udało się pobrać osiągnięć"
+
+msgid "Failed to download unlocked items"
+msgstr "Nie udało się pobrać odblokowanych elementów"
+
 msgid "Failed to parse server response"
 msgstr "Nie udało się przeanalizować odpowiedzi serwera"
 
 msgid "Failed to set up comments"
 msgstr "Nie udało się ustawić komentarzy"
+
+msgid "Failed to upload achievements"
+msgstr "Nie udało się dosłać osiągnięć"
 
 msgid "Game is full"
 msgstr "Gra jest pełna"
@@ -177,6 +186,9 @@ msgstr "Ultra niskie 8x"
 
 msgid "Unknown level"
 msgstr "Nieznany poziom"
+
+msgid "Vibration %s"
+msgstr "Wibracje %s"
 
 msgid "Waiting for the server..."
 msgstr "Czekanie na serwer"

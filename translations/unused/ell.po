@@ -49,8 +49,17 @@ msgstr "Πειραματικά"
 msgid "Experimental levels"
 msgstr "Πειραματικά επίπεδα"
 
+msgid "Failed to download achievements"
+msgstr "Απέτυχαν να κατεβούν τα επιτεύγματα"
+
+msgid "Failed to download unlocked items"
+msgstr "Απέτυχαν να κατεβαστούν τα ξεκλειδωμένα items"
+
 msgid "Failed to set up comments"
 msgstr "Απέτυχαν να τεθούν τα σχόλια"
+
+msgid "Failed to upload achievements"
+msgstr "Απέτυχαν να ανεβαστούν τα επιτεύγματα"
 
 msgid "High (Dark)"
 msgstr "Υψηλό (Σκοτεινό)"
@@ -102,6 +111,9 @@ msgstr "Υπέρ χαμηλό 8x"
 
 msgid "Unknown level"
 msgstr "Άγνωστο επίπεδο"
+
+msgid "Vibration %s"
+msgstr "Δόνηση %s"
 
 msgid "Your verified medals have been downloaded."
 msgstr "Τα επιβεβαιομένα μετάλλια σας έχουν κατεβεί."

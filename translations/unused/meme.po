@@ -70,8 +70,17 @@ msgstr "Half-baked"
 msgid "Experimental levels"
 msgstr "Half-baked levels"
 
+msgid "Failed to download achievements"
+msgstr "Aw, fiddlesticks, achievement download failed."
+
+msgid "Failed to download unlocked items"
+msgstr "Uh oh, where'd your items go?"
+
 msgid "Failed to parse server response"
 msgstr "Server illegible"
+
+msgid "Failed to upload achievements"
+msgstr "Woah, slow down, I couldn't upload your achievements."
 
 msgid "Game is full"
 msgstr "No room sry"
@@ -171,6 +180,9 @@ msgstr ".png"
 
 msgid "Unknown level"
 msgstr "missingno level"
+
+msgid "Vibration %s"
+msgstr "Vibration %s"
 
 msgid "Waiting for the server..."
 msgstr "Flipping light switches, hol up."

@@ -19,14 +19,26 @@ msgstr "Confirmeu el correu eletrònic:"
 msgid "Emails do not match!"
 msgstr "Les adreces de correu no coincideixen."
 
+msgid "Failed to download achievements"
+msgstr "Error mentre es descarregaven les fites"
+
+msgid "Failed to download unlocked items"
+msgstr "Error mentre es descarregaven els elements desblocats"
+
 msgid "Failed to set up comments"
 msgstr "Els comentaris no s'han pogut carregar."
+
+msgid "Failed to upload achievements"
+msgstr "Error mentre es pujaven les fites"
 
 msgid "High Scores"
 msgstr "Millors puntuacions"
 
 msgid "Speed Runs"
 msgstr "Carreres de velocitat"
+
+msgid "Vibration %s"
+msgstr "Vibració: %s"
 
 msgid "Your verified medals have been downloaded."
 msgstr "S'han descarregat les vostres medalles verificades."

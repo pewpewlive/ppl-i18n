@@ -40,6 +40,12 @@ msgstr "实验室"
 msgid "Experimental levels"
 msgstr "测试关卡"
 
+msgid "Failed to download achievements"
+msgstr "下载成就失败"
+
+msgid "Failed to upload achievements"
+msgstr "上传成就失败"
+
 msgid "High Scores"
 msgstr "最高分"
 
@@ -78,6 +84,9 @@ msgstr "极低x8"
 
 msgid "Unknown level"
 msgstr "未知关卡"
+
+msgid "Vibration %s"
+msgstr "震动幅度 %s"
 
 msgid "Your verified medals have been downloaded."
 msgstr "获取过的奖牌已下载"

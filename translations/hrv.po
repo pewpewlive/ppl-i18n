@@ -3,917 +3,1190 @@
 #. `%2$s` will be replaced by the score to reach.
 #. For example:
 #. "In Eskiv, score 10000 or more"
-#: /client/application/account/achievements_description.cpp:17
+#: /client/application/account/achievements_description.cpp:27
 msgid "In %1$s, score %2$s or more."
 msgstr "U %1$s, ostvari %2$s ili više."
 
+#. The template for the description of inertic 1p score-related
+#. achievements. here "1p" means single player (as opposed for example to
+#. "2p")
+#. `%1$s` will be replaced by the name of the level.
+#. `%2$s` will be replaced by the score to reach.
+#. For example:
+#. "In Eskiv, score 10000 or more with an inertic ship in 1p."
+#: /client/application/account/achievements_description.cpp:40
+msgid "In %1$s, score %2$s or more with an inertic ship in 1p."
+msgstr ""
+
+#. Title of the screen shown before the start of a blitz round.
+#. The %s is replaced with a number, for example:
+#. "Get ready for round 2!"
+#: /client/application/game/blitz/blitz_ui.cpp:24
+msgid "Get ready for round %s!"
+msgstr ""
+
+#. Title of the screen that shows the score of every player at the end of a
+#. Blitz round.
+#: /client/application/game/blitz/blitz_ui.cpp:84
+msgid "Round results"
+msgstr ""
+
+#. Title of the screen that shows the rankings of all the players after
+#. multiple rounds of Blitz.
+#: /client/application/game/blitz/blitz_ui.cpp:190
+msgid "Overall ranking"
+msgstr ""
+
+#. The string shown when a Blitz round is finished
+#: /client/application/game/blitz/blitz_ui.cpp:291
+msgid "Round finished!"
+msgstr ""
+
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:330
+#: /client/application/game/entities/player/ship.cpp:346
 msgid "Ouch"
 msgstr "Auč"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:333
+#: /client/application/game/entities/player/ship.cpp:349
 msgid "Yikes"
 msgstr "Jao"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:336
+#: /client/application/game/entities/player/ship.cpp:352
 msgid "Ow"
 msgstr "Au"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
-#: /client/application/game/entities/player/ship.cpp:339
+#: /client/application/game/entities/player/ship.cpp:355
 msgid "Ugh"
 msgstr "Uf"
 
-#: /client/application/game/game.cpp:177
+#: /client/application/game/game.cpp:181
 msgid "Quick pause"
 msgstr "Brza pauza"
 
-#: /client/application/game/game.cpp:183
+#: /client/application/game/game.cpp:187
 msgid "Quick pause %s"
 msgstr "Brza pauza %s"
 
-#: /client/application/game/game_constants.cpp:12
+#: /client/application/game/game_constants.cpp:13
 msgid "1p"
 msgstr "1p"
 
-#: /client/application/game/game_constants.cpp:12
+#: /client/application/game/game_constants.cpp:13
 msgid "2p"
 msgstr "2p"
 
-#: /client/application/game/game_constants.cpp:12
+#: /client/application/game/game_constants.cpp:13
 msgid "3p"
 msgstr "3p"
 
-#: /client/application/game/game_constants.cpp:12
+#: /client/application/game/game_constants.cpp:13
 msgid "4p"
 msgstr "4p"
 
 #. Short description of the "asteroids" game mode
-#: /client/application/game/levels/game_levels.cpp:97
+#: /client/application/game/levels/game_levels.cpp:98
 msgid "Euclidean space is overrated"
 msgstr "Euclideanov svemir je preuveličan"
 
 #. Short description of the "hexagon" game mode
-#: /client/application/game/levels/game_levels.cpp:116
+#: /client/application/game/levels/game_levels.cpp:117
 msgid "Never trust a six-sided polygon"
 msgstr "Nikad ne vjeruj šesterostranom poligonu"
 
 #. Short description of the "hexagon" game mode
-#: /client/application/game/levels/game_levels.cpp:118
+#: /client/application/game/levels/game_levels.cpp:119
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "Nije povezano sa \"Super Hexagon\""
 
 #. Short description of the "hexagon" game mode
-#: /client/application/game/levels/game_levels.cpp:120
+#: /client/application/game/levels/game_levels.cpp:121
 msgid "Choose your own difficulty"
 msgstr "Odaberi svoju težinu"
 
 #. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:138
+#: /client/application/game/levels/game_levels.cpp:139
 msgid "Dodge everything and you'll be OK"
 msgstr "Izbjegni sve i biti ćeš OK"
 
 #. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:140
+#: /client/application/game/levels/game_levels.cpp:141
 msgid "aka Dodge This"
 msgstr "ili Dodge This"
 
 #. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:142
+#: /client/application/game/levels/game_levels.cpp:143
 msgid "Green good. Red bad."
 msgstr "Zeleno dobro. Crveno loše."
 
 #. Short description of the "waves" game mode
-#: /client/application/game/levels/game_levels.cpp:161
+#: /client/application/game/levels/game_levels.cpp:162
 msgid "RIP GW3:Dimensions"
 msgstr "Počivao u miru GW3:Dimensions"
 
 #. Short description of the "waves" game mode
-#: /client/application/game/levels/game_levels.cpp:163
+#: /client/application/game/levels/game_levels.cpp:164
 msgid "Previously known as Assault"
 msgstr "Prije znan kao Assault"
 
 #. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:182
+#: /client/application/game/levels/game_levels.cpp:183
 msgid "Just 32 seconds of skills"
 msgstr "Samo 32 sekunde vještine"
 
 #. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:184
+#: /client/application/game/levels/game_levels.cpp:185
 msgid "My favorite mode"
 msgstr "Moj omiljeni mod"
 
 #. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:186
+#: /client/application/game/levels/game_levels.cpp:187
 msgid "Survive 32 seconds with this simple trick"
 msgstr "Preživi 32 sekunde sa ovim jednostavnim trikom"
 
 #. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:188
+#: /client/application/game/levels/game_levels.cpp:189
 msgid "\"This level is a joke right?\" - a tester"
 msgstr "\"Ovaj level je šala, zar ne?\" - tester"
 
 #. Short description of the "ceasefire" game mode
-#: /client/application/game/levels/game_levels.cpp:206
+#: /client/application/game/levels/game_levels.cpp:207
 msgid "Evolution of Pacifism"
 msgstr ""
 
 #. Short description of the "pandemonium" game mode
-#: /client/application/game/levels/game_levels.cpp:224
+#: /client/application/game/levels/game_levels.cpp:225
 msgid "True bullet hell"
 msgstr "Pravi bullet hell"
 
 #. Short description of the "pandemonium" game mode
-#: /client/application/game/levels/game_levels.cpp:226
+#: /client/application/game/levels/game_levels.cpp:227
 msgid "With great firepower comes great dodging skills"
 msgstr "Sa velikom moći dolazi velika vještina izbjegavanja"
 
 #. Short description of the "partitioner" game mode
-#: /client/application/game/levels/game_levels.cpp:244
+#: /client/application/game/levels/game_levels.cpp:245
 msgid "Lasso up stuff to make them disappear"
 msgstr ""
 
 #. Short description of the symbiosis game mode
-#: /client/application/game/levels/game_levels.cpp:262
+#: /client/application/game/levels/game_levels.cpp:263
 msgid "2 brain hemispheres, 2 hands, 2 ships."
 msgstr "2 moždane hemisfere, 2 ruke, 2 broda."
 
 #. Shown in a notification when a new score medal is earned.
-#: /client/application/game/levels/medals.cpp:14
+#: /client/application/game/levels/medals.cpp:15
 msgid "New bronze medal"
 msgstr "Nova brončana medalja"
 
 #. Shown in a notification when a new speedrun medal is earned.
-#: /client/application/game/levels/medals.cpp:16
+#: /client/application/game/levels/medals.cpp:17
 msgid "New bronze speedrun medal"
 msgstr "Nova brončana speedrun medalja"
 
 #. Shown in a notification when a new score medal is earned.
-#: /client/application/game/levels/medals.cpp:19
+#: /client/application/game/levels/medals.cpp:20
 msgid "New silver medal"
 msgstr "Nova srebrna medalja"
 
 #. Shown in a notification when a new speedrun medal is earned.
-#: /client/application/game/levels/medals.cpp:21
+#: /client/application/game/levels/medals.cpp:22
 msgid "New silver speedrun medal"
 msgstr "Nova srebrna speedrun medalja"
 
 #. Shown in a notification when a new score medal is earned.
-#: /client/application/game/levels/medals.cpp:24
+#: /client/application/game/levels/medals.cpp:25
 msgid "New gold medal"
 msgstr "Nova zlatna medalja"
 
 #. Shown in a notification when a new speedrun medal is earned.
-#: /client/application/game/levels/medals.cpp:26
+#: /client/application/game/levels/medals.cpp:27
 msgid "New gold speedrun medal"
 msgstr "Nova zlatna speedrun medalja"
 
-#: /client/application/game/player_data/data_synchronizer.cpp:146
-msgid "You've been signed out."
-msgstr "Odjavljeni ste."
-
-#: /client/application/game/player_data/data_synchronizer.cpp:192
-msgid "Failed to download backup data"
-msgstr "Neuspjelo preuzimanje podataka sigurnosne kopije"
-
-#: /client/application/game/player_data/data_synchronizer.cpp:276
-msgid "Failed to download achievements"
-msgstr "Neuspješno preuzimanje postignuća"
-
-#: /client/application/game/player_data/data_synchronizer.cpp:320
-msgid "Failed to upload achievements"
-msgstr "Neuspješno slanje postignuća"
-
-#: /client/application/game/player_data/data_synchronizer.cpp:349
-msgid "Failed to download unlocked items"
-msgstr "Neuspješno preuzimanje otključanih stvari"
-
-#: /client/application/game/player_data/data_synchronizer_new.cpp:196
-msgid "Failed to download data"
-msgstr ""
-
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
-#: /client/application/game/player_data/player_data_manager.cpp:50
+#: /client/application/game/player_data/player_data_manager.cpp:52
 msgid "New personal best! %s ⇨ %s"
 msgstr "Novi rekord! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
-#: /client/application/game/player_data/player_data_manager.cpp:53
+#: /client/application/game/player_data/player_data_manager.cpp:55
 msgid "Improved speed run! %s ⇨ %s"
 msgstr "Poboljšan speed run! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
-#: /client/application/game/player_data/player_data_manager.cpp:827
+#: /client/application/game/player_data/player_data_manager.cpp:889
 msgid "Achievement Unlocked: %s"
 msgstr "Dostignuće Otključano: %s"
 
 #. Describes the rarity level of items. Rarity level of 0.
-#: /client/application/game/player_data/player_unlocked_items.cpp:321
+#: /client/application/game/player_data/player_unlocked_items.cpp:334
 msgid "Common"
 msgstr "Obično"
 
 #. Describes the rarity level of items. Rarity level of 1.
-#: /client/application/game/player_data/player_unlocked_items.cpp:323
+#: /client/application/game/player_data/player_unlocked_items.cpp:336
 msgid "Uncommon"
 msgstr "Neobično"
 
 #. Describes the rarity level of items. Rarity level of 2.
-#: /client/application/game/player_data/player_unlocked_items.cpp:325
+#: /client/application/game/player_data/player_unlocked_items.cpp:338
 msgid "Rare"
 msgstr "Rijetko"
 
 #. Describes the rarity level of items. Rarity level of 3.
-#: /client/application/game/player_data/player_unlocked_items.cpp:327
+#: /client/application/game/player_data/player_unlocked_items.cpp:340
 msgid "Epic"
 msgstr "Epsko"
 
 #. Describes the rarity level of items. Rarity level of 4.
-#: /client/application/game/player_data/player_unlocked_items.cpp:329
+#: /client/application/game/player_data/player_unlocked_items.cpp:342
 msgid "Legendary"
 msgstr "Legendarno"
 
 #. Describes the rarity level of items. Rarity level of 5.
-#: /client/application/game/player_data/player_unlocked_items.cpp:331
+#: /client/application/game/player_data/player_unlocked_items.cpp:344
 msgid "Mythical"
 msgstr "Mitsko"
 
 #. Describes the rarity level of items. Rarity level of 6.
-#: /client/application/game/player_data/player_unlocked_items.cpp:333
+#: /client/application/game/player_data/player_unlocked_items.cpp:346
 msgid "Transcendent"
 msgstr "Uzvišeno"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:27
+#: /client/application/game/player_data/player_unlocked_items.h:28
 msgid "Ship"
 msgstr "Brod"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:29
+#: /client/application/game/player_data/player_unlocked_items.h:30
 msgid "Trail"
 msgstr "Trag"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:31
+#: /client/application/game/player_data/player_unlocked_items.h:32
 msgid "Bullet"
 msgstr "Metak"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:33
+#: /client/application/game/player_data/player_unlocked_items.h:34
 msgid "Mace"
 msgstr "Topuz"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:35
+#: /client/application/game/player_data/player_unlocked_items.h:36
 msgid "Laser"
 msgstr "Laser"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:37
+#: /client/application/game/player_data/player_unlocked_items.h:38
 msgid "Joystick"
 msgstr "Joystick"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:39
+#: /client/application/game/player_data/player_unlocked_items.h:40
 msgid "UI Color"
 msgstr "UI boja"
 
-#: /client/application/game/state/game_network_message_parser.cpp:57
+#: /client/application/game/player_data/sync/data_synchronizer.cpp:197
+msgid "Failed to download data"
+msgstr ""
+
+#: /client/application/game/player_data/sync/data_synchronizer.cpp:209
+msgid "You've been signed out."
+msgstr "Odjavljeni ste."
+
+#: /client/application/game/player_data/sync/synchronization_steps.cpp:68
+msgid "Failed to download backup data"
+msgstr "Neuspjelo preuzimanje podataka sigurnosne kopije"
+
+#: /client/application/game/quests/quest.cpp:10
+msgid "In any official level"
+msgstr ""
+
+#: /client/application/game/quests/quest.cpp:13
+msgid "In level %s"
+msgstr ""
+
+#: /client/application/game/quests/quest.cpp:18
+msgid "In levels %s"
+msgstr ""
+
+#. Shown in a notification when you improve your quest progress.
+#. Example of what it looks like:
+#. "Destroy 200 ROLLING_CUBE: 20 / 100 ⇨ 30 / 100"
+#: /client/application/game/quests/quest_manager.cpp:18
+msgid "%s: %s ⇨ %s"
+msgstr ""
+
+#. Shown in a notification when you complete a quest.
+#. Example of what it looks like:
+#. "Reach 8900 in one game: Complete! (20 / 100 ⇨ 30 / 100)"
+#: /client/application/game/quests/quest_manager.cpp:23
+msgid "%s: Complete! (%s ⇨ %s)"
+msgstr ""
+
+#: /client/application/game/quests/quests.cpp:18
+msgid "%s minute(s)"
+msgstr ""
+
+#: /client/application/game/quests/quests.cpp:22
+msgid "%s second(s)"
+msgstr ""
+
+#. The description of the quest that involves playing destroying a certain
+#. amount of enemies. The %1$s is replaced by a number. The %2$s is replaced
+#. by an enemy name. For example: "Destroy 200 Motherships"
+#: /client/application/game/quests/quests.cpp:127
+msgid "Destroy %1$s %2$s"
+msgstr ""
+
+#. The description of the quest that involves reaching a certain score.
+#. The %s is replaced by a number, for example:
+#. "Reach the score of 10000"
+#: /client/application/game/quests/quests.cpp:181
+msgid "Reach %s in one game"
+msgstr ""
+
+#. The description of the quest that involves surviving for a certain
+#. duration. The %s is replaced by a duration, for example: "Survive for 3
+#. minutes" "Survive for 40 seconds"
+#: /client/application/game/quests/quests.cpp:223
+msgid "Survive for %s in one game"
+msgstr ""
+
+#. The description of the quest that involves playing accumulating a certain
+#. amount of pointonium. The %s is replaced by an amount, for example: "Farm
+#. 10000 points from pointonum"
+#: /client/application/game/quests/quests.cpp:269
+msgid "Farm %s points from pointonium"
+msgstr ""
+
+#. The description of the quest that involves playing a certain duration.
+#. The %s is replaced by a duration, for example:
+#. "Play for 3 minutes"
+#. "Play for 40 seconds"
+#: /client/application/game/quests/quests.cpp:315
+msgid "Play for %s"
+msgstr ""
+
+#. The description of the quest that involves playing multiplayer for a
+#. certain duration. The %s is replaced by a duration, for example: "Play
+#. multiplayer for 3 minutes" "Play multiplayer for 40 seconds"
+#: /client/application/game/quests/quests.cpp:353
+msgid "Play multiplayer for %s"
+msgstr ""
+
+#: /client/application/game/state/game_network_message_parser.cpp:58
 msgid "%s left the game"
 msgstr "%s je napustio igru"
 
-#: /client/application/game/state/game_state.cpp:500
+#: /client/application/game/state/game_state.cpp:516
 msgid "N/A"
 msgstr "N/A"
 
 #. Shown when the game is displaying stats. Concerns the player's shooting
 #. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
-#: /client/application/game/state/game_state.cpp:513
+#: /client/application/game/state/game_state.cpp:529
 msgid "Accuracy: %s"
 msgstr "Preciznost: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Total score: 43423"
-#: /client/application/game/state/game_state.cpp:516
+#: /client/application/game/state/game_state.cpp:532
 msgid "Total score: %s"
 msgstr "Ukupni bodovi: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
-#: /client/application/game/state/game_state.cpp:520
+#: /client/application/game/state/game_state.cpp:536
 msgid "Pointonium: %s"
 msgstr "Pointonij: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
-#: /client/application/game/state/game_state.cpp:524
+#: /client/application/game/state/game_state.cpp:540
 msgid "Duration: %s"
 msgstr "Trajanje: %s"
 
-#: /client/application/game/ui/game_over_ui.cpp:10
+#: /client/application/game/ui/game_over_ui.cpp:11
 msgid "Game Over"
 msgstr "Igra je gotova"
 
 #. April 1st replacement for "Game Over". Does not need an exact
 #. translation.
-#: /client/application/game/ui/game_over_ui.cpp:18
+#: /client/application/game/ui/game_over_ui.cpp:19
 msgid "You died. Again."
 msgstr "Umro si. Opet."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
-#: /client/application/game/ui/game_over_ui.cpp:20
+#: /client/application/game/ui/game_over_ui.cpp:21
 msgid "Insert coin to continue"
 msgstr "Ubaci novčić"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
-#: /client/application/game/ui/game_over_ui.cpp:22
+#: /client/application/game/ui/game_over_ui.cpp:23
 msgid "You tried"
 msgstr "Pokušao si"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
-#: /client/application/game/ui/game_over_ui.cpp:24
+#: /client/application/game/ui/game_over_ui.cpp:25
 msgid "It's okay, you were never going to win anyway."
 msgstr "U redu je, ionako nikad ne bih pobijedio."
 
-#: /client/application/game/ui/game_over_ui.cpp:48
+#: /client/application/game/ui/game_over_ui.cpp:49
 msgid "Play again"
 msgstr "Igraj opet"
 
-#: /client/application/game/ui/game_over_ui.cpp:50
+#: /client/application/game/ui/game_over_ui.cpp:51
 msgid "Continue"
 msgstr "Nastavi"
 
 #. Shown when the player failed to achieve an objective
-#: /client/application/game/ui/game_over_ui.cpp:92
+#: /client/application/game/ui/game_over_ui.cpp:93
 msgid "Failed"
 msgstr "Neuspjeh"
 
 #. Shown when the player successfully achieved an objective
-#: /client/application/game/ui/game_over_ui.cpp:98
+#: /client/application/game/ui/game_over_ui.cpp:99
 msgid "Success!"
 msgstr "Uspjeh!"
 
-#: /client/application/game/ui/game_over_ui.cpp:113
+#: /client/application/game/ui/game_over_ui.cpp:114
 msgid "Exit"
 msgstr "Izlaz"
 
-#: /client/application/game/ui/pause_ui.cpp:45
+#: /client/application/game/ui/pause_ui.cpp:64
 msgid "Pause"
 msgstr "Pauza"
 
-#: /client/application/game/ui/pause_ui.cpp:62
+#: /client/application/game/ui/pause_ui.cpp:83
 msgid "Restart"
 msgstr "Restartiraj"
 
-#: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:77
+#. Shown in some circumstances when resuming playing after pausing.
+#. the "%s" is replaced with a number, for example:
+#. "Continuing in 13.23 seconds"
+#: /client/application/game/ui/pause_ui.cpp:140
+msgid "Continuing in %s seconds"
+msgstr ""
+
+#: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:78
 msgid "Loading..."
 msgstr "Učitavanje..."
 
-#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:21
 msgid "Change colors"
 msgstr "Promijeni boje"
 
-#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:33
 msgid "Old username:"
 msgstr "Staro korisničko ime:"
 
-#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:36
 msgid "New username:"
 msgstr "Novo korisničko ime:"
 
-#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:50
 msgid "Change"
 msgstr "Promijeni"
 
-#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:68
 msgid "Only change colors! %s"
 msgstr "Promijenite samo boje! %s"
 
-#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:81
 msgid "Username color change"
 msgstr "Promjena boje korisničkog imena"
 
-#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:89
 msgid "Username change succesfull"
 msgstr "Uspješna promjena korisničkog imena"
 
-#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:100
 msgid "Failed to update username"
 msgstr "Neuspješno ažuriranje korisničkog imena"
 
 #. Shown in a header, in the screen that allows you to manage your PewPew
 #. Live account. In this screen you can for example change the colors of your
 #. nickname, or delete your account.
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:22
 msgid "Manage Account"
 msgstr "Upravljanje računom"
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:43
 msgid "Synchronize"
 msgstr "Sinkronizacija"
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:52
 msgid "Sign out"
 msgstr "Odjava"
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:61
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:62
 msgid "Delete account"
 msgstr "Izbriši račun"
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:73
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:74
 msgid "Account deletion"
 msgstr "Brisanje računa"
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:80
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
 msgid "Account deletion requested."
 msgstr "Poslan zahtjev za brisanje računa."
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:83
 msgid "An email asking for confirmation was sent."
 msgstr "Email za potvrdu je poslan."
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:88
 msgid "Failed to request account deletion"
 msgstr "Neuspješno slanje zahtjeva za brisanje računa"
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:109
 msgid "Help"
 msgstr "Pomoć"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:21
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:22
 msgid "Email is invalid!"
 msgstr "Email nije valjan!"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:46
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:47
 msgid "Too short. Minimum %s characters."
 msgstr "Prekratko. Minimalno %s znakova."
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:53
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:54
 msgid "Too long. Maximum %s characters."
 msgstr "Predugo. Maksimalno %s znakova."
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:70
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:71
 msgid "Register account"
 msgstr "Registriraj račun"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Username"
 msgstr "Korisničko ime"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Password"
 msgstr "Lozinka"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
 msgstr "Potvrdi lozinku"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Email"
 msgstr "Email"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:114
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:115
 msgid "Register"
 msgstr "Registriranje"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:128
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:129
 msgid "Registering"
 msgstr "Registriranje"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:135
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:136
 msgid "Registration successful."
 msgstr "Registriranje uspješno"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:137
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Please check your emails!"
 msgstr "Molim Vas pregledajte vaše emailove!"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:141
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:142
 msgid "Failed to register"
 msgstr "Neuspješno registriranje."
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:171
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Username (you can put colors in!):"
 msgstr "Korističko ime (možete mijenjati boje!)"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:171
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Password:"
 msgstr "Lozinka:"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:172
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:173
 msgid "Confirm password:"
 msgstr "Potvrdi lozinku:"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:172
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:173
 msgid "Email:"
 msgstr "Email:"
 
-#: /client/application/game/ui/screens/accounts/screen_register.cpp:205
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:206
 msgid "Passwords do not match!"
 msgstr "Lozinke nisu jednake!"
 
-#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:17
 msgid "Account"
 msgstr "Račun"
 
-#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:20
 msgid "Not signed in"
 msgstr "Niste prijavljeni."
 
-#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:24
 msgid "Create an account to set your name and sync your data"
 msgstr "Napravite račun da biste postavili svoje ime i sinkronizirali Vaše podatke."
 
-#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
 msgid "Sign in"
 msgstr "Prijavi se"
 
-#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:52
 msgid "Privacy Policy"
 msgstr "Politika privatnosti"
 
-#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:95
 msgid "You need to be signed-in to upload scores"
 msgstr "Morate biti prijavljeni kako biste mogli prenositi rezultate"
 
-#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:98
 msgid "You need to be signed-in to play online"
 msgstr "Morate biti prijavljeni kako biste igrali online"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
-#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:103
 msgid "You need to be signed-in to view comments"
 msgstr "Morate biti prijavljeni kako biste mogli pregledavati komentare"
 
-#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
+#. Error message shown if to the player when they are trying to join
+#. a Blitz while not signed-in.
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
+msgid "You need to be signed-in to join Blitzes"
+msgstr ""
+
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
 msgstr "Vaš račun"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:28
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:29
 msgid "Requesting verification email"
 msgstr "Zahtjevanje email-a za potvrdnju"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:34
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:35
 msgid "Verification email sent"
 msgstr "Poslan email za potvrdnju."
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:36
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:37
 msgid "Check your inbox!"
 msgstr "Provjerite Vaš inbox!"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:40
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:41
 msgid "Failed to resend email"
 msgstr "Neuspješno ponovno slanje email-"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:51
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:52
 msgid "Requesting password reset"
 msgstr "Zahtjevanje resetiranja lozinke"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:57
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:58
 msgid "Password reset email sent"
 msgstr "Poslan email za resetiranje lozinke"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:64
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:65
 msgid "Failed to request password reset"
 msgstr "Meuspješno slanje zahtjeva resetiranja lozinke"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:138
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:139
 msgid "Signing in"
 msgstr "Prijavljivanje"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:153
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:154
 msgid "Successfully signed in!"
 msgstr "Uspješna prijava!"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:167
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:168
 msgid "Email not verified"
 msgstr "Email nije potvrđen"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:170
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:171
 msgid "Re-send verification email"
 msgstr "Ponovno slanje email-a za potvrdnju"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:185
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:186
 msgid "Incorrect password"
 msgstr "Netočna lozinka"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:188
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:189
 msgid "Request password reset"
 msgstr "Zahtjevaj resetiranje lozinke"
 
-#: /client/application/game/ui/screens/accounts/screen_signin.cpp:214
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:215
 msgid "Reset password"
 msgstr "Resetiraj lozinku"
 
-#: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:16
+#: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:17
 msgid "Synchronizing"
 msgstr "Sinkroniziranje"
 
-#: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:54
+#: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:55
 msgid "Failed to synchronize."
 msgstr "Neuspješna sinkronizacija."
 
-#: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:64
+#: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:65
 msgid "Synchronization completed."
 msgstr "Sinkronizacija završena."
 
-#: /client/application/game/ui/screens/screen_benchmark.cpp:34
+#: /client/application/game/ui/screens/screen_benchmark.cpp:35
 msgid "Skip"
 msgstr "Preskoči"
 
-#: /client/application/game/ui/screens/screen_career.cpp:36
+#: /client/application/game/ui/screens/screen_career.cpp:32
 msgid "Statistics"
 msgstr "Statistika"
 
-#: /client/application/game/ui/screens/screen_career.cpp:61
+#: /client/application/game/ui/screens/screen_career.cpp:58
 msgid "Global leaderboards"
 msgstr "Globalna ljestvica"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
-#: /client/application/game/ui/screens/screen_career.cpp:78
+#: /client/application/game/ui/screens/screen_career.cpp:75
 msgid "All time stars and medals"
 msgstr "Ukupne zvijezde i medalje"
 
 #. The title of the screen that shows which level the player is at
-#: /client/application/game/ui/screens/screen_career.cpp:100
+#: /client/application/game/ui/screens/screen_career.cpp:122
 msgid "Level %s"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_career.cpp:161
+msgid "XP leaderboard"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_career.cpp:174
+msgid "All leaderboards"
 msgstr ""
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
-#: /client/application/game/ui/screens/screen_career.cpp:124
+#: /client/application/game/ui/screens/screen_career.cpp:186
 msgid "Deviations completed"
 msgstr "Završene devijacije"
 
-#: /client/application/game/ui/screens/screen_career.cpp:150
+#. The text shown in the career screen that explains that the
+#. stars and medals shown are *not* specific to an era.
+#: /client/application/game/ui/screens/screen_career.cpp:192
 msgid "Achievements"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_career.cpp:170
-msgid "XP leaderboard"
+#: /client/application/game/ui/screens/screen_career.cpp:194
+msgid "Extra XP"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_career.cpp:183
-msgid "All leaderboards"
+#: /client/application/game/ui/screens/screen_career.cpp:219
+msgid "Quests: %s XP"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:58
+#: /client/application/game/ui/screens/screen_career.cpp:224
+msgid "Badges: %s XP"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:59
 msgid "Configure Gamepad"
 msgstr "Konfiguriraj Gamepad"
 
-#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:64
+#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:65
 msgid "Deadzone"
 msgstr "Mrtva zona"
 
-#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:79
+#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:80
 msgid "Saturation"
 msgstr "Zasićenje"
 
-#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:96
+#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:97
 msgid "Curve"
 msgstr "Oblina"
 
-#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:118
+#: /client/application/game/ui/screens/screen_configure_gamepad.cpp:119
 msgid "Reset"
 msgstr "Resetiraj"
 
 #. The name of the graphics configuration that disables all the graphics effects
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:48
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:50
 msgid "Minimal"
 msgstr "Minimalno"
 
 #. The name of the graphics configuration that enables a few graphical effects
 #. while still allowing screen recording with a high compression ratio
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:51
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:53
 msgid "Compression friendly"
 msgstr "Pogodno za kompresiju"
 
 #. The name of the graphics configuration that enables almost all the graphical effects.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:53
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:55
 msgid "High"
 msgstr "Visoko"
 
 #. The name of the graphics configuration that enables all the graphical effects.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:55
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:57
 msgid "Highest"
 msgstr "Najviše"
 
 #. Title of the screen where graphics are configured.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:93
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:95
 msgid "Configure graphics"
 msgstr "Upravljaj grafikom"
 
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "off"
 msgstr "isklj."
 
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:112
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "on"
 msgstr "uklj."
 
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:116
 msgid "minimal"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:116
 msgid "advanced"
 msgstr ""
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:123
 msgid "Bloom intensity"
 msgstr "Intenzitet sjaja"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:130
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:132
 msgid "Lens dirt"
 msgstr "Prljave leće"
 
 #. The name of the setting that enables horizontal scanlines.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:138
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "horizontal"
 msgstr "horizontalno"
 
 #. The name of setting that enables grid-like scanlines.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:140
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:142
 msgid "grid"
 msgstr "rešetka"
 
 #. The name for the setting category for choosing the scalines type.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:142
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:144
 msgid "Scanlines"
 msgstr "Scanlineovi"
 
 #. The name for the setting category for choosing the chromatic aberration.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:148
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:150
 msgid "Chromatic aberration"
 msgstr "Kromatska aberacija"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:157
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:159
 msgid "Curved monitor"
 msgstr "Zakrivljen monitor"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:166
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:168
 msgid "Vignette"
 msgstr "Vinjeta"
 
+#. The name of the setting category for choosing the screen resolution of the
+#. game.
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:178
+msgid "Resolution"
+msgstr ""
+
+#. The name of the setting for when you select the "full" resolution, as
+#. opposed to downsampled resolutions.
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:181
+msgid "Full"
+msgstr ""
+
 #. The color "black"
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:186
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:198
 msgid "Black"
 msgstr ""
 
 #. The color "blue"
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:200
 msgid "Blue"
 msgstr ""
 
 #. The color "teal"
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:202
 msgid "Teal"
 msgstr ""
 
 #. The color "green"
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:204
 msgid "Green"
 msgstr ""
 
 #. The color "pink"
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:194
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:206
 msgid "Pink"
 msgstr "Ružičasta"
 
 #. The name of a setting category for choosing the background hue of the
 #. renderer.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:199
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:211
 msgid "Background hue"
 msgstr ""
 
 #. Name of the setting for when the game is shown in a window.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:213
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:225
 msgid "Windowed"
 msgstr "Prozor"
 
 #. Name of the setting for when the game is shown in fullscreen.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:215
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:227
 msgid "Fullscreen"
 msgstr "Cijeli zaslon"
 
 #. Name of the setting for when the game is shown in a borderless window.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:217
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:229
 msgid "Borderless"
 msgstr "Bezrubno"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
-#: /client/application/game/ui/screens/screen_configure_graphics.cpp:228
+#: /client/application/game/ui/screens/screen_configure_graphics.cpp:240
 msgid "Screen type"
 msgstr "Tip prikaza"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
-#: /client/application/game/ui/screens/screen_configure_joysticks_style.cpp:24
+#: /client/application/game/ui/screens/screen_configure_joysticks_style.cpp:25
 msgid "Joysticks style"
 msgstr "Stil joysticka"
 
-#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:113
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:114
 msgid "Configure keyboard"
 msgstr "Konfiguriraj tipkovnicu"
 
-#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:118
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Move"
 msgstr "Kretanje"
 
-#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:126
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:127
 msgid "Shoot"
 msgstr "Pucanje"
 
 #. Used in the settings. The %s is replaced with "on" or "off", for example:
 #. "Mouse aim off".
-#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:254
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:255
 msgid "Mouse aim %s"
 msgstr "Ciljanje mišem %s"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Quick Restart: Space".
-#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:258
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:259
 msgid "Quick Restart: %s"
 msgstr "Brzo ponovno pokretanje: %s"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Slow Down: Shift".
-#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:262
+#: /client/application/game/ui/screens/screen_configure_keyboard.cpp:263
 msgid "Slow Down: %s"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_configure_ship.cpp:55
+#: /client/application/game/ui/screens/screen_configure_ship.cpp:56
 msgid "Configure Ship"
 msgstr "Konfiguriraj brod"
 
-#: /client/application/game/ui/screens/screen_configure_ship.cpp:58
+#: /client/application/game/ui/screens/screen_configure_ship.cpp:59
 msgid "Model"
 msgstr "Model"
 
-#: /client/application/game/ui/screens/screen_configure_ship.cpp:58
+#: /client/application/game/ui/screens/screen_configure_ship.cpp:59
 msgid "Bullets"
 msgstr "Metci"
 
-#: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
+#: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:99
 msgid "Configure joysticks"
 msgstr "Konfiguriraj joystickove"
 
-#: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
+#: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:113
 msgid "Swap"
 msgstr "Zamijeni"
 
-#: /client/application/game/ui/screens/screen_download_level.cpp:49
+#: /client/application/game/ui/screens/screen_download_level.cpp:53
 msgid "Downloading level..."
 msgstr "Preuzimanje levela..."
 
-#: /client/application/game/ui/screens/screen_download_level.cpp:77
+#: /client/application/game/ui/screens/screen_download_level.cpp:82
 msgid "Failed to download level."
 msgstr "Neuspješno preuzimanje levela."
 
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:37
+#. The title of the screen showing the encyclopedia.
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:38
 msgid "Encyclopedia"
 msgstr "Enciklopedija"
 
+#. Description of the "Asteroid" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:43
+msgid "A bumpy, white asteroid that floats in space. Shoot it and it splits into multiple smaller parts. Exists in 4 different sizes."
+msgstr ""
+
+#. Description of the "BAF" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:52
+msgid "This yellow, arrow-shaped drone zips predictably back and forth."
+msgstr ""
+
+#. Description of the "Red BAF" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:61
+msgid "This red arrow-shaped drone mirrors the familiar movements of the standard BAF, but it is much stronger posing a greater threat."
+msgstr ""
+
+#. Description of the "Blue BAF" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:70
+msgid "Unlike its yellow and red counterparts, it bounces off walls in unpredictable directions, making its movement difficult to anticipate."
+msgstr ""
+
+#. Description of the "Brownian" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:98
+msgid "A tetrahedron-shaped enemy that advances on your position with erratic, unpredictable movements."
+msgstr ""
+
+#. Description of the "Crowders" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:115
+msgid "An octahedron-shaped enemy that slowly advances on you. Tends to form dense crowds with other Crowders."
+msgstr ""
+
+#. Description of the "Dodger" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:123
+msgid "An hourglass-shaped enemy that advances towards the nearest ship while actively evading projectiles. Like Crowders, has a tendency to form crowds."
+msgstr ""
+
+#. Description of the "Inertiac" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:131
+msgid "Made of rotating concentric circles, it plunges towards the nearest ship with inertia. Very resistant to damage, it can fortunately be repelled with bullets."
+msgstr ""
+
+#. Description of the "Kamikaze" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:140
+msgid "A flying ship that relentlessly scans for a prey. Once it locks onto you, it immediately charges forward, attempting to ram you head-on"
+msgstr ""
+
+#. Description of the "Pink Mothership" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:149
+msgid "A pink triangle-shaped mothership that roams the levels. Upon its destruction it unleashes three arcs of bullets from its sides."
+msgstr ""
+
+#. Description of the "Red Mothership" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:159
+msgid "A red square-shaped mothership that roams the levels. Upon its destruction it unleashes a barrage of homing bullets that pursue the nearest ship."
+msgstr ""
+
+#. Description of the "Orange Mothership" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:169
+msgid "An orange, pentagon-shaped mothership that roams the levels. Upon its destruction it fires six bullets in a hexagon pattern."
+msgstr ""
+
+#. Description of the "Green Mothership" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:179
+msgid "A green, hexagon-shaped mothership that roams the levels. Upon its destruction it unleashes a circle of bullets."
+msgstr ""
+
+#. Description of the "Cyan Mothership" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:189
+msgid "A cyan, heptagon-shaped mothership that roams the levels. Upon its destruction, it fires a dense arc of bullets towards the nearest ship."
+msgstr ""
+
+#. Description of the "Super Pink Mothership" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:199
+msgid "An extra-large, pink, triangle-shaped mothership. Upon its destruction, unleashes three arcs of large bullets from its sides."
+msgstr ""
+
+#. Description of the "Super Red Mothership" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:209
+msgid "An extra-large, red, squared-shaped mothership. Upon its destruction, unleashes large homing bullets that actively pursue the nearest ship."
+msgstr ""
+
+#. Description of the "Super Orange Mothership" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:219
+msgid "An extra-large orange, pentagon-shaped mothership. Upon its destruction it fires four times the number of bullets compared to its standard counterpart."
+msgstr ""
+
+#. Description of the "Super Green Mothership" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
+msgid "An extra-large green, hexagon-shaped mothership. Upon its destruction, fires an extremely dense circle of large and fast bullets."
+msgstr ""
+
+#. Description of the "Super Cyan Mothership" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:239
+msgid "An extra-large cyan, heptagon-shaped mothership. Upon its destruction, fires a huge arc of large and fast bullets towards the nearest ship."
+msgstr ""
+
+#. Description of the "Rolling Cube" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:249
+msgid "A cube-shaped enemy that rolls through the levels. It constantly seeks out the nearest ship, and its speed increases progressively over time."
+msgstr ""
+
+#. Description of the "Rolling Sphere" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:259
+msgid "A spherical enemy that rolls around the levels, bouncing off walls. While immune to standard bullets, it will shrink when hit by a Freeze bomb."
+msgstr ""
+
+#. Description of the "Spiny" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:287
+msgid "An arrow-shaped enemy that moves along circular paths, bouncing of walls. Possesses a tendency to drift towards nearby ships."
+msgstr ""
+
+#. Description of the "Splitter" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:295
+msgid "A pink, flower-shaped enemy that drifts in random directions. Upon its destruction, it unleashes petals that scatter in a circular pattern."
+msgstr ""
+
+#. Description of the "UFO" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:303
+msgid "A red, flying saucer shaped enemy that glides across the levels. Regularly shoot bullets towards the nearest ship that also happen to damage other enemies."
+msgstr ""
+
+#. Description of the "Wary" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:313
+msgid "A small blue-purple hexagon-shaped enemy that wanders aimlessly through the levels. Fires homing bullets towards the nearest ship."
+msgstr ""
+
+#. A string in the Encyclopedia used to show the
+#. stats (Health, Damage, Score) of an enemy
+#. The %s will be replaced by a number, or a range like "10-5-2"
+#. Meaning based on certain properties of the enemy, it can be 10, 5 or 2
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:368
+msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
+msgstr ""
+
 #. Title string for new World record Feed entries
-#: /client/application/game/ui/screens/screen_feed.cpp:31
+#: /client/application/game/ui/screens/screen_feed.cpp:32
 msgid "New World Record"
 msgstr ""
 
 #. Title string for new community level Feed entries
-#: /client/application/game/ui/screens/screen_feed.cpp:33
+#: /client/application/game/ui/screens/screen_feed.cpp:34
 msgid "New Level"
 msgstr ""
 
 #. Title string for new comment on your level Feed entries
-#: /client/application/game/ui/screens/screen_feed.cpp:35
+#: /client/application/game/ui/screens/screen_feed.cpp:36
 msgid "New comment on %s"
 msgstr ""
 
 #. Title string for new comment on your profile Feed entries
-#: /client/application/game/ui/screens/screen_feed.cpp:37
+#: /client/application/game/ui/screens/screen_feed.cpp:38
 msgid "New profile comment"
 msgstr ""
 
 #. Title string for new reply on your comment Feed entries
-#: /client/application/game/ui/screens/screen_feed.cpp:39
+#: /client/application/game/ui/screens/screen_feed.cpp:40
 msgid "New reply to your comment on %s"
 msgstr ""
 
@@ -921,31 +1194,31 @@ msgstr ""
 #. For example: 529625 in Asteroids, by thomed77
 #. The string might also include multiple players
 #. For example: 589320 in Eskiv, by JF, Lithium
-#: /client/application/game/ui/screens/screen_feed.cpp:47
+#: /client/application/game/ui/screens/screen_feed.cpp:48
 msgid "%1$s in %2$s, by %3$s"
 msgstr ""
 
 #. Content string for new community level Feed entries
 #. For example: Eskiv 1024 (v32) was released
-#: /client/application/game/ui/screens/screen_feed.cpp:55
+#: /client/application/game/ui/screens/screen_feed.cpp:56
 msgid "%1$s (v%2$s) was released"
 msgstr ""
 
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
-#: /client/application/game/ui/screens/screen_feed.cpp:58
+#: /client/application/game/ui/screens/screen_feed.cpp:59
 msgid "%1$s wrote: \"%2$s\""
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_feed.cpp:506
+#: /client/application/game/ui/screens/screen_feed.cpp:515
 msgid "Global feed"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_feed.cpp:507
+#: /client/application/game/ui/screens/screen_feed.cpp:516
 msgid "Personal notifications"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_feed.cpp:643
+#: /client/application/game/ui/screens/screen_feed.cpp:652
 msgid "No notifications"
 msgstr ""
 
@@ -953,7 +1226,7 @@ msgstr ""
 #. For example: 1:33 in Symbiosis, by thomed77
 #. The string might also include multiple players
 #. For example: 1:33 in Symbiosis, by JF, Lithium
-#: /client/application/game/ui/screens/screen_feed.cpp:52
+#: /client/application/game/ui/screens/screen_feed.cpp:53
 msgctxt "speedrun"
 msgid "%1$s in %2$s, by %3$s"
 msgstr ""
@@ -976,488 +1249,603 @@ msgstr "Licence"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to discord server
-#: /client/application/game/ui/screens/screen_informations.h:22
+#: /client/application/game/ui/screens/screen_informations.h:23
 msgid "Discord server"
 msgstr "Discord server"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to the youtube channel
-#: /client/application/game/ui/screens/screen_informations.h:30
+#: /client/application/game/ui/screens/screen_informations.h:31
 msgid "Development videos"
 msgstr "Videi o razvoju igre"
 
 #. Shown in the tab strip of the inventory. Used for showing all the unlocked
 #. items.
-#: /client/application/game/ui/screens/screen_inventory.cpp:89
+#: /client/application/game/ui/screens/screen_inventory.cpp:90
 msgid "All"
 msgstr "Sve"
 
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
 #. bullets, the joysticks, the ui color, etc...
-#: /client/application/game/ui/screens/screen_inventory.cpp:224
+#: /client/application/game/ui/screens/screen_inventory.cpp:225
 msgid "Inventory"
 msgstr "Inventar"
 
 #. The title of the screen to save the ship configuration
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:105
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
 msgstr ""
 
 #. The content of the button to save
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:109
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:111
 msgid "Save"
 msgstr "Spremi"
 
 #. Shown in a notification
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:137
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:139
 msgid "Configuration saved"
 msgstr "Konfiguracija spremljena"
 
 #. Shown when asking for a ship configuration
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:160
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:162
 msgid "Enter configuration name"
 msgstr "Upiši ime konfiguracije"
 
 #. Title of the screen where you choose which configuration to load
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:177
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:179
 msgid "Load ship configuration"
 msgstr ""
 
 #. Shown in a notification when the configuration loaded has no name
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:243
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:245
 msgid "loaded ship configuration"
 msgstr ""
 
 #. Shown in a notification when the configuration loaded has a name
-#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:246
+#: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:248
 msgid "loaded <%s>"
 msgstr "učitano <%s>"
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
+#. The text in the button that players press to join a Blitz
+#: /client/application/game/ui/screens/screen_join_blitz.cpp:21
+msgid "Join Blitz"
+msgstr ""
+
+#. Explanation text for Blitz
+#: /client/application/game/ui/screens/screen_join_blitz.cpp:38
+msgid "Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\nDuring each round the goal is to score as much as possible.\n\nAt the end of the competition, everybody is ranked based on their performance."
+msgstr ""
+
+#. Text appended to the explanation text for Blitz
+#: /client/application/game/ui/screens/screen_join_blitz.cpp:40
+msgid "Good luck!"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
 msgstr "Lokalno više igrača"
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
 msgstr "Lokalno više igrača podržava 2 igrača spojena na istu wifi mrežu."
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "One player must create a room, which the other player joins."
 msgstr "Jedan igrač mora stvoriti sobu, u koju drugi igrač može ući."
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
 msgid "The wifi network does not have to be connected to the internet."
 msgstr "Wifi mreža ne mora biti spojena na internet."
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:48
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Connecting to a phone's hotspot should work!"
 msgstr "Spajanje na mobilni hotspot bih trebalo raditi!"
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:50
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
 msgstr "Svaki igrač mora prijenijeti svoj rezultat zasebno kako bih oboje bili na online ljestvici rezultata."
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:53
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:54
 msgid "Multiplayer help"
 msgstr "Pomoć za više igrača"
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:100
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:101
 msgid "Searching for rooms..."
 msgstr "Traženje soba..."
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:170
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:171
 msgid "(Incompatible version)"
 msgstr "(Inkompatibilna verzija)"
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:190
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:191
 msgid "Create room"
 msgstr "Stvori sobu"
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:192
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:193
 msgid "Close room"
 msgstr "Zatvori sobu"
 
-#: /client/application/game/ui/screens/screen_main_menu.cpp:52
+#: /client/application/game/ui/screens/screen_main_menu.cpp:65
 msgid "Single Player"
 msgstr "Jedan igrač"
 
-#: /client/application/game/ui/screens/screen_main_menu.cpp:54
+#: /client/application/game/ui/screens/screen_main_menu.cpp:67
 msgid "Play"
 msgstr "Igraj"
 
-#: /client/application/game/ui/screens/screen_main_menu.cpp:83
+#: /client/application/game/ui/screens/screen_main_menu.cpp:96
 msgid "Multiplayer"
 msgstr "Više igrača"
 
 #. The label of a button shown in the main menu that means you have
 #. new items to unlock.
-#: /client/application/game/ui/screens/screen_main_menu.cpp:315
+#: /client/application/game/ui/screens/screen_main_menu.cpp:378
 msgid "New Items"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:107
+#. The string shown in the header of the screen where you select which
+#. data you want to erase from disk.
+#: /client/application/game/ui/screens/screen_manage_storage.cpp:15
+msgid "Manage local data"
+msgstr ""
+
+#. Shown in the button that erases local leaderboards
+#: /client/application/game/ui/screens/screen_manage_storage.cpp:51
+msgid "Erase local leaderboards"
+msgstr ""
+
+#. Shown in the button that erases local replays
+#: /client/application/game/ui/screens/screen_manage_storage.cpp:60
+msgid "Erase local replays"
+msgstr ""
+
+#. Shown in the button that resets the daily quest.
+#: /client/application/game/ui/screens/screen_manage_storage.cpp:74
+msgid "Reset daily quest"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:108
 msgid "Room is full"
 msgstr "Soba je puna"
 
-#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:115
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:116
 msgid "You are already in the room!"
 msgstr "Već ste u sobi!"
 
-#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:184
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:185
 msgid "Local lobby"
 msgstr "Lokalna partija"
 
-#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:187
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:188
 msgid "Online lobby"
 msgstr "Online soba"
 
-#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:193
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:194
 msgid "Ready"
 msgstr "Spreman"
 
-#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:202
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:203
 msgid "Cancel"
 msgstr "Otkaži"
 
-#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:345
+#: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:346
 msgid "Waiting for other players..."
 msgstr "Čekanje na druge igrače..."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:73
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:74
 msgid "Checking network..."
 msgstr "Provjera mreže..."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:91
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Can't play in multiplayer with a symmetric NAT."
 msgstr "Ne možete igrati s više igrača na simetričnom NAT."
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
 #. information, or opens a webpage.
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:98
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
 msgid "Learn more"
 msgstr "Saznaj više"
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:104
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:105
 msgid "Symmetric NAT error"
 msgstr "Greška simetričnog NAT-a"
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:106
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
 msgstr "To znači da je vaša internetska veza preograničena i ne dopušta p2p više igrača."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:108
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
 msgstr "Ako koristite mobilnu internetsku vezu, pokušajte ju isključiti. Ako ste na Wi-Fi, pokušajte koristiti drugu Wi-Fi mrežu."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:120
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:121
 msgid "Failed to connect to the STUN servers."
 msgstr "Neuspješno povezivanje sa STUN serverima."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:144
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:146
 msgid "Authenticating..."
 msgstr "Autentificiranje..."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:157
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:159
 msgid "Need the latest version of the game."
 msgstr "Morate imati najnoviju verziju igre."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:166
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:168
 msgid "Failed to authenticate"
 msgstr "Neuspješna autentifikacija."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:188
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:190
 msgid "Error :("
 msgstr "Greška :("
 
-#: /client/application/game/ui/screens/screen_online_configure_room.cpp:42
+#: /client/application/game/ui/screens/screen_online_configure_room.cpp:43
 msgid "Room configuration"
 msgstr "Postavke sobe"
 
-#: /client/application/game/ui/screens/screen_online_configure_room.cpp:66
+#: /client/application/game/ui/screens/screen_online_configure_room.cpp:67
 msgid "2 extra characters (optional):"
 msgstr "2 posebna znaka (neobavezno):"
 
-#: /client/application/game/ui/screens/screen_online_configure_room.cpp:99
+#: /client/application/game/ui/screens/screen_online_configure_room.cpp:100
 msgid "Password (optional):"
 msgstr "Lozinka (neobavezno):"
 
-#: /client/application/game/ui/screens/screen_online_configure_room.cpp:135
+#: /client/application/game/ui/screens/screen_online_configure_room.cpp:136
 msgid "Any level"
 msgstr "Bilo koji level"
 
-#: /client/application/game/ui/screens/screen_online_configure_room.cpp:182
+#: /client/application/game/ui/screens/screen_online_configure_room.cpp:183
 msgid "Room name: %s"
 msgstr "Ime sobe: %s"
 
-#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:281
+#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:282
 msgid "Joining room"
 msgstr "Pridruživanje u sobu"
 
-#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:301
+#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:302
 msgid "The room expired"
 msgstr "Soba je istekla"
 
-#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:315
+#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:316
 msgid "Unknown error"
 msgstr "Nepoznata greška"
 
-#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:330
+#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:331
 msgid "Failed to join room"
 msgstr "Neuspješno pridruživanje u sobu"
 
-#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
+#: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:351
 msgid "The room does not exist anymore"
 msgstr "Soba ne postoji"
 
-#: /client/application/game/ui/screens/screen_online_enter_password.cpp:24
+#: /client/application/game/ui/screens/screen_online_enter_password.cpp:25
 msgid "Enter password"
 msgstr "Upišite lozinku"
 
-#: /client/application/game/ui/screens/screen_online_enter_password.cpp:26
+#: /client/application/game/ui/screens/screen_online_enter_password.cpp:27
 msgid "Join"
 msgstr "Pridruži se"
 
-#: /client/application/game/ui/screens/screen_online_list_rooms.cpp:91
+#: /client/application/game/ui/screens/screen_online_list_rooms.cpp:92
 msgid "Online multiplayer"
 msgstr "Online više igrača"
 
-#: /client/application/game/ui/screens/screen_online_list_rooms.cpp:112
+#: /client/application/game/ui/screens/screen_online_list_rooms.cpp:113
 msgid "Refresh"
 msgstr "Osvježi"
 
-#: /client/application/game/ui/screens/screen_select_development_level.cpp:18
+#. The title of the screen shown when a player is in the process of joining a
+#. Blitz
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:160
+msgid "Joining Blitz"
+msgstr ""
+
+#. Message shown when a player is disconnected from a Blitz
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:188
+msgid "Disconnected from Blitz"
+msgstr ""
+
+#. Error message for when a "connection error" caused the disconnection
+#. of a player from a Blitz
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:192
+msgid "Connection error"
+msgstr "Greška u povezivanju"
+
+#. The string shown to players in the waiting room while waiting for the
+#. previous Blitz to finish.
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:330
+msgid "Waiting for previous Blitz..."
+msgstr ""
+
+#. The string shown while waiting for additional players to join a
+#. Blitz. For the record, the number of players required and the number
+#. of players that joined is appended to this string. For example, this
+#. will be shown: "Waiting for players 7/10"
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:340
+msgid "Waiting for players"
+msgstr ""
+
+#. Shown during a Blitz. Is used for showing how much time is left
+#. before the next round starts. The % is replaced with a time in
+#. seconds, for example: Starting in 5.3s
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:559
+msgid "Starting in %s"
+msgstr ""
+
+#. Text shown when the player tries to exit a Blitz.
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:620
+msgid "Are you sure you want to exit the Blitz?"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:595
+msgctxt "menu_confirm_action"
+msgid "Yes"
+msgstr "Da"
+
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:596
+msgctxt "menu_cancel_action"
+msgid "No"
+msgstr "Ne"
+
+#. The string shown in a button to claim rewards from completing a quest
+#: /client/application/game/ui/screens/screen_quests.cpp:153
+msgid "Claim"
+msgstr ""
+
+#. The title of the screen that shows the quests available
+#: /client/application/game/ui/screens/screen_quests.cpp:191
+msgid "Quests"
+msgstr ""
+
+#. Message shown when downloading quests has failed.
+#: /client/application/game/ui/screens/screen_quests.cpp:271
+msgid "Failed to download quests"
+msgstr ""
+
+#. Message shown when the game is too old and needs to be updated to
+#. support the new quests.
+#: /client/application/game/ui/screens/screen_quests.cpp:283
+msgid "Incompatible quests: the game needs to be updated."
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:62
+msgid "Failed to claim! No internet?"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:94
+msgid "Successfully claimed XP!"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_select_development_level.cpp:19
 msgid "Developer mode"
 msgstr "Mod za razvijanje"
 
-#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:18
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:19
 msgid "Select multiplayer type"
 msgstr "Odaberi vrstu više igrača"
 
-#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:33
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:34
 msgid "Play with people around the world!"
 msgstr "Igrajte s ljudima diljem svijeta!"
 
-#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:48
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:49
 msgid "LAN multiplayer"
 msgstr "LAN više igrača"
 
-#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:59
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:60
 msgid "Play with people on the same network!"
 msgstr "Igrajte s ljudima na istoj mreži!"
 
 #. The title of the screen where you select official levels.
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:42
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:44
 msgid "Official"
 msgstr "Službeno"
 
 #. The title of the screen where you select what to play in the World.
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:44
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:46
 msgid "World"
 msgstr "Svijet"
 
 #. The title of the screen where you select what sandbox to play.
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:46
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:48
 msgid "Sandbox"
 msgstr "Sandbox"
 
 #. The title of the screen where you select community levels.
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:48
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:50
 msgid "Community"
 msgstr "Zajednica"
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:166
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
 msgid "Official levels allow you to get score medals:"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:167
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:171
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:172
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:175
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:177
 msgid "The world contains many deviations."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:176
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:178
 msgid "To complete deviations you should be familiar with the official levels."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:177
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
 msgid "You can play the deviations in 3 levels of difficulties."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:178
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:181
 msgid "For every completed deviation you get XP."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:182
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:186
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:188
 msgid "The sandbox is the place to train and experiment under different conditions."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:187
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:189
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:188
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:190
 msgid "The sandbox is still in development, so expect changes in the future."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:191
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
 msgid "Community levels are created by the community."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:195
 msgid "Most community levels give out stars."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:196
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:201
 msgid "Official levels information"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:206
 msgid "Community levels information"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:211
 msgid "World information"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:214
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:216
 msgid "Sandbox information"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_server_connection_closed.cpp:14
-msgid "Connection error"
-msgstr "Greška u povezivanju"
-
-#: /client/application/game/ui/screens/screen_server_connection_closed.cpp:17
+#: /client/application/game/ui/screens/screen_server_connection_closed.cpp:18
 msgid "Lost connection to host"
 msgstr "Izgubljena povezanost sa hostom."
 
-#: /client/application/game/ui/screens/screen_settings.cpp:33
+#: /client/application/game/ui/screens/screen_settings.cpp:39
 msgid "Settings"
 msgstr "Postavke"
 
 #. Shown in the button used for entering the screen to configure the
 #. graphics settings.
-#: /client/application/game/ui/screens/screen_settings.cpp:44
+#: /client/application/game/ui/screens/screen_settings.cpp:50
 msgid "Graphics"
 msgstr "Grafika"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:54
+#: /client/application/game/ui/screens/screen_settings.cpp:60
 msgid "Controls"
 msgstr "Kontrole"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:64
+#: /client/application/game/ui/screens/screen_settings.cpp:70
 msgid "Audio"
 msgstr "Audio"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:75
+#: /client/application/game/ui/screens/screen_settings.cpp:81
 msgid "Language"
 msgstr "Jezik"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:86
+#: /client/application/game/ui/screens/screen_settings.cpp:92
 msgid "UI"
 msgstr "UI"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:112
+#. Label used to show a vibration setting next to an on/off switch
+#: /client/application/game/ui/screens/screen_settings.cpp:123
+msgid "Vibration"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_settings.cpp:141
 msgid "Start tutorial"
 msgstr "Pokreni tutorial"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:124
+#: /client/application/game/ui/screens/screen_settings.cpp:153
 msgid "Launch intro"
 msgstr "Pokreni intro"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:189
-msgid "Vibration %s"
-msgstr "Vibracija %s"
-
-#: /client/application/game/ui/screens/screen_settings_audio.cpp:20
+#: /client/application/game/ui/screens/screen_settings_audio.cpp:21
 msgid "Audio Settings"
 msgstr "Audio postavke"
 
-#: /client/application/game/ui/screens/screen_settings_audio.cpp:29
+#: /client/application/game/ui/screens/screen_settings_audio.cpp:32
 msgid "Sound effects"
 msgstr "Zvučni efekti"
 
-#: /client/application/game/ui/screens/screen_settings_audio.cpp:123
+#: /client/application/game/ui/screens/screen_settings_audio.cpp:146
 msgid "Visualization"
 msgstr "Vizualizacija"
 
-#: /client/application/game/ui/screens/screen_settings_controls.cpp:17
+#: /client/application/game/ui/screens/screen_settings_controls.cpp:18
 msgid "Controls Settings"
 msgstr "Postavke kontroli"
 
-#: /client/application/game/ui/screens/screen_settings_controls.cpp:27
+#: /client/application/game/ui/screens/screen_settings_controls.cpp:28
 msgid "Touchscreen"
 msgstr "Ekran na dodir"
 
-#: /client/application/game/ui/screens/screen_settings_controls.cpp:38
+#: /client/application/game/ui/screens/screen_settings_controls.cpp:39
 msgid "Keyboard"
 msgstr "Tipkovnica"
 
-#: /client/application/game/ui/screens/screen_settings_controls.cpp:48
+#: /client/application/game/ui/screens/screen_settings_controls.cpp:49
 msgid "Gamepad"
 msgstr "Gamepad"
 
-#: /client/application/game/ui/screens/screen_settings_language.cpp:17
+#: /client/application/game/ui/screens/screen_settings_language.cpp:18
 msgid "Language Settings"
 msgstr "Jezične postavke"
 
-#: /client/application/game/ui/screens/screen_settings_language.cpp:20
+#: /client/application/game/ui/screens/screen_settings_language.cpp:21
 msgid "The translations are community provided!"
 msgstr "Prijevodi su napravljeni u zajednici igrača!"
 
-#: /client/application/game/ui/screens/screen_settings_language.cpp:29
+#: /client/application/game/ui/screens/screen_settings_language.cpp:30
 msgid "Default language"
 msgstr "Zadani jezik"
 
-#: /client/application/game/ui/screens/screen_settings_language.cpp:43
+#: /client/application/game/ui/screens/screen_settings_language.cpp:44
 msgid "Help out"
 msgstr "Pomogni"
 
-#: /client/application/game/ui/screens/screen_settings_language.cpp:53
+#: /client/application/game/ui/screens/screen_settings_language.cpp:54
 msgid "Contributors"
 msgstr "Suradnici"
 
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:115
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:122
 msgid "UI Settings"
 msgstr "UI postavke"
 
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:132
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:141
 msgid "Show in-game score"
 msgstr "Prikaži bodove u igri"
 
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:148
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:156
 msgid "Quick Pause"
 msgstr "Brza Pauza"
 
@@ -1467,410 +1855,419 @@ msgstr "Brza Pauza"
 #. update your "Steam status" or not.
 #. The "Steam status" is the status that is shown next to your name in Steam.
 #. example of a status: "Pablo Picasso -- playing Eskiv".
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:169
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:178
 msgid "Steam status"
 msgstr "Steam status"
 
 #. The description of the setting that allows players to toggle on or off
 #. the floating text message in-game.
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:189
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:198
 msgid "Show optional floating text"
 msgstr "Prikaži izborni lebdeći tekst"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:261
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:266
 msgid "UI Scale: %s"
 msgstr "UI Veličina: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:268
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:273
 msgid "UI Inset: %s"
 msgstr "UI Umetak: %s"
 
-#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:19
+#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:20
 msgid "Connect to server"
 msgstr "Spoji se na server"
 
-#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:50
+#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:51
 msgid "IP:"
 msgstr "IP:"
 
-#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:58
+#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:59
 msgid "Port:"
 msgstr "Port:"
 
-#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:69
+#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:70
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
 msgstr "Spoji se na sobu preko interneta #ff0000ff(eksperimentalno)"
 
-#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:78
+#: /client/application/game/ui/screens/screen_specify_server_ip.cpp:79
 msgid "Connect"
 msgstr "Spoji se"
 
-#: /client/application/game/ui/screens/screen_tutorial.cpp:31
+#: /client/application/game/ui/screens/screen_tutorial.cpp:32
 msgid "Tutorial"
 msgstr "Tutorial"
 
 #. Shown in the descripting of the item. "type" refers to what kind of
 #. item it is. Ship, trail, bullet, etc...
-#: /client/application/game/ui/screens/screen_unlock_items.cpp:93
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:111
 msgid "Type"
 msgstr "Tip"
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
 #. For example "alpha', "rival", etc...
-#: /client/application/game/ui/screens/screen_unlock_items.cpp:97
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:115
 msgid "Name"
 msgstr "Ime"
 
 #. Shown in the descripting of the item. "rarity" refers to what the
 #. rarity of the item
 #. is. For example, "common", "rare", etc...
-#: /client/application/game/ui/screens/screen_unlock_items.cpp:101
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:119
 msgid "Rarity"
 msgstr "Rijetkost"
 
 #. Title of the screen that shows the UI to unlock items
-#: /client/application/game/ui/screens/screen_unlock_items.cpp:237
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:255
 msgid "Unlock items"
 msgstr "Otključaj stavke"
 
 #. The label of a button used for unlocking a single item.
-#: /client/application/game/ui/screens/screen_unlock_items.cpp:253
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:271
 msgid "Unlock item"
 msgstr "Otključaj stavku"
 
 #. Shown in a string when no items can be unlocked
-#: /client/application/game/ui/screens/screen_unlock_items.cpp:273
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:291
 msgid "No items to unlock"
 msgstr "Nema stavka za otključavanje"
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
-#: /client/application/game/ui/screens/screen_unlock_items.cpp:278
+#: /client/application/game/ui/screens/screen_unlock_items.cpp:296
 msgid "Items to unlock: %s"
 msgstr "Stavke za otključavanje: %s"
 
-#: /client/application/game/ui/screens/screen_upload_scores.cpp:54
+#: /client/application/game/ui/screens/screen_upload_scores.cpp:55
 msgid "Upload scores"
 msgstr "Prenesi rezultate"
 
-#: /client/application/game/ui/screens/screen_upload_scores.cpp:81
+#: /client/application/game/ui/screens/screen_upload_scores.cpp:82
 msgid "Nothing to upload!"
 msgstr "Nema ništa za prijenos!"
 
-#: /client/application/game/ui/screens/screen_upload_scores.cpp:99
+#: /client/application/game/ui/screens/screen_upload_scores.cpp:100
 msgid "Failed to upload replays."
 msgstr "Neuspjeli prijenos snimaka."
 
-#: /client/application/game/ui/screens/screen_upload_scores.cpp:101
+#: /client/application/game/ui/screens/screen_upload_scores.cpp:102
 msgid "Upload successful"
 msgstr "Prijenos uspješan."
 
-#: /client/application/game/ui/screens/screen_upload_scores.cpp:132
+#: /client/application/game/ui/screens/screen_upload_scores.cpp:134
 msgid "Uploading replay for %s."
 msgstr "Prijenos snimke za %s."
 
+#. Shown in the achievement filter, when all achievements are listed
+#. (=no filtering is done).
+#: /client/application/game/ui/screens/screen_view_achievements.cpp:39
+msgid "all"
+msgstr ""
+
+#. Shown in the achievement filter, when only the "very high scores"
+#. achievements are listed.
+#: /client/application/game/ui/screens/screen_view_achievements.cpp:42
+msgid "very high score"
+msgstr ""
+
+#. Shown in the achievement filter, when only "inertic" achievements are
+#. listed.
+#: /client/application/game/ui/screens/screen_view_achievements.cpp:45
+msgid "inertic"
+msgstr ""
+
+#. Shown in the achievement filter, when the uncategorized achievements
+#. are listed.
+#: /client/application/game/ui/screens/screen_view_achievements.cpp:48
+msgid "other"
+msgstr ""
+
 #. Shown when a user disables comments on their profile and or levels.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:205
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:207
 msgid "Comments are disabled."
 msgstr "Komentari su isključeni."
 
 #. The title of the screen where players delete comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:265
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:267
 msgid "Delete comment"
 msgstr "Izbriši komentar"
 
 #. Shown in a notification after successfully deleting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:267
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
 msgid "Successfully deleted comment"
 msgstr "Uspješno izbrisan komentar"
 
 #. Shown in a notification if a comment could not be deleting.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:271
 msgid "Error deleting comment"
 msgstr "Greška u brisanju komentara"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:272
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:274
 msgid "Are you sure you want to delete this comment?"
 msgstr "Jeste li sigurni da želite izbrisati ovaj komentar?"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:302
+#. The title of the screen where players report comments.
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:304
 msgid "Are you sure you want to report this comment?"
 msgstr "Jeste li sigurni da želite prijaviti ovaj komentar?"
 
 #. Shown in a notification after successfully reporting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:304
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:306
 msgid "Successfully reported comment"
 msgstr "Uspješno prijavljen komentar"
 
 #. Shown in a notification if a comment could not be reported.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:306
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:308
 msgid "Error reporting comment"
 msgstr "Greška u prijavi komentara"
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:463
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:465
 msgid "No comments"
 msgstr ""
 
 #. Used as a placeholder in the textfield where players write their comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:482
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:484
 msgid "<Add a comment here>"
 msgstr "<Dodajte komentar ovdje>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:497
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:499
 msgid "Comment"
 msgstr "Komentiraj"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:503
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:505
 msgid "Comment must be at least 3 characters long."
 msgstr "Komentar mora biti najmanje 3 znaka dug."
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:519
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:521
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
 msgstr "Molimo pripazite na govor. Bez vrijeđanja, psovanja i spama. Mi možemo izbrisati bilo koji post koji prekršava ova pravila i blokirati ili zabraniti komentiranje prekršiteljima."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:543
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:545
 msgid "Posting comment"
 msgstr "Objavljivanje komentara"
 
 #. Shown in a notification after a comment was successfully posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:564
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:566
 msgid "Comment posted"
 msgstr "Komentar objavljen"
 
 #. Shown in a notification after a comment failed to be posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:568
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:570
 msgid "Failed to post comment"
 msgstr "Greška u objavljivanju komentara"
 
 #. The title of the screen where players report comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:300
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:302
 msgctxt "report_screen_title"
 msgid "Report comment"
 msgstr "Prijavi komentar"
 
 #. The title of the screen where players enter the comment they want to add.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:475
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:477
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
 msgstr "Dodaj komentar"
-
-#. Displayed in a button. The button is used in menus asking wether to
-#. confirm an action.
-#. For example:
-#.  | Are you sure you want to do X?
-#.  | * Yes     * No
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:631
-msgctxt "menu_confirm_action"
-msgid "Yes"
-msgstr "Da"
-
-#. Displayed in a button. The button is used in menus asking whether to
-#. confirm an action.
-#. For example:
-#.  | Are you sure you want to do X?
-#.  | * Yes     * No
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:644
-msgctxt "menu_cancel_action"
-msgid "No"
-msgstr "Ne"
 
 #. The title shown when looking at the replies posted on a comment.
 #. The %s gets replaced with the comment content.
 #. 
 #. For example:
 #. Replies to "Hello this is my comment"
-#: /client/application/game/ui/screens/screen_view_and_add_comments.h:19
+#: /client/application/game/ui/screens/screen_view_and_add_comments.h:20
 msgid "Replies to \"%s\""
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:29
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:31
 msgid "Africa"
 msgstr "Afrika"
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:30
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:32
 msgid "Asia"
 msgstr "Azija"
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:31
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:33
 msgid "Europe"
 msgstr "Europa"
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:32
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:34
 msgid "North America"
 msgstr "Sj. Amerika"
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:33
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:35
 msgid "Oceania"
 msgstr "Oceanija"
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:34
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:36
 msgid "South America"
 msgstr "J. Amerika"
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:61
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:63
 msgid "personal"
 msgstr "osobno"
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:61
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:63
 msgid "region"
 msgstr "regija"
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:62
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:64
 msgid "continent"
 msgstr "kontinent"
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:62
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:64
 msgid "world"
 msgstr "svijet"
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:145
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:148
 msgid "high scores"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:146
+#: /client/application/game/ui/screens/screen_view_leaderboards.cpp:149
 msgid "speed runs"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_view_level.cpp:36
+#: /client/application/game/ui/screens/screen_view_level.cpp:37
 msgid "World record: %s"
 msgstr "Svjetski rekord: %s"
 
-#: /client/application/game/ui/screens/screen_view_level.cpp:40
+#: /client/application/game/ui/screens/screen_view_level.cpp:41
 msgid "Local best: %s"
 msgstr "Lokalni rekord: %s"
 
-#: /client/application/game/ui/screens/screen_view_level.cpp:62
+#: /client/application/game/ui/screens/screen_view_level.cpp:63
 msgid "Failed to download manifest"
 msgstr "Neuspjelo preuzimanje manifesta"
 
-#: /client/application/game/ui/screens/screen_view_level.cpp:87
+#: /client/application/game/ui/screens/screen_view_level.cpp:88
 msgid "Featured level"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_view_level.cpp:223
+#: /client/application/game/ui/screens/screen_view_level.cpp:224
 msgid "average score: %s"
 msgstr "prosječni bodovi: %s"
 
-#: /client/application/game/ui/screens/screen_view_level.cpp:286
+#: /client/application/game/ui/screens/screen_view_level.cpp:289
 msgid "Experimental level"
 msgstr "Eksperimentalni level"
 
 #. Used for showing the version of a level. The %s will be replaced with a
 #. version number. For example: "version 2"
-#: /client/application/game/ui/screens/screen_view_level_info.cpp:36
+#: /client/application/game/ui/screens/screen_view_level_info.cpp:37
 msgid "version %s"
 msgstr "verzija %s"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
-#: /client/application/game/ui/screens/screen_view_level_info.cpp:39
+#: /client/application/game/ui/screens/screen_view_level_info.cpp:40
 msgid "released %s"
 msgstr "preneseno %s"
 
 #. Used if the level does not contain any information.
-#: /client/application/game/ui/screens/screen_view_level_info.cpp:41
+#: /client/application/game/ui/screens/screen_view_level_info.cpp:42
 msgid "No information available"
 msgstr "Nema informacija"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
-#: /client/application/game/ui/screens/screen_view_level_info.cpp:44
+#: /client/application/game/ui/screens/screen_view_level_info.cpp:45
 msgid "Gold medals percentage: %s"
 msgstr "Postotak zlatnih medalja: %s"
 
-#: /client/application/game/ui/screens/screen_watch_replay.cpp:83
+#: /client/application/game/ui/screens/screen_view_xp_leaderboard.cpp:81
+msgid "( excluding Extra XP )"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_watch_replay.cpp:84
 msgid "Failed to read replay."
 msgstr "Neuspješno čitanje snimke."
 
-#: /client/application/game/ui/screens/screen_watch_replay.cpp:112
+#: /client/application/game/ui/screens/screen_watch_replay.cpp:113
 msgid "Failed to download replay."
 msgstr "Neuspješno preuzimanje snimke."
 
-#: /client/application/game/ui/shared_strings.cpp:7
+#: /client/application/game/ui/shared_strings.cpp:8
 msgid "Failed to parse response"
 msgstr "Neuspješno rasčlanjivanje odgovora."
 
-#: /client/application/game/ui/shared_strings.cpp:11
+#: /client/application/game/ui/shared_strings.cpp:12
 msgid "Failed to contact server"
 msgstr "Neuspješno kontaktiranje servera"
 
-#: /client/application/game/ui/shared_strings.cpp:15
+#: /client/application/game/ui/shared_strings.cpp:16
 msgid "Official levels"
 msgstr "Službeni leveli"
 
-#: /client/application/game/ui/shared_strings.cpp:19
+#: /client/application/game/ui/shared_strings.cpp:20
 msgid "Community levels"
 msgstr "Leveli zajednice"
 
-#: /client/application/game/ui/shared_strings.cpp:23
+#: /client/application/game/ui/shared_strings.cpp:24
 msgid "play count: %s"
 msgstr "broj igranja: %s"
 
-#: /client/application/game/ui/shared_strings.cpp:27
+#: /client/application/game/ui/shared_strings.cpp:28
 msgid "time played: %s"
 msgstr "vrijeme igranja: %s"
 
-#: /client/application/game/ui/shared_strings.cpp:31
+#: /client/application/game/ui/shared_strings.cpp:32
 msgid "Casual"
 msgstr "Klasično"
 
-#: /client/application/game/ui/shared_strings.cpp:35
+#: /client/application/game/ui/shared_strings.cpp:36
 msgid "Failed to sign-in!"
 msgstr "Prijava neuspješna!"
 
 #. Describes the lowest difficutly setting (1/3)
-#: /client/application/game/ui/shared_strings.cpp:40
+#: /client/application/game/ui/shared_strings.cpp:41
 msgid "Normal"
 msgstr ""
 
 #. Describes the mid difficulty setting (2/3)
-#: /client/application/game/ui/shared_strings.cpp:45
+#: /client/application/game/ui/shared_strings.cpp:46
 msgid "Hard"
 msgstr ""
 
 #. Describes the highest difficutly setting (3/3)
-#: /client/application/game/ui/shared_strings.cpp:50
+#: /client/application/game/ui/shared_strings.cpp:51
 msgid "Delirious"
 msgstr ""
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
 #. "Era 2 medals and stars"
-#: /client/application/game/ui/views/account_view.cpp:384
+#: /client/application/game/ui/views/account_view.cpp:385
 msgid "Era %s medals and stars"
 msgstr "Era %s medalje i zvijezde"
 
 #. Error shown when downloading some piece of data failed.
-#: /client/application/game/ui/views/account_view.cpp:533
+#: /client/application/game/ui/views/account_view.cpp:537
 msgid "Download error"
 msgstr "Greška preuzimanja"
 
 #. Shown when the downloading of some piece of data is in progress.
-#: /client/application/game/ui/views/account_view.cpp:535
+#: /client/application/game/ui/views/account_view.cpp:539
 msgid "Downloading..."
 msgstr "Preuzimanje..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
-#: /client/application/game/ui/views/account_view.cpp:88
+#: /client/application/game/ui/views/account_view.cpp:89
 msgctxt "account_view"
 msgid "Levels"
 msgstr "Leveli"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
-#: /client/application/game/ui/views/account_view.cpp:91
+#: /client/application/game/ui/views/account_view.cpp:92
 msgctxt "account_view"
 msgid "Scores"
 msgstr "Rezultati"
@@ -1878,7 +2275,7 @@ msgstr "Rezultati"
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
 #. to their youtube channel, etc...
-#: /client/application/game/ui/views/account_view.cpp:95
+#: /client/application/game/ui/views/account_view.cpp:96
 msgctxt "account_view"
 msgid "General"
 msgstr "Općenito"
@@ -1886,154 +2283,154 @@ msgstr "Općenito"
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
 #. "Join date: 2021-08-25"
-#: /client/application/game/ui/views/account_view.cpp:329
+#: /client/application/game/ui/views/account_view.cpp:330
 msgctxt "account_view"
 msgid "Join date: %s"
 msgstr "Datum pridruživanja: %s"
 
 #. Displayed in a player's profile. The %s will be replaced by the level of
 #. the player, for example: "Level: 46"
-#: /client/application/game/ui/views/account_view.cpp:339
+#: /client/application/game/ui/views/account_view.cpp:340
 msgctxt "account_view"
 msgid "Level: %s"
 msgstr ""
 
-#: /client/application/game/ui/views/community_level_selector.cpp:307
+#: /client/application/game/ui/views/community_level_selector.cpp:261
 msgid "IN REVIEW"
 msgstr "U PREGLEDU"
 
-#: /client/application/game/ui/views/game_hud.cpp:79
+#: /client/application/game/ui/views/game_hud.cpp:11
 msgid "Shield: %s"
 msgstr "Štit: %s"
 
 #. Shown in the title of the screen where you enter the name of a
 #. configuration.
-#: /client/application/game/ui/views/sandbox_configurator.cpp:93
+#: /client/application/game/ui/views/sandbox_configurator.cpp:91
 msgid "Save sandbox configuration"
 msgstr "Spremi sandbox konfiguraciju"
 
 #. Shown in the title of the screen where you select a Sandbox
 #. configuration to load.
-#: /client/application/game/ui/views/sandbox_configurator.cpp:166
+#: /client/application/game/ui/views/sandbox_configurator.cpp:164
 msgid "Load sandbox configuration"
 msgstr "Učitaj sandbox konfiguraciju"
 
 #. Shown in a notification when an unnamed sandbox configuration is
 #. loaded.
-#: /client/application/game/ui/views/sandbox_configurator.cpp:196
+#: /client/application/game/ui/views/sandbox_configurator.cpp:194
 msgid "loaded sandbox configuration"
 msgstr "učitana sandbox konfiguracija"
 
 #. Shown in the button that allows users to sort by date
-#: /client/application/game/ui/views/sort_button.cpp:31
+#: /client/application/game/ui/views/sort_button.cpp:32
 msgid "Date"
 msgstr "Datum"
 
 #. Shown in the button that allows users to sort by stars
-#: /client/application/game/ui/views/sort_button.cpp:35
+#: /client/application/game/ui/views/sort_button.cpp:36
 msgid "Stars"
 msgstr "Zvijezde"
 
 #. Shown in the button that allows users to sort by difficutly
-#: /client/application/game/ui/views/sort_button.cpp:39
+#: /client/application/game/ui/views/sort_button.cpp:40
 msgid "Difficulty"
 msgstr "Težina"
 
-#: /client/application/game/ui/views/top_notification_view.cpp:56
+#: /client/application/game/ui/views/top_notification_view.cpp:57
 msgid "%sWaiting for other player%s"
 msgstr "%sČekanje na druge igrače%s"
 
 #. The label shown in the button used to enter the World.
-#: /client/application/game/ui/views/world_selector.cpp:176
+#: /client/application/game/ui/views/world_selector.cpp:177
 msgid "Enter World"
 msgstr "Uđi u Svijet"
 
-#: /client/application/ui/keyboard_view.cpp:111
+#: /client/application/ui/keyboard_view.cpp:112
 msgid "ok"
 msgstr "u redu"
 
 #. The color "red"
-#: /client/application/ui/ui_skin.cpp:34
+#: /client/application/ui/ui_skin.cpp:35
 msgid "Red"
 msgstr "Crvena"
 
 #. The color "cyan"
-#: /client/application/ui/ui_skin.cpp:37
+#: /client/application/ui/ui_skin.cpp:38
 msgid "Cyan"
 msgstr "Cijam"
 
 #. The color "lime"
-#: /client/application/ui/ui_skin.cpp:40
+#: /client/application/ui/ui_skin.cpp:41
 msgid "Lime"
 msgstr "Limeta"
 
 #. The color "lime green"
-#: /client/application/ui/ui_skin.cpp:43
+#: /client/application/ui/ui_skin.cpp:44
 msgid "Lime Green"
 msgstr "Limeta Zelena"
 
 #. The color "purple"
-#: /client/application/ui/ui_skin.cpp:46
+#: /client/application/ui/ui_skin.cpp:47
 msgid "Purple"
 msgstr "Ljubičasta"
 
 #. The color "orange"
-#: /client/application/ui/ui_skin.cpp:52
+#: /client/application/ui/ui_skin.cpp:53
 msgid "Orange"
 msgstr "Narančasta"
 
 #. The color "white"
-#: /client/application/ui/ui_skin.cpp:55
+#: /client/application/ui/ui_skin.cpp:56
 msgid "White"
 msgstr "Bijel"
 
 #. The color "gray"
-#: /client/application/ui/ui_skin.cpp:58
+#: /client/application/ui/ui_skin.cpp:59
 msgid "Gray"
 msgstr "Siva"
 
 #. The color "dark blue"
-#: /client/application/ui/ui_skin.cpp:61
+#: /client/application/ui/ui_skin.cpp:62
 msgid "Dark Blue"
 msgstr "Tamnoplava"
 
 #. The color "yellow"
-#: /client/application/ui/ui_skin.cpp:64
+#: /client/application/ui/ui_skin.cpp:65
 msgid "Yellow"
 msgstr "Žuta"
 
 #. The UI color "frosted green"
-#: /client/application/ui/ui_skin.cpp:67
+#: /client/application/ui/ui_skin.cpp:68
 msgid "Frosted Green"
 msgstr "Matirano Zelena"
 
 #. The UI color "frosted red"
-#: /client/application/ui/ui_skin.cpp:70
+#: /client/application/ui/ui_skin.cpp:71
 msgid "Frosted Red"
 msgstr "Matirano Crvena"
 
 #. The UI color "frosted blue"
-#: /client/application/ui/ui_skin.cpp:73
+#: /client/application/ui/ui_skin.cpp:74
 msgid "Frosted Blue"
 msgstr "Matirano Plava"
 
 #. The UI color "frosted yellow"
-#: /client/application/ui/ui_skin.cpp:76
+#: /client/application/ui/ui_skin.cpp:77
 msgid "Frosted Yellow"
 msgstr "Matirano Žuta"
 
 #. The UI color "frosted pink"
-#: /client/application/ui/ui_skin.cpp:79
+#: /client/application/ui/ui_skin.cpp:80
 msgid "Frosted Pink"
 msgstr "Matirano Ružičasta"
 
 #. The UI color "frosted teal"
-#: /client/application/ui/ui_skin.cpp:82
+#: /client/application/ui/ui_skin.cpp:83
 msgid "Frosted Teal"
 msgstr "Matirano plavozelena"
 
 #. The UI color "frosted gray"
-#: /client/application/ui/ui_skin.cpp:85
+#: /client/application/ui/ui_skin.cpp:86
 msgid "Frosted Gray"
 msgstr "Matirano Siva"
 
@@ -2041,7 +2438,7 @@ msgstr "Matirano Siva"
 #. available.
 #. The %s is replaced with a version number, for example:
 #. "Update available (0.4.122)"
-#: /client/application/utils/version.cpp:72
+#: /client/application/utils/version.cpp:73
 msgid "Update available %s"
 msgstr "Ažuriranje dostupno %s"
 

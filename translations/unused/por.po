@@ -64,11 +64,20 @@ msgstr "Experimental"
 msgid "Experimental levels"
 msgstr "Níveis experimentais"
 
+msgid "Failed to download achievements"
+msgstr "Falha ao baixar conquistas"
+
+msgid "Failed to download unlocked items"
+msgstr "Falha ao baixar itens desbloqueados"
+
 msgid "Failed to parse server response"
 msgstr "Falha ao analisar a resposta do servidor"
 
 msgid "Failed to set up comments"
 msgstr "Falha ao definir comentários"
+
+msgid "Failed to upload achievements"
+msgstr "Falha ao enviar conquistas"
 
 msgid "Game is full"
 msgstr "O jogo está lotado"
@@ -153,6 +162,9 @@ msgstr "Muito baixo 4x"
 
 msgid "Ultra low 8x"
 msgstr "Muito baixo 8x"
+
+msgid "Vibration %s"
+msgstr "Vibração %s"
 
 msgid "Waiting for the server..."
 msgstr "Esperando pelo servidor..."

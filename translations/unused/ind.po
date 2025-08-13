@@ -55,11 +55,20 @@ msgstr "Percobaan"
 msgid "Experimental levels"
 msgstr "Level Percobaan"
 
+msgid "Failed to download achievements"
+msgstr "Gagal mengunduh pencapaian"
+
+msgid "Failed to download unlocked items"
+msgstr "Gagal mengunduh item terbuka"
+
 msgid "Failed to parse server response"
 msgstr "Gagal mengurai respons server"
 
 msgid "Failed to set up comments"
 msgstr "Gagal untuk memberi komentar"
+
+msgid "Failed to upload achievements"
+msgstr "Gagal mengunggah pencapaian"
 
 msgid "Game is full"
 msgstr "Game penuh"
@@ -147,6 +156,9 @@ msgstr "Ultra rendah 8x"
 
 msgid "Unknown level"
 msgstr "Level tidak diketahui"
+
+msgid "Vibration %s"
+msgstr "Getaran %s"
 
 msgid "Yes!"
 msgstr "Ya!"

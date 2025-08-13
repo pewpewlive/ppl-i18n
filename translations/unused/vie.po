@@ -1,0 +1,15 @@
+# The following translations are not in use anymore!
+# They are kept in case they are needed again later.
+
+msgid "Failed to download achievements"
+msgstr "Không thể tải thành tích"
+
+msgid "Failed to download unlocked items"
+msgstr "Không thể tải vật phẩm"
+
+msgid "Failed to upload achievements"
+msgstr "Không thể đăng thành tích"
+
+msgid "Vibration %s"
+msgstr "Rung: %s"
+

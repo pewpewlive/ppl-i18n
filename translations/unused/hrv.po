@@ -70,11 +70,20 @@ msgstr "Eksperimentalno"
 msgid "Experimental levels"
 msgstr "Eksperimentalni leveli"
 
+msgid "Failed to download achievements"
+msgstr "Neuspješno preuzimanje postignuća"
+
+msgid "Failed to download unlocked items"
+msgstr "Neuspješno preuzimanje otključanih stvari"
+
 msgid "Failed to parse server response"
 msgstr "Neuspješna rasčlaniranje odgovora servera."
 
 msgid "Failed to set up comments"
 msgstr "Neuspješno postavljanje komentara"
+
+msgid "Failed to upload achievements"
+msgstr "Neuspješno slanje postignuća"
 
 msgid "Game is full"
 msgstr "Igra je puna"
@@ -174,6 +183,9 @@ msgstr "Ultra nisko 4x"
 
 msgid "Ultra low 8x"
 msgstr "Ultra nisko 8x"
+
+msgid "Vibration %s"
+msgstr "Vibracija %s"
 
 msgid "Waiting for the server..."
 msgstr "Čekanje na server..."

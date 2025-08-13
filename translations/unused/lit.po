@@ -70,11 +70,20 @@ msgstr "Eksperimentiniai"
 msgid "Experimental levels"
 msgstr "Eksperimentiniai Lygiai"
 
+msgid "Failed to download achievements"
+msgstr "Nepavyko atsiųsti pasiekimų"
+
+msgid "Failed to download unlocked items"
+msgstr "Nepavyko atsiųsti atrakintus daiktus"
+
 msgid "Failed to parse server response"
 msgstr "Nepavyko išanalizuoti serverio atsakymo"
 
 msgid "Failed to set up comments"
 msgstr "Nepavyko paruošti komentarų"
+
+msgid "Failed to upload achievements"
+msgstr "Nepavyko įkelti pasiekimus"
 
 msgid "Game is full"
 msgstr "Žaidimas pilnas"
@@ -177,6 +186,9 @@ msgstr "Labai žema 8x"
 
 msgid "Unknown level"
 msgstr "Nežinomas lygis"
+
+msgid "Vibration %s"
+msgstr "Vibracija %s"
 
 msgid "Waiting for the server..."
 msgstr "Laukiama serverio..."

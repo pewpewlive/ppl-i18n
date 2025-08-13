@@ -157,6 +157,9 @@ msgstr "Ultra niedrig 4x"
 msgid "Ultra low 8x"
 msgstr "Ultra niedrig 8x"
 
+msgid "Vibration %s"
+msgstr "Vibration %s"
+
 msgid "Waiting for the server..."
 msgstr "Ein Moment bitte..."
 

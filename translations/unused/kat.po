@@ -49,8 +49,17 @@ msgstr "ექსპერიმენტული"
 msgid "Experimental levels"
 msgstr "ექსპერიმენტული ლეველები"
 
+msgid "Failed to download achievements"
+msgstr "მიღწევები ჩამოტვირთვა ვერ მოხერხდა"
+
+msgid "Failed to download unlocked items"
+msgstr "გახსნილ ნივთების ჩამოტვირთვა ვერ მოხერხდა"
+
 msgid "Failed to set up comments"
 msgstr "ვერ მოხერხდა კომენტარების დამატება"
+
+msgid "Failed to upload achievements"
+msgstr "მიღწევები გამოგზავნა ვერ მოხერხდა"
 
 msgid "High Scores"
 msgstr "მაღალი ქულები"
@@ -90,6 +99,9 @@ msgstr "ულტრა დაბალი 8x"
 
 msgid "Unknown level"
 msgstr "უცნობი ლეველი"
+
+msgid "Vibration %s"
+msgstr "ვიბრაცია %s"
 
 msgid "Your verified medals have been downloaded."
 msgstr "შენი დამოწმებული თასები ჩამოტვირთულია"

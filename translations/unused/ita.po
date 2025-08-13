@@ -70,11 +70,20 @@ msgstr "Sperimentale"
 msgid "Experimental levels"
 msgstr "Livelli Sperimentali"
 
+msgid "Failed to download achievements"
+msgstr "Download dei risultati fallito"
+
+msgid "Failed to download unlocked items"
+msgstr "Download degli oggetti sbloccati fallito"
+
 msgid "Failed to parse server response"
 msgstr "Elaborazione della risposta del server fallita"
 
 msgid "Failed to set up comments"
 msgstr "Impostazione dei commenti fallita"
+
+msgid "Failed to upload achievements"
+msgstr "Upload dei risultati fallito"
 
 msgid "Game is full"
 msgstr "Il gioco è pieno"
@@ -174,6 +183,9 @@ msgstr "Ultra bassa 8x"
 
 msgid "Unknown level"
 msgstr "Livello sconosciuto"
+
+msgid "Vibration %s"
+msgstr "Vibrazione: %s"
 
 msgid "Waiting for the server..."
 msgstr "Aspettando il server..."

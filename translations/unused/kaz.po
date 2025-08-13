@@ -22,8 +22,17 @@ msgstr "Электрондық поштаны растау:"
 msgid "Emails do not match!"
 msgstr "Электрондық пошталар бірдей емес."
 
+msgid "Failed to download achievements"
+msgstr "Жетістіктер жүктелмеді."
+
+msgid "Failed to download unlocked items"
+msgstr "Заттарды жүктеу амалға аспады"
+
 msgid "Failed to set up comments"
 msgstr "Пікірлер орнатылмады"
+
+msgid "Failed to upload achievements"
+msgstr "Жетістіктер жіберілді."
 
 msgid "High Scores"
 msgstr "Жазбалар"
@@ -51,6 +60,9 @@ msgstr "Пиксель 4x"
 
 msgid "Ultra low 8x"
 msgstr "Пиксель 8x"
+
+msgid "Vibration %s"
+msgstr "Діріл %s"
 
 msgid "Your verified medals have been downloaded."
 msgstr "Тексерілген медальдарыңыз сақталды."

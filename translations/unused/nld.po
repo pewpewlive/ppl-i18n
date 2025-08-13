@@ -46,8 +46,17 @@ msgstr "Experimenteel"
 msgid "Experimental levels"
 msgstr "Experimentele levels"
 
+msgid "Failed to download achievements"
+msgstr "Downloaden van prestaties mislukt"
+
+msgid "Failed to download unlocked items"
+msgstr "Downloaden van ontgrendelde items mislukt"
+
 msgid "Failed to set up comments"
 msgstr "Comments konden niet worden ingesteld"
+
+msgid "Failed to upload achievements"
+msgstr "Uploaden van prestaties mislukt"
 
 msgid "High Scores"
 msgstr "Top Scores"
@@ -57,6 +66,9 @@ msgstr "Meer informatie op github.com/jyaif/ppl-utils"
 
 msgid "Speed Runs"
 msgstr "Speed Runs"
+
+msgid "Vibration %s"
+msgstr "Vibratie %s"
 
 msgid "Your verified medals have been downloaded."
 msgstr "Je geverifieerde medailles zijn gedownload."

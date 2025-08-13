@@ -115,6 +115,9 @@ msgstr "レトロ 4x"
 msgid "Ultra low 8x"
 msgstr "レトロ 8x"
 
+msgid "Vibration %s"
+msgstr "バイブ %s"
+
 msgid "Yes!"
 msgstr "YES!"
 

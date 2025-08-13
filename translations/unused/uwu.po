@@ -19,14 +19,26 @@ msgstr "Confiwm email:"
 msgid "Emails do not match!"
 msgstr "Emails do not match :o"
 
+msgid "Failed to download achievements"
+msgstr "Failed to download your achievements :<"
+
+msgid "Failed to download unlocked items"
+msgstr "Failed to download unwocked items :<"
+
 msgid "Failed to set up comments"
 msgstr "Failed to set up comments :<"
+
+msgid "Failed to upload achievements"
+msgstr "Failed to upload achievements :<"
 
 msgid "High Scores"
 msgstr "High Scowes"
 
 msgid "Speed Runs"
 msgstr "Speed Runs"
+
+msgid "Vibration %s"
+msgstr ">///< %s"
 
 msgid "Your verified medals have been downloaded."
 msgstr "Your vewified medals have bween downloaded."
