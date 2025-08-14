@@ -1347,7 +1347,7 @@ msgid "Each player need to upload the replay separately to both appear in the on
 msgstr "Кожен гравець повинен завантажити повтор окремо, щоб обидва з’явилися в онлайн-таблиці лідерів."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:54
-msgid "Multiplayer help"cat
+msgid "Multiplayer help"
 msgstr "Допомога з мультиплеєром"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:101
