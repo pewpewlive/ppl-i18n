@@ -1314,16 +1314,8 @@ msgstr "Приєднатися до Бліцу"
 
 #. Explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:38
-msgid ""
-"Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\n"
-"During each round the goal is to score as much as possible.\n"
-"\n"
-"At the end of the competition, everybody is ranked based on their performance."
-msgstr ""
-"Бліц — це мультиплеєрні змагання, що складаються з кількох раундів, з максимальною кількістю гравців до 32.\n"
-"У кожному раунді мета — набрати якомога більше очок.\n"
-"\n"
-"Наприкінці змагання всі гравці отримують рейтинг відповідно до своїх результатів."
+msgid "Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\nDuring each round the goal is to score as much as possible.\n\nAt the end of the competition, everybody is ranked based on their performance."
+msgstr "Бліц — це мультиплеєрні змагання, що складаються з кількох раундів, з максимальною кількістю гравців до 32.\nУ кожному раунді мета — набрати якомога більше очок.\n\nНаприкінці змагання всі гравці отримують рейтинг відповідно до своїх результатів."
 
 #. Text appended to the explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:40
@@ -1355,7 +1347,7 @@ msgid "Each player need to upload the replay separately to both appear in the on
 msgstr "Кожен гравець повинен завантажити повтор окремо, щоб обидва з’явилися в онлайн-таблиці лідерів."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:54
-msgid "Multiplayer help"
+msgid "Multiplayer help"cat
 msgstr "Допомога з мультиплеєром"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:101
