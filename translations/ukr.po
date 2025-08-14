@@ -5,7 +5,7 @@
 #. "In Eskiv, score 10000 or more"
 #: /client/application/account/achievements_description.cpp:27
 msgid "In %1$s, score %2$s or more."
-msgstr "В %1$s, %2$s рекорд або більше."
+msgstr "В %1$s, отримайте рекорд %2$s або більше."
 
 #. The template for the description of inertic 1p score-related
 #. achievements. here "1p" means single player (as opposed for example to
@@ -16,31 +16,31 @@ msgstr "В %1$s, %2$s рекорд або більше."
 #. "In Eskiv, score 10000 or more with an inertic ship in 1p."
 #: /client/application/account/achievements_description.cpp:40
 msgid "In %1$s, score %2$s or more with an inertic ship in 1p."
-msgstr ""
+msgstr "В %1$s, отримайте рекорд %2$s або більше з інертік кораблем в одиночній грі."
 
 #. Title of the screen shown before the start of a blitz round.
 #. The %s is replaced with a number, for example:
 #. "Get ready for round 2!"
 #: /client/application/game/blitz/blitz_ui.cpp:24
 msgid "Get ready for round %s!"
-msgstr ""
+msgstr "Приготуйся до раунду %s!"
 
 #. Title of the screen that shows the score of every player at the end of a
 #. Blitz round.
 #: /client/application/game/blitz/blitz_ui.cpp:84
 msgid "Round results"
-msgstr ""
+msgstr "Результати раунду"
 
 #. Title of the screen that shows the rankings of all the players after
 #. multiple rounds of Blitz.
 #: /client/application/game/blitz/blitz_ui.cpp:190
 msgid "Overall ranking"
-msgstr ""
+msgstr "Загальний рейтинг"
 
 #. The string shown when a Blitz round is finished
 #: /client/application/game/blitz/blitz_ui.cpp:291
 msgid "Round finished!"
-msgstr ""
+msgstr "Раунд завершено!"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -123,7 +123,7 @@ msgstr "ніби Dodge This"
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:143
 msgid "Green good. Red bad."
-msgstr "Зелені добрі. Червоні поганці"
+msgstr "Зелені добрі. Червоні поганці."
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:162
@@ -312,65 +312,65 @@ msgstr "Не вдалося завантажити резервні дані"
 
 #: /client/application/game/quests/quest.cpp:10
 msgid "In any official level"
-msgstr ""
+msgstr "В будь-якому офіційному рівні"
 
 #: /client/application/game/quests/quest.cpp:13
 msgid "In level %s"
-msgstr ""
+msgstr "В рівні %s"
 
 #: /client/application/game/quests/quest.cpp:18
 msgid "In levels %s"
-msgstr ""
+msgstr "В рівнях %s"
 
 #. Shown in a notification when you improve your quest progress.
 #. Example of what it looks like:
 #. "Destroy 200 ROLLING_CUBE: 20 / 100 ⇨ 30 / 100"
 #: /client/application/game/quests/quest_manager.cpp:18
 msgid "%s: %s ⇨ %s"
-msgstr ""
+msgstr "%s: %s ⇨ %s"
 
 #. Shown in a notification when you complete a quest.
 #. Example of what it looks like:
 #. "Reach 8900 in one game: Complete! (20 / 100 ⇨ 30 / 100)"
 #: /client/application/game/quests/quest_manager.cpp:23
 msgid "%s: Complete! (%s ⇨ %s)"
-msgstr ""
+msgstr "%s: Виконано! (%s ⇨ %s)"
 
 #: /client/application/game/quests/quests.cpp:18
 msgid "%s minute(s)"
-msgstr ""
+msgstr "%s хвилина(и)"
 
 #: /client/application/game/quests/quests.cpp:22
 msgid "%s second(s)"
-msgstr ""
+msgstr "%s секунда(и)"
 
 #. The description of the quest that involves playing destroying a certain
 #. amount of enemies. The %1$s is replaced by a number. The %2$s is replaced
 #. by an enemy name. For example: "Destroy 200 Motherships"
 #: /client/application/game/quests/quests.cpp:127
 msgid "Destroy %1$s %2$s"
-msgstr ""
+msgstr "Знищіть %1$s %2$s"
 
 #. The description of the quest that involves reaching a certain score.
 #. The %s is replaced by a number, for example:
 #. "Reach the score of 10000"
 #: /client/application/game/quests/quests.cpp:181
 msgid "Reach %s in one game"
-msgstr ""
+msgstr "Досягти %s за одну гру"
 
 #. The description of the quest that involves surviving for a certain
 #. duration. The %s is replaced by a duration, for example: "Survive for 3
 #. minutes" "Survive for 40 seconds"
 #: /client/application/game/quests/quests.cpp:223
 msgid "Survive for %s in one game"
-msgstr ""
+msgstr "Вижити %s в одній грі"
 
 #. The description of the quest that involves playing accumulating a certain
 #. amount of pointonium. The %s is replaced by an amount, for example: "Farm
 #. 10000 points from pointonum"
 #: /client/application/game/quests/quests.cpp:269
 msgid "Farm %s points from pointonium"
-msgstr ""
+msgstr "Отримати %s з поінтоніуму"
 
 #. The description of the quest that involves playing a certain duration.
 #. The %s is replaced by a duration, for example:
@@ -378,18 +378,18 @@ msgstr ""
 #. "Play for 40 seconds"
 #: /client/application/game/quests/quests.cpp:315
 msgid "Play for %s"
-msgstr ""
+msgstr "Гратися %s"
 
 #. The description of the quest that involves playing multiplayer for a
 #. certain duration. The %s is replaced by a duration, for example: "Play
 #. multiplayer for 3 minutes" "Play multiplayer for 40 seconds"
 #: /client/application/game/quests/quests.cpp:353
 msgid "Play multiplayer for %s"
-msgstr ""
+msgstr "Гратися %s в мультиплеєр"
 
 #: /client/application/game/state/game_network_message_parser.cpp:58
 msgid "%s left the game"
-msgstr "%s покинув гру :("
+msgstr "%s покинув гру"
 
 #: /client/application/game/state/game_state.cpp:516
 msgid "N/A"
@@ -479,7 +479,7 @@ msgstr "Перезапуск"
 #. "Continuing in 13.23 seconds"
 #: /client/application/game/ui/pause_ui.cpp:140
 msgid "Continuing in %s seconds"
-msgstr ""
+msgstr "Продовження через %s секунд"
 
 #: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:78
 msgid "Loading..."
@@ -562,7 +562,7 @@ msgstr "Пошта недійсна!"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:47
 msgid "Too short. Minimum %s characters."
-msgstr "Занадто коротко. Мінімум %s символів"
+msgstr "Занадто коротко. Мінімум %s символів."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:54
 msgid "Too long. Maximum %s characters."
@@ -650,23 +650,23 @@ msgstr "Політика Конфіденційності"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:95
 msgid "You need to be signed-in to upload scores"
-msgstr "Ви маєте ввійти, щоб завантажувати рекорди"
+msgstr "Ви маєте увійти, щоб завантажувати рекорди"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:98
 msgid "You need to be signed-in to play online"
-msgstr "Ви маєте ввійти, щоб грати онлайн"
+msgstr "Ви маєте увійти, щоб грати онлайн"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:103
 msgid "You need to be signed-in to view comments"
-msgstr "Ви маєте ввійти, щоб переглянути коментарі"
+msgstr "Ви маєте увійти, щоб переглянути коментарі"
 
 #. Error message shown if to the player when they are trying to join
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr ""
+msgstr "Ви маєте увійти, щоб доєднатися до Бліцу"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -785,15 +785,15 @@ msgstr "Досягнення"
 
 #: /client/application/game/ui/screens/screen_career.cpp:194
 msgid "Extra XP"
-msgstr ""
+msgstr "Додаткове XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:219
 msgid "Quests: %s XP"
-msgstr ""
+msgstr "Квести: %s XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:224
 msgid "Badges: %s XP"
-msgstr ""
+msgstr "Значки: %s XP"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:59
 msgid "Configure Gamepad"
@@ -904,13 +904,13 @@ msgstr "Віньєтка"
 #. game.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Resolution"
-msgstr ""
+msgstr "Роздільна здатність"
 
 #. The name of the setting for when you select the "full" resolution, as
 #. opposed to downsampled resolutions.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:181
 msgid "Full"
-msgstr ""
+msgstr "Максимальна"
 
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:198
@@ -1035,127 +1035,127 @@ msgstr "Енциклопедія"
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:43
 msgid "A bumpy, white asteroid that floats in space. Shoot it and it splits into multiple smaller parts. Exists in 4 different sizes."
-msgstr ""
+msgstr "Білий астероїд, що плаває в космосі. Стріляйте в нього, і він розпадеться на кілька менших частин. Існує у 4 різних розмірах."
 
 #. Description of the "BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:52
 msgid "This yellow, arrow-shaped drone zips predictably back and forth."
-msgstr ""
+msgstr "Цей жовтий дрон у формі стрілки рухається туди-сюди передбачувано."
 
 #. Description of the "Red BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:61
 msgid "This red arrow-shaped drone mirrors the familiar movements of the standard BAF, but it is much stronger posing a greater threat."
-msgstr ""
+msgstr "Цей червоний дрон у формі стрілки повторює знайомі рухи стандартного BAF, але значно сильніший і становить більшу загрозу."
 
 #. Description of the "Blue BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:70
 msgid "Unlike its yellow and red counterparts, it bounces off walls in unpredictable directions, making its movement difficult to anticipate."
-msgstr ""
+msgstr "На відміну від своїх жовтого та червоного аналогів, він відскакує від стін у непередбачуваних напрямках, що ускладнює прогнозування його рухів."
 
 #. Description of the "Brownian" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:98
 msgid "A tetrahedron-shaped enemy that advances on your position with erratic, unpredictable movements."
-msgstr ""
+msgstr "Ворог у формі тетраедра, який наближається до вашої позиції хаотично та непередбачувано."
 
 #. Description of the "Crowders" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:115
 msgid "An octahedron-shaped enemy that slowly advances on you. Tends to form dense crowds with other Crowders."
-msgstr ""
+msgstr "Ворог у формі октаедра, який повільно наближається до вас. Має схильність утворювати щільні групи разом з іншими Crowders."
 
 #. Description of the "Dodger" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:123
 msgid "An hourglass-shaped enemy that advances towards the nearest ship while actively evading projectiles. Like Crowders, has a tendency to form crowds."
-msgstr ""
+msgstr "Ворог у формі пісочного годинника, який наближається до найближчого корабля, активно ухиляючись від снарядів. Як і Crowders, має схильність збиратися у групи."
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:131
 msgid "Made of rotating concentric circles, it plunges towards the nearest ship with inertia. Very resistant to damage, it can fortunately be repelled with bullets."
-msgstr ""
+msgstr "Складений із обертаючихся концентричних кіл, він стрімко мчить до найближчого корабля з інерцією. Дуже стійкий до пошкоджень, на щастя, його можна відштовхнути кулями."
 
 #. Description of the "Kamikaze" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:140
 msgid "A flying ship that relentlessly scans for a prey. Once it locks onto you, it immediately charges forward, attempting to ram you head-on"
-msgstr ""
+msgstr "Літаючий корабель, що невпинно шукає здобич. Щойно він націлюється на вас, одразу мчить уперед, намагаючись врізатися прямо в лоб"
 
 #. Description of the "Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:149
 msgid "A pink triangle-shaped mothership that roams the levels. Upon its destruction it unleashes three arcs of bullets from its sides."
-msgstr ""
+msgstr "Рожевий mothership у формі трикутника, що блукає рівнями. Після знищення випускає три дуги куль з боків."
 
 #. Description of the "Red Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:159
 msgid "A red square-shaped mothership that roams the levels. Upon its destruction it unleashes a barrage of homing bullets that pursue the nearest ship."
-msgstr ""
+msgstr "Червоний mothership у формі квадрата, що блукає рівнями. Після знищення випускає шквал самонавідних куль, які переслідують найближчий корабель."
 
 #. Description of the "Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:169
 msgid "An orange, pentagon-shaped mothership that roams the levels. Upon its destruction it fires six bullets in a hexagon pattern."
-msgstr ""
+msgstr "Помаранчевий mothership у формі п’ятикутника, що блукає рівнями. Після знищення стріляє шість куль у формі гексагонального візерунка."
 
 #. Description of the "Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:179
 msgid "A green, hexagon-shaped mothership that roams the levels. Upon its destruction it unleashes a circle of bullets."
-msgstr ""
+msgstr "Зелений mothership у формі шестикутника, що блукає рівнями. Після знищення випускає коло куль."
 
 #. Description of the "Cyan Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:189
 msgid "A cyan, heptagon-shaped mothership that roams the levels. Upon its destruction, it fires a dense arc of bullets towards the nearest ship."
-msgstr ""
+msgstr "Бірюзовий mothership у формі семикутника, що блукає рівнями. Після знищення випускає щільну дугу куль у напрямку найближчого корабля."
 
 #. Description of the "Super Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:199
 msgid "An extra-large, pink, triangle-shaped mothership. Upon its destruction, unleashes three arcs of large bullets from its sides."
-msgstr ""
+msgstr "Велетенський рожевий mothership у формі трикутника. Після знищення випускає три дуги великих куль з боків."
 
 #. Description of the "Super Red Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:209
 msgid "An extra-large, red, squared-shaped mothership. Upon its destruction, unleashes large homing bullets that actively pursue the nearest ship."
-msgstr ""
+msgstr "Велетенський червоний mothership у формі квадрата. Після знищення випускає великі самонавідні кулі, що активно переслідують найближчий корабель."
 
 #. Description of the "Super Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:219
 msgid "An extra-large orange, pentagon-shaped mothership. Upon its destruction it fires four times the number of bullets compared to its standard counterpart."
-msgstr ""
+msgstr "Велетенський помаранчевий mothership у формі п’ятикутника. Після знищення стріляє у чотири рази більше куль, ніж його стандартний аналог."
 
 #. Description of the "Super Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
 msgid "An extra-large green, hexagon-shaped mothership. Upon its destruction, fires an extremely dense circle of large and fast bullets."
-msgstr ""
+msgstr "Велетенський зелений mothership у формі шестикутника. Після знищення випускає надзвичайно щільне коло великих і швидких куль."
 
 #. Description of the "Super Cyan Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:239
 msgid "An extra-large cyan, heptagon-shaped mothership. Upon its destruction, fires a huge arc of large and fast bullets towards the nearest ship."
-msgstr ""
+msgstr "Велетенський бірюзовий mothership у формі семикутника. Після знищення випускає величезну дугу великих і швидких куль у напрямку найближчого корабля."
 
 #. Description of the "Rolling Cube" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:249
 msgid "A cube-shaped enemy that rolls through the levels. It constantly seeks out the nearest ship, and its speed increases progressively over time."
-msgstr ""
+msgstr "Ворог у формі куба, який котиться рівнями. Постійно шукає найближчий корабель, а його швидкість поступово зростає з часом."
 
 #. Description of the "Rolling Sphere" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:259
 msgid "A spherical enemy that rolls around the levels, bouncing off walls. While immune to standard bullets, it will shrink when hit by a Freeze bomb."
-msgstr ""
+msgstr "Сферичний ворог, що катається рівнями, відскакуючи від стін. Невразливий до звичайних куль, але зменшується після влучання бомби Замороження."
 
 #. Description of the "Spiny" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:287
 msgid "An arrow-shaped enemy that moves along circular paths, bouncing of walls. Possesses a tendency to drift towards nearby ships."
-msgstr ""
+msgstr "Ворог у формі стрілки, що рухається по колових траєкторіях, відскакуючи від стін. Має схильність дрейфувати до найближчих кораблів."
 
 #. Description of the "Splitter" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:295
 msgid "A pink, flower-shaped enemy that drifts in random directions. Upon its destruction, it unleashes petals that scatter in a circular pattern."
-msgstr ""
+msgstr "Рожевий ворог у формі квітки, що дрейфує в довільних напрямках. Після знищення випускає пелюстки, які розлітаються у коловому візерунку."
 
 #. Description of the "UFO" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:303
 msgid "A red, flying saucer shaped enemy that glides across the levels. Regularly shoot bullets towards the nearest ship that also happen to damage other enemies."
-msgstr ""
+msgstr "Червоний ворог у формі літаючої тарілки, що ковзає рівнями. Регулярно стріляє кулями в напрямку найближчого корабля, які також можуть пошкодити інших ворогів."
 
 #. Description of the "Wary" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:313
 msgid "A small blue-purple hexagon-shaped enemy that wanders aimlessly through the levels. Fires homing bullets towards the nearest ship."
-msgstr ""
+msgstr "Малий синьо-фіолетовий ворог у формі шестикутника, що безцільно блукає рівнями. Стріляє самонавідними кулями в напрямку найближчого корабля."
 
 #. A string in the Encyclopedia used to show the
 #. stats (Health, Damage, Score) of an enemy
@@ -1163,7 +1163,7 @@ msgstr ""
 #. Meaning based on certain properties of the enemy, it can be 10, 5 or 2
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:368
 msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
-msgstr ""
+msgstr "#00ff00ffЗдоров'я: %s#ffffffff, #ff0000ffУрон: %s#ffffffff, #ffff00ffОчки: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
@@ -1310,17 +1310,17 @@ msgstr "завантажено <%s>"
 #. The text in the button that players press to join a Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:21
 msgid "Join Blitz"
-msgstr ""
+msgstr "Приєднатися до Бліцу"
 
 #. Explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:38
 msgid "Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\nDuring each round the goal is to score as much as possible.\n\nAt the end of the competition, everybody is ranked based on their performance."
-msgstr ""
+msgstr "Бліц — це мультиплеєрні змагання, що складаються з кількох раундів, з максимальною кількістю гравців до 32.\nУ кожному раунді мета — набрати якомога більше очок.\n\nНаприкінці змагання всі гравці отримують рейтинг відповідно до своїх результатів."
 
 #. Text appended to the explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:40
 msgid "Good luck!"
-msgstr ""
+msgstr "Хай щастить!"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
@@ -1388,22 +1388,22 @@ msgstr "Нові Предмети"
 #. data you want to erase from disk.
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:15
 msgid "Manage local data"
-msgstr ""
+msgstr "Керувати локальними даними"
 
 #. Shown in the button that erases local leaderboards
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:51
 msgid "Erase local leaderboards"
-msgstr ""
+msgstr "Видалити локальні таблиці лідерів"
 
 #. Shown in the button that erases local replays
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:60
 msgid "Erase local replays"
-msgstr ""
+msgstr "Видалити локальні повтори"
 
 #. Shown in the button that resets the daily quest.
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:74
 msgid "Reset daily quest"
-msgstr ""
+msgstr "Скинути щоденні квести"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:108
 msgid "Room is full"
@@ -1540,12 +1540,12 @@ msgstr "Оновити"
 #. Blitz
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:160
 msgid "Joining Blitz"
-msgstr ""
+msgstr "Приєднання до Бліцу"
 
 #. Message shown when a player is disconnected from a Blitz
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:188
 msgid "Disconnected from Blitz"
-msgstr ""
+msgstr "Відключено від Бліцу"
 
 #. Error message for when a "connection error" caused the disconnection
 #. of a player from a Blitz
@@ -1557,7 +1557,7 @@ msgstr "Помилка з'єднання"
 #. previous Blitz to finish.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:330
 msgid "Waiting for previous Blitz..."
-msgstr ""
+msgstr "Очікування минулого Бліцу..."
 
 #. The string shown while waiting for additional players to join a
 #. Blitz. For the record, the number of players required and the number
@@ -1565,19 +1565,19 @@ msgstr ""
 #. will be shown: "Waiting for players 7/10"
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:340
 msgid "Waiting for players"
-msgstr ""
+msgstr "Очікування гравців"
 
 #. Shown during a Blitz. Is used for showing how much time is left
 #. before the next round starts. The % is replaced with a time in
 #. seconds, for example: Starting in 5.3s
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:559
 msgid "Starting in %s"
-msgstr ""
+msgstr "Починаємо через %s"
 
 #. Text shown when the player tries to exit a Blitz.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:620
 msgid "Are you sure you want to exit the Blitz?"
-msgstr ""
+msgstr "Ви впевнені, що хочете покинути Бліц?"
 
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:595
 msgctxt "menu_confirm_action"
@@ -1592,31 +1592,31 @@ msgstr "Ні"
 #. The string shown in a button to claim rewards from completing a quest
 #: /client/application/game/ui/screens/screen_quests.cpp:153
 msgid "Claim"
-msgstr ""
+msgstr "Отримати"
 
 #. The title of the screen that shows the quests available
 #: /client/application/game/ui/screens/screen_quests.cpp:191
 msgid "Quests"
-msgstr ""
+msgstr "Квести"
 
 #. Message shown when downloading quests has failed.
 #: /client/application/game/ui/screens/screen_quests.cpp:271
 msgid "Failed to download quests"
-msgstr ""
+msgstr "Помилка при завантаженні квестів"
 
 #. Message shown when the game is too old and needs to be updated to
 #. support the new quests.
 #: /client/application/game/ui/screens/screen_quests.cpp:283
 msgid "Incompatible quests: the game needs to be updated."
-msgstr ""
+msgstr "Несумісні квести: потрібно оновити гру."
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:62
 msgid "Failed to claim! No internet?"
-msgstr ""
+msgstr "Не вдалося отримати XP! Немає інтернету?"
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:94
 msgid "Successfully claimed XP!"
-msgstr ""
+msgstr "XP успішно отримано!"
 
 #: /client/application/game/ui/screens/screen_select_development_level.cpp:19
 msgid "Developer mode"
@@ -1779,7 +1779,7 @@ msgstr "Інтерфейс"
 #. Label used to show a vibration setting next to an on/off switch
 #: /client/application/game/ui/screens/screen_settings.cpp:123
 msgid "Vibration"
-msgstr ""
+msgstr "Вібрація"
 
 #: /client/application/game/ui/screens/screen_settings.cpp:141
 msgid "Start tutorial"
@@ -1966,25 +1966,25 @@ msgstr "Завантаження повтору для %s."
 #. (=no filtering is done).
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:39
 msgid "all"
-msgstr ""
+msgstr "усі"
 
 #. Shown in the achievement filter, when only the "very high scores"
 #. achievements are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:42
 msgid "very high score"
-msgstr ""
+msgstr "високий рахунок"
 
 #. Shown in the achievement filter, when only "inertic" achievements are
 #. listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:45
 msgid "inertic"
-msgstr ""
+msgstr "інертік"
 
 #. Shown in the achievement filter, when the uncategorized achievements
 #. are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:48
 msgid "other"
-msgstr ""
+msgstr "інше"
 
 #. Shown when a user disables comments on their profile and or levels.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:207
@@ -2044,7 +2044,7 @@ msgstr "Коментувати"
 #. less than 3 character long.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:505
 msgid "Comment must be at least 3 characters long."
-msgstr "Коментар має містити щонайменше 3 символа"
+msgstr "Коментар має містити щонайменше 3 символа."
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:521
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
@@ -2080,7 +2080,7 @@ msgstr "Додати коментар"
 
 #. The title shown when looking at the replies posted on a comment.
 #. The %s gets replaced with the comment content.
-#. 
+#.
 #. For example:
 #. Replies to "Hello this is my comment"
 #: /client/application/game/ui/screens/screen_view_and_add_comments.h:20
@@ -2184,7 +2184,7 @@ msgstr "Процент золотих медалей: %s"
 
 #: /client/application/game/ui/screens/screen_view_xp_leaderboard.cpp:81
 msgid "( excluding Extra XP )"
-msgstr ""
+msgstr "( виключаючи Додаткове XP )"
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:84
 msgid "Failed to read replay."
@@ -2441,4 +2441,3 @@ msgstr "Матовий Сірий"
 #: /client/application/utils/version.cpp:73
 msgid "Update available %s"
 msgstr "Доступна нова версія гри %s"
-
