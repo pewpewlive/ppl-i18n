@@ -5,7 +5,7 @@
 #. "In Eskiv, score 10000 or more"
 #: /client/application/account/achievements_description.cpp:27
 msgid "In %1$s, score %2$s or more."
-msgstr "Lygyje %1$s, gauti %2$s ar daugiau taškų"
+msgstr "%1$s lygyje, gauti %2$s ar daugiau taškų"
 
 #. The template for the description of inertic 1p score-related
 #. achievements. here "1p" means single player (as opposed for example to
@@ -16,31 +16,31 @@ msgstr "Lygyje %1$s, gauti %2$s ar daugiau taškų"
 #. "In Eskiv, score 10000 or more with an inertic ship in 1p."
 #: /client/application/account/achievements_description.cpp:40
 msgid "In %1$s, score %2$s or more with an inertic ship in 1p."
-msgstr ""
+msgstr "%1$s lygyje, gauti %2$s ar daugiau su „inertic“ laivu 1 ž. režime."
 
 #. Title of the screen shown before the start of a blitz round.
 #. The %s is replaced with a number, for example:
 #. "Get ready for round 2!"
 #: /client/application/game/blitz/blitz_ui.cpp:24
 msgid "Get ready for round %s!"
-msgstr ""
+msgstr "Pasiruošk %s raundui!"
 
 #. Title of the screen that shows the score of every player at the end of a
 #. Blitz round.
 #: /client/application/game/blitz/blitz_ui.cpp:84
 msgid "Round results"
-msgstr ""
+msgstr "Raundo rezultatai"
 
 #. Title of the screen that shows the rankings of all the players after
 #. multiple rounds of Blitz.
 #: /client/application/game/blitz/blitz_ui.cpp:190
 msgid "Overall ranking"
-msgstr ""
+msgstr "Bendras reitingas"
 
 #. The string shown when a Blitz round is finished
 #: /client/application/game/blitz/blitz_ui.cpp:291
 msgid "Round finished!"
-msgstr ""
+msgstr "Raundas baigėsi!"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -312,65 +312,65 @@ msgstr "Nepavyko atsiųsti atsarginės kopijos"
 
 #: /client/application/game/quests/quest.cpp:10
 msgid "In any official level"
-msgstr ""
+msgstr "Bet kokiame oficialiame lygyje"
 
 #: /client/application/game/quests/quest.cpp:13
 msgid "In level %s"
-msgstr ""
+msgstr "%s lygyje"
 
 #: /client/application/game/quests/quest.cpp:18
 msgid "In levels %s"
-msgstr ""
+msgstr "%s lygiuose"
 
 #. Shown in a notification when you improve your quest progress.
 #. Example of what it looks like:
 #. "Destroy 200 ROLLING_CUBE: 20 / 100 ⇨ 30 / 100"
 #: /client/application/game/quests/quest_manager.cpp:18
 msgid "%s: %s ⇨ %s"
-msgstr ""
+msgstr "%s: %s ⇨ %s"
 
 #. Shown in a notification when you complete a quest.
 #. Example of what it looks like:
 #. "Reach 8900 in one game: Complete! (20 / 100 ⇨ 30 / 100)"
 #: /client/application/game/quests/quest_manager.cpp:23
 msgid "%s: Complete! (%s ⇨ %s)"
-msgstr ""
+msgstr "%s: Baigtas! (%s ⇨ %s)"
 
 #: /client/application/game/quests/quests.cpp:18
 msgid "%s minute(s)"
-msgstr ""
+msgstr "%s min."
 
 #: /client/application/game/quests/quests.cpp:22
 msgid "%s second(s)"
-msgstr ""
+msgstr "%s sek."
 
 #. The description of the quest that involves playing destroying a certain
 #. amount of enemies. The %1$s is replaced by a number. The %2$s is replaced
 #. by an enemy name. For example: "Destroy 200 Motherships"
 #: /client/application/game/quests/quests.cpp:127
 msgid "Destroy %1$s %2$s"
-msgstr ""
+msgstr "Sunaikink %1$s %2$s"
 
 #. The description of the quest that involves reaching a certain score.
 #. The %s is replaced by a number, for example:
 #. "Reach the score of 10000"
 #: /client/application/game/quests/quests.cpp:181
 msgid "Reach %s in one game"
-msgstr ""
+msgstr "Pasiek %s per vieną žaidimą"
 
 #. The description of the quest that involves surviving for a certain
 #. duration. The %s is replaced by a duration, for example: "Survive for 3
 #. minutes" "Survive for 40 seconds"
 #: /client/application/game/quests/quests.cpp:223
 msgid "Survive for %s in one game"
-msgstr ""
+msgstr "Išgyvenk %s per vieną žaidimą"
 
 #. The description of the quest that involves playing accumulating a certain
 #. amount of pointonium. The %s is replaced by an amount, for example: "Farm
 #. 10000 points from pointonum"
 #: /client/application/game/quests/quests.cpp:269
 msgid "Farm %s points from pointonium"
-msgstr ""
+msgstr "Surink %s taškų iš taškų kristalų"
 
 #. The description of the quest that involves playing a certain duration.
 #. The %s is replaced by a duration, for example:
@@ -378,14 +378,14 @@ msgstr ""
 #. "Play for 40 seconds"
 #: /client/application/game/quests/quests.cpp:315
 msgid "Play for %s"
-msgstr ""
+msgstr "Žaisk %s"
 
 #. The description of the quest that involves playing multiplayer for a
 #. certain duration. The %s is replaced by a duration, for example: "Play
 #. multiplayer for 3 minutes" "Play multiplayer for 40 seconds"
 #: /client/application/game/quests/quests.cpp:353
 msgid "Play multiplayer for %s"
-msgstr ""
+msgstr "Žaisk tinkle %s"
 
 #: /client/application/game/state/game_network_message_parser.cpp:58
 msgid "%s left the game"
@@ -479,7 +479,7 @@ msgstr "Iš naujo"
 #. "Continuing in 13.23 seconds"
 #: /client/application/game/ui/pause_ui.cpp:140
 msgid "Continuing in %s seconds"
-msgstr ""
+msgstr "Tęsiama po %s sek."
 
 #: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:78
 msgid "Loading..."
@@ -666,7 +666,7 @@ msgstr "Norėdami peržiūrėti komentarus, jūs turite prisijungti"
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr ""
+msgstr "Jūs turite būti prisijungę, kad žaistumėte „Blitz“"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -785,15 +785,15 @@ msgstr "Pasiekimai"
 
 #: /client/application/game/ui/screens/screen_career.cpp:194
 msgid "Extra XP"
-msgstr ""
+msgstr "Papildomi XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:219
 msgid "Quests: %s XP"
-msgstr ""
+msgstr "Iššūkiai: %s XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:224
 msgid "Badges: %s XP"
-msgstr ""
+msgstr "Ženkleliai: %s XP"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:59
 msgid "Configure Gamepad"
@@ -904,13 +904,13 @@ msgstr "Vinjetė"
 #. game.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Resolution"
-msgstr ""
+msgstr "Skiriamoji geba"
 
 #. The name of the setting for when you select the "full" resolution, as
 #. opposed to downsampled resolutions.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:181
 msgid "Full"
-msgstr ""
+msgstr "Pilna"
 
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:198
@@ -1163,7 +1163,7 @@ msgstr ""
 #. Meaning based on certain properties of the enemy, it can be 10, 5 or 2
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:368
 msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
-msgstr ""
+msgstr "#00ff00ffGyvybės: %s#ffffffff, #ff0000ffŽala: %s#ffffffff, #ffff00ffTaškai: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
@@ -1310,17 +1310,17 @@ msgstr "įkeltas „%s“"
 #. The text in the button that players press to join a Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:21
 msgid "Join Blitz"
-msgstr ""
+msgstr "Prisijungti prie „Blitz“"
 
 #. Explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:38
 msgid "Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\nDuring each round the goal is to score as much as possible.\n\nAt the end of the competition, everybody is ranked based on their performance."
-msgstr ""
+msgstr "„Blitz“ yra žaidimo tinkle varžybos, sudarytos iš kelių raundų, kuriose gali žaisti iki 32 žaidėjų.\nKiekvieno raundo metu tikslas yra gauti kiek įmanoma daugiau taškų.\n\nVaržybų pabaigoje visi yra reitinguojami remiantis kiekvieno žaidėjo pasiekimais."
 
 #. Text appended to the explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:40
 msgid "Good luck!"
-msgstr ""
+msgstr "Sekmės!"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
@@ -1388,22 +1388,22 @@ msgstr "Nauji daiktai"
 #. data you want to erase from disk.
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:15
 msgid "Manage local data"
-msgstr ""
+msgstr "Vietinių duomenų parinktys"
 
 #. Shown in the button that erases local leaderboards
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:51
 msgid "Erase local leaderboards"
-msgstr ""
+msgstr "Pašalinti vietines žaidimų lenteles"
 
 #. Shown in the button that erases local replays
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:60
 msgid "Erase local replays"
-msgstr ""
+msgstr "Pašalinti vietinius žaidimo pakartojimus"
 
 #. Shown in the button that resets the daily quest.
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:74
 msgid "Reset daily quest"
-msgstr ""
+msgstr "Nustatyti iš naujo dieninius iššūkius"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:108
 msgid "Room is full"
@@ -1540,12 +1540,12 @@ msgstr "Atnaujinti"
 #. Blitz
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:160
 msgid "Joining Blitz"
-msgstr ""
+msgstr "Prisijungiama prie „Blitz“"
 
 #. Message shown when a player is disconnected from a Blitz
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:188
 msgid "Disconnected from Blitz"
-msgstr ""
+msgstr "Nutrūko ryšys nuo „Blitz“"
 
 #. Error message for when a "connection error" caused the disconnection
 #. of a player from a Blitz
@@ -1557,7 +1557,7 @@ msgstr "Ryšio klaida"
 #. previous Blitz to finish.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:330
 msgid "Waiting for previous Blitz..."
-msgstr ""
+msgstr "Laukiama, kol pasibaigs dabartinis „Blitz“..."
 
 #. The string shown while waiting for additional players to join a
 #. Blitz. For the record, the number of players required and the number
@@ -1565,19 +1565,19 @@ msgstr ""
 #. will be shown: "Waiting for players 7/10"
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:340
 msgid "Waiting for players"
-msgstr ""
+msgstr "Laukiama žaidėjų"
 
 #. Shown during a Blitz. Is used for showing how much time is left
 #. before the next round starts. The % is replaced with a time in
 #. seconds, for example: Starting in 5.3s
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:559
 msgid "Starting in %s"
-msgstr ""
+msgstr "Prasideda po %s"
 
 #. Text shown when the player tries to exit a Blitz.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:620
 msgid "Are you sure you want to exit the Blitz?"
-msgstr ""
+msgstr "Ar tikrai norite išeiti iš „Blitz“?"
 
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:595
 msgctxt "menu_confirm_action"
@@ -1592,31 +1592,31 @@ msgstr "Ne"
 #. The string shown in a button to claim rewards from completing a quest
 #: /client/application/game/ui/screens/screen_quests.cpp:153
 msgid "Claim"
-msgstr ""
+msgstr "Užbaigti"
 
 #. The title of the screen that shows the quests available
 #: /client/application/game/ui/screens/screen_quests.cpp:191
 msgid "Quests"
-msgstr ""
+msgstr "Iššūkiai"
 
 #. Message shown when downloading quests has failed.
 #: /client/application/game/ui/screens/screen_quests.cpp:271
 msgid "Failed to download quests"
-msgstr ""
+msgstr "Nepavyko atsisųsti iššūkių"
 
 #. Message shown when the game is too old and needs to be updated to
 #. support the new quests.
 #: /client/application/game/ui/screens/screen_quests.cpp:283
 msgid "Incompatible quests: the game needs to be updated."
-msgstr ""
+msgstr "Nesuderinami iššūkiai: žaidimas turi būti atnaujintas."
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:62
 msgid "Failed to claim! No internet?"
-msgstr ""
+msgstr "Nepavyko užbaigti! Nėra interneto?"
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:94
 msgid "Successfully claimed XP!"
-msgstr ""
+msgstr "Užbaigtas iššūkis ir gavote XP!"
 
 #: /client/application/game/ui/screens/screen_select_development_level.cpp:19
 msgid "Developer mode"
@@ -1779,7 +1779,7 @@ msgstr "Vartotojo sąsaja"
 #. Label used to show a vibration setting next to an on/off switch
 #: /client/application/game/ui/screens/screen_settings.cpp:123
 msgid "Vibration"
-msgstr ""
+msgstr "Vibracija"
 
 #: /client/application/game/ui/screens/screen_settings.cpp:141
 msgid "Start tutorial"
@@ -1966,25 +1966,25 @@ msgstr "Įkeliamas žaidimo pakartojimas %s lygiui."
 #. (=no filtering is done).
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:39
 msgid "all"
-msgstr ""
+msgstr "visi"
 
 #. Shown in the achievement filter, when only the "very high scores"
 #. achievements are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:42
 msgid "very high score"
-msgstr ""
+msgstr "labai aukšti taškai"
 
 #. Shown in the achievement filter, when only "inertic" achievements are
 #. listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:45
 msgid "inertic"
-msgstr ""
+msgstr "„inertic“"
 
 #. Shown in the achievement filter, when the uncategorized achievements
 #. are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:48
 msgid "other"
-msgstr ""
+msgstr "kiti"
 
 #. Shown when a user disables comments on their profile and or levels.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:207
@@ -2184,7 +2184,7 @@ msgstr "Aukso medalį pasiekę: %s"
 
 #: /client/application/game/ui/screens/screen_view_xp_leaderboard.cpp:81
 msgid "( excluding Extra XP )"
-msgstr ""
+msgstr "( neįskaitant papildomo XP )"
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:84
 msgid "Failed to read replay."
