@@ -2,7 +2,7 @@ name: Mistake Checker
 
 on:
   pull_request_target:
-    branches: [ master ]
+    branches: [master]
     paths:
       - "translations/**"
 
@@ -10,7 +10,7 @@ jobs:
   getfiles:
     name: Check changed files for mistakes
     runs-on: ubuntu-latest
-    
+
     permissions:
       pull-requests: write
       issues: write
@@ -22,7 +22,7 @@ jobs:
 
       - uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.10"
 
       - name: Check changed files for mistakes
         id: mistakes
@@ -30,7 +30,7 @@ jobs:
         run: |
           echo $(python ${{ github.workspace }}/.github/workflows/mistake_check.py ${{ github.event.pull_request.number }}) > mistakes.txt
           echo ${{ github.event.pull_request.number }} > number.txt
-          
+
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v4
         with:
@@ -38,7 +38,7 @@ jobs:
           path: |
             mistakes.txt
             number.txt
-            
+
       - name: Output detected mistakes if any
         uses: actions/github-script@v6
         with:
@@ -46,7 +46,8 @@ jobs:
           script: |
             let fs = require('fs');
             const mistakes = JSON.parse(fs.readFileSync('./mistakes.txt').toString());
-
+            let mistakeConditions = mistakes.map(mistake => mistake.condition).join("");
+            const invalidTranslation = /invalid_format|invalid_colors_and_format|modified_msgid/gm;
             if (mistakes.length !== 0)
-              if (mistakes.map(mistake => mistake.condition).includes("invalid_format"))
+              if (invalidTranslation.test(mistakeConditions))
                   core.setFailed("Mistakes found! Check comment for more details");

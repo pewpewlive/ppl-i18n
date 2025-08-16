@@ -22,15 +22,17 @@ def main():
 
 
 def color_check(id_text: str, str_text: str) -> bool:
-    id_color_count = len(re.findall(r"#(?:[0-9a-fA-F]{2}){4}", id_text))
-    str_color_count = len(re.findall(r"#(?:[0-9a-fA-F]{2}){4}", str_text))
+    color_regex = re.compile(r"#(?:[0-9a-fA-F]{2}){4}")
+    id_color_count = len(re.findall(color_regex, id_text))
+    str_color_count = len(re.findall(color_regex, str_text))
 
     return id_color_count == str_color_count
 
 
 def format_check(id_text: str, str_text: str) -> bool:
-    id_s = re.findall(r"%s|%([1-9][0-9]*)\$s", id_text)
-    str_s = re.findall(r"%s|%([1-9][0-9]*)\$s", str_text)
+    format_specifier_regex = re.compile(r"%s|%([1-9][0-9]*)\$s")
+    id_s = re.findall(format_specifier_regex, id_text)
+    str_s = re.findall(format_specifier_regex, str_text)
     id_s.sort()
     str_s.sort()
 
@@ -42,6 +44,8 @@ def condition(valid_colors: bool, valid_format: bool) -> str:
         return "invalid_colors_and_format"
     elif not valid_colors:
         return "invalid_colors"
+    elif not valid_format:
+        return "invalid_format"
     elif not valid_format:
         return "invalid_format"
     else:
@@ -58,12 +62,23 @@ def parse(page: list[str]):
             continue
 
         current_line_number += 1
-        if line.startswith(" msgid"):
+        if line.startswith(" msgid") or line.startswith("-msgid"):
             id_text = line.rstrip()[8:-1]
             continue
 
         if line.startswith("-msgstr"):
             current_line_number -= 1
+            continue
+
+        if line.startswith("+msgid") and id_text != "":
+            parsed_strings.append(
+                {
+                    "condition": "modified_msgid",
+                    "line": current_line_number - 1,
+                    "id": id_text,
+                    "str": line.rstrip()[8:-1],
+                }
+            )
             continue
 
         if not line.startswith("+msgstr"):
