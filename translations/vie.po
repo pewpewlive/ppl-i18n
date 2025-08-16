@@ -1207,8 +1207,8 @@ msgstr "%1$s (v%2$s) đã được phát hành"
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
 #: /client/application/game/ui/screens/screen_feed.cpp:59
-msgid "%1$s wrote: \"%2$s\"
-msgstr "%1$s bình luận: \"%2$s\"
+msgid "%1$s wrote: \"%2$s\""
+msgstr "%1$s bình luận: \"%2$s\""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:515
 msgid "Global feed"
@@ -2297,7 +2297,7 @@ msgstr "Cấp: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:261
 msgid "IN REVIEW"
-msgstr "ĐANG XEM LẠI"
+msgstr "ĐANG XEM XÉT"
 
 #: /client/application/game/ui/views/game_hud.cpp:11
 msgid "Shield: %s"
