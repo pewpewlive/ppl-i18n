@@ -65,20 +65,20 @@ jobs:
                 switch (mistake.condition) {
                   case 'invalid_format':
                     message += '--- Non-Matching use of %s\n';
-                    message += `+ msgid "${mistake.id}"\n`;
-                    message += `- msgstr "${mistake.str}"\n`;
                     break;
                   case 'invalid_colors':
                     message += '!!! Possible misuse of colors\n';
-                    message += `+ msgid "${mistake.id}"\n`;
-                    message += `- msgstr "${mistake.str}"\n`;
                     break;
                   case 'invalid_colors_and_format':
                     message += '--- Non-Matching use of %s and colors\n';
-                    message += `+ msgid "${mistake.id}"\n`;
-                    message += `- msgstr "${mistake.str}"\n`;
+                    break;
+                  case 'modified_msgid':
+                    message += '--- Modified original string id\n';
                     break;
                 }
+
+                message += `+ msgid "${mistake.id}"\n`;
+                message += `- msgstr "${mistake.str}"\n`;
                 
                 if (mistakes.indexOf(mistake) !== mistakes.length - 1) {
                   message += '***************\n';
