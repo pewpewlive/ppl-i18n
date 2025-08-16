@@ -1100,62 +1100,62 @@ msgstr "Bosqichlarda daydidigan, olti burchakli, yashil ona-kema. Halok bo'layot
 #. Description of the "Cyan Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:189
 msgid "A cyan, heptagon-shaped mothership that roams the levels. Upon its destruction, it fires a dense arc of bullets towards the nearest ship."
-msgstr ""
+msgstr "Yettiburchak shaklidagi moviy onakema. Bosqichlarda daydib yuradi. Halok bo'lsa, eng yaqin o'yinchi tomon o'qlarning zich yoyini chiqaradi."
 
 #. Description of the "Super Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:199
 msgid "An extra-large, pink, triangle-shaped mothership. Upon its destruction, unleashes three arcs of large bullets from its sides."
-msgstr ""
+msgstr "Uchburchak shaklidagi o'ta ulkan onakema. Yo'q qilinsa, uch tomonidan ulkan o'qlar yoyini chiqaradi"
 
 #. Description of the "Super Red Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:209
 msgid "An extra-large, red, squared-shaped mothership. Upon its destruction, unleashes large homing bullets that actively pursue the nearest ship."
-msgstr ""
+msgstr "O'ta ulkan, qizil, kvadrat onakema. Yo'q qilinsa, eng yaqin kemani ta'qib etuvchi ulkan o'qlar chiqaradi."
 
 #. Description of the "Super Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:219
 msgid "An extra-large orange, pentagon-shaped mothership. Upon its destruction it fires four times the number of bullets compared to its standard counterpart."
-msgstr ""
+msgstr "O'ta ulkan, olovrang, bechburchak onakema. Yo'q qilinganida, standart nusxasidan to'rt karra ko'proq o'qlar otadi."
 
 #. Description of the "Super Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
 msgid "An extra-large green, hexagon-shaped mothership. Upon its destruction, fires an extremely dense circle of large and fast bullets."
-msgstr ""
+msgstr "Juda katta, yashil, oltiburchak onakema. Yo'q qilingan zahoti, o'zidan katta va tezkor o'qlarning zich aylanasini chiqaradi."
 
 #. Description of the "Super Cyan Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:239
 msgid "An extra-large cyan, heptagon-shaped mothership. Upon its destruction, fires a huge arc of large and fast bullets towards the nearest ship."
-msgstr ""
+msgstr "Bahaybat, moviy, yettiburchak onakema. Halok bo'lgan on, eng yaqin kema tomon, katta va tezkor o'qlardan yasalgan yoy bilan hujum qiladi."
 
 #. Description of the "Rolling Cube" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:249
 msgid "A cube-shaped enemy that rolls through the levels. It constantly seeks out the nearest ship, and its speed increases progressively over time."
-msgstr ""
+msgstr "Bosqich bo'ylab dumalab yuradigan kubsimon raqib. Tinimsiz o'lja izlab yuradi va tezligi vaqt o'tgani sayin oshib boraaveradi."
 
 #. Description of the "Rolling Sphere" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:259
 msgid "A spherical enemy that rolls around the levels, bouncing off walls. While immune to standard bullets, it will shrink when hit by a Freeze bomb."
-msgstr ""
+msgstr "Bosqich bo'ylab yumalab yuradigan va devorlarga urilib harakatlanadigan sharsimon dushman. Oddiy o'qlar unga ziyon yetkazmaydi, lekin muzlatuvchi bomba uni kichraytirib qo'yishi mumkin."
 
 #. Description of the "Spiny" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:287
 msgid "An arrow-shaped enemy that moves along circular paths, bouncing of walls. Possesses a tendency to drift towards nearby ships."
-msgstr ""
+msgstr "Aylana bo'ylab harakatlanuvchi va devorlardan urilib uchuvchi o'qsimon dushman. Eng yaqin kemaga urilishga moyil."
 
 #. Description of the "Splitter" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:295
 msgid "A pink, flower-shaped enemy that drifts in random directions. Upon its destruction, it unleashes petals that scatter in a circular pattern."
-msgstr ""
+msgstr "Tartibsiz yo'nalishga ega, gulsimon, pushti yov. Halok bo'lganda, aylana bo'ylab harakatlanuvchi barglar bilan o't ochadi."
 
 #. Description of the "UFO" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:303
 msgid "A red, flying saucer shaped enemy that glides across the levels. Regularly shoot bullets towards the nearest ship that also happen to damage other enemies."
-msgstr ""
+msgstr "Bosqichlarda sudralib harakatlanuvchi, qizil NUJ. Boshqa yovlarni jarohatlovchi o'qlar bilan eng yaqin kemaga doimiy ravishda o'q uzadi."
 
 #. Description of the "Wary" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:313
 msgid "A small blue-purple hexagon-shaped enemy that wanders aimlessly through the levels. Fires homing bullets towards the nearest ship."
-msgstr ""
+msgstr "Oltiburchak shaklidagi, ko'k-siyohrang, kichik dushmancha. Maqsadsiz harakatlanib yuradi. O'zi uchar o'qlar bilan hamla qiladi."
 
 #. A string in the Encyclopedia used to show the
 #. stats (Health, Damage, Score) of an enemy
@@ -1163,7 +1163,7 @@ msgstr ""
 #. Meaning based on certain properties of the enemy, it can be 10, 5 or 2
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:368
 msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
-msgstr ""
+msgstr "00ff00ffSog'liq: %s#ffffffff, #ff0000ffZarar: %s#ffffffff, #ffff00ffBall: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
