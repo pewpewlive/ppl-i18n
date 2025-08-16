@@ -2441,3 +2441,4 @@ msgstr "Xám mờ"
 #: /client/application/utils/version.cpp:73
 msgid "Update available %s"
 msgstr "Cập nhật mới %s"
+
