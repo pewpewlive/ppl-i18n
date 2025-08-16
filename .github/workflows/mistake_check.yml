@@ -46,7 +46,7 @@ jobs:
           script: |
             let fs = require('fs');
             const mistakes = JSON.parse(fs.readFileSync('./mistakes.txt').toString());
-
+            let mistakeConditions = mistakes.map(mistake => mistake.condition);
             if (mistakes.length !== 0)
-              if (mistakes.map(mistake => mistake.condition).includes("invalid_format"))
+              if (mistakeConditions.includes("invalid_format") || mistakeConditions.includes("invalid_colors_and_format"))
                   core.setFailed("Mistakes found! Check comment for more details");
