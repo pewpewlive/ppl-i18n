@@ -74,11 +74,15 @@ jobs:
                     break;
                   case 'modified_msgid':
                     message += '--- Modified original string id\n';
+                    message += `+ msgid "${mistake.id}"\n`;
+                    message += `- msgid "${mistake.str}"\n`;
                     break;
                 }
-
-                message += `+ msgid "${mistake.id}"\n`;
-                message += `- msgstr "${mistake.str}"\n`;
+                
+                if (mistake.condition !== 'modified_msgid') {
+                  message += `+ msgid "${mistake.id}"\n`;
+                  message += `- msgstr "${mistake.str}"\n`;
+                }
                 
                 if (mistakes.indexOf(mistake) !== mistakes.length - 1) {
                   message += '***************\n';
