@@ -76,7 +76,7 @@ def parse(page: list[str]):
                     "condition": "modified_msgid",
                     "line": current_line_number - 1,
                     "id": id_text,
-                    "str": line.rstrip()[9:-1],
+                    "str": line.rstrip()[8:-1],
                 }
             )
             continue
