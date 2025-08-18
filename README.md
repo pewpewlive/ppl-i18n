@@ -53,15 +53,15 @@ the feasibility.
 * 🇬🇷 [Greek](/translations/ell.po) (85% complete; 76 remaining)
 * 🇮🇩 [Indonesian](/translations/ind.po) (85% complete; 76 remaining)
 * 🇮🇹 [Italian](/translations/ita.po) (85% complete; 76 remaining)
-* 🇱🇹 [Lithuanian](/translations/lit.po) (85% complete; 76 remaining)
 * 🇧🇷 [Portuguese](/translations/por.po) (85% complete; 76 remaining)
-* 🇷🇺 [Russian](/translations/rus.po) (85% complete; 76 remaining)
 * 🇪🇸 [Spanish](/translations/spa.po) (85% complete; 76 remaining)
-* 🇺🇦 [Ukrainian](/translations/ukr.po) (85% complete; 76 remaining)
-* 🇺🇿 [Uzbek](/translations/uzb.po) (85% complete; 76 remaining)
-* 🇻🇳 [Vietnamese](/translations/vie.po) (85% complete; 76 remaining)
 * 🇬🇪 [Georgian](/translations/kat.po) (85% complete; 76 remaining)
 * 💻 [Code](/translations/code.po) (85% complete; 76 remaining)
 * 🥰 [UwU](/translations/uwu.po) (85% complete; 76 remaining)
+* 🇺🇿 [Uzbek](/translations/uzb.po) (92% complete; 38 remaining)
+* 🇱🇹 [Lithuanian](/translations/lit.po) (95% complete; 25 remaining)
+* 🇷🇺 [Russian](/translations/rus.po) (100% complete! 🎉)
+* 🇺🇦 [Ukrainian](/translations/ukr.po) (100% complete! 🎉)
+* 🇻🇳 [Vietnamese](/translations/vie.po) (100% complete! 🎉)
 
-> Report generated on Aug 13 2025 21:52:57 UTC
+> Report generated on Aug 18 2025 02:00:44 UTC
