@@ -1315,16 +1315,8 @@ msgstr "Join Blitz"
 
 #. Explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:38
-msgid ""
-"Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\n"
-"During each round the goal is to score as much as possible.\n"
-"\n"
-"At the end of the competition, everybody is ranked based on their performance."
-msgstr ""
-"Blitz are fun matches with up to 32 kittens~  \n"
-"Each round is all about scoring as much as you can!  \n"
-"\n"
-"At the end, everyone gets ranked by how well they did :P"
+msgid "Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\nDuring each round the goal is to score as much as possible.\n\nAt the end of the competition, everybody is ranked based on their performance."
+msgstr "Blitz are fun matches with up to 32 kittens~\nEach round is all about scoring as much as you can!\n\nAt the end, everyone gets ranked by how well they did :P"
 
 #. Text appended to the explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:40
