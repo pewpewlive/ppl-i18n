@@ -1163,7 +1163,7 @@ msgstr "Oltiburchak shaklidagi, ko'k-siyohrang, kichik dushmancha. Maqsadsiz har
 #. Meaning based on certain properties of the enemy, it can be 10, 5 or 2
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:368
 msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
-msgstr "00ff00ffSog'liq: %s#ffffffff, #ff0000ffZarar: %s#ffffffff, #ffff00ffBall: %s"
+msgstr "#00ff00ffSog'liq: %s#ffffffff, #ff0000ffZarar: %s#ffffffff, #ffff00ffBall: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
