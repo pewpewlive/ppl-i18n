@@ -16,31 +16,31 @@ msgstr "En %1$s, consigue %2$s o más."
 #. "In Eskiv, score 10000 or more with an inertic ship in 1p."
 #: /client/application/account/achievements_description.cpp:40
 msgid "In %1$s, score %2$s or more with an inertic ship in 1p."
-msgstr ""
+msgstr "En %1$s, consigue %2$s o más con una nave inertic en 1j."
 
 #. Title of the screen shown before the start of a blitz round.
 #. The %s is replaced with a number, for example:
 #. "Get ready for round 2!"
 #: /client/application/game/blitz/blitz_ui.cpp:24
 msgid "Get ready for round %s!"
-msgstr ""
+msgstr "¡Prepárate para la ronda %s!"
 
 #. Title of the screen that shows the score of every player at the end of a
 #. Blitz round.
 #: /client/application/game/blitz/blitz_ui.cpp:84
 msgid "Round results"
-msgstr ""
+msgstr "Resultados de la ronda"
 
 #. Title of the screen that shows the rankings of all the players after
 #. multiple rounds of Blitz.
 #: /client/application/game/blitz/blitz_ui.cpp:190
 msgid "Overall ranking"
-msgstr ""
+msgstr "Clasificación general"
 
 #. The string shown when a Blitz round is finished
 #: /client/application/game/blitz/blitz_ui.cpp:291
 msgid "Round finished!"
-msgstr ""
+msgstr "¡Ronda terminada!"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -76,24 +76,24 @@ msgstr "Pausa rápida %s"
 
 #: /client/application/game/game_constants.cpp:13
 msgid "1p"
-msgstr "1J"
+msgstr "1j"
 
 #: /client/application/game/game_constants.cpp:13
 msgid "2p"
-msgstr "2J"
+msgstr "2j"
 
 #: /client/application/game/game_constants.cpp:13
 msgid "3p"
-msgstr "3J"
+msgstr "3j"
 
 #: /client/application/game/game_constants.cpp:13
 msgid "4p"
-msgstr "4J"
+msgstr "4j"
 
 #. Short description of the "asteroids" game mode
 #: /client/application/game/levels/game_levels.cpp:98
 msgid "Euclidean space is overrated"
-msgstr "Los espacios euclideanos están sobrevalorados"
+msgstr "Los espacios euclidianos están sobrevalorados"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:117
@@ -103,7 +103,7 @@ msgstr "Nunca te fíes de un polígono de seis lados"
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:119
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "No existe relación alguna con \"Super Hexagon\""
+msgstr "Sin relación alguna con \"Super Hexagon\""
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:121
@@ -118,27 +118,27 @@ msgstr "Esquiva todo y estarás bien"
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:141
 msgid "aka Dodge This"
-msgstr "alias Esquiva esto"
+msgstr "alias Esquiva Esto"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:143
 msgid "Green good. Red bad."
-msgstr "Lo verde es bueno. Lo rojo es malo."
+msgstr "Verde bueno. Rojo malo."
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:162
 msgid "RIP GW3:Dimensions"
-msgstr "DEP GW3:Dimensions"
+msgstr "RIP GW3:Dimensions"
 
 #. Short description of the "waves" game mode
 #: /client/application/game/levels/game_levels.cpp:164
 msgid "Previously known as Assault"
-msgstr "También conocido como Assault"
+msgstr "Anteriormente conocido como Assault"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:183
 msgid "Just 32 seconds of skills"
-msgstr "Solo 32 segundos de pura habilidad"
+msgstr "Solo 32 segundos de habilidad"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:185
@@ -153,12 +153,12 @@ msgstr "Sobrevive 32 segundos con este sencillo truco"
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:189
 msgid "\"This level is a joke right?\" - a tester"
-msgstr "\"Este nivel es una broma, ¿verdad?\" - un jugador"
+msgstr "\"Este nivel es una broma, ¿verdad?\" - un probador"
 
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:207
 msgid "Evolution of Pacifism"
-msgstr "Evolución del Pacifismo"
+msgstr "Evolución de Pacifismo"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:225
@@ -168,12 +168,12 @@ msgstr "Verdadero infierno de balas"
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:227
 msgid "With great firepower comes great dodging skills"
-msgstr "Un gran poder conlleva habilidades para esquivar"
+msgstr "Un gran poder conlleva grandes habilidades para esquivar"
 
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:245
 msgid "Lasso up stuff to make them disappear"
-msgstr "Lazo cosas para hacerlas desaparecer"
+msgstr "Atrapa cosas para hacerlas desaparecer"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:263
@@ -312,65 +312,65 @@ msgstr "Fallo al descargar datos de respaldo"
 
 #: /client/application/game/quests/quest.cpp:10
 msgid "In any official level"
-msgstr ""
+msgstr "En cualquier nivel oficial"
 
 #: /client/application/game/quests/quest.cpp:13
 msgid "In level %s"
-msgstr ""
+msgstr "En el nivel %s"
 
 #: /client/application/game/quests/quest.cpp:18
 msgid "In levels %s"
-msgstr ""
+msgstr "En los niveles %s"
 
 #. Shown in a notification when you improve your quest progress.
 #. Example of what it looks like:
 #. "Destroy 200 ROLLING_CUBE: 20 / 100 ⇨ 30 / 100"
 #: /client/application/game/quests/quest_manager.cpp:18
 msgid "%s: %s ⇨ %s"
-msgstr ""
+msgstr "%s: %s ⇨ %s"
 
 #. Shown in a notification when you complete a quest.
 #. Example of what it looks like:
 #. "Reach 8900 in one game: Complete! (20 / 100 ⇨ 30 / 100)"
 #: /client/application/game/quests/quest_manager.cpp:23
 msgid "%s: Complete! (%s ⇨ %s)"
-msgstr ""
+msgstr "%s: ¡Completado! (%s ⇨ %s)"
 
 #: /client/application/game/quests/quests.cpp:18
 msgid "%s minute(s)"
-msgstr ""
+msgstr "%s minuto(s)"
 
 #: /client/application/game/quests/quests.cpp:22
 msgid "%s second(s)"
-msgstr ""
+msgstr "%s segundo(s)"
 
 #. The description of the quest that involves playing destroying a certain
 #. amount of enemies. The %1$s is replaced by a number. The %2$s is replaced
 #. by an enemy name. For example: "Destroy 200 Motherships"
 #: /client/application/game/quests/quests.cpp:127
 msgid "Destroy %1$s %2$s"
-msgstr ""
+msgstr "Destruye %1$s %2$s"
 
 #. The description of the quest that involves reaching a certain score.
 #. The %s is replaced by a number, for example:
 #. "Reach the score of 10000"
 #: /client/application/game/quests/quests.cpp:181
 msgid "Reach %s in one game"
-msgstr ""
+msgstr "Consigue %s en una partida"
 
 #. The description of the quest that involves surviving for a certain
 #. duration. The %s is replaced by a duration, for example: "Survive for 3
 #. minutes" "Survive for 40 seconds"
 #: /client/application/game/quests/quests.cpp:223
 msgid "Survive for %s in one game"
-msgstr ""
+msgstr "Sobrevive durante %s en una partida"
 
 #. The description of the quest that involves playing accumulating a certain
 #. amount of pointonium. The %s is replaced by an amount, for example: "Farm
 #. 10000 points from pointonum"
 #: /client/application/game/quests/quests.cpp:269
 msgid "Farm %s points from pointonium"
-msgstr ""
+msgstr "Consigue %s puntos de pointonio"
 
 #. The description of the quest that involves playing a certain duration.
 #. The %s is replaced by a duration, for example:
@@ -378,14 +378,14 @@ msgstr ""
 #. "Play for 40 seconds"
 #: /client/application/game/quests/quests.cpp:315
 msgid "Play for %s"
-msgstr ""
+msgstr "Juega durante %s"
 
 #. The description of the quest that involves playing multiplayer for a
 #. certain duration. The %s is replaced by a duration, for example: "Play
 #. multiplayer for 3 minutes" "Play multiplayer for 40 seconds"
 #: /client/application/game/quests/quests.cpp:353
 msgid "Play multiplayer for %s"
-msgstr ""
+msgstr "Juega en multijugador durante %s"
 
 #: /client/application/game/state/game_network_message_parser.cpp:58
 msgid "%s left the game"
@@ -411,7 +411,7 @@ msgstr "Puntuación total: %s"
 #. for example "Pointonium: 34444"
 #: /client/application/game/state/game_state.cpp:536
 msgid "Pointonium: %s"
-msgstr "Puntuonium: %s"
+msgstr "Pointonio: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
@@ -432,7 +432,7 @@ msgstr "Has muerto. De nuevo."
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:21
 msgid "Insert coin to continue"
-msgstr "Inserte moneda para continuar"
+msgstr "Inserte una moneda para continuar"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:23
@@ -442,7 +442,7 @@ msgstr "Al menos lo intentaste"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:25
 msgid "It's okay, you were never going to win anyway."
-msgstr "No pasa nada, igualmente no vas a ganar nunca."
+msgstr "No pasa nada, igualmente no ibas a ganar nunca."
 
 #: /client/application/game/ui/game_over_ui.cpp:49
 msgid "Play again"
@@ -479,7 +479,7 @@ msgstr "Reiniciar"
 #. "Continuing in 13.23 seconds"
 #: /client/application/game/ui/pause_ui.cpp:140
 msgid "Continuing in %s seconds"
-msgstr ""
+msgstr "Continuando en %s segundos"
 
 #: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:78
 msgid "Loading..."
@@ -582,7 +582,7 @@ msgstr "Contraseña"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
-msgstr "Sí, escríbela otra vez"
+msgstr "Confirma la contraseña"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Email"
@@ -666,7 +666,7 @@ msgstr "Debes iniciar sesión para ver los comentarios"
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr ""
+msgstr "Debes iniciar sesión para unirte a Blitzes"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -769,7 +769,7 @@ msgstr "Clasificación de XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:174
 msgid "All leaderboards"
-msgstr "Todas las clasificaciones "
+msgstr "Todas las clasificaciones"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
@@ -785,15 +785,15 @@ msgstr "Logros"
 
 #: /client/application/game/ui/screens/screen_career.cpp:194
 msgid "Extra XP"
-msgstr ""
+msgstr "XP Extra"
 
 #: /client/application/game/ui/screens/screen_career.cpp:219
 msgid "Quests: %s XP"
-msgstr ""
+msgstr "Misiones: %s XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:224
 msgid "Badges: %s XP"
-msgstr ""
+msgstr "Insignias: %s XP"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:59
 msgid "Configure Gamepad"
@@ -892,7 +892,7 @@ msgstr "Aberración cromática"
 #. of the monitor.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:159
 msgid "Curved monitor"
-msgstr "Monitor curvo"
+msgstr "Curvatura de monitor"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
@@ -904,13 +904,13 @@ msgstr "Viñeta"
 #. game.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Resolution"
-msgstr ""
+msgstr "Resolución"
 
 #. The name of the setting for when you select the "full" resolution, as
 #. opposed to downsampled resolutions.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:181
 msgid "Full"
-msgstr ""
+msgstr "Plena"
 
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:198
@@ -1035,127 +1035,127 @@ msgstr "Enciclopedia"
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:43
 msgid "A bumpy, white asteroid that floats in space. Shoot it and it splits into multiple smaller parts. Exists in 4 different sizes."
-msgstr ""
+msgstr "Un asteroide blanco y rugoso que flota en el espacio. Al dispararlo, se divide en múltiples partes más pequeñas. Existen 4 tamaños."
 
 #. Description of the "BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:52
 msgid "This yellow, arrow-shaped drone zips predictably back and forth."
-msgstr ""
+msgstr "Este dron amarillo con forma de flecha se mueve de forma predecible de un lado para otro."
 
 #. Description of the "Red BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:61
 msgid "This red arrow-shaped drone mirrors the familiar movements of the standard BAF, but it is much stronger posing a greater threat."
-msgstr ""
+msgstr "Este dron rojo con forma de flecha imita los movimientos habituales del BAF estándar, pero es más resistente y supone una amenaza mayor."
 
 #. Description of the "Blue BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:70
 msgid "Unlike its yellow and red counterparts, it bounces off walls in unpredictable directions, making its movement difficult to anticipate."
-msgstr ""
+msgstr "A diferencia de sus contrapartes amarillas y rojas, este rebota contra las paredes de forma impredecible, haciendo que su movimiento sea difícil de predecir."
 
 #. Description of the "Brownian" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:98
 msgid "A tetrahedron-shaped enemy that advances on your position with erratic, unpredictable movements."
-msgstr ""
+msgstr "Un enemigo con forma de tetrahedro que avanza hacia tu dirección con movimientos erráticos e impredecibles."
 
 #. Description of the "Crowders" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:115
 msgid "An octahedron-shaped enemy that slowly advances on you. Tends to form dense crowds with other Crowders."
-msgstr ""
+msgstr "Un enemigo con forma de octahedro que avanza lentamente hacia tí. Tiende a formar densas multitudes con otros Crowders."
 
 #. Description of the "Dodger" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:123
 msgid "An hourglass-shaped enemy that advances towards the nearest ship while actively evading projectiles. Like Crowders, has a tendency to form crowds."
-msgstr ""
+msgstr "Un enemigo con forma de reloj de arena que avanza hacia la nave más cercana mientras esquiva projectiles. Como los Crowders, tiende a formar multitudes."
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:131
 msgid "Made of rotating concentric circles, it plunges towards the nearest ship with inertia. Very resistant to damage, it can fortunately be repelled with bullets."
-msgstr ""
+msgstr "Compuesto por círculos concéntricos giratorios, se precipita hacia la nave más cercana con inercia. Muy resistente al daño, pero puede ser repelido con balas."
 
 #. Description of the "Kamikaze" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:140
 msgid "A flying ship that relentlessly scans for a prey. Once it locks onto you, it immediately charges forward, attempting to ram you head-on"
-msgstr ""
+msgstr "Una nave voladora que constantemente busca una presa. Cuando te tiene en el punto de mira, se lanza hacia delante, intentando embestirte de frente."
 
 #. Description of the "Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:149
 msgid "A pink triangle-shaped mothership that roams the levels. Upon its destruction it unleashes three arcs of bullets from its sides."
-msgstr ""
+msgstr "Una nave nodriza rosa con forma de triángulo que recorre los niveles. Al destruirla, dispara tres arcos de balas desde sus lados."
 
 #. Description of the "Red Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:159
 msgid "A red square-shaped mothership that roams the levels. Upon its destruction it unleashes a barrage of homing bullets that pursue the nearest ship."
-msgstr ""
+msgstr "Una nave nodriza roja con forma de cuadrado que recorre los niveles. Al destruirla, lanza un montón de balas teledirigidas que persiguen la nave más cercana."
 
 #. Description of the "Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:169
 msgid "An orange, pentagon-shaped mothership that roams the levels. Upon its destruction it fires six bullets in a hexagon pattern."
-msgstr ""
+msgstr "Una nave nodriza naranja con forma de pentágono que recorre los niveles. Al destruirla, dispara seis balas en forma de hexágono."
 
 #. Description of the "Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:179
 msgid "A green, hexagon-shaped mothership that roams the levels. Upon its destruction it unleashes a circle of bullets."
-msgstr ""
+msgstr "Una nave nodriza verde con forma de hexágono que recorre los niveles. Al destruirla, lanza un círculo de balas."
 
 #. Description of the "Cyan Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:189
 msgid "A cyan, heptagon-shaped mothership that roams the levels. Upon its destruction, it fires a dense arc of bullets towards the nearest ship."
-msgstr ""
+msgstr "Una nave nodriza cian con forma de heptágono que recorre los niveles. Al destruirla, dispara un arco denso de balas hacia la nave más cercana."
 
 #. Description of the "Super Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:199
 msgid "An extra-large, pink, triangle-shaped mothership. Upon its destruction, unleashes three arcs of large bullets from its sides."
-msgstr ""
+msgstr "Una nave nodriza enorme, rosa, y con forma de triángulo. Al destruirla, dispara tres arcos de balas grandes desde sus lados."
 
 #. Description of the "Super Red Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:209
 msgid "An extra-large, red, squared-shaped mothership. Upon its destruction, unleashes large homing bullets that actively pursue the nearest ship."
-msgstr ""
+msgstr "Una nave nodriza enorme, roja, y con forma de cuadrado que recorre los niveles. Al destruirla, lanza un montón de balas grandes y teledirigidas que persiguen la nave más cercana."
 
 #. Description of the "Super Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:219
 msgid "An extra-large orange, pentagon-shaped mothership. Upon its destruction it fires four times the number of bullets compared to its standard counterpart."
-msgstr ""
+msgstr "Una nave nodriza enorme, naranja, y con forma de pentágono que recorre los niveles. Al destruirla, dispara cuatro vezes más balas que su contraparte estándar."
 
 #. Description of the "Super Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
 msgid "An extra-large green, hexagon-shaped mothership. Upon its destruction, fires an extremely dense circle of large and fast bullets."
-msgstr ""
+msgstr "Una nave nodriza enorme, verde, y con forma de hexágono que recorre los niveles. Al destruirla, lanza un círculo de balas extremadamente denso."
 
 #. Description of the "Super Cyan Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:239
 msgid "An extra-large cyan, heptagon-shaped mothership. Upon its destruction, fires a huge arc of large and fast bullets towards the nearest ship."
-msgstr ""
+msgstr "Una nave nodriza enorme, cian, y con forma de heptágono que recorre los niveles. Al destruirla, dispara un arco de balas grande y rápido hacia la nave más cercana."
 
 #. Description of the "Rolling Cube" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:249
 msgid "A cube-shaped enemy that rolls through the levels. It constantly seeks out the nearest ship, and its speed increases progressively over time."
-msgstr ""
+msgstr "Un enemigo con forma de cubo que rueda por los niveles. Busca constantemente la nave más cercana, e incrementa su velocidad progresivamente con el tiempo."
 
 #. Description of the "Rolling Sphere" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:259
 msgid "A spherical enemy that rolls around the levels, bouncing off walls. While immune to standard bullets, it will shrink when hit by a Freeze bomb."
-msgstr ""
+msgstr "Un enemigo esférico que rueda por los niveles, rebotando en las paredes. Aunque inmune a las balas, reduce su tamaño cuando dañado por una bomba congelante."
 
 #. Description of the "Spiny" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:287
 msgid "An arrow-shaped enemy that moves along circular paths, bouncing of walls. Possesses a tendency to drift towards nearby ships."
-msgstr ""
+msgstr "Un enemigo con forma de flecha que se mueve en patrones circulares, rebotando en las paredes. Tiende a desplazarse hacia la neva más cercana."
 
 #. Description of the "Splitter" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:295
 msgid "A pink, flower-shaped enemy that drifts in random directions. Upon its destruction, it unleashes petals that scatter in a circular pattern."
-msgstr ""
+msgstr "Un enemigo rosa con forma de flor que se desplaza en direcciones aleatorias. Al ser destruido, desprende pétalos que se mueven en patrones circulares."
 
 #. Description of the "UFO" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:303
 msgid "A red, flying saucer shaped enemy that glides across the levels. Regularly shoot bullets towards the nearest ship that also happen to damage other enemies."
-msgstr ""
+msgstr "Un enemigo rojo con forma de platillo volante se desliza por los niveles. Dispara balas regularmente hacia la nave más cercana, los cuales pueden dañar otros enemigos."
 
 #. Description of the "Wary" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:313
 msgid "A small blue-purple hexagon-shaped enemy that wanders aimlessly through the levels. Fires homing bullets towards the nearest ship."
-msgstr ""
+msgstr "Un enemigo pequeño de color azul purpúreo y con forma de hexágono que deambula sin rumbo por los niveles. Dispara balas teledirigidas hacia la nave más cercana."
 
 #. A string in the Encyclopedia used to show the
 #. stats (Health, Damage, Score) of an enemy
@@ -1163,7 +1163,7 @@ msgstr ""
 #. Meaning based on certain properties of the enemy, it can be 10, 5 or 2
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:368
 msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
-msgstr ""
+msgstr "#00ff00ffVida: %s#ffffffff, #ff0000ffDaño: %s#ffffffff, #ffff00ffPuntos: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
@@ -1310,17 +1310,17 @@ msgstr "se cargó <%s>"
 #. The text in the button that players press to join a Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:21
 msgid "Join Blitz"
-msgstr ""
+msgstr "Jugar un Blitz"
 
 #. Explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:38
 msgid "Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\nDuring each round the goal is to score as much as possible.\n\nAt the end of the competition, everybody is ranked based on their performance."
-msgstr ""
+msgstr "Blitz son competiciones mutijugador compuestas por múltiples rondas, con hasta 32 jugadores.\nDurante cada ronda el objetivo es conseguir tanta puntuación como sea posible.\n\nAl final de la competición, todos se clasifican en función de su rendimiento."
 
 #. Text appended to the explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:40
 msgid "Good luck!"
-msgstr ""
+msgstr "¡Buena suerte!"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
@@ -1388,22 +1388,22 @@ msgstr "Nuevos objetos"
 #. data you want to erase from disk.
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:15
 msgid "Manage local data"
-msgstr ""
+msgstr "Gestionar datos locales"
 
 #. Shown in the button that erases local leaderboards
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:51
 msgid "Erase local leaderboards"
-msgstr ""
+msgstr "Borrar puntuaciones locales"
 
 #. Shown in the button that erases local replays
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:60
 msgid "Erase local replays"
-msgstr ""
+msgstr "Borrar repeticiones locales"
 
 #. Shown in the button that resets the daily quest.
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:74
 msgid "Reset daily quest"
-msgstr ""
+msgstr "Reiniciar misión diaria"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:108
 msgid "Room is full"
@@ -1540,12 +1540,12 @@ msgstr "Actualizar"
 #. Blitz
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:160
 msgid "Joining Blitz"
-msgstr ""
+msgstr "Uniéndose a un Blitz"
 
 #. Message shown when a player is disconnected from a Blitz
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:188
 msgid "Disconnected from Blitz"
-msgstr ""
+msgstr "Desconectado del Blitz"
 
 #. Error message for when a "connection error" caused the disconnection
 #. of a player from a Blitz
@@ -1557,7 +1557,7 @@ msgstr "Error de conexión"
 #. previous Blitz to finish.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:330
 msgid "Waiting for previous Blitz..."
-msgstr ""
+msgstr "Esperando a que el Blitz previo finalize..."
 
 #. The string shown while waiting for additional players to join a
 #. Blitz. For the record, the number of players required and the number
@@ -1565,19 +1565,19 @@ msgstr ""
 #. will be shown: "Waiting for players 7/10"
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:340
 msgid "Waiting for players"
-msgstr ""
+msgstr "Esperando por jugadores"
 
 #. Shown during a Blitz. Is used for showing how much time is left
 #. before the next round starts. The % is replaced with a time in
 #. seconds, for example: Starting in 5.3s
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:559
 msgid "Starting in %s"
-msgstr ""
+msgstr "Comenzando en %s"
 
 #. Text shown when the player tries to exit a Blitz.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:620
 msgid "Are you sure you want to exit the Blitz?"
-msgstr ""
+msgstr "¿Estás seguro de que quieres salir del Blitz?"
 
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:595
 msgctxt "menu_confirm_action"
@@ -1592,31 +1592,31 @@ msgstr "No"
 #. The string shown in a button to claim rewards from completing a quest
 #: /client/application/game/ui/screens/screen_quests.cpp:153
 msgid "Claim"
-msgstr ""
+msgstr "Reclamar"
 
 #. The title of the screen that shows the quests available
 #: /client/application/game/ui/screens/screen_quests.cpp:191
 msgid "Quests"
-msgstr ""
+msgstr "Misiones"
 
 #. Message shown when downloading quests has failed.
 #: /client/application/game/ui/screens/screen_quests.cpp:271
 msgid "Failed to download quests"
-msgstr ""
+msgstr "Fallo al descargar las misiones"
 
 #. Message shown when the game is too old and needs to be updated to
 #. support the new quests.
 #: /client/application/game/ui/screens/screen_quests.cpp:283
 msgid "Incompatible quests: the game needs to be updated."
-msgstr ""
+msgstr "Misiones incompatibles: el juego tiene que actualizarse."
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:62
 msgid "Failed to claim! No internet?"
-msgstr ""
+msgstr "¡Fallo al reclamar!"
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:94
 msgid "Successfully claimed XP!"
-msgstr ""
+msgstr "¡Reclamado XP exitosamente!"
 
 #: /client/application/game/ui/screens/screen_select_development_level.cpp:19
 msgid "Developer mode"
@@ -1779,7 +1779,7 @@ msgstr "Interfaz"
 #. Label used to show a vibration setting next to an on/off switch
 #: /client/application/game/ui/screens/screen_settings.cpp:123
 msgid "Vibration"
-msgstr ""
+msgstr "Vibración"
 
 #: /client/application/game/ui/screens/screen_settings.cpp:141
 msgid "Start tutorial"
@@ -1966,25 +1966,25 @@ msgstr "Subiendo partida de %s."
 #. (=no filtering is done).
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:39
 msgid "all"
-msgstr ""
+msgstr "todos"
 
 #. Shown in the achievement filter, when only the "very high scores"
 #. achievements are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:42
 msgid "very high score"
-msgstr ""
+msgstr "alta puntuación"
 
 #. Shown in the achievement filter, when only "inertic" achievements are
 #. listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:45
 msgid "inertic"
-msgstr ""
+msgstr "inertic"
 
 #. Shown in the achievement filter, when the uncategorized achievements
 #. are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:48
 msgid "other"
-msgstr ""
+msgstr "otros"
 
 #. Shown when a user disables comments on their profile and or levels.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:207
@@ -2184,7 +2184,7 @@ msgstr "Porcentaje de las medallas de oro: %s"
 
 #: /client/application/game/ui/screens/screen_view_xp_leaderboard.cpp:81
 msgid "( excluding Extra XP )"
-msgstr ""
+msgstr "( excluyendo XP Extra )"
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:84
 msgid "Failed to read replay."
