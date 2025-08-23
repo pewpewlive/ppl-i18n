@@ -16,31 +16,31 @@ msgstr "Obtiens un score de %2$s ou plus dans %1$s"
 #. "In Eskiv, score 10000 or more with an inertic ship in 1p."
 #: /client/application/account/achievements_description.cpp:40
 msgid "In %1$s, score %2$s or more with an inertic ship in 1p."
-msgstr ""
+msgstr "Dans %1$s, obtiens %2$s points avec un vaisseau inertic en solo."
 
 #. Title of the screen shown before the start of a blitz round.
 #. The %s is replaced with a number, for example:
 #. "Get ready for round 2!"
 #: /client/application/game/blitz/blitz_ui.cpp:24
 msgid "Get ready for round %s!"
-msgstr ""
+msgstr "Prépare-toi pour le round %s !"
 
 #. Title of the screen that shows the score of every player at the end of a
 #. Blitz round.
 #: /client/application/game/blitz/blitz_ui.cpp:84
 msgid "Round results"
-msgstr ""
+msgstr "Résultats du round"
 
 #. Title of the screen that shows the rankings of all the players after
 #. multiple rounds of Blitz.
 #: /client/application/game/blitz/blitz_ui.cpp:190
 msgid "Overall ranking"
-msgstr ""
+msgstr "Classement général"
 
 #. The string shown when a Blitz round is finished
 #: /client/application/game/blitz/blitz_ui.cpp:291
 msgid "Round finished!"
-msgstr ""
+msgstr "Round terminé !"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -312,65 +312,65 @@ msgstr "Echec du téléchargement de la sauvegarde"
 
 #: /client/application/game/quests/quest.cpp:10
 msgid "In any official level"
-msgstr ""
+msgstr "Dans n'importe quel niveau officiel"
 
 #: /client/application/game/quests/quest.cpp:13
 msgid "In level %s"
-msgstr ""
+msgstr "Dans le niveau %s"
 
 #: /client/application/game/quests/quest.cpp:18
 msgid "In levels %s"
-msgstr ""
+msgstr "Dans les niveaux %s"
 
 #. Shown in a notification when you improve your quest progress.
 #. Example of what it looks like:
 #. "Destroy 200 ROLLING_CUBE: 20 / 100 ⇨ 30 / 100"
 #: /client/application/game/quests/quest_manager.cpp:18
 msgid "%s: %s ⇨ %s"
-msgstr ""
+msgstr "%s: %s ⇨ %s"
 
 #. Shown in a notification when you complete a quest.
 #. Example of what it looks like:
 #. "Reach 8900 in one game: Complete! (20 / 100 ⇨ 30 / 100)"
 #: /client/application/game/quests/quest_manager.cpp:23
 msgid "%s: Complete! (%s ⇨ %s)"
-msgstr ""
+msgstr "%s: Fini ! (%s ⇨ %s)"
 
 #: /client/application/game/quests/quests.cpp:18
 msgid "%s minute(s)"
-msgstr ""
+msgstr "%s minute(s)"
 
 #: /client/application/game/quests/quests.cpp:22
 msgid "%s second(s)"
-msgstr ""
+msgstr "%s seconde(s)"
 
 #. The description of the quest that involves playing destroying a certain
 #. amount of enemies. The %1$s is replaced by a number. The %2$s is replaced
 #. by an enemy name. For example: "Destroy 200 Motherships"
 #: /client/application/game/quests/quests.cpp:127
 msgid "Destroy %1$s %2$s"
-msgstr ""
+msgstr "Détruis %1$s %2$s"
 
 #. The description of the quest that involves reaching a certain score.
 #. The %s is replaced by a number, for example:
 #. "Reach the score of 10000"
 #: /client/application/game/quests/quests.cpp:181
 msgid "Reach %s in one game"
-msgstr ""
+msgstr "Obtiens %s points en une seule partie"
 
 #. The description of the quest that involves surviving for a certain
 #. duration. The %s is replaced by a duration, for example: "Survive for 3
 #. minutes" "Survive for 40 seconds"
 #: /client/application/game/quests/quests.cpp:223
 msgid "Survive for %s in one game"
-msgstr ""
+msgstr "Survis dans partie pendant %s"
 
 #. The description of the quest that involves playing accumulating a certain
 #. amount of pointonium. The %s is replaced by an amount, for example: "Farm
 #. 10000 points from pointonum"
 #: /client/application/game/quests/quests.cpp:269
 msgid "Farm %s points from pointonium"
-msgstr ""
+msgstr "Récolte %s points provenant de pointonium"
 
 #. The description of the quest that involves playing a certain duration.
 #. The %s is replaced by a duration, for example:
@@ -378,14 +378,14 @@ msgstr ""
 #. "Play for 40 seconds"
 #: /client/application/game/quests/quests.cpp:315
 msgid "Play for %s"
-msgstr ""
+msgstr "Joue pendant %s"
 
 #. The description of the quest that involves playing multiplayer for a
 #. certain duration. The %s is replaced by a duration, for example: "Play
 #. multiplayer for 3 minutes" "Play multiplayer for 40 seconds"
 #: /client/application/game/quests/quests.cpp:353
 msgid "Play multiplayer for %s"
-msgstr ""
+msgstr "Joue en multijoueur pendant %s"
 
 #: /client/application/game/state/game_network_message_parser.cpp:58
 msgid "%s left the game"
@@ -479,7 +479,7 @@ msgstr "Recommencer"
 #. "Continuing in 13.23 seconds"
 #: /client/application/game/ui/pause_ui.cpp:140
 msgid "Continuing in %s seconds"
-msgstr ""
+msgstr "Reprise dans %s secondes"
 
 #: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:78
 msgid "Loading..."
@@ -666,7 +666,7 @@ msgstr "Tu dois être connecté pour voir les commentaires"
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr ""
+msgstr "Tu dois être connecté pour rejoindre un Blitz"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -785,15 +785,15 @@ msgstr "Succès"
 
 #: /client/application/game/ui/screens/screen_career.cpp:194
 msgid "Extra XP"
-msgstr ""
+msgstr "XP Supplémentaire"
 
 #: /client/application/game/ui/screens/screen_career.cpp:219
 msgid "Quests: %s XP"
-msgstr ""
+msgstr "Quètes: %s XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:224
 msgid "Badges: %s XP"
-msgstr ""
+msgstr "Badges: %s XP"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:59
 msgid "Configure Gamepad"
@@ -904,13 +904,13 @@ msgstr "Vignette"
 #. game.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Resolution"
-msgstr ""
+msgstr "Résolution"
 
 #. The name of the setting for when you select the "full" resolution, as
 #. opposed to downsampled resolutions.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:181
 msgid "Full"
-msgstr ""
+msgstr "Pleine"
 
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:198
