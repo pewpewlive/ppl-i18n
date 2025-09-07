@@ -312,7 +312,7 @@ msgstr "Falha ao baixar dados de backup"
 
 #: /client/application/game/quests/quest.cpp:10
 msgid "In any official level"
-msgstr "Em qualquer "
+msgstr "Em qualquer nível oficial"
 
 #: /client/application/game/quests/quest.cpp:13
 msgid "In level %s"
@@ -666,7 +666,7 @@ msgstr "Você precisa estar logado para ver os comentários"
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr "Você precisa logar para entrar no Blitzes"
+msgstr "Você precisa logar para entrar em Blitzes"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -1065,7 +1065,7 @@ msgstr "Um inimigo em forma de octaedro que lentamente avança em você. Tende a
 #. Description of the "Dodger" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:123
 msgid "An hourglass-shaped enemy that advances towards the nearest ship while actively evading projectiles. Like Crowders, has a tendency to form crowds."
-msgstr "Um inimigo em forma de ampulheta que avança na nave mais próxima enquanto desvia de projéteis. Tente a formar aglomerações."
+msgstr "Um inimigo em forma de ampulheta que avança na nave mais próxima enquanto desvia de projéteis. Tende a formar aglomerações."
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:131
@@ -1105,17 +1105,17 @@ msgstr "Uma nave-mãe ciano em forma de heptágono que anda pelos níveid. Atira
 #. Description of the "Super Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:199
 msgid "An extra-large, pink, triangle-shaped mothership. Upon its destruction, unleashes three arcs of large bullets from its sides."
-msgstr "Uma nave-mãe rosa, extra larga, em forma de triângulo. Libera 3 grandes arcos de balas pelos lados ao ser destruída."
+msgstr "Uma grande nave-mãe rosa em forma de triângulo. Libera 3 grandes arcos de balas pelos lados ao ser destruída."
 
 #. Description of the "Super Red Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:209
 msgid "An extra-large, red, squared-shaped mothership. Upon its destruction, unleashes large homing bullets that actively pursue the nearest ship."
-msgstr "Uma nave-mãe vermelha, extra larga, em forma de quadrado. Libera grandes balas teleguiadas ao ser destruída."
+msgstr "Uma grande nave-mãe vermelha em forma de quadrado. Libera grandes balas teleguiadas ao ser destruída."
 
 #. Description of the "Super Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:219
 msgid "An extra-large orange, pentagon-shaped mothership. Upon its destruction it fires four times the number of bullets compared to its standard counterpart."
-msgstr "Uma nave-mãe laranja, extra larga, em forma de pentágono. Dispara 4 vezes mais balas comparado à sua versão padrão."
+msgstr "Uma grande nave-mãe laranja em forma de pentágono. Dispara 4 vezes mais balas comparado à sua versão padrão."
 
 #. Description of the "Super Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
@@ -1310,7 +1310,7 @@ msgstr "carregada <%s>"
 #. The text in the button that players press to join a Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:21
 msgid "Join Blitz"
-msgstr "Junte-se ao Blitz"
+msgstr "Junte-se à Blitz"
 
 #. Explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:38
