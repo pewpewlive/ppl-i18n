@@ -226,7 +226,7 @@ msgstr "Nouveau record de speed run! %s ⇨ %s"
 #. %s is replaced with the name of the achievement.
 #: /client/application/game/player_data/player_data_manager.cpp:889
 msgid "Achievement Unlocked: %s"
-msgstr "Succès dévérouillé: %s"
+msgstr "Succès déverrouillé: %s"
 
 #. Describes the rarity level of items. Rarity level of 0.
 #: /client/application/game/player_data/player_unlocked_items.cpp:334
