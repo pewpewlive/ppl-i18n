@@ -2184,7 +2184,7 @@ msgstr "Percentatge de medalles d'or: %s"
 
 #: /client/application/game/ui/screens/screen_view_xp_leaderboard.cpp:81
 msgid "( excluding Extra XP )"
-msgstr "( excloent l'XP addicional)"
+msgstr "( excloent l'XP addicional )"
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:84
 msgid "Failed to read replay."
