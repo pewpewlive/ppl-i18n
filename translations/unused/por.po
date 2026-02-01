@@ -1,6 +1,9 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
+msgstr "#00ff00ffVida: %s#ffffffff, #ff0000ffDano: %s#ffffffff, #ffff00ffPontuação: %s""
+
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "#ffff00ffComunidade#ffffffff os níveis são construídos por VOCÊ, a comunidade."
 

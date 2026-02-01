@@ -1,6 +1,9 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
+msgstr "#00ff00ffVida: %s#ffffffff, #ff0000ffDany: %s#ffffffff, #ffff00ffPuntuació: %s"
+
 msgid "Apprentice"
 msgstr "Aprenent"
 

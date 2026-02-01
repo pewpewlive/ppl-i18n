@@ -1,6 +1,9 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
+msgstr "#00ff00ffGyvybės: %s#ffffffff, #ff0000ffŽala: %s#ffffffff, #ffff00ffTaškai: %s"
+
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
 msgstr "Lygiai #ffff00ffBendruomenės#ffffffff skiltyje yra lygiai kuriuos sukūrėte JŪS, „PewPew“ bendruomenė."
 

@@ -20,25 +20,25 @@ msgstr "%1$s da %2$s ball yoki 1p da inertik kema bilan undanda ko'proq to'plang
 
 #. Title of the screen shown before the start of a blitz round.
 #. The %s is replaced with a number, for example:
-#. "Get ready for round 2!"
-#: /client/application/game/blitz/blitz_ui.cpp:24
+#. "Get ready for round 2 / 4!"
+#: /client/application/game/blitz/blitz_ui.cpp:25
 msgid "Get ready for round %s!"
 msgstr "%s! bosqichiga tayyorlan!"
 
 #. Title of the screen that shows the score of every player at the end of a
 #. Blitz round.
-#: /client/application/game/blitz/blitz_ui.cpp:84
+#: /client/application/game/blitz/blitz_ui.cpp:86
 msgid "Round results"
 msgstr "Bosqich natijalari"
 
 #. Title of the screen that shows the rankings of all the players after
 #. multiple rounds of Blitz.
-#: /client/application/game/blitz/blitz_ui.cpp:190
+#: /client/application/game/blitz/blitz_ui.cpp:192
 msgid "Overall ranking"
 msgstr "Umumiy reyting"
 
 #. The string shown when a Blitz round is finished
-#: /client/application/game/blitz/blitz_ui.cpp:291
+#: /client/application/game/blitz/blitz_ui.cpp:293
 msgid "Round finished!"
 msgstr "Bosqich yakunlandi!"
 
@@ -66,11 +66,11 @@ msgstr "Voy"
 msgid "Ugh"
 msgstr "Uf"
 
-#: /client/application/game/game.cpp:181
+#: /client/application/game/game.cpp:178
 msgid "Quick pause"
 msgstr "Mitti tanaffus"
 
-#: /client/application/game/game.cpp:187
+#: /client/application/game/game.cpp:184
 msgid "Quick pause %s"
 msgstr "Mitti tanaffus %s"
 
@@ -91,92 +91,92 @@ msgid "4p"
 msgstr "4o'"
 
 #. Short description of the "asteroids" game mode
-#: /client/application/game/levels/game_levels.cpp:98
+#: /client/application/game/levels/game_levels.cpp:103
 msgid "Euclidean space is overrated"
 msgstr "Evklidova bo'shliq qayta baholandi"
 
 #. Short description of the "hexagon" game mode
-#: /client/application/game/levels/game_levels.cpp:117
+#: /client/application/game/levels/game_levels.cpp:122
 msgid "Never trust a six-sided polygon"
 msgstr "Oltiburchakka ishonma"
 
 #. Short description of the "hexagon" game mode
-#: /client/application/game/levels/game_levels.cpp:119
+#: /client/application/game/levels/game_levels.cpp:124
 msgid "Unrelated to \"Super Hexagon\""
 msgstr "\"Super Hexagon\"ga dahilsiz"
 
 #. Short description of the "hexagon" game mode
-#: /client/application/game/levels/game_levels.cpp:121
+#: /client/application/game/levels/game_levels.cpp:126
 msgid "Choose your own difficulty"
 msgstr "O'z qiyinchiligingni sozla"
 
 #. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:139
+#: /client/application/game/levels/game_levels.cpp:144
 msgid "Dodge everything and you'll be OK"
 msgstr "Barchasidan o'giril va barchasi yaxshi bo'ladi"
 
 #. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:141
+#: /client/application/game/levels/game_levels.cpp:146
 msgid "aka Dodge This"
 msgstr "Yana Dodge This nomi bilan mashxur"
 
 #. Short description of the "eskiv" game mode
-#: /client/application/game/levels/game_levels.cpp:143
+#: /client/application/game/levels/game_levels.cpp:148
 msgid "Green good. Red bad."
 msgstr "Yashil - yaxshi, Qizil - Yomon."
 
 #. Short description of the "waves" game mode
-#: /client/application/game/levels/game_levels.cpp:162
+#: /client/application/game/levels/game_levels.cpp:167
 msgid "RIP GW3:Dimensions"
 msgstr "RIP GW3:Dimensions"
 
 #. Short description of the "waves" game mode
-#: /client/application/game/levels/game_levels.cpp:164
+#: /client/application/game/levels/game_levels.cpp:169
 msgid "Previously known as Assault"
 msgstr "Avvallari Assault nomi bilan mashxur"
 
 #. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:183
+#: /client/application/game/levels/game_levels.cpp:188
 msgid "Just 32 seconds of skills"
 msgstr "Yarim daqiqada skillar"
 
 #. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:185
+#: /client/application/game/levels/game_levels.cpp:190
 msgid "My favorite mode"
 msgstr "Men sevgan rejim"
 
 #. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:187
+#: /client/application/game/levels/game_levels.cpp:192
 msgid "Survive 32 seconds with this simple trick"
 msgstr "Bu rejimni yengish siri - bu..."
 
 #. Short description of the "fury" game mode
-#: /client/application/game/levels/game_levels.cpp:189
+#: /client/application/game/levels/game_levels.cpp:194
 msgid "\"This level is a joke right?\" - a tester"
 msgstr "\"Bu hazil, ha?\" - tester"
 
 #. Short description of the "ceasefire" game mode
-#: /client/application/game/levels/game_levels.cpp:207
+#: /client/application/game/levels/game_levels.cpp:212
 msgid "Evolution of Pacifism"
 msgstr "Pasifizmning evolyutsiyasi"
 
 #. Short description of the "pandemonium" game mode
-#: /client/application/game/levels/game_levels.cpp:225
+#: /client/application/game/levels/game_levels.cpp:230
 msgid "True bullet hell"
 msgstr "Haqiqiy o'q jahannam"
 
 #. Short description of the "pandemonium" game mode
-#: /client/application/game/levels/game_levels.cpp:227
+#: /client/application/game/levels/game_levels.cpp:232
 msgid "With great firepower comes great dodging skills"
 msgstr "Katta otash kuchi bilan katta qochish qobiliyatlari keladi"
 
 #. Short description of the "partitioner" game mode
-#: /client/application/game/levels/game_levels.cpp:245
+#: /client/application/game/levels/game_levels.cpp:250
 msgid "Lasso up stuff to make them disappear"
 msgstr "Ularni yo'q qilish uchun narsalarni lasso qiling"
 
 #. Short description of the symbiosis game mode
-#: /client/application/game/levels/game_levels.cpp:263
+#: /client/application/game/levels/game_levels.cpp:269
 msgid "2 brain hemispheres, 2 hands, 2 ships."
 msgstr "2 ta miya yarim sharlari, 2 ta qo'l, 2 ta kema."
 
@@ -229,74 +229,80 @@ msgid "Achievement Unlocked: %s"
 msgstr "Yangi yutuq: %s"
 
 #. Describes the rarity level of items. Rarity level of 0.
-#: /client/application/game/player_data/player_unlocked_items.cpp:334
+#: /client/application/game/player_data/player_unlocked_items.cpp:343
 msgid "Common"
 msgstr "Oddiy"
 
 #. Describes the rarity level of items. Rarity level of 1.
-#: /client/application/game/player_data/player_unlocked_items.cpp:336
+#: /client/application/game/player_data/player_unlocked_items.cpp:345
 msgid "Uncommon"
 msgstr "O'zgacha"
 
 #. Describes the rarity level of items. Rarity level of 2.
-#: /client/application/game/player_data/player_unlocked_items.cpp:338
+#: /client/application/game/player_data/player_unlocked_items.cpp:347
 msgid "Rare"
 msgstr "Noyob"
 
 #. Describes the rarity level of items. Rarity level of 3.
-#: /client/application/game/player_data/player_unlocked_items.cpp:340
+#: /client/application/game/player_data/player_unlocked_items.cpp:349
 msgid "Epic"
 msgstr "Epik"
 
 #. Describes the rarity level of items. Rarity level of 4.
-#: /client/application/game/player_data/player_unlocked_items.cpp:342
+#: /client/application/game/player_data/player_unlocked_items.cpp:351
 msgid "Legendary"
 msgstr "Afsonaviy"
 
 #. Describes the rarity level of items. Rarity level of 5.
-#: /client/application/game/player_data/player_unlocked_items.cpp:344
+#: /client/application/game/player_data/player_unlocked_items.cpp:353
 msgid "Mythical"
 msgstr "Mifik"
 
 #. Describes the rarity level of items. Rarity level of 6.
-#: /client/application/game/player_data/player_unlocked_items.cpp:346
+#: /client/application/game/player_data/player_unlocked_items.cpp:355
 msgid "Transcendent"
 msgstr "Transsendent"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:28
+#: /client/application/game/player_data/player_unlocked_items.h:29
 msgid "Ship"
 msgstr "Kema"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:30
+#: /client/application/game/player_data/player_unlocked_items.h:31
 msgid "Trail"
 msgstr "Iz"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:32
+#: /client/application/game/player_data/player_unlocked_items.h:33
 msgid "Bullet"
 msgstr "O'q"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:34
+#: /client/application/game/player_data/player_unlocked_items.h:35
 msgid "Mace"
 msgstr "Gurzi"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:36
+#: /client/application/game/player_data/player_unlocked_items.h:37
 msgid "Laser"
 msgstr "Lazer"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:38
+#: /client/application/game/player_data/player_unlocked_items.h:39
 msgid "Joystick"
 msgstr "Joystik"
 
 #. Describes a type of unlockable item
-#: /client/application/game/player_data/player_unlocked_items.h:40
+#: /client/application/game/player_data/player_unlocked_items.h:41
 msgid "UI Color"
 msgstr "UI rangi"
+
+#. Describes a type of unlockable item. The "Mace Shaft" is the shaft that
+#. links the Mace head to the player's ship
+#: /client/application/game/player_data/player_unlocked_items.h:44
+msgid "Mace Shaft"
+msgstr ""
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:197
 msgid "Failed to download data"
@@ -336,39 +342,31 @@ msgstr "%s: %s ⇨ %s"
 msgid "%s: Complete! (%s ⇨ %s)"
 msgstr "%s: Yakunlandi! (%s ⇨ %s)"
 
-#: /client/application/game/quests/quests.cpp:18
-msgid "%s minute(s)"
-msgstr "%s daqiqa"
-
-#: /client/application/game/quests/quests.cpp:22
-msgid "%s second(s)"
-msgstr "%s soniya"
-
 #. The description of the quest that involves playing destroying a certain
 #. amount of enemies. The %1$s is replaced by a number. The %2$s is replaced
 #. by an enemy name. For example: "Destroy 200 Motherships"
-#: /client/application/game/quests/quests.cpp:127
+#: /client/application/game/quests/quests.cpp:114
 msgid "Destroy %1$s %2$s"
 msgstr "%1$s %2$s ni yo'q qil"
 
 #. The description of the quest that involves reaching a certain score.
 #. The %s is replaced by a number, for example:
 #. "Reach the score of 10000"
-#: /client/application/game/quests/quests.cpp:181
+#: /client/application/game/quests/quests.cpp:168
 msgid "Reach %s in one game"
 msgstr "Bir o'yinda %s ni qo'lga kiriting"
 
 #. The description of the quest that involves surviving for a certain
 #. duration. The %s is replaced by a duration, for example: "Survive for 3
 #. minutes" "Survive for 40 seconds"
-#: /client/application/game/quests/quests.cpp:223
+#: /client/application/game/quests/quests.cpp:210
 msgid "Survive for %s in one game"
 msgstr "Bir o'yinda %s uchun kurashing"
 
 #. The description of the quest that involves playing accumulating a certain
 #. amount of pointonium. The %s is replaced by an amount, for example: "Farm
 #. 10000 points from pointonum"
-#: /client/application/game/quests/quests.cpp:269
+#: /client/application/game/quests/quests.cpp:256
 msgid "Farm %s points from pointonium"
 msgstr "Balloniumda %s ball yig'ing"
 
@@ -376,14 +374,14 @@ msgstr "Balloniumda %s ball yig'ing"
 #. The %s is replaced by a duration, for example:
 #. "Play for 3 minutes"
 #. "Play for 40 seconds"
-#: /client/application/game/quests/quests.cpp:315
+#: /client/application/game/quests/quests.cpp:302
 msgid "Play for %s"
 msgstr "%s o'ynang"
 
 #. The description of the quest that involves playing multiplayer for a
 #. certain duration. The %s is replaced by a duration, for example: "Play
 #. multiplayer for 3 minutes" "Play multiplayer for 40 seconds"
-#: /client/application/game/quests/quests.cpp:353
+#: /client/application/game/quests/quests.cpp:340
 msgid "Play multiplayer for %s"
 msgstr "Multipleyerni %s o'ynang"
 
@@ -391,31 +389,31 @@ msgstr "Multipleyerni %s o'ynang"
 msgid "%s left the game"
 msgstr "%s o'yinni tark etdi"
 
-#: /client/application/game/state/game_state.cpp:516
+#: /client/application/game/state/game_state.cpp:522
 msgid "N/A"
 msgstr "Yo'q"
 
 #. Shown when the game is displaying stats. Concerns the player's shooting
 #. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
-#: /client/application/game/state/game_state.cpp:529
+#: /client/application/game/state/game_state.cpp:535
 msgid "Accuracy: %s"
 msgstr "Aniqlik: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Total score: 43423"
-#: /client/application/game/state/game_state.cpp:532
+#: /client/application/game/state/game_state.cpp:538
 msgid "Total score: %s"
 msgstr "Umumiy natija: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
-#: /client/application/game/state/game_state.cpp:536
+#: /client/application/game/state/game_state.cpp:542
 msgid "Pointonium: %s"
 msgstr "Pointonli: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
-#: /client/application/game/state/game_state.cpp:540
+#: /client/application/game/state/game_state.cpp:546
 msgid "Duration: %s"
 msgstr "Sarflangan vaqt: %s"
 
@@ -520,39 +518,23 @@ msgstr "Ism o'zgarmadi."
 #. Shown in a header, in the screen that allows you to manage your PewPew
 #. Live account. In this screen you can for example change the colors of your
 #. nickname, or delete your account.
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:22
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:20
 msgid "Manage Account"
 msgstr "Akkauntni boshqarish"
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:43
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:41
 msgid "Synchronize"
 msgstr "Sinxronizatsiya"
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:52
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:49
 msgid "Sign out"
 msgstr "Chiqish"
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:62
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:61
 msgid "Delete account"
 msgstr "Akkauntni o'chirish"
 
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:74
-msgid "Account deletion"
-msgstr "Akkaunt o'chirilmoqda"
-
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:81
-msgid "Account deletion requested."
-msgstr "Akkauntni o'chirish uchun so'rov yuborilgan."
-
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:83
-msgid "An email asking for confirmation was sent."
-msgstr "Tasdiqlash xati yuborildi."
-
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:88
-msgid "Failed to request account deletion"
-msgstr "Akkauntni o'chirish so'rovi amalga oshmadi."
-
-#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:109
 msgid "Help"
 msgstr "Yordam"
 
@@ -744,54 +726,58 @@ msgstr "Sinxronizatsiya bajarildi."
 msgid "Skip"
 msgstr "O'tkazib yuborish"
 
-#: /client/application/game/ui/screens/screen_career.cpp:32
+#: /client/application/game/ui/screens/screen_career.cpp:33
 msgid "Statistics"
 msgstr "Statistika"
 
-#: /client/application/game/ui/screens/screen_career.cpp:58
+#: /client/application/game/ui/screens/screen_career.cpp:59
 msgid "Global leaderboards"
 msgstr "Global rekordlar"
 
+#: /client/application/game/ui/screens/screen_career.cpp:70
+msgid "Blitz leaderboard"
+msgstr ""
+
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
-#: /client/application/game/ui/screens/screen_career.cpp:75
+#: /client/application/game/ui/screens/screen_career.cpp:89
 msgid "All time stars and medals"
 msgstr "Butun vaqtdagi yulduzlar va medallar"
 
 #. The title of the screen that shows which level the player is at
-#: /client/application/game/ui/screens/screen_career.cpp:122
+#: /client/application/game/ui/screens/screen_career.cpp:136
 msgid "Level %s"
 msgstr "%s darajasi"
 
-#: /client/application/game/ui/screens/screen_career.cpp:161
+#: /client/application/game/ui/screens/screen_career.cpp:188
 msgid "XP leaderboard"
 msgstr "XP bo'yicha yetakchilik taxtasi"
 
-#: /client/application/game/ui/screens/screen_career.cpp:174
+#: /client/application/game/ui/screens/screen_career.cpp:200
 msgid "All leaderboards"
 msgstr "Barcha yetakchilik taxtalari"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
-#: /client/application/game/ui/screens/screen_career.cpp:186
+#: /client/application/game/ui/screens/screen_career.cpp:212
 msgid "Deviations completed"
 msgstr "Burilishlar yakunlandi"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
-#: /client/application/game/ui/screens/screen_career.cpp:192
+#: /client/application/game/ui/screens/screen_career.cpp:218
 msgid "Achievements"
 msgstr "Yutuqlar"
 
-#: /client/application/game/ui/screens/screen_career.cpp:194
+#: /client/application/game/ui/screens/screen_career.cpp:220
 msgid "Extra XP"
 msgstr "Qo'shimcha ball"
 
-#: /client/application/game/ui/screens/screen_career.cpp:219
+#: /client/application/game/ui/screens/screen_career.cpp:245
 msgid "Quests: %s XP"
 msgstr "Kvestlar: %s ball"
 
-#: /client/application/game/ui/screens/screen_career.cpp:224
+#: /client/application/game/ui/screens/screen_career.cpp:250
 msgid "Badges: %s XP"
 msgstr "Nishonlar: %s ball"
 
@@ -999,25 +985,65 @@ msgstr "Tezkor restart: %s"
 msgid "Slow Down: %s"
 msgstr "Sekinlashish: %s"
 
-#: /client/application/game/ui/screens/screen_configure_ship.cpp:56
+#: /client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
 msgstr "Kema sozlamalari"
 
-#: /client/application/game/ui/screens/screen_configure_ship.cpp:59
+#: /client/application/game/ui/screens/screen_configure_ship.cpp:58
 msgid "Model"
 msgstr "Model"
 
-#: /client/application/game/ui/screens/screen_configure_ship.cpp:59
+#: /client/application/game/ui/screens/screen_configure_ship.cpp:58
 msgid "Bullets"
 msgstr "O'qlar"
 
-#: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:99
+#: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
 msgstr "Boshqaruv sozlamalari"
 
-#: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:113
+#: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
 msgid "Swap"
 msgstr "Almashinuv"
+
+#: /client/application/game/ui/screens/screen_confirm_action.cpp:59
+msgid "Account deletion"
+msgstr "Akkaunt o'chirilmoqda"
+
+#: /client/application/game/ui/screens/screen_confirm_action.cpp:66
+msgid "Account deletion requested."
+msgstr "Akkauntni o'chirish uchun so'rov yuborilgan."
+
+#: /client/application/game/ui/screens/screen_confirm_action.cpp:68
+msgid "An email asking for confirmation was sent."
+msgstr "Tasdiqlash xati yuborildi."
+
+#: /client/application/game/ui/screens/screen_confirm_action.cpp:73
+msgid "Failed to request account deletion"
+msgstr "Akkauntni o'chirish so'rovi amalga oshmadi."
+
+#: /client/application/game/ui/screens/screen_confirm_action.cpp:94
+msgid "Are you sure?"
+msgstr ""
+
+#. Displayed in a button. The button is used in menus asking wether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: /client/application/game/ui/screens/screen_confirm_action.cpp:16
+msgctxt "menu_confirm_action"
+msgid "Yes"
+msgstr "Ha"
+
+#. Displayed in a button. The button is used in menus asking whether to
+#. confirm an action.
+#. For example:
+#.  | Are you sure you want to do X?
+#.  | * Yes     * No
+#: /client/application/game/ui/screens/screen_confirm_action.cpp:25
+msgctxt "menu_cancel_action"
+msgid "No"
+msgstr "Yo'q"
 
 #: /client/application/game/ui/screens/screen_download_level.cpp:53
 msgid "Downloading level..."
@@ -1028,142 +1054,173 @@ msgid "Failed to download level."
 msgstr "Bosqich yuklanmadi."
 
 #. The title of the screen showing the encyclopedia.
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:38
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:70
 msgid "Encyclopedia"
 msgstr "Ensiklopediyalar"
 
+#. Description of pointonium
+#. The "%s" is replaced by the ◬ character. In english the text becomes:
+#. "... as shown by the ◬ indicator."
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
+msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
+msgstr ""
+
 #. Description of the "Asteroid" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:43
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
 msgid "A bumpy, white asteroid that floats in space. Shoot it and it splits into multiple smaller parts. Exists in 4 different sizes."
 msgstr "Fazoda suzuvchi oq rangli asteroid. Uni o'qqa tutsangiz u bo'lakchalarga bo'linadi. 4 xil o'lchamda uchraydi."
 
 #. Description of the "BAF" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:52
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:133
 msgid "This yellow, arrow-shaped drone zips predictably back and forth."
 msgstr "Bu sariq, o'qsimon dron oldinga va orqaga uchadi."
 
 #. Description of the "Red BAF" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:61
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:141
 msgid "This red arrow-shaped drone mirrors the familiar movements of the standard BAF, but it is much stronger posing a greater threat."
 msgstr "Bu qizil, o'qsimon dron standart BAFning harakatlarini takrorlaydi, lekin u ancha xavfliligi bilan kuchliroq."
 
 #. Description of the "Blue BAF" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:70
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:149
 msgid "Unlike its yellow and red counterparts, it bounces off walls in unpredictable directions, making its movement difficult to anticipate."
 msgstr "O'zining sariq va qizil qarindoshidlaridan farqli o'laroq, u devorlarga urilib turli yo'nalishga uchib ketadi, shu sababdan u qayerga uchishini bilish qiyin."
 
 #. Description of the "Brownian" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:98
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:176
 msgid "A tetrahedron-shaped enemy that advances on your position with erratic, unpredictable movements."
 msgstr "Oldindan bilinmas va tartibsiz harakatlar bilan siz tomon yaqinlashadigan, 3H uchburchaksimon raqib."
 
 #. Description of the "Crowders" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:115
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:192
 msgid "An octahedron-shaped enemy that slowly advances on you. Tends to form dense crowds with other Crowders."
 msgstr "Sekin harakatlanuvchi, 3H rombsimon raqib. Boshqa Crowderlar bilan zich to'da hosil qilishga moyil."
 
 #. Description of the "Dodger" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:123
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:200
 msgid "An hourglass-shaped enemy that advances towards the nearest ship while actively evading projectiles. Like Crowders, has a tendency to form crowds."
 msgstr "O'qlardan faol qochib, eng yaqin kemaga intiladigan, qumsoat shaklidagi raqib. Crowderlar singari to'dalanishga moyil."
 
+#. Description of the "Exploder" enemy
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:208
+msgid "An inscribed polygram that advances towards the nearest ship. Upon its destruction, releases a blast of energy that damages any ship it touches."
+msgstr ""
+
 #. Description of the "Inertiac" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:131
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
 msgid "Made of rotating concentric circles, it plunges towards the nearest ship with inertia. Very resistant to damage, it can fortunately be repelled with bullets."
 msgstr "Bir markazli, aylanuvchi doiralardan tashkil topgan. U eng yaqin kema tomon intiladi. Juda chidamli, lekin o'qlar orqal yo'q qilish mumkin."
 
 #. Description of the "Kamikaze" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:140
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
 msgid "A flying ship that relentlessly scans for a prey. Once it locks onto you, it immediately charges forward, attempting to ram you head-on"
 msgstr "O'ljani to'xtovsiz ta'qib qiluvchi uchar kema. U sizni sezishi bilanoq, siz tomon ildam harakatlanadi va buzib o'tishga urinadi."
 
 #. Description of the "Pink Mothership" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:149
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:238
 msgid "A pink triangle-shaped mothership that roams the levels. Upon its destruction it unleashes three arcs of bullets from its sides."
 msgstr "Bosqichlarda daydib yuruvchi, pushtirang uchburchak ona-kema. Agar u yo'q qilinsa, uch tomonidan o'qlar yoyi chiqadi."
 
 #. Description of the "Red Mothership" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:159
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:248
 msgid "A red square-shaped mothership that roams the levels. Upon its destruction it unleashes a barrage of homing bullets that pursue the nearest ship."
 msgstr "Bosqich daydisi bo'lgan, qizil, kvadrat hajmdagi ona-kema. Agar yo'q qilinsa, o'yinchini ta'qib etuvchi o'qlar to'dasini chiqaradi."
 
 #. Description of the "Orange Mothership" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:169
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:258
 msgid "An orange, pentagon-shaped mothership that roams the levels. Upon its destruction it fires six bullets in a hexagon pattern."
 msgstr "Bosqichlarda daydidigan yana bir ona-kema. Olovrang beshburchakli. Yo'q bo'lganda oltiburchak shaklidagi oltita o'qni otadi."
 
 #. Description of the "Green Mothership" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:179
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:268
 msgid "A green, hexagon-shaped mothership that roams the levels. Upon its destruction it unleashes a circle of bullets."
 msgstr "Bosqichlarda daydidigan, olti burchakli, yashil ona-kema. Halok bo'layotganda doria qilib o'qlar chiqaradi."
 
 #. Description of the "Cyan Mothership" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:189
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:278
 msgid "A cyan, heptagon-shaped mothership that roams the levels. Upon its destruction, it fires a dense arc of bullets towards the nearest ship."
 msgstr "Yettiburchak shaklidagi moviy onakema. Bosqichlarda daydib yuradi. Halok bo'lsa, eng yaqin o'yinchi tomon o'qlarning zich yoyini chiqaradi."
 
 #. Description of the "Super Pink Mothership" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:199
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:288
 msgid "An extra-large, pink, triangle-shaped mothership. Upon its destruction, unleashes three arcs of large bullets from its sides."
 msgstr "Uchburchak shaklidagi o'ta ulkan onakema. Yo'q qilinsa, uch tomonidan ulkan o'qlar yoyini chiqaradi"
 
 #. Description of the "Super Red Mothership" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:209
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:298
 msgid "An extra-large, red, squared-shaped mothership. Upon its destruction, unleashes large homing bullets that actively pursue the nearest ship."
 msgstr "O'ta ulkan, qizil, kvadrat onakema. Yo'q qilinsa, eng yaqin kemani ta'qib etuvchi ulkan o'qlar chiqaradi."
 
 #. Description of the "Super Orange Mothership" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:219
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:308
 msgid "An extra-large orange, pentagon-shaped mothership. Upon its destruction it fires four times the number of bullets compared to its standard counterpart."
 msgstr "O'ta ulkan, olovrang, bechburchak onakema. Yo'q qilinganida, standart nusxasidan to'rt karra ko'proq o'qlar otadi."
 
 #. Description of the "Super Green Mothership" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:318
 msgid "An extra-large green, hexagon-shaped mothership. Upon its destruction, fires an extremely dense circle of large and fast bullets."
 msgstr "Juda katta, yashil, oltiburchak onakema. Yo'q qilingan zahoti, o'zidan katta va tezkor o'qlarning zich aylanasini chiqaradi."
 
 #. Description of the "Super Cyan Mothership" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:239
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:328
 msgid "An extra-large cyan, heptagon-shaped mothership. Upon its destruction, fires a huge arc of large and fast bullets towards the nearest ship."
 msgstr "Bahaybat, moviy, yettiburchak onakema. Halok bo'lgan on, eng yaqin kema tomon, katta va tezkor o'qlardan yasalgan yoy bilan hujum qiladi."
 
 #. Description of the "Rolling Cube" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:249
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:338
 msgid "A cube-shaped enemy that rolls through the levels. It constantly seeks out the nearest ship, and its speed increases progressively over time."
 msgstr "Bosqich bo'ylab dumalab yuradigan kubsimon raqib. Tinimsiz o'lja izlab yuradi va tezligi vaqt o'tgani sayin oshib boraaveradi."
 
 #. Description of the "Rolling Sphere" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:259
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:348
 msgid "A spherical enemy that rolls around the levels, bouncing off walls. While immune to standard bullets, it will shrink when hit by a Freeze bomb."
 msgstr "Bosqich bo'ylab yumalab yuradigan va devorlarga urilib harakatlanadigan sharsimon dushman. Oddiy o'qlar unga ziyon yetkazmaydi, lekin muzlatuvchi bomba uni kichraytirib qo'yishi mumkin."
 
 #. Description of the "Spiny" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:287
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:376
 msgid "An arrow-shaped enemy that moves along circular paths, bouncing of walls. Possesses a tendency to drift towards nearby ships."
 msgstr "Aylana bo'ylab harakatlanuvchi va devorlardan urilib uchuvchi o'qsimon dushman. Eng yaqin kemaga urilishga moyil."
 
 #. Description of the "Splitter" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:295
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:384
 msgid "A pink, flower-shaped enemy that drifts in random directions. Upon its destruction, it unleashes petals that scatter in a circular pattern."
 msgstr "Tartibsiz yo'nalishga ega, gulsimon, pushti yov. Halok bo'lganda, aylana bo'ylab harakatlanuvchi barglar bilan o't ochadi."
 
 #. Description of the "UFO" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:303
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:392
 msgid "A red, flying saucer shaped enemy that glides across the levels. Regularly shoot bullets towards the nearest ship that also happen to damage other enemies."
 msgstr "Bosqichlarda sudralib harakatlanuvchi, qizil NUJ. Boshqa yovlarni jarohatlovchi o'qlar bilan eng yaqin kemaga doimiy ravishda o'q uzadi."
 
 #. Description of the "Wary" enemy
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:313
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:402
 msgid "A small blue-purple hexagon-shaped enemy that wanders aimlessly through the levels. Fires homing bullets towards the nearest ship."
 msgstr "Oltiburchak shaklidagi, ko'k-siyohrang, kichik dushmancha. Maqsadsiz harakatlanib yuradi. O'zi uchar o'qlar bilan hamla qiladi."
 
-#. A string in the Encyclopedia used to show the
-#. stats (Health, Damage, Score) of an enemy
-#. The %s will be replaced by a number, or a range like "10-5-2"
-#. Meaning based on certain properties of the enemy, it can be 10, 5 or 2
-#: /client/application/game/ui/screens/screen_encyclopedia.cpp:368
-msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
-msgstr "#00ff00ffSog'liq: %s#ffffffff, #ff0000ffZarar: %s#ffffffff, #ffff00ffBall: %s"
+#. Used in the Encyclopedia to show the health of a destroyable entity.
+#. The %s is replaced by a number or a set of numbers
+#. For example:
+#. Health: 1
+#. Health: 1, 2, 3
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:457
+msgid "Health: %s"
+msgstr ""
+
+#. Used in the Encyclopedia to show the damage that an entity does.
+#. The %s is replaced by a number or a set of numbers
+#. For example:
+#. Damage: 1
+#. Damage: 1, 2, 3
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:464
+msgid "Damage: %s"
+msgstr ""
+
+#. Used in the Encyclopedia to show the points that an entity gives out.
+#. The %s is replaced by a number or a set of numbers
+#. For example:
+#. Points: 1
+#. Points: 1, 2, 3
+#: /client/application/game/ui/screens/screen_encyclopedia.cpp:471
+msgid "Points: %s"
+msgstr ""
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
@@ -1231,19 +1288,19 @@ msgctxt "speedrun"
 msgid "%1$s in %2$s, by %3$s"
 msgstr "%3$s orqali %1$s %2$s da"
 
-#: /client/application/game/ui/screens/screen_informations.cpp:87
+#: /client/application/game/ui/screens/screen_informations.cpp:92
 msgid "Music"
 msgstr "Musiqa"
 
 #. Shown in a button. This buttons lets you see a list of people that
 #. contributed to the game.
-#: /client/application/game/ui/screens/screen_informations.cpp:102
+#: /client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Credits"
 msgstr "Titrlar"
 
 #. Shown in a button. This buttons lets you see the list of programming
 #. library that are used in the game.
-#: /client/application/game/ui/screens/screen_informations.cpp:116
+#: /client/application/game/ui/screens/screen_informations.cpp:121
 msgid "Licenses"
 msgstr "Litsenziya"
 
@@ -1261,14 +1318,14 @@ msgstr "You Tube"
 
 #. Shown in the tab strip of the inventory. Used for showing all the unlocked
 #. items.
-#: /client/application/game/ui/screens/screen_inventory.cpp:90
+#: /client/application/game/ui/screens/screen_inventory.cpp:94
 msgid "All"
 msgstr "Hamma"
 
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
 #. bullets, the joysticks, the ui color, etc...
-#: /client/application/game/ui/screens/screen_inventory.cpp:225
+#: /client/application/game/ui/screens/screen_inventory.cpp:233
 msgid "Inventory"
 msgstr "Inventar"
 
@@ -1308,18 +1365,30 @@ msgid "loaded <%s>"
 msgstr "yuklandi <%s>"
 
 #. The text in the button that players press to join a Blitz
-#: /client/application/game/ui/screens/screen_join_blitz.cpp:21
+#: /client/application/game/ui/screens/screen_join_blitz.cpp:33
 msgid "Join Blitz"
 msgstr ""
 
 #. Explanation text for Blitz
-#: /client/application/game/ui/screens/screen_join_blitz.cpp:38
+#: /client/application/game/ui/screens/screen_join_blitz.cpp:50
 msgid "Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\nDuring each round the goal is to score as much as possible.\n\nAt the end of the competition, everybody is ranked based on their performance."
 msgstr ""
 
 #. Text appended to the explanation text for Blitz
-#: /client/application/game/ui/screens/screen_join_blitz.cpp:40
+#: /client/application/game/ui/screens/screen_join_blitz.cpp:52
 msgid "Good luck!"
+msgstr ""
+
+#. Used for showing how many players are waiting in a Blitz.
+#. For example: "waiting: 3"
+#: /client/application/game/ui/screens/screen_join_blitz.cpp:76
+msgid "waiting: %s"
+msgstr ""
+
+#. Used for showing how many players are playing in a Blitz.
+#. For example: "playing: 13"
+#: /client/application/game/ui/screens/screen_join_blitz.cpp:79
+msgid "playing: %s"
 msgstr ""
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
@@ -1354,33 +1423,33 @@ msgstr "Multipleyer bo'yicha yordam"
 msgid "Searching for rooms..."
 msgstr "Xona qidirilmoqda..."
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:171
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:172
 msgid "(Incompatible version)"
 msgstr "(Versiyalar mos emas)"
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:191
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:199
 msgid "Create room"
 msgstr "Xona yaratish"
 
-#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:193
+#: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:201
 msgid "Close room"
 msgstr "Xonani yopish"
 
-#: /client/application/game/ui/screens/screen_main_menu.cpp:65
+#: /client/application/game/ui/screens/screen_main_menu.cpp:58
 msgid "Single Player"
 msgstr "Bir kishilik o'yin"
 
-#: /client/application/game/ui/screens/screen_main_menu.cpp:67
+#: /client/application/game/ui/screens/screen_main_menu.cpp:60
 msgid "Play"
 msgstr "O'ynash"
 
-#: /client/application/game/ui/screens/screen_main_menu.cpp:96
+#: /client/application/game/ui/screens/screen_main_menu.cpp:89
 msgid "Multiplayer"
 msgstr "Multipleyer"
 
 #. The label of a button shown in the main menu that means you have
 #. new items to unlock.
-#: /client/application/game/ui/screens/screen_main_menu.cpp:378
+#: /client/application/game/ui/screens/screen_main_menu.cpp:338
 msgid "New Items"
 msgstr "Yangi Buyumlar"
 
@@ -1433,50 +1502,50 @@ msgstr "Rad etish"
 msgid "Waiting for other players..."
 msgstr "O'yinchilarni kutish..."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:74
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:76
 msgid "Checking network..."
 msgstr "Tarmoqni tekshirish..."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:94
 msgid "Can't play in multiplayer with a symmetric NAT."
 msgstr "Simmetrik NAT bilan multiplayer o'ynash mumkin emas."
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
 #. information, or opens a webpage.
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:101
 msgid "Learn more"
 msgstr "Aniqroq"
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:105
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "Symmetric NAT error"
 msgstr "Simmetrik NAT xatosi."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:109
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
 msgstr "Bu degani sizning internetingiz o'chiq va P2P multipleyerida o'ynay olmaysiz."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:108
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:110
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
 msgstr "Agar mobil aloqa almashinuvini ishlatayotgan bo'lsangiz wi-fi ga o'ting. Agar bu yordam bermasa, boshqa wi-fi ga ulaning."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:121
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:123
 msgid "Failed to connect to the STUN servers."
 msgstr "STUN serverlariga ulana olmadingiz."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:146
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:147
 msgid "Authenticating..."
 msgstr "Autentifikasiya..."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:159
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:160
 msgid "Need the latest version of the game."
 msgstr "O'yinnning eng yangi versiyasini yuklashingiz kerak."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:168
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:169
 msgid "Failed to authenticate"
 msgstr "Autentifikasiya o'xshamadi."
 
-#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:190
+#: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:191
 msgid "Error :("
 msgstr "Xato :("
 
@@ -1538,7 +1607,7 @@ msgstr "Yangilash"
 
 #. The title of the screen shown when a player is in the process of joining a
 #. Blitz
-#: /client/application/game/ui/screens/screen_play_blitz.cpp:160
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:161
 msgid "Joining Blitz"
 msgstr ""
 
@@ -1547,15 +1616,9 @@ msgstr ""
 msgid "Disconnected from Blitz"
 msgstr ""
 
-#. Error message for when a "connection error" caused the disconnection
-#. of a player from a Blitz
-#: /client/application/game/ui/screens/screen_play_blitz.cpp:192
-msgid "Connection error"
-msgstr "Qo'shilishda xatolik yuz berdi."
-
-#. The string shown to players in the waiting room while waiting for the
-#. previous Blitz to finish.
-#: /client/application/game/ui/screens/screen_play_blitz.cpp:330
+#. The string shown to players in the waiting room while waiting for
+#. the previous Blitz to finish.
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:333
 msgid "Waiting for previous Blitz..."
 msgstr ""
 
@@ -1563,50 +1626,40 @@ msgstr ""
 #. Blitz. For the record, the number of players required and the number
 #. of players that joined is appended to this string. For example, this
 #. will be shown: "Waiting for players 7/10"
-#: /client/application/game/ui/screens/screen_play_blitz.cpp:340
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:343
 msgid "Waiting for players"
 msgstr ""
 
 #. Shown during a Blitz. Is used for showing how much time is left
-#. before the next round starts. The % is replaced with a time in
+#. before the next round starts. The %s is replaced with a time in
 #. seconds, for example: Starting in 5.3s
-#: /client/application/game/ui/screens/screen_play_blitz.cpp:559
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:565
 msgid "Starting in %s"
 msgstr ""
 
 #. Text shown when the player tries to exit a Blitz.
-#: /client/application/game/ui/screens/screen_play_blitz.cpp:620
+#: /client/application/game/ui/screens/screen_play_blitz.cpp:626
 msgid "Are you sure you want to exit the Blitz?"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_play_blitz.cpp:595
-msgctxt "menu_confirm_action"
-msgid "Yes"
-msgstr "Ha"
-
-#: /client/application/game/ui/screens/screen_play_blitz.cpp:596
-msgctxt "menu_cancel_action"
-msgid "No"
-msgstr "Yo'q"
-
 #. The string shown in a button to claim rewards from completing a quest
-#: /client/application/game/ui/screens/screen_quests.cpp:153
+#: /client/application/game/ui/screens/screen_quests.cpp:154
 msgid "Claim"
 msgstr ""
 
 #. The title of the screen that shows the quests available
-#: /client/application/game/ui/screens/screen_quests.cpp:191
+#: /client/application/game/ui/screens/screen_quests.cpp:192
 msgid "Quests"
 msgstr ""
 
 #. Message shown when downloading quests has failed.
-#: /client/application/game/ui/screens/screen_quests.cpp:271
+#: /client/application/game/ui/screens/screen_quests.cpp:272
 msgid "Failed to download quests"
 msgstr ""
 
 #. Message shown when the game is too old and needs to be updated to
 #. support the new quests.
-#: /client/application/game/ui/screens/screen_quests.cpp:283
+#: /client/application/game/ui/screens/screen_quests.cpp:284
 msgid "Incompatible quests: the game needs to be updated."
 msgstr ""
 
@@ -1622,170 +1675,178 @@ msgstr ""
 msgid "Developer mode"
 msgstr "Dasturlovchi rejimi"
 
-#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:19
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:20
 msgid "Select multiplayer type"
 msgstr "Multipleyer turini tanlash"
 
-#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:34
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:35
+msgid "Compete in rounds against 3 or more people!"
+msgstr ""
+
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:60
 msgid "Play with people around the world!"
 msgstr "Butun dunyo odamlari bilan o'ynash!"
 
-#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:49
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:74
 msgid "LAN multiplayer"
 msgstr "LAN multipleyer"
 
-#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:60
+#: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:85
 msgid "Play with people on the same network!"
 msgstr "Bir tarmoqdagi odamlar bilan o'ynash!"
 
 #. The title of the screen where you select official levels.
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:44
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:35
 msgid "Official"
 msgstr "Rasmiy"
 
 #. The title of the screen where you select what to play in the World.
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:46
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "World"
 msgstr "Dunyo"
 
 #. The title of the screen where you select what sandbox to play.
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:48
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:39
 msgid "Sandbox"
 msgstr "Qum quti"
 
 #. The title of the screen where you select community levels.
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:50
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:41
 msgid "Community"
 msgstr "Hamjamiyat"
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:159
 msgid "Official levels allow you to get score medals:"
 msgstr "Rasmiy darajalar medal olish imkonini baradi:"
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:160
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
 msgstr "#ff8000ffBronza#ffffffff, #ffffffaaKumush#ffffffff, va #ffff00ffOltin#ffffffff"
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:161
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
 msgstr "Agar siz oltin medalga loyiq ballni tezda qo'lga kiritsangiz, spidran medallarini qo'lga kiritasiz."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:171
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:162
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
 msgstr "Bu spidran medallarni qo'lga kiritish oltin medallarni qo'lga kiritishdan qiyinroqligini anglatadi."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:172
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:163
 msgid "The reward is %1$s XP per score medals, and %2$s XP per speed run medals"
 msgstr "Natija medallariga %1$s malaka beriladi, spidran medallariga esa - %2$s malaka."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:177
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
 msgid "The world contains many deviations."
 msgstr "Dunyoda ko'plab deviatsiyalar mavjud."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:178
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
 msgid "To complete deviations you should be familiar with the official levels."
 msgstr "Deviatsiyalardan o'tish uchun rasmiy darajalarni yaxshi bilish zarur."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
 msgid "You can play the deviations in 3 levels of difficulties."
 msgstr "Deviatsiyalardan 3 xil qiyinlikda o'tish mumkin."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:171
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
 msgstr "Ehtiyot bo'l! #ffff00ffQiyin#ffffffff - juda qiyin degani, va #ff0000ffAql bovar qilmas#ffffffff - O'tib bo'lmas."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:181
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:172
 msgid "For every completed deviation you get XP."
 msgstr "Har bir o'tilgan deviatsiya uchun malaka beriladi."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:182
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:173
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
 msgstr "%1$s ta malaka oddiy uchun, %2$s ta malaka qiyin uchun, %3$s ta malaka aql bovar qilmas uchun."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:188
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
 msgid "The sandbox is the place to train and experiment under different conditions."
 msgstr "Qumquti - bu xar hil sharoitda shug'ullanish va tajriba qilish uchun joy."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:189
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
 msgstr "Daraja, kema, bonus va raqiblarni sozla!"
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:190
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:181
 msgid "The sandbox is still in development, so expect changes in the future."
 msgstr "Qumquti ishlab chiqish jarayonida, shuning uchun ba'zi narsalar o'zgarishi mumkin."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:193
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:184
 msgid "Community levels are created by the community."
 msgstr "Hamjamiyat bosqichlari hamjamiyat tomonidan yaratiladi."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:194
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:185
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
 msgstr "Bosqichalar tajriba, tasdiqlangan va saralarga ajraladi. Natijalarni faqat tasdiqlangan va sara bosqichlardan yuborishingiz mumkin."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:195
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:186
 msgid "Most community levels give out stars."
 msgstr "Ko'pchilik hamjamiyat bosqichlari yulduz ishlash imkonini beradi."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:196
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:187
 msgid "The reward is 300 XP per star: if you got a gold star in a level, you got 900 XP points from that level."
 msgstr "Har yulduzga 300 XP beriladi: agar oltin yulduz olsangiz, siz shu bosqichdan 900 XP olgan bo'lasiz."
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:201
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "Official levels information"
 msgstr "Rasmiy darajalar haqida"
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:206
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:197
 msgid "Community levels information"
 msgstr "Hamjamiyat bosqichlari haqida"
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:211
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "World information"
 msgstr "Dunyo haqida"
 
-#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:216
+#: /client/application/game/ui/screens/screen_select_single_player_level.cpp:207
 msgid "Sandbox information"
 msgstr "Qumquti haqida"
+
+#: /client/application/game/ui/screens/screen_server_connection_closed.cpp:15
+msgid "Connection error"
+msgstr "Qo'shilishda xatolik yuz berdi."
 
 #: /client/application/game/ui/screens/screen_server_connection_closed.cpp:18
 msgid "Lost connection to host"
 msgstr "Qo'shilish uzildi."
 
-#: /client/application/game/ui/screens/screen_settings.cpp:39
+#: /client/application/game/ui/screens/screen_settings.cpp:37
 msgid "Settings"
 msgstr "Sozlamalar"
 
 #. Shown in the button used for entering the screen to configure the
 #. graphics settings.
-#: /client/application/game/ui/screens/screen_settings.cpp:50
+#: /client/application/game/ui/screens/screen_settings.cpp:48
 msgid "Graphics"
 msgstr "Grafika"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:60
+#: /client/application/game/ui/screens/screen_settings.cpp:58
 msgid "Controls"
 msgstr "Boshqaruv"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:70
+#: /client/application/game/ui/screens/screen_settings.cpp:96
 msgid "Audio"
 msgstr "Ovoz"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:81
+#: /client/application/game/ui/screens/screen_settings.cpp:115
 msgid "Language"
 msgstr "Til"
 
-#: /client/application/game/ui/screens/screen_settings.cpp:92
+#: /client/application/game/ui/screens/screen_settings.cpp:126
 msgid "UI"
 msgstr "Interfeys"
 
 #. Label used to show a vibration setting next to an on/off switch
-#: /client/application/game/ui/screens/screen_settings.cpp:123
+#: /client/application/game/ui/screens/screen_settings.cpp:157
 msgid "Vibration"
 msgstr ""
 
-#: /client/application/game/ui/screens/screen_settings.cpp:141
+#: /client/application/game/ui/screens/screen_settings.cpp:175
 msgid "Start tutorial"
 msgstr "Boshlang'ich \"dars\"."
 
-#: /client/application/game/ui/screens/screen_settings.cpp:153
+#: /client/application/game/ui/screens/screen_settings.cpp:187
 msgid "Launch intro"
 msgstr "Intro ni ko'rish"
 
@@ -1865,15 +1926,21 @@ msgstr "Steamdagi status"
 msgid "Show optional floating text"
 msgstr "Qalqib chiquvchi matnni ko'rsatish"
 
+#. The description of the setting that allows players to toggle on or off
+#. the UI transition animation in-game.
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:215
+msgid "Show UI transition animation"
+msgstr ""
+
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:266
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:287
 msgid "UI Scale: %s"
 msgstr "Masshtab: %s"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Inset: 4%"
-#: /client/application/game/ui/screens/screen_settings_ui.cpp:273
+#: /client/application/game/ui/screens/screen_settings_ui.cpp:294
 msgid "UI Inset: %s"
 msgstr "Aralashish: %s"
 
@@ -1897,7 +1964,7 @@ msgstr "Internet orqali xonaga kirish #ff0000ff(ekstrimal)"
 msgid "Connect"
 msgstr "Qo'shilish"
 
-#: /client/application/game/ui/screens/screen_tutorial.cpp:32
+#: /client/application/game/ui/screens/screen_tutorial.cpp:31
 msgid "Tutorial"
 msgstr "Ta'lim"
 
@@ -1964,116 +2031,116 @@ msgstr "%s tomonidan natijalr yuklanmoqda."
 
 #. Shown in the achievement filter, when all achievements are listed
 #. (=no filtering is done).
-#: /client/application/game/ui/screens/screen_view_achievements.cpp:39
+#: /client/application/game/ui/screens/screen_view_achievements.cpp:30
 msgid "all"
 msgstr ""
 
 #. Shown in the achievement filter, when only the "very high scores"
 #. achievements are listed.
-#: /client/application/game/ui/screens/screen_view_achievements.cpp:42
+#: /client/application/game/ui/screens/screen_view_achievements.cpp:33
 msgid "very high score"
 msgstr ""
 
 #. Shown in the achievement filter, when only "inertic" achievements are
 #. listed.
-#: /client/application/game/ui/screens/screen_view_achievements.cpp:45
+#: /client/application/game/ui/screens/screen_view_achievements.cpp:36
 msgid "inertic"
 msgstr ""
 
 #. Shown in the achievement filter, when the uncategorized achievements
 #. are listed.
-#: /client/application/game/ui/screens/screen_view_achievements.cpp:48
+#: /client/application/game/ui/screens/screen_view_achievements.cpp:39
 msgid "other"
 msgstr ""
 
 #. Shown when a user disables comments on their profile and or levels.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:207
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
 msgid "Comments are disabled."
 msgstr "Izohlar o'chirilgan"
 
 #. The title of the screen where players delete comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:267
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:268
 msgid "Delete comment"
 msgstr "Izohni o'chirish"
 
 #. Shown in a notification after successfully deleting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:269
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:270
 msgid "Successfully deleted comment"
 msgstr "izoh muvaffaqiyatli o'chirildi."
 
 #. Shown in a notification if a comment could not be deleting.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:271
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:272
 msgid "Error deleting comment"
 msgstr "Izohni o'chirishda xatolik yuz berdi."
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:274
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:275
 msgid "Are you sure you want to delete this comment?"
 msgstr "Siz aniq izohni o'chirmoqmisiz?"
 
 #. The title of the screen where players report comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:304
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:305
 msgid "Are you sure you want to report this comment?"
 msgstr "Siz aniq izohlarga shikoyat qilmoqchimisiz?"
 
 #. Shown in a notification after successfully reporting a comment.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:306
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:307
 msgid "Successfully reported comment"
 msgstr "Shikoyat muvaffaqiyatli yuborildi"
 
 #. Shown in a notification if a comment could not be reported.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:308
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:309
 msgid "Error reporting comment"
 msgstr "Shikoyat yuborishda xatolik yuz berdi."
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:465
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:466
 msgid "No comments"
 msgstr "Izohlar yo'q"
 
 #. Used as a placeholder in the textfield where players write their comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:484
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:485
 msgid "<Add a comment here>"
 msgstr "<Izohni shu yerga yozing>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:499
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:500
 msgid "Comment"
 msgstr "Yuborish"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:505
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:506
 msgid "Comment must be at least 3 characters long."
 msgstr "Kami bilan 3 belgi."
 
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:521
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:522
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
 msgstr "Iltimos, muloyim bo'ling. Spam, so'kinish va haqorat qilish taqiqlangan. Biz qoidalarga to'g'ri kelmaydigan izohlarni o'chirish va ushbu izohlar joylashtirilgan hisoblarni bloklash huquqini o'zida saqlab qolamiz."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:545
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:546
 msgid "Posting comment"
 msgstr "Izohni yuborish"
 
 #. Shown in a notification after a comment was successfully posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:566
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:567
 msgid "Comment posted"
 msgstr "Izoh yuborildi."
 
 #. Shown in a notification after a comment failed to be posted.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:570
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:571
 msgid "Failed to post comment"
 msgstr "Izoh yuborilmadi."
 
 #. The title of the screen where players report comments.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:302
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:303
 msgctxt "report_screen_title"
 msgid "Report comment"
 msgstr "Izohga shikoyat"
 
 #. The title of the screen where players enter the comment they want to add.
-#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:477
+#: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:478
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
 msgstr "Izoh qo'shish"
@@ -2182,7 +2249,9 @@ msgstr "Ma'lumot yo'q."
 msgid "Gold medals percentage: %s"
 msgstr "Oltin medallar foizi: %s"
 
-#: /client/application/game/ui/screens/screen_view_xp_leaderboard.cpp:81
+#. A message explaining that "Extra XP" is not taken into account when
+#. computing the XP leaderboard.
+#: /client/application/game/ui/screens/screen_view_xp_leaderboard.cpp:83
 msgid "( excluding Extra XP )"
 msgstr ""
 
@@ -2194,80 +2263,84 @@ msgstr "Repley ni o'qishning iloji yo'q."
 msgid "Failed to download replay."
 msgstr "Repley yuklab olinmadi."
 
-#: /client/application/game/ui/shared_strings.cpp:8
+#: /client/application/game/ui/shared_strings.cpp:9
 msgid "Failed to parse response"
 msgstr "Serverdan javob kelmadi."
 
-#: /client/application/game/ui/shared_strings.cpp:12
+#: /client/application/game/ui/shared_strings.cpp:13
 msgid "Failed to contact server"
 msgstr "Server bilan ulana olmadingiz."
 
-#: /client/application/game/ui/shared_strings.cpp:16
+#: /client/application/game/ui/shared_strings.cpp:17
 msgid "Official levels"
 msgstr "Rasmiy bosqichlar"
 
-#: /client/application/game/ui/shared_strings.cpp:20
+#: /client/application/game/ui/shared_strings.cpp:21
 msgid "Community levels"
 msgstr "Hamjamiyat bosqichlari"
 
-#: /client/application/game/ui/shared_strings.cpp:24
+#: /client/application/game/ui/shared_strings.cpp:25
 msgid "play count: %s"
 msgstr "Urinishlar: %s"
 
-#: /client/application/game/ui/shared_strings.cpp:28
+#: /client/application/game/ui/shared_strings.cpp:29
 msgid "time played: %s"
 msgstr "O'yindagi vaqt: %s"
 
-#: /client/application/game/ui/shared_strings.cpp:32
+#: /client/application/game/ui/shared_strings.cpp:33
 msgid "Casual"
 msgstr "Oddiy"
 
-#: /client/application/game/ui/shared_strings.cpp:36
+#: /client/application/game/ui/shared_strings.cpp:37
 msgid "Failed to sign-in!"
 msgstr "Kira olmadingiz."
 
 #. Describes the lowest difficutly setting (1/3)
-#: /client/application/game/ui/shared_strings.cpp:41
+#: /client/application/game/ui/shared_strings.cpp:42
 msgid "Normal"
 msgstr "Normal"
 
 #. Describes the mid difficulty setting (2/3)
-#: /client/application/game/ui/shared_strings.cpp:46
+#: /client/application/game/ui/shared_strings.cpp:47
 msgid "Hard"
 msgstr "Qiyin"
 
 #. Describes the highest difficutly setting (3/3)
-#: /client/application/game/ui/shared_strings.cpp:51
+#: /client/application/game/ui/shared_strings.cpp:52
 msgid "Delirious"
 msgstr "Aql bovar qilmas"
+
+#: /client/application/game/ui/views/account_view.cpp:340
+msgid "Blitz Skill Rating: %s"
+msgstr ""
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
 #. "Era 2 medals and stars"
-#: /client/application/game/ui/views/account_view.cpp:385
+#: /client/application/game/ui/views/account_view.cpp:403
 msgid "Era %s medals and stars"
 msgstr "Medallar va milod yulduzlari %s"
 
 #. Error shown when downloading some piece of data failed.
-#: /client/application/game/ui/views/account_view.cpp:537
+#: /client/application/game/ui/views/account_view.cpp:556
 msgid "Download error"
 msgstr "Yuklash xatosi"
 
 #. Shown when the downloading of some piece of data is in progress.
-#: /client/application/game/ui/views/account_view.cpp:539
+#: /client/application/game/ui/views/account_view.cpp:558
 msgid "Downloading..."
 msgstr "Yuklash..."
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
-#: /client/application/game/ui/views/account_view.cpp:89
+#: /client/application/game/ui/views/account_view.cpp:90
 msgctxt "account_view"
 msgid "Levels"
 msgstr "Darajalar"
 
 #. Used in a button. When pressed, shows the scores that a player has
 #. obtained.
-#: /client/application/game/ui/views/account_view.cpp:92
+#: /client/application/game/ui/views/account_view.cpp:93
 msgctxt "account_view"
 msgid "Scores"
 msgstr "Rekordlar"
@@ -2275,27 +2348,27 @@ msgstr "Rekordlar"
 #. Used in a button. When pressed, shows general information on a player,
 #. including the date they joined, the number of medals they have, links
 #. to their youtube channel, etc...
-#: /client/application/game/ui/views/account_view.cpp:96
+#: /client/application/game/ui/views/account_view.cpp:97
 msgctxt "account_view"
 msgid "General"
 msgstr "Asosiy"
 
-#. Displayed in a player's profile. The %s will be replaced by the date the
-#. player joined, for example:
-#. "Join date: 2021-08-25"
-#: /client/application/game/ui/views/account_view.cpp:330
-msgctxt "account_view"
-msgid "Join date: %s"
-msgstr "Registratsiyalangan: %s"
-
 #. Displayed in a player's profile. The %s will be replaced by the level of
 #. the player, for example: "Level: 46"
-#: /client/application/game/ui/views/account_view.cpp:340
+#: /client/application/game/ui/views/account_view.cpp:330
 msgctxt "account_view"
 msgid "Level: %s"
 msgstr "Bosqich: %s"
 
-#: /client/application/game/ui/views/community_level_selector.cpp:261
+#. Displayed in a player's profile. The %s will be replaced by the date the
+#. player joined, for example:
+#. "Join date: 2021-08-25"
+#: /client/application/game/ui/views/account_view.cpp:357
+msgctxt "account_view"
+msgid "Join date: %s"
+msgstr "Registratsiyalangan: %s"
+
+#: /client/application/game/ui/views/community_level_selector.cpp:259
 msgid "IN REVIEW"
 msgstr "TEKSHIRUVDA"
 
@@ -2336,6 +2409,11 @@ msgstr "Yulduzlar"
 msgid "Difficulty"
 msgstr "Qiyinlik"
 
+#. Shown in the button that allows users to sort by xp
+#: /client/application/game/ui/views/sort_button.cpp:48
+msgid "XP"
+msgstr ""
+
 #: /client/application/game/ui/views/top_notification_view.cpp:57
 msgid "%sWaiting for other player%s"
 msgstr "%sO'yinchilarni kutish%s"
@@ -2348,6 +2426,14 @@ msgstr "Dunyoga kirish"
 #: /client/application/ui/keyboard_view.cpp:112
 msgid "ok"
 msgstr "Ok"
+
+#: /client/application/ui/ui_helpers.cpp:305
+msgid "%s minute(s)"
+msgstr "%s daqiqa"
+
+#: /client/application/ui/ui_helpers.cpp:306
+msgid "%s second(s)"
+msgstr "%s soniya"
 
 #. The color "red"
 #: /client/application/ui/ui_skin.cpp:35
