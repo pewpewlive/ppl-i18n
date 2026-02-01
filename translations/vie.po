@@ -1063,7 +1063,7 @@ msgstr "Bách khoa"
 #. "... as shown by the ◬ indicator."
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
 msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
-msgstr "Một hình đa giác nội tiếp tiến lại gần chiếc tàu gần nhất. Khi bị giết, nó tỏa ra luồng năng lượng gây sát thương cho người chơi chạm vào nó."
+msgstr "Đối thủ sẽ làm rơi Pointonium khi chết. Lượng Pointonium phụ thuộc vào tần suất, kí hiệu là %s. Khi nhận Pointonium, bạn sẽ nhận điểm."
 
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
@@ -1103,7 +1103,7 @@ msgstr "Vật thể hình đồng hồ cát lăn tới chiếc tàu gần nhất
 #. Description of the "Exploder" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:208
 msgid "An inscribed polygram that advances towards the nearest ship. Upon its destruction, releases a blast of energy that damages any ship it touches."
-msgstr "Một hình đa giác nội tiếp tiến lại gần chiếc tàu gần nhất. Khi bị phá hủy, tỏa ra một luồng năng lượng gây tổn thất chiếc tàu chạm vào nó."
+msgstr "Một hình đa giác nội tiếp tiến lại gần chiếc tàu gần nhất. Khi bị giết, nó tỏa ra luồng năng lượng gây sát thương cho người chơi chạm vào nó"
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
