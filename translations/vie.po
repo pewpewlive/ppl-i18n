@@ -1023,7 +1023,7 @@ msgstr "Gửi yêu cầu thất bại"
 
 #: /client/application/game/ui/screens/screen_confirm_action.cpp:94
 msgid "Are you sure?"
-msgstr "Bạn chắc chứ?"
+msgstr "Xác nhận thao tác"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -1063,7 +1063,7 @@ msgstr "Bách khoa"
 #. "... as shown by the ◬ indicator."
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
 msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
-msgstr "Kẻ địch sẽ rơi ra Pointonium khi bị phá hủy. Rơi ra bao nhiêu phụ thuộc vào tần suất hạ gục, có thể nhận biết bằng kí hiệu %s. Thu thập Pointonium sẽ tăng điểm của bạn."
+msgstr "Một hình đa giác nội tiếp tiến lại gần chiếc tàu gần nhất. Khi bị giết, nó tỏa ra luồng năng lượng gây sát thương cho người chơi chạm vào nó."
 
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
@@ -1220,7 +1220,7 @@ msgstr "ATK: %s"
 #. Points: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:471
 msgid "Points: %s"
-msgstr "Điểm thưởng: %s"
+msgstr "Điểm: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
@@ -1383,13 +1383,13 @@ msgstr "Chúc bạn may mắn!"
 #. For example: "waiting: 3"
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:76
 msgid "waiting: %s"
-msgstr "số người chờ: %s"
+msgstr "Người chờ: %s"
 
 #. Used for showing how many players are playing in a Blitz.
 #. For example: "playing: 13"
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:79
 msgid "playing: %s"
-msgstr "số người chơi: %s"
+msgstr "Người chơi: %s"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
