@@ -302,7 +302,7 @@ msgstr "Цвет интерфейса"
 #. links the Mace head to the player's ship
 #: /client/application/game/player_data/player_unlocked_items.h:44
 msgid "Mace Shaft"
-msgstr ""
+msgstr "Древко булавы"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:197
 msgid "Failed to download data"
@@ -435,7 +435,7 @@ msgstr "Вставьте монетку, чтобы продолжить"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:23
 msgid "You tried"
-msgstr "Ты пытался;)"
+msgstr "Ты пытался ;)"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:25
@@ -736,7 +736,7 @@ msgstr "Глобальные рекорды"
 
 #: /client/application/game/ui/screens/screen_career.cpp:70
 msgid "Blitz leaderboard"
-msgstr ""
+msgstr "Лидерборд по блицу"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -1023,7 +1023,7 @@ msgstr "Не удалось запросить удаление аккаунта
 
 #: /client/application/game/ui/screens/screen_confirm_action.cpp:94
 msgid "Are you sure?"
-msgstr ""
+msgstr "Вы уверены?"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -1063,7 +1063,7 @@ msgstr "Энциклопедия"
 #. "... as shown by the ◬ indicator."
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
 msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
-msgstr ""
+msgstr "При уничтожении врагов выпадает поинтоний. Его количество зависит от темпа убийств, который отображается индикатором %s. Сбор поинтония увеличивает ваш счет"
 
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
@@ -1103,7 +1103,7 @@ msgstr "Враг в форме песочных часов, который дв�
 #. Description of the "Exploder" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:208
 msgid "An inscribed polygram that advances towards the nearest ship. Upon its destruction, releases a blast of energy that damages any ship it touches."
-msgstr ""
+msgstr "Вписанная полиграмма, которая движется к ближайшему кораблю. При уничтожении высвобождает энергетический взрыв, наносящий урон любому кораблю в радиусе поражения"
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
@@ -1202,7 +1202,7 @@ msgstr "Небольшой сине-фиолетовый враг в форме 
 #. Health: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:457
 msgid "Health: %s"
-msgstr ""
+msgstr "Здоровье: %s"
 
 #. Used in the Encyclopedia to show the damage that an entity does.
 #. The %s is replaced by a number or a set of numbers
@@ -1211,7 +1211,7 @@ msgstr ""
 #. Damage: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:464
 msgid "Damage: %s"
-msgstr ""
+msgstr "Урон: %s"
 
 #. Used in the Encyclopedia to show the points that an entity gives out.
 #. The %s is replaced by a number or a set of numbers
@@ -1220,7 +1220,7 @@ msgstr ""
 #. Points: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:471
 msgid "Points: %s"
-msgstr ""
+msgstr "Очки: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
@@ -1383,13 +1383,13 @@ msgstr "Удачи!"
 #. For example: "waiting: 3"
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:76
 msgid "waiting: %s"
-msgstr ""
+msgstr "ждут: %s"
 
 #. Used for showing how many players are playing in a Blitz.
 #. For example: "playing: 13"
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:79
 msgid "playing: %s"
-msgstr ""
+msgstr "играют: %s"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
@@ -1425,7 +1425,7 @@ msgstr "Поиск комнат..."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:172
 msgid "(Incompatible version)"
-msgstr "(Несовместимая версия)"
+msgstr "(Несовместимая версия) :("
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:199
 msgid "Create room"
@@ -1681,7 +1681,7 @@ msgstr "Выбор типа мультилеера"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:35
 msgid "Compete in rounds against 3 or more people!"
-msgstr ""
+msgstr "Соревнуйтесь в раундах против 3 и более человек!"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:60
 msgid "Play with people around the world!"
@@ -1930,7 +1930,7 @@ msgstr "Показывать всплывающий текст"
 #. the UI transition animation in-game.
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:215
 msgid "Show UI transition animation"
-msgstr ""
+msgstr "Показать анимацию перехода интерфейса"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -2312,7 +2312,7 @@ msgstr "Нереальная"
 
 #: /client/application/game/ui/views/account_view.cpp:340
 msgid "Blitz Skill Rating: %s"
-msgstr ""
+msgstr "Рейтинг мастерства в блице: %s"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
@@ -2412,7 +2412,7 @@ msgstr "Сложность"
 #. Shown in the button that allows users to sort by xp
 #: /client/application/game/ui/views/sort_button.cpp:48
 msgid "XP"
-msgstr ""
+msgstr "XP"
 
 #: /client/application/game/ui/views/top_notification_view.cpp:57
 msgid "%sWaiting for other player%s"
