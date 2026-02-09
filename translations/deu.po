@@ -72,7 +72,7 @@ msgstr "Kurze Pause"
 
 #: /client/application/game/game.cpp:184
 msgid "Quick pause %s"
-msgstr "Schnell Pause %s"
+  msgstr "Kurze Pause %s"
 
 #: /client/application/game/game_constants.cpp:13
 msgid "1p"
