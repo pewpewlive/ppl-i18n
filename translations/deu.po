@@ -72,7 +72,7 @@ msgstr "Kurze Pause"
 
 #: /client/application/game/game.cpp:184
 msgid "Quick pause %s"
-msgstr "Schnell Pause %s"
+msgstr "Kurze Pause %s"
 
 #: /client/application/game/game_constants.cpp:13
 msgid "1p"
@@ -901,12 +901,12 @@ msgstr ""
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:198
 msgid "Black"
-msgstr ""
+msgstr "Schwartz"
 
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:200
 msgid "Blue"
-msgstr ""
+msgstr "Blau"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:202
@@ -916,7 +916,7 @@ msgstr ""
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:204
 msgid "Green"
-msgstr ""
+msgstr "Grün"
 
 #. The color "pink"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:206
@@ -1377,7 +1377,7 @@ msgstr ""
 #. Text appended to the explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:52
 msgid "Good luck!"
-msgstr ""
+msgstr "Viel Glück!"
 
 #. Used for showing how many players are waiting in a Blitz.
 #. For example: "waiting: 3"
@@ -1429,11 +1429,11 @@ msgstr "(Inkompatible Version)"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:199
 msgid "Create room"
-msgstr "Partie erstellen"
+msgstr "Raum erstellen"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:201
 msgid "Close room"
-msgstr "Partie schließen"
+msgstr "Raum schließen"
 
 #: /client/application/game/ui/screens/screen_main_menu.cpp:58
 msgid "Single Player"
@@ -1703,12 +1703,12 @@ msgstr "Offiziell"
 #. The title of the screen where you select what to play in the World.
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:37
 msgid "World"
-msgstr ""
+msgstr "Welt"
 
 #. The title of the screen where you select what sandbox to play.
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:39
 msgid "Sandbox"
-msgstr ""
+msgstr "Sandkasten"
 
 #. The title of the screen where you select community levels.
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:41
@@ -2483,7 +2483,7 @@ msgstr "Dunkel Blau"
 #. The color "yellow"
 #: /client/application/ui/ui_skin.cpp:65
 msgid "Yellow"
-msgstr ""
+msgstr "Gelb"
 
 #. The UI color "frosted green"
 #: /client/application/ui/ui_skin.cpp:68
