@@ -732,11 +732,11 @@ msgstr "Estatísticas"
 
 #: /client/application/game/ui/screens/screen_career.cpp:59
 msgid "Global leaderboards"
-msgstr "Líderes globais"
+msgstr "Tabela global"
 
 #: /client/application/game/ui/screens/screen_career.cpp:70
 msgid "Blitz leaderboard"
-msgstr ""
+msgstr "Tabela de Blitz"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -761,7 +761,7 @@ msgstr "Todas as tabelas"
 #. summary of the completed deviations is shown.
 #: /client/application/game/ui/screens/screen_career.cpp:212
 msgid "Deviations completed"
-msgstr "Desvios completados"
+msgstr "Variações completadas"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -1023,7 +1023,7 @@ msgstr "Falha ao solicitar exclusão da conta"
 
 #: /client/application/game/ui/screens/screen_confirm_action.cpp:94
 msgid "Are you sure?"
-msgstr ""
+msgstr "Tem certeza?"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -1063,7 +1063,7 @@ msgstr "Enciclopédia"
 #. "... as shown by the ◬ indicator."
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
 msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
-msgstr ""
+msgstr "Inimigos dão Pointonium quando destruidos. A quantidade liberada aumenta com a sua taxa de kills, mostrada pelo indicador %s. Pegar Pointonium aumenta sua pontuação"
 
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
@@ -1103,7 +1103,7 @@ msgstr "Um inimigo em forma de ampulheta que avança na nave mais próxima enqua
 #. Description of the "Exploder" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:208
 msgid "An inscribed polygram that advances towards the nearest ship. Upon its destruction, releases a blast of energy that damages any ship it touches."
-msgstr ""
+msgstr "Um poligrama inscrito que avança na direção da nave mais próxima. Quando destruído, libera uma explosão de energia que danifica qualquer nave que toca"
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
@@ -1202,7 +1202,7 @@ msgstr "Um pequeno inimigo azul em forma de hexágono que vagueia sem rumo pelos
 #. Health: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:457
 msgid "Health: %s"
-msgstr ""
+msgstr "Vida: %s"
 
 #. Used in the Encyclopedia to show the damage that an entity does.
 #. The %s is replaced by a number or a set of numbers
@@ -1211,7 +1211,7 @@ msgstr ""
 #. Damage: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:464
 msgid "Damage: %s"
-msgstr ""
+msgstr "Dano: %s"
 
 #. Used in the Encyclopedia to show the points that an entity gives out.
 #. The %s is replaced by a number or a set of numbers
@@ -1220,7 +1220,7 @@ msgstr ""
 #. Points: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:471
 msgid "Points: %s"
-msgstr ""
+msgstr "Pontos: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
@@ -1383,13 +1383,13 @@ msgstr "Boa sorte!"
 #. For example: "waiting: 3"
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:76
 msgid "waiting: %s"
-msgstr ""
+msgstr "esperando: %s"
 
 #. Used for showing how many players are playing in a Blitz.
 #. For example: "playing: 13"
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:79
 msgid "playing: %s"
-msgstr ""
+msgstr "jogando: %s"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
@@ -1504,7 +1504,7 @@ msgstr "Esperando por outros jogadores..."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:76
 msgid "Checking network..."
-msgstr "Checando rede"
+msgstr "Checando rede..."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:94
 msgid "Can't play in multiplayer with a symmetric NAT."
@@ -1681,7 +1681,7 @@ msgstr "Selecione o tipo de multijogador"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:35
 msgid "Compete in rounds against 3 or more people!"
-msgstr ""
+msgstr "Compita em rodadas contra 3 ou mais pessoas!"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:60
 msgid "Play with people around the world!"
@@ -1930,7 +1930,7 @@ msgstr "Mostrar texto opcional flutuante"
 #. the UI transition animation in-game.
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:215
 msgid "Show UI transition animation"
-msgstr ""
+msgstr "Mostrar animação de transição da IU"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -2312,7 +2312,7 @@ msgstr "Delirante"
 
 #: /client/application/game/ui/views/account_view.cpp:340
 msgid "Blitz Skill Rating: %s"
-msgstr ""
+msgstr "Taxa de habilidade Blitz: %s"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
