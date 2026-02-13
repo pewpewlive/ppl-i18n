@@ -16,7 +16,7 @@ msgstr "Наберите %2$s или больше очков в %1$s"
 #. "In Eskiv, score 10000 or more with an inertic ship in 1p."
 #: /client/application/account/achievements_description.cpp:40
 msgid "In %1$s, score %2$s or more with an inertic ship in 1p."
-msgstr "В %1$s, наберите %2$s или больше, играя на inertic ship в 1и."
+msgstr "В %1$s, наберите %2$s или больше, играя на inertic корабле в 1и."
 
 #. Title of the screen shown before the start of a blitz round.
 #. The %s is replaced with a number, for example:
@@ -540,7 +540,7 @@ msgstr "Помощь"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:22
 msgid "Email is invalid!"
-msgstr "Email недействителен."
+msgstr "Email недействителен!"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:47
 msgid "Too short. Minimum %s characters."
@@ -564,7 +564,7 @@ msgstr "Пароль"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
-msgstr "Пароль"
+msgstr "Подтвердите пароль"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Email"
@@ -608,7 +608,7 @@ msgstr "Email:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:206
 msgid "Passwords do not match!"
-msgstr "Пароли не совпадают."
+msgstr "Пароли не совпадают!"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:17
 msgid "Account"
@@ -648,7 +648,7 @@ msgstr "Необходимо войти в аккаунт, чтобы просм
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr "Вам нужно войти в систему, чтобы участвовать в Блицах"
+msgstr "Необходимо войти в аккаунт, чтобы участвовать в Блицах"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -1063,7 +1063,7 @@ msgstr "Энциклопедия"
 #. "... as shown by the ◬ indicator."
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
 msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
-msgstr "При уничтожении врагов выпадает поинтоний. Его количество зависит от темпа убийств, который отображается индикатором %s. Сбор поинтония увеличивает ваш счет"
+msgstr "При уничтожении врагов выпадает поинтоний. Его количество зависит от темпа убийств, который отображается индикатором %s. Сбор поинтония увеличивает ваш счет."
 
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
@@ -1103,7 +1103,7 @@ msgstr "Враг в форме песочных часов, который дв�
 #. Description of the "Exploder" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:208
 msgid "An inscribed polygram that advances towards the nearest ship. Upon its destruction, releases a blast of energy that damages any ship it touches."
-msgstr "Вписанная полиграмма, которая движется к ближайшему кораблю. При уничтожении высвобождает энергетический взрыв, наносящий урон любому кораблю в радиусе поражения"
+msgstr "Вписанная полиграмма, которая движется к ближайшему кораблю. При уничтожении высвобождает энергетический взрыв, наносящий урон любому кораблю в радиусе поражения."
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
@@ -1372,7 +1372,7 @@ msgstr "Присоединиться к Блицу"
 #. Explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:50
 msgid "Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\nDuring each round the goal is to score as much as possible.\n\nAt the end of the competition, everybody is ranked based on their performance."
-msgstr "Блицы — это многопользовательские соревнования, состоящие из нескольких раундов, с участием до 32 игроков.\nВ каждом раунде цель — набрать как можно больше очков.\n\nВ конце соревнования все игроки ранжируются по результатам."
+msgstr "Блицы - это многопользовательские соревнования, состоящие из нескольких раундов, с участием до 32 игроков.\nВ каждом раунде цель - набрать как можно больше очков.\n\nВ конце соревнования все игроки ранжируются по результатам."
 
 #. Text appended to the explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:52
