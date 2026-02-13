@@ -98,7 +98,7 @@ msgstr "Los espacios euclidianos están sobrevalorados"
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:122
 msgid "Never trust a six-sided polygon"
-msgstr "Nunca te fíes de un polígono de seis lados"
+msgstr "Nunca confíes en polígono de seis lados"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:124
@@ -113,7 +113,7 @@ msgstr "Escoge tu propia dificultad"
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:144
 msgid "Dodge everything and you'll be OK"
-msgstr "Esquiva todo y estarás bien"
+msgstr "Esquiva todo y estarás OK"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:146
@@ -158,7 +158,7 @@ msgstr "\"Este nivel es una broma, ¿verdad?\" - un probador"
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:212
 msgid "Evolution of Pacifism"
-msgstr "Evolución de Pacifismo"
+msgstr "Evolución de Pacifism"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:230
@@ -368,7 +368,7 @@ msgstr "Sobrevive durante %s en una partida"
 #. 10000 points from pointonum"
 #: /client/application/game/quests/quests.cpp:256
 msgid "Farm %s points from pointonium"
-msgstr "Consigue %s puntos de pointonio"
+msgstr "Consigue %s puntos de Puntonium"
 
 #. The description of the quest that involves playing a certain duration.
 #. The %s is replaced by a duration, for example:
@@ -409,7 +409,7 @@ msgstr "Puntuación total: %s"
 #. for example "Pointonium: 34444"
 #: /client/application/game/state/game_state.cpp:542
 msgid "Pointonium: %s"
-msgstr "Pointonio: %s"
+msgstr "Puntonium: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
@@ -425,7 +425,7 @@ msgstr "Game Over"
 #. translation.
 #: /client/application/game/ui/game_over_ui.cpp:19
 msgid "You died. Again."
-msgstr "Has muerto. De nuevo."
+msgstr "Has muerto. Otra vez."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:21
@@ -440,7 +440,7 @@ msgstr "Al menos lo intentaste"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:25
 msgid "It's okay, you were never going to win anyway."
-msgstr "No pasa nada, igualmente no ibas a ganar nunca."
+msgstr "Tranquilo, igual nunca ibas a ganar."
 
 #: /client/application/game/ui/game_over_ui.cpp:49
 msgid "Play again"
@@ -1103,7 +1103,7 @@ msgstr "Un enemigo con forma de reloj de arena que avanza hacia la nave más cer
 #. Description of the "Exploder" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:208
 msgid "An inscribed polygram that advances towards the nearest ship. Upon its destruction, releases a blast of energy that damages any ship it touches."
-msgstr ""
+msgstr "Un poligrama inscrito que avanza hacia la nave mas cercana. Al destruirse, libera una explosión de energia que daña a toda nave que toque."
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
@@ -1451,7 +1451,7 @@ msgstr "Multijugador"
 #. new items to unlock.
 #: /client/application/game/ui/screens/screen_main_menu.cpp:338
 msgid "New Items"
-msgstr "Nuevos objetos"
+msgstr "Nuevos Objetos"
 
 #. The string shown in the header of the screen where you select which
 #. data you want to erase from disk.
@@ -1567,7 +1567,7 @@ msgstr "Cualquier nivel"
 
 #: /client/application/game/ui/screens/screen_online_configure_room.cpp:183
 msgid "Room name: %s"
-msgstr "Nombre: %s"
+msgstr "Nombre de la sala: %s"
 
 #: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:282
 msgid "Joining room"
@@ -1930,7 +1930,7 @@ msgstr "Mostrar texto flotante opcional"
 #. the UI transition animation in-game.
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:215
 msgid "Show UI transition animation"
-msgstr ""
+msgstr "Mostrar animacion de transición de la interfaz"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -2039,7 +2039,7 @@ msgstr "todos"
 #. achievements are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:33
 msgid "very high score"
-msgstr "alta puntuación"
+msgstr "puntuación muy alta"
 
 #. Shown in the achievement filter, when only "inertic" achievements are
 #. listed.
@@ -2241,7 +2241,7 @@ msgstr "lanzado el %s"
 #. Used if the level does not contain any information.
 #: /client/application/game/ui/screens/screen_view_level_info.cpp:42
 msgid "No information available"
-msgstr "No información disponible"
+msgstr "Información No disponible"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
@@ -2289,7 +2289,7 @@ msgstr "Tiempo jugado: %s"
 
 #: /client/application/game/ui/shared_strings.cpp:33
 msgid "Casual"
-msgstr "Informal"
+msgstr "Casual"
 
 #: /client/application/game/ui/shared_strings.cpp:37
 msgid "Failed to sign-in!"
@@ -2392,7 +2392,7 @@ msgstr "Cargar configuración de sandbox"
 #. loaded.
 #: /client/application/game/ui/views/sandbox_configurator.cpp:194
 msgid "loaded sandbox configuration"
-msgstr "configuración de sandbox cargada"
+msgstr "Configuración de sandbox cargada"
 
 #. Shown in the button that allows users to sort by date
 #: /client/application/game/ui/views/sort_button.cpp:32
