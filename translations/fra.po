@@ -1177,7 +1177,7 @@ msgstr "Un ennemi de forme sphérique qui roule à travers les niveaux, rebondis
 
 #. Description of the "Spiny" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:376
-msgid "An arrow-shaped enemy that moves along circular paths, bouncing off walls. Possesses a tendency to drift towards nearby ships."
+msgid "An arrow-shaped enemy that moves along circular paths, bouncing of walls. Possesses a tendency to drift towards nearby ships."
 msgstr "Un ennemi en forme de flèche qui se déplace selon une trajectoire circulaire, rebondissant sur les murs. Il a tendance à dériver vers les vaisseaux les plus proches."
 
 #. Description of the "Splitter" enemy
