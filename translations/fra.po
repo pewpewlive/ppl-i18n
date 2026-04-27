@@ -1063,12 +1063,12 @@ msgstr "Encyclopédie"
 #. "... as shown by the ◬ indicator."
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
 msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
-msgstr "Les ennemis laisse du Pointonium quand ils sont détruit. La quantité qui apparaît est proportionnelle à votre nombre de kill, comme indiqué par l'indicateur %s. Ramasser du Pointonium augmente votre score."
+msgstr "Les ennemis laissent du Pointonium quand ils sont détruits. La quantité qui apparaît est proportionnelle à votre nombre d'éliminations, comme indiqué par l'indicateur %s. Ramasser du Pointonium augmente votre score."
 
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
 msgid "A bumpy, white asteroid that floats in space. Shoot it and it splits into multiple smaller parts. Exists in 4 different sizes."
-msgstr "Un astéroide blanc et cabossé qui flotte dans l'espace. Tirez-lui dessus et il se divise en plusieurs morceaux plus petits. Il existe en 4 tailles différentes."
+msgstr "Un astéroide blanc et cabossé qui flotte dans l'espace. Tirez dessus et il se divise en plusieurs morceaux plus petits. Il existe en 4 tailles différentes."
 
 #. Description of the "BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:133
@@ -1078,7 +1078,7 @@ msgstr "Ce drone jaune en forme de flèche fait des rapides allers-retours prév
 #. Description of the "Red BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:141
 msgid "This red arrow-shaped drone mirrors the familiar movements of the standard BAF, but it is much stronger posing a greater threat."
-msgstr "the drone rouge en forme de flèche reproduit les mouvements du BAF standard, mais il est plus puissant et représente donc une plus grande menace"
+msgstr "Le drone rouge en forme de flèche reproduit les mouvements du BAF standard, mais il est plus puissant et représente donc une plus grande menace"
 
 #. Description of the "Blue BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:149
@@ -1098,17 +1098,17 @@ msgstr "Un ennemi en forme d'octaèdre qui avance lentement vers vous. Il a tend
 #. Description of the "Dodger" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:200
 msgid "An hourglass-shaped enemy that advances towards the nearest ship while actively evading projectiles. Like Crowders, has a tendency to form crowds."
-msgstr "Un ennemi en forme de sablier qui avance vers le vaisseau le plus proche tout en esquivant activement les projectiles. Commes les Crowders, il a tendance à former des groupes avec ses congénères."
+msgstr "Un ennemi en forme de sablier qui avance vers le vaisseau le plus proche tout en esquivant activement les projectiles. Comme les Crowders, il a tendance à former des groupes avec ses congénères."
 
 #. Description of the "Exploder" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:208
 msgid "An inscribed polygram that advances towards the nearest ship. Upon its destruction, releases a blast of energy that damages any ship it touches."
-msgstr "Un polygramme gravé qui avance vers le vaisseau le plus proche. Lors de sa destruction, il libère une explosion d'énergie qui inflige des dégâts à tout vaissau qu'elle touche."
+msgstr "Un polygramme gravé qui avance vers le vaisseau le plus proche. Lors de sa destruction, il libère une explosion d'énergie qui inflige des dégâts à tout vaisseau qu'elle touche."
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
 msgid "Made of rotating concentric circles, it plunges towards the nearest ship with inertia. Very resistant to damage, it can fortunately be repelled with bullets."
-msgstr "Fait à partir de cercles concentriques en rotation. Il fonce vers le vaisseau le plus proche avec inertie. Très résistant au dégâts, il peut heureseument être repoussé avec des projectiles."
+msgstr "Fait à partir de cercles concentriques en rotation. Il fonce vers le vaisseau le plus proche avec inertie. Très résistant aux dégâts, il peut heureuseument être repoussé avec des projectiles."
 
 #. Description of the "Kamikaze" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
@@ -1123,12 +1123,12 @@ msgstr "Un vaisseau-mère rose en forme de triangle qui sillonne les niveaux. Lo
 #. Description of the "Red Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:248
 msgid "A red square-shaped mothership that roams the levels. Upon its destruction it unleashes a barrage of homing bullets that pursue the nearest ship."
-msgstr "Un vaisseau-mère rouge en forme de carré qui sillonne les niveaux. Lors de sa destruction, il libère un barrage de projectiles à tête chercheuses qui poursuivent le vaisseau le plus proche."
+msgstr "Un vaisseau-mère rouge en forme de carré qui sillonne les niveaux. Lors de sa destruction, il libère un barrage de projectiles à tête chercheuse qui poursuivent le vaisseau le plus proche."
 
 #. Description of the "Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:258
 msgid "An orange, pentagon-shaped mothership that roams the levels. Upon its destruction it fires six bullets in a hexagon pattern."
-msgstr "Un vaisseau-mère orange en forme de pentagone qui sillonne les niveaux. Lors de sa destruction, il tire six projectiles en un motif hexagonale."
+msgstr "Un vaisseau-mère orange en forme de pentagone qui sillonne les niveaux. Lors de sa destruction, il tire six projectiles en un motif hexagonal."
 
 #. Description of the "Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:268
@@ -1177,7 +1177,7 @@ msgstr "Un ennemi de forme sphérique qui roule à travers les niveaux, rebondis
 
 #. Description of the "Spiny" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:376
-msgid "An arrow-shaped enemy that moves along circular paths, bouncing of walls. Possesses a tendency to drift towards nearby ships."
+msgid "An arrow-shaped enemy that moves along circular paths, bouncing off walls. Possesses a tendency to drift towards nearby ships."
 msgstr "Un ennemi en forme de flèche qui se déplace selon une trajectoire circulaire, rebondissant sur les murs. Il a tendance à dériver vers les vaisseaux les plus proches."
 
 #. Description of the "Splitter" enemy
@@ -1188,7 +1188,7 @@ msgstr "Un ennemi en forme de fleur qui dérive dans des directions aléatoires.
 #. Description of the "UFO" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:392
 msgid "A red, flying saucer shaped enemy that glides across the levels. Regularly shoot bullets towards the nearest ship that also happen to damage other enemies."
-msgstr "Un ennemie rouge en forme de soucoupe volante qui plane à travers les niveaux. Il tire régulièrement des projectiles vers le vaisseau le plus proche qui peuvent aussi par hasard faire des dégâts aux autres ennemis."
+msgstr "Un ennemi rouge en forme de soucoupe volante qui plane à travers les niveaux. Il tire régulièrement des projectiles vers le vaisseau le plus proche qui peuvent aussi par hasard faire des dégâts aux autres ennemis."
 
 #. Description of the "Wary" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:402
@@ -1235,12 +1235,12 @@ msgstr "Nouveau Niveau"
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:36
 msgid "New comment on %s"
-msgstr "New commentaire sur %s"
+msgstr "Nouveau commentaire sur %s"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:38
 msgid "New profile comment"
-msgstr "Nouveau commentaire de profile"
+msgstr "Nouveau commentaire de profil"
 
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:40
@@ -1253,7 +1253,7 @@ msgstr "Nouvelle réponse à votre commentaire sur %s"
 #. For example: 589320 in Eskiv, by JF, Lithium
 #: /client/application/game/ui/screens/screen_feed.cpp:48
 msgid "%1$s in %2$s, by %3$s"
-msgstr "%1%s sur %2%s, par %3%s"
+msgstr "%1$s sur %2$s, par %3$s"
 
 #. Content string for new community level Feed entries
 #. For example: Eskiv 1024 (v32) was released
@@ -1265,7 +1265,7 @@ msgstr "%1$s (v%2$s) est sortie"
 #. For example: JF wrote: "I love the feed!"
 #: /client/application/game/ui/screens/screen_feed.cpp:59
 msgid "%1$s wrote: \"%2$s\""
-msgstr "%1$s à écrit: \"%2$s\""
+msgstr "%1$s a écrit: \"%2$s\""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:515
 msgid "Global feed"
@@ -1614,7 +1614,7 @@ msgstr "Connection au Blitz"
 #. Message shown when a player is disconnected from a Blitz
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:188
 msgid "Disconnected from Blitz"
-msgstr "Deconnectino du Blitz"
+msgstr "Déconnection du Blitz"
 
 #. The string shown to players in the waiting room while waiting for
 #. the previous Blitz to finish.
@@ -1628,7 +1628,7 @@ msgstr "En attente des Blitz précédent"
 #. will be shown: "Waiting for players 7/10"
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:343
 msgid "Waiting for players"
-msgstr "En attende de joueurs"
+msgstr "En attente de joueurs"
 
 #. Shown during a Blitz. Is used for showing how much time is left
 #. before the next round starts. The %s is replaced with a time in
@@ -1661,7 +1661,7 @@ msgstr "Échec du téléchargement des quêtes"
 #. support the new quests.
 #: /client/application/game/ui/screens/screen_quests.cpp:284
 msgid "Incompatible quests: the game needs to be updated."
-msgstr "Quêtes imcompatbles: veuillez mettre à jour le jeu."
+msgstr "Quêtes imcompatibles: veuillez mettre à jour le jeu."
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:62
 msgid "Failed to claim! No internet?"
@@ -2312,7 +2312,7 @@ msgstr "Délirant"
 
 #: /client/application/game/ui/views/account_view.cpp:340
 msgid "Blitz Skill Rating: %s"
-msgstr "score Blitz: %s"
+msgstr "Niveau de compétence Blitz: %s"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
