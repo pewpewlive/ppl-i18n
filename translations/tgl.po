@@ -29,18 +29,18 @@ msgstr ""
 #. Blitz round.
 #: /client/application/game/blitz/blitz_ui.cpp:86
 msgid "Round results"
-msgstr ""
+msgstr "Resulta ng Round"
 
 #. Title of the screen that shows the rankings of all the players after
 #. multiple rounds of Blitz.
 #: /client/application/game/blitz/blitz_ui.cpp:192
 msgid "Overall ranking"
-msgstr ""
+msgstr "Ranking sa Overall"
 
 #. The string shown when a Blitz round is finished
 #: /client/application/game/blitz/blitz_ui.cpp:293
 msgid "Round finished!"
-msgstr ""
+msgstr "Tapos na ang Round"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -158,27 +158,27 @@ msgstr "\"Seryoso ba 'to?\" - kawawang tester :("
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:212
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Ebolusyon ng Pacifism"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:230
 msgid "True bullet hell"
-msgstr ""
+msgstr "Totoong balang impyerno"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:232
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "Ang mahusay na lakas ng baril ay may kasamang mahusay na pagiwas"
 
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:250
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "Lagyan ng lasso ang mga bagay para mawala"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:269
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr ""
+msgstr "Mga hemisphere ng utak, 2 kamay, 2 ship..."
 
 #. Shown in a notification when a new score medal is earned.
 #: /client/application/game/levels/medals.cpp:15
@@ -226,47 +226,47 @@ msgstr "Bagong record sa speed run! %s ⇨ %s"
 #. %s is replaced with the name of the achievement.
 #: /client/application/game/player_data/player_data_manager.cpp:889
 msgid "Achievement Unlocked: %s"
-msgstr ""
+msgstr "Naunlock na tagumpay: %s"
 
 #. Describes the rarity level of items. Rarity level of 0.
 #: /client/application/game/player_data/player_unlocked_items.cpp:343
 msgid "Common"
-msgstr ""
+msgstr "Common"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: /client/application/game/player_data/player_unlocked_items.cpp:345
 msgid "Uncommon"
-msgstr ""
+msgstr "Uncommon"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: /client/application/game/player_data/player_unlocked_items.cpp:347
 msgid "Rare"
-msgstr ""
+msgstr "Rare"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: /client/application/game/player_data/player_unlocked_items.cpp:349
 msgid "Epic"
-msgstr ""
+msgstr "Epiko"
 
 #. Describes the rarity level of items. Rarity level of 4.
 #: /client/application/game/player_data/player_unlocked_items.cpp:351
 msgid "Legendary"
-msgstr ""
+msgstr "Maalamat"
 
 #. Describes the rarity level of items. Rarity level of 5.
 #: /client/application/game/player_data/player_unlocked_items.cpp:353
 msgid "Mythical"
-msgstr ""
+msgstr "Mythical"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: /client/application/game/player_data/player_unlocked_items.cpp:355
 msgid "Transcendent"
-msgstr ""
+msgstr "Transendente"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:29
 msgid "Ship"
-msgstr ""
+msgstr "Barko"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:31
@@ -281,17 +281,17 @@ msgstr "Bala"
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:35
 msgid "Mace"
-msgstr ""
+msgstr "Mace"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:37
 msgid "Laser"
-msgstr ""
+msgstr "Laser"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:39
 msgid "Joystick"
-msgstr ""
+msgstr "Joystick"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:41
@@ -302,11 +302,11 @@ msgstr "Kulay ng UI"
 #. links the Mace head to the player's ship
 #: /client/application/game/player_data/player_unlocked_items.h:44
 msgid "Mace Shaft"
-msgstr ""
+msgstr "Baras ng mace"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:197
 msgid "Failed to download data"
-msgstr ""
+msgstr "Nabigong magdownload ng data"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:209
 msgid "You've been signed out."
@@ -318,57 +318,57 @@ msgstr "Hindi ma-download ang backup para sa data"
 
 #: /client/application/game/quests/quest.cpp:10
 msgid "In any official level"
-msgstr ""
+msgstr "Sa opisyal na antas"
 
 #: /client/application/game/quests/quest.cpp:13
 msgid "In level %s"
-msgstr ""
+msgstr "Nasa antas %s"
 
 #: /client/application/game/quests/quest.cpp:18
 msgid "In levels %s"
-msgstr ""
+msgstr "nasa mga antas %s"
 
 #. Shown in a notification when you improve your quest progress.
 #. Example of what it looks like:
 #. "Destroy 200 ROLLING_CUBE: 20 / 100 ⇨ 30 / 100"
 #: /client/application/game/quests/quest_manager.cpp:18
 msgid "%s: %s ⇨ %s"
-msgstr ""
+msgstr "%s: %s ⇨ %s"
 
 #. Shown in a notification when you complete a quest.
 #. Example of what it looks like:
 #. "Reach 8900 in one game: Complete! (20 / 100 ⇨ 30 / 100)"
 #: /client/application/game/quests/quest_manager.cpp:23
 msgid "%s: Complete! (%s ⇨ %s)"
-msgstr ""
+msgstr "%s: Kumpleto! (%s ⇨ %s)"
 
 #. The description of the quest that involves playing destroying a certain
 #. amount of enemies. The %1$s is replaced by a number. The %2$s is replaced
 #. by an enemy name. For example: "Destroy 200 Motherships"
 #: /client/application/game/quests/quests.cpp:114
 msgid "Destroy %1$s %2$s"
-msgstr ""
+msgstr "Sirain %1$s %2$s"
 
 #. The description of the quest that involves reaching a certain score.
 #. The %s is replaced by a number, for example:
 #. "Reach the score of 10000"
 #: /client/application/game/quests/quests.cpp:168
 msgid "Reach %s in one game"
-msgstr ""
+msgstr "Maabot ang %s sa isang laro"
 
 #. The description of the quest that involves surviving for a certain
 #. duration. The %s is replaced by a duration, for example: "Survive for 3
 #. minutes" "Survive for 40 seconds"
 #: /client/application/game/quests/quests.cpp:210
 msgid "Survive for %s in one game"
-msgstr ""
+msgstr "Mabuhay nang %s sa isang laro"
 
 #. The description of the quest that involves playing accumulating a certain
 #. amount of pointonium. The %s is replaced by an amount, for example: "Farm
 #. 10000 points from pointonum"
 #: /client/application/game/quests/quests.cpp:256
 msgid "Farm %s points from pointonium"
-msgstr ""
+msgstr "Kumuha ng %s points mula sa puntonium"
 
 #. The description of the quest that involves playing a certain duration.
 #. The %s is replaced by a duration, for example:
@@ -376,14 +376,14 @@ msgstr ""
 #. "Play for 40 seconds"
 #: /client/application/game/quests/quests.cpp:302
 msgid "Play for %s"
-msgstr ""
+msgstr "Laro para sa %s"
 
 #. The description of the quest that involves playing multiplayer for a
 #. certain duration. The %s is replaced by a duration, for example: "Play
 #. multiplayer for 3 minutes" "Play multiplayer for 40 seconds"
 #: /client/application/game/quests/quests.cpp:340
 msgid "Play multiplayer for %s"
-msgstr ""
+msgstr "Maglaro ng multiplayer para sa %s"
 
 #: /client/application/game/state/game_network_message_parser.cpp:58
 msgid "%s left the game"
@@ -391,7 +391,7 @@ msgstr "Umalis sa laro si %s"
 
 #: /client/application/game/state/game_state.cpp:522
 msgid "N/A"
-msgstr "---"
+msgstr "N/A"
 
 #. Shown when the game is displaying stats. Concerns the player's shooting
 #. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
@@ -409,7 +409,7 @@ msgstr "Nalakip na record: %s"
 #. for example "Pointonium: 34444"
 #: /client/application/game/state/game_state.cpp:542
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Puntonium: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
@@ -477,7 +477,7 @@ msgstr "Ulitin"
 #. "Continuing in 13.23 seconds"
 #: /client/application/game/ui/pause_ui.cpp:140
 msgid "Continuing in %s seconds"
-msgstr ""
+msgstr "Magpapatuloy sa loob ng %s segundo"
 
 #: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:78
 msgid "Loading..."
@@ -648,7 +648,7 @@ msgstr "Kailangang naka log-in para makita ang mga komento"
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr ""
+msgstr "kailangan mong naka-sign in para makasali sa Blitzes"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -736,7 +736,7 @@ msgstr "Pangkalahatang leaderboard"
 
 #: /client/application/game/ui/screens/screen_career.cpp:70
 msgid "Blitz leaderboard"
-msgstr ""
+msgstr "Blitz leaderboard"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -747,39 +747,39 @@ msgstr "Pangkalahatang bituin at medalya"
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:136
 msgid "Level %s"
-msgstr ""
+msgstr "Antas %s"
 
 #: /client/application/game/ui/screens/screen_career.cpp:188
 msgid "XP leaderboard"
-msgstr ""
+msgstr "XP Leaderboard"
 
 #: /client/application/game/ui/screens/screen_career.cpp:200
 msgid "All leaderboards"
-msgstr ""
+msgstr "Lahat ng leaderboard"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
 #: /client/application/game/ui/screens/screen_career.cpp:212
 msgid "Deviations completed"
-msgstr ""
+msgstr "Nakumpletong mga paglihis"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
 #: /client/application/game/ui/screens/screen_career.cpp:218
 msgid "Achievements"
-msgstr ""
+msgstr "Mga nakamit"
 
 #: /client/application/game/ui/screens/screen_career.cpp:220
 msgid "Extra XP"
-msgstr ""
+msgstr "Dagdag na xp"
 
 #: /client/application/game/ui/screens/screen_career.cpp:245
 msgid "Quests: %s XP"
-msgstr ""
+msgstr "Mga Quest: %s XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:250
 msgid "Badges: %s XP"
-msgstr ""
+msgstr "Mga Badges: %s XP"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:59
 msgid "Configure Gamepad"
@@ -825,7 +825,7 @@ msgstr "Napakaganda"
 #. Title of the screen where graphics are configured.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:95
 msgid "Configure graphics"
-msgstr ""
+msgstr "Iconfigure ang mga grapiko"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "off"
@@ -837,66 +837,66 @@ msgstr "buksan"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:116
 msgid "minimal"
-msgstr ""
+msgstr "Minimal"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:116
 msgid "advanced"
-msgstr ""
+msgstr "Advanced"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:123
 msgid "Bloom intensity"
-msgstr ""
+msgstr "Tindi ng pamumulaklak"
 
 #. The name of the setting category for choosing whether "lens dirt" is
 #. present or not.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:132
 msgid "Lens dirt"
-msgstr ""
+msgstr "Dumi ng lente"
 
 #. The name of the setting that enables horizontal scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "horizontal"
-msgstr ""
+msgstr "Pahalang"
 
 #. The name of setting that enables grid-like scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:142
 msgid "grid"
-msgstr ""
+msgstr "Grid"
 
 #. The name for the setting category for choosing the scalines type.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:144
 msgid "Scanlines"
-msgstr ""
+msgstr "Mga linya ng pagscan"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:150
 msgid "Chromatic aberration"
-msgstr ""
+msgstr "Aberyang kromatiko"
 
 #. The name for the setting category for choosing the intensity of the curve
 #. of the monitor.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:159
 msgid "Curved monitor"
-msgstr ""
+msgstr "Kurbadong monitor"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:168
 msgid "Vignette"
-msgstr ""
+msgstr "Maikling kwento"
 
 #. The name of the setting category for choosing the screen resolution of the
 #. game.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Resolution"
-msgstr ""
+msgstr "Resolusyon"
 
 #. The name of the setting for when you select the "full" resolution, as
 #. opposed to downsampled resolutions.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:181
 msgid "Full"
-msgstr ""
+msgstr "Puno"
 
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:198
@@ -927,7 +927,7 @@ msgstr "Rosas"
 #. renderer.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:211
 msgid "Background hue"
-msgstr ""
+msgstr "Kulay ng background"
 
 #. Name of the setting for when the game is shown in a window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:225
@@ -1023,7 +1023,7 @@ msgstr "Hindi makahingi ng permiso sa pagbura ng account"
 
 #: /client/application/game/ui/screens/screen_confirm_action.cpp:94
 msgid "Are you sure?"
-msgstr ""
+msgstr "Sigurado ka ba?"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -1056,7 +1056,7 @@ msgstr "Hindi ma-download ang level."
 #. The title of the screen showing the encyclopedia.
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:70
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Ensiklopedya"
 
 #. Description of pointonium
 #. The "%s" is replaced by the ◬ character. In english the text becomes:
@@ -1202,7 +1202,7 @@ msgstr ""
 #. Health: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:457
 msgid "Health: %s"
-msgstr ""
+msgstr "Kalusugan: %s"
 
 #. Used in the Encyclopedia to show the damage that an entity does.
 #. The %s is replaced by a number or a set of numbers
@@ -1211,7 +1211,7 @@ msgstr ""
 #. Damage: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:464
 msgid "Damage: %s"
-msgstr ""
+msgstr "Pinsala: %s"
 
 #. Used in the Encyclopedia to show the points that an entity gives out.
 #. The %s is replaced by a number or a set of numbers
@@ -1220,32 +1220,32 @@ msgstr ""
 #. Points: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:471
 msgid "Points: %s"
-msgstr ""
+msgstr "Punto: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
 msgid "New World Record"
-msgstr ""
+msgstr "Bagong World Record"
 
 #. Title string for new community level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:34
 msgid "New Level"
-msgstr ""
+msgstr "Bagong antas"
 
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:36
 msgid "New comment on %s"
-msgstr ""
+msgstr "Bagong commento sa %s"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:38
 msgid "New profile comment"
-msgstr ""
+msgstr "Bagong commento sa profile"
 
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:40
 msgid "New reply to your comment on %s"
-msgstr ""
+msgstr "Bagong reply sa commento mo sa %s"
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -1253,31 +1253,31 @@ msgstr ""
 #. For example: 589320 in Eskiv, by JF, Lithium
 #: /client/application/game/ui/screens/screen_feed.cpp:48
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s sa %2$s, kay %3$s"
 
 #. Content string for new community level Feed entries
 #. For example: Eskiv 1024 (v32) was released
 #: /client/application/game/ui/screens/screen_feed.cpp:56
 msgid "%1$s (v%2$s) was released"
-msgstr ""
+msgstr "%1$s (v%2$s) ay inilabas"
 
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
 #: /client/application/game/ui/screens/screen_feed.cpp:59
 msgid "%1$s wrote: \"%2$s\""
-msgstr ""
+msgstr "%1$s ay nagsulat: \"%2$s\""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:515
 msgid "Global feed"
-msgstr ""
+msgstr "Pandaigdigang feed"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:516
 msgid "Personal notifications"
-msgstr ""
+msgstr "Notipikasyong pang personal"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:652
 msgid "No notifications"
-msgstr ""
+msgstr "Walang mga notipikasyon"
 
 #. Content string for new 1p speedrun World record Feed entries
 #. For example: 1:33 in Symbiosis, by thomed77
@@ -1286,7 +1286,7 @@ msgstr ""
 #: /client/application/game/ui/screens/screen_feed.cpp:53
 msgctxt "speedrun"
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s sa %2$s, kay %3$s"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:92
 msgid "Music"
@@ -1327,17 +1327,17 @@ msgstr "Lahat"
 #. bullets, the joysticks, the ui color, etc...
 #: /client/application/game/ui/screens/screen_inventory.cpp:233
 msgid "Inventory"
-msgstr ""
+msgstr "Imbentaryo"
 
 #. The title of the screen to save the ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
-msgstr ""
+msgstr "I-save ang mga setting ng Ship"
 
 #. The content of the button to save
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:111
 msgid "Save"
-msgstr ""
+msgstr "Save"
 
 #. Shown in a notification
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:139
