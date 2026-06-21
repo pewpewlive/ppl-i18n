@@ -16,7 +16,7 @@ msgstr "Наберите %2$s или больше очков в %1$s"
 #. "In Eskiv, score 10000 or more with an inertic ship in 1p."
 #: /client/application/account/achievements_description.cpp:40
 msgid "In %1$s, score %2$s or more with an inertic ship in 1p."
-msgstr "В %1$s, наберите %2$s или больше, играя на inertic корабле в 1и."
+msgstr "В %1$s, наберите %2$s или больше, играя на инерционном корабле в 1и."
 
 #. Title of the screen shown before the start of a blitz round.
 #. The %s is replaced with a number, for example:
@@ -540,7 +540,7 @@ msgstr "Помощь"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:22
 msgid "Email is invalid!"
-msgstr "Email недействителен!"
+msgstr "Почта недействительна!"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:47
 msgid "Too short. Minimum %s characters."
@@ -568,7 +568,7 @@ msgstr "Подтвердите пароль"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Email"
-msgstr "Email"
+msgstr "Почта"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:115
 msgid "Register"
@@ -604,7 +604,7 @@ msgstr "Подтверждение пароля:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:173
 msgid "Email:"
-msgstr "Email:"
+msgstr "Почта:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:206
 msgid "Passwords do not match!"
@@ -692,7 +692,7 @@ msgstr "Вход успешен!"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:168
 msgid "Email not verified"
-msgstr "Email не подтверждён."
+msgstr "Почта не подтверждена."
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:171
 msgid "Re-send verification email"
@@ -2045,7 +2045,7 @@ msgstr "очень высокий счёт"
 #. listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:36
 msgid "inertic"
-msgstr "inertic"
+msgstr "инерционный"
 
 #. Shown in the achievement filter, when the uncategorized achievements
 #. are listed.
