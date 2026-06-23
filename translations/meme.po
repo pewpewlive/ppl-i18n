@@ -256,7 +256,7 @@ msgstr "Nice"
 #. Describes the rarity level of items. Rarity level of 5.
 #: /client/application/game/player_data/player_unlocked_items.cpp:353
 msgid "Mythical"
-msgstr ""
+msgstr "Dope"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: /client/application/game/player_data/player_unlocked_items.cpp:355
@@ -266,7 +266,7 @@ msgstr "Not Trash"
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:29
 msgid "Ship"
-msgstr ""
+msgstr "Shoes"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:31
@@ -306,7 +306,7 @@ msgstr ""
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:197
 msgid "Failed to download data"
-msgstr ""
+msgstr "Download failed successfully"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:209
 msgid "You've been signed out."
@@ -376,14 +376,14 @@ msgstr ""
 #. "Play for 40 seconds"
 #: /client/application/game/quests/quests.cpp:302
 msgid "Play for %s"
-msgstr ""
+msgstr "Game for %s"
 
 #. The description of the quest that involves playing multiplayer for a
 #. certain duration. The %s is replaced by a duration, for example: "Play
 #. multiplayer for 3 minutes" "Play multiplayer for 40 seconds"
 #: /client/application/game/quests/quests.cpp:340
 msgid "Play multiplayer for %s"
-msgstr ""
+msgstr "Game with da bois for %s"
 
 #: /client/application/game/state/game_network_message_parser.cpp:58
 msgid "%s left the game"
@@ -391,7 +391,7 @@ msgstr "%s chickened out"
 
 #: /client/application/game/state/game_state.cpp:522
 msgid "N/A"
-msgstr "n-nothing at all?"
+msgstr "Error 404"
 
 #. Shown when the game is displaying stats. Concerns the player's shooting
 #. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
@@ -477,7 +477,7 @@ msgstr "Do-Over"
 #. "Continuing in 13.23 seconds"
 #: /client/application/game/ui/pause_ui.cpp:140
 msgid "Continuing in %s seconds"
-msgstr ""
+msgstr "Gotta try again in %s"
 
 #: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:78
 msgid "Loading..."
@@ -648,7 +648,7 @@ msgstr "Sorry mate, no account = no pass"
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr ""
+msgstr "You need account to kick others' butts in Battle Roayl"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -664,7 +664,7 @@ msgstr "Email confirm go vroom"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:37
 msgid "Check your inbox!"
-msgstr "Inbox. There. Now"
+msgstr "Inbox. There. NOW"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:41
 msgid "Failed to resend email"
@@ -825,7 +825,7 @@ msgstr "Master"
 #. Title of the screen where graphics are configured.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:95
 msgid "Configure graphics"
-msgstr ""
+msgstr "Graphic config"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "off"
@@ -884,19 +884,19 @@ msgstr "Bendy boi"
 #. vignette effect.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:168
 msgid "Vignette"
-msgstr ""
+msgstr "MY EYES"
 
 #. The name of the setting category for choosing the screen resolution of the
 #. game.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Resolution"
-msgstr ""
+msgstr "Graphic level"
 
 #. The name of the setting for when you select the "full" resolution, as
 #. opposed to downsampled resolutions.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:181
 msgid "Full"
-msgstr ""
+msgstr "8K"
 
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:198
@@ -906,17 +906,17 @@ msgstr "White Reversed"
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:200
 msgid "Blue"
-msgstr ""
+msgstr "Red and Pink"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:202
 msgid "Teal"
-msgstr ""
+msgstr "Light Blue"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:204
 msgid "Green"
-msgstr "Blue And Yellow"
+msgstr "Blue and Yellow"
 
 #. The color "pink"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:206
@@ -942,7 +942,7 @@ msgstr "Absolute immersion"
 #. Name of the setting for when the game is shown in a borderless window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:229
 msgid "Borderless"
-msgstr ""
+msgstr "Mysterious nameless window"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:240
@@ -1023,7 +1023,7 @@ msgstr "Sorry bruv, can't request to delete your games privileges"
 
 #: /client/application/game/ui/screens/screen_confirm_action.cpp:94
 msgid "Are you sure?"
-msgstr ""
+msgstr "Are you sure about that?"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -1235,17 +1235,17 @@ msgstr ""
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:36
 msgid "New comment on %s"
-msgstr ""
+msgstr "New trash opinion on %s"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:38
 msgid "New profile comment"
-msgstr ""
+msgstr "New PFP reaction"
 
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:40
 msgid "New reply to your comment on %s"
-msgstr ""
+msgstr "New trash opition about you on %s"
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -1269,15 +1269,15 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:515
 msgid "Global feed"
-msgstr ""
+msgstr "Doomscroll mode"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:516
 msgid "Personal notifications"
-msgstr ""
+msgstr "Your Whatsapp"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:652
 msgid "No notifications"
-msgstr ""
+msgstr "Bro it's quiet here"
 
 #. Content string for new 1p speedrun World record Feed entries
 #. For example: 1:33 in Symbiosis, by thomed77
@@ -1320,7 +1320,7 @@ msgstr "Professional Coding Master-Classes"
 #. items.
 #: /client/application/game/ui/screens/screen_inventory.cpp:94
 msgid "All"
-msgstr ""
+msgstr "Everything"
 
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
@@ -1332,7 +1332,7 @@ msgstr "Your back pocket"
 #. The title of the screen to save the ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Insert drip to pocket"
 
 #. The content of the button to save
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:111
@@ -1342,7 +1342,7 @@ msgstr "Insert to pocket"
 #. Shown in a notification
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:139
 msgid "Configuration saved"
-msgstr ""
+msgstr "Drip is in da pocket now"
 
 #. Shown when asking for a ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:162
@@ -1377,7 +1377,7 @@ msgstr ""
 #. Text appended to the explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:52
 msgid "Good luck!"
-msgstr ""
+msgstr "Let's pew-pewing go!!!"
 
 #. Used for showing how many players are waiting in a Blitz.
 #. For example: "waiting: 3"
@@ -1603,7 +1603,7 @@ msgstr "All bro session"
 
 #: /client/application/game/ui/screens/screen_online_list_rooms.cpp:113
 msgid "Refresh"
-msgstr "CTRL + R"
+msgstr "Ctrl+R"
 
 #. The title of the screen shown when a player is in the process of joining a
 #. Blitz
@@ -1628,7 +1628,7 @@ msgstr ""
 #. will be shown: "Waiting for players 7/10"
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:343
 msgid "Waiting for players"
-msgstr ""
+msgstr "Waiting for peeps"
 
 #. Shown during a Blitz. Is used for showing how much time is left
 #. before the next round starts. The %s is replaced with a time in
@@ -1640,12 +1640,12 @@ msgstr ""
 #. Text shown when the player tries to exit a Blitz.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:626
 msgid "Are you sure you want to exit the Blitz?"
-msgstr ""
+msgstr "You really wanna leave Battle Royal? :("
 
 #. The string shown in a button to claim rewards from completing a quest
 #: /client/application/game/ui/screens/screen_quests.cpp:154
 msgid "Claim"
-msgstr ""
+msgstr "Steal"
 
 #. The title of the screen that shows the quests available
 #: /client/application/game/ui/screens/screen_quests.cpp:192
@@ -1681,7 +1681,7 @@ msgstr "Pick a multihomie type"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:35
 msgid "Compete in rounds against 3 or more people!"
-msgstr ""
+msgstr "Kick butts of 3 or more people!"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:60
 msgid "Play with people around the world!"
@@ -1737,23 +1737,23 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:168
 msgid "The world contains many deviations."
-msgstr ""
+msgstr "Universe is very big"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:169
 msgid "To complete deviations you should be familiar with the official levels."
-msgstr ""
+msgstr "You must be old enough to beat levels in Universe"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr ""
+msgstr "Universe is available in 3 different types of craziness"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:171
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr ""
+msgstr "WARNING!!! #ffff00ffpossible for pro#ffffffff is hella hard and #ff0000ffimpossible#ffffffff is something else"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:172
 msgid "For every completed deviation you get XP."
-msgstr ""
+msgstr "You get pro points for beating Universe levels"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:173
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
@@ -1793,7 +1793,7 @@ msgstr "Main levels Identity"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:197
 msgid "Community levels information"
-msgstr ""
+msgstr "Bros levels Identity"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "World information"
@@ -1840,7 +1840,7 @@ msgstr "Not quite CLI"
 #. Label used to show a vibration setting next to an on/off switch
 #: /client/application/game/ui/screens/screen_settings.cpp:157
 msgid "Vibration"
-msgstr ""
+msgstr "Earthquake"
 
 #: /client/application/game/ui/screens/screen_settings.cpp:175
 msgid "Start tutorial"
@@ -1930,7 +1930,7 @@ msgstr "Tell me when i have a boo-boo"
 #. the UI transition animation in-game.
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:215
 msgid "Show UI transition animation"
-msgstr ""
+msgstr "Screen anims go brrr"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -1972,7 +1972,7 @@ msgstr "Learnin'"
 #. item it is. Ship, trail, bullet, etc...
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:111
 msgid "Type"
-msgstr ""
+msgstr "The"
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
@@ -1986,7 +1986,7 @@ msgstr "Gamertag"
 #. is. For example, "common", "rare", etc...
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:119
 msgid "Rarity"
-msgstr ""
+msgstr "Trash or nah"
 
 #. Title of the screen that shows the UI to unlock items
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:255
@@ -2033,13 +2033,13 @@ msgstr "%s is asserting dominance..."
 #. (=no filtering is done).
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:30
 msgid "all"
-msgstr ""
+msgstr "everything"
 
 #. Shown in the achievement filter, when only the "very high scores"
 #. achievements are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:33
 msgid "very high score"
-msgstr ""
+msgstr "very low score"
 
 #. Shown in the achievement filter, when only "inertic" achievements are
 #. listed.
@@ -2051,7 +2051,7 @@ msgstr ""
 #. are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:39
 msgid "other"
-msgstr ""
+msgstr "something"
 
 #. Shown when a user disables comments on their profile and or levels.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
@@ -2094,7 +2094,7 @@ msgstr "Can't report comment, too busy playing Eskiv"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:466
 msgid "No comments"
-msgstr ""
+msgstr "Lots of comments"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:485
@@ -2216,7 +2216,7 @@ msgstr "manifest said no, sorry"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:88
 msgid "Featured level"
-msgstr ""
+msgstr "Da best level ever"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:224
 msgid "average score: %s"
@@ -2397,7 +2397,7 @@ msgstr "using playground forms"
 #. Shown in the button that allows users to sort by date
 #: /client/application/game/ui/views/sort_button.cpp:32
 msgid "Date"
-msgstr ""
+msgstr "When the"
 
 #. Shown in the button that allows users to sort by stars
 #: /client/application/game/ui/views/sort_button.cpp:36
@@ -2412,7 +2412,7 @@ msgstr "Possible or not"
 #. Shown in the button that allows users to sort by xp
 #: /client/application/game/ui/views/sort_button.cpp:48
 msgid "XP"
-msgstr ""
+msgstr "Pro points"
 
 #: /client/application/game/ui/views/top_notification_view.cpp:57
 msgid "%sWaiting for other player%s"
