@@ -2147,7 +2147,6 @@ msgstr "Добавление комментария"
 
 #. The title shown when looking at the replies posted on a comment.
 #. The %s gets replaced with the comment content.
-#. 
 #. For example:
 #. Replies to "Hello this is my comment"
 #: /client/application/game/ui/screens/screen_view_and_add_comments.h:20
