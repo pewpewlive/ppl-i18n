@@ -596,7 +596,7 @@ msgstr "Gamer tag (we have colors)"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Password:"
-msgstr "Secret code:"
+msgstr "Sekret code:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:173
 msgid "Confirm password:"
@@ -1559,7 +1559,7 @@ msgstr "2 extra squiggly lines (optional):"
 
 #: /client/application/game/ui/screens/screen_online_configure_room.cpp:100
 msgid "Password (optional):"
-msgstr "Secret code (optional):"
+msgstr "Sekret code (optional):"
 
 #: /client/application/game/ui/screens/screen_online_configure_room.cpp:136
 msgid "Any level"
@@ -1591,7 +1591,7 @@ msgstr "Where room go?"
 
 #: /client/application/game/ui/screens/screen_online_enter_password.cpp:25
 msgid "Enter password"
-msgstr "Gib secret code"
+msgstr "Gib sekret code"
 
 #: /client/application/game/ui/screens/screen_online_enter_password.cpp:27
 msgid "Join"

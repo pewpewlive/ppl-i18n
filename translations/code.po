@@ -584,7 +584,7 @@ msgstr "Register() returned: \"success\""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Please check your emails!"
-msgstr "Register.EmailCheck = true"
+msgstr "Register.EmailChck = true"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:142
 msgid "Failed to register"
@@ -656,15 +656,15 @@ msgstr "GameAcc.UI"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:29
 msgid "Requesting verification email"
-msgstr "SignIn.RequestingEmailVerify = true"
+msgstr "SignIn.RequestingEmailVerif = true"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:35
 msgid "Verification email sent"
-msgstr "SignIn.EmailVerifySent = true"
+msgstr "SignIn.EmailVerifSent = true"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:37
 msgid "Check your inbox!"
-msgstr "SignIn.InboxCheck = true"
+msgstr "SignIn.InbxChck = true"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:41
 msgid "Failed to resend email"
@@ -696,7 +696,7 @@ msgstr "Email.Verified = false"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:171
 msgid "Re-send verification email"
-msgstr "ReSendEmailVerify();"
+msgstr "ReSendEmailVerif();"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:186
 msgid "Incorrect password"
