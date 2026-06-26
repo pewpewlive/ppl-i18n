@@ -173,7 +173,7 @@ msgstr "With bigger guns come bigger baddies"
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:250
 msgid "Lasso up stuff to make them disappear"
-msgstr ""
+msgstr "You a cowboy tonight and you go yeehaw mode"
 
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:269
@@ -302,7 +302,7 @@ msgstr "Paint"
 #. links the Mace head to the player's ship
 #: /client/application/game/player_data/player_unlocked_items.h:44
 msgid "Mace Shaft"
-msgstr ""
+msgstr "Hammer Stick"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:197
 msgid "Failed to download data"
@@ -318,15 +318,15 @@ msgstr "Wait, you don't have backup data!"
 
 #: /client/application/game/quests/quest.cpp:10
 msgid "In any official level"
-msgstr ""
+msgstr "In whatever main-squeeze"
 
 #: /client/application/game/quests/quest.cpp:13
 msgid "In level %s"
-msgstr ""
+msgstr "In da %s"
 
 #: /client/application/game/quests/quest.cpp:18
 msgid "In levels %s"
-msgstr ""
+msgstr "In da all of %s"
 
 #. Shown in a notification when you improve your quest progress.
 #. Example of what it looks like:
@@ -347,21 +347,21 @@ msgstr ""
 #. by an enemy name. For example: "Destroy 200 Motherships"
 #: /client/application/game/quests/quests.cpp:114
 msgid "Destroy %1$s %2$s"
-msgstr ""
+msgstr "Kick butts of %1$s %2$s"
 
 #. The description of the quest that involves reaching a certain score.
 #. The %s is replaced by a number, for example:
 #. "Reach the score of 10000"
 #: /client/application/game/quests/quests.cpp:168
 msgid "Reach %s in one game"
-msgstr ""
+msgstr "Make your score number bigger than %s"
 
 #. The description of the quest that involves surviving for a certain
 #. duration. The %s is replaced by a duration, for example: "Survive for 3
 #. minutes" "Survive for 40 seconds"
 #: /client/application/game/quests/quests.cpp:210
 msgid "Survive for %s in one game"
-msgstr ""
+msgstr "Be angry as hell for %s"
 
 #. The description of the quest that involves playing accumulating a certain
 #. amount of pointonium. The %s is replaced by an amount, for example: "Farm
@@ -489,7 +489,7 @@ msgstr "New Colour, rainbow maybe."
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:33
 msgid "Old username:"
-msgstr "Old Gamertag:"
+msgstr "Old gamertag:"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:36
 msgid "New username:"
@@ -584,7 +584,7 @@ msgstr "Chill bro successful."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Please check your emails!"
-msgstr "Email. There. Now."
+msgstr "Email. There. NOW"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:142
 msgid "Failed to register"
@@ -648,7 +648,7 @@ msgstr "Sorry mate, no account = no pass"
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr "You need account to kick others' butts in Battle Roayl"
+msgstr "You need account to kick others' butts in Battle Royal"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -680,7 +680,7 @@ msgstr "Gamer code reset pending"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:65
 msgid "Failed to request password reset"
-msgstr "Gamere code reset didn't make it"
+msgstr "Gamer code reset didn't make it"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:139
 msgid "Signing in"
@@ -736,7 +736,7 @@ msgstr "Earth and beyond"
 
 #: /client/application/game/ui/screens/screen_career.cpp:70
 msgid "Blitz leaderboard"
-msgstr ""
+msgstr "The Battle Royalers"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -751,17 +751,17 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_career.cpp:188
 msgid "XP leaderboard"
-msgstr ""
+msgstr "Pro points gamer tab"
 
 #: /client/application/game/ui/screens/screen_career.cpp:200
 msgid "All leaderboards"
-msgstr ""
+msgstr "All gamer tabs"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
 #: /client/application/game/ui/screens/screen_career.cpp:212
 msgid "Deviations completed"
-msgstr ""
+msgstr "Levels in Universe"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -771,7 +771,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_career.cpp:220
 msgid "Extra XP"
-msgstr ""
+msgstr "More pro points"
 
 #: /client/application/game/ui/screens/screen_career.cpp:245
 msgid "Quests: %s XP"
@@ -804,7 +804,7 @@ msgstr "Fix mistakes"
 #. The name of the graphics configuration that disables all the graphics effects
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:50
 msgid "Minimal"
-msgstr "Minimalism"
+msgstr "Potato"
 
 #. The name of the graphics configuration that enables a few graphical effects
 #. while still allowing screen recording with a high compression ratio
@@ -815,12 +815,12 @@ msgstr ".zip it carefully"
 #. The name of the graphics configuration that enables almost all the graphical effects.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:55
 msgid "High"
-msgstr "Elite"
+msgstr "Kinda high"
 
 #. The name of the graphics configuration that enables all the graphical effects.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:57
 msgid "Highest"
-msgstr "Master"
+msgstr "Burn your PC"
 
 #. Title of the screen where graphics are configured.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:95
@@ -837,11 +837,11 @@ msgstr "not off"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:116
 msgid "minimal"
-msgstr ""
+msgstr "not high"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:116
 msgid "advanced"
-msgstr ""
+msgstr "not low"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:123
@@ -857,7 +857,7 @@ msgstr "Dirty monitor"
 #. The name of the setting that enables horizontal scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "horizontal"
-msgstr ""
+msgstr "not vertical"
 
 #. The name of setting that enables grid-like scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:142
@@ -1202,7 +1202,7 @@ msgstr ""
 #. Health: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:457
 msgid "Health: %s"
-msgstr ""
+msgstr "Tough rate: %s"
 
 #. Used in the Encyclopedia to show the damage that an entity does.
 #. The %s is replaced by a number or a set of numbers
@@ -1211,7 +1211,7 @@ msgstr ""
 #. Damage: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:464
 msgid "Damage: %s"
-msgstr ""
+msgstr "Owie rate: %s"
 
 #. Used in the Encyclopedia to show the points that an entity gives out.
 #. The %s is replaced by a number or a set of numbers
@@ -1220,17 +1220,17 @@ msgstr ""
 #. Points: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:471
 msgid "Points: %s"
-msgstr ""
+msgstr "Rich rate: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
 msgid "New World Record"
-msgstr ""
+msgstr "New bruh moment"
 
 #. Title string for new community level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:34
 msgid "New Level"
-msgstr ""
+msgstr "New way to rage"
 
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:36
@@ -1245,7 +1245,7 @@ msgstr "New PFP reaction"
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:40
 msgid "New reply to your comment on %s"
-msgstr "New trash opition about you on %s"
+msgstr "New trash opinion about you on %s"
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -1347,27 +1347,27 @@ msgstr "Drip is in da pocket now"
 #. Shown when asking for a ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:162
 msgid "Enter configuration name"
-msgstr ""
+msgstr "Drip name?"
 
 #. Title of the screen where you choose which configuration to load
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:179
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Find drip in your pocket"
 
 #. Shown in a notification when the configuration loaded has no name
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:245
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "Got da drip"
 
 #. Shown in a notification when the configuration loaded has a name
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:248
 msgid "loaded <%s>"
-msgstr ""
+msgstr "Got da <%s>"
 
 #. The text in the button that players press to join a Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:33
 msgid "Join Blitz"
-msgstr ""
+msgstr "Join Battle Royal"
 
 #. Explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:50
@@ -1451,28 +1451,28 @@ msgstr "With the bois"
 #. new items to unlock.
 #: /client/application/game/ui/screens/screen_main_menu.cpp:338
 msgid "New Items"
-msgstr ""
+msgstr "New things"
 
 #. The string shown in the header of the screen where you select which
 #. data you want to erase from disk.
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:15
 msgid "Manage local data"
-msgstr ""
+msgstr "Ur storage"
 
 #. Shown in the button that erases local leaderboards
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:51
 msgid "Erase local leaderboards"
-msgstr ""
+msgstr "Wipe ur scores"
 
 #. Shown in the button that erases local replays
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:60
 msgid "Erase local replays"
-msgstr ""
+msgstr "Wipe ur plays"
 
 #. Shown in the button that resets the daily quest.
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:74
 msgid "Reset daily quest"
-msgstr ""
+msgstr "Wipe missions progress"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:108
 msgid "Room is full"
@@ -1609,18 +1609,18 @@ msgstr "Ctrl+R"
 #. Blitz
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:161
 msgid "Joining Blitz"
-msgstr ""
+msgstr "Joining Battle Royal"
 
 #. Message shown when a player is disconnected from a Blitz
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:188
 msgid "Disconnected from Blitz"
-msgstr ""
+msgstr "Ragequited from Battle Royal"
 
 #. The string shown to players in the waiting room while waiting for
 #. the previous Blitz to finish.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:333
 msgid "Waiting for previous Blitz..."
-msgstr ""
+msgstr "Battle Royal is already going"
 
 #. The string shown while waiting for additional players to join a
 #. Blitz. For the record, the number of players required and the number
@@ -1635,7 +1635,7 @@ msgstr "Waiting for peeps"
 #. seconds, for example: Starting in 5.3s
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:565
 msgid "Starting in %s"
-msgstr ""
+msgstr "Start this stuff in %s"
 
 #. Text shown when the player tries to exit a Blitz.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:626
@@ -1650,26 +1650,26 @@ msgstr "Steal"
 #. The title of the screen that shows the quests available
 #: /client/application/game/ui/screens/screen_quests.cpp:192
 msgid "Quests"
-msgstr ""
+msgstr "Missions"
 
 #. Message shown when downloading quests has failed.
 #: /client/application/game/ui/screens/screen_quests.cpp:272
 msgid "Failed to download quests"
-msgstr ""
+msgstr "Missions download failed successfully"
 
 #. Message shown when the game is too old and needs to be updated to
 #. support the new quests.
 #: /client/application/game/ui/screens/screen_quests.cpp:284
 msgid "Incompatible quests: the game needs to be updated."
-msgstr ""
+msgstr "Wrong missions, update ur software"
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:62
 msgid "Failed to claim! No internet?"
-msgstr ""
+msgstr "Ay you need internet to steal rewards"
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:94
 msgid "Successfully claimed XP!"
-msgstr ""
+msgstr "Stole some pro points!"
 
 #: /client/application/game/ui/screens/screen_select_development_level.cpp:19
 msgid "Developer mode"
@@ -2045,7 +2045,7 @@ msgstr "very low score"
 #. listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:36
 msgid "inertic"
-msgstr ""
+msgstr "physic-like"
 
 #. Shown in the achievement filter, when the uncategorized achievements
 #. are listed.
@@ -2152,7 +2152,7 @@ msgstr "Share your (bad) opinion"
 #. Replies to "Hello this is my comment"
 #: /client/application/game/ui/screens/screen_view_and_add_comments.h:20
 msgid "Replies to \"%s\""
-msgstr ""
+msgstr "Trash opinion on \"%s\""
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:31
 msgid "Africa"
@@ -2312,7 +2312,7 @@ msgstr "Impossible"
 
 #: /client/application/game/ui/views/account_view.cpp:340
 msgid "Blitz Skill Rating: %s"
-msgstr ""
+msgstr "Battle Royal Rank: %s"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:

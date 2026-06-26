@@ -23,24 +23,24 @@ msgstr ""
 #. "Get ready for round 2 / 4!"
 #: /client/application/game/blitz/blitz_ui.cpp:25
 msgid "Get ready for round %s!"
-msgstr ""
+msgstr "Round->%s"
 
 #. Title of the screen that shows the score of every player at the end of a
 #. Blitz round.
 #: /client/application/game/blitz/blitz_ui.cpp:86
 msgid "Round results"
-msgstr ""
+msgstr "Round.Result"
 
 #. Title of the screen that shows the rankings of all the players after
 #. multiple rounds of Blitz.
 #: /client/application/game/blitz/blitz_ui.cpp:192
 msgid "Overall ranking"
-msgstr ""
+msgstr "Ranking.Overall"
 
 #. The string shown when a Blitz round is finished
 #: /client/application/game/blitz/blitz_ui.cpp:293
 msgid "Round finished!"
-msgstr ""
+msgstr "Round.Finished == true"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -302,7 +302,7 @@ msgstr "ui.color"
 #. links the Mace head to the player's ship
 #: /client/application/game/player_data/player_unlocked_items.h:44
 msgid "Mace Shaft"
-msgstr ""
+msgstr "ship.maceShaft"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:197
 msgid "Failed to download data"
@@ -477,7 +477,7 @@ msgstr "Restart();"
 #. "Continuing in 13.23 seconds"
 #: /client/application/game/ui/pause_ui.cpp:140
 msgid "Continuing in %s seconds"
-msgstr ""
+msgstr "Game.Resume.In >= %s"
 
 #: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:78
 msgid "Loading..."
@@ -648,7 +648,7 @@ msgstr "if (player.singedIn == true) { ViewComments(); }"
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr ""
+msgstr "if (player.SignedIn == true) { PlayBlitz(); }"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -660,7 +660,7 @@ msgstr "SignIn.RequestingEmailVerif = true"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:35
 msgid "Verification email sent"
-msgstr "SignIn.EmailVeriftSent = true"
+msgstr "SignIn.EmailVerifSent = true"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:37
 msgid "Check your inbox!"
@@ -890,7 +890,7 @@ msgstr "Vignette"
 #. game.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:178
 msgid "Resolution"
-msgstr ""
+msgstr "Resolution"
 
 #. The name of the setting for when you select the "full" resolution, as
 #. opposed to downsampled resolutions.
@@ -1840,7 +1840,7 @@ msgstr "Game.UI"
 #. Label used to show a vibration setting next to an on/off switch
 #: /client/application/game/ui/screens/screen_settings.cpp:157
 msgid "Vibration"
-msgstr ""
+msgstr "Vibration"
 
 #: /client/application/game/ui/screens/screen_settings.cpp:175
 msgid "Start tutorial"
@@ -1930,7 +1930,7 @@ msgstr "Game.ShowOptionalFloatingText"
 #. the UI transition animation in-game.
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:215
 msgid "Show UI transition animation"
-msgstr ""
+msgstr "Game.ShowTransitionAnimation"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -2033,25 +2033,25 @@ msgstr "UploadReplayForLevel(\"%s\");"
 #. (=no filtering is done).
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:30
 msgid "all"
-msgstr ""
+msgstr "all"
 
 #. Shown in the achievement filter, when only the "very high scores"
 #. achievements are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:33
 msgid "very high score"
-msgstr ""
+msgstr "scoreHigh"
 
 #. Shown in the achievement filter, when only "inertic" achievements are
 #. listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:36
 msgid "inertic"
-msgstr ""
+msgstr "inertic"
 
 #. Shown in the achievement filter, when the uncategorized achievements
 #. are listed.
 #: /client/application/game/ui/screens/screen_view_achievements.cpp:39
 msgid "other"
-msgstr ""
+msgstr "other"
 
 #. Shown when a user disables comments on their profile and or levels.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
@@ -2253,7 +2253,7 @@ msgstr "Level.GoldMedalPercentage = %s"
 #. computing the XP leaderboard.
 #: /client/application/game/ui/screens/screen_view_xp_leaderboard.cpp:83
 msgid "( excluding Extra XP )"
-msgstr ""
+msgstr "xp.extra::exclude == true"
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:84
 msgid "Failed to read replay."
@@ -2412,7 +2412,7 @@ msgstr "DIFF"
 #. Shown in the button that allows users to sort by xp
 #: /client/application/game/ui/views/sort_button.cpp:48
 msgid "XP"
-msgstr ""
+msgstr "XP"
 
 #: /client/application/game/ui/views/top_notification_view.cpp:57
 msgid "%sWaiting for other player%s"
