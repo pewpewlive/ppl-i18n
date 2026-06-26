@@ -1211,7 +1211,7 @@ msgstr "Tough rate: %s"
 #. Damage: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:464
 msgid "Damage: %s"
-msgstr "Owie rate" %s"
+msgstr "Owie rate: %s"
 
 #. Used in the Encyclopedia to show the points that an entity gives out.
 #. The %s is replaced by a number or a set of numbers
