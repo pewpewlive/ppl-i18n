@@ -302,7 +302,7 @@ msgstr "Cor da IU"
 #. links the Mace head to the player's ship
 #: /client/application/game/player_data/player_unlocked_items.h:44
 msgid "Mace Shaft"
-msgstr ""
+msgstr "Haste da Mace"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:197
 msgid "Failed to download data"
@@ -326,7 +326,7 @@ msgstr "No nível %s"
 
 #: /client/application/game/quests/quest.cpp:18
 msgid "In levels %s"
-msgstr "Nos nìveis %s"
+msgstr "Nos níveis %s"
 
 #. Shown in a notification when you improve your quest progress.
 #. Example of what it looks like:
@@ -430,12 +430,12 @@ msgstr "Você morreu. De novo."
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:21
 msgid "Insert coin to continue"
-msgstr "TÁ MUITO RUIM"
+msgstr "Insira uma moeda para continuar"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:23
 msgid "You tried"
-msgstr "Você não tentou"
+msgstr "Você tentou"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:25
@@ -513,7 +513,7 @@ msgstr "Nick trocado com sucesso"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:100
 msgid "Failed to update username"
-msgstr "Falhar ao trocar nick"
+msgstr "Falha ao trocar nick"
 
 #. Shown in a header, in the screen that allows you to manage your PewPew
 #. Live account. In this screen you can for example change the colors of your
@@ -1118,7 +1118,7 @@ msgstr "Uma nave voadora que procura implacavelmente por uma presa. Avança imed
 #. Description of the "Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:238
 msgid "A pink triangle-shaped mothership that roams the levels. Upon its destruction it unleashes three arcs of bullets from its sides."
-msgstr "Uma nave-mãe rosa em forma de triângulo que anda pelos nìveis. Libera 3 arcos de balas ao ser destruída."
+msgstr "Uma nave-mãe rosa em forma de triângulo que anda pelos níveis. Libera 3 arcos de balas ao ser destruída."
 
 #. Description of the "Red Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:248
@@ -1128,7 +1128,7 @@ msgstr "Uma nave-mãe vermelha em forma de quadrado que anda pelos níveis. Libe
 #. Description of the "Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:258
 msgid "An orange, pentagon-shaped mothership that roams the levels. Upon its destruction it fires six bullets in a hexagon pattern."
-msgstr "Uma nave-mãe laranja em forma de pentágono que anda pelos nìveis. Atira 6 balas em hexágono quando destruída."
+msgstr "Uma nave-mãe laranja em forma de pentágono que anda pelos níveis. Atira 6 balas em hexágono quando destruída."
 
 #. Description of the "Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:268
@@ -1138,7 +1138,7 @@ msgstr "Uma nave-mãe verde em forma de hexágono que anda pelos níveis. Libera
 #. Description of the "Cyan Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:278
 msgid "A cyan, heptagon-shaped mothership that roams the levels. Upon its destruction, it fires a dense arc of bullets towards the nearest ship."
-msgstr "Uma nave-mãe ciano em forma de heptágono que anda pelos níveid. Atira um denso arco de balas na direção da nave mais próxima quando destruído."
+msgstr "Uma nave-mãe ciano em forma de heptágono que anda pelos níveis. Atira um denso arco de balas na direção da nave mais próxima quando destruída."
 
 #. Description of the "Super Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:288
@@ -1168,12 +1168,12 @@ msgstr "Uma grande nave-mãe ciano em forma de heptágono. Atira um imenso arco 
 #. Description of the "Rolling Cube" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:338
 msgid "A cube-shaped enemy that rolls through the levels. It constantly seeks out the nearest ship, and its speed increases progressively over time."
-msgstr "Um inimigo em forma de cubo que rola pelos nìveis. Procura constantemente pela nave mais próxima e acelera gradualmente."
+msgstr "Um inimigo em forma de cubo que rola pelos níveis. Procura constantemente pela nave mais próxima e acelera gradualmente."
 
 #. Description of the "Rolling Sphere" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:348
 msgid "A spherical enemy that rolls around the levels, bouncing off walls. While immune to standard bullets, it will shrink when hit by a Freeze bomb."
-msgstr "Um inimigo esférico que rola pelos nìveis, saltando pelas paredes. É imune a balas comuns mas encolherá com uma bomba de congelamento."
+msgstr "Um inimigo esférico que rola pelos níveis, saltando pelas paredes. É imune a balas comuns mas encolherá com uma bomba de congelamento."
 
 #. Description of the "Spiny" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:376
@@ -1555,7 +1555,7 @@ msgstr "Configuração da sala"
 
 #: /client/application/game/ui/screens/screen_online_configure_room.cpp:67
 msgid "2 extra characters (optional):"
-msgstr "2 personagens extras (opcional):"
+msgstr "2 caracteres extras (opcional):"
 
 #: /client/application/game/ui/screens/screen_online_configure_room.cpp:100
 msgid "Password (optional):"
@@ -1579,7 +1579,7 @@ msgstr "A sala expirou"
 
 #: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:316
 msgid "Unknown error"
-msgstr "erro desconhecido"
+msgstr "Erro desconhecido"
 
 #: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:331
 msgid "Failed to join room"
@@ -1614,7 +1614,7 @@ msgstr "Entrando na Blitz"
 #. Message shown when a player is disconnected from a Blitz
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:188
 msgid "Disconnected from Blitz"
-msgstr "Disconectado da Blitz"
+msgstr "Desconectado da Blitz"
 
 #. The string shown to players in the waiting room while waiting for
 #. the previous Blitz to finish.
@@ -1661,7 +1661,7 @@ msgstr "Falha ao baixar missões"
 #. support the new quests.
 #: /client/application/game/ui/screens/screen_quests.cpp:284
 msgid "Incompatible quests: the game needs to be updated."
-msgstr "Missões incompatìveis: o jogo precisa ser atualizado."
+msgstr "Missões incompatíveis: o jogo precisa ser atualizado."
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:62
 msgid "Failed to claim! No internet?"
@@ -1749,11 +1749,11 @@ msgstr "Você pode jogar os variações em 3 níveis de dificuldade."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:171
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr "Cuidado! #ffff00ffdifícil##ffffffff é muito difícil, e #ff0000ffdelirante#ffffffff é insano."
+msgstr "Cuidado! #ffff00ffdifícil#ffffffff é muito difícil, e #ff0000ffdelirante#ffffffff é insano."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:172
 msgid "For every completed deviation you get XP."
-msgstr "Pra cada variação completo você ganha XP."
+msgstr "Para cada variação completa você ganha XP."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:173
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
@@ -1769,7 +1769,7 @@ msgstr "Configure o nível, a nave, os bônus, e os inimigos!"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:181
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr "A sandbox aínda está em desenvolvimento, espere mudanças no futuro."
+msgstr "A sandbox ainda está em desenvolvimento, espere mudanças no futuro."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:184
 msgid "Community levels are created by the community."
@@ -1793,7 +1793,7 @@ msgstr "Informações de níveis oficiais"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:197
 msgid "Community levels information"
-msgstr "informações de níveis da comunidade"
+msgstr "Informações de níveis da comunidade"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "World information"
@@ -2253,7 +2253,7 @@ msgstr "Porcentagem de medalhas de ouro: %s"
 #. computing the XP leaderboard.
 #: /client/application/game/ui/screens/screen_view_xp_leaderboard.cpp:83
 msgid "( excluding Extra XP )"
-msgstr "( exlcluindo XP Extra )"
+msgstr "( excluindo XP Extra )"
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:84
 msgid "Failed to read replay."
@@ -2358,7 +2358,7 @@ msgstr "Geral"
 #: /client/application/game/ui/views/account_view.cpp:330
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr "Level: %s"
+msgstr "Nível: %s"
 
 #. Displayed in a player's profile. The %s will be replaced by the date the
 #. player joined, for example:
@@ -2412,7 +2412,7 @@ msgstr "Dificuldade"
 #. Shown in the button that allows users to sort by xp
 #: /client/application/game/ui/views/sort_button.cpp:48
 msgid "XP"
-msgstr ""
+msgstr "XP"
 
 #: /client/application/game/ui/views/top_notification_view.cpp:57
 msgid "%sWaiting for other player%s"
