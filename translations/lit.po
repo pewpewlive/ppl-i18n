@@ -302,7 +302,7 @@ msgstr "Sąs. spalva"
 #. links the Mace head to the player's ship
 #: /client/application/game/player_data/player_unlocked_items.h:44
 msgid "Mace Shaft"
-msgstr ""
+msgstr "Pjūklo Kotas"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:197
 msgid "Failed to download data"
@@ -736,7 +736,7 @@ msgstr "Pasaulinės žaidėjų lentelės"
 
 #: /client/application/game/ui/screens/screen_career.cpp:70
 msgid "Blitz leaderboard"
-msgstr ""
+msgstr "„Blitz“ žaidėjų lentelė"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -1023,7 +1023,7 @@ msgstr "Nepavyko išsiųsti paskyros pašalinimo prašymo"
 
 #: /client/application/game/ui/screens/screen_confirm_action.cpp:94
 msgid "Are you sure?"
-msgstr ""
+msgstr "Ar tikrai?"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -1063,132 +1063,132 @@ msgstr "Enciklopedija"
 #. "... as shown by the ◬ indicator."
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
 msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
-msgstr ""
+msgstr "Priešai išleidžia taškų kristalus, kai yra sunaikinami. Išleistų kristalų kiekis priklauso nuo jūsų žudymo greičio, kaip parodyta %s indikatoriaus. Surinkus taškų kristalus, padidėja jūsų taškų suma."
 
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
 msgid "A bumpy, white asteroid that floats in space. Shoot it and it splits into multiple smaller parts. Exists in 4 different sizes."
-msgstr ""
+msgstr "Baltas, nelygus asteroidas, plūduriuojantis kosmose. Šauk į jį ir jis suskaidomas į kelias mažesnes dalis. Yra 4 skirtingų dydžių."
 
 #. Description of the "BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:133
 msgid "This yellow, arrow-shaped drone zips predictably back and forth."
-msgstr ""
+msgstr "Šis geltonas, rodyklės formos dronas juda nuspėjamai pirmyn ir atgal."
 
 #. Description of the "Red BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:141
 msgid "This red arrow-shaped drone mirrors the familiar movements of the standard BAF, but it is much stronger posing a greater threat."
-msgstr ""
+msgstr "Šis raudonas rodyklės formos dronas atspindi įprastą BAF judėjimą, tačiau jis yra daug stipresnis ir kelia didesnę grėsmę."
 
 #. Description of the "Blue BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:149
 msgid "Unlike its yellow and red counterparts, it bounces off walls in unpredictable directions, making its movement difficult to anticipate."
-msgstr ""
+msgstr "Skirtingai nuo geltonos ir raudonos versijos, jis atšoka nuo sienų nenuspėjamomis kryptimis, todėl jo judėjimą sunku numatyti."
 
 #. Description of the "Brownian" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:176
 msgid "A tetrahedron-shaped enemy that advances on your position with erratic, unpredictable movements."
-msgstr ""
+msgstr "Tetraedro formos priešas, kuris juda link jūsų pozicijos chaotiškai ir nenuspėjamai."
 
 #. Description of the "Crowders" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:192
 msgid "An octahedron-shaped enemy that slowly advances on you. Tends to form dense crowds with other Crowders."
-msgstr ""
+msgstr "Oktaedro formos priešas, kuris lėtai juda link jūsų. Turi tendenciją susidaryti tankias minias su kitais Crowder'iais."
 
 #. Description of the "Dodger" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:200
 msgid "An hourglass-shaped enemy that advances towards the nearest ship while actively evading projectiles. Like Crowders, has a tendency to form crowds."
-msgstr ""
+msgstr "Smėlio laikrodžio formos priešas, kuris juda link artimiausio laivo, aktyviai išvengdamas sviedinių. Kaip ir Crowder'iai, turi tendenciją susidaryti minias."
 
 #. Description of the "Exploder" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:208
 msgid "An inscribed polygram that advances towards the nearest ship. Upon its destruction, releases a blast of energy that damages any ship it touches."
-msgstr ""
+msgstr "Įrašytas daugiakampis, kuris juda link artimiausio laivo. Sunaikinus, išleidžia energijos pliūpsnį, kuris pažeidžia bet kurį laivą, su kuriuo susiduria."
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
 msgid "Made of rotating concentric circles, it plunges towards the nearest ship with inertia. Very resistant to damage, it can fortunately be repelled with bullets."
-msgstr ""
+msgstr "Sudarytas iš besisukančių koncentrinių ratų, jis leidžiasi link artimiausio laivo su inercija. Labai atsparus žalai, tačiau jį galima atstumti kulkomis."
 
 #. Description of the "Kamikaze" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
 msgid "A flying ship that relentlessly scans for a prey. Once it locks onto you, it immediately charges forward, attempting to ram you head-on"
-msgstr ""
+msgstr "Skraidantis laivas, kuris nesustabdomai ieško grobio. Kai tik jis jus užfiksuoja, jis iš karto įsiveržia į priekį, bandydamas jus užpulti tiesiai į galvą."
 
 #. Description of the "Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:238
 msgid "A pink triangle-shaped mothership that roams the levels. Upon its destruction it unleashes three arcs of bullets from its sides."
-msgstr ""
+msgstr "Rožinis trikampio formos motininis laivas, kuris klajoja lygiais. Sunaikinus jį, jis išleidžia tris kulkų lankus iš savo šonų."
 
 #. Description of the "Red Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:248
 msgid "A red square-shaped mothership that roams the levels. Upon its destruction it unleashes a barrage of homing bullets that pursue the nearest ship."
-msgstr ""
+msgstr "Raudonas kvadrato formos motininis laivas, kuris klajoja lygiais. Sunaikinus jį, jis išleidžia kulkų salvę, kuri seka artimiausią laivą."
 
 #. Description of the "Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:258
 msgid "An orange, pentagon-shaped mothership that roams the levels. Upon its destruction it fires six bullets in a hexagon pattern."
-msgstr ""
+msgstr "Oranžinis, penkiakampio formos motininis laivas, kuris klajoja lygiais. Sunaikinus jį, jis iššauna šešias kulkas šešiakampio formos raštu."
 
 #. Description of the "Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:268
 msgid "A green, hexagon-shaped mothership that roams the levels. Upon its destruction it unleashes a circle of bullets."
-msgstr ""
+msgstr "Žalias, šešiakampio formos motininis laivas, kuris klajoja lygiais. Sunaikinus jį, jis išleidžia kulkų ratą."
 
 #. Description of the "Cyan Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:278
 msgid "A cyan, heptagon-shaped mothership that roams the levels. Upon its destruction, it fires a dense arc of bullets towards the nearest ship."
-msgstr ""
+msgstr "Žydras, septyniakampio formos motininis laivas, kuris klajoja lygiais. Sunaikinus jį, jis iššauna tankų kulkų lanką link artimiausio laivo."
 
 #. Description of the "Super Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:288
 msgid "An extra-large, pink, triangle-shaped mothership. Upon its destruction, unleashes three arcs of large bullets from its sides."
-msgstr ""
+msgstr "Labai didelis rožinis trikampio formos motininis laivas. Sunaikinus jį, jis išleidžia tris didelių kulkų lankus iš savo šonų."
 
 #. Description of the "Super Red Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:298
 msgid "An extra-large, red, squared-shaped mothership. Upon its destruction, unleashes large homing bullets that actively pursue the nearest ship."
-msgstr ""
+msgstr "Labai didelis raudonas kvadrato formos motininis laivas. Sunaikinus jį, jis išleidžia dideles kulkas, kurios aktyviai seka artimiausią laivą."
 
 #. Description of the "Super Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:308
 msgid "An extra-large orange, pentagon-shaped mothership. Upon its destruction it fires four times the number of bullets compared to its standard counterpart."
-msgstr ""
+msgstr "Labai didelis oranžinis penkiakampio formos motininis laivas. Sunaikinus jį, jis iššauna keturis kartus daugiau kulkų nei jo standartinė versija."
 
 #. Description of the "Super Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:318
 msgid "An extra-large green, hexagon-shaped mothership. Upon its destruction, fires an extremely dense circle of large and fast bullets."
-msgstr ""
+msgstr "Labai didelis žalias šešiakampio formos motininis laivas. Sunaikinus jį, jis iššauna labai tankų ratą didelių ir greitų kulkų."
 
 #. Description of the "Super Cyan Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:328
 msgid "An extra-large cyan, heptagon-shaped mothership. Upon its destruction, fires a huge arc of large and fast bullets towards the nearest ship."
-msgstr ""
+msgstr "Labai didelis žydras septyniakampio formos motininis laivas. Sunaikinus jį, jis iššauna didžiulį lanką didelių ir greitų kulkų link artimiausio laivo."
 
 #. Description of the "Rolling Cube" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:338
 msgid "A cube-shaped enemy that rolls through the levels. It constantly seeks out the nearest ship, and its speed increases progressively over time."
-msgstr ""
+msgstr "Kvadrato formos priešas, kuris rieda per lygius. Jis nuolat ieško artimiausio laivo, o jo greitis palaipsniui didėja laikui bėgant."
 
 #. Description of the "Rolling Sphere" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:348
 msgid "A spherical enemy that rolls around the levels, bouncing off walls. While immune to standard bullets, it will shrink when hit by a Freeze bomb."
-msgstr ""
+msgstr "Sferos formos priešas, kuris rieda per lygius, atšokdamas nuo sienų. Nors jis yra atsparus standartinėms kulkoms, jis sumažės, kai bus pataikytas Ledo bomba."
 
 #. Description of the "Spiny" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:376
 msgid "An arrow-shaped enemy that moves along circular paths, bouncing of walls. Possesses a tendency to drift towards nearby ships."
-msgstr ""
+msgstr "Rodyklės formos priešas, kuris juda apskritais keliais, atšokdamas nuo sienų. Jis linkęs plūduriuoti link netoliese esančių laivų."
 
 #. Description of the "Splitter" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:384
 msgid "A pink, flower-shaped enemy that drifts in random directions. Upon its destruction, it unleashes petals that scatter in a circular pattern."
-msgstr ""
+msgstr "Rožinis, gėlės formos priešas, kuris plūduriuoja atsitiktinėmis kryptimis. Sunaikinus jį, jis išleidžia žiedlapius, kurie išsibarsto apskritimo raštu."
 
 #. Description of the "UFO" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:392
 msgid "A red, flying saucer shaped enemy that glides across the levels. Regularly shoot bullets towards the nearest ship that also happen to damage other enemies."
-msgstr ""
+msgstr "Raudonas, skraidančio lėkštės formos priešas, kuris slysta per lygius. Reguliariai šaudo kulkas link artimiausio laivo, kurios taip pat pažeidžia kitus priešus."
 
 #. Description of the "Wary" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:402
@@ -1202,7 +1202,7 @@ msgstr ""
 #. Health: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:457
 msgid "Health: %s"
-msgstr ""
+msgstr "Gyvybės: %s"
 
 #. Used in the Encyclopedia to show the damage that an entity does.
 #. The %s is replaced by a number or a set of numbers
@@ -1211,7 +1211,7 @@ msgstr ""
 #. Damage: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:464
 msgid "Damage: %s"
-msgstr ""
+msgstr "Žala: %s"
 
 #. Used in the Encyclopedia to show the points that an entity gives out.
 #. The %s is replaced by a number or a set of numbers
@@ -1220,7 +1220,7 @@ msgstr ""
 #. Points: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:471
 msgid "Points: %s"
-msgstr ""
+msgstr "Taškai: %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
@@ -1383,13 +1383,13 @@ msgstr "Sekmės!"
 #. For example: "waiting: 3"
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:76
 msgid "waiting: %s"
-msgstr ""
+msgstr "laukia: %s"
 
 #. Used for showing how many players are playing in a Blitz.
 #. For example: "playing: 13"
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:79
 msgid "playing: %s"
-msgstr ""
+msgstr "žaidžia: %s"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
@@ -1681,7 +1681,7 @@ msgstr "Pasirinkite žaidimo tinkle režimo tipą"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:35
 msgid "Compete in rounds against 3 or more people!"
-msgstr ""
+msgstr "Kovok raunduose prieš 3 ar daugiau žaidėjų!"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:60
 msgid "Play with people around the world!"
@@ -1761,7 +1761,7 @@ msgstr "%1$s XP už įprastus, %2$s XP už sudėtingus ir %3$s XP už beprotišk
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
 msgid "The sandbox is the place to train and experiment under different conditions."
-msgstr "Smėlio dėžė – vieta, kur galima treniruotis įvairiose situacijose."
+msgstr "Smėlio dėžė - vieta, kur galima treniruotis įvairiose situacijose."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
@@ -1930,7 +1930,7 @@ msgstr "Žaidžiant rodyti nebūtiną tekstą"
 #. the UI transition animation in-game.
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:215
 msgid "Show UI transition animation"
-msgstr ""
+msgstr "Rodyti vartotojo sąsajos perėjimo animaciją"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -2312,7 +2312,7 @@ msgstr "Beprotiškas"
 
 #: /client/application/game/ui/views/account_view.cpp:340
 msgid "Blitz Skill Rating: %s"
-msgstr ""
+msgstr "„Blitz“ Įgūdžių Reitingas: %s"
 
 #. Shown in the profile screen.
 #. The %s is replaced by the era number, for example:
@@ -2412,7 +2412,7 @@ msgstr "Sunkumas"
 #. Shown in the button that allows users to sort by xp
 #: /client/application/game/ui/views/sort_button.cpp:48
 msgid "XP"
-msgstr ""
+msgstr "XP"
 
 #: /client/application/game/ui/views/top_notification_view.cpp:57
 msgid "%sWaiting for other player%s"
