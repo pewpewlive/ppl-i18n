@@ -53,15 +53,15 @@ the feasibility.
 * 🇬🇪 [Georgian](/translations/kat.po) (83% complete; 89 remaining)
 * 💻 [Code](/translations/code.po) (86% complete; 73 remaining)
 * 🐸 [Meme-nglish](/translations/meme.po) (87% complete; 65 remaining)
-* 🇱🇹 [Lithuanian](/translations/lit.po) (92% complete; 39 remaining)
 * 🇺🇿 [Uzbek](/translations/uzb.po) (92% complete; 39 remaining)
 * 🇺🇦 [Ukrainian](/translations/ukr.po) (97% complete; 14 remaining)
-* 🇧🇷 [Portuguese](/translations/por.po) (99% complete; 2 remaining)
+* 🇱🇹 [Lithuanian](/translations/lit.po) (99% complete; 1 remaining)
 * 🇦🇩 [Catalan](/translations/cat.po) (100% complete! 🎉)
 * 🇫🇷 [French](/translations/fra.po) (100% complete! 🎉)
+* 🇧🇷 [Portuguese](/translations/por.po) (100% complete! 🎉)
 * 🇷🇺 [Russian](/translations/rus.po) (100% complete! 🎉)
 * 🇪🇸 [Spanish](/translations/spa.po) (100% complete! 🎉)
 * 🇻🇳 [Vietnamese](/translations/vie.po) (100% complete! 🎉)
 * 🥰 [UwU](/translations/uwu.po) (100% complete! 🎉)
 
-> Report generated on Jun 27 2026 08:01:15 UTC
+> Report generated on Jul 20 2026 03:41:53 UTC
