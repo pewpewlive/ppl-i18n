@@ -1,12 +1,25 @@
 import sys
-import os
+import subprocess
 
 path = sys.argv[1]
 
-os.chdir(path)
-diff = os.popen('git diff').readlines()
+diff = subprocess.run(
+  ['git', 'diff', '--', 'README.md'],
+  cwd=path,
+  check=True,
+  capture_output=True,
+  text=True,
+).stdout.splitlines()
 
-if not diff[10].startswith('+> Report generated on') and not diff[8].startswith('-> Report generated on'):
-  print('true')
-else:
-  print('false')
+changed_lines = [
+  line[1:]
+  for line in diff
+  if line.startswith(('+', '-')) and not line.startswith(('+++ ', '--- '))
+]
+
+commit_needed = any(
+  not line.startswith('> Report generated on')
+  for line in changed_lines
+)
+
+print(str(commit_needed).lower())
