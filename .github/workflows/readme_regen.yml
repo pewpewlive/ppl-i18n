@@ -8,6 +8,7 @@ on:
       - 'translations/**'
       - '.github/workflows/readme_regen.yml'
       - '.github/workflows/readme_regen.py'
+      - 'generate_readme.py'
       - 'metadata.json'
   workflow_dispatch:
 
