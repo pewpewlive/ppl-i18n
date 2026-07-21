@@ -6,6 +6,8 @@ on:
       - master
     paths:
       - 'translations/**'
+      - '.github/workflows/readme_regen.yml'
+      - '.github/workflows/readme_regen.py'
       - 'metadata.json'
   workflow_dispatch:
 
