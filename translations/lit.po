@@ -1193,7 +1193,7 @@ msgstr "Raudonas, skraidančio lėkštės formos priešas, kuris slysta per lygi
 #. Description of the "Wary" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:402
 msgid "A small blue-purple hexagon-shaped enemy that wanders aimlessly through the levels. Fires homing bullets towards the nearest ship."
-msgstr ""
+msgstr "Nedidelis mėlynas-violetinis šešiakampio formos priešas, kuris klajoja be tikslo per lygius. Šaudo kulkas, kurios seka artimiausią laivą."
 
 #. Used in the Encyclopedia to show the health of a destroyable entity.
 #. The %s is replaced by a number or a set of numbers
