@@ -1,9 +1,12 @@
 name: Readme Updater
 
 on:
-  schedule:
-    - cron: "0 0 * * 1"
-
+  push:
+    branches:
+      - master
+    paths:
+      - 'translations/**'
+      - 'metadata.json'
   workflow_dispatch:
 
 jobs:
