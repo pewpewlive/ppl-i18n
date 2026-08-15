@@ -16,7 +16,7 @@ msgstr "levels[\"%1$s\"].objective >= %2$s"
 #. "In Eskiv, score 10000 or more with an inertic ship in 1p."
 #: /client/application/account/achievements_description.cpp:40
 msgid "In %1$s, score %2$s or more with an inertic ship in 1p."
-msgstr ""
+msgstr "levels["%1$s"].score >= %2$s,ship == "inertic",players_count == 1"
 
 #. Title of the screen shown before the start of a blitz round.
 #. The %s is replaced with a number, for example:
@@ -29,13 +29,13 @@ msgstr "Round->%s"
 #. Blitz round.
 #: /client/application/game/blitz/blitz_ui.cpp:86
 msgid "Round results"
-msgstr "Round.Result"
+msgstr "Round.Result();"
 
 #. Title of the screen that shows the rankings of all the players after
 #. multiple rounds of Blitz.
 #: /client/application/game/blitz/blitz_ui.cpp:192
 msgid "Overall ranking"
-msgstr "Ranking.Overall"
+msgstr "Ranking.Overall();"
 
 #. The string shown when a Blitz round is finished
 #: /client/application/game/blitz/blitz_ui.cpp:293
@@ -266,43 +266,43 @@ msgstr "Rarity::Transcendent"
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:29
 msgid "Ship"
-msgstr "ship"
+msgstr "Ship();"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:31
 msgid "Trail"
-msgstr "ship.trail"
+msgstr "Ship.Trail();"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:33
 msgid "Bullet"
-msgstr "ship.bullet"
+msgstr "Ship.Bullet();"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:35
 msgid "Mace"
-msgstr "ship.mace"
+msgstr "Ship.Mace();"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:37
 msgid "Laser"
-msgstr "ship.laser"
+msgstr "Ship.Laser();"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:39
 msgid "Joystick"
-msgstr "ship.joystick"
+msgstr "Ship.Joystick();"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:41
 msgid "UI Color"
-msgstr "ui.color"
+msgstr "UI.Color();"
 
 #. Describes a type of unlockable item. The "Mace Shaft" is the shaft that
 #. links the Mace head to the player's ship
 #: /client/application/game/player_data/player_unlocked_items.h:44
 msgid "Mace Shaft"
-msgstr "ship.maceShaft"
+msgstr "Ship.MaceShaft();"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:197
 msgid "Failed to download data"
@@ -318,57 +318,57 @@ msgstr "Game.Error = \"Failed backup data download\""
 
 #: /client/application/game/quests/quest.cpp:10
 msgid "In any official level"
-msgstr ""
+msgstr "levels[\"official\"].played == true"
 
 #: /client/application/game/quests/quest.cpp:13
 msgid "In level %s"
-msgstr ""
+msgstr "levels[\"%s\"].played == true"
 
 #: /client/application/game/quests/quest.cpp:18
 msgid "In levels %s"
-msgstr ""
+msgstr "levels[\"%s\"].played == true"
 
 #. Shown in a notification when you improve your quest progress.
 #. Example of what it looks like:
 #. "Destroy 200 ROLLING_CUBE: 20 / 100 ⇨ 30 / 100"
 #: /client/application/game/quests/quest_manager.cpp:18
 msgid "%s: %s ⇨ %s"
-msgstr ""
+msgstr "Quest.Progress->%1$s(%2$s ⇨ %3$s)"
 
 #. Shown in a notification when you complete a quest.
 #. Example of what it looks like:
 #. "Reach 8900 in one game: Complete! (20 / 100 ⇨ 30 / 100)"
 #: /client/application/game/quests/quest_manager.cpp:23
 msgid "%s: Complete! (%s ⇨ %s)"
-msgstr ""
+msgstr "Quest.Complete(%1$s); Progress(%2$s ⇨ %3$s)"
 
 #. The description of the quest that involves playing destroying a certain
 #. amount of enemies. The %1$s is replaced by a number. The %2$s is replaced
 #. by an enemy name. For example: "Destroy 200 Motherships"
 #: /client/application/game/quests/quests.cpp:114
 msgid "Destroy %1$s %2$s"
-msgstr ""
+msgstr "Destroy[\"%2$s\"] >= %1$s"
 
 #. The description of the quest that involves reaching a certain score.
 #. The %s is replaced by a number, for example:
 #. "Reach the score of 10000"
 #: /client/application/game/quests/quests.cpp:168
 msgid "Reach %s in one game"
-msgstr ""
+msgstr "score >= %s"
 
 #. The description of the quest that involves surviving for a certain
 #. duration. The %s is replaced by a duration, for example: "Survive for 3
 #. minutes" "Survive for 40 seconds"
 #: /client/application/game/quests/quests.cpp:210
 msgid "Survive for %s in one game"
-msgstr ""
+msgstr "Survival.Time >= %s"
 
 #. The description of the quest that involves playing accumulating a certain
 #. amount of pointonium. The %s is replaced by an amount, for example: "Farm
 #. 10000 points from pointonum"
 #: /client/application/game/quests/quests.cpp:256
 msgid "Farm %s points from pointonium"
-msgstr ""
+msgstr "pointonium_collected >= %s"
 
 #. The description of the quest that involves playing a certain duration.
 #. The %s is replaced by a duration, for example:
@@ -376,18 +376,18 @@ msgstr ""
 #. "Play for 40 seconds"
 #: /client/application/game/quests/quests.cpp:302
 msgid "Play for %s"
-msgstr ""
+msgstr "Total.PlayTime >= %s"
 
 #. The description of the quest that involves playing multiplayer for a
 #. certain duration. The %s is replaced by a duration, for example: "Play
 #. multiplayer for 3 minutes" "Play multiplayer for 40 seconds"
 #: /client/application/game/quests/quests.cpp:340
 msgid "Play multiplayer for %s"
-msgstr ""
+msgstr "Multiplayer.PlayTime >= %s"
 
 #: /client/application/game/state/game_network_message_parser.cpp:58
 msgid "%s left the game"
-msgstr "%s called: Disconnect()"
+msgstr "%s called: Disconnect();"
 
 #: /client/application/game/state/game_state.cpp:522
 msgid "N/A"
@@ -556,19 +556,19 @@ msgstr "Register.UI"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Username"
-msgstr "Username"
+msgstr "username ="
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Password"
-msgstr "Password"
+msgstr "password ="
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
-msgstr "Confirm password"
+msgstr "password_confirm ="
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Email"
-msgstr "Email"
+msgstr "email ="
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:115
 msgid "Register"
@@ -632,23 +632,23 @@ msgstr "PrivacyPolicy();"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:95
 msgid "You need to be signed-in to upload scores"
-msgstr "if (player.singedIn == true) { UploadScore(); }"
+msgstr "if (Player.SingedIn == true) { UploadScore(); }"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:98
 msgid "You need to be signed-in to play online"
-msgstr "if (player.singedIn == true) { PlayOnline(); }"
+msgstr "if (Player.SingedIn == true) { PlayOnline(); }"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:103
 msgid "You need to be signed-in to view comments"
-msgstr "if (player.singedIn == true) { ViewComments(); }"
+msgstr "if (Player.SingedIn == true) { ViewComments(); }"
 
 #. Error message shown if to the player when they are trying to join
 #. a Blitz while not signed-in.
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to join Blitzes"
-msgstr "if (player.SignedIn == true) { PlayBlitz(); }"
+msgstr "if (Player.SignedIn == true) { PlayBlitz(); }"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
@@ -736,7 +736,7 @@ msgstr "Leaderboard(\"Global\");"
 
 #: /client/application/game/ui/screens/screen_career.cpp:70
 msgid "Blitz leaderboard"
-msgstr ""
+msgstr "Leaderboard(\"Blitz\");"
 
 #. The text shown in the career screen that explains that the
 #. stars and medals shown are *not* specific to an era.
@@ -771,15 +771,15 @@ msgstr "GameStats.Achievements"
 
 #: /client/application/game/ui/screens/screen_career.cpp:220
 msgid "Extra XP"
-msgstr ""
+msgstr "XP.Extra"
 
 #: /client/application/game/ui/screens/screen_career.cpp:245
 msgid "Quests: %s XP"
-msgstr ""
+msgstr "XP.Quests == %s"
 
 #: /client/application/game/ui/screens/screen_career.cpp:250
 msgid "Badges: %s XP"
-msgstr ""
+msgstr "XP.Badges == %s"
 
 #: /client/application/game/ui/screens/screen_configure_gamepad.cpp:59
 msgid "Configure Gamepad"
@@ -857,17 +857,17 @@ msgstr "LensDirt"
 #. The name of the setting that enables horizontal scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:140
 msgid "horizontal"
-msgstr "mode.horizontal"
+msgstr "Mode.Horizontal"
 
 #. The name of setting that enables grid-like scanlines.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:142
 msgid "grid"
-msgstr "mode.grid"
+msgstr "Mode.Grid"
 
 #. The name for the setting category for choosing the scalines type.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:144
 msgid "Scanlines"
-msgstr "Scanlines"
+msgstr "ScanLines"
 
 #. The name for the setting category for choosing the chromatic aberration.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:150
@@ -896,7 +896,7 @@ msgstr "Resolution"
 #. opposed to downsampled resolutions.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:181
 msgid "Full"
-msgstr ""
+msgstr "Full"
 
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:198
@@ -991,15 +991,15 @@ msgstr "ShipConfig.UI"
 
 #: /client/application/game/ui/screens/screen_configure_ship.cpp:58
 msgid "Model"
-msgstr "ship.model"
+msgstr "Ship.Model"
 
 #: /client/application/game/ui/screens/screen_configure_ship.cpp:58
 msgid "Bullets"
-msgstr "ship.bullets"
+msgstr "Ship.Bullets"
 
 #: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Configure joysticks"
-msgstr "JoyStickConfig.UI"
+msgstr "JoystickConfig.UI"
 
 #: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
 msgid "Swap"
@@ -1023,7 +1023,7 @@ msgstr "Game.Error = \"Account deletion request failed\""
 
 #: /client/application/game/ui/screens/screen_confirm_action.cpp:94
 msgid "Are you sure?"
-msgstr ""
+msgstr "ConfirmAction();"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -1202,7 +1202,7 @@ msgstr ""
 #. Health: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:457
 msgid "Health: %s"
-msgstr ""
+msgstr "Entity.Health = %s"
 
 #. Used in the Encyclopedia to show the damage that an entity does.
 #. The %s is replaced by a number or a set of numbers
@@ -1211,7 +1211,7 @@ msgstr ""
 #. Damage: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:464
 msgid "Damage: %s"
-msgstr ""
+msgstr "Entity.Damage = %s"
 
 #. Used in the Encyclopedia to show the points that an entity gives out.
 #. The %s is replaced by a number or a set of numbers
@@ -1220,7 +1220,7 @@ msgstr ""
 #. Points: 1, 2, 3
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:471
 msgid "Points: %s"
-msgstr ""
+msgstr "Entity.Points = %s"
 
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:32
@@ -1367,29 +1367,29 @@ msgstr "Load() returned: %s"
 #. The text in the button that players press to join a Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:33
 msgid "Join Blitz"
-msgstr ""
+msgstr "Blitz.Join();"
 
 #. Explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:50
 msgid "Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\nDuring each round the goal is to score as much as possible.\n\nAt the end of the competition, everybody is ranked based on their performance."
-msgstr ""
+msgstr "Blitz.Init(max_players = 32, mode = \"multi_round\");\nRound.OnStart(Goal.MaximizeScore);\nBlitz.OnEnd(Ranking.SortByPerformance);"
 
 #. Text appended to the explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:52
 msgid "Good luck!"
-msgstr ""
+msgstr "Status = \"Good luck!\";"
 
 #. Used for showing how many players are waiting in a Blitz.
 #. For example: "waiting: 3"
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:76
 msgid "waiting: %s"
-msgstr ""
+msgstr "Blitz.Players.Waiting = %s"
 
 #. Used for showing how many players are playing in a Blitz.
 #. For example: "playing: 13"
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:79
 msgid "playing: %s"
-msgstr ""
+msgstr "Blitz.Players.Playing = %s"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
@@ -1457,22 +1457,22 @@ msgstr "NewItems();"
 #. data you want to erase from disk.
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:15
 msgid "Manage local data"
-msgstr ""
+msgstr "Storage.ManageLocalData();"
 
 #. Shown in the button that erases local leaderboards
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:51
 msgid "Erase local leaderboards"
-msgstr ""
+msgstr "Storage.Leaderboards.EraseLocal();"
 
 #. Shown in the button that erases local replays
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:60
 msgid "Erase local replays"
-msgstr ""
+msgstr "Storage.Replays.EraseLocal();"
 
 #. Shown in the button that resets the daily quest.
 #: /client/application/game/ui/screens/screen_manage_storage.cpp:74
 msgid "Reset daily quest"
-msgstr ""
+msgstr "Quests.Daily.Reset();"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:108
 msgid "Room is full"
@@ -1583,7 +1583,7 @@ msgstr "Game.Error = \"Unknown error\""
 
 #: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:331
 msgid "Failed to join room"
-msgstr "Game.Error = \"Failed to join room\""
+msgstr "Game.Error = \"Failed join room\""
 
 #: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:351
 msgid "The room does not exist anymore"
@@ -1645,17 +1645,17 @@ msgstr ""
 #. The string shown in a button to claim rewards from completing a quest
 #: /client/application/game/ui/screens/screen_quests.cpp:154
 msgid "Claim"
-msgstr ""
+msgstr "Claim();"
 
 #. The title of the screen that shows the quests available
 #: /client/application/game/ui/screens/screen_quests.cpp:192
 msgid "Quests"
-msgstr ""
+msgstr "Quests"
 
 #. Message shown when downloading quests has failed.
 #: /client/application/game/ui/screens/screen_quests.cpp:272
 msgid "Failed to download quests"
-msgstr ""
+msgstr "Game.Error = \"Failed download quests\""
 
 #. Message shown when the game is too old and needs to be updated to
 #. support the new quests.
@@ -1665,7 +1665,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:62
 msgid "Failed to claim! No internet?"
-msgstr ""
+msgstr "Game.Error = \"Failed to claim"\""
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:94
 msgid "Successfully claimed XP!"
@@ -1789,19 +1789,19 @@ msgstr "GiveReward(300XP * stars); assert(StarsReceivedFor(Stars::Gold) * 300XP 
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:192
 msgid "Official levels information"
-msgstr "Game.Official.Information"
+msgstr "Game.Official.Info"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:197
 msgid "Community levels information"
-msgstr "Game.Community.Information"
+msgstr "Game.Community.Info"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "World information"
-msgstr "Game.World.Information"
+msgstr "Game.World.Info"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:207
 msgid "Sandbox information"
-msgstr "Game.Sandbox.Information"
+msgstr "Game.Sandbox.Info"
 
 #: /client/application/game/ui/screens/screen_server_connection_closed.cpp:15
 msgid "Connection error"
@@ -1888,7 +1888,7 @@ msgstr "Languages.Translations[].Authors = Community"
 
 #: /client/application/game/ui/screens/screen_settings_language.cpp:30
 msgid "Default language"
-msgstr "Languages.default"
+msgstr "Language.default"
 
 #: /client/application/game/ui/screens/screen_settings_language.cpp:44
 msgid "Help out"
@@ -2257,11 +2257,11 @@ msgstr "xp.extra::exclude == true"
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:84
 msgid "Failed to read replay."
-msgstr "Game.Error = \"Failed replay read\""
+msgstr "Game.Error = \"Failed read replay\""
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:113
 msgid "Failed to download replay."
-msgstr "Game.Error = \"Failed replay download\""
+msgstr "Game.Error = \"Failed download replay\""
 
 #: /client/application/game/ui/shared_strings.cpp:9
 msgid "Failed to parse response"
