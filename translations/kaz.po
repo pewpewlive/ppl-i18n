@@ -600,7 +600,7 @@ msgstr "Құпия сөз:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:173
 msgid "Confirm password:"
-msgstr "Құпия сөзді Растау:"
+msgstr "Құпия сөзді растау:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:173
 msgid "Email:"
@@ -1583,7 +1583,7 @@ msgstr "Белгісіз қате."
 
 #: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:331
 msgid "Failed to join room"
-msgstr "Бөлмеге қосыла алмадың."
+msgstr "Бөлмеге қосыла алмадыңыз."
 
 #: /client/application/game/ui/screens/screen_online_create_or_join_room.cpp:351
 msgid "The room does not exist anymore"
@@ -1868,7 +1868,7 @@ msgstr "Басқару параметрлері"
 
 #: /client/application/game/ui/screens/screen_settings_controls.cpp:28
 msgid "Touchscreen"
-msgstr "түрту"
+msgstr "Түрту"
 
 #: /client/application/game/ui/screens/screen_settings_controls.cpp:39
 msgid "Keyboard"
@@ -2168,7 +2168,7 @@ msgstr "Еуропа"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:34
 msgid "North America"
-msgstr "Солтүстік америка"
+msgstr "Солтүстік Америка"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:35
 msgid "Oceania"
@@ -2176,7 +2176,7 @@ msgstr "Океания"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:36
 msgid "South America"
-msgstr "Оңтүстік америка"
+msgstr "Оңтүстік Америка"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:63
 msgid "personal"
@@ -2370,7 +2370,7 @@ msgstr "Тіркелген: %s"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:259
 msgid "IN REVIEW"
-msgstr "ШОЛДА"
+msgstr "ШОЛУДА"
 
 #: /client/application/game/ui/views/game_hud.cpp:11
 msgid "Shield: %s"

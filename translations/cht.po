@@ -596,7 +596,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Password:"
-msgstr "密碼"
+msgstr "密碼:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:173
 msgid "Confirm password:"

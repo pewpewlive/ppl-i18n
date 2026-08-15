@@ -608,7 +608,7 @@ msgstr "Email:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:206
 msgid "Passwords do not match!"
-msgstr "Le passoword non coincidono!"
+msgstr "Le password non coincidono!"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:17
 msgid "Account"
@@ -1765,7 +1765,7 @@ msgstr "La sandbox è il posto dove allenarsi e sperimentare in diverse condizio
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:180
 msgid "Configure the level, the ship, the bonuses, and the enemies!"
-msgstr "Configura il livello, la navicellam i bonus e i nemici!"
+msgstr "Configura il livello, la navicella, i bonus e i nemici!"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:181
 msgid "The sandbox is still in development, so expect changes in the future."
@@ -1844,7 +1844,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_settings.cpp:175
 msgid "Start tutorial"
-msgstr "Inizia  il tutorial"
+msgstr "Inizia il tutorial"
 
 #: /client/application/game/ui/screens/screen_settings.cpp:187
 msgid "Launch intro"

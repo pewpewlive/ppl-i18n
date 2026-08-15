@@ -148,7 +148,7 @@ msgstr "En sevdiğim harita"
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:192
 msgid "Survive 32 seconds with this simple trick"
-msgstr "32 saniye boyunca hayatta kalabilirmisin?"
+msgstr "32 saniye boyunca hayatta kalabilir misin?"
 
 #. Short description of the "fury" game mode
 #: /client/application/game/levels/game_levels.cpp:194
@@ -489,11 +489,11 @@ msgstr "Renkleri değiştir"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:33
 msgid "Old username:"
-msgstr "Eski kullanıcı adı"
+msgstr "Eski kullanıcı adı:"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:36
 msgid "New username:"
-msgstr "Yeni kullanıcı adı"
+msgstr "Yeni kullanıcı adı:"
 
 #: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:50
 msgid "Change"
@@ -584,7 +584,7 @@ msgstr "Hesap yapımı başarılı."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Please check your emails!"
-msgstr "Lütfen emaillerinize bakınız"
+msgstr "Lütfen emaillerinize bakınız!"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:142
 msgid "Failed to register"
@@ -660,7 +660,7 @@ msgstr "Email doğrulama isteniyor"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:35
 msgid "Verification email sent"
-msgstr "Doğrulama emaili göderilmiştir"
+msgstr "Doğrulama emaili gönderilmiştir"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:37
 msgid "Check your inbox!"
@@ -676,7 +676,7 @@ msgstr "Şifre değiştirme başvurusu isteniyor"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:58
 msgid "Password reset email sent"
-msgstr "Şifre değiştirme emaili göderilmiştir"
+msgstr "Şifre değiştirme emaili gönderilmiştir"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:65
 msgid "Failed to request password reset"
@@ -696,7 +696,7 @@ msgstr "Email doğrulanmamıştır"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:171
 msgid "Re-send verification email"
-msgstr "Doğrulama emailini bir daha göder"
+msgstr "Doğrulama emailini bir daha gönder"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:186
 msgid "Incorrect password"
@@ -878,7 +878,7 @@ msgstr "Kromatik aberasyon"
 #. of the monitor.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:159
 msgid "Curved monitor"
-msgstr "Eğik monitor"
+msgstr "Eğik monitör"
 
 #. The name for the setting category for choosing the intensity of the
 #. vignette effect.
@@ -953,7 +953,7 @@ msgstr "Ekran tipi"
 #. the touch joysticks.
 #: /client/application/game/ui/screens/screen_configure_joysticks_style.cpp:25
 msgid "Joysticks style"
-msgstr "Joyistik stili"
+msgstr "Joystick stili"
 
 #: /client/application/game/ui/screens/screen_configure_keyboard.cpp:114
 msgid "Configure keyboard"
@@ -1314,7 +1314,7 @@ msgstr "Discord sunucusu"
 #. Used in a button that redirects to the youtube channel
 #: /client/application/game/ui/screens/screen_informations.h:31
 msgid "Development videos"
-msgstr "Geliştirme vidyoları"
+msgstr "Geliştirme videoları"
 
 #. Shown in the tab strip of the inventory. Used for showing all the unlocked
 #. items.
@@ -1504,11 +1504,11 @@ msgstr "Diğer oyuncular bekleniyor..."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:76
 msgid "Checking network..."
-msgstr "Bağlantı kontrol ediliyor"
+msgstr "Bağlantı kontrol ediliyor..."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:94
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Çok oyuncu symmetric NAT ile oynayamaz"
+msgstr "Çok oyunculu symmetric NAT ile oynayamaz"
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
@@ -1559,7 +1559,7 @@ msgstr "2 ekstra karakter (zorunlu değil):"
 
 #: /client/application/game/ui/screens/screen_online_configure_room.cpp:100
 msgid "Password (optional):"
-msgstr "Şifre (zorunlu değil)"
+msgstr "Şifre (zorunlu değil):"
 
 #: /client/application/game/ui/screens/screen_online_configure_room.cpp:136
 msgid "Any level"
@@ -1745,7 +1745,7 @@ msgstr "Farklılaşmaları tamamlamak için ana haritaları iyi bilmeniz gerekir
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:170
 msgid "You can play the deviations in 3 levels of difficulties."
-msgstr "Farklılaşmları 3 farklı zorluk seviyesinde oynayabilirsiniz."
+msgstr "Farklılaşmaları 3 farklı zorluk seviyesinde oynayabilirsiniz."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:171
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
@@ -1769,7 +1769,7 @@ msgstr "Haritayı, gemiyi, bonusları ve düşmanları ayarla!"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:181
 msgid "The sandbox is still in development, so expect changes in the future."
-msgstr "Sandboks şuanlık erken aşamalardadır. O yüzden gelecekte değişimlere uğrayabilir."
+msgstr "Sandboks şu anlık erken aşamalardadır. O yüzden gelecekte değişimlere uğrayabilir."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:184
 msgid "Community levels are created by the community."
@@ -2007,7 +2007,7 @@ msgstr "Yeni açılan öğe yok"
 #. The %s is replaced with a number
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:296
 msgid "Items to unlock: %s"
-msgstr "Açılan öğe saysı: %s"
+msgstr "Açılan öğe sayısı: %s"
 
 #: /client/application/game/ui/screens/screen_upload_scores.cpp:55
 msgid "Upload scores"
@@ -2075,7 +2075,7 @@ msgstr "Yorum siliminde hata"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:275
 msgid "Are you sure you want to delete this comment?"
-msgstr "Bu yorumu silmek istediğinize emin misiniz"
+msgstr "Bu yorumu silmek istediğinize emin misiniz?"
 
 #. The title of the screen where players report comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:305
@@ -2115,7 +2115,7 @@ msgstr "Yorum en az üç karakter içermelidir"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:522
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Lütfen söylemlerinize dikkat ediniz. Hakaret, küfür, ve spam kullanmayınızç Bu tarz söylemlerı içeren yorumlar silinecek ve oyuncular oyundan atılacaktır"
+msgstr "Lütfen söylemlerinize dikkat ediniz. Hakaret, küfür, ve spam kullanmayınız. Bu tarz söylemleri içeren yorumlar silinecek ve oyuncular oyundan atılacaktır"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.

@@ -1168,7 +1168,7 @@ msgstr "Bahaybat, moviy, yettiburchak onakema. Halok bo'lgan on, eng yaqin kema 
 #. Description of the "Rolling Cube" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:338
 msgid "A cube-shaped enemy that rolls through the levels. It constantly seeks out the nearest ship, and its speed increases progressively over time."
-msgstr "Bosqich bo'ylab dumalab yuradigan kubsimon raqib. Tinimsiz o'lja izlab yuradi va tezligi vaqt o'tgani sayin oshib boraaveradi."
+msgstr "Bosqich bo'ylab dumalab yuradigan kubsimon raqib. Tinimsiz o'lja izlab yuradi va tezligi vaqt o'tgani sayin oshib boraveradi."
 
 #. Description of the "Rolling Sphere" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:348
@@ -1539,7 +1539,7 @@ msgstr "Autentifikasiya..."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:160
 msgid "Need the latest version of the game."
-msgstr "O'yinnning eng yangi versiyasini yuklashingiz kerak."
+msgstr "O'yinning eng yangi versiyasini yuklashingiz kerak."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:169
 msgid "Failed to authenticate"
@@ -1717,7 +1717,7 @@ msgstr "Hamjamiyat"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:159
 msgid "Official levels allow you to get score medals:"
-msgstr "Rasmiy darajalar medal olish imkonini baradi:"
+msgstr "Rasmiy darajalar medal olish imkonini beradi:"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:160
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
@@ -2027,7 +2027,7 @@ msgstr "Natijalar yuborildi."
 
 #: /client/application/game/ui/screens/screen_upload_scores.cpp:134
 msgid "Uploading replay for %s."
-msgstr "%s tomonidan natijalr yuklanmoqda."
+msgstr "%s tomonidan natijalar yuklanmoqda."
 
 #. Shown in the achievement filter, when all achievements are listed
 #. (=no filtering is done).

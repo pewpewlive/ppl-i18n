@@ -532,7 +532,7 @@ msgstr "გამოსვლა"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:61
 msgid "Delete account"
-msgstr "Ანგარიშის წაშლა"
+msgstr "ანგარიშის წაშლა"
 
 #: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:83
 msgid "Help"
@@ -544,11 +544,11 @@ msgstr "ელფოსტა არასწორია!"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:47
 msgid "Too short. Minimum %s characters."
-msgstr "Ძალიან მოკლე. Მინიმალური %s პერსონაჟები."
+msgstr "ძალიან მოკლე. მინიმალური %s პერსონაჟები."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:54
 msgid "Too long. Maximum %s characters."
-msgstr "Ძალიან გრძელი. მაქსიმუმ %s პერსონაჟები."
+msgstr "ძალიან გრძელი. მაქსიმუმ %s პერსონაჟები."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:71
 msgid "Register account"
@@ -564,7 +564,7 @@ msgstr "პაროლი"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Confirm password"
-msgstr "Პაროლის დადასტურება"
+msgstr "პაროლის დადასტურება"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:81
 msgid "Email"
@@ -600,7 +600,7 @@ msgstr "პაროლი:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:173
 msgid "Confirm password:"
-msgstr "Პაროლის დადასტურება:"
+msgstr "პაროლის დადასტურება:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:173
 msgid "Email:"
@@ -624,7 +624,7 @@ msgstr "შექმენით თქვენი ანგარიში დ
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:28
 msgid "Sign in"
-msgstr "Შებრძანდით"
+msgstr "შებრძანდით"
 
 #: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:52
 msgid "Privacy Policy"
@@ -684,7 +684,7 @@ msgstr "პაროლის გადაყენების მოთხო�
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:139
 msgid "Signing in"
-msgstr "Ავტორიზაცია"
+msgstr "ავტორიზაცია"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:154
 msgid "Successfully signed in!"
@@ -1515,7 +1515,7 @@ msgstr "არ შეიძლება მულტიპლეიერში 
 #. information, or opens a webpage.
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:101
 msgid "Learn more"
-msgstr "Გაიგე მეტი"
+msgstr "გაიგე მეტი"
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:107
 msgid "Symmetric NAT error"
@@ -1805,7 +1805,7 @@ msgstr "ქვიშისბოქსის ინფორმაცია"
 
 #: /client/application/game/ui/screens/screen_server_connection_closed.cpp:15
 msgid "Connection error"
-msgstr "Კავშირის შეცდომა"
+msgstr "კავშირის შეცდომა"
 
 #: /client/application/game/ui/screens/screen_server_connection_closed.cpp:18
 msgid "Lost connection to host"
@@ -1856,7 +1856,7 @@ msgstr "აუდიო პარამეტრები"
 
 #: /client/application/game/ui/screens/screen_settings_audio.cpp:32
 msgid "Sound effects"
-msgstr "Ხმის ეფექტები"
+msgstr "ხმის ეფექტები"
 
 #: /client/application/game/ui/screens/screen_settings_audio.cpp:146
 msgid "Visualization"
@@ -2204,7 +2204,7 @@ msgstr "წრაფი სიჩქარე"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:37
 msgid "World record: %s"
-msgstr "Მსოფლიო რეკორდი: %s"
+msgstr "მსოფლიო რეკორდი: %s"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:41
 msgid "Local best: %s"
@@ -2526,5 +2526,5 @@ msgstr "ყინვაგამძლე ნაცრისფერი"
 #. "Update available (0.4.122)"
 #: /client/application/utils/version.cpp:73
 msgid "Update available %s"
-msgstr "Განახლება შესაძლებელია %s"
+msgstr "განახლება შესაძლებელია %s"
 

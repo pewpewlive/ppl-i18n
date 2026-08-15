@@ -596,7 +596,7 @@ msgstr "Nama pengguna (kamu bisa mewarnainya!):"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Password:"
-msgstr "Kata sandi"
+msgstr "Kata sandi:"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:173
 msgid "Confirm password:"
@@ -684,7 +684,7 @@ msgstr "Gagal mengajukan setel ulang kata sandi"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:139
 msgid "Signing in"
-msgstr "Memasukan"
+msgstr "Memasukkan"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:154
 msgid "Successfully signed in!"
@@ -1527,7 +1527,7 @@ msgstr "Ini artinya koneksi internet kamu sangat dibatasi dan tidak mengizinkan 
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:110
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."
-msgstr "Jika kamu menggunakan koneksi internet seluler, coba menonaktifkannya. Jika kamu menggunakan Wi-Fi, coba gunakan jaringan Wi-Fi yang berbeda. "
+msgstr "Jika kamu menggunakan koneksi internet seluler, coba menonaktifkannya. Jika kamu menggunakan Wi-Fi, coba gunakan jaringan Wi-Fi yang berbeda."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:123
 msgid "Failed to connect to the STUN servers."
@@ -2090,7 +2090,7 @@ msgstr "Berhasil melaporkan komentar"
 #. Shown in a notification if a comment could not be reported.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:309
 msgid "Error reporting comment"
-msgstr "Galat saat melaporkan"
+msgstr "Galat saat melaporkan komentar"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:466
 msgid "No comments"
@@ -2498,7 +2498,7 @@ msgstr "Merah Beku"
 #. The UI color "frosted blue"
 #: /client/application/ui/ui_skin.cpp:74
 msgid "Frosted Blue"
-msgstr "Biru Beki"
+msgstr "Biru Beku"
 
 #. The UI color "frosted yellow"
 #: /client/application/ui/ui_skin.cpp:77

@@ -368,7 +368,7 @@ msgstr "Продержитесь %s за одну игру"
 #. 10000 points from pointonum"
 #: /client/application/game/quests/quests.cpp:256
 msgid "Farm %s points from pointonium"
-msgstr "Заработайте %s очков из пойтониума"
+msgstr "Заработайте %s очков из поинтониума"
 
 #. The description of the quest that involves playing a certain duration.
 #. The %s is replaced by a duration, for example:
@@ -1138,7 +1138,7 @@ msgstr "Зелёный материнский корабль в форме ше�
 #. Description of the "Cyan Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:278
 msgid "A cyan, heptagon-shaped mothership that roams the levels. Upon its destruction, it fires a dense arc of bullets towards the nearest ship."
-msgstr "Голубой материнский корабль в форме семиугольника, блуждающая по уровням. При уничтожении выпускает плотную дугу пуль в направлении ближайшего корабля."
+msgstr "Голубой материнский корабль в форме семиугольника, блуждающий по уровням. При уничтожении выпускает плотную дугу пуль в направлении ближайшего корабля."
 
 #. Description of the "Super Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:288
@@ -1523,7 +1523,7 @@ msgstr "Ошибка симметричного NAT."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:109
 msgid "This means that your internet connection is overly restricted and does not permit p2p multiplayer."
-msgstr "Это значит, что ваше интернет соединение ограниченно и не позволяет играть в мультиплеер по системе P2P."
+msgstr "Это значит, что ваше интернет соединение ограничено и не позволяет играть в мультиплеер по системе P2P."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:110
 msgid "If you are using mobile internet connection, try disabling it. If you are on Wi-Fi, try using a different Wi-Fi network."

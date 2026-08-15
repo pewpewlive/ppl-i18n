@@ -1051,7 +1051,7 @@ msgstr "レベル ダウンロード中"
 
 #: /client/application/game/ui/screens/screen_download_level.cpp:82
 msgid "Failed to download level."
-msgstr "レベルをダウンロードに失敗されました"
+msgstr "レベルをダウンロードに失敗しました"
 
 #. The title of the screen showing the encyclopedia.
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:70
@@ -1531,7 +1531,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:123
 msgid "Failed to connect to the STUN servers."
-msgstr "STUNサーバーへの接続に失敗されました"
+msgstr "STUNサーバーへの接続に失敗しました"
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:147
 msgid "Authenticating..."
@@ -2019,7 +2019,7 @@ msgstr "アップロードする物はありません"
 
 #: /client/application/game/ui/screens/screen_upload_scores.cpp:100
 msgid "Failed to upload replays."
-msgstr "リプレイをアップロードに失敗されました"
+msgstr "リプレイをアップロードに失敗しました"
 
 #: /client/application/game/ui/screens/screen_upload_scores.cpp:102
 msgid "Upload successful"
@@ -2269,7 +2269,7 @@ msgstr ""
 
 #: /client/application/game/ui/shared_strings.cpp:13
 msgid "Failed to contact server"
-msgstr "サーバーへの接続に失敗されました"
+msgstr "サーバーへの接続に失敗しました"
 
 #: /client/application/game/ui/shared_strings.cpp:17
 msgid "Official levels"
@@ -2293,7 +2293,7 @@ msgstr "カジュアル"
 
 #: /client/application/game/ui/shared_strings.cpp:37
 msgid "Failed to sign-in!"
-msgstr "サインイン 失敗されました"
+msgstr "サインイン 失敗しました"
 
 #. Describes the lowest difficutly setting (1/3)
 #: /client/application/game/ui/shared_strings.cpp:42

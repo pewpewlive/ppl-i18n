@@ -214,7 +214,7 @@ msgstr "Medalla de velocitat d'or nova"
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
 #: /client/application/game/player_data/player_data_manager.cpp:52
 msgid "New personal best! %s ⇨ %s"
-msgstr "¡Rècord personal nou! %s ⇨ %s"
+msgstr "Rècord personal nou! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
@@ -368,7 +368,7 @@ msgstr "Sobreviviu durant %s en una partida"
 #. 10000 points from pointonum"
 #: /client/application/game/quests/quests.cpp:256
 msgid "Farm %s points from pointonium"
-msgstr "Recol·lecteiu %s punts al puntònium"
+msgstr "Recol·lecteu %s punts al puntònium"
 
 #. The description of the quest that involves playing a certain duration.
 #. The %s is replaced by a duration, for example:
@@ -588,7 +588,7 @@ msgstr "Comproveu el correu electrònic."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:142
 msgid "Failed to register"
-msgstr "No s'ha pogut registrar.'"
+msgstr "No s'ha pogut registrar."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Username (you can put colors in!):"
@@ -1073,22 +1073,22 @@ msgstr "Un asteroide irregular de color blanc que flota per l'espai. Dispareu-li
 #. Description of the "BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:133
 msgid "This yellow, arrow-shaped drone zips predictably back and forth."
-msgstr "Dron de color groc i en forma de fletxa va volant predectiblement d'un lloc a un altre."
+msgstr "Dron de color groc i en forma de fletxa va volant predictiblement d'un lloc a un altre."
 
 #. Description of the "Red BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:141
 msgid "This red arrow-shaped drone mirrors the familiar movements of the standard BAF, but it is much stronger posing a greater threat."
-msgstr "Dron de color roig en forma de flexta que simula els moviments familiars del BAF estàndard, però que és molt més fort i és més perillós."
+msgstr "Dron de color roig en forma de fletxa que simula els moviments familiars del BAF estàndard, però que és molt més fort i és més perillós."
 
 #. Description of the "Blue BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:149
 msgid "Unlike its yellow and red counterparts, it bounces off walls in unpredictable directions, making its movement difficult to anticipate."
-msgstr "A diferència dels homòlegs groc i roig, rebota a les parets en direccions impredectibles: el seu moviment és difícil d'anticipar."
+msgstr "A diferència dels homòlegs groc i roig, rebota a les parets en direccions impredictibles: el seu moviment és difícil d'anticipar."
 
 #. Description of the "Brownian" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:176
 msgid "A tetrahedron-shaped enemy that advances on your position with erratic, unpredictable movements."
-msgstr "Un enemic que té forma de tetraedre i que es mou cap a la vostra posició amb moviments erràtics i impredectibles."
+msgstr "Un enemic que té forma de tetraedre i que es mou cap a la vostra posició amb moviments erràtics i impredictibles."
 
 #. Description of the "Crowders" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:192
@@ -1640,7 +1640,7 @@ msgstr "Es comença a %s"
 #. Text shown when the player tries to exit a Blitz.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:626
 msgid "Are you sure you want to exit the Blitz?"
-msgstr "Esteu segur que voleu sortir del Blitz"
+msgstr "Esteu segur que voleu sortir del Blitz?"
 
 #. The string shown in a button to claim rewards from completing a quest
 #: /client/application/game/ui/screens/screen_quests.cpp:154
@@ -1721,7 +1721,7 @@ msgstr "Els nivells oficials us permeten aconseguir medalles:"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:160
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr "#ff8000ffBronze#ffffffff, #ffffffaaPlata#ffffffff, and #ffff00ffOr#ffffffff"
+msgstr "#ff8000ffBronze#ffffffff, #ffffffaaPlata#ffffffff, i #ffff00ffOr#ffffffff"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:161
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
@@ -2319,7 +2319,7 @@ msgstr "Puntuació de l'habilitat Blitz: %s"
 #. "Era 2 medals and stars"
 #: /client/application/game/ui/views/account_view.cpp:403
 msgid "Era %s medals and stars"
-msgstr "Medalles i estrelles de l'era %s "
+msgstr "Medalles i estrelles de l'era %s"
 
 #. Error shown when downloading some piece of data failed.
 #: /client/application/game/ui/views/account_view.cpp:556

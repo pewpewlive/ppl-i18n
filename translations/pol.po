@@ -214,7 +214,7 @@ msgstr "Nowy złoty medal w speedrunie"
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
 #: /client/application/game/player_data/player_data_manager.cpp:52
 msgid "New personal best! %s ⇨ %s"
-msgstr "Nowy Lokalny najlepszy! %s ⇨ %s"
+msgstr "Nowy lokalny najlepszy! %s ⇨ %s"
 
 #. Shown in a notification when you improve your best speed run in a given
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
@@ -580,7 +580,7 @@ msgstr "Rejestrowanie"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:136
 msgid "Registration successful."
-msgstr "Rejestracja powiodła sie"
+msgstr "Rejestracja powiodła się"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Please check your emails!"
@@ -1393,7 +1393,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:37
 msgid "Local multiplayer"
-msgstr "Lokalny gra wieloosobowa"
+msgstr "Lokalna gra wieloosobowa"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
@@ -2111,7 +2111,7 @@ msgstr "Komentarz"
 #. less than 3 character long.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:506
 msgid "Comment must be at least 3 characters long."
-msgstr "Komentarz musi mieć długość przynajmniej 3 znaków "
+msgstr "Komentarz musi mieć długość przynajmniej 3 znaków"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:522
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
@@ -2126,7 +2126,7 @@ msgstr "Publikowanie komentarza"
 #. Shown in a notification after a comment was successfully posted.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:567
 msgid "Comment posted"
-msgstr "komentarz opublikowany"
+msgstr "Komentarz opublikowany"
 
 #. Shown in a notification after a comment failed to be posted.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:571
@@ -2176,7 +2176,7 @@ msgstr "Oceania"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:36
 msgid "South America"
-msgstr "Ameryka Połódniowa"
+msgstr "Ameryka Południowa"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:63
 msgid "personal"
@@ -2463,7 +2463,7 @@ msgstr "Fioletowy"
 #. The color "orange"
 #: /client/application/ui/ui_skin.cpp:53
 msgid "Orange"
-msgstr "Pomaranczowy"
+msgstr "Pomarańczowy"
 
 #. The color "white"
 #: /client/application/ui/ui_skin.cpp:56

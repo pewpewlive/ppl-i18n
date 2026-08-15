@@ -103,7 +103,7 @@ msgstr "Усі шестикутники - зло"
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:124
 msgid "Unrelated to \"Super Hexagon\""
-msgstr "\"Super Hexagon\" тут нідочого"
+msgstr "\"Super Hexagon\" тут ні до чого"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:126
@@ -440,7 +440,7 @@ msgstr "Ви спробували"
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:25
 msgid "It's okay, you were never going to win anyway."
-msgstr "Нічого страшного, ви і так ніколи-б не перемогли."
+msgstr "Нічого страшного, ви і так ніколи б не перемогли."
 
 #: /client/application/game/ui/game_over_ui.cpp:49
 msgid "Play again"
@@ -720,7 +720,7 @@ msgstr "Не вдалося синхронізувати."
 
 #: /client/application/game/ui/screens/accounts/screen_synchronize.cpp:65
 msgid "Synchronization completed."
-msgstr "Синхронізування завершенно."
+msgstr "Синхронізування завершено."
 
 #: /client/application/game/ui/screens/screen_benchmark.cpp:35
 msgid "Skip"
@@ -1327,7 +1327,7 @@ msgstr "Усі"
 #. bullets, the joysticks, the ui color, etc...
 #: /client/application/game/ui/screens/screen_inventory.cpp:233
 msgid "Inventory"
-msgstr "Інвертар"
+msgstr "Інвентар"
 
 #. The title of the screen to save the ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:107
@@ -1535,7 +1535,7 @@ msgstr "Не вдалося підключитися до STUN серверів.
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:147
 msgid "Authenticating..."
-msgstr "Аутентифікація ..."
+msgstr "Аутентифікація..."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:160
 msgid "Need the latest version of the game."
@@ -1693,7 +1693,7 @@ msgstr "Мультиплеєр по мережі"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:85
 msgid "Play with people on the same network!"
-msgstr "Грати з людьми підключенними до однієї wifi мережі!"
+msgstr "Грати з людьми підключеними до однієї wifi мережі!"
 
 #. The title of the screen where you select official levels.
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:35

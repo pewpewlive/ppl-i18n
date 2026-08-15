@@ -1063,7 +1063,7 @@ msgstr "Enciclopédia"
 #. "... as shown by the ◬ indicator."
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
 msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
-msgstr "Inimigos dão Pointonium quando destruidos. A quantidade liberada aumenta com a sua taxa de kills, mostrada pelo indicador %s. Pegar Pointonium aumenta sua pontuação"
+msgstr "Inimigos dão Pointonium quando destruídos. A quantidade liberada aumenta com a sua taxa de kills, mostrada pelo indicador %s. Pegar Pointonium aumenta sua pontuação"
 
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
@@ -1113,7 +1113,7 @@ msgstr "Feito de círculos concêntricos giratórios, mergulha para a nave mais 
 #. Description of the "Kamikaze" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
 msgid "A flying ship that relentlessly scans for a prey. Once it locks onto you, it immediately charges forward, attempting to ram you head-on"
-msgstr "Uma nave voadora que procura implacavelmente por uma presa. Avança imediamente ao travar em você."
+msgstr "Uma nave voadora que procura implacavelmente por uma presa. Avança imediatamente ao travar em você."
 
 #. Description of the "Pink Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:238
@@ -1372,7 +1372,7 @@ msgstr "Junte-se à Blitz"
 #. Explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:50
 msgid "Blitz are multiplayer competitions made up of multiple rounds, with up to 32 players.\nDuring each round the goal is to score as much as possible.\n\nAt the end of the competition, everybody is ranked based on their performance."
-msgstr "Blitz são competições multiplayer feitas de vários rounds, com até 32 jogadores.\nDurante cada round o objetivo é pontuar o máximo possìvel.\n\nNo fim da competição, todo mundo é classificado com base na sua performance."
+msgstr "Blitz são competições multiplayer feitas de vários rounds, com até 32 jogadores.\nDurante cada round o objetivo é pontuar o máximo possível.\n\nNo fim da competição, todo mundo é classificado com base na sua performance."
 
 #. Text appended to the explanation text for Blitz
 #: /client/application/game/ui/screens/screen_join_blitz.cpp:52
@@ -2115,7 +2115,7 @@ msgstr "Comentário deve ter ao menos 3 caracteres"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:522
 msgid "Please watch your language. No insults, no swearing, no spam. We may delete any posts that infringe this rule, and block or ban offenders."
-msgstr "Por favor manere seu linguajar. Sem insultos, sem palavrões, sem spam. Podemos excluir qualquer post que infrinja esta regra, e bloquear ou banir ofensores."
+msgstr "Por favor modere seu linguajar. Sem insultos, sem palavrões, sem spam. Podemos excluir qualquer post que infrinja esta regra, e bloquear ou banir ofensores."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.

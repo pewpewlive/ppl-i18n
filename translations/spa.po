@@ -98,7 +98,7 @@ msgstr "Los espacios euclidianos están sobrevalorados"
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:122
 msgid "Never trust a six-sided polygon"
-msgstr "Nunca confíes en polígono de seis lados"
+msgstr "Nunca confíes en un polígono de seis lados"
 
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:124
@@ -1063,7 +1063,7 @@ msgstr "Enciclopedia"
 #. "... as shown by the ◬ indicator."
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
 msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
-msgstr "Los enemigos dejan Puntonium cuando los destruyes, la cantidad que aparecen incrementa con tu tasa de destruidos, como se muestra en el indicador %s . El obtener Puntonium aumenta tu puntuación"
+msgstr "Los enemigos dejan Puntonium cuando los destruyes, la cantidad que aparece incrementa con tu tasa de destruidos, como se muestra en el indicador %s. El obtener Puntonium aumenta tu puntuación."
 
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
@@ -1088,22 +1088,22 @@ msgstr "A diferencia de sus contrapartes amarillas y rojas, este rebota contra l
 #. Description of the "Brownian" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:176
 msgid "A tetrahedron-shaped enemy that advances on your position with erratic, unpredictable movements."
-msgstr "Un enemigo con forma de tetrahedro que avanza hacia tu dirección con movimientos erráticos e impredecibles."
+msgstr "Un enemigo con forma de tetraedro que avanza hacia tu dirección con movimientos erráticos e impredecibles."
 
 #. Description of the "Crowders" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:192
 msgid "An octahedron-shaped enemy that slowly advances on you. Tends to form dense crowds with other Crowders."
-msgstr "Un enemigo con forma de octahedro que avanza lentamente hacia tí. Tiende a formar densas multitudes con otros Crowders."
+msgstr "Un enemigo con forma de octaedro que avanza lentamente hacia ti. Tiende a formar densas multitudes con otros Crowders."
 
 #. Description of the "Dodger" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:200
 msgid "An hourglass-shaped enemy that advances towards the nearest ship while actively evading projectiles. Like Crowders, has a tendency to form crowds."
-msgstr "Un enemigo con forma de reloj de arena que avanza hacia la nave más cercana mientras esquiva projectiles. Como los Crowders, tiende a formar multitudes."
+msgstr "Un enemigo con forma de reloj de arena que avanza hacia la nave más cercana mientras esquiva proyectiles. Como los Crowders, tiende a formar multitudes."
 
 #. Description of the "Exploder" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:208
 msgid "An inscribed polygram that advances towards the nearest ship. Upon its destruction, releases a blast of energy that damages any ship it touches."
-msgstr "Un poligrama inscrito que avanza hacia la nave mas cercana. Al destruirse, libera una explosión de energia que daña a toda nave que toque."
+msgstr "Un poligrama inscrito que avanza hacia la nave más cercana. Al destruirse, libera una explosión de energía que daña a toda nave que toque."
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
@@ -1153,7 +1153,7 @@ msgstr "Una nave nodriza enorme, roja, y con forma de cuadrado que recorre los n
 #. Description of the "Super Orange Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:308
 msgid "An extra-large orange, pentagon-shaped mothership. Upon its destruction it fires four times the number of bullets compared to its standard counterpart."
-msgstr "Una nave nodriza enorme, naranja, y con forma de pentágono que recorre los niveles. Al destruirla, dispara cuatro vezes más balas que su contraparte estándar."
+msgstr "Una nave nodriza enorme, naranja, y con forma de pentágono que recorre los niveles. Al destruirla, dispara cuatro veces más balas que su contraparte estándar."
 
 #. Description of the "Super Green Mothership" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:318
@@ -1178,7 +1178,7 @@ msgstr "Un enemigo esférico que rueda por los niveles, rebotando en las paredes
 #. Description of the "Spiny" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:376
 msgid "An arrow-shaped enemy that moves along circular paths, bouncing of walls. Possesses a tendency to drift towards nearby ships."
-msgstr "Un enemigo con forma de flecha que se mueve en patrones circulares, rebotando en las paredes. Tiende a desplazarse hacia la neva más cercana."
+msgstr "Un enemigo con forma de flecha que se mueve en patrones circulares, rebotando en las paredes. Tiende a desplazarse hacia la nave más cercana."
 
 #. Description of the "Splitter" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:384
@@ -1188,7 +1188,7 @@ msgstr "Un enemigo rosa con forma de flor que se desplaza en direcciones aleator
 #. Description of the "UFO" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:392
 msgid "A red, flying saucer shaped enemy that glides across the levels. Regularly shoot bullets towards the nearest ship that also happen to damage other enemies."
-msgstr "Un enemigo rojo con forma de platillo volante se desliza por los niveles. Dispara balas regularmente hacia la nave más cercana, los cuales pueden dañar otros enemigos."
+msgstr "Un enemigo rojo con forma de platillo volante se desliza por los niveles. Dispara balas regularmente hacia la nave más cercana, las cuales pueden dañar otros enemigos."
 
 #. Description of the "Wary" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:402
@@ -1259,7 +1259,7 @@ msgstr "%1$s en %2$s, por %3$s"
 #. For example: Eskiv 1024 (v32) was released
 #: /client/application/game/ui/screens/screen_feed.cpp:56
 msgid "%1$s (v%2$s) was released"
-msgstr "%1$s (v%2$s) fué lanzado"
+msgstr "%1$s (v%2$s) fue lanzado"
 
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
@@ -1620,7 +1620,7 @@ msgstr "Desconectado del Blitz"
 #. the previous Blitz to finish.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:333
 msgid "Waiting for previous Blitz..."
-msgstr "Esperando a que el Blitz previo finalize..."
+msgstr "Esperando a que el Blitz previo finalice..."
 
 #. The string shown while waiting for additional players to join a
 #. Blitz. For the record, the number of players required and the number
@@ -1681,7 +1681,7 @@ msgstr "Tipo de partida"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:35
 msgid "Compete in rounds against 3 or more people!"
-msgstr "Compite en rondas contra 3 o mas personas!"
+msgstr "¡Compite en rondas contra 3 o más personas!"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:60
 msgid "Play with people around the world!"
@@ -1749,7 +1749,7 @@ msgstr "Puedes jugar las desviaciones en 3 niveles de dificultad."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:171
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr "Ojo! #ffff00ffDifícil#ffffffff está bien difícil y #ff0000ffextremo#ffffffff es de locos."
+msgstr "¡Ojo! #ffff00ffDifícil#ffffffff está bien difícil y #ff0000ffextremo#ffffffff es de locos."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:172
 msgid "For every completed deviation you get XP."
@@ -1757,7 +1757,7 @@ msgstr "Por cada desviación que completes ganas XP."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:173
 msgid "%1$s XP in normal, %2$s XP in hard, %3$s XP in delirious"
-msgstr "%1$s XP en normal, %2$s XP en difícil, %3$s en extremo"
+msgstr "%1$s XP en normal, %2$s XP en difícil, %3$s XP en extremo"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:179
 msgid "The sandbox is the place to train and experiment under different conditions."
@@ -1773,7 +1773,7 @@ msgstr "El sandbox todavía está en desarrollo, así que espera cambios en el f
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:184
 msgid "Community levels are created by the community."
-msgstr "Los niveles comunitarios son hechos por la comunidad"
+msgstr "Los niveles comunitarios son hechos por la comunidad."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:185
 msgid "The levels can be tagged as experimental, verified, and featured. You can only submit scores in levels that are verified or featured."
@@ -1930,7 +1930,7 @@ msgstr "Mostrar texto flotante opcional"
 #. the UI transition animation in-game.
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:215
 msgid "Show UI transition animation"
-msgstr "Mostrar animacion de transición de la interfaz"
+msgstr "Mostrar animación de transición de la interfaz"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -2241,7 +2241,7 @@ msgstr "lanzado el %s"
 #. Used if the level does not contain any information.
 #: /client/application/game/ui/screens/screen_view_level_info.cpp:42
 msgid "No information available"
-msgstr "Información No disponible"
+msgstr "Información no disponible"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.

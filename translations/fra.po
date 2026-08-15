@@ -108,7 +108,7 @@ msgstr "Non, rien à voir avec Super Hexagon"
 #. Short description of the "hexagon" game mode
 #: /client/application/game/levels/game_levels.cpp:126
 msgid "Choose your own difficulty"
-msgstr "A toi de choisir la difficulté"
+msgstr "À toi de choisir la difficulté"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:144
@@ -775,7 +775,7 @@ msgstr "XP Supplémentaire"
 
 #: /client/application/game/ui/screens/screen_career.cpp:245
 msgid "Quests: %s XP"
-msgstr "Quètes: %s XP"
+msgstr "Quêtes: %s XP"
 
 #: /client/application/game/ui/screens/screen_career.cpp:250
 msgid "Badges: %s XP"
@@ -1023,7 +1023,7 @@ msgstr "Échec de la suppression du compte"
 
 #: /client/application/game/ui/screens/screen_confirm_action.cpp:94
 msgid "Are you sure?"
-msgstr "Êtes vous sure?"
+msgstr "Êtes-vous sûr?"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -1073,22 +1073,22 @@ msgstr "Un astéroide blanc et cabossé qui flotte dans l'espace. Tirez dessus e
 #. Description of the "BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:133
 msgid "This yellow, arrow-shaped drone zips predictably back and forth."
-msgstr "Ce drone jaune en forme de flèche fait des rapides allers-retours prévisibles"
+msgstr "Ce drone jaune en forme de flèche fait des rapides allers-retours prévisibles."
 
 #. Description of the "Red BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:141
 msgid "This red arrow-shaped drone mirrors the familiar movements of the standard BAF, but it is much stronger posing a greater threat."
-msgstr "Le drone rouge en forme de flèche reproduit les mouvements du BAF standard, mais il est plus puissant et représente donc une plus grande menace"
+msgstr "Le drone rouge en forme de flèche reproduit les mouvements du BAF standard, mais il est plus puissant et représente donc une plus grande menace."
 
 #. Description of the "Blue BAF" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:149
 msgid "Unlike its yellow and red counterparts, it bounces off walls in unpredictable directions, making its movement difficult to anticipate."
-msgstr "Contrairement à ses homologues jaunes et rouges, il rebondit sur le murs dans des directions imprévisibles, rendant ses déplacements difficiles à prévoir."
+msgstr "Contrairement à ses homologues jaunes et rouges, il rebondit sur les murs dans des directions imprévisibles, rendant ses déplacements difficiles à prévoir."
 
 #. Description of the "Brownian" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:176
 msgid "A tetrahedron-shaped enemy that advances on your position with erratic, unpredictable movements."
-msgstr "Un ennemi en forme de tétrahèdre qui se déplace vers vous avec une trajectoire erratique et imprévisible."
+msgstr "Un ennemi en forme de tétraèdre qui se déplace vers vous avec une trajectoire erratique et imprévisible."
 
 #. Description of the "Crowders" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:192
@@ -1108,7 +1108,7 @@ msgstr "Un polygramme gravé qui avance vers le vaisseau le plus proche. Lors de
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
 msgid "Made of rotating concentric circles, it plunges towards the nearest ship with inertia. Very resistant to damage, it can fortunately be repelled with bullets."
-msgstr "Fait à partir de cercles concentriques en rotation. Il fonce vers le vaisseau le plus proche avec inertie. Très résistant aux dégâts, il peut heureuseument être repoussé avec des projectiles."
+msgstr "Fait à partir de cercles concentriques en rotation. Il fonce vers le vaisseau le plus proche avec inertie. Très résistant aux dégâts, il peut heureusement être repoussé avec des projectiles."
 
 #. Description of the "Kamikaze" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:229
@@ -1421,7 +1421,7 @@ msgstr "Aide pour le multi-joueur"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:101
 msgid "Searching for rooms..."
-msgstr "A la recherche de parties..."
+msgstr "À la recherche de parties..."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:172
 msgid "(Incompatible version)"
@@ -1640,7 +1640,7 @@ msgstr "Début dans %s"
 #. Text shown when the player tries to exit a Blitz.
 #: /client/application/game/ui/screens/screen_play_blitz.cpp:626
 msgid "Are you sure you want to exit the Blitz?"
-msgstr "Êtes vous sur de vouloir quitter le Blitz?"
+msgstr "Êtes-vous sûr de vouloir quitter le Blitz?"
 
 #. The string shown in a button to claim rewards from completing a quest
 #: /client/application/game/ui/screens/screen_quests.cpp:154
@@ -1721,11 +1721,11 @@ msgstr "Les niveaux officiels permettent d'avoir des médailles:"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:160
 msgid "#ff8000ffBronze#ffffffff, #ffffffaaSilver#ffffffff, and #ffff00ffGold#ffffffff"
-msgstr "#ff8000ffBronze#ffffffff, #ffffffaaArgent#ffffffff, and #ffff00ffOr#ffffffff"
+msgstr "#ff8000ffBronze#ffffffff, #ffffffaaArgent#ffffffff, et #ffff00ffOr#ffffffff"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:161
 msgid "If you obtain a score worthy of a gold medal quickly enough, you'll earn speed run medals."
-msgstr "Si tu obtiens une médaille d'Or suffisament rapidement, tu obtiens aussi une médaille de vitesse."
+msgstr "Si tu obtiens une médaille d'Or suffisamment rapidement, tu obtiens aussi une médaille de vitesse."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:162
 msgid "This means that speed run medals are much harder to get than a regular gold medal."
@@ -1749,7 +1749,7 @@ msgstr "Les déviations existent en 3 niveaux de difficulté."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:171
 msgid "Beware! #ffff00ffhard#ffffffff is really hard, and #ff0000ffdelirious#ffffffff is insane."
-msgstr "Attention ! #ffff00ffdifficile#ffffffff est vraiment difficile, and #ff0000ffdélirant#ffffffff est complètement fou."
+msgstr "Attention ! #ffff00ffdifficile#ffffffff est vraiment difficile, et #ff0000ffdélirant#ffffffff est complètement fou."
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:172
 msgid "For every completed deviation you get XP."
@@ -2319,7 +2319,7 @@ msgstr "Niveau de compétence Blitz: %s"
 #. "Era 2 medals and stars"
 #: /client/application/game/ui/views/account_view.cpp:403
 msgid "Era %s medals and stars"
-msgstr "Médailles et Etoiles de l'Ère %s"
+msgstr "Médailles et Étoiles de l'Ère %s"
 
 #. Error shown when downloading some piece of data failed.
 #: /client/application/game/ui/views/account_view.cpp:556

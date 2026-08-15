@@ -1088,7 +1088,7 @@ msgstr "Không giống phần còn lại, mũi tên xanh bật tường theo m�
 #. Description of the "Brownian" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:176
 msgid "A tetrahedron-shaped enemy that advances on your position with erratic, unpredictable movements."
-msgstr "Khối tứ diện tiến về phia bạn một cách chao đảo"
+msgstr "Khối tứ diện tiến về phía bạn một cách chao đảo."
 
 #. Description of the "Crowders" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:192
@@ -1103,7 +1103,7 @@ msgstr "Vật thể hình đồng hồ cát lăn tới chiếc tàu gần nhất
 #. Description of the "Exploder" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:208
 msgid "An inscribed polygram that advances towards the nearest ship. Upon its destruction, releases a blast of energy that damages any ship it touches."
-msgstr "Một hình đa giác nội tiếp tiến lại gần chiếc tàu gần nhất. Khi bị giết, nó tỏa ra luồng năng lượng gây sát thương cho người chơi chạm vào nó"
+msgstr "Một hình đa giác nội tiếp tiến lại gần chiếc tàu gần nhất. Khi bị giết, nó tỏa ra luồng năng lượng gây sát thương cho người chơi chạm vào nó."
 
 #. Description of the "Inertiac" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:220
@@ -1397,7 +1397,7 @@ msgstr "Nhiều người chơi cục bộ"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "Nhiều người chơi cục bộ hôc trợ 2 người chơi kết nối cùng một mạng wifi"
+msgstr "Nhiều người chơi cục bộ hỗ trợ 2 người chơi kết nối cùng một mạng wifi"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "One player must create a room, which the other player joins."
@@ -1650,7 +1650,7 @@ msgstr "Nhận"
 #. The title of the screen that shows the quests available
 #: /client/application/game/ui/screens/screen_quests.cpp:192
 msgid "Quests"
-msgstr "Nhiêm vụ"
+msgstr "Nhiệm vụ"
 
 #. Message shown when downloading quests has failed.
 #: /client/application/game/ui/screens/screen_quests.cpp:272
@@ -1797,7 +1797,7 @@ msgstr "Thông tin màn Community"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:202
 msgid "World information"
-msgstr "Trông tin World"
+msgstr "Thông tin World"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:207
 msgid "Sandbox information"
@@ -1930,7 +1930,7 @@ msgstr "Hiển thị chữ nổi phụ"
 #. the UI transition animation in-game.
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:215
 msgid "Show UI transition animation"
-msgstr "Hiển thị hiệu ứng chuyển cảnh dao diện"
+msgstr "Hiển thị hiệu ứng chuyển cảnh giao diện"
 
 #. Shown in a label in the settings. The %s is replaced by a percentage, for
 #. example: "UI Scale: 90%"
@@ -2513,7 +2513,7 @@ msgstr "Hồng mờ"
 #. The UI color "frosted teal"
 #: /client/application/ui/ui_skin.cpp:83
 msgid "Frosted Teal"
-msgstr "Xanh mồng kết mờ"
+msgstr "Xanh mòng két mờ"
 
 #. The UI color "frosted gray"
 #: /client/application/ui/ui_skin.cpp:86

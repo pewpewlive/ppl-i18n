@@ -306,7 +306,7 @@ msgstr "Buzogány tengelye"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:197
 msgid "Failed to download data"
-msgstr "Nem sikerült letöltwni az adatokat"
+msgstr "Nem sikerült letölteni az adatokat"
 
 #: /client/application/game/player_data/sync/data_synchronizer.cpp:209
 msgid "You've been signed out."
@@ -1063,7 +1063,7 @@ msgstr "Enciklopédia"
 #. "... as shown by the ◬ indicator."
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:76
 msgid "Enemies release Pointonium when destroyed. The amount spawned scales with your kill rate, as shown by the %s indicator. Gathering Pointonium increases your score."
-msgstr "Az ellenségek Pointóniumot dobnak ki magukból amikor szétlövöd őket. Amennyire pontos találatokat mérsz az ellenségra annál többet dobnak %s. A Pointónium gyűjtése növeli az összpontszámodat."
+msgstr "Az ellenségek Pointóniumot dobnak ki magukból amikor szétlövöd őket. Amennyire pontos találatokat mérsz az ellenségre annál többet dobnak %s. A Pointónium gyűjtése növeli az összpontszámodat."
 
 #. Description of the "Asteroid" enemy
 #: /client/application/game/ui/screens/screen_encyclopedia.cpp:122
@@ -1302,7 +1302,7 @@ msgstr "Kreditek"
 #. library that are used in the game.
 #: /client/application/game/ui/screens/screen_informations.cpp:121
 msgid "Licenses"
-msgstr "Lincencek"
+msgstr "Licencek"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to discord server
@@ -1397,7 +1397,7 @@ msgstr "Lokális többjátékos mód"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:46
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "A lokális többjátékos mód támogtaja 2 játékos csatlakozását ugyanahhoz a wifi-hálózathoz."
+msgstr "A lokális többjátékos mód támogatja 2 játékos csatlakozását ugyanahhoz a wifi-hálózathoz."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:47
 msgid "One player must create a room, which the other player joins."
@@ -1500,7 +1500,7 @@ msgstr "Mégsem"
 
 #: /client/application/game/ui/screens/screen_multiplayer_lobby.cpp:346
 msgid "Waiting for other players..."
-msgstr "Várakoás a többi játékosra..."
+msgstr "Várakozás a többi játékosra..."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:76
 msgid "Checking network..."
@@ -2477,7 +2477,7 @@ msgstr "Szürke"
 #. The color "dark blue"
 #: /client/application/ui/ui_skin.cpp:62
 msgid "Dark Blue"
-msgstr "Sötéték"
+msgstr "Sötétkék"
 
 #. The color "yellow"
 #: /client/application/ui/ui_skin.cpp:65

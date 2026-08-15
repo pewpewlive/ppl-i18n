@@ -113,7 +113,7 @@ msgstr "Odaberi svoju težinu"
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:144
 msgid "Dodge everything and you'll be OK"
-msgstr "Izbjegni sve i biti ćeš OK"
+msgstr "Izbjegni sve i bit ćeš OK"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/game/levels/game_levels.cpp:146
@@ -592,7 +592,7 @@ msgstr "Neuspješno registriranje."
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Username (you can put colors in!):"
-msgstr "Korističko ime (možete mijenjati boje!)"
+msgstr "Korisničko ime (možete mijenjati boje!)"
 
 #: /client/application/game/ui/screens/accounts/screen_register.cpp:172
 msgid "Password:"
@@ -656,7 +656,7 @@ msgstr "Vaš račun"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:29
 msgid "Requesting verification email"
-msgstr "Zahtjevanje email-a za potvrdnju"
+msgstr "Zahtijevanje email-a za potvrdnju"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:35
 msgid "Verification email sent"
@@ -668,11 +668,11 @@ msgstr "Provjerite Vaš inbox!"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:41
 msgid "Failed to resend email"
-msgstr "Neuspješno ponovno slanje email-"
+msgstr "Neuspješno ponovno slanje email-a"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:52
 msgid "Requesting password reset"
-msgstr "Zahtjevanje resetiranja lozinke"
+msgstr "Zahtijevanje resetiranja lozinke"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:58
 msgid "Password reset email sent"
@@ -680,7 +680,7 @@ msgstr "Poslan email za resetiranje lozinke"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:65
 msgid "Failed to request password reset"
-msgstr "Meuspješno slanje zahtjeva resetiranja lozinke"
+msgstr "Neuspješno slanje zahtjeva resetiranja lozinke"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:139
 msgid "Signing in"
@@ -704,7 +704,7 @@ msgstr "Netočna lozinka"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:189
 msgid "Request password reset"
-msgstr "Zahtjevaj resetiranje lozinke"
+msgstr "Zahtijevaj resetiranje lozinke"
 
 #: /client/application/game/ui/screens/accounts/screen_signin.cpp:215
 msgid "Reset password"
@@ -1409,11 +1409,11 @@ msgstr "Wifi mreža ne mora biti spojena na internet."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:49
 msgid "Connecting to a phone's hotspot should work!"
-msgstr "Spajanje na mobilni hotspot bih trebalo raditi!"
+msgstr "Spajanje na mobilni hotspot bi trebalo raditi!"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:50
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr "Svaki igrač mora prijenijeti svoj rezultat zasebno kako bih oboje bili na online ljestvici rezultata."
+msgstr "Svaki igrač mora prenijeti svoj rezultat zasebno kako bi oboje bili na online ljestvici rezultata."
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:54
 msgid "Multiplayer help"
@@ -2001,7 +2001,7 @@ msgstr "Otključaj stavku"
 #. Shown in a string when no items can be unlocked
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:291
 msgid "No items to unlock"
-msgstr "Nema stavka za otključavanje"
+msgstr "Nema stavki za otključavanje"
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
@@ -2513,7 +2513,7 @@ msgstr "Matirano Ružičasta"
 #. The UI color "frosted teal"
 #: /client/application/ui/ui_skin.cpp:83
 msgid "Frosted Teal"
-msgstr "Matirano plavozelena"
+msgstr "Matirano Plavozelena"
 
 #. The UI color "frosted gray"
 #: /client/application/ui/ui_skin.cpp:86
