@@ -333,14 +333,14 @@ msgstr "levels[\"%s\"].played == true"
 #. "Destroy 200 ROLLING_CUBE: 20 / 100 ⇨ 30 / 100"
 #: /client/application/game/quests/quest_manager.cpp:18
 msgid "%s: %s ⇨ %s"
-msgstr "Quest.Progress->%1$s(%2$s ⇨ %3$s)"
+msgstr ""
 
 #. Shown in a notification when you complete a quest.
 #. Example of what it looks like:
 #. "Reach 8900 in one game: Complete! (20 / 100 ⇨ 30 / 100)"
 #: /client/application/game/quests/quest_manager.cpp:23
 msgid "%s: Complete! (%s ⇨ %s)"
-msgstr "Quest.Complete(%1$s); Progress(%2$s ⇨ %3$s)"
+msgstr ""
 
 #. The description of the quest that involves playing destroying a certain
 #. amount of enemies. The %1$s is replaced by a number. The %2$s is replaced
