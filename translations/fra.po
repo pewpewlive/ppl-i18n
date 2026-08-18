@@ -1003,7 +1003,7 @@ msgstr "Configuration des joysticks"
 
 #: /client/application/game/ui/screens/screen_configure_touch_joystick.cpp:112
 msgid "Swap"
-msgstr "Swap"
+msgstr "Inverser"
 
 #: /client/application/game/ui/screens/screen_confirm_action.cpp:59
 msgid "Account deletion"
@@ -1302,7 +1302,7 @@ msgstr "Crédits"
 #. library that are used in the game.
 #: /client/application/game/ui/screens/screen_informations.cpp:121
 msgid "Licenses"
-msgstr "Licenses"
+msgstr "Licences"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to discord server
