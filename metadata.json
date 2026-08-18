@@ -226,6 +226,9 @@
     "translators": [
       {
         "name": "#8000ffffneon#ff2f00ffcube"
+      },
+      {
+        "name": "#00ff80fft#008080ffest#ff0000ff #404040ff32#8080ffff1"
       }
     ]
   },
@@ -417,6 +420,9 @@
     "translators": [
       {
         "name": "#404040ffd#808080ffot#ffffffffs"
+      },
+      {
+        "name": "#00ff80fft#008080ffest#ff0000ff #404040ff32#8080ffff1"
       }
     ]
   }
