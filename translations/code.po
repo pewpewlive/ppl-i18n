@@ -16,7 +16,7 @@ msgstr "levels[\"%1$s\"].objective >= %2$s"
 #. "In Eskiv, score 10000 or more with an inertic ship in 1p."
 #: /client/application/account/achievements_description.cpp:40
 msgid "In %1$s, score %2$s or more with an inertic ship in 1p."
-msgstr "levels["%1$s"].score >= %2$s,ship == "inertic",players_count == 1"
+msgstr "levels[\"%1$s\"].score >= %2$s,ship == \"inertic\",players_count == 1"
 
 #. Title of the screen shown before the start of a blitz round.
 #. The %s is replaced with a number, for example:
@@ -1665,7 +1665,7 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:62
 msgid "Failed to claim! No internet?"
-msgstr "Game.Error = \"Failed to claim"\""
+msgstr "Game.Error = \"Failed to claim\""
 
 #: /client/application/game/ui/screens/screen_quests_claim_xp.cpp:94
 msgid "Successfully claimed XP!"
