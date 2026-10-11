@@ -1508,7 +1508,7 @@ msgstr "Checking network..."
 
 #: /client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:94
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr "Multiplayer doesn't wowk with a symmetwic NAT"
+msgstr "Multipwayer doesn't wowk with a symmetwic NAT"
 
 #. String shown in a button.
 #. Pressing the button navigates to a screen showing additional
@@ -1677,7 +1677,7 @@ msgstr "Dev mode"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:20
 msgid "Select multiplayer type"
-msgstr "Select multiplayer type"
+msgstr "Select multipwayer type"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:35
 msgid "Compete in rounds against 3 or more people!"
@@ -1689,7 +1689,7 @@ msgstr "Play with kittens awound the wowld!"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:74
 msgid "LAN multiplayer"
-msgstr "LAN multiplayer"
+msgstr "LAN multipwayer"
 
 #: /client/application/game/ui/screens/screen_select_multiplayer_type.cpp:85
 msgid "Play with people on the same network!"
