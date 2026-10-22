@@ -10,6 +10,9 @@ msgstr "#ffff00ffExperimentele#ffffffff" levels zijn levels die nog niet zijn ui
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffOfficiele#ffffffff levels zijn door mij (JF) gemaakt, en staan je toe om mediales te verdienen."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sWachten op andere spelers%s"
+
 msgid "About the levels"
 msgstr "Over de levels"
 
@@ -27,6 +30,15 @@ msgstr "Bevestig email"
 
 msgid "Confirm email:"
 msgstr "Bevestig email:"
+
+msgid "Connect"
+msgstr "Verbind"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Verbind met een andere ruimte over het internet #ff0000ff(experimenteel)"
+
+msgid "Connect to server"
+msgstr "Verbind met de server"
 
 msgid "Creating room"
 msgstr "Ruimte aan het creeëren"
@@ -61,11 +73,26 @@ msgstr "Uploaden van prestaties mislukt"
 msgid "High Scores"
 msgstr "Top Scores"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "Meer informatie op github.com/jyaif/ppl-utils"
 
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Refresh"
+msgstr "Herlaad"
+
+msgid "Searching for rooms..."
+msgstr "Aan het zoeken voor ruimtes..."
+
 msgid "Speed Runs"
 msgstr "Speed Runs"
+
+msgid "The room expired"
+msgstr "De ruimte is verlopen"
 
 msgid "Vibration %s"
 msgstr "Vibratie %s"

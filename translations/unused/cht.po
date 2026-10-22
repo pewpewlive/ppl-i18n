@@ -1,3 +1,12 @@
 # The following translations are not in use anymore!
 # They are kept in case they are needed again later.
 
+msgid "Connect"
+msgstr "連線"
+
+msgid "Connect to server"
+msgstr "連線至伺服器"
+
+msgid "IP:"
+msgstr "IP地址:"
+

@@ -4,6 +4,9 @@
 msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
 msgstr "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScowe: %s"
 
+msgid "%sWaiting for other player%s"
+msgstr "%sWaiting for other player%s"
+
 msgid "Apprentice"
 msgstr "Appwentice"
 
@@ -18,6 +21,15 @@ msgstr "Confiwm email"
 
 msgid "Confirm email:"
 msgstr "Confiwm email:"
+
+msgid "Connect"
+msgstr "Connect"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Connect to another room over the intewnet #ff0000ff(expewimental)"
+
+msgid "Connect to server"
+msgstr "Connect to server"
 
 msgid "Emails do not match!"
 msgstr "Emails do not match :o"
@@ -37,8 +49,23 @@ msgstr "Failed to upload achievements :<"
 msgid "High Scores"
 msgstr "High Scowes"
 
+msgid "IP:"
+msgstr "IP:"
+
+msgid "Port:"
+msgstr "Powt:"
+
+msgid "Refresh"
+msgstr "Refwesh"
+
+msgid "Searching for rooms..."
+msgstr "Seawching for rooms..."
+
 msgid "Speed Runs"
 msgstr "Speed Runs"
+
+msgid "The room expired"
+msgstr "The room expiwed :<"
 
 msgid "Vibration %s"
 msgstr ">///< %s"

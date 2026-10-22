@@ -10,6 +10,9 @@ msgstr "#ffff00ffHalf-baked#ffffffff levels are still in the oven, give it time!
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffMain-Squeezel#ffffffff levels pumped out by your's truly (JF). P.S. earn ya bling here"
 
+msgid "%sWaiting for other player%s"
+msgstr "%sWaiting for other gamers%s"
+
 msgid "2 extra characters:"
 msgstr "2-long gamer tag:"
 
@@ -36,6 +39,15 @@ msgstr "Do it again"
 
 msgid "Confirm email:"
 msgstr "Do it again:"
+
+msgid "Connect"
+msgstr "intertwine"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Join a game room over the interwebz #ff0000ff(what could go wrong?)"
+
+msgid "Connect to server"
+msgstr "Join online bro"
 
 msgid "Connect to..."
 msgstr "Mooch from..."
@@ -91,6 +103,9 @@ msgstr "Dank elite"
 msgid "High Scores"
 msgstr "Big numbers"
 
+msgid "IP:"
+msgstr "Gamer hive:"
+
 msgid "Information"
 msgstr "kool info"
 
@@ -136,8 +151,17 @@ msgstr "Learn me some"
 msgid "Online profile"
 msgstr "Gamer info"
 
+msgid "Port:"
+msgstr "Gamer entry:"
+
+msgid "Refresh"
+msgstr "Ctrl+R"
+
 msgid "Renderer: %s"
 msgstr "JPEG level: %s"
+
+msgid "Searching for rooms..."
+msgstr "scanning gamer rooms"
 
 msgid "Select level"
 msgstr "The Main Squeezes"
@@ -156,6 +180,9 @@ msgstr "Runs (Haste II)"
 
 msgid "The background is expensive to compute"
 msgstr "90% of budget is in the background"
+
+msgid "The room expired"
+msgstr "Room left out for too long, its spoiled"
 
 msgid "Translations"
 msgstr "Lingo Transfers"

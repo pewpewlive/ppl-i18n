@@ -10,6 +10,9 @@ msgstr "#ffff00ffGame.Experimental#ffffffff.levels.released = false"
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffGame.Official#ffffffff.levels.author = Game.Dev(\"JF\") && AllowMedals = true"
 
+msgid "%sWaiting for other player%s"
+msgstr "%sMultiplayer.Await(player)%s"
+
 msgid "About the levels"
 msgstr "AbtLevels.UI"
 
@@ -30,6 +33,15 @@ msgstr "Email.Confirm"
 
 msgid "Confirm email:"
 msgstr "Email.Confirm ="
+
+msgid "Connect"
+msgstr "Establish();"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Establish(room, status.experimental);"
+
+msgid "Connect to server"
+msgstr "Establish(server);"
 
 msgid "Creating room"
 msgstr "Room.Creating = true"
@@ -67,6 +79,9 @@ msgstr "DarkTheme(INT_MAX);"
 msgid "High Scores"
 msgstr "HighScores"
 
+msgid "IP:"
+msgstr "server.ip ="
+
 msgid "Information"
 msgstr "Level.Info.UI"
 
@@ -88,11 +103,23 @@ msgstr "MoreInfo = \"github.com/jyaif/ppl-utils\""
 msgid "Online profile"
 msgstr "OnlineProfile();"
 
+msgid "Port:"
+msgstr "server.port ="
+
+msgid "Refresh"
+msgstr "Refresh();"
+
 msgid "Score: %s"
 msgstr "levelTry.Score = %s"
 
+msgid "Searching for rooms..."
+msgstr "GameMulti.Searching = true"
+
 msgid "Speed Runs"
 msgstr "SpeedRuns"
+
+msgid "The room expired"
+msgstr "Room.Expired = true"
 
 msgid "UI colors"
 msgstr "Game.UI.Colors"

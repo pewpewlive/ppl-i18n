@@ -10,6 +10,9 @@ msgstr "#ffff00ffExperimental-Levels#ffffffff sind Levels, die noch nicht veröf
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffOffizielle#ffffffff Levels werden von mir (JF) erstellt, und mit diesen Levels kannst du Medaillen gewinnen."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sIn der Warteschlange%s"
+
 msgid "2 extra characters:"
 msgstr "2 zusätzliche Buchstaben:"
 
@@ -27,6 +30,15 @@ msgstr "Email bestätigen"
 
 msgid "Confirm email:"
 msgstr "Email bestätigen:"
+
+msgid "Connect"
+msgstr "Verbindung"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Verbinde mit einer anderen Partie über das Internet #ff0000ff(experimental)"
+
+msgid "Connect to server"
+msgstr "Verbinde mit dem Server"
 
 msgid "Connect to..."
 msgstr "Verbindung zu..."
@@ -73,6 +85,9 @@ msgstr "Hoch (Dunkel)"
 msgid "High Scores"
 msgstr "Highscores"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "Joysticks"
 msgstr "Joysticks"
 
@@ -115,11 +130,20 @@ msgstr "Mehr Informationen"
 msgid "Online profile"
 msgstr "Online Profil"
 
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Refresh"
+msgstr "Aktualisieren"
+
 msgid "Renderer: %s"
 msgstr "Qualität: %s"
 
 msgid "Score: %s"
 msgstr "Score: %s"
+
+msgid "Searching for rooms..."
+msgstr "Auf der Suche nach Spielen..."
 
 msgid "Select level"
 msgstr "Level wählen"
@@ -138,6 +162,9 @@ msgstr "Speed runs"
 
 msgid "The background is expensive to compute"
 msgstr "Dreiecke überall!"
+
+msgid "The room expired"
+msgstr "Die Partie ist abgelaufen"
 
 msgid "Translations"
 msgstr "Übersetzungen"

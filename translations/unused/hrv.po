@@ -10,6 +10,9 @@ msgstr "#ffff00ffEksperimentalni#ffffffff leveli su leveli koji još nisu pušte
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffSlužbene#ffffffff levele sam napravio ja (JF), omogućuju vam osvajanje medalja."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sČekanje na druge igrače%s"
+
 msgid "2 extra characters:"
 msgstr "2 dodatne znamenke:"
 
@@ -36,6 +39,15 @@ msgstr "Potvrdi email"
 
 msgid "Confirm email:"
 msgstr "Potvrdi email:"
+
+msgid "Connect"
+msgstr "Spoji se"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Spoji se na sobu preko interneta #ff0000ff(eksperimentalno)"
+
+msgid "Connect to server"
+msgstr "Spoji se na server"
 
 msgid "Connect to..."
 msgstr "Spoji se na..."
@@ -94,6 +106,9 @@ msgstr "Visoko (Tamno)"
 msgid "High Scores"
 msgstr "Najviši Rezultati"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "Information"
 msgstr "Informacije"
 
@@ -139,11 +154,20 @@ msgstr "Više informacija"
 msgid "Online profile"
 msgstr "Online profil"
 
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Refresh"
+msgstr "Osvježi"
+
 msgid "Renderer: %s"
 msgstr "Renderer: %s"
 
 msgid "Score: %s"
 msgstr "Rezultat: %s"
+
+msgid "Searching for rooms..."
+msgstr "Traženje soba..."
 
 msgid "Select level"
 msgstr "Odaberi level"
@@ -162,6 +186,9 @@ msgstr "Speedrunovi"
 
 msgid "The background is expensive to compute"
 msgstr "Pozadina je skupa za izračunavanje"
+
+msgid "The room expired"
+msgstr "Soba je istekla"
 
 msgid "Translations"
 msgstr "Prijevodi"

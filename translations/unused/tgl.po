@@ -10,6 +10,9 @@ msgstr "Kung ikaw ay interesado sa mga level na kasalukuyang ginagawa ng komunid
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "Makikita sa #ffff00ff\"opisyal\"#ffffffff ang mga level na ginawa ng developer (ni JF), kung saan ka maaaring makakamit ng mga medalya."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sNaghihintay ng makakalaro%s"
+
 msgid "2 extra characters:"
 msgstr "2 dagdag na character:"
 
@@ -27,6 +30,15 @@ msgstr "Kumpirmahin ang email"
 
 msgid "Confirm email:"
 msgstr "Kumpirmahin ang email:"
+
+msgid "Connect"
+msgstr "Kumonekta"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Kumonekta gamit ang internet #ff0000ff(experimental)"
+
+msgid "Connect to server"
+msgstr "Kumonekta sa server"
 
 msgid "Creating room"
 msgstr "Naghahanap ng kalaro"
@@ -106,11 +118,17 @@ msgstr "Iba pang impormasyon"
 msgid "Online profile"
 msgstr "Iyong profile"
 
+msgid "Refresh"
+msgstr "Ulitin"
+
 msgid "Renderer: %s"
 msgstr "Itsura: %s"
 
 msgid "Score: %s"
 msgstr "Score: %s"
+
+msgid "Searching for rooms..."
+msgstr "Naghahanap ng rooms..."
 
 msgid "Select level"
 msgstr "Pumili ng level"
@@ -120,6 +138,9 @@ msgstr "Mga Speed Run"
 
 msgid "The background is expensive to compute"
 msgstr "Ang ganda ng background :O"
+
+msgid "The room expired"
+msgstr "Nawala na ang room"
 
 msgid "UI colors"
 msgstr "Kulay ng UI"

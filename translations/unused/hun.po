@@ -10,6 +10,9 @@ msgstr "#ffffff00ffKísérleti#ffffffffffffff szintek olyan szintek, amelyeket m
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffffff00Hivatalos#ffffffffffffffffff szinteket én (JF) építettem, és lehetővé teszem az érmek megszerzését."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sVárjuk a másik játékost%s"
+
 msgid "About the levels"
 msgstr "A szintekről"
 
@@ -27,6 +30,15 @@ msgstr "Email megerősítése"
 
 msgid "Confirm email:"
 msgstr "Email megerősítése"
+
+msgid "Connect"
+msgstr "Csatlakozás"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Csatlakozás egy másik szobához az interneten keresztül #ff0000ff(kísérleti)"
+
+msgid "Connect to server"
+msgstr "Csatlakozás a szerverhez"
 
 msgid "Creating room"
 msgstr "Szoba készítése"
@@ -55,6 +67,9 @@ msgstr "Nem sikerült feltölteni az achievementeket"
 msgid "High Scores"
 msgstr "Magas Pontszámok"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "Information"
 msgstr "Információ"
 
@@ -64,8 +79,20 @@ msgstr "Joystickok"
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "Több információ: github.com/jyaif/ppl-utils"
 
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Refresh"
+msgstr "Lefrissítés"
+
+msgid "Searching for rooms..."
+msgstr "Szobák keresése..."
+
 msgid "Speed Runs"
 msgstr "Speed Runok"
+
+msgid "The room expired"
+msgstr "A szoba lejárt"
 
 msgid "UI colors"
 msgstr "UI színek"

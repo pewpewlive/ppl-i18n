@@ -13,6 +13,9 @@ msgstr "#ffff00ffЭкспериментальные#ffffffff уровни - не
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffОфициальные#ffffffff уровни созданы мной (#0080ffffJF#ffffffff) и дают зарабатывать медали."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sОжидание игроков%s"
+
 msgid "2 extra characters:"
 msgstr "2 дополнительных символа:"
 
@@ -39,6 +42,15 @@ msgstr "Адрес почты"
 
 msgid "Confirm email:"
 msgstr "Подтверждение email:"
+
+msgid "Connect"
+msgstr "Подключиться"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Подключение к комнатам через интернет #ff0000ff(экспериментально)"
+
+msgid "Connect to server"
+msgstr "Подключение к серверу"
 
 msgid "Connect to..."
 msgstr "Подключиться к..."
@@ -97,6 +109,9 @@ msgstr "Высокий Тёмный"
 msgid "High Scores"
 msgstr "Рекорды"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "Information"
 msgstr "Информация"
 
@@ -142,11 +157,20 @@ msgstr "Подробная информация"
 msgid "Online profile"
 msgstr "Профиль"
 
+msgid "Port:"
+msgstr "Порт:"
+
+msgid "Refresh"
+msgstr "Обновить"
+
 msgid "Renderer: %s"
 msgstr "Рендер: %s"
 
 msgid "Score: %s"
 msgstr "Результат: %s"
+
+msgid "Searching for rooms..."
+msgstr "Поиск комнат..."
 
 msgid "Select level"
 msgstr "Выбор уровня"
@@ -165,6 +189,9 @@ msgstr "Спидраны"
 
 msgid "The background is expensive to compute"
 msgstr "Обработка фона - это сложно"
+
+msgid "The room expired"
+msgstr "Комната истекла."
 
 msgid "Translations"
 msgstr "Переводчики"

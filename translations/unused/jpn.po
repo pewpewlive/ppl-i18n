@@ -22,6 +22,15 @@ msgstr "メール再入力"
 msgid "Confirm email:"
 msgstr "メール再入力:"
 
+msgid "Connect"
+msgstr "接続"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "インターネットヲ ツカイ ルームニ ハイリマス #ff0000ff(オタメシキノウ)"
+
+msgid "Connect to server"
+msgstr "サーバーに接続"
+
 msgid "Creating room"
 msgstr "ルーム サクセイ"
 
@@ -51,6 +60,9 @@ msgstr "キレイ (ダーク)"
 
 msgid "High Scores"
 msgstr "高得点"
+
+msgid "IP:"
+msgstr "IP:"
 
 msgid "Joysticks"
 msgstr "ジョイスティック"
@@ -85,17 +97,29 @@ msgstr "モット ヨム"
 msgid "Online profile"
 msgstr "オンライン プロフィール"
 
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Refresh"
+msgstr "更新"
+
 msgid "Renderer: %s"
 msgstr "レンダラー: %s"
 
 msgid "Score: %s"
 msgstr "スコア: %s"
 
+msgid "Searching for rooms..."
+msgstr "ルーム検索中..."
+
 msgid "Select level"
 msgstr "レベル センタク"
 
 msgid "Speed Runs"
 msgstr "スピードラン"
+
+msgid "The room expired"
+msgstr "ルームが失効でした"
 
 msgid "UI colors"
 msgstr "UI色"

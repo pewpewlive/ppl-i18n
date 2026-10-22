@@ -13,6 +13,9 @@ msgstr "#ffff00ffЕкспериментальні#ffffffff, рівні що ще
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffОфіційні#ffffffff рівні збудовані мною (JF), у них можна здобувати медалі."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sЧекаємо на інших гравців%s"
+
 msgid "2 extra characters:"
 msgstr "2 додаткових героїв"
 
@@ -39,6 +42,15 @@ msgstr "Перевірити пошту"
 
 msgid "Confirm email:"
 msgstr "Перевірити пошту:"
+
+msgid "Connect"
+msgstr "Приєднатися"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Приєднатися до іншої кімнати через інтернет #ff0000ff(експериментально)"
+
+msgid "Connect to server"
+msgstr "Приєднатися до сервера"
 
 msgid "Creating room"
 msgstr "Створюється кімната"
@@ -94,6 +106,9 @@ msgstr "Висока (Темне)"
 msgid "High Scores"
 msgstr "Кращі Рекорди"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "Information"
 msgstr "Інформація"
 
@@ -136,11 +151,20 @@ msgstr "Більше інформації"
 msgid "Online profile"
 msgstr "Онлайн профіль"
 
+msgid "Port:"
+msgstr "Порт:"
+
+msgid "Refresh"
+msgstr "Оновити"
+
 msgid "Renderer: %s"
 msgstr "Візуалізатор: %s"
 
 msgid "Score: %s"
 msgstr "Рекорд: %s"
+
+msgid "Searching for rooms..."
+msgstr "Пошук кімнат..."
 
 msgid "Select level"
 msgstr "Вибір рівню"
@@ -150,6 +174,9 @@ msgstr "Швидкісні Забіги"
 
 msgid "The background is expensive to compute"
 msgstr "Фон дорого обчислити"
+
+msgid "The room expired"
+msgstr "Закінчився термін дії кімнати"
 
 msgid "UI colors"
 msgstr "Кольори інтерфейсу"

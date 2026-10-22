@@ -4,6 +4,9 @@
 msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
 msgstr "#00ff00ffVida: %s#ffffffff, #ff0000ffDany: %s#ffffffff, #ffff00ffPuntuació: %s"
 
+msgid "%sWaiting for other player%s"
+msgstr "%sS'espera un altre jugador%s"
+
 msgid "Apprentice"
 msgstr "Aprenent"
 
@@ -18,6 +21,15 @@ msgstr "Confirmeu l'adreça de correu electrònic"
 
 msgid "Confirm email:"
 msgstr "Confirmeu el correu eletrònic:"
+
+msgid "Connect"
+msgstr "Connecta't"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Uniu-vos a una altra partida a través d'Internet #ff0000ff(experimental)"
+
+msgid "Connect to server"
+msgstr "Connecta't a un servidor"
 
 msgid "Emails do not match!"
 msgstr "Les adreces de correu no coincideixen."
@@ -37,8 +49,23 @@ msgstr "Error mentre es pujaven les fites"
 msgid "High Scores"
 msgstr "Millors puntuacions"
 
+msgid "IP:"
+msgstr "IP:"
+
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Refresh"
+msgstr "Actualitza"
+
+msgid "Searching for rooms..."
+msgstr "Es busquen partides..."
+
 msgid "Speed Runs"
 msgstr "Carreres de velocitat"
+
+msgid "The room expired"
+msgstr "La partida ha caducat."
 
 msgid "Vibration %s"
 msgstr "Vibració: %s"

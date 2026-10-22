@@ -13,6 +13,9 @@ msgstr "Los niveles #ffff00ffExperimentales#ffffffff no están completamente des
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "Los niveles #ffff00ffOficiales#ffffffff han sido creados por mí (JF). En ellos puedes obtener medallas."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sEsperando a otro jugador%s"
+
 msgid "2 extra characters:"
 msgstr "Nombre:"
 
@@ -39,6 +42,15 @@ msgstr "Una vez más, porfa"
 
 msgid "Confirm email:"
 msgstr "Confirmar correo electrónico:"
+
+msgid "Connect"
+msgstr "Conectar"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Únete a una partida a través de Internet #ff0000ff(experimental)"
+
+msgid "Connect to server"
+msgstr "Conectar al servidor"
 
 msgid "Connect to..."
 msgstr "Conectar a..."
@@ -97,6 +109,9 @@ msgstr "Alto (Oscuro)"
 msgid "High Scores"
 msgstr "Mejores puntuaciones"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "Information"
 msgstr "Información"
 
@@ -142,11 +157,20 @@ msgstr "Más información"
 msgid "Online profile"
 msgstr "Perfil en línea"
 
+msgid "Port:"
+msgstr "Puerto:"
+
+msgid "Refresh"
+msgstr "Actualizar"
+
 msgid "Renderer: %s"
 msgstr "Renderizado: %s"
 
 msgid "Score: %s"
 msgstr "Puntuación: %s"
+
+msgid "Searching for rooms..."
+msgstr "Buscando partidas..."
 
 msgid "Select level"
 msgstr "Elegir nivel"
@@ -165,6 +189,9 @@ msgstr "Los más veloces"
 
 msgid "The background is expensive to compute"
 msgstr "El fondo es difícil de computar"
+
+msgid "The room expired"
+msgstr "La partida ha expirado"
 
 msgid "Translations"
 msgstr "Traducciones"

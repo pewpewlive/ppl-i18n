@@ -13,6 +13,9 @@ msgstr "Lygiai #ffff00ffEksperimentiniai#ffffffff skiltyje yra lygiai kurie dar 
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "Lygiai #ffff00ffOficialūs#ffffffff skiltyje yra lygiai kuriuos sukūrė šio žaidimo kūrėjas (JF), ir jie leidžia jums gauti medalius."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sLaukiama kitų žaidėjų%s"
+
 msgid "2 extra characters:"
 msgstr "Dvi papildomos raidės:"
 
@@ -39,6 +42,15 @@ msgstr "Patvirtinti el. pašto adresą"
 
 msgid "Confirm email:"
 msgstr "Patvirtinti el. pašto adresą:"
+
+msgid "Connect"
+msgstr "Prisijungti"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Prisijunkite prie kito kambario per internetą #ff0000ff(eksperimentinis)"
+
+msgid "Connect to server"
+msgstr "Prisijungti prie serverio"
 
 msgid "Connect to..."
 msgstr "Prisijungti prie..."
@@ -97,6 +109,9 @@ msgstr "Aukšta (Tamsi)"
 msgid "High Scores"
 msgstr "Rekordai"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "Information"
 msgstr "Informacija"
 
@@ -142,11 +157,20 @@ msgstr "Daugiau informacijos"
 msgid "Online profile"
 msgstr "Internetinis profilis"
 
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Refresh"
+msgstr "Atnaujinti"
+
 msgid "Renderer: %s"
 msgstr "Kokybė: %s"
 
 msgid "Score: %s"
 msgstr "Taškai: %s"
+
+msgid "Searching for rooms..."
+msgstr "Ieškoma kambarių..."
 
 msgid "Select level"
 msgstr "Pasirinkite lygį"
@@ -165,6 +189,9 @@ msgstr "Speedrun'ai"
 
 msgid "The background is expensive to compute"
 msgstr "Foną apskaičiuoti brangu"
+
+msgid "The room expired"
+msgstr "Kambarys nebegalioja"
 
 msgid "Translations"
 msgstr "Vertimai"

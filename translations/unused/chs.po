@@ -10,6 +10,9 @@ msgstr "#ffff00ff测试#ffffffff 关卡是尚未发布的关卡。"
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ff官方#ffffffff 关卡由我 (JF) 设计 , 可以获得奖牌。"
 
+msgid "%sWaiting for other player%s"
+msgstr "%s正在等待其他玩家%s"
+
 msgid "About the levels"
 msgstr "关于关卡"
 
@@ -21,6 +24,15 @@ msgstr "确认邮箱"
 
 msgid "Confirm email:"
 msgstr "确认邮箱："
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "通过互联网连接到另一个房间 #ff0000ff(实验性)"
+
+msgid "Connect to server"
+msgstr "连接至服务器"
 
 msgid "Creating room"
 msgstr "正在创建房间"
@@ -49,6 +61,9 @@ msgstr "上传成就失败"
 msgid "High Scores"
 msgstr "最高分"
 
+msgid "IP:"
+msgstr "IP地址:"
+
 msgid "Information"
 msgstr "信息"
 
@@ -58,11 +73,23 @@ msgstr "摇杆"
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "更多信息在 github.com/jyaif/ppl-utils"
 
+msgid "Port:"
+msgstr "端口"
+
+msgid "Refresh"
+msgstr "刷新"
+
 msgid "Score: %s"
 msgstr "分数：%s"
 
+msgid "Searching for rooms..."
+msgstr "搜索房间中..."
+
 msgid "Speed Runs"
 msgstr "竞速"
+
+msgid "The room expired"
+msgstr "房间已失效"
 
 msgid "UI colors"
 msgstr "UI颜色"

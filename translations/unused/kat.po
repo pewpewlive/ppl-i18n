@@ -10,6 +10,9 @@ msgstr "#ffff00ffExperimental#ffffffff ლეველები არის ლ
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffOfficial#ffffffff ლეველეები შექმნილია ჩემს მიერ (JF) და გაძლევთ საშუალებას მიიღოთ მედლები."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sველოდები სხვა მოთამაშეს%s"
+
 msgid "About the levels"
 msgstr "ლეველების შესახებ"
 
@@ -30,6 +33,15 @@ msgstr "Დაადასტურეთ ელ - ფოსტა"
 
 msgid "Confirm email:"
 msgstr "Დაადასტურეთ ელ - ფოსტა:"
+
+msgid "Connect"
+msgstr "დაკავშირება"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "დაუკავშირდით სხვა ოთახს ინტერნეტით #ff0000ff(experimental)"
+
+msgid "Connect to server"
+msgstr "სერვერთან დაკავშირება"
 
 msgid "Creating room"
 msgstr "ოთახის შექმნა"
@@ -64,6 +76,9 @@ msgstr "მიღწევები გამოგზავნა ვერ მ
 msgid "High Scores"
 msgstr "მაღალი ქულები"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "Information"
 msgstr "ინფორმაცია"
 
@@ -73,11 +88,23 @@ msgstr "ჯოისტიკები"
 msgid "More info on github.com/jyaif/ppl-utils"
 msgstr "მეტი ინფორმაცია github.com/jyaif/ppl-utils"
 
+msgid "Port:"
+msgstr "პორტი:"
+
+msgid "Refresh"
+msgstr "განახლება"
+
 msgid "Score: %s"
 msgstr "ქულა: %s"
 
+msgid "Searching for rooms..."
+msgstr "ოთახების ძებნა..."
+
 msgid "Speed Runs"
 msgstr "სიჩქარის გაშვება"
+
+msgid "The room expired"
+msgstr "ოთახს ვადა გაუვიდა"
 
 msgid "UI colors"
 msgstr "UI ფერები"

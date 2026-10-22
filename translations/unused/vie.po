@@ -4,6 +4,18 @@
 msgid "#00ff00ffHealth: %s#ffffffff, #ff0000ffDamage: %s#ffffffff, #ffff00ffScore: %s"
 msgstr "#00ff00ffMáu: %s#ffffffff, #ff0000ffSát thương: %s#ffffffff, #ffff00ffĐiểm: %s"
 
+msgid "%sWaiting for other player%s"
+msgstr "%sĐợi cho người chơi khác%s"
+
+msgid "Connect"
+msgstr "Kết nối"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Kết nối với phòng khác qua internet #ff0000ff(tính năng thử nghiệm)"
+
+msgid "Connect to server"
+msgstr "Kết nối tới server"
+
 msgid "Failed to download achievements"
 msgstr "Không thể tải thành tích"
 
@@ -12,6 +24,21 @@ msgstr "Không thể tải vật phẩm"
 
 msgid "Failed to upload achievements"
 msgstr "Không thể đăng thành tích"
+
+msgid "IP:"
+msgstr "IP:"
+
+msgid "Port:"
+msgstr "Cổng:"
+
+msgid "Refresh"
+msgstr "Tải lại"
+
+msgid "Searching for rooms..."
+msgstr "Đang tìm phòng"
+
+msgid "The room expired"
+msgstr "Phòng đã hết hạn"
 
 msgid "Vibration %s"
 msgstr "Rung: %s"

@@ -10,6 +10,9 @@ msgstr "I livelli #ffff00ffSperimentali#ffffffff sono livelli che non sono ancor
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "I livelli #ffff00ffUfficiali#ffffffff sono creati da me (JF) e ti permettono di guadagnare medaglie."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sAspettando altri giocatori%s"
+
 msgid "2 extra characters:"
 msgstr "2 caratteri extra:"
 
@@ -36,6 +39,15 @@ msgstr "Conferma l'email"
 
 msgid "Confirm email:"
 msgstr "Conferma l'email:"
+
+msgid "Connect"
+msgstr "Connetti"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Connettiti a un'altra stanza su internet #ff0000ff(sperimentale)"
+
+msgid "Connect to server"
+msgstr "Connettiti al server"
 
 msgid "Connect to..."
 msgstr "Connettiti a..."
@@ -94,6 +106,9 @@ msgstr "Alta (Scura)"
 msgid "High Scores"
 msgstr "Punteggi migliori"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "Information"
 msgstr "Informazioni"
 
@@ -139,11 +154,20 @@ msgstr "Più informazioni"
 msgid "Online profile"
 msgstr "Profilo online"
 
+msgid "Port:"
+msgstr "Porta:"
+
+msgid "Refresh"
+msgstr "Aggiorna"
+
 msgid "Renderer: %s"
 msgstr "Qualità: %s"
 
 msgid "Score: %s"
 msgstr "Punteggio: %s"
+
+msgid "Searching for rooms..."
+msgstr "Cercando delle stanze..."
 
 msgid "Select level"
 msgstr "Scegli livello"
@@ -159,6 +183,9 @@ msgstr "Speed Run"
 
 msgid "The background is expensive to compute"
 msgstr "Lo sfondo è costoso da elaborare"
+
+msgid "The room expired"
+msgstr "La stanza è scaduta"
 
 msgid "Translations"
 msgstr "Traduzioni"

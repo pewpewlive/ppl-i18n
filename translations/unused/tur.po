@@ -10,6 +10,9 @@ msgstr "#ffff00ffDeneysel#ffffffff haritalar daha yayınlanmamış haritalardır
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffResmi#ffffffff haritalar benim (JF) tarafından yapılmış olup, sizin madalya kazanmanızı sağlar."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sDiğer oyuncular bekleniyor%s"
+
 msgid "2 extra characters:"
 msgstr "2 karakter daha:"
 
@@ -27,6 +30,15 @@ msgstr "Emaili doğrula"
 
 msgid "Confirm email:"
 msgstr "Emaili doğrula:"
+
+msgid "Connect"
+msgstr "Bağlan"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "İnternet aracılığıyla başka bir odaya bağlan #ff0000ff(deneysel)"
+
+msgid "Connect to server"
+msgstr "Sunucuya bağlan"
 
 msgid "Connect to..."
 msgstr "...'ya bağlan"
@@ -85,6 +97,9 @@ msgstr "Yüksek (Koyu)"
 msgid "High Scores"
 msgstr "Yüksek skorlar"
 
+msgid "IP:"
+msgstr "İP:"
+
 msgid "Information"
 msgstr "Bilgi"
 
@@ -130,11 +145,20 @@ msgstr "Daha fazla bilgi"
 msgid "Online profile"
 msgstr "Online profil"
 
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Refresh"
+msgstr "Yenile"
+
 msgid "Renderer: %s"
 msgstr "Gözletim şekli: %s"
 
 msgid "Score: %s"
 msgstr "Skor: %s"
+
+msgid "Searching for rooms..."
+msgstr "Odalar aranıyor..."
 
 msgid "Select level"
 msgstr "Harita seç"
@@ -153,6 +177,9 @@ msgstr "Speed Runlar"
 
 msgid "The background is expensive to compute"
 msgstr "Bu arka plan çok pahalı bir şeydir"
+
+msgid "The room expired"
+msgstr "Odanın süresi geçti"
 
 msgid "Translations"
 msgstr "Çeviriler"

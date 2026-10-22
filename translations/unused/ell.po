@@ -10,6 +10,9 @@ msgstr "#ffff00ffΠειραματικά#ffffffff επίπεδα είναι αυ�
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "#ffff00ffΕπίσημα#ffffffff επίπεδα είναι φτιαγμένα από εμένα (JF), και σου δίνουν μετάλλια."
 
+msgid "%sWaiting for other player%s"
+msgstr "%sΠεριμένετε για παίκτες%s"
+
 msgid "About the levels"
 msgstr "Σχετικά με τα επίπεδα"
 
@@ -30,6 +33,15 @@ msgstr "Επιβεβαιώστε email"
 
 msgid "Confirm email:"
 msgstr "Επιβεβαίωση email:"
+
+msgid "Connect"
+msgstr "Συνδεθείτε"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Συνδεθείτε σε ένα άλλο δωμάτιο μέσω το Διαδίκτυο #ff0000ff(πειραματικό)"
+
+msgid "Connect to server"
+msgstr "Συνδεθείτε σε σέρβερ"
 
 msgid "Creating room"
 msgstr "Φτιάχνεται δωμάτιο"
@@ -67,6 +79,9 @@ msgstr "Υψηλό (Σκοτεινό)"
 msgid "High Scores"
 msgstr "Yψηλά Σκόρ"
 
+msgid "IP:"
+msgstr "IP:"
+
 msgid "Information"
 msgstr "Πληροφορίες"
 
@@ -85,11 +100,23 @@ msgstr "Περισσότερες πληροφορίες στο github.com/jyaif/
 msgid "Online profile"
 msgstr "Online προφίλ"
 
+msgid "Port:"
+msgstr "Πορτ:"
+
+msgid "Refresh"
+msgstr "Φρεσκάρετε"
+
 msgid "Score: %s"
 msgstr "Σκόρ: %s"
 
+msgid "Searching for rooms..."
+msgstr "Ψάχνοντας για δωμάτια..."
+
 msgid "Speed Runs"
 msgstr "Γρήγορα ρεκόρ"
+
+msgid "The room expired"
+msgstr "Το δωμάτιο έληξε"
 
 msgid "UI colors"
 msgstr "UI χρώματα"

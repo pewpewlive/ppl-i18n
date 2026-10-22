@@ -10,6 +10,9 @@ msgstr "Nivelele #ffff00ffexperimentale#ffffffff sunt nivele care nu au fost lan
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
 msgstr "Nivelele #ffff00ffofficiale#ffffffff sunt făcute de mine (JF), și te lasă să primești medalii"
 
+msgid "%sWaiting for other player%s"
+msgstr "%sSe așteaptă un alt jucător%s"
+
 msgid "About the levels"
 msgstr "Despre nivele"
 
@@ -24,6 +27,15 @@ msgstr "Confirmă-ți emailul"
 
 msgid "Confirm email:"
 msgstr "Confirmă-ți emailul:"
+
+msgid "Connect"
+msgstr "Conectează-te"
+
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "Conectează-te la o altă cameră folosind internetul #ff0000ff(experimental)"
+
+msgid "Connect to server"
+msgstr "Conectează-te la server"
 
 msgid "Creating room"
 msgstr "Se crează camera"
@@ -54,6 +66,9 @@ msgstr "Mare (Întunecat)"
 
 msgid "High Scores"
 msgstr "Scoruri Mari"
+
+msgid "IP:"
+msgstr "IP:"
 
 msgid "Joysticks"
 msgstr "Joystick-uri"
@@ -88,17 +103,29 @@ msgstr "Mai multe informații la github.com/jyaif/ppl-utils"
 msgid "Online profile"
 msgstr "Profilul online"
 
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Refresh"
+msgstr "Reîncarcă"
+
 msgid "Renderer: %s"
 msgstr "Renderer: %s"
 
 msgid "Score: %s"
 msgstr "Scor: %s"
 
+msgid "Searching for rooms..."
+msgstr "Se caută camere..."
+
 msgid "Speed Runs"
 msgstr "Speedrun-uri"
 
 msgid "The background is expensive to compute"
 msgstr "Fundalul este scump de arătat"
+
+msgid "The room expired"
+msgstr "Camera a expirat"
 
 msgid "Ultra low 16x"
 msgstr "Foarte mic 16x"
