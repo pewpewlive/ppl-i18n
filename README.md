@@ -57,11 +57,11 @@ the feasibility.
 * 🇦🇩 [Catalan](/translations/cat.po) (96% complete; 19 remaining)
 * 🇫🇷 [French](/translations/fra.po) (96% complete; 19 remaining)
 * 🇭🇺 [Hungarian](/translations/hun.po) (96% complete; 19 remaining)
-* 🇱🇹 [Lithuanian](/translations/lit.po) (96% complete; 19 remaining)
 * 🇧🇷 [Portuguese](/translations/por.po) (96% complete; 19 remaining)
 * 🇷🇺 [Russian](/translations/rus.po) (96% complete; 19 remaining)
 * 🇻🇳 [Vietnamese](/translations/vie.po) (96% complete; 19 remaining)
 * 🥰 [UwU](/translations/uwu.po) (96% complete; 19 remaining)
+* 🇱🇹 [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * 🇪🇸 [Spanish](/translations/spa.po) (100% complete! 🎉)
 
-> Report generated on Oct 22 2026 20:30:43 UTC
+> Report generated on Oct 22 2026 20:47:11 UTC
