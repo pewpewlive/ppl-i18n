@@ -59,9 +59,9 @@ the feasibility.
 * 🇭🇺 [Hungarian](/translations/hun.po) (96% complete; 19 remaining)
 * 🇧🇷 [Portuguese](/translations/por.po) (96% complete; 19 remaining)
 * 🇻🇳 [Vietnamese](/translations/vie.po) (96% complete; 19 remaining)
-* 🥰 [UwU](/translations/uwu.po) (96% complete; 19 remaining)
 * 🇱🇹 [Lithuanian](/translations/lit.po) (100% complete! 🎉)
 * 🇷🇺 [Russian](/translations/rus.po) (100% complete! 🎉)
 * 🇪🇸 [Spanish](/translations/spa.po) (100% complete! 🎉)
+* 🥰 [UwU](/translations/uwu.po) (100% complete! 🎉)
 
-> Report generated on Oct 23 2026 11:44:32 UTC
+> Report generated on Oct 23 2026 11:47:45 UTC
