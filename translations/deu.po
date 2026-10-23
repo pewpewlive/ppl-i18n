@@ -40,7 +40,7 @@ msgstr ""
 #. The string shown when a Blitz round is finished
 #: /client/application/pewpewlive/blitz/blitz_ui.cpp:293
 msgid "Round finished!"
-msgstr ""
+msgstr "Runde beended!"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -113,7 +113,7 @@ msgstr "Wähle deine eigene Schwierigkeit"
 #. Short description of the "eskiv" game mode
 #: /client/application/pewpewlive/levels/game_levels.cpp:144
 msgid "Dodge everything and you'll be OK"
-msgstr "Einfach allem ausweichen und es sollte OK sein"
+msgstr "Einfach alles ausweichen und du solltest OK sein"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/pewpewlive/levels/game_levels.cpp:146
@@ -158,7 +158,7 @@ msgstr "\"Dieses Level ist ein Witz, oder?\" - ein Tester"
 #. Short description of the "ceasefire" game mode
 #: /client/application/pewpewlive/levels/game_levels.cpp:212
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Evolution von Pacifism"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/pewpewlive/levels/game_levels.cpp:230
@@ -231,17 +231,17 @@ msgstr "Erfolg freigeschaltet: %s"
 #. Describes the rarity level of items. Rarity level of 0.
 #: /client/application/pewpewlive/player_data/player_unlocked_items.cpp:356
 msgid "Common"
-msgstr ""
+msgstr "Gewöhnlich"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: /client/application/pewpewlive/player_data/player_unlocked_items.cpp:358
 msgid "Uncommon"
-msgstr ""
+msgstr "Ungewöhnlich"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: /client/application/pewpewlive/player_data/player_unlocked_items.cpp:360
 msgid "Rare"
-msgstr ""
+msgstr "Selten"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: /client/application/pewpewlive/player_data/player_unlocked_items.cpp:362
@@ -251,17 +251,17 @@ msgstr ""
 #. Describes the rarity level of items. Rarity level of 4.
 #: /client/application/pewpewlive/player_data/player_unlocked_items.cpp:364
 msgid "Legendary"
-msgstr ""
+msgstr "Legendare"
 
 #. Describes the rarity level of items. Rarity level of 5.
 #: /client/application/pewpewlive/player_data/player_unlocked_items.cpp:366
 msgid "Mythical"
-msgstr ""
+msgstr "Mythisch"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: /client/application/pewpewlive/player_data/player_unlocked_items.cpp:368
 msgid "Transcendent"
-msgstr ""
+msgstr "Transzendent"
 
 #. Describes a type of unlockable item
 #: /client/application/pewpewlive/player_data/player_unlocked_items.h:30
@@ -296,7 +296,7 @@ msgstr ""
 #. Describes a type of unlockable item
 #: /client/application/pewpewlive/player_data/player_unlocked_items.h:42
 msgid "UI Color"
-msgstr ""
+msgstr "UI Farbe"
 
 #. Describes a type of unlockable item. The "Mace Shaft" is the shaft that
 #. links the Mace head to the player's ship
@@ -316,7 +316,7 @@ msgstr ""
 
 #: /client/application/pewpewlive/player_data/sync/data_synchronizer.cpp:211
 msgid "You've been signed out."
-msgstr "Du bist nicht mehr eingeloggt."
+msgstr "Du wurdest ausgelogged."
 
 #: /client/application/pewpewlive/player_data/sync/synchronization_steps.cpp:78
 msgid "Failed to download backup data"
@@ -353,28 +353,28 @@ msgstr ""
 #. by an enemy name. For example: "Destroy 200 Motherships"
 #: /client/application/pewpewlive/quests/quests.cpp:114
 msgid "Destroy %1$s %2$s"
-msgstr ""
+msgstr "Zerstöre %1$s %2$s"
 
 #. The description of the quest that involves reaching a certain score.
 #. The %s is replaced by a number, for example:
 #. "Reach the score of 10000"
 #: /client/application/pewpewlive/quests/quests.cpp:168
 msgid "Reach %s in one game"
-msgstr ""
+msgstr "Erreiche %s in ein spiel"
 
 #. The description of the quest that involves surviving for a certain
 #. duration. The %s is replaced by a duration, for example: "Survive for 3
 #. minutes" "Survive for 40 seconds"
 #: /client/application/pewpewlive/quests/quests.cpp:210
 msgid "Survive for %s in one game"
-msgstr ""
+msgstr "Überlebe für %s in ein spiel"
 
 #. The description of the quest that involves playing accumulating a certain
 #. amount of pointonium. The %s is replaced by an amount, for example: "Farm
 #. 10000 points from pointonum"
 #: /client/application/pewpewlive/quests/quests.cpp:256
 msgid "Farm %s points from pointonium"
-msgstr ""
+msgstr "Farme %s punkte mit pointonium"
 
 #. The description of the quest that involves playing a certain duration.
 #. The %s is replaced by a duration, for example:
@@ -382,14 +382,14 @@ msgstr ""
 #. "Play for 40 seconds"
 #: /client/application/pewpewlive/quests/quests.cpp:302
 msgid "Play for %s"
-msgstr ""
+msgstr "Spiele für %s"
 
 #. The description of the quest that involves playing multiplayer for a
 #. certain duration. The %s is replaced by a duration, for example: "Play
 #. multiplayer for 3 minutes" "Play multiplayer for 40 seconds"
 #: /client/application/pewpewlive/quests/quests.cpp:340
 msgid "Play multiplayer for %s"
-msgstr ""
+msgstr "Spiel mehrspieler für %s"
 
 #: /client/application/pewpewlive/score/add_score.cpp:16
 msgid "3p/4p multiplayer is experimental; Not saving score"
@@ -397,7 +397,7 @@ msgstr ""
 
 #: /client/application/pewpewlive/state/game_network_message_parser.cpp:58
 msgid "%s left the game"
-msgstr "%s hat die Partie verlassen"
+msgstr "%s hat das spiel verlassen"
 
 #: /client/application/pewpewlive/state/game_state.cpp:546
 msgid "N/A"
@@ -468,7 +468,7 @@ msgstr ""
 #. Shown when the player successfully achieved an objective
 #: /client/application/pewpewlive/ui/game_over_ui.cpp:99
 msgid "Success!"
-msgstr ""
+msgstr "Erfolgreich!"
 
 #: /client/application/pewpewlive/ui/game_over_ui.cpp:114
 msgid "Exit"
@@ -658,7 +658,7 @@ msgstr "Du musst dich einloggen, um Kommentare zu sehen"
 #. a Blitz while not signed-in.
 #: /client/application/pewpewlive/ui/screens/accounts/screen_signed_out.cpp:109
 msgid "You need to be signed-in to join Blitzes"
-msgstr ""
+msgstr "Du musst dich einloggen, um Blitzes zu beitreten"
 
 #: /client/application/pewpewlive/ui/screens/accounts/screen_signed_out.cpp:121
 msgid "Your account"
@@ -752,7 +752,7 @@ msgstr ""
 #. stars and medals shown are *not* specific to an era.
 #: /client/application/pewpewlive/ui/screens/screen_career.cpp:90
 msgid "All time stars and medals"
-msgstr ""
+msgstr "Alle Zeit Sterne und Medaillen"
 
 #. The title of the screen that shows which level the player is at
 #: /client/application/pewpewlive/ui/screens/screen_career.cpp:137
@@ -777,7 +777,7 @@ msgstr ""
 #. stars and medals shown are *not* specific to an era.
 #: /client/application/pewpewlive/ui/screens/screen_career.cpp:219
 msgid "Achievements"
-msgstr ""
+msgstr "Erfolge"
 
 #: /client/application/pewpewlive/ui/screens/screen_career.cpp:221
 msgid "Extra XP"
@@ -830,12 +830,12 @@ msgstr "Hoch"
 #. The name of the graphics configuration that enables all the graphical effects.
 #: /client/application/pewpewlive/ui/screens/screen_configure_graphics.cpp:64
 msgid "Highest"
-msgstr ""
+msgstr "Höhsten"
 
 #. Title of the screen where graphics are configured.
 #: /client/application/pewpewlive/ui/screens/screen_configure_graphics.cpp:103
 msgid "Configure graphics"
-msgstr ""
+msgstr "Grafik einstellen"
 
 #: /client/application/pewpewlive/ui/screens/screen_configure_graphics.cpp:122
 msgid "off"
@@ -851,7 +851,7 @@ msgstr ""
 
 #: /client/application/pewpewlive/ui/screens/screen_configure_graphics.cpp:124
 msgid "advanced"
-msgstr ""
+msgstr "fortgeschritten"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/pewpewlive/ui/screens/screen_configure_graphics.cpp:131
