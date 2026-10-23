@@ -108,7 +108,7 @@ msgstr "Hat nichts mit \"Super Hexagon\" zu tun"
 #. Short description of the "hexagon" game mode
 #: /client/application/pewpewlive/levels/game_levels.cpp:126
 msgid "Choose your own difficulty"
-msgstr "Du wählst deine eigene Schwierigkeit"
+msgstr "Wähle deine eigene Schwierigkeit"
 
 #. Short description of the "eskiv" game mode
 #: /client/application/pewpewlive/levels/game_levels.cpp:144
