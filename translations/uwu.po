@@ -308,7 +308,7 @@ msgstr "Mwace Shaft"
 #. the Wall Trail weapon closes and explodes.
 #: /client/application/pewpewlive/player_data/player_unlocked_items.h:48
 msgid "Wall Trail"
-msgstr ""
+msgstr "Wall Tail"
 
 #: /client/application/pewpewlive/player_data/sync/data_synchronizer.cpp:199
 msgid "Failed to download data"
@@ -393,7 +393,7 @@ msgstr "Pway with kittens for %s"
 
 #: /client/application/pewpewlive/score/add_score.cpp:16
 msgid "3p/4p multiplayer is experimental; Not saving score"
-msgstr ""
+msgstr "3p/4p multipwayer is expewimental; Not saving scowe :<"
 
 #: /client/application/pewpewlive/state/game_network_message_parser.cpp:58
 msgid "%s left the game"
@@ -868,13 +868,13 @@ msgstr "Lens diwt"
 #. produce lens flares.
 #: /client/application/pewpewlive/ui/screens/screen_configure_graphics.cpp:147
 msgid "Lens flare"
-msgstr ""
+msgstr "Lens flawe"
 
 #. The name of the setting category for choosing whether bright lights
 #. have star shaped streaks, like with a star filter on a camera.
 #: /client/application/pewpewlive/ui/screens/screen_configure_graphics.cpp:154
 msgid "Light streaks"
-msgstr ""
+msgstr "Light stweaks"
 
 #. The name of the setting that enables horizontal scanlines.
 #: /client/application/pewpewlive/ui/screens/screen_configure_graphics.cpp:162
@@ -955,7 +955,7 @@ msgstr "Backgwound hue"
 #. of the levels is deformed by explosions and shots.
 #: /client/application/pewpewlive/ui/screens/screen_configure_graphics.cpp:245
 msgid "Background deformation"
-msgstr ""
+msgstr "Backgwound defowmation"
 
 #. Name of the setting for when the game is shown in a window.
 #: /client/application/pewpewlive/ui/screens/screen_configure_graphics.cpp:257
@@ -1226,27 +1226,27 @@ msgstr "A smol blue-pwurple hexagon enemy that wanders all over~ Fires homing bu
 #. Description of the Shield bonus
 #: /client/application/pewpewlive/ui/screens/screen_encyclopedia.cpp:379
 msgid "Grants additional shield points."
-msgstr ""
+msgstr "Gives u mowe shiewd points to stay safe~"
 
 #. Description of the Weapon bonus
 #: /client/application/pewpewlive/ui/screens/screen_encyclopedia.cpp:389
 msgid "Grants a weapon upgrade upon pickup. Usually temporary."
-msgstr ""
+msgstr "Makes youw pew-pew stwongew when picked up~ Usuawwy tempowawy :P"
 
 #. Description of the Speed bonus
 #: /client/application/pewpewlive/ui/screens/screen_encyclopedia.cpp:412
 msgid "Grants a speed boost upon pickup. Usually temporary."
-msgstr ""
+msgstr "Makes u go zoom-zoom when grabbed~ Usuawwy tempowawy :3"
 
 #. Description of the Mace bonus
 #: /client/application/pewpewlive/ui/screens/screen_encyclopedia.cpp:422
 msgid "Grants a Mace upon pickup. Usually temporary."
-msgstr ""
+msgstr "Gives u a big spiky Mace when picked up~ Usuawwy tempowawy~"
 
 #. Description of the Entanglement Pad
 #: /client/application/pewpewlive/ui/screens/screen_encyclopedia.cpp:432
 msgid "Appears in groups in multiplayer. Occupy all pads to trigger a bonus."
-msgstr ""
+msgstr "Spawns in groups with fwiends~ Sit on aww the pads to get a pwize :3"
 
 #. Used in the Encyclopedia to show the health of a destroyable entity.
 #. The %s is replaced by a number or a set of numbers
@@ -1551,13 +1551,13 @@ msgstr "Cancel"
 #. The player is connecting.
 #: /client/application/pewpewlive/ui/screens/screen_multiplayer_lobby.cpp:290
 msgid "Connecting..."
-msgstr ""
+msgstr "Connecting..."
 
 #. In the multiplayer, describes the state that a player is in:
 #. The player is playing.
 #: /client/application/pewpewlive/ui/screens/screen_multiplayer_lobby.cpp:296
 msgid "Playing"
-msgstr ""
+msgstr "Pwaying"
 
 #: /client/application/pewpewlive/ui/screens/screen_multiplayer_lobby.cpp:350
 msgid "Waiting for other players..."
@@ -1647,7 +1647,7 @@ msgstr "Joining room"
 #. on a multiplayer room.
 #: /client/application/pewpewlive/ui/screens/screen_online_join_room.cpp:63
 msgid "Getting room informations"
-msgstr ""
+msgstr "Getting room infowmations"
 
 #. Error message shown when failing to join a multiplayer room
 #: /client/application/pewpewlive/ui/screens/screen_online_join_room.cpp:86
@@ -1666,11 +1666,11 @@ msgstr "The room does not exist anymowe"
 #. a multiplayer room.
 #: /client/application/pewpewlive/ui/screens/screen_online_join_room.cpp:119
 msgid "Starting UDP hole punching"
-msgstr ""
+msgstr "Stawting UDP hole punching"
 
 #: /client/application/pewpewlive/ui/screens/screen_online_join_room.cpp:139
 msgid "Failed to connect to host"
-msgstr ""
+msgstr "Failed to connect to host :<"
 
 #: /client/application/pewpewlive/ui/screens/screen_online_list_rooms.cpp:106
 msgid "Online multiplayer"
@@ -2293,7 +2293,7 @@ msgstr "release date: %s"
 #. number of bytes. For example: "48213 bytes"
 #: /client/application/pewpewlive/ui/screens/screen_view_level_info.cpp:45
 msgid "%s bytes"
-msgstr ""
+msgstr "%s bytes"
 
 #. Used if the level does not contain any information.
 #: /client/application/pewpewlive/ui/screens/screen_view_level_info.cpp:47
@@ -2473,11 +2473,11 @@ msgstr "XP"
 
 #: /client/application/pewpewlive/ui/views/top_status_bar_view.cpp:39
 msgid "Join room"
-msgstr ""
+msgstr "Join room"
 
 #: /client/application/pewpewlive/ui/views/top_status_bar_view.cpp:111
 msgid "Waiting for player"
-msgstr ""
+msgstr "Waiting for kitten"
 
 #. Shown after creating a multiplayer room, when players have
 #. connected to the room. The %s is replaced with a list of players,
@@ -2485,7 +2485,7 @@ msgstr ""
 #. Connected players: JF, SKPG
 #: /client/application/pewpewlive/ui/views/top_status_bar_view.cpp:143
 msgid "Connected players: %s"
-msgstr ""
+msgstr "Connected kittens: %s"
 
 #. The label shown in the button used to enter the World.
 #: /client/application/pewpewlive/ui/views/world_selector.cpp:178
